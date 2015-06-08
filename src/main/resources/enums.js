@@ -25,7 +25,7 @@ var MovesBefore = new Enum(
     'NoRaise',
     'Raise',
     'ReRaise',
-    'CAP'); // TODO check move ?!
+    'Cap');
 
 var Position = new Enum(
     'Button',
@@ -51,3 +51,79 @@ var Street = new Enum(
     'Turn',
     'River');
 
+//////////// Cards ////////////
+
+var allPairs = [
+    'AA-KK',
+    'QQ',
+    'JJ',
+    'TT',
+    '99',
+    '88-77',
+    '66-22'
+];
+
+var allAcesSuited = [
+    'AKs',
+    'AQs',
+    'AJs',
+    'ATs',
+    'A9s',
+    'A8s-A2s'
+];
+
+var aceTen = [
+    'AK',
+    'AQ',
+    'AJ',
+    'AT'
+];
+
+var kingTen = [
+    'KQs',
+    'KJs',
+    'KTs',
+    'KQ',
+    'KJ',
+    'KT'
+];
+
+var queenTen = [
+    'QJs',
+    'QTs',
+    'QJ',
+    'QT'
+];
+
+var jackTen = [
+    'JTs',
+    'JT'
+];
+
+var straightFlashDro = [
+    'T9s-65s',
+    'T8s-97s',
+    'XXs'
+];
+
+var allCards = [allPairs, allAcesSuited, aceTen, kingTen, queenTen, jackTen, straightFlashDro];
+
+var allEnums = [Stage, StackState, Street, Position, MovesBefore];
+
+for (var i in allCards) {
+    for (var j in allCards[i]) {
+        document.write(allCards[i][j] + '; ');
+    }
+    document.write('<hr>');
+}
+
+var checkbox = document.createElement("INPUT");
+checkbox.setAttribute("type", "checkbox");
+checkbox.setAttribute("name", "name");
+checkbox.setAttribute("value", "value");
+
+document.body.appendChild(checkbox);
+
+var checkbox = document.getElementsByName('name')[0];
+
+document.write(checkbox.getAttribute('value'));
