@@ -1,0 +1,2249 @@
+#Game No : 484290294
+***** 888poker Hand History for Game 484290294 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:16:25
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Nastya132 ( $1,500 )
+Seat 2: zKaBoom ( $1,500 )
+Seat 3: Murdoc287 ( $1,500 )
+Seat 4: casper0203 ( $1,500 )
+Seat 5: jonesjovanni ( $1,500 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: ada_e ( $1,500 )
+Seat 9: AldarHusein ( $1,500 )
+Seat 10: xitop753 ( $1,500 )
+Nastya132 posts small blind [$10]
+zKaBoom posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 7c ]
+Murdoc287 calls [$20]
+casper0203 folds
+jonesjovanni folds
+PapaShango19 folds
+ada_e calls [$20]
+AldarHusein calls [$20]
+xitop753 folds
+Nastya132 calls [$10]
+zKaBoom checks
+** Dealing flop ** [ 6h, 3s, Jd ]
+Nastya132 bets [$20]
+zKaBoom calls [$20]
+Murdoc287 raises [$40]
+ada_e folds
+AldarHusein calls [$40]
+Nastya132 calls [$20]
+zKaBoom calls [$20]
+** Dealing turn ** [ Kh ]
+Nastya132 bets [$80]
+zKaBoom calls [$80]
+Murdoc287 calls [$80]
+AldarHusein calls [$80]
+** Dealing river ** [ 9s ]
+Nastya132 checks
+zKaBoom checks
+Murdoc287 checks
+AldarHusein bets [$435]
+Nastya132 folds
+zKaBoom folds
+Murdoc287 folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $580 ]
+
+
+
+#Game No : 484291132
+***** 888poker Hand History for Game 484291132 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:19:58
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Nastya132 ( $1,360 )
+Seat 2: zKaBoom ( $1,360 )
+Seat 3: Murdoc287 ( $1,360 )
+Seat 4: casper0203 ( $1,500 )
+Seat 5: jonesjovanni ( $1,500 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: ada_e ( $1,480 )
+Seat 9: AldarHusein ( $1,940 )
+Seat 10: xitop753 ( $1,500 )
+zKaBoom posts small blind [$10]
+Murdoc287 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 9d ]
+casper0203 raises [$55]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 folds
+Nastya132 calls [$55]
+zKaBoom folds
+Murdoc287 raises [$70]
+casper0203 calls [$35]
+Nastya132 calls [$35]
+** Dealing flop ** [ 7c, Ts, Qh ]
+Murdoc287 bets [$1,270]
+casper0203 folds
+Nastya132 folds
+** Summary **
+Murdoc287 did not show his hand
+Murdoc287 collected [ $280 ]
+
+
+
+#Game No : 484291316
+***** 888poker Hand History for Game 484291316 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:20:47
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Nastya132 ( $1,270 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 3: Murdoc287 ( $1,550 )
+Seat 4: casper0203 ( $1,410 )
+Seat 5: jonesjovanni ( $1,500 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: ada_e ( $1,480 )
+Seat 9: AldarHusein ( $1,940 )
+Seat 10: xitop753 ( $1,500 )
+Murdoc287 posts small blind [$10]
+casper0203 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Ts ]
+jonesjovanni raises [$40]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 raises [$80]
+Nastya132 folds
+zKaBoom folds
+Murdoc287 raises [$290]
+casper0203 folds
+jonesjovanni folds
+xitop753 calls [$220]
+** Dealing flop ** [ 7h, Kd, 7d ]
+Murdoc287 bets [$1,250]
+xitop753 calls [$1,200]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 5h ]
+** Summary **
+Murdoc287 shows [ Jc, Qc ]
+xitop753 shows [ Ks, Kc ]
+xitop753 collected [ $3,060 ]
+
+
+
+#Game No : 484291540
+***** 888poker Hand History for Game 484291540 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:21:47
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Nastya132 ( $1,270 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 3: Murdoc287 ( $50 )
+Seat 4: casper0203 ( $1,390 )
+Seat 5: jonesjovanni ( $1,460 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: ada_e ( $1,480 )
+Seat 9: AldarHusein ( $1,940 )
+Seat 10: xitop753 ( $3,060 )
+casper0203 posts small blind [$10]
+jonesjovanni posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Kd ]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 calls [$20]
+Nastya132 folds
+zKaBoom folds
+Murdoc287 raises [$50]
+casper0203 calls [$40]
+jonesjovanni folds
+xitop753 calls [$30]
+** Dealing flop ** [ 9s, 3c, 8c ]
+casper0203 checks
+xitop753 checks
+** Dealing turn ** [ 9h ]
+casper0203 checks
+xitop753 bets [$20]
+casper0203 folds
+** Dealing river ** [ 6s ]
+** Summary **
+Murdoc287 shows [ 5h, Jd ]
+xitop753 shows [ Jh, Qc ]
+xitop753 collected [ $170 ]
+
+
+
+#Game No : 484291765
+***** 888poker Hand History for Game 484291765 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:22:48
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,270 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 4: casper0203 ( $1,340 )
+Seat 5: jonesjovanni ( $1,440 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: ada_e ( $1,480 )
+Seat 9: AldarHusein ( $1,940 )
+Seat 10: xitop753 ( $3,180 )
+jonesjovanni posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, As ]
+ada_e calls [$20]
+AldarHusein calls [$20]
+xitop753 folds
+Nastya132 folds
+zKaBoom folds
+casper0203 calls [$20]
+jonesjovanni calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ 9c, 4c, 7s ]
+jonesjovanni checks
+PapaShango19 checks
+ada_e checks
+AldarHusein checks
+casper0203 checks
+** Dealing turn ** [ Qc ]
+jonesjovanni bets [$40]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+casper0203 calls [$40]
+** Dealing river ** [ 6s ]
+jonesjovanni bets [$80]
+casper0203 calls [$80]
+** Summary **
+jonesjovanni shows [ 5s, Tc ]
+casper0203 shows [ Th, 8c ]
+casper0203 collected [ $340 ]
+
+
+
+#Game No : 484292140
+***** 888poker Hand History for Game 484292140 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:24:20
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,270 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 4: casper0203 ( $1,540 )
+Seat 5: jonesjovanni ( $1,300 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: ada_e ( $1,460 )
+Seat 9: AldarHusein ( $1,920 )
+Seat 10: xitop753 ( $3,180 )
+PapaShango19 posts small blind [$15]
+ada_e posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3h ]
+AldarHusein folds
+xitop753 folds
+Nastya132 folds
+zKaBoom folds
+casper0203 raises [$60]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+casper0203 did not show his hand
+casper0203 collected [ $75 ]
+
+
+
+#Game No : 484292219
+***** 888poker Hand History for Game 484292219 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:24:47
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,270 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 4: casper0203 ( $1,585 )
+Seat 5: jonesjovanni ( $1,300 )
+Seat 6: PapaShango19 ( $1,465 )
+Seat 7: ada_e ( $1,430 )
+Seat 9: AldarHusein ( $1,920 )
+Seat 10: xitop753 ( $3,180 )
+ada_e posts small blind [$15]
+AldarHusein posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Kd ]
+xitop753 folds
+Nastya132 folds
+zKaBoom folds
+casper0203 raises [$75]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+** Summary **
+casper0203 did not show his hand
+casper0203 collected [ $75 ]
+
+
+
+#Game No : 484292362
+***** 888poker Hand History for Game 484292362 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:25:26
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,270 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 4: casper0203 ( $1,630 )
+Seat 5: jonesjovanni ( $1,300 )
+Seat 6: PapaShango19 ( $1,465 )
+Seat 7: ada_e ( $1,415 )
+Seat 9: AldarHusein ( $1,890 )
+Seat 10: xitop753 ( $3,180 )
+AldarHusein posts small blind [$15]
+xitop753 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6c ]
+Nastya132 folds
+zKaBoom folds
+casper0203 calls [$30]
+jonesjovanni calls [$30]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 checks
+** Dealing flop ** [ 4d, 3s, 8s ]
+xitop753 checks
+casper0203 checks
+jonesjovanni bets [$30]
+xitop753 folds
+casper0203 calls [$30]
+** Dealing turn ** [ 5s ]
+casper0203 checks
+jonesjovanni bets [$60]
+casper0203 calls [$60]
+** Dealing river ** [ 7c ]
+casper0203 checks
+jonesjovanni bets [$90]
+casper0203 folds
+** Summary **
+jonesjovanni did not show his hand
+jonesjovanni collected [ $285 ]
+
+
+
+#Game No : 484292600
+***** 888poker Hand History for Game 484292600 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:26:41
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,270 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 4: casper0203 ( $1,510 )
+Seat 5: jonesjovanni ( $1,465 )
+Seat 6: PapaShango19 ( $1,465 )
+Seat 7: ada_e ( $1,415 )
+Seat 9: AldarHusein ( $1,875 )
+Seat 10: xitop753 ( $3,150 )
+xitop753 posts small blind [$15]
+Nastya132 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 7c ]
+zKaBoom folds
+casper0203 raises [$60]
+jonesjovanni calls [$60]
+PapaShango19 calls [$60]
+ada_e calls [$60]
+AldarHusein calls [$60]
+xitop753 folds
+Nastya132 calls [$30]
+** Dealing flop ** [ 5c, 3d, As ]
+Nastya132 bets [$30]
+casper0203 calls [$30]
+jonesjovanni raises [$60]
+PapaShango19 calls [$60]
+ada_e calls [$60]
+AldarHusein folds
+Nastya132 calls [$30]
+casper0203 calls [$30]
+** Dealing turn ** [ 8c ]
+Nastya132 checks
+casper0203 checks
+jonesjovanni bets [$90]
+PapaShango19 folds
+ada_e raises [$816]
+Nastya132 folds
+casper0203 folds
+jonesjovanni folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $855 ]
+
+
+
+#Game No : 484292874
+***** 888poker Hand History for Game 484292874 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:28:05
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,150 )
+Seat 2: zKaBoom ( $1,350 )
+Seat 4: casper0203 ( $1,390 )
+Seat 5: jonesjovanni ( $1,255 )
+Seat 6: PapaShango19 ( $1,345 )
+Seat 7: ada_e ( $2,060 )
+Seat 9: AldarHusein ( $1,815 )
+Seat 10: xitop753 ( $3,135 )
+Nastya132 posts small blind [$15]
+zKaBoom posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 5h ]
+casper0203 raises [$75]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 folds
+Nastya132 calls [$60]
+zKaBoom folds
+** Dealing flop ** [ Ad, 4h, 4d ]
+Nastya132 bets [$60]
+casper0203 calls [$60]
+** Dealing turn ** [ 4s ]
+Nastya132 bets [$90]
+casper0203 folds
+** Summary **
+Nastya132 did not show his hand
+Nastya132 collected [ $300 ]
+
+
+
+#Game No : 484293108
+***** 888poker Hand History for Game 484293108 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:29:09
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,315 )
+Seat 2: zKaBoom ( $1,320 )
+Seat 4: casper0203 ( $1,255 )
+Seat 5: jonesjovanni ( $1,255 )
+Seat 6: PapaShango19 ( $1,345 )
+Seat 7: ada_e ( $2,060 )
+Seat 9: AldarHusein ( $1,815 )
+Seat 10: xitop753 ( $3,135 )
+zKaBoom posts small blind [$15]
+casper0203 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Qd ]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein raises [$60]
+xitop753 calls [$60]
+Nastya132 calls [$60]
+zKaBoom folds
+casper0203 calls [$30]
+** Dealing flop ** [ 5s, 9s, Kc ]
+casper0203 checks
+AldarHusein checks
+xitop753 bets [$30]
+Nastya132 folds
+casper0203 folds
+AldarHusein raises [$60]
+xitop753 raises [$60]
+AldarHusein calls [$30]
+** Dealing turn ** [ Jc ]
+AldarHusein checks
+xitop753 bets [$90]
+AldarHusein calls [$90]
+** Dealing river ** [ 3h ]
+AldarHusein checks
+xitop753 bets [$120]
+AldarHusein calls [$120]
+** Summary **
+xitop753 shows [ 9c, 9h ]
+AldarHusein mucks [ Ks, Qs ]
+xitop753 collected [ $855 ]
+
+
+
+#Game No : 484293367
+***** 888poker Hand History for Game 484293367 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:30:25
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,255 )
+Seat 2: zKaBoom ( $1,305 )
+Seat 4: casper0203 ( $1,195 )
+Seat 5: jonesjovanni ( $1,255 )
+Seat 6: PapaShango19 ( $1,345 )
+Seat 7: ada_e ( $2,060 )
+Seat 9: AldarHusein ( $1,455 )
+Seat 10: xitop753 ( $3,630 )
+casper0203 posts small blind [$15]
+jonesjovanni posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5c ]
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$30]
+xitop753 folds
+Nastya132 folds
+zKaBoom folds
+casper0203 calls [$15]
+jonesjovanni raises [$30]
+AldarHusein calls [$30]
+casper0203 calls [$30]
+** Dealing flop ** [ 4h, Td, Kh ]
+casper0203 checks
+jonesjovanni bets [$60]
+AldarHusein folds
+casper0203 calls [$60]
+** Dealing turn ** [ Jc ]
+casper0203 checks
+jonesjovanni bets [$60]
+casper0203 calls [$60]
+** Dealing river ** [ 6c ]
+casper0203 bets [$210]
+jonesjovanni folds
+** Summary **
+casper0203 did not show his hand
+casper0203 collected [ $420 ]
+
+
+
+#Game No : 484293619
+***** 888poker Hand History for Game 484293619 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:31:37
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,255 )
+Seat 2: zKaBoom ( $1,305 )
+Seat 4: casper0203 ( $1,435 )
+Seat 5: jonesjovanni ( $1,075 )
+Seat 6: PapaShango19 ( $1,345 )
+Seat 7: ada_e ( $2,060 )
+Seat 9: AldarHusein ( $1,395 )
+Seat 10: xitop753 ( $3,630 )
+jonesjovanni posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 4h ]
+ada_e folds
+AldarHusein calls [$30]
+xitop753 calls [$30]
+Nastya132 calls [$30]
+zKaBoom calls [$30]
+casper0203 calls [$30]
+jonesjovanni calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 3s, Ac, Ad ]
+jonesjovanni checks
+PapaShango19 checks
+AldarHusein checks
+xitop753 bets [$60]
+Nastya132 folds
+zKaBoom folds
+casper0203 folds
+jonesjovanni folds
+PapaShango19 folds
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $210 ]
+
+
+
+#Game No : 484293828
+***** 888poker Hand History for Game 484293828 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:32:41
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,225 )
+Seat 2: zKaBoom ( $1,275 )
+Seat 4: casper0203 ( $1,405 )
+Seat 5: jonesjovanni ( $1,045 )
+Seat 6: PapaShango19 ( $1,315 )
+Seat 7: ada_e ( $2,060 )
+Seat 9: AldarHusein ( $1,365 )
+Seat 10: xitop753 ( $3,810 )
+PapaShango19 posts small blind [$25]
+ada_e posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Kh ]
+AldarHusein folds
+xitop753 folds
+Nastya132 folds
+zKaBoom folds
+casper0203 folds
+jonesjovanni calls [$50]
+PapaShango19 calls [$25]
+ada_e checks
+** Dealing flop ** [ Qs, Td, 9h ]
+PapaShango19 checks
+ada_e checks
+jonesjovanni bets [$100]
+PapaShango19 folds
+ada_e folds
+** Summary **
+jonesjovanni did not show his hand
+jonesjovanni collected [ $150 ]
+
+
+
+#Game No : 484294027
+***** 888poker Hand History for Game 484294027 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:33:42
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,225 )
+Seat 2: zKaBoom ( $1,275 )
+Seat 4: casper0203 ( $1,405 )
+Seat 5: jonesjovanni ( $1,145 )
+Seat 6: PapaShango19 ( $1,265 )
+Seat 7: ada_e ( $2,010 )
+Seat 9: AldarHusein ( $1,365 )
+Seat 10: xitop753 ( $3,810 )
+ada_e posts small blind [$25]
+AldarHusein posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6c ]
+xitop753 folds
+Nastya132 calls [$50]
+zKaBoom folds
+casper0203 calls [$50]
+jonesjovanni calls [$50]
+PapaShango19 folds
+ada_e calls [$25]
+AldarHusein checks
+** Dealing flop ** [ 7h, 8s, 7s ]
+ada_e checks
+AldarHusein checks
+Nastya132 checks
+casper0203 checks
+jonesjovanni checks
+** Dealing turn ** [ Ad ]
+ada_e checks
+AldarHusein checks
+Nastya132 bets [$50]
+casper0203 calls [$50]
+jonesjovanni folds
+ada_e folds
+AldarHusein folds
+** Dealing river ** [ 4h ]
+Nastya132 bets [$150]
+casper0203 raises [$300]
+Nastya132 folds
+** Summary **
+casper0203 did not show his hand
+casper0203 collected [ $650 ]
+
+
+
+#Game No : 484294289
+***** 888poker Hand History for Game 484294289 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:35:06
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $975 )
+Seat 2: zKaBoom ( $1,275 )
+Seat 4: casper0203 ( $1,805 )
+Seat 5: jonesjovanni ( $1,095 )
+Seat 6: PapaShango19 ( $1,265 )
+Seat 7: ada_e ( $1,960 )
+Seat 9: AldarHusein ( $1,315 )
+Seat 10: xitop753 ( $3,810 )
+AldarHusein posts small blind [$25]
+xitop753 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 3d ]
+Nastya132 folds
+zKaBoom folds
+casper0203 folds
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$25]
+xitop753 checks
+** Dealing flop ** [ 8h, Kh, Ac ]
+AldarHusein checks
+xitop753 bets [$100]
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $100 ]
+
+
+
+#Game No : 484294439
+***** 888poker Hand History for Game 484294439 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:35:50
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $975 )
+Seat 2: zKaBoom ( $1,275 )
+Seat 4: casper0203 ( $1,805 )
+Seat 5: jonesjovanni ( $1,095 )
+Seat 6: PapaShango19 ( $1,265 )
+Seat 7: ada_e ( $1,960 )
+Seat 9: AldarHusein ( $1,265 )
+Seat 10: xitop753 ( $3,860 )
+xitop753 posts small blind [$25]
+Nastya132 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ac ]
+zKaBoom folds
+casper0203 folds
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 folds
+** Summary **
+Nastya132 did not show his hand
+Nastya132 collected [ $75 ]
+
+
+
+#Game No : 484294553
+***** 888poker Hand History for Game 484294553 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:36:28
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $1,000 )
+Seat 2: zKaBoom ( $1,275 )
+Seat 4: casper0203 ( $1,805 )
+Seat 5: jonesjovanni ( $1,095 )
+Seat 6: PapaShango19 ( $1,265 )
+Seat 7: ada_e ( $1,960 )
+Seat 9: AldarHusein ( $1,265 )
+Seat 10: xitop753 ( $3,835 )
+Nastya132 posts small blind [$25]
+zKaBoom posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Js ]
+casper0203 folds
+jonesjovanni folds
+PapaShango19 raises [$200]
+ada_e folds
+AldarHusein folds
+xitop753 folds
+Nastya132 raises [$325]
+zKaBoom folds
+PapaShango19 calls [$150]
+** Dealing flop ** [ 4s, 7c, Kh ]
+Nastya132 bets [$375]
+PapaShango19 raises [$800]
+Nastya132 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,500 ]
+
+
+
+#Game No : 484294738
+***** 888poker Hand History for Game 484294738 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:37:25
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $275 )
+Seat 2: zKaBoom ( $1,225 )
+Seat 4: casper0203 ( $1,805 )
+Seat 5: jonesjovanni ( $1,095 )
+Seat 6: PapaShango19 ( $2,040 )
+Seat 7: ada_e ( $1,960 )
+Seat 9: AldarHusein ( $1,265 )
+Seat 10: xitop753 ( $3,835 )
+zKaBoom posts small blind [$25]
+casper0203 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 8s ]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 folds
+Nastya132 raises [$100]
+zKaBoom folds
+casper0203 calls [$50]
+** Dealing flop ** [ Qd, Qh, 7s ]
+casper0203 checks
+Nastya132 bets [$168]
+casper0203 folds
+** Summary **
+Nastya132 did not show his hand
+Nastya132 collected [ $225 ]
+
+
+
+#Game No : 484294941
+***** 888poker Hand History for Game 484294941 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:38:37
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Nastya132 ( $400 )
+Seat 2: zKaBoom ( $1,200 )
+Seat 4: casper0203 ( $1,705 )
+Seat 5: jonesjovanni ( $1,095 )
+Seat 6: PapaShango19 ( $2,040 )
+Seat 7: ada_e ( $1,960 )
+Seat 9: AldarHusein ( $1,265 )
+Seat 10: xitop753 ( $3,835 )
+casper0203 posts small blind [$25]
+jonesjovanni posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 7c ]
+PapaShango19 raises [$100]
+ada_e folds
+AldarHusein folds
+xitop753 folds
+Nastya132 calls [$100]
+zKaBoom calls [$100]
+casper0203 folds
+jonesjovanni folds
+** Dealing flop ** [ 7h, 4h, 3s ]
+PapaShango19 bets [$281]
+Nastya132 raises [$300]
+zKaBoom calls [$300]
+PapaShango19 calls [$19]
+** Dealing turn ** [ 2c ]
+PapaShango19 bets [$387]
+zKaBoom calls [$387]
+** Dealing river ** [ 8d ]
+PapaShango19 bets [$1,024]
+zKaBoom folds
+** Summary **
+Nastya132 shows [ 8s, 9h ]
+PapaShango19 shows [ 7d, 7c ]
+PapaShango19 collected [ $1,275 ]
+PapaShango19 collected [ $774 ]
+
+
+
+#Game No : 484295239
+***** 888poker Hand History for Game 484295239 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:40:17
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: zKaBoom ( $413 )
+Seat 4: casper0203 ( $1,680 )
+Seat 5: jonesjovanni ( $1,045 )
+Seat 6: PapaShango19 ( $3,302 )
+Seat 7: ada_e ( $1,960 )
+Seat 9: AldarHusein ( $1,265 )
+Seat 10: xitop753 ( $3,835 )
+jonesjovanni posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 3s ]
+ada_e folds
+AldarHusein raises [$131]
+xitop753 calls [$131]
+zKaBoom folds
+casper0203 folds
+jonesjovanni calls [$106]
+PapaShango19 folds
+** Dealing flop ** [ 4s, 3h, Ts ]
+jonesjovanni checks
+AldarHusein bets [$50]
+xitop753 raises [$100]
+jonesjovanni folds
+AldarHusein calls [$50]
+** Dealing turn ** [ Th ]
+AldarHusein checks
+xitop753 bets [$50]
+AldarHusein calls [$50]
+** Dealing river ** [ 2c ]
+AldarHusein checks
+xitop753 checks
+** Summary **
+AldarHusein shows [ Qh, Ah ]
+xitop753 shows [ 9d, 9h ]
+xitop753 collected [ $743 ]
+
+
+
+#Game No : 484295478
+***** 888poker Hand History for Game 484295478 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:41:36
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: zKaBoom ( $413 )
+Seat 4: casper0203 ( $1,680 )
+Seat 5: jonesjovanni ( $914 )
+Seat 6: PapaShango19 ( $3,252 )
+Seat 7: ada_e ( $1,960 )
+Seat 9: AldarHusein ( $984 )
+Seat 10: xitop753 ( $4,297 )
+PapaShango19 posts small blind [$50]
+ada_e posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 3s ]
+AldarHusein folds
+xitop753 folds
+zKaBoom folds
+casper0203 raises [$200]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+casper0203 did not show his hand
+casper0203 collected [ $250 ]
+
+
+
+#Game No : 484295650
+***** 888poker Hand History for Game 484295650 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:42:19
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: zKaBoom ( $413 )
+Seat 4: casper0203 ( $1,830 )
+Seat 5: jonesjovanni ( $914 )
+Seat 6: PapaShango19 ( $3,202 )
+Seat 7: ada_e ( $1,860 )
+Seat 9: AldarHusein ( $984 )
+Seat 10: xitop753 ( $4,297 )
+ada_e posts small blind [$50]
+AldarHusein posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Th ]
+xitop753 folds
+zKaBoom folds
+casper0203 folds
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $150 ]
+
+
+
+#Game No : 484295716
+***** 888poker Hand History for Game 484295716 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:42:42
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: zKaBoom ( $413 )
+Seat 4: casper0203 ( $1,830 )
+Seat 5: jonesjovanni ( $914 )
+Seat 6: PapaShango19 ( $3,202 )
+Seat 7: ada_e ( $1,810 )
+Seat 9: AldarHusein ( $1,034 )
+Seat 10: xitop753 ( $4,297 )
+AldarHusein posts small blind [$50]
+xitop753 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Js ]
+zKaBoom raises [$413]
+casper0203 folds
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$363]
+xitop753 folds
+** Dealing flop ** [ 2s, Qs, Kh ]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ 7h ]
+** Summary **
+zKaBoom shows [ 5s, Ac ]
+AldarHusein shows [ Qd, 7d ]
+AldarHusein collected [ $926 ]
+
+
+
+#Game No : 484295840
+***** 888poker Hand History for Game 484295840 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:43:23
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $1,830 )
+Seat 5: jonesjovanni ( $914 )
+Seat 6: PapaShango19 ( $3,202 )
+Seat 7: ada_e ( $1,810 )
+Seat 9: AldarHusein ( $1,547 )
+Seat 10: xitop753 ( $4,197 )
+xitop753 posts small blind [$50]
+casper0203 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 4d ]
+jonesjovanni calls [$100]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 folds
+casper0203 checks
+** Dealing flop ** [ Ks, Qh, 5h ]
+casper0203 checks
+jonesjovanni bets [$100]
+casper0203 calls [$100]
+** Dealing turn ** [ 2c ]
+casper0203 checks
+jonesjovanni bets [$200]
+casper0203 calls [$200]
+** Dealing river ** [ Ad ]
+casper0203 checks
+jonesjovanni bets [$100]
+casper0203 calls [$100]
+** Summary **
+jonesjovanni shows [ Jc, Kh ]
+casper0203 mucks [ Kc, 8s ]
+jonesjovanni collected [ $1,050 ]
+
+
+
+#Game No : 484295992
+***** 888poker Hand History for Game 484295992 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:44:10
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $1,330 )
+Seat 5: jonesjovanni ( $1,464 )
+Seat 6: PapaShango19 ( $3,202 )
+Seat 7: ada_e ( $1,810 )
+Seat 9: AldarHusein ( $1,547 )
+Seat 10: xitop753 ( $4,147 )
+casper0203 posts small blind [$50]
+jonesjovanni posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Kd ]
+PapaShango19 raises [$200]
+ada_e folds
+AldarHusein folds
+xitop753 folds
+casper0203 folds
+jonesjovanni calls [$100]
+** Dealing flop ** [ Qs, 3d, 2c ]
+jonesjovanni checks
+PapaShango19 bets [$325]
+jonesjovanni raises [$1,264]
+PapaShango19 calls [$939]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Ts ]
+** Summary **
+jonesjovanni shows [ Qc, 3c ]
+PapaShango19 shows [ Qd, Kd ]
+jonesjovanni collected [ $2,978 ]
+
+
+
+#Game No : 484296175
+***** 888poker Hand History for Game 484296175 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:44:59
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $1,280 )
+Seat 5: jonesjovanni ( $2,978 )
+Seat 6: PapaShango19 ( $1,738 )
+Seat 7: ada_e ( $1,810 )
+Seat 9: AldarHusein ( $1,547 )
+Seat 10: xitop753 ( $4,147 )
+jonesjovanni posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Jd ]
+ada_e raises [$250]
+AldarHusein calls [$250]
+xitop753 folds
+casper0203 calls [$250]
+jonesjovanni calls [$200]
+PapaShango19 calls [$150]
+** Dealing flop ** [ 5c, 8d, 9d ]
+jonesjovanni bets [$100]
+PapaShango19 folds
+ada_e raises [$1,560]
+AldarHusein folds
+casper0203 folds
+jonesjovanni folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $1,450 ]
+
+
+
+#Game No : 484296391
+***** 888poker Hand History for Game 484296391 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:46:02
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $1,030 )
+Seat 5: jonesjovanni ( $2,628 )
+Seat 6: PapaShango19 ( $1,488 )
+Seat 7: ada_e ( $2,910 )
+Seat 9: AldarHusein ( $1,297 )
+Seat 10: xitop753 ( $4,147 )
+PapaShango19 posts small blind [$50]
+ada_e posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Jh ]
+AldarHusein folds
+xitop753 folds
+casper0203 folds
+jonesjovanni calls [$100]
+PapaShango19 raises [$300]
+ada_e folds
+jonesjovanni folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 484296526
+***** 888poker Hand History for Game 484296526 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:46:38
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $1,030 )
+Seat 5: jonesjovanni ( $2,528 )
+Seat 6: PapaShango19 ( $1,688 )
+Seat 7: ada_e ( $2,810 )
+Seat 9: AldarHusein ( $1,297 )
+Seat 10: xitop753 ( $4,147 )
+ada_e posts small blind [$50]
+AldarHusein posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 8d ]
+xitop753 folds
+casper0203 raises [$200]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$100]
+** Dealing flop ** [ Kd, 7h, 3h ]
+AldarHusein checks
+casper0203 bets [$225]
+AldarHusein folds
+** Summary **
+casper0203 did not show his hand
+casper0203 collected [ $450 ]
+
+
+
+#Game No : 484296644
+***** 888poker Hand History for Game 484296644 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:47:09
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $1,280 )
+Seat 5: jonesjovanni ( $2,528 )
+Seat 6: PapaShango19 ( $1,688 )
+Seat 7: ada_e ( $2,760 )
+Seat 9: AldarHusein ( $1,097 )
+Seat 10: xitop753 ( $4,147 )
+AldarHusein posts small blind [$50]
+xitop753 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2c ]
+casper0203 calls [$100]
+jonesjovanni raises [$200]
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$150]
+xitop753 folds
+casper0203 calls [$100]
+** Dealing flop ** [ Th, 9c, 8d ]
+AldarHusein checks
+casper0203 checks
+jonesjovanni bets [$200]
+AldarHusein calls [$200]
+casper0203 calls [$200]
+** Dealing turn ** [ Kd ]
+AldarHusein bets [$697]
+casper0203 folds
+jonesjovanni calls [$697]
+** Dealing river ** [ Jd ]
+** Summary **
+jonesjovanni shows [ 9s, Js ]
+AldarHusein shows [ Jh, Kh ]
+AldarHusein collected [ $2,694 ]
+
+
+
+#Game No : 484296857
+***** 888poker Hand History for Game 484296857 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:48:23
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $880 )
+Seat 5: jonesjovanni ( $1,431 )
+Seat 6: PapaShango19 ( $1,688 )
+Seat 7: ada_e ( $2,760 )
+Seat 9: AldarHusein ( $2,694 )
+Seat 10: xitop753 ( $4,047 )
+xitop753 posts small blind [$75]
+casper0203 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 3c ]
+jonesjovanni folds
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$150]
+xitop753 folds
+casper0203 checks
+** Dealing flop ** [ 7c, 9h, Jh ]
+casper0203 checks
+AldarHusein bets [$150]
+casper0203 calls [$150]
+** Dealing turn ** [ Td ]
+casper0203 checks
+AldarHusein checks
+** Dealing river ** [ Qc ]
+casper0203 checks
+AldarHusein bets [$337]
+casper0203 folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $675 ]
+
+
+
+#Game No : 484297092
+***** 888poker Hand History for Game 484297092 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:49:21
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $580 )
+Seat 5: jonesjovanni ( $1,431 )
+Seat 6: PapaShango19 ( $1,688 )
+Seat 7: ada_e ( $2,760 )
+Seat 9: AldarHusein ( $3,069 )
+Seat 10: xitop753 ( $3,972 )
+casper0203 posts small blind [$75]
+jonesjovanni posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Js ]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+xitop753 raises [$300]
+casper0203 folds
+jonesjovanni folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $375 ]
+
+
+
+#Game No : 484297144
+***** 888poker Hand History for Game 484297144 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:49:39
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $505 )
+Seat 5: jonesjovanni ( $1,281 )
+Seat 6: PapaShango19 ( $1,688 )
+Seat 7: ada_e ( $2,760 )
+Seat 9: AldarHusein ( $3,069 )
+Seat 10: xitop753 ( $4,197 )
+jonesjovanni posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 4d ]
+ada_e folds
+AldarHusein folds
+xitop753 folds
+casper0203 folds
+jonesjovanni calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ 8d, Ks, 2s ]
+jonesjovanni checks
+PapaShango19 checks
+** Dealing turn ** [ 8h ]
+jonesjovanni bets [$150]
+PapaShango19 folds
+** Summary **
+jonesjovanni did not show his hand
+jonesjovanni collected [ $300 ]
+
+
+
+#Game No : 484297290
+***** 888poker Hand History for Game 484297290 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:50:20
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $505 )
+Seat 5: jonesjovanni ( $1,431 )
+Seat 6: PapaShango19 ( $1,538 )
+Seat 7: ada_e ( $2,760 )
+Seat 9: AldarHusein ( $3,069 )
+Seat 10: xitop753 ( $4,197 )
+PapaShango19 posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 3c ]
+AldarHusein folds
+xitop753 folds
+casper0203 folds
+jonesjovanni raises [$300]
+PapaShango19 folds
+ada_e calls [$150]
+** Dealing flop ** [ 2h, 6c, Kd ]
+ada_e checks
+jonesjovanni checks
+** Dealing turn ** [ 8c ]
+ada_e checks
+jonesjovanni bets [$300]
+ada_e calls [$300]
+** Dealing river ** [ Th ]
+ada_e checks
+jonesjovanni checks
+** Summary **
+ada_e shows [ Ad, 8h ]
+jonesjovanni mucks [ Qd, Ac ]
+ada_e collected [ $1,275 ]
+
+
+
+#Game No : 484297477
+***** 888poker Hand History for Game 484297477 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:51:15
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 4: casper0203 ( $505 )
+Seat 5: jonesjovanni ( $831 )
+Seat 6: PapaShango19 ( $1,463 )
+Seat 7: ada_e ( $3,435 )
+Seat 9: AldarHusein ( $3,069 )
+Seat 10: xitop753 ( $4,197 )
+ada_e posts small blind [$75]
+AldarHusein posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 3d ]
+xitop753 folds
+casper0203 raises [$505]
+jonesjovanni calls [$505]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+** Dealing flop ** [ 8c, 9c, 5c ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ Ks ]
+** Summary **
+casper0203 shows [ 7s, Qs ]
+jonesjovanni shows [ Kh, Jh ]
+jonesjovanni collected [ $1,235 ]
+
+
+
+#Game No : 484297617
+***** 888poker Hand History for Game 484297617 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:51:57
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 5: jonesjovanni ( $1,561 )
+Seat 6: PapaShango19 ( $1,463 )
+Seat 7: ada_e ( $3,360 )
+Seat 9: AldarHusein ( $2,919 )
+Seat 10: xitop753 ( $4,197 )
+AldarHusein posts small blind [$75]
+xitop753 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7h ]
+jonesjovanni calls [$150]
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$75]
+xitop753 checks
+** Dealing flop ** [ 6d, 4d, Ts ]
+AldarHusein checks
+xitop753 checks
+jonesjovanni checks
+** Dealing turn ** [ 6h ]
+AldarHusein bets [$150]
+xitop753 folds
+jonesjovanni calls [$150]
+** Dealing river ** [ Jc ]
+AldarHusein bets [$300]
+jonesjovanni calls [$300]
+** Summary **
+AldarHusein shows [ Th, Jh ]
+jonesjovanni mucks [ 3c, Ac ]
+AldarHusein collected [ $1,350 ]
+
+
+
+#Game No : 484297757
+***** 888poker Hand History for Game 484297757 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:52:39
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 5: jonesjovanni ( $961 )
+Seat 6: PapaShango19 ( $1,463 )
+Seat 7: ada_e ( $3,360 )
+Seat 9: AldarHusein ( $3,669 )
+Seat 10: xitop753 ( $4,047 )
+xitop753 posts small blind [$75]
+jonesjovanni posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2d ]
+PapaShango19 folds
+ada_e raises [$300]
+AldarHusein folds
+xitop753 folds
+jonesjovanni folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $375 ]
+
+
+
+#Game No : 484297826
+***** 888poker Hand History for Game 484297826 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:53:05
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 5: jonesjovanni ( $811 )
+Seat 6: PapaShango19 ( $1,463 )
+Seat 7: ada_e ( $3,585 )
+Seat 9: AldarHusein ( $3,669 )
+Seat 10: xitop753 ( $3,972 )
+jonesjovanni posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9d ]
+ada_e folds
+AldarHusein folds
+xitop753 folds
+jonesjovanni calls [$75]
+PapaShango19 raises [$1,313]
+jonesjovanni calls [$661]
+** Dealing flop ** [ 4s, 4d, 7h ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 2s ]
+** Summary **
+jonesjovanni shows [ Ac, 8s ]
+PapaShango19 shows [ As, 9d ]
+PapaShango19 collected [ $1,622 ]
+
+
+
+#Game No : 484297943
+***** 888poker Hand History for Game 484297943 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:53:45
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,274 )
+Seat 7: ada_e ( $3,585 )
+Seat 9: AldarHusein ( $3,669 )
+Seat 10: xitop753 ( $3,972 )
+PapaShango19 posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Th ]
+AldarHusein calls [$150]
+xitop753 folds
+PapaShango19 calls [$75]
+ada_e checks
+** Dealing flop ** [ 4s, 5d, 2d ]
+PapaShango19 checks
+ada_e checks
+AldarHusein bets [$225]
+PapaShango19 folds
+ada_e folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $450 ]
+
+
+
+#Game No : 484298038
+***** 888poker Hand History for Game 484298038 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:54:21
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,435 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $3,972 )
+ada_e posts small blind [$75]
+AldarHusein posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5s ]
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $225 ]
+
+
+
+#Game No : 484298092
+***** 888poker Hand History for Game 484298092 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:54:40
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,360 )
+Seat 9: AldarHusein ( $4,044 )
+Seat 10: xitop753 ( $3,972 )
+AldarHusein posts small blind [$75]
+xitop753 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 7h ]
+PapaShango19 folds
+ada_e raises [$300]
+AldarHusein folds
+xitop753 calls [$150]
+** Dealing flop ** [ 3c, 9h, 2c ]
+xitop753 checks
+ada_e bets [$438]
+xitop753 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $675 ]
+
+
+
+#Game No : 484298180
+***** 888poker Hand History for Game 484298180 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:55:09
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,735 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $3,672 )
+xitop753 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 3c ]
+ada_e raises [$300]
+AldarHusein folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $375 ]
+
+
+
+#Game No : 484298241
+***** 888poker Hand History for Game 484298241 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:55:35
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,974 )
+Seat 7: ada_e ( $3,960 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $3,597 )
+PapaShango19 posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Tc ]
+AldarHusein folds
+xitop753 folds
+PapaShango19 raises [$225]
+ada_e folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 484298293
+***** 888poker Hand History for Game 484298293 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:55:56
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,810 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $3,597 )
+ada_e posts small blind [$75]
+AldarHusein posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 6h ]
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $225 ]
+
+
+
+#Game No : 484298338
+***** 888poker Hand History for Game 484298338 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:56:11
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,735 )
+Seat 9: AldarHusein ( $4,044 )
+Seat 10: xitop753 ( $3,597 )
+AldarHusein posts small blind [$75]
+xitop753 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 3d ]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $225 ]
+
+
+
+#Game No : 484298381
+***** 888poker Hand History for Game 484298381 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:56:29
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,735 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $3,672 )
+xitop753 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4d ]
+ada_e raises [$400]
+AldarHusein folds
+xitop753 raises [$3,572]
+PapaShango19 folds
+ada_e folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $1,000 ]
+
+
+
+#Game No : 484298444
+***** 888poker Hand History for Game 484298444 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:56:56
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,924 )
+Seat 7: ada_e ( $3,335 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $4,272 )
+PapaShango19 posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 6c ]
+AldarHusein folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $300 ]
+
+
+
+#Game No : 484298482
+***** 888poker Hand History for Game 484298482 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:57:08
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $3,435 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $4,272 )
+ada_e posts small blind [$100]
+AldarHusein posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Td ]
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $300 ]
+
+
+
+#Game No : 484298517
+***** 888poker Hand History for Game 484298517 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:57:25
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $3,335 )
+Seat 9: AldarHusein ( $4,069 )
+Seat 10: xitop753 ( $4,272 )
+AldarHusein posts small blind [$100]
+xitop753 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 3d ]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $300 ]
+
+
+
+#Game No : 484298559
+***** 888poker Hand History for Game 484298559 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:57:40
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $3,335 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $4,372 )
+xitop753 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 5s ]
+ada_e raises [$400]
+AldarHusein folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $500 ]
+
+
+
+#Game No : 484298602
+***** 888poker Hand History for Game 484298602 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:57:56
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,624 )
+Seat 7: ada_e ( $3,635 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $4,272 )
+PapaShango19 posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 7s ]
+AldarHusein folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $300 ]
+
+
+
+#Game No : 484298671
+***** 888poker Hand History for Game 484298671 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:58:24
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,524 )
+Seat 7: ada_e ( $3,735 )
+Seat 9: AldarHusein ( $3,969 )
+Seat 10: xitop753 ( $4,272 )
+ada_e posts small blind [$100]
+AldarHusein posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 3d ]
+xitop753 folds
+PapaShango19 raises [$400]
+ada_e folds
+AldarHusein folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 484298729
+***** 888poker Hand History for Game 484298729 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:58:44
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $3,635 )
+Seat 9: AldarHusein ( $3,769 )
+Seat 10: xitop753 ( $4,272 )
+AldarHusein posts small blind [$100]
+xitop753 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 5d ]
+PapaShango19 folds
+ada_e raises [$400]
+AldarHusein calls [$300]
+xitop753 folds
+** Dealing flop ** [ 4h, 6s, Th ]
+AldarHusein checks
+ada_e bets [$650]
+AldarHusein folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $1,000 ]
+
+
+
+#Game No : 484298829
+***** 888poker Hand History for Game 484298829 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:59:27
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $4,235 )
+Seat 9: AldarHusein ( $3,369 )
+Seat 10: xitop753 ( $4,072 )
+xitop753 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 7h ]
+ada_e folds
+AldarHusein calls [$200]
+xitop753 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Th, 4d, 8d ]
+xitop753 bets [$200]
+PapaShango19 folds
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $600 ]
+
+
+
+#Game No : 484299016
+***** 888poker Hand History for Game 484299016 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:00:21
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,624 )
+Seat 7: ada_e ( $4,235 )
+Seat 9: AldarHusein ( $3,169 )
+Seat 10: xitop753 ( $4,472 )
+PapaShango19 posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 2s ]
+AldarHusein folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $300 ]
+
+
+
+#Game No : 484299116
+***** 888poker Hand History for Game 484299116 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:00:49
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,524 )
+Seat 7: ada_e ( $4,335 )
+Seat 9: AldarHusein ( $3,169 )
+Seat 10: xitop753 ( $4,472 )
+ada_e posts small blind [$100]
+AldarHusein posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Ad ]
+xitop753 folds
+PapaShango19 raises [$1,524]
+ada_e folds
+AldarHusein folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 484299206
+***** 888poker Hand History for Game 484299206 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:01:13
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $4,235 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,472 )
+AldarHusein posts small blind [$100]
+xitop753 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 5h ]
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$100]
+xitop753 checks
+** Dealing flop ** [ 4d, 4c, 8h ]
+AldarHusein checks
+xitop753 bets [$200]
+AldarHusein calls [$200]
+** Dealing turn ** [ 9c ]
+AldarHusein checks
+xitop753 checks
+** Dealing river ** [ 6h ]
+AldarHusein bets [$400]
+xitop753 folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $800 ]
+
+
+
+#Game No : 484299433
+***** 888poker Hand History for Game 484299433 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:02:09
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $4,235 )
+Seat 9: AldarHusein ( $3,369 )
+Seat 10: xitop753 ( $4,072 )
+xitop753 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 5d ]
+ada_e folds
+AldarHusein calls [$200]
+xitop753 raises [$300]
+PapaShango19 folds
+AldarHusein calls [$200]
+** Dealing flop ** [ 8c, 4d, 8h ]
+xitop753 bets [$400]
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $1,000 ]
+
+
+
+#Game No : 484299585
+***** 888poker Hand History for Game 484299585 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:02:52
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,624 )
+Seat 7: ada_e ( $4,235 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,672 )
+PapaShango19 posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Th ]
+AldarHusein folds
+xitop753 folds
+PapaShango19 raises [$1,524]
+ada_e folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $400 ]
+
+
+
+#Game No : 484299669
+***** 888poker Hand History for Game 484299669 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:03:15
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $4,035 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,672 )
+ada_e posts small blind [$100]
+AldarHusein posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 7s ]
+xitop753 folds
+PapaShango19 raises [$1,824]
+ada_e folds
+AldarHusein folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 484299755
+***** 888poker Hand History for Game 484299755 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:03:36
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,935 )
+Seat 9: AldarHusein ( $2,769 )
+Seat 10: xitop753 ( $4,672 )
+AldarHusein posts small blind [$100]
+xitop753 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Js ]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $300 ]
+
+
+
+#Game No : 484299811
+***** 888poker Hand History for Game 484299811 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:03:51
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,124 )
+Seat 7: ada_e ( $3,935 )
+Seat 9: AldarHusein ( $2,669 )
+Seat 10: xitop753 ( $4,772 )
+xitop753 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 4d ]
+ada_e folds
+AldarHusein raises [$400]
+xitop753 folds
+PapaShango19 folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $500 ]
+
+
+
+#Game No : 484299877
+***** 888poker Hand History for Game 484299877 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:04:07
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,924 )
+Seat 7: ada_e ( $3,935 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,672 )
+PapaShango19 posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 4s ]
+AldarHusein folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $300 ]
+
+
+
+#Game No : 484299954
+***** 888poker Hand History for Game 484299954 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:04:28
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $4,035 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,672 )
+ada_e posts small blind [$150]
+AldarHusein posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2c ]
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $450 ]
+
+
+
+#Game No : 484300023
+***** 888poker Hand History for Game 484300023 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:04:42
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $3,885 )
+Seat 9: AldarHusein ( $3,119 )
+Seat 10: xitop753 ( $4,672 )
+AldarHusein posts small blind [$150]
+xitop753 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 4c ]
+PapaShango19 folds
+ada_e folds
+AldarHusein folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $450 ]
+
+
+
+#Game No : 484300065
+***** 888poker Hand History for Game 484300065 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:04:54
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $3,885 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,822 )
+xitop753 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 4h ]
+ada_e folds
+AldarHusein folds
+xitop753 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 484300114
+***** 888poker Hand History for Game 484300114 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:05:05
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,974 )
+Seat 7: ada_e ( $3,885 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,672 )
+PapaShango19 posts small blind [$150]
+ada_e posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 4d ]
+AldarHusein folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $450 ]
+
+
+
+#Game No : 484300167
+***** 888poker Hand History for Game 484300167 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:05:18
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $4,035 )
+Seat 9: AldarHusein ( $2,969 )
+Seat 10: xitop753 ( $4,672 )
+ada_e posts small blind [$150]
+AldarHusein posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9h ]
+xitop753 folds
+PapaShango19 folds
+ada_e raises [$450]
+AldarHusein folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $600 ]
+
+
+
+#Game No : 484300232
+***** 888poker Hand History for Game 484300232 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:05:37
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $1,824 )
+Seat 7: ada_e ( $4,335 )
+Seat 9: AldarHusein ( $2,669 )
+Seat 10: xitop753 ( $4,672 )
+AldarHusein posts small blind [$150]
+xitop753 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Kd ]
+PapaShango19 raises [$1,824]
+ada_e folds
+AldarHusein folds
+xitop753 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $750 ]
+
+
+
+#Game No : 484300307
+***** 888poker Hand History for Game 484300307 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:05:53
+Tournament #63830669 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 6: PapaShango19 ( $2,274 )
+Seat 7: ada_e ( $4,335 )
+Seat 9: AldarHusein ( $2,519 )
+Seat 10: xitop753 ( $4,372 )
+xitop753 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 2c ]
+ada_e folds
+AldarHusein folds
+xitop753 raises [$450]
+PapaShango19 raises [$1,974]
+xitop753 calls [$1,674]
+** Dealing flop ** [ 6d, 5c, 9s ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Ks ]
+** Summary **
+PapaShango19 shows [ Ah, 2c ]
+xitop753 shows [ Kd, Ac ]
+xitop753 collected [ $4,548 ]
+
+
+

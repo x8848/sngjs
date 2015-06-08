@@ -1,0 +1,4302 @@
+#Game No : 646071418
+***** 888poker Hand History for Game 646071418 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 09:16:15
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $2,097 )
+Seat 2: mbelov13 ( $1,990 )
+Seat 4: 4kingbluff ( $1,980 )
+Seat 6: f1793 ( $1,933 )
+Seat 7: kalen77 ( $2,000 )
+Seat 9: theescro ( $2,000 )
+4kingbluff posts small blind [$10]
+f1793 posts big blind [$20]
+** Dealing down cards **
+kalen77 folds
+theescro folds
+lusa09 raises [$40]
+mbelov13 folds
+4kingbluff folds
+f1793 raises [$60]
+lusa09 calls [$40]
+** Dealing flop ** [ Ts, 9c, Tc ]
+f1793 checks
+lusa09 bets [$127]
+f1793 calls [$127]
+** Dealing turn ** [ Qc ]
+f1793 checks
+lusa09 checks
+** Dealing river ** [ 5c ]
+f1793 bets [$424]
+lusa09 folds
+** Summary **
+f1793 collected [ $424 ]
+
+
+
+#Game No : 646071495
+***** 888poker Hand History for Game 646071495 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 09:16:54
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,890 )
+Seat 2: mbelov13 ( $1,990 )
+Seat 4: 4kingbluff ( $1,970 )
+Seat 6: f1793 ( $2,150 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: theescro ( $2,000 )
+f1793 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+theescro calls [$20]
+lusa09 raises [$67]
+mbelov13 folds
+4kingbluff folds
+f1793 calls [$57]
+PapaShango19 folds
+theescro calls [$47]
+** Dealing flop ** [ Qc, 2d, 2c ]
+f1793 bets [$110]
+theescro folds
+lusa09 raises [$220]
+f1793 calls [$110]
+** Dealing turn ** [ Jh ]
+f1793 bets [$330]
+lusa09 calls [$330]
+** Dealing river ** [ 6d ]
+f1793 bets [$1,321]
+lusa09 folds
+** Summary **
+f1793 collected [ $1,321 ]
+
+
+
+#Game No : 646071588
+***** 888poker Hand History for Game 646071588 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 09:17:59
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,273 )
+Seat 2: mbelov13 ( $1,990 )
+Seat 4: slatabaron ( $2,000 )
+Seat 6: f1793 ( $2,854 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: theescro ( $1,933 )
+PapaShango19 posts small blind [$10]
+theescro posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 2d ]
+lusa09 folds
+mbelov13 folds
+slatabaron calls [$20]
+f1793 folds
+PapaShango19 calls [$10]
+theescro checks
+** Dealing flop ** [ Ad, 4s, Jh ]
+PapaShango19 checks
+theescro bets [$60]
+slatabaron folds
+PapaShango19 folds
+** Summary **
+theescro did not show his hand
+theescro collected [ $60 ]
+
+
+
+#Game No : 646071648
+***** 888poker Hand History for Game 646071648 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 09:18:39
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,273 )
+Seat 2: mbelov13 ( $1,990 )
+Seat 4: slatabaron ( $1,980 )
+Seat 6: f1793 ( $2,854 )
+Seat 7: PapaShango19 ( $1,960 )
+Seat 9: theescro ( $1,973 )
+theescro posts small blind [$10]
+lusa09 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 4s ]
+mbelov13 raises [$52]
+slatabaron folds
+f1793 calls [$52]
+PapaShango19 folds
+theescro calls [$42]
+lusa09 calls [$32]
+** Dealing flop ** [ 7h, 4d, Ts ]
+theescro checks
+lusa09 bets [$156]
+mbelov13 folds
+f1793 calls [$156]
+theescro folds
+** Dealing turn ** [ Jd ]
+lusa09 bets [$520]
+f1793 folds
+** Summary **
+lusa09 did not show his hand
+lusa09 collected [ $520 ]
+
+
+
+#Game No : 646071736
+***** 888poker Hand History for Game 646071736 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 09:19:44
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,585 )
+Seat 2: mbelov13 ( $1,938 )
+Seat 4: slatabaron ( $1,980 )
+Seat 6: f1793 ( $2,646 )
+Seat 7: PapaShango19 ( $1,960 )
+Seat 9: theescro ( $1,921 )
+lusa09 posts small blind [$10]
+mbelov13 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4c ]
+slatabaron folds
+f1793 folds
+PapaShango19 folds
+theescro folds
+lusa09 calls [$10]
+mbelov13 checks
+** Dealing flop ** [ Jc, 2s, 7h ]
+lusa09 checks
+mbelov13 checks
+** Dealing turn ** [ Jh ]
+lusa09 checks
+mbelov13 checks
+** Dealing river ** [ 3h ]
+lusa09 checks
+mbelov13 checks
+** Summary **
+lusa09 shows [ 8c, Qs ]
+mbelov13 shows [ 8s, Kh ]
+mbelov13 collected [ $40 ]
+
+
+
+#Game No : 646071805
+***** 888poker Hand History for Game 646071805 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 09:20:47
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,565 )
+Seat 2: mbelov13 ( $1,958 )
+Seat 4: slatabaron ( $1,980 )
+Seat 6: BuCket10s ( $2,000 )
+Seat 7: PapaShango19 ( $1,960 )
+Seat 9: theescro ( $1,921 )
+mbelov13 posts small blind [$10]
+slatabaron posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Ks ]
+BuCket10s folds
+PapaShango19 raises [$60]
+theescro folds
+lusa09 calls [$60]
+mbelov13 raises [$1,948]
+slatabaron folds
+PapaShango19 raises [$1,900]
+lusa09 folds
+** Dealing flop ** [ 6d, 7d, 7h ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ As ]
+** Summary **
+mbelov13 shows [ Tc, Th ]
+PapaShango19 shows [ Ah, Ks ]
+mbelov13 collected [ $3,996 ]
+
+
+
+#Game No : 646071880
+***** 888poker Hand History for Game 646071880 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 09:21:46
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: lusa09 ( $1,505 )
+Seat 2: mbelov13 ( $3,996 )
+Seat 4: slatabaron ( $1,960 )
+Seat 6: BuCket10s ( $2,000 )
+Seat 7: PapaShango19 ( $2 )
+slatabaron posts small blind [$10]
+BuCket10s posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 6s ]
+PapaShango19 folds
+lusa09 calls [$20]
+mbelov13 folds
+slatabaron calls [$10]
+BuCket10s checks
+** Dealing flop ** [ 4s, 9c, 5s ]
+slatabaron checks
+BuCket10s checks
+lusa09 checks
+** Dealing turn ** [ 6d ]
+slatabaron bets [$20]
+BuCket10s folds
+lusa09 calls [$20]
+** Dealing river ** [ Ad ]
+slatabaron checks
+lusa09 checks
+** Summary **
+slatabaron shows [ 8s, 7d ]
+lusa09 mucks [ 7c, Ac ]
+slatabaron collected [ $100 ]
+
+
+
+#Game No : 646072064
+***** 888poker Hand History for Game 646072064 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:23:58
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,465 )
+Seat 2: mbelov13 ( $3,996 )
+Seat 4: slatabaron ( $2,020 )
+Seat 6: BuCket10s ( $1,980 )
+Seat 7: PapaShango19 ( $2,002 )
+Seat 9: D4HLK ( $2,000 )
+BuCket10s posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Th ]
+D4HLK folds
+lusa09 calls [$30]
+mbelov13 folds
+slatabaron folds
+BuCket10s folds
+PapaShango19 checks
+** Dealing flop ** [ 8s, 4h, Ad ]
+PapaShango19 checks
+lusa09 bets [$30]
+PapaShango19 calls [$30]
+** Dealing turn ** [ Td ]
+PapaShango19 checks
+lusa09 checks
+** Dealing river ** [ 7d ]
+PapaShango19 bets [$30]
+lusa09 raises [$225]
+PapaShango19 calls [$195]
+** Summary **
+lusa09 shows [ 5s, 7h ]
+PapaShango19 shows [ 8h, Th ]
+PapaShango19 collected [ $585 ]
+
+
+
+#Game No : 646072143
+***** 888poker Hand History for Game 646072143 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:25:02
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: lusa09 ( $1,180 )
+Seat 4: slatabaron ( $2,020 )
+Seat 6: BuCket10s ( $1,965 )
+Seat 7: PapaShango19 ( $2,302 )
+Seat 9: D4HLK ( $2,000 )
+PapaShango19 posts small blind [$15]
+D4HLK posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 3c ]
+lusa09 calls [$30]
+slatabaron calls [$30]
+BuCket10s folds
+PapaShango19 calls [$15]
+D4HLK checks
+** Dealing flop ** [ 3h, Ks, Ah ]
+PapaShango19 checks
+D4HLK bets [$90]
+lusa09 calls [$90]
+slatabaron folds
+PapaShango19 folds
+** Dealing turn ** [ 6s ]
+D4HLK bets [$180]
+lusa09 folds
+** Summary **
+D4HLK did not show his hand
+D4HLK collected [ $300 ]
+
+
+
+#Game No : 646072240
+***** 888poker Hand History for Game 646072240 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:26:05
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: lusa09 ( $1,060 )
+Seat 4: slatabaron ( $1,990 )
+Seat 6: BuCket10s ( $1,965 )
+Seat 7: PapaShango19 ( $2,272 )
+Seat 9: D4HLK ( $2,180 )
+D4HLK posts small blind [$15]
+lusa09 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Qc ]
+slatabaron calls [$30]
+BuCket10s folds
+PapaShango19 folds
+D4HLK calls [$15]
+lusa09 checks
+** Dealing flop ** [ 5h, Qs, 4h ]
+D4HLK checks
+lusa09 checks
+slatabaron bets [$30]
+D4HLK calls [$30]
+lusa09 calls [$30]
+** Dealing turn ** [ 7d ]
+D4HLK checks
+lusa09 checks
+slatabaron bets [$90]
+D4HLK calls [$90]
+lusa09 calls [$90]
+** Dealing river ** [ 6h ]
+D4HLK checks
+lusa09 bets [$910]
+slatabaron calls [$910]
+D4HLK folds
+** Summary **
+lusa09 shows [ 3d, Ac ]
+slatabaron shows [ 3s, As ]
+lusa09 collected [ $1,135 ]
+slatabaron collected [ $1,135 ]
+
+
+
+#Game No : 646072421
+***** 888poker Hand History for Game 646072421 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:27:51
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,135 )
+Seat 2: dasssss9 ( $2,000 )
+Seat 4: slatabaron ( $2,065 )
+Seat 6: BuCket10s ( $1,965 )
+Seat 7: PapaShango19 ( $2,272 )
+Seat 9: D4HLK ( $2,030 )
+lusa09 posts small blind [$15]
+dasssss9 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Jd ]
+slatabaron folds
+BuCket10s folds
+PapaShango19 folds
+D4HLK raises [$78]
+lusa09 folds
+dasssss9 folds
+** Summary **
+D4HLK did not show his hand
+D4HLK collected [ $75 ]
+
+
+
+#Game No : 646072487
+***** 888poker Hand History for Game 646072487 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:28:40
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,120 )
+Seat 2: dasssss9 ( $1,970 )
+Seat 4: slatabaron ( $2,065 )
+Seat 6: BuCket10s ( $1,965 )
+Seat 7: PapaShango19 ( $2,272 )
+Seat 9: D4HLK ( $2,075 )
+dasssss9 posts small blind [$15]
+slatabaron posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Js ]
+BuCket10s folds
+PapaShango19 folds
+D4HLK folds
+lusa09 calls [$30]
+dasssss9 folds
+slatabaron checks
+** Dealing flop ** [ 9h, 9c, Kh ]
+slatabaron checks
+lusa09 bets [$75]
+slatabaron folds
+** Summary **
+lusa09 did not show his hand
+lusa09 collected [ $75 ]
+
+
+
+#Game No : 646072545
+***** 888poker Hand History for Game 646072545 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:29:12
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,165 )
+Seat 2: dasssss9 ( $1,955 )
+Seat 4: slatabaron ( $2,035 )
+Seat 6: BuCket10s ( $1,965 )
+Seat 7: PapaShango19 ( $2,272 )
+Seat 9: D4HLK ( $2,075 )
+slatabaron posts small blind [$15]
+BuCket10s posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 9c ]
+PapaShango19 folds
+D4HLK folds
+lusa09 folds
+dasssss9 folds
+slatabaron calls [$15]
+BuCket10s checks
+** Dealing flop ** [ 5h, Ah, Kc ]
+slatabaron bets [$30]
+BuCket10s folds
+** Summary **
+slatabaron did not show his hand
+slatabaron collected [ $60 ]
+
+
+
+#Game No : 646072578
+***** 888poker Hand History for Game 646072578 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:29:33
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,165 )
+Seat 2: dasssss9 ( $1,955 )
+Seat 4: slatabaron ( $2,065 )
+Seat 6: BuCket10s ( $1,935 )
+Seat 7: PapaShango19 ( $2,272 )
+Seat 9: D4HLK ( $2,075 )
+BuCket10s posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 5c ]
+D4HLK folds
+lusa09 calls [$30]
+dasssss9 folds
+slatabaron folds
+BuCket10s folds
+PapaShango19 checks
+** Dealing flop ** [ Tc, 6h, As ]
+PapaShango19 checks
+lusa09 checks
+** Dealing turn ** [ 6c ]
+PapaShango19 checks
+lusa09 bets [$75]
+PapaShango19 folds
+** Summary **
+lusa09 did not show his hand
+lusa09 collected [ $75 ]
+
+
+
+#Game No : 646072650
+***** 888poker Hand History for Game 646072650 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:30:17
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: lusa09 ( $1,210 )
+Seat 2: dasssss9 ( $1,955 )
+Seat 4: slatabaron ( $2,065 )
+Seat 6: BuCket10s ( $1,920 )
+Seat 7: PapaShango19 ( $2,242 )
+Seat 9: D4HLK ( $2,075 )
+PapaShango19 posts small blind [$15]
+D4HLK posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 7d ]
+lusa09 folds
+dasssss9 raises [$90]
+slatabaron folds
+BuCket10s folds
+PapaShango19 folds
+D4HLK calls [$60]
+** Dealing flop ** [ Th, Ac, 8d ]
+D4HLK checks
+dasssss9 bets [$90]
+D4HLK calls [$90]
+** Dealing turn ** [ 8c ]
+D4HLK checks
+dasssss9 checks
+** Dealing river ** [ Ad ]
+D4HLK bets [$150]
+dasssss9 folds
+** Summary **
+D4HLK did not show his hand
+D4HLK collected [ $375 ]
+
+
+
+#Game No : 646072773
+***** 888poker Hand History for Game 646072773 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 09:31:15
+Tournament #64409364 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Mukolka ( $2,000 )
+Seat 2: dasssss9 ( $1,775 )
+Seat 4: slatabaron ( $2,065 )
+Seat 6: BuCket10s ( $1,920 )
+Seat 7: PapaShango19 ( $2,227 )
+Seat 9: D4HLK ( $2,270 )
+D4HLK posts small blind [$15]
+Mukolka posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 4d ]
+dasssss9 folds
+slatabaron raises [$105]
+BuCket10s folds
+PapaShango19 folds
+D4HLK folds
+Mukolka calls [$75]
+** Dealing flop ** [ 2s, Ks, 6s ]
+Mukolka checks
+slatabaron bets [$168]
+Mukolka folds
+** Summary **
+slatabaron did not show his hand
+slatabaron collected [ $225 ]
+
+
+
+#Game No : 646072929
+***** 888poker Hand History for Game 646072929 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 09:32:43
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1:  ( $2,055 )
+Seat 2:  ( $3,840 )
+Seat 4:  ( $2,596 )
+Seat 7:  ( $2,000 )
+Seat 9:  ( $2,227 )
+ posts small blind [$25]
+ posts big blind [$50]
+** Dealing down cards **
+Dealt to  [ 4c, Ah ]
+ raises [$100]
+ folds
+ calls [$100]
+ calls [$75]
+ calls [$50]
+** Dealing flop ** [ 7d, 3h, 2c ]
+ checks
+ checks
+ bets [$400]
+ calls [$400]
+ folds
+ folds
+** Dealing turn ** [ 6s ]
+ bets [$1,200]
+ calls [$1,200]
+** Dealing river ** [ Td ]
+ bets [$1,800]
+ calls [$300]
+** Summary **
+ shows [ 6h, 9c ]
+ shows [ Ts, Ks ]
+ collected [ $4,200 ]
+
+
+
+#Game No : 646073025
+***** 888poker Hand History for Game 646073025 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 09:33:48
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $1,955 )
+Seat 2: kingpoker58 ( $1,840 )
+Seat 4: zweistein16 ( $2,596 )
+Seat 6: ruslanxxx79 ( $2,000 )
+Seat 7: fourtine ( $4,200 )
+Seat 9: PapaShango19 ( $2,127 )
+aroundasky posts small blind [$25]
+kingpoker58 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Jd ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$50]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 checks
+** Dealing flop ** [ 2c, 7h, 9s ]
+kingpoker58 checks
+fourtine checks
+** Dealing turn ** [ 8s ]
+kingpoker58 checks
+fourtine checks
+** Dealing river ** [ 5h ]
+kingpoker58 checks
+fourtine bets [$125]
+kingpoker58 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $125 ]
+
+
+
+#Game No : 646073121
+***** 888poker Hand History for Game 646073121 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 09:34:50
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $1,930 )
+Seat 2: kingpoker58 ( $1,790 )
+Seat 4: zweistein16 ( $2,596 )
+Seat 6: ruslanxxx79 ( $2,000 )
+Seat 7: fourtine ( $4,275 )
+Seat 9: PapaShango19 ( $2,127 )
+kingpoker58 posts small blind [$25]
+zweistein16 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ts ]
+ruslanxxx79 folds
+fourtine calls [$50]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$25]
+zweistein16 checks
+** Dealing flop ** [ 6s, Kd, Qc ]
+kingpoker58 checks
+zweistein16 checks
+fourtine checks
+** Dealing turn ** [ 6d ]
+kingpoker58 bets [$112]
+zweistein16 folds
+fourtine calls [$112]
+** Dealing river ** [ 4h ]
+kingpoker58 bets [$374]
+fourtine raises [$748]
+kingpoker58 calls [$374]
+** Summary **
+fourtine shows [ 4c, 4d ]
+kingpoker58 mucks [ Qh, 7d ]
+fourtine collected [ $1,870 ]
+
+
+
+#Game No : 646073200
+***** 888poker Hand History for Game 646073200 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 09:35:55
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $1,930 )
+Seat 2: kingpoker58 ( $880 )
+Seat 4: zweistein16 ( $2,546 )
+Seat 6: ruslanxxx79 ( $2,000 )
+Seat 7: fourtine ( $5,235 )
+Seat 9: PapaShango19 ( $2,127 )
+zweistein16 posts small blind [$25]
+ruslanxxx79 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Jd ]
+fourtine calls [$50]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$50]
+zweistein16 folds
+ruslanxxx79 checks
+** Dealing flop ** [ 2h, 2s, Ad ]
+ruslanxxx79 checks
+fourtine checks
+kingpoker58 checks
+** Dealing turn ** [ 5s ]
+ruslanxxx79 checks
+fourtine checks
+kingpoker58 checks
+** Dealing river ** [ 2d ]
+ruslanxxx79 checks
+fourtine checks
+kingpoker58 checks
+** Summary **
+ruslanxxx79 shows [ 7d, 9c ]
+fourtine shows [ Jh, 8d ]
+kingpoker58 shows [ Kh, 7h ]
+kingpoker58 collected [ $175 ]
+
+
+
+#Game No : 646073288
+***** 888poker Hand History for Game 646073288 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 09:36:56
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $1,930 )
+Seat 2: kingpoker58 ( $1,005 )
+Seat 4: zweistein16 ( $2,521 )
+Seat 6: ruslanxxx79 ( $1,950 )
+Seat 7: fourtine ( $5,185 )
+Seat 9: PapaShango19 ( $2,127 )
+ruslanxxx79 posts small blind [$25]
+fourtine posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 4c ]
+PapaShango19 calls [$50]
+aroundasky folds
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 calls [$25]
+fourtine checks
+** Dealing flop ** [ 6s, Kd, 9s ]
+ruslanxxx79 checks
+fourtine checks
+PapaShango19 checks
+** Dealing turn ** [ 8c ]
+ruslanxxx79 checks
+fourtine checks
+PapaShango19 checks
+** Dealing river ** [ Tc ]
+ruslanxxx79 bets [$50]
+fourtine calls [$50]
+PapaShango19 folds
+** Summary **
+ruslanxxx79 shows [ Th, 3s ]
+fourtine mucks [ Jc, 6c ]
+ruslanxxx79 collected [ $250 ]
+
+
+
+#Game No : 646073367
+***** 888poker Hand History for Game 646073367 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 09:37:46
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,930 )
+Seat 2: kingpoker58 ( $1,005 )
+Seat 4: zweistein16 ( $2,521 )
+Seat 6: ruslanxxx79 ( $2,100 )
+Seat 7: fourtine ( $5,085 )
+Seat 9: PapaShango19 ( $2,077 )
+fourtine posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, As ]
+aroundasky folds
+kingpoker58 raises [$1,005]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 calls [$955]
+** Dealing flop ** [ 6s, Ad, 7c ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ Qs ]
+** Summary **
+kingpoker58 shows [ 3c, Ah ]
+PapaShango19 shows [ Qc, As ]
+PapaShango19 collected [ $2,035 ]
+
+
+
+#Game No : 646073429
+***** 888poker Hand History for Game 646073429 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 09:38:42
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,930 )
+Seat 2: kingpoker58 ( $2,000 )
+Seat 4: zweistein16 ( $2,521 )
+Seat 6: ruslanxxx79 ( $2,100 )
+Seat 7: fourtine ( $5,060 )
+Seat 9: PapaShango19 ( $3,107 )
+PapaShango19 posts small blind [$25]
+aroundasky posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 2h ]
+kingpoker58 calls [$50]
+zweistein16 folds
+ruslanxxx79 calls [$50]
+fourtine calls [$50]
+PapaShango19 calls [$25]
+aroundasky checks
+** Dealing flop ** [ 8d, Tc, 4h ]
+PapaShango19 checks
+aroundasky checks
+kingpoker58 checks
+ruslanxxx79 checks
+fourtine checks
+** Dealing turn ** [ 6h ]
+PapaShango19 checks
+aroundasky bets [$187]
+kingpoker58 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $250 ]
+
+
+
+#Game No : 646073541
+***** 888poker Hand History for Game 646073541 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:39:52
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,130 )
+Seat 2: kingpoker58 ( $1,950 )
+Seat 4: zweistein16 ( $2,521 )
+Seat 6: ruslanxxx79 ( $2,050 )
+Seat 7: fourtine ( $5,010 )
+Seat 9: PapaShango19 ( $3,057 )
+aroundasky posts small blind [$50]
+kingpoker58 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 5c ]
+zweistein16 calls [$100]
+ruslanxxx79 folds
+fourtine calls [$100]
+PapaShango19 folds
+aroundasky calls [$50]
+kingpoker58 checks
+** Dealing flop ** [ 2c, 8s, 2d ]
+aroundasky checks
+kingpoker58 checks
+zweistein16 bets [$200]
+fourtine folds
+aroundasky folds
+kingpoker58 folds
+** Summary **
+zweistein16 did not show his hand
+zweistein16 collected [ $400 ]
+
+
+
+#Game No : 646073636
+***** 888poker Hand History for Game 646073636 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:40:56
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,030 )
+Seat 2: kingpoker58 ( $1,850 )
+Seat 4: zweistein16 ( $2,821 )
+Seat 6: ruslanxxx79 ( $2,050 )
+Seat 7: fourtine ( $4,910 )
+Seat 9: PapaShango19 ( $3,057 )
+kingpoker58 posts small blind [$50]
+zweistein16 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Jc ]
+ruslanxxx79 folds
+fourtine calls [$100]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 raises [$1,800]
+zweistein16 folds
+fourtine calls [$1,750]
+** Dealing flop ** [ Ac, Qh, 8c ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 4s ]
+** Summary **
+kingpoker58 shows [ Kd, Kh ]
+fourtine shows [ 6d, Kc ]
+kingpoker58 collected [ $3,800 ]
+
+
+
+#Game No : 646073678
+***** 888poker Hand History for Game 646073678 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:41:33
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,030 )
+Seat 2: kingpoker58 ( $3,800 )
+Seat 4: zweistein16 ( $2,721 )
+Seat 6: ruslanxxx79 ( $2,050 )
+Seat 7: fourtine ( $3,060 )
+Seat 9: PapaShango19 ( $3,057 )
+zweistein16 posts small blind [$50]
+ruslanxxx79 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 2d ]
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$300]
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $250 ]
+
+
+
+#Game No : 646073743
+***** 888poker Hand History for Game 646073743 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:42:13
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,180 )
+Seat 2: kingpoker58 ( $3,800 )
+Seat 4: zweistein16 ( $2,671 )
+Seat 6: ruslanxxx79 ( $1,950 )
+Seat 7: fourtine ( $3,060 )
+Seat 9: PapaShango19 ( $3,057 )
+ruslanxxx79 posts small blind [$50]
+fourtine posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 7c ]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$100]
+zweistein16 folds
+ruslanxxx79 calls [$50]
+fourtine checks
+** Dealing flop ** [ Qs, Ac, Qh ]
+ruslanxxx79 checks
+fourtine checks
+kingpoker58 bets [$225]
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $300 ]
+
+
+
+#Game No : 646073803
+***** 888poker Hand History for Game 646073803 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:42:50
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,180 )
+Seat 2: kingpoker58 ( $4,000 )
+Seat 4: zweistein16 ( $2,671 )
+Seat 6: ruslanxxx79 ( $1,850 )
+Seat 7: fourtine ( $2,960 )
+Seat 9: PapaShango19 ( $3,057 )
+fourtine posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8h ]
+aroundasky folds
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ 7c, Tc, 3s ]
+fourtine checks
+PapaShango19 checks
+** Dealing turn ** [ Jd ]
+fourtine checks
+PapaShango19 checks
+** Dealing river ** [ 6s ]
+fourtine bets [$100]
+PapaShango19 calls [$100]
+** Summary **
+fourtine shows [ 9h, 6d ]
+PapaShango19 shows [ Jc, 8h ]
+PapaShango19 collected [ $400 ]
+
+
+
+#Game No : 646073864
+***** 888poker Hand History for Game 646073864 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:43:28
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,180 )
+Seat 2: kingpoker58 ( $4,000 )
+Seat 4: zweistein16 ( $2,671 )
+Seat 6: ruslanxxx79 ( $1,850 )
+Seat 7: fourtine ( $2,760 )
+Seat 9: PapaShango19 ( $3,257 )
+PapaShango19 posts small blind [$50]
+aroundasky posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 6h ]
+kingpoker58 calls [$100]
+zweistein16 calls [$100]
+ruslanxxx79 calls [$100]
+fourtine folds
+PapaShango19 calls [$50]
+aroundasky checks
+** Dealing flop ** [ 2h, Kd, 9s ]
+PapaShango19 checks
+aroundasky checks
+kingpoker58 checks
+zweistein16 checks
+ruslanxxx79 bets [$100]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$100]
+zweistein16 calls [$100]
+** Dealing turn ** [ 8h ]
+kingpoker58 bets [$100]
+zweistein16 calls [$100]
+ruslanxxx79 calls [$100]
+** Dealing river ** [ 5s ]
+kingpoker58 checks
+zweistein16 checks
+ruslanxxx79 checks
+** Summary **
+kingpoker58 shows [ 8s, Ah ]
+zweistein16 mucks [ Jh, Ts ]
+ruslanxxx79 shows [ As, 9h ]
+ruslanxxx79 collected [ $1,100 ]
+
+
+
+#Game No : 646073951
+***** 888poker Hand History for Game 646073951 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:44:32
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,080 )
+Seat 2: kingpoker58 ( $3,700 )
+Seat 4: zweistein16 ( $2,371 )
+Seat 6: ruslanxxx79 ( $2,650 )
+Seat 7: fourtine ( $2,760 )
+Seat 9: PapaShango19 ( $3,157 )
+aroundasky posts small blind [$50]
+kingpoker58 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 4s ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$100]
+PapaShango19 folds
+aroundasky raises [$350]
+kingpoker58 calls [$300]
+fourtine folds
+** Dealing flop ** [ Jd, 2h, Kd ]
+aroundasky bets [$450]
+kingpoker58 calls [$450]
+** Dealing turn ** [ 7d ]
+aroundasky checks
+kingpoker58 bets [$1,800]
+aroundasky raises [$3,230]
+kingpoker58 calls [$1,050]
+** Dealing river ** [ 4h ]
+** Summary **
+aroundasky shows [ Kh, Ks ]
+kingpoker58 shows [ 5d, 4d ]
+kingpoker58 collected [ $7,500 ]
+
+
+
+#Game No : 646074031
+***** 888poker Hand History for Game 646074031 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:45:31
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,380 )
+Seat 2: kingpoker58 ( $7,500 )
+Seat 4: zweistein16 ( $2,371 )
+Seat 6: ruslanxxx79 ( $2,650 )
+Seat 7: fourtine ( $2,660 )
+Seat 9: PapaShango19 ( $3,157 )
+kingpoker58 posts small blind [$50]
+zweistein16 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 3d ]
+ruslanxxx79 calls [$100]
+fourtine calls [$100]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$50]
+zweistein16 checks
+** Dealing flop ** [ 5d, 7d, As ]
+kingpoker58 checks
+zweistein16 checks
+ruslanxxx79 checks
+fourtine checks
+** Dealing turn ** [ Ac ]
+kingpoker58 bets [$100]
+zweistein16 folds
+ruslanxxx79 calls [$100]
+fourtine calls [$100]
+** Dealing river ** [ 2h ]
+kingpoker58 bets [$100]
+ruslanxxx79 raises [$200]
+fourtine folds
+kingpoker58 calls [$100]
+** Summary **
+ruslanxxx79 shows [ 2c, 2d ]
+kingpoker58 mucks [ Qd, 5h ]
+ruslanxxx79 collected [ $1,100 ]
+
+
+
+#Game No : 646074108
+***** 888poker Hand History for Game 646074108 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:46:22
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,380 )
+Seat 2: kingpoker58 ( $7,100 )
+Seat 4: zweistein16 ( $2,271 )
+Seat 6: ruslanxxx79 ( $3,350 )
+Seat 7: fourtine ( $2,460 )
+Seat 9: PapaShango19 ( $3,157 )
+zweistein16 posts small blind [$50]
+ruslanxxx79 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Qc ]
+fourtine folds
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$100]
+zweistein16 folds
+ruslanxxx79 checks
+** Dealing flop ** [ 3s, 8d, Ad ]
+ruslanxxx79 checks
+kingpoker58 bets [$187]
+ruslanxxx79 folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $250 ]
+
+
+
+#Game No : 646074150
+***** 888poker Hand History for Game 646074150 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 09:46:50
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,380 )
+Seat 2: kingpoker58 ( $7,250 )
+Seat 4: zweistein16 ( $2,221 )
+Seat 6: ruslanxxx79 ( $3,250 )
+Seat 7: fourtine ( $2,460 )
+Seat 9: PapaShango19 ( $3,157 )
+ruslanxxx79 posts small blind [$50]
+fourtine posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 8d ]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$100]
+zweistein16 calls [$100]
+ruslanxxx79 folds
+fourtine checks
+** Dealing flop ** [ 6h, 4s, Qc ]
+fourtine checks
+kingpoker58 checks
+zweistein16 bets [$100]
+fourtine folds
+kingpoker58 calls [$100]
+** Dealing turn ** [ Kd ]
+kingpoker58 checks
+zweistein16 checks
+** Dealing river ** [ 3s ]
+kingpoker58 bets [$275]
+zweistein16 calls [$275]
+** Summary **
+kingpoker58 shows [ 3c, 5s ]
+zweistein16 shows [ Qs, Ad ]
+zweistein16 collected [ $1,100 ]
+
+
+
+#Game No : 646074221
+***** 888poker Hand History for Game 646074221 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:47:28
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,380 )
+Seat 2: kingpoker58 ( $6,775 )
+Seat 4: zweistein16 ( $2,846 )
+Seat 6: ruslanxxx79 ( $3,200 )
+Seat 7: fourtine ( $2,360 )
+Seat 9: PapaShango19 ( $3,157 )
+fourtine posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 4h ]
+aroundasky raises [$2,380]
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $375 ]
+
+
+
+#Game No : 646074274
+***** 888poker Hand History for Game 646074274 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:47:54
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,605 )
+Seat 2: kingpoker58 ( $6,775 )
+Seat 4: zweistein16 ( $2,846 )
+Seat 6: ruslanxxx79 ( $3,200 )
+Seat 7: fourtine ( $2,285 )
+Seat 9: PapaShango19 ( $3,007 )
+PapaShango19 posts small blind [$75]
+aroundasky posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Jc ]
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 raises [$300]
+fourtine folds
+PapaShango19 folds
+aroundasky folds
+** Summary **
+ruslanxxx79 did not show his hand
+ruslanxxx79 collected [ $375 ]
+
+
+
+#Game No : 646074301
+***** 888poker Hand History for Game 646074301 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:48:11
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,455 )
+Seat 2: kingpoker58 ( $6,775 )
+Seat 4: zweistein16 ( $2,846 )
+Seat 6: ruslanxxx79 ( $3,425 )
+Seat 7: fourtine ( $2,285 )
+Seat 9: PapaShango19 ( $2,932 )
+aroundasky posts small blind [$75]
+kingpoker58 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kd ]
+zweistein16 folds
+ruslanxxx79 calls [$150]
+fourtine raises [$2,285]
+PapaShango19 folds
+aroundasky raises [$2,380]
+kingpoker58 folds
+ruslanxxx79 folds
+** Dealing flop ** [ 3s, Ad, 7s ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 3d ]
+** Summary **
+aroundasky shows [ 8h, 8c ]
+fourtine shows [ Qd, As ]
+fourtine collected [ $4,870 ]
+
+
+
+#Game No : 646074351
+***** 888poker Hand History for Game 646074351 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:48:46
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $170 )
+Seat 2: kingpoker58 ( $6,625 )
+Seat 4: zweistein16 ( $2,846 )
+Seat 6: ruslanxxx79 ( $3,275 )
+Seat 7: fourtine ( $4,870 )
+Seat 9: PapaShango19 ( $2,932 )
+kingpoker58 posts small blind [$75]
+zweistein16 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Qc ]
+ruslanxxx79 calls [$150]
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$170]
+kingpoker58 calls [$95]
+zweistein16 calls [$20]
+ruslanxxx79 calls [$20]
+** Dealing flop ** [ Ad, 2c, 6d ]
+kingpoker58 bets [$150]
+zweistein16 folds
+ruslanxxx79 folds
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ Th ]
+** Summary **
+aroundasky shows [ 6c, 8c ]
+kingpoker58 shows [ 7h, 9s ]
+aroundasky collected [ $680 ]
+
+
+
+#Game No : 646074412
+***** 888poker Hand History for Game 646074412 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:49:25
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,680 )
+Seat 2: kingpoker58 ( $6,455 )
+Seat 4: zweistein16 ( $2,676 )
+Seat 6: ruslanxxx79 ( $3,105 )
+Seat 7: fourtine ( $4,870 )
+Seat 9: PapaShango19 ( $2,932 )
+zweistein16 posts small blind [$75]
+ruslanxxx79 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 7d ]
+fourtine calls [$150]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 raises [$6,455]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $525 ]
+
+
+
+#Game No : 646074447
+***** 888poker Hand History for Game 646074447 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:49:48
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,680 )
+Seat 2: kingpoker58 ( $6,830 )
+Seat 4: zweistein16 ( $2,601 )
+Seat 6: ruslanxxx79 ( $2,955 )
+Seat 7: fourtine ( $4,720 )
+Seat 9: PapaShango19 ( $2,932 )
+ruslanxxx79 posts small blind [$75]
+fourtine posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Jd ]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 folds
+zweistein16 calls [$150]
+ruslanxxx79 folds
+fourtine checks
+** Dealing flop ** [ 7d, 9c, As ]
+fourtine checks
+zweistein16 checks
+** Dealing turn ** [ 3c ]
+fourtine checks
+zweistein16 checks
+** Dealing river ** [ 7c ]
+fourtine checks
+zweistein16 checks
+** Summary **
+fourtine shows [ 5s, 8c ]
+zweistein16 shows [ Td, Qc ]
+zweistein16 collected [ $375 ]
+
+
+
+#Game No : 646074501
+***** 888poker Hand History for Game 646074501 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:50:25
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,680 )
+Seat 2: kingpoker58 ( $6,830 )
+Seat 4: zweistein16 ( $2,826 )
+Seat 6: ruslanxxx79 ( $2,880 )
+Seat 7: fourtine ( $4,570 )
+Seat 9: PapaShango19 ( $2,932 )
+fourtine posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 3c ]
+aroundasky folds
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 646074544
+***** 888poker Hand History for Game 646074544 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:50:54
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,680 )
+Seat 2: kingpoker58 ( $6,830 )
+Seat 4: zweistein16 ( $2,826 )
+Seat 6: ruslanxxx79 ( $2,880 )
+Seat 7: fourtine ( $4,495 )
+Seat 9: PapaShango19 ( $3,007 )
+PapaShango19 posts small blind [$75]
+aroundasky posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5c ]
+kingpoker58 calls [$150]
+zweistein16 folds
+ruslanxxx79 calls [$150]
+fourtine folds
+PapaShango19 calls [$75]
+aroundasky checks
+** Dealing flop ** [ 4c, Kc, 2d ]
+PapaShango19 checks
+aroundasky checks
+kingpoker58 bets [$150]
+ruslanxxx79 folds
+PapaShango19 folds
+aroundasky folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $600 ]
+
+
+
+#Game No : 646074666
+***** 888poker Hand History for Game 646074666 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:51:53
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,530 )
+Seat 2: kingpoker58 ( $7,280 )
+Seat 4: zweistein16 ( $2,826 )
+Seat 6: ruslanxxx79 ( $2,730 )
+Seat 7: fourtine ( $4,495 )
+Seat 9: PapaShango19 ( $2,857 )
+aroundasky posts small blind [$75]
+kingpoker58 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Qh ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$150]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 checks
+** Dealing flop ** [ Ks, Ah, 7d ]
+kingpoker58 checks
+fourtine checks
+** Dealing turn ** [ Js ]
+kingpoker58 checks
+fourtine checks
+** Dealing river ** [ Kc ]
+kingpoker58 bets [$150]
+fourtine calls [$150]
+** Summary **
+kingpoker58 shows [ 5c, Qc ]
+fourtine shows [ Ac, 4d ]
+fourtine collected [ $675 ]
+
+
+
+#Game No : 646074716
+***** 888poker Hand History for Game 646074716 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:52:26
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,455 )
+Seat 2: kingpoker58 ( $6,980 )
+Seat 4: zweistein16 ( $2,826 )
+Seat 6: ruslanxxx79 ( $2,730 )
+Seat 7: fourtine ( $4,870 )
+Seat 9: PapaShango19 ( $2,857 )
+kingpoker58 posts small blind [$75]
+zweistein16 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 8s ]
+ruslanxxx79 folds
+fourtine calls [$150]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$75]
+zweistein16 checks
+** Dealing flop ** [ 6s, 3d, 2d ]
+kingpoker58 checks
+zweistein16 checks
+fourtine checks
+** Dealing turn ** [ Th ]
+kingpoker58 checks
+zweistein16 checks
+fourtine checks
+** Dealing river ** [ 2s ]
+kingpoker58 checks
+zweistein16 checks
+fourtine checks
+** Summary **
+kingpoker58 shows [ 8c, 7d ]
+zweistein16 shows [ Jd, 5s ]
+fourtine shows [ 5h, Qc ]
+fourtine collected [ $450 ]
+
+
+
+#Game No : 646074825
+***** 888poker Hand History for Game 646074825 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:53:23
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,455 )
+Seat 2: kingpoker58 ( $6,830 )
+Seat 4: zweistein16 ( $2,676 )
+Seat 6: ruslanxxx79 ( $2,730 )
+Seat 7: fourtine ( $5,170 )
+Seat 9: PapaShango19 ( $2,857 )
+zweistein16 posts small blind [$75]
+ruslanxxx79 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Qh ]
+fourtine calls [$150]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 folds
+zweistein16 calls [$75]
+ruslanxxx79 checks
+** Dealing flop ** [ Qs, 6h, 4c ]
+zweistein16 checks
+ruslanxxx79 checks
+fourtine checks
+** Dealing turn ** [ Kh ]
+zweistein16 bets [$150]
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+zweistein16 did not show his hand
+zweistein16 collected [ $450 ]
+
+
+
+#Game No : 646074888
+***** 888poker Hand History for Game 646074888 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:54:06
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,455 )
+Seat 2: kingpoker58 ( $6,830 )
+Seat 4: zweistein16 ( $2,976 )
+Seat 6: ruslanxxx79 ( $2,580 )
+Seat 7: fourtine ( $5,020 )
+Seat 9: PapaShango19 ( $2,857 )
+ruslanxxx79 posts small blind [$75]
+fourtine posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5c ]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 raises [$6,830]
+zweistein16 calls [$2,976]
+ruslanxxx79 folds
+fourtine folds
+** Dealing flop ** [ 2d, 5d, Jh ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ Kd ]
+** Summary **
+kingpoker58 shows [ Jd, As ]
+zweistein16 shows [ Qh, Qd ]
+zweistein16 collected [ $6,177 ]
+
+
+
+#Game No : 646074942
+***** 888poker Hand History for Game 646074942 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 09:54:36
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,455 )
+Seat 2: kingpoker58 ( $3,854 )
+Seat 4: zweistein16 ( $6,177 )
+Seat 6: ruslanxxx79 ( $2,505 )
+Seat 7: fourtine ( $4,870 )
+Seat 9: PapaShango19 ( $2,857 )
+fourtine posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Jh ]
+aroundasky folds
+kingpoker58 folds
+zweistein16 raises [$300]
+ruslanxxx79 folds
+fourtine calls [$225]
+PapaShango19 folds
+** Dealing flop ** [ 2d, Qh, 7s ]
+fourtine checks
+zweistein16 checks
+** Dealing turn ** [ Qc ]
+fourtine checks
+zweistein16 checks
+** Dealing river ** [ Kh ]
+fourtine checks
+zweistein16 bets [$300]
+fourtine folds
+** Summary **
+zweistein16 did not show his hand
+zweistein16 collected [ $750 ]
+
+
+
+#Game No : 646075294
+***** 888poker Hand History for Game 646075294 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 10:00:01
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,455 )
+Seat 2: kingpoker58 ( $3,854 )
+Seat 4: zweistein16 ( $6,627 )
+Seat 6: ruslanxxx79 ( $2,505 )
+Seat 7: fourtine ( $4,570 )
+Seat 9: PapaShango19 ( $2,707 )
+PapaShango19 posts small blind [$75]
+aroundasky posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7c ]
+kingpoker58 calls [$150]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$150]
+PapaShango19 folds
+aroundasky checks
+** Dealing flop ** [ Js, 5d, 8h ]
+aroundasky checks
+kingpoker58 checks
+fourtine checks
+** Dealing turn ** [ Qd ]
+aroundasky bets [$525]
+kingpoker58 calls [$525]
+fourtine folds
+** Dealing river ** [ 2h ]
+aroundasky bets [$1,780]
+kingpoker58 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $1,575 ]
+
+
+
+#Game No : 646075395
+***** 888poker Hand History for Game 646075395 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:01:13
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,355 )
+Seat 2: kingpoker58 ( $3,179 )
+Seat 4: zweistein16 ( $6,627 )
+Seat 6: ruslanxxx79 ( $2,505 )
+Seat 7: fourtine ( $4,420 )
+Seat 9: PapaShango19 ( $2,632 )
+aroundasky posts small blind [$100]
+kingpoker58 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 6s ]
+zweistein16 folds
+ruslanxxx79 raises [$400]
+fourtine folds
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$200]
+** Dealing flop ** [ 6c, 5s, Ah ]
+kingpoker58 checks
+ruslanxxx79 bets [$200]
+kingpoker58 calls [$200]
+** Dealing turn ** [ Tc ]
+kingpoker58 checks
+ruslanxxx79 bets [$400]
+kingpoker58 calls [$400]
+** Dealing river ** [ 4c ]
+kingpoker58 checks
+ruslanxxx79 checks
+** Summary **
+kingpoker58 shows [ 3c, 4d ]
+ruslanxxx79 shows [ Qs, Qd ]
+ruslanxxx79 collected [ $2,100 ]
+
+
+
+#Game No : 646075459
+***** 888poker Hand History for Game 646075459 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:01:55
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,255 )
+Seat 2: kingpoker58 ( $2,179 )
+Seat 4: zweistein16 ( $6,627 )
+Seat 6: ruslanxxx79 ( $3,605 )
+Seat 7: fourtine ( $4,420 )
+Seat 9: PapaShango19 ( $2,632 )
+kingpoker58 posts small blind [$100]
+zweistein16 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Jd ]
+ruslanxxx79 folds
+fourtine calls [$200]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 raises [$2,079]
+zweistein16 folds
+fourtine calls [$1,979]
+** Dealing flop ** [ Qc, Qh, 3s ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ Kd ]
+** Summary **
+kingpoker58 shows [ Ah, Ks ]
+fourtine shows [ 9s, Js ]
+kingpoker58 collected [ $4,558 ]
+
+
+
+#Game No : 646075551
+***** 888poker Hand History for Game 646075551 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:02:42
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,255 )
+Seat 2: kingpoker58 ( $4,558 )
+Seat 4: zweistein16 ( $6,427 )
+Seat 6: ruslanxxx79 ( $3,605 )
+Seat 7: fourtine ( $2,241 )
+Seat 9: PapaShango19 ( $2,632 )
+zweistein16 posts small blind [$100]
+ruslanxxx79 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 2c ]
+fourtine raises [$2,241]
+PapaShango19 folds
+aroundasky raises [$3,255]
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+** Dealing flop ** [ 5s, 9d, Tc ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Td ]
+** Summary **
+aroundasky shows [ 8h, Ac ]
+fourtine shows [ 7d, 7c ]
+fourtine collected [ $4,782 ]
+
+
+
+#Game No : 646075592
+***** 888poker Hand History for Game 646075592 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:03:12
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,014 )
+Seat 2: kingpoker58 ( $4,558 )
+Seat 4: zweistein16 ( $6,327 )
+Seat 6: ruslanxxx79 ( $3,405 )
+Seat 7: fourtine ( $4,782 )
+Seat 9: PapaShango19 ( $2,632 )
+ruslanxxx79 posts small blind [$100]
+fourtine posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Qc ]
+PapaShango19 folds
+aroundasky raises [$400]
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$200]
+** Dealing flop ** [ 9c, 4c, 7d ]
+fourtine bets [$200]
+aroundasky raises [$600]
+fourtine raises [$1,875]
+aroundasky folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $2,100 ]
+
+
+
+#Game No : 646075635
+***** 888poker Hand History for Game 646075635 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:03:45
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,014 )
+Seat 2: kingpoker58 ( $4,558 )
+Seat 4: zweistein16 ( $6,327 )
+Seat 6: ruslanxxx79 ( $3,305 )
+Seat 7: fourtine ( $5,882 )
+Seat 9: PapaShango19 ( $2,632 )
+fourtine posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2c ]
+aroundasky raises [$2,014]
+kingpoker58 folds
+zweistein16 calls [$2,014]
+ruslanxxx79 calls [$2,014]
+fourtine folds
+PapaShango19 folds
+** Dealing flop ** [ 4s, 7h, 5h ]
+zweistein16 bets [$200]
+ruslanxxx79 calls [$200]
+** Dealing turn ** [ Qs ]
+zweistein16 checks
+ruslanxxx79 bets [$200]
+zweistein16 calls [$200]
+** Dealing river ** [ 3c ]
+zweistein16 checks
+ruslanxxx79 bets [$200]
+zweistein16 folds
+** Summary **
+aroundasky shows [ 9s, Qc ]
+ruslanxxx79 shows [ Qh, Ac ]
+ruslanxxx79 collected [ $6,342 ]
+ruslanxxx79 collected [ $800 ]
+
+
+
+#Game No : 646075790
+***** 888poker Hand History for Game 646075790 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:05:16
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,000 )
+Seat 2: kingpoker58 ( $4,558 )
+Seat 4: zweistein16 ( $3,913 )
+Seat 6: ruslanxxx79 ( $8,033 )
+Seat 7: fourtine ( $5,782 )
+Seat 9: PapaShango19 ( $2,432 )
+PapaShango19 posts small blind [$100]
+aroundasky posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Th ]
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $300 ]
+
+
+
+#Game No : 646075819
+***** 888poker Hand History for Game 646075819 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:05:38
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,100 )
+Seat 2: kingpoker58 ( $4,558 )
+Seat 4: zweistein16 ( $3,913 )
+Seat 6: ruslanxxx79 ( $8,033 )
+Seat 7: fourtine ( $5,782 )
+Seat 9: PapaShango19 ( $2,332 )
+aroundasky posts small blind [$100]
+kingpoker58 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Ts ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$4,000]
+kingpoker58 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $400 ]
+
+
+
+#Game No : 646075873
+***** 888poker Hand History for Game 646075873 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:06:08
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,300 )
+Seat 2: kingpoker58 ( $4,358 )
+Seat 4: zweistein16 ( $3,913 )
+Seat 6: ruslanxxx79 ( $8,033 )
+Seat 7: fourtine ( $5,782 )
+Seat 9: PapaShango19 ( $2,332 )
+kingpoker58 posts small blind [$100]
+zweistein16 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Ah ]
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 raises [$400]
+aroundasky folds
+kingpoker58 calls [$300]
+zweistein16 folds
+** Dealing flop ** [ Qd, Kd, 4d ]
+kingpoker58 checks
+PapaShango19 bets [$500]
+kingpoker58 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,000 ]
+
+
+
+#Game No : 646075932
+***** 888poker Hand History for Game 646075932 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:06:54
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,300 )
+Seat 2: kingpoker58 ( $3,958 )
+Seat 4: zweistein16 ( $3,713 )
+Seat 6: ruslanxxx79 ( $8,033 )
+Seat 7: fourtine ( $5,782 )
+Seat 9: PapaShango19 ( $2,932 )
+zweistein16 posts small blind [$100]
+ruslanxxx79 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Kd ]
+fourtine calls [$200]
+PapaShango19 raises [$675]
+aroundasky folds
+kingpoker58 raises [$3,958]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 calls [$2,257]
+** Dealing flop ** [ Jc, 7d, 9d ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ Ad ]
+** Summary **
+kingpoker58 shows [ Qh, Kh ]
+PapaShango19 shows [ Ah, Kd ]
+PapaShango19 collected [ $6,364 ]
+
+
+
+#Game No : 646075989
+***** 888poker Hand History for Game 646075989 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:07:33
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,300 )
+Seat 2: kingpoker58 ( $1,026 )
+Seat 4: zweistein16 ( $3,613 )
+Seat 6: ruslanxxx79 ( $7,833 )
+Seat 7: fourtine ( $5,582 )
+Seat 9: PapaShango19 ( $6,364 )
+ruslanxxx79 posts small blind [$100]
+fourtine posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 5d ]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 calls [$100]
+fourtine checks
+** Dealing flop ** [ 2d, 4h, Ks ]
+ruslanxxx79 bets [$200]
+fourtine folds
+** Summary **
+ruslanxxx79 did not show his hand
+ruslanxxx79 collected [ $400 ]
+
+
+
+#Game No : 646076034
+***** 888poker Hand History for Game 646076034 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:08:03
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,300 )
+Seat 2: kingpoker58 ( $1,026 )
+Seat 4: zweistein16 ( $3,613 )
+Seat 6: ruslanxxx79 ( $8,033 )
+Seat 7: fourtine ( $5,382 )
+Seat 9: PapaShango19 ( $6,364 )
+fourtine posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6h ]
+aroundasky raises [$400]
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$300]
+PapaShango19 folds
+** Dealing flop ** [ Jc, 4h, 5s ]
+fourtine checks
+aroundasky checks
+** Dealing turn ** [ 7c ]
+fourtine checks
+aroundasky bets [$500]
+fourtine calls [$500]
+** Dealing river ** [ 3d ]
+fourtine checks
+aroundasky checks
+** Summary **
+fourtine shows [ 2c, 2d ]
+aroundasky mucks [ Tc, Qc ]
+fourtine collected [ $2,000 ]
+
+
+
+#Game No : 646076095
+***** 888poker Hand History for Game 646076095 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:08:45
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,400 )
+Seat 2: kingpoker58 ( $1,026 )
+Seat 4: zweistein16 ( $3,613 )
+Seat 6: ruslanxxx79 ( $8,033 )
+Seat 7: fourtine ( $6,482 )
+Seat 9: PapaShango19 ( $6,164 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+PapaShango19 posts small blind [$100]
+aroundasky posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Ah ]
+kingpoker58 raises [$1,001]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$1,001]
+PapaShango19 folds
+aroundasky folds
+** Dealing flop ** [ 9h, Qh, 6s ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Kd ]
+** Summary **
+kingpoker58 shows [ 8d, 7d ]
+fourtine shows [ 2s, 5s ]
+kingpoker58 collected [ $2,452 ]
+
+
+
+#Game No : 646076177
+***** 888poker Hand History for Game 646076177 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:09:32
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,175 )
+Seat 2: kingpoker58 ( $2,452 )
+Seat 4: zweistein16 ( $3,588 )
+Seat 6: ruslanxxx79 ( $8,008 )
+Seat 7: fourtine ( $5,456 )
+Seat 9: PapaShango19 ( $6,039 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+aroundasky posts small blind [$100]
+kingpoker58 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Jh ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 calls [$200]
+aroundasky folds
+kingpoker58 checks
+** Dealing flop ** [ 6d, Qd, 3s ]
+kingpoker58 checks
+PapaShango19 checks
+** Dealing turn ** [ 4s ]
+kingpoker58 checks
+PapaShango19 checks
+** Dealing river ** [ Qs ]
+kingpoker58 bets [$200]
+PapaShango19 folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $650 ]
+
+
+
+#Game No : 646076293
+***** 888poker Hand History for Game 646076293 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:10:42
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,050 )
+Seat 2: kingpoker58 ( $2,877 )
+Seat 4: zweistein16 ( $3,563 )
+Seat 6: ruslanxxx79 ( $7,983 )
+Seat 7: fourtine ( $5,431 )
+Seat 9: PapaShango19 ( $5,814 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+kingpoker58 posts small blind [$100]
+zweistein16 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Js ]
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$100]
+zweistein16 checks
+** Dealing flop ** [ 4c, 7d, 6c ]
+kingpoker58 checks
+zweistein16 bets [$200]
+kingpoker58 calls [$200]
+** Dealing turn ** [ 3s ]
+kingpoker58 checks
+zweistein16 bets [$200]
+kingpoker58 calls [$200]
+** Dealing river ** [ Jh ]
+kingpoker58 checks
+zweistein16 checks
+** Summary **
+kingpoker58 shows [ 8c, Ks ]
+zweistein16 shows [ 7h, As ]
+zweistein16 collected [ $1,350 ]
+
+
+
+#Game No : 646076354
+***** 888poker Hand History for Game 646076354 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:11:27
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,025 )
+Seat 2: kingpoker58 ( $2,252 )
+Seat 4: zweistein16 ( $4,288 )
+Seat 6: ruslanxxx79 ( $7,958 )
+Seat 7: fourtine ( $5,406 )
+Seat 9: PapaShango19 ( $5,789 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+zweistein16 posts small blind [$100]
+ruslanxxx79 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 7s ]
+fourtine folds
+PapaShango19 folds
+aroundasky folds
+kingpoker58 raises [$2,227]
+zweistein16 folds
+ruslanxxx79 folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $650 ]
+
+
+
+#Game No : 646076395
+***** 888poker Hand History for Game 646076395 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:11:55
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,000 )
+Seat 2: kingpoker58 ( $2,677 )
+Seat 4: zweistein16 ( $4,163 )
+Seat 6: ruslanxxx79 ( $7,733 )
+Seat 7: fourtine ( $5,381 )
+Seat 9: PapaShango19 ( $5,764 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+ruslanxxx79 posts small blind [$100]
+fourtine posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Jh ]
+PapaShango19 folds
+aroundasky folds
+kingpoker58 raises [$2,652]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $650 ]
+
+
+
+#Game No : 646076443
+***** 888poker Hand History for Game 646076443 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:12:17
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,975 )
+Seat 2: kingpoker58 ( $3,102 )
+Seat 4: zweistein16 ( $4,138 )
+Seat 6: ruslanxxx79 ( $7,608 )
+Seat 7: fourtine ( $5,156 )
+Seat 9: PapaShango19 ( $5,739 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+fourtine posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Jc ]
+aroundasky folds
+kingpoker58 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Qh, Ad, Js ]
+fourtine bets [$200]
+PapaShango19 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $550 ]
+
+
+
+#Game No : 646076488
+***** 888poker Hand History for Game 646076488 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:12:50
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,950 )
+Seat 2: kingpoker58 ( $3,077 )
+Seat 4: zweistein16 ( $4,113 )
+Seat 6: ruslanxxx79 ( $7,583 )
+Seat 7: fourtine ( $5,481 )
+Seat 9: PapaShango19 ( $5,514 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+PapaShango19 posts small blind [$100]
+aroundasky posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7s ]
+kingpoker58 folds
+zweistein16 calls [$200]
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+aroundasky checks
+** Dealing flop ** [ 9d, 7d, 5d ]
+aroundasky bets [$2,725]
+zweistein16 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $650 ]
+
+
+
+#Game No : 646076560
+***** 888poker Hand History for Game 646076560 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:13:33
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,375 )
+Seat 2: kingpoker58 ( $3,052 )
+Seat 4: zweistein16 ( $3,888 )
+Seat 6: ruslanxxx79 ( $7,558 )
+Seat 7: fourtine ( $5,456 )
+Seat 9: PapaShango19 ( $5,389 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+kingpoker58 posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+aroundasky posts small blind [$100]
+kingpoker58 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 8d ]
+zweistein16 folds
+ruslanxxx79 raises [$400]
+fourtine folds
+PapaShango19 folds
+aroundasky folds
+kingpoker58 calls [$200]
+** Dealing flop ** [ Ah, 8s, Jd ]
+kingpoker58 checks
+ruslanxxx79 bets [$200]
+kingpoker58 calls [$200]
+** Dealing turn ** [ Kd ]
+kingpoker58 checks
+ruslanxxx79 bets [$200]
+kingpoker58 calls [$200]
+** Dealing river ** [ Qc ]
+kingpoker58 bets [$2,227]
+ruslanxxx79 calls [$2,227]
+** Summary **
+kingpoker58 shows [ Qd, Js ]
+ruslanxxx79 shows [ Ad, Kc ]
+ruslanxxx79 collected [ $6,304 ]
+
+
+
+#Game No : 646076629
+***** 888poker Hand History for Game 646076629 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:14:20
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: aroundasky ( $3,250 )
+Seat 4: zweistein16 ( $3,863 )
+Seat 6: ruslanxxx79 ( $10,810 )
+Seat 7: fourtine ( $5,431 )
+Seat 9: PapaShango19 ( $5,364 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+zweistein16 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 9h ]
+ruslanxxx79 folds
+fourtine calls [$200]
+PapaShango19 folds
+aroundasky folds
+zweistein16 checks
+** Dealing flop ** [ 9s, Qs, Kd ]
+zweistein16 checks
+fourtine checks
+** Dealing turn ** [ 8c ]
+zweistein16 checks
+fourtine checks
+** Dealing river ** [ 4d ]
+zweistein16 checks
+fourtine checks
+** Summary **
+zweistein16 shows [ Ah, 7s ]
+fourtine shows [ As, 7c ]
+fourtine collected [ $262 ]
+zweistein16 collected [ $263 ]
+
+
+
+#Game No : 646076690
+***** 888poker Hand History for Game 646076690 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 10:14:53
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: aroundasky ( $3,225 )
+Seat 4: zweistein16 ( $3,901 )
+Seat 6: ruslanxxx79 ( $10,785 )
+Seat 7: fourtine ( $5,468 )
+Seat 9: PapaShango19 ( $5,339 )
+fourtine posts ante [$25]
+aroundasky posts ante [$25]
+PapaShango19 posts ante [$25]
+zweistein16 posts ante [$25]
+ruslanxxx79 posts ante [$25]
+zweistein16 posts small blind [$100]
+ruslanxxx79 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kh ]
+fourtine calls [$200]
+PapaShango19 folds
+aroundasky folds
+zweistein16 calls [$100]
+ruslanxxx79 checks
+** Dealing flop ** [ Ts, Ac, 5c ]
+zweistein16 bets [$200]
+ruslanxxx79 folds
+fourtine calls [$200]
+** Dealing turn ** [ 5d ]
+zweistein16 bets [$200]
+fourtine calls [$200]
+** Dealing river ** [ 8d ]
+zweistein16 bets [$200]
+fourtine calls [$200]
+** Summary **
+zweistein16 shows [ 3h, Ad ]
+fourtine mucks [ Kc, 8c ]
+zweistein16 collected [ $1,925 ]
+
+
+
+#Game No : 646077104
+***** 888poker Hand History for Game 646077104 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:19:57
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,200 )
+Seat 2: porky282 ( $2,000 )
+Seat 4: zweistein16 ( $10,001 )
+Seat 6: ruslanxxx79 ( $15,560 )
+Seat 7: fourtine ( $4,643 )
+Seat 9: PapaShango19 ( $10,314 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+ruslanxxx79 posts small blind [$125]
+fourtine posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 8c ]
+PapaShango19 folds
+aroundasky folds
+porky282 folds
+zweistein16 folds
+ruslanxxx79 calls [$125]
+fourtine checks
+** Dealing flop ** [ Ac, Js, Jd ]
+ruslanxxx79 bets [$250]
+fourtine calls [$250]
+** Dealing turn ** [ 2h ]
+ruslanxxx79 checks
+fourtine checks
+** Dealing river ** [ Qs ]
+ruslanxxx79 checks
+fourtine bets [$250]
+ruslanxxx79 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $1,180 ]
+
+
+
+#Game No : 646077147
+***** 888poker Hand History for Game 646077147 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:20:32
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,170 )
+Seat 2: porky282 ( $1,970 )
+Seat 4: zweistein16 ( $9,971 )
+Seat 6: ruslanxxx79 ( $15,030 )
+Seat 7: fourtine ( $5,293 )
+Seat 9: PapaShango19 ( $10,284 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+fourtine posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 4s ]
+aroundasky folds
+porky282 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$125]
+PapaShango19 checks
+** Dealing flop ** [ 8h, Qs, Tc ]
+fourtine checks
+PapaShango19 checks
+** Dealing turn ** [ Ah ]
+fourtine checks
+PapaShango19 checks
+** Dealing river ** [ 3s ]
+fourtine checks
+PapaShango19 checks
+** Summary **
+fourtine shows [ Ts, Ad ]
+PapaShango19 mucks [ 5s, 4s ]
+fourtine collected [ $680 ]
+
+
+
+#Game No : 646077185
+***** 888poker Hand History for Game 646077185 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:21:03
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,140 )
+Seat 2: porky282 ( $1,940 )
+Seat 4: zweistein16 ( $9,941 )
+Seat 6: ruslanxxx79 ( $15,000 )
+Seat 7: fourtine ( $5,693 )
+Seat 9: PapaShango19 ( $10,004 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+PapaShango19 posts small blind [$125]
+aroundasky posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Jd ]
+porky282 calls [$250]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$250]
+PapaShango19 calls [$125]
+aroundasky checks
+** Dealing flop ** [ 2h, Ac, 3c ]
+PapaShango19 checks
+aroundasky checks
+porky282 checks
+fourtine checks
+** Dealing turn ** [ Th ]
+PapaShango19 checks
+aroundasky checks
+porky282 checks
+fourtine checks
+** Dealing river ** [ Ts ]
+PapaShango19 checks
+aroundasky bets [$1,180]
+porky282 calls [$1,180]
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky shows [ Jc, Td ]
+porky282 shows [ Tc, Qc ]
+porky282 collected [ $3,540 ]
+
+
+
+#Game No : 646077269
+***** 888poker Hand History for Game 646077269 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:22:03
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $1,680 )
+Seat 2: porky282 ( $4,020 )
+Seat 4: zweistein16 ( $9,911 )
+Seat 6: ruslanxxx79 ( $14,970 )
+Seat 7: fourtine ( $5,413 )
+Seat 9: PapaShango19 ( $9,724 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+aroundasky posts small blind [$125]
+porky282 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 5c ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$1,525]
+porky282 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $680 ]
+
+
+
+#Game No : 646077308
+***** 888poker Hand History for Game 646077308 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:22:39
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,080 )
+Seat 2: porky282 ( $3,740 )
+Seat 4: zweistein16 ( $9,881 )
+Seat 6: ruslanxxx79 ( $14,940 )
+Seat 7: fourtine ( $5,383 )
+Seat 9: PapaShango19 ( $9,694 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+porky282 posts small blind [$125]
+zweistein16 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ah ]
+ruslanxxx79 folds
+fourtine calls [$250]
+PapaShango19 folds
+aroundasky folds
+porky282 folds
+zweistein16 checks
+** Dealing flop ** [ 2d, Th, Jc ]
+zweistein16 bets [$250]
+fourtine folds
+** Summary **
+zweistein16 did not show his hand
+zweistein16 collected [ $805 ]
+
+
+
+#Game No : 646077353
+***** 888poker Hand History for Game 646077353 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:23:07
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,050 )
+Seat 2: porky282 ( $3,585 )
+Seat 4: zweistein16 ( $10,406 )
+Seat 6: ruslanxxx79 ( $14,910 )
+Seat 7: fourtine ( $5,103 )
+Seat 9: PapaShango19 ( $9,664 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+zweistein16 posts small blind [$125]
+ruslanxxx79 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Td ]
+fourtine folds
+PapaShango19 raises [$500]
+aroundasky raises [$2,020]
+porky282 folds
+zweistein16 folds
+ruslanxxx79 folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $1,555 ]
+
+
+
+#Game No : 646077394
+***** 888poker Hand History for Game 646077394 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:23:46
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,075 )
+Seat 2: porky282 ( $3,555 )
+Seat 4: zweistein16 ( $10,251 )
+Seat 6: ruslanxxx79 ( $14,630 )
+Seat 7: fourtine ( $5,073 )
+Seat 9: PapaShango19 ( $9,134 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+ruslanxxx79 posts small blind [$125]
+fourtine posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Tc ]
+PapaShango19 folds
+aroundasky folds
+porky282 folds
+zweistein16 folds
+ruslanxxx79 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $555 ]
+
+
+
+#Game No : 646077418
+***** 888poker Hand History for Game 646077418 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:24:03
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,045 )
+Seat 2: porky282 ( $3,525 )
+Seat 4: zweistein16 ( $10,221 )
+Seat 6: ruslanxxx79 ( $14,475 )
+Seat 7: fourtine ( $5,348 )
+Seat 9: PapaShango19 ( $9,104 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+fourtine posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2s ]
+aroundasky raises [$3,015]
+porky282 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $805 ]
+
+
+
+#Game No : 646077449
+***** 888poker Hand History for Game 646077449 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:24:25
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,570 )
+Seat 2: porky282 ( $3,495 )
+Seat 4: zweistein16 ( $10,191 )
+Seat 6: ruslanxxx79 ( $14,445 )
+Seat 7: fourtine ( $5,193 )
+Seat 9: PapaShango19 ( $8,824 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+PapaShango19 posts small blind [$125]
+aroundasky posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 9c ]
+porky282 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $555 ]
+
+
+
+#Game No : 646077490
+***** 888poker Hand History for Game 646077490 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:24:53
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $3,845 )
+Seat 2: porky282 ( $3,465 )
+Seat 4: zweistein16 ( $10,161 )
+Seat 6: ruslanxxx79 ( $14,415 )
+Seat 7: fourtine ( $5,163 )
+Seat 9: PapaShango19 ( $8,669 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+aroundasky posts small blind [$125]
+porky282 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 7d ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$3,690]
+porky282 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $680 ]
+
+
+
+#Game No : 646077535
+***** 888poker Hand History for Game 646077535 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:25:19
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,245 )
+Seat 2: porky282 ( $3,185 )
+Seat 4: zweistein16 ( $10,131 )
+Seat 6: ruslanxxx79 ( $14,385 )
+Seat 7: fourtine ( $5,133 )
+Seat 9: PapaShango19 ( $8,639 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+porky282 posts small blind [$125]
+zweistein16 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Kh ]
+ruslanxxx79 folds
+fourtine calls [$250]
+PapaShango19 folds
+aroundasky folds
+porky282 folds
+zweistein16 checks
+** Dealing flop ** [ 4s, 6c, Ad ]
+zweistein16 checks
+fourtine checks
+** Dealing turn ** [ Qs ]
+zweistein16 checks
+fourtine checks
+** Dealing river ** [ Js ]
+zweistein16 checks
+fourtine checks
+** Summary **
+zweistein16 shows [ 8h, 7h ]
+fourtine shows [ Qd, 8s ]
+fourtine collected [ $805 ]
+
+
+
+#Game No : 646077592
+***** 888poker Hand History for Game 646077592 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:26:02
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,215 )
+Seat 2: porky282 ( $3,030 )
+Seat 4: zweistein16 ( $9,851 )
+Seat 6: ruslanxxx79 ( $14,355 )
+Seat 7: fourtine ( $5,658 )
+Seat 9: PapaShango19 ( $8,609 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+zweistein16 posts small blind [$125]
+ruslanxxx79 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 7c ]
+fourtine folds
+PapaShango19 calls [$250]
+aroundasky folds
+porky282 folds
+zweistein16 folds
+ruslanxxx79 checks
+** Dealing flop ** [ 3s, 3d, Tc ]
+ruslanxxx79 bets [$250]
+PapaShango19 folds
+** Summary **
+ruslanxxx79 did not show his hand
+ruslanxxx79 collected [ $805 ]
+
+
+
+#Game No : 646077650
+***** 888poker Hand History for Game 646077650 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:26:56
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,185 )
+Seat 2: porky282 ( $3,000 )
+Seat 4: zweistein16 ( $9,696 )
+Seat 6: ruslanxxx79 ( $14,880 )
+Seat 7: fourtine ( $5,628 )
+Seat 9: PapaShango19 ( $8,329 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+ruslanxxx79 posts small blind [$125]
+fourtine posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6h ]
+PapaShango19 folds
+aroundasky raises [$500]
+porky282 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $805 ]
+
+
+
+#Game No : 646077695
+***** 888poker Hand History for Game 646077695 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 10:27:22
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $4,710 )
+Seat 2: porky282 ( $2,970 )
+Seat 4: zweistein16 ( $9,666 )
+Seat 6: ruslanxxx79 ( $14,725 )
+Seat 7: fourtine ( $5,348 )
+Seat 9: PapaShango19 ( $8,299 )
+fourtine posts ante [$30]
+aroundasky posts ante [$30]
+PapaShango19 posts ante [$30]
+zweistein16 posts ante [$30]
+ruslanxxx79 posts ante [$30]
+porky282 posts ante [$30]
+fourtine posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 6c ]
+aroundasky folds
+porky282 calls [$250]
+zweistein16 folds
+ruslanxxx79 calls [$250]
+fourtine folds
+PapaShango19 checks
+** Dealing flop ** [ Tc, 3s, Jh ]
+PapaShango19 checks
+porky282 bets [$250]
+ruslanxxx79 raises [$500]
+PapaShango19 folds
+porky282 calls [$250]
+** Dealing turn ** [ 5h ]
+porky282 checks
+ruslanxxx79 bets [$750]
+porky282 calls [$750]
+** Dealing river ** [ 3h ]
+porky282 bets [$1,440]
+ruslanxxx79 calls [$1,440]
+** Summary **
+porky282 shows [ 8s, Jd ]
+ruslanxxx79 shows [ Jc, Ah ]
+ruslanxxx79 collected [ $6,435 ]
+
+
+
+#Game No : 646077775
+***** 888poker Hand History for Game 646077775 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:28:32
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: aroundasky ( $4,680 )
+Seat 4: zweistein16 ( $9,636 )
+Seat 6: ruslanxxx79 ( $18,190 )
+Seat 7: fourtine ( $5,193 )
+Seat 9: PapaShango19 ( $8,019 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+PapaShango19 posts small blind [$150]
+aroundasky posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ac ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$300]
+PapaShango19 calls [$150]
+aroundasky raises [$4,340]
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $1,100 ]
+
+
+
+#Game No : 646077837
+***** 888poker Hand History for Game 646077837 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:29:27
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $5,440 )
+Seat 2: zander133 ( $12,800 )
+Seat 4: zweistein16 ( $9,596 )
+Seat 6: ruslanxxx79 ( $18,150 )
+Seat 7: fourtine ( $4,853 )
+Seat 9: PapaShango19 ( $7,679 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+aroundasky posts small blind [$150]
+zander133 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Js ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$5,250]
+zander133 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $840 ]
+
+
+
+#Game No : 646077863
+***** 888poker Hand History for Game 646077863 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:29:47
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $5,940 )
+Seat 2: zander133 ( $12,460 )
+Seat 4: zweistein16 ( $9,556 )
+Seat 6: ruslanxxx79 ( $18,110 )
+Seat 7: fourtine ( $4,813 )
+Seat 9: PapaShango19 ( $7,639 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+zander133 posts small blind [$150]
+zweistein16 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 7s ]
+ruslanxxx79 folds
+fourtine calls [$300]
+PapaShango19 folds
+aroundasky folds
+zander133 folds
+zweistein16 checks
+** Dealing flop ** [ Kc, 3s, 4d ]
+zweistein16 checks
+fourtine checks
+** Dealing turn ** [ 8d ]
+zweistein16 checks
+fourtine bets [$300]
+zweistein16 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $990 ]
+
+
+
+#Game No : 646077894
+***** 888poker Hand History for Game 646077894 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:30:12
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $5,900 )
+Seat 2: zander133 ( $12,270 )
+Seat 4: zweistein16 ( $9,216 )
+Seat 6: ruslanxxx79 ( $18,070 )
+Seat 7: fourtine ( $5,463 )
+Seat 9: PapaShango19 ( $7,599 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+zweistein16 posts small blind [$150]
+ruslanxxx79 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 8s ]
+fourtine calls [$300]
+PapaShango19 folds
+aroundasky folds
+zander133 folds
+zweistein16 folds
+ruslanxxx79 checks
+** Dealing flop ** [ 2c, 5d, 5h ]
+ruslanxxx79 checks
+fourtine checks
+** Dealing turn ** [ Jc ]
+ruslanxxx79 checks
+fourtine checks
+** Dealing river ** [ 7h ]
+ruslanxxx79 checks
+fourtine bets [$300]
+ruslanxxx79 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $990 ]
+
+
+
+#Game No : 646077939
+***** 888poker Hand History for Game 646077939 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:30:42
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $5,860 )
+Seat 2: zander133 ( $12,230 )
+Seat 4: zweistein16 ( $9,026 )
+Seat 6: ruslanxxx79 ( $17,730 )
+Seat 7: fourtine ( $6,113 )
+Seat 9: PapaShango19 ( $7,559 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+ruslanxxx79 posts small blind [$150]
+fourtine posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2s ]
+PapaShango19 folds
+aroundasky raises [$600]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $990 ]
+
+
+
+#Game No : 646077970
+***** 888poker Hand History for Game 646077970 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:31:08
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,510 )
+Seat 2: zander133 ( $12,190 )
+Seat 4: zweistein16 ( $8,986 )
+Seat 6: ruslanxxx79 ( $17,540 )
+Seat 7: fourtine ( $5,773 )
+Seat 9: PapaShango19 ( $7,519 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+fourtine posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 5s ]
+aroundasky raises [$600]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 calls [$600]
+fourtine calls [$450]
+PapaShango19 calls [$300]
+** Dealing flop ** [ Qd, Kc, 5d ]
+fourtine bets [$300]
+PapaShango19 folds
+aroundasky folds
+ruslanxxx79 calls [$300]
+** Dealing turn ** [ 3h ]
+fourtine bets [$300]
+ruslanxxx79 calls [$300]
+** Dealing river ** [ 5h ]
+fourtine bets [$300]
+ruslanxxx79 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $3,840 ]
+
+
+
+#Game No : 646078018
+***** 888poker Hand History for Game 646078018 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:31:45
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $5,870 )
+Seat 2: zander133 ( $12,150 )
+Seat 4: zweistein16 ( $8,946 )
+Seat 6: ruslanxxx79 ( $16,300 )
+Seat 7: fourtine ( $8,373 )
+Seat 9: PapaShango19 ( $6,879 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+PapaShango19 posts small blind [$150]
+aroundasky posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 6d ]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$300]
+PapaShango19 calls [$150]
+aroundasky raises [$5,530]
+fourtine folds
+PapaShango19 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $1,140 ]
+
+
+
+#Game No : 646078054
+***** 888poker Hand History for Game 646078054 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:32:10
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,670 )
+Seat 2: zander133 ( $12,110 )
+Seat 4: zweistein16 ( $8,906 )
+Seat 6: ruslanxxx79 ( $16,260 )
+Seat 7: fourtine ( $8,033 )
+Seat 9: PapaShango19 ( $6,539 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+aroundasky posts small blind [$150]
+zander133 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 9d ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$300]
+PapaShango19 folds
+aroundasky folds
+zander133 checks
+** Dealing flop ** [ 6s, Kc, Qc ]
+zander133 checks
+fourtine checks
+** Dealing turn ** [ Jh ]
+zander133 checks
+fourtine checks
+** Dealing river ** [ 2d ]
+zander133 checks
+fourtine checks
+** Summary **
+zander133 shows [ 2h, Ac ]
+fourtine shows [ As, 6h ]
+fourtine collected [ $990 ]
+
+
+
+#Game No : 646078093
+***** 888poker Hand History for Game 646078093 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:32:46
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,480 )
+Seat 2: zander133 ( $11,770 )
+Seat 4: zweistein16 ( $8,866 )
+Seat 6: ruslanxxx79 ( $16,220 )
+Seat 7: fourtine ( $8,683 )
+Seat 9: PapaShango19 ( $6,499 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+zander133 posts small blind [$150]
+zweistein16 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Ac ]
+ruslanxxx79 folds
+fourtine raises [$600]
+PapaShango19 folds
+aroundasky folds
+zander133 folds
+zweistein16 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $990 ]
+
+
+
+#Game No : 646078111
+***** 888poker Hand History for Game 646078111 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:33:02
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,440 )
+Seat 2: zander133 ( $11,580 )
+Seat 4: zweistein16 ( $8,526 )
+Seat 6: ruslanxxx79 ( $16,180 )
+Seat 7: fourtine ( $9,333 )
+Seat 9: PapaShango19 ( $6,459 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+zweistein16 posts small blind [$150]
+ruslanxxx79 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 6h ]
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$600]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $990 ]
+
+
+
+#Game No : 646078145
+***** 888poker Hand History for Game 646078145 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:33:27
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $7,090 )
+Seat 2: zander133 ( $11,540 )
+Seat 4: zweistein16 ( $8,336 )
+Seat 6: ruslanxxx79 ( $15,840 )
+Seat 7: fourtine ( $9,293 )
+Seat 9: PapaShango19 ( $6,419 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+ruslanxxx79 posts small blind [$150]
+fourtine posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 4d ]
+PapaShango19 folds
+aroundasky folds
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+** Summary **
+fourtine did not show his hand
+fourtine collected [ $690 ]
+
+
+
+#Game No : 646078163
+***** 888poker Hand History for Game 646078163 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:33:44
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $7,050 )
+Seat 2: zander133 ( $11,500 )
+Seat 4: zweistein16 ( $8,296 )
+Seat 6: ruslanxxx79 ( $15,650 )
+Seat 7: fourtine ( $9,643 )
+Seat 9: PapaShango19 ( $6,379 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+fourtine posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Ts ]
+aroundasky folds
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ 3d, Th, Ac ]
+fourtine checks
+PapaShango19 bets [$300]
+fourtine folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $840 ]
+
+
+
+#Game No : 646078211
+***** 888poker Hand History for Game 646078211 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:34:12
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $7,010 )
+Seat 2: zander133 ( $11,460 )
+Seat 4: zweistein16 ( $8,256 )
+Seat 6: ruslanxxx79 ( $15,610 )
+Seat 7: fourtine ( $9,303 )
+Seat 9: PapaShango19 ( $6,879 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+PapaShango19 posts small blind [$150]
+aroundasky posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 7s ]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$300]
+PapaShango19 folds
+aroundasky checks
+** Dealing flop ** [ 8d, Th, Ah ]
+aroundasky checks
+fourtine checks
+** Dealing turn ** [ 2h ]
+aroundasky checks
+fourtine bets [$300]
+aroundasky calls [$300]
+** Dealing river ** [ Jd ]
+aroundasky checks
+fourtine checks
+** Summary **
+aroundasky shows [ 4h, 5c ]
+fourtine shows [ Ac, 8s ]
+fourtine collected [ $1,590 ]
+
+
+
+#Game No : 646078285
+***** 888poker Hand History for Game 646078285 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:35:08
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,370 )
+Seat 2: zander133 ( $11,420 )
+Seat 4: zweistein16 ( $8,216 )
+Seat 6: ruslanxxx79 ( $15,570 )
+Seat 7: fourtine ( $10,253 )
+Seat 9: PapaShango19 ( $6,689 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+aroundasky posts small blind [$150]
+zander133 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Tc ]
+zweistein16 folds
+ruslanxxx79 folds
+fourtine calls [$300]
+PapaShango19 folds
+aroundasky folds
+zander133 checks
+** Dealing flop ** [ 6d, 8c, Kh ]
+zander133 checks
+fourtine checks
+** Dealing turn ** [ Th ]
+zander133 checks
+fourtine checks
+** Dealing river ** [ 9s ]
+zander133 checks
+fourtine checks
+** Summary **
+zander133 shows [ 3s, 4c ]
+fourtine shows [ Ah, 9d ]
+fourtine collected [ $990 ]
+
+
+
+#Game No : 646078335
+***** 888poker Hand History for Game 646078335 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 10:35:40
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,180 )
+Seat 2: zander133 ( $11,080 )
+Seat 4: zweistein16 ( $8,176 )
+Seat 6: ruslanxxx79 ( $15,530 )
+Seat 7: fourtine ( $10,903 )
+Seat 9: PapaShango19 ( $6,649 )
+fourtine posts ante [$40]
+aroundasky posts ante [$40]
+PapaShango19 posts ante [$40]
+zweistein16 posts ante [$40]
+ruslanxxx79 posts ante [$40]
+zander133 posts ante [$40]
+zander133 posts small blind [$150]
+zweistein16 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6c ]
+ruslanxxx79 folds
+fourtine folds
+PapaShango19 folds
+aroundasky folds
+zander133 raises [$450]
+zweistein16 folds
+** Summary **
+zander133 did not show his hand
+zander133 collected [ $840 ]
+
+
+
+#Game No : 646078365
+***** 888poker Hand History for Game 646078365 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:35:59
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,140 )
+Seat 2: zander133 ( $11,580 )
+Seat 4: zweistein16 ( $7,836 )
+Seat 6: ruslanxxx79 ( $15,490 )
+Seat 7: fourtine ( $10,863 )
+Seat 9: PapaShango19 ( $6,609 )
+fourtine posts ante [$50]
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+zweistein16 posts small blind [$200]
+ruslanxxx79 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Qd ]
+fourtine folds
+PapaShango19 folds
+aroundasky raises [$6,090]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $1,300 ]
+
+
+
+#Game No : 646078403
+***** 888poker Hand History for Game 646078403 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:36:30
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,990 )
+Seat 2: zander133 ( $11,530 )
+Seat 4: zweistein16 ( $7,586 )
+Seat 6: ruslanxxx79 ( $15,040 )
+Seat 7: fourtine ( $10,813 )
+Seat 9: PapaShango19 ( $6,559 )
+fourtine posts ante [$50]
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+ruslanxxx79 posts small blind [$200]
+fourtine posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Qh ]
+PapaShango19 folds
+aroundasky raises [$800]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 calls [$600]
+fourtine calls [$400]
+** Dealing flop ** [ Ac, 8c, 4c ]
+ruslanxxx79 checks
+fourtine checks
+aroundasky checks
+** Dealing turn ** [ Kc ]
+ruslanxxx79 bets [$400]
+fourtine folds
+aroundasky folds
+** Summary **
+ruslanxxx79 did not show his hand
+ruslanxxx79 collected [ $2,700 ]
+
+
+
+#Game No : 646078476
+***** 888poker Hand History for Game 646078476 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:37:09
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,140 )
+Seat 2: zander133 ( $11,480 )
+Seat 4: zweistein16 ( $7,536 )
+Seat 6: ruslanxxx79 ( $16,890 )
+Seat 7: fourtine ( $9,963 )
+Seat 9: PapaShango19 ( $6,509 )
+fourtine posts ante [$50]
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+fourtine posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 2h ]
+aroundasky folds
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+fourtine folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $900 ]
+
+
+
+#Game No : 646078501
+***** 888poker Hand History for Game 646078501 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:37:24
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $6,090 )
+Seat 2: zander133 ( $11,430 )
+Seat 4: zweistein16 ( $7,486 )
+Seat 6: ruslanxxx79 ( $16,840 )
+Seat 7: fourtine ( $9,713 )
+Seat 9: PapaShango19 ( $6,959 )
+fourtine posts ante [$50]
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+PapaShango19 posts small blind [$200]
+aroundasky posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7d ]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 raises [$800]
+fourtine calls [$800]
+PapaShango19 folds
+aroundasky folds
+** Dealing flop ** [ 5d, 4d, 8c ]
+ruslanxxx79 bets [$1,250]
+fourtine calls [$1,250]
+** Dealing turn ** [ 9c ]
+ruslanxxx79 bets [$2,500]
+fourtine calls [$2,500]
+** Dealing river ** [ 2d ]
+ruslanxxx79 checks
+fourtine bets [$5,113]
+ruslanxxx79 calls [$5,113]
+** Summary **
+ruslanxxx79 shows [ Jd, Jc ]
+fourtine shows [ Kc, Tc ]
+ruslanxxx79 collected [ $20,226 ]
+
+
+
+#Game No : 646078600
+***** 888poker Hand History for Game 646078600 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:38:21
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $5,640 )
+Seat 2: zander133 ( $11,380 )
+Seat 4: zweistein16 ( $7,436 )
+Seat 6: ruslanxxx79 ( $27,353 )
+Seat 7: ...Swendy... ( $14,830 )
+Seat 9: PapaShango19 ( $6,709 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+aroundasky posts small blind [$200]
+zander133 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 5h ]
+zweistein16 folds
+ruslanxxx79 folds
+...Swendy... folds
+PapaShango19 folds
+aroundasky raises [$5,390]
+zander133 calls [$5,190]
+** Dealing flop ** [ Ts, 8h, 4h ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Qh ]
+** Summary **
+aroundasky shows [ 3h, Qc ]
+zander133 shows [ Jd, Jc ]
+aroundasky collected [ $11,480 ]
+
+
+
+#Game No : 646078663
+***** 888poker Hand History for Game 646078663 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:39:01
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $11,480 )
+Seat 2: zander133 ( $5,740 )
+Seat 4: zweistein16 ( $7,386 )
+Seat 6: ruslanxxx79 ( $27,303 )
+Seat 7: ...Swendy... ( $14,780 )
+Seat 9: PapaShango19 ( $6,659 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+zander133 posts small blind [$200]
+zweistein16 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6c ]
+ruslanxxx79 folds
+...Swendy... calls [$400]
+PapaShango19 folds
+aroundasky folds
+zander133 raises [$5,490]
+zweistein16 folds
+...Swendy... calls [$5,290]
+** Dealing flop ** [ 2c, Js, 4h ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ Ac ]
+** Summary **
+zander133 shows [ Ad, Kc ]
+...Swendy... shows [ 3s, 3c ]
+zander133 collected [ $12,080 ]
+
+
+
+#Game No : 646078728
+***** 888poker Hand History for Game 646078728 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:39:42
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $11,430 )
+Seat 2: zander133 ( $12,080 )
+Seat 4: zweistein16 ( $6,936 )
+Seat 6: ruslanxxx79 ( $27,253 )
+Seat 7: ...Swendy... ( $9,040 )
+Seat 9: PapaShango19 ( $6,609 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+zweistein16 posts small blind [$200]
+ruslanxxx79 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 2h ]
+...Swendy... folds
+PapaShango19 folds
+aroundasky folds
+zander133 folds
+zweistein16 calls [$200]
+ruslanxxx79 checks
+** Dealing flop ** [ 8s, 7s, Kh ]
+zweistein16 bets [$400]
+ruslanxxx79 folds
+** Summary **
+zweistein16 did not show his hand
+zweistein16 collected [ $1,100 ]
+
+
+
+#Game No : 646078774
+***** 888poker Hand History for Game 646078774 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:40:06
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $11,380 )
+Seat 2: zander133 ( $12,030 )
+Seat 4: zweistein16 ( $7,586 )
+Seat 6: ruslanxxx79 ( $26,803 )
+Seat 7: ...Swendy... ( $8,990 )
+Seat 9: PapaShango19 ( $6,559 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+ruslanxxx79 posts small blind [$200]
+...Swendy... posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Ah ]
+PapaShango19 folds
+aroundasky raises [$800]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+...Swendy... calls [$400]
+** Dealing flop ** [ 4d, 3c, 5c ]
+...Swendy... checks
+aroundasky bets [$1,050]
+...Swendy... folds
+** Summary **
+aroundasky did not show his hand
+aroundasky collected [ $2,100 ]
+
+
+
+#Game No : 646078838
+***** 888poker Hand History for Game 646078838 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:40:36
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $12,630 )
+Seat 2: zander133 ( $11,980 )
+Seat 4: zweistein16 ( $7,536 )
+Seat 6: ruslanxxx79 ( $26,553 )
+Seat 7: ...Swendy... ( $8,140 )
+Seat 9: PapaShango19 ( $6,509 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+...Swendy... posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Tc ]
+aroundasky raises [$800]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 calls [$800]
+...Swendy... folds
+PapaShango19 calls [$400]
+** Dealing flop ** [ Jh, 5s, 9d ]
+PapaShango19 checks
+aroundasky checks
+ruslanxxx79 bets [$1,450]
+PapaShango19 folds
+aroundasky calls [$1,450]
+** Dealing turn ** [ 2d ]
+aroundasky checks
+ruslanxxx79 bets [$2,900]
+aroundasky folds
+** Summary **
+ruslanxxx79 did not show his hand
+ruslanxxx79 collected [ $5,800 ]
+
+
+
+#Game No : 646078964
+***** 888poker Hand History for Game 646078964 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:41:59
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $10,330 )
+Seat 2: zander133 ( $11,930 )
+Seat 4: zweistein16 ( $7,486 )
+Seat 6: ruslanxxx79 ( $30,053 )
+Seat 7: ...Swendy... ( $7,890 )
+Seat 9: PapaShango19 ( $5,659 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+PapaShango19 posts small blind [$200]
+aroundasky posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4s ]
+zander133 folds
+zweistein16 folds
+ruslanxxx79 folds
+...Swendy... calls [$400]
+PapaShango19 calls [$200]
+aroundasky checks
+** Dealing flop ** [ 3c, 2c, 4c ]
+PapaShango19 checks
+aroundasky checks
+...Swendy... checks
+** Dealing turn ** [ Kc ]
+PapaShango19 checks
+aroundasky bets [$750]
+...Swendy... raises [$7,440]
+PapaShango19 folds
+aroundasky calls [$6,690]
+** Dealing river ** [ 9c ]
+** Summary **
+aroundasky shows [ 8c, Kd ]
+...Swendy... shows [ 7s, Jc ]
+...Swendy... collected [ $16,380 ]
+
+
+
+#Game No : 646079055
+***** 888poker Hand History for Game 646079055 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:43:02
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $2,440 )
+Seat 2: zander133 ( $11,880 )
+Seat 4: zweistein16 ( $7,436 )
+Seat 6: ruslanxxx79 ( $30,003 )
+Seat 7: ...Swendy... ( $16,380 )
+Seat 9: PapaShango19 ( $5,209 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+aroundasky posts small blind [$200]
+zander133 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 5h ]
+zweistein16 folds
+ruslanxxx79 folds
+...Swendy... folds
+PapaShango19 folds
+aroundasky raises [$2,190]
+zander133 calls [$1,990]
+** Dealing flop ** [ 6h, Td, 9d ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 8d ]
+** Summary **
+aroundasky shows [ Kd, 3h ]
+zander133 shows [ Ah, 3d ]
+aroundasky collected [ $5,080 ]
+
+
+
+#Game No : 646079114
+***** 888poker Hand History for Game 646079114 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 10:43:38
+Tournament #64409364 $1.35 + $0.15 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: aroundasky ( $5,080 )
+Seat 2: zander133 ( $9,440 )
+Seat 4: zweistein16 ( $7,386 )
+Seat 6: ruslanxxx79 ( $29,953 )
+Seat 7: ...Swendy... ( $16,330 )
+Seat 9: PapaShango19 ( $5,159 )
+aroundasky posts ante [$50]
+PapaShango19 posts ante [$50]
+zweistein16 posts ante [$50]
+ruslanxxx79 posts ante [$50]
+zander133 posts ante [$50]
+...Swendy... posts ante [$50]
+zander133 posts small blind [$200]
+zweistein16 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 6s ]
+ruslanxxx79 folds
+...Swendy... folds
+PapaShango19 folds
+aroundasky raises [$5,030]
+zander133 folds
+zweistein16 calls [$4,630]
+** Dealing flop ** [ 6c, Qc, 3h ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ 8c ]
+** Summary **
+aroundasky shows [ 8s, 8h ]
+zweistein16 shows [ Ac, Ad ]
+zweistein16 collected [ $10,560 ]
+
+
+
+#Game No : 646079146
+***** 888poker Hand History for Game 646079146 *****
+$250/$500 Blinds No Limit Holdem - *** 16 12 2014 10:44:08
+Tournament #64409364 $1.35 + $0.15 - Table #35 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Hippokr023 ( $15,592 )
+Seat 2: jeffperes ( $7,429 )
+Seat 4: Howflydwy ( $10,346 )
+Seat 7: Ga1nerrrr ( $15,195 )
+Seat 9: colaperm1 ( $36,125 )
+jeffperes posts ante [$60]
+Ga1nerrrr posts ante [$60]
+Howflydwy posts ante [$60]
+Hippokr023 posts ante [$60]
+colaperm1 posts ante [$60]
+Howflydwy posts small blind [$250]
+Ga1nerrrr posts big blind [$500]
+** Dealing down cards **
+colaperm1 folds
+Hippokr023 folds
+jeffperes raises [$7,369]
+Howflydwy folds
+Ga1nerrrr calls [$6,869]
+** Dealing flop ** [ 4d, Ks, 6h ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 8d ]
+** Summary **
+jeffperes shows [ Js, 9s ]
+Ga1nerrrr shows [ 7h, 7c ]
+Ga1nerrrr collected [ $15,288 ]
+
+
+
+#Game No : 646079210
+***** 888poker Hand History for Game 646079210 *****
+$250/$500 Blinds No Limit Holdem - *** 16 12 2014 10:44:33
+Tournament #64409364 $1.35 + $0.15 - Table #35 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 1: Hippokr023 ( $15,532 )
+Seat 4: Howflydwy ( $10,036 )
+Seat 7: Ga1nerrrr ( $23,054 )
+Seat 9: colaperm1 ( $36,065 )
+Ga1nerrrr posts ante [$60]
+Howflydwy posts ante [$60]
+Hippokr023 posts ante [$60]
+colaperm1 posts ante [$60]
+Ga1nerrrr posts small blind [$250]
+colaperm1 posts big blind [$500]
+** Dealing down cards **
+Hippokr023 calls [$500]
+Howflydwy folds
+Ga1nerrrr calls [$250]
+colaperm1 checks
+** Dealing flop ** [ Kd, 6c, Ad ]
+Ga1nerrrr bets [$750]
+colaperm1 folds
+Hippokr023 calls [$750]
+** Dealing turn ** [ Tc ]
+Ga1nerrrr checks
+Hippokr023 checks
+** Dealing river ** [ Qd ]
+Ga1nerrrr checks
+Hippokr023 bets [$1,500]
+Ga1nerrrr calls [$1,500]
+** Summary **
+Hippokr023 shows [ 7s, 6s ]
+Ga1nerrrr shows [ Qh, Ks ]
+Ga1nerrrr collected [ $6,240 ]
+
+
+
+#Game No : 646079366
+***** 888poker Hand History for Game 646079366 *****
+$250/$500 Blinds No Limit Holdem - *** 16 12 2014 10:46:03
+Tournament #64409364 $1.35 + $0.15 - Table #35 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Hippokr023 ( $12,722 )
+Seat 4: Howflydwy ( $9,976 )
+Seat 6: PapaShango19 ( $5,109 )
+Seat 7: Ga1nerrrr ( $26,484 )
+Seat 9: colaperm1 ( $35,505 )
+Ga1nerrrr posts ante [$60]
+Howflydwy posts ante [$60]
+Hippokr023 posts ante [$60]
+colaperm1 posts ante [$60]
+PapaShango19 posts ante [$60]
+colaperm1 posts small blind [$250]
+Hippokr023 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 3d ]
+Howflydwy folds
+PapaShango19 folds
+Ga1nerrrr folds
+colaperm1 folds
+** Summary **
+Hippokr023 did not show his hand
+Hippokr023 collected [ $1,050 ]
+
+
+
+#Game No : 646079410
+***** 888poker Hand History for Game 646079410 *****
+$250/$500 Blinds No Limit Holdem - *** 16 12 2014 10:46:28
+Tournament #64409364 $1.35 + $0.15 - Table #35 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Hippokr023 ( $13,212 )
+Seat 4: Howflydwy ( $9,916 )
+Seat 6: PapaShango19 ( $5,049 )
+Seat 7: Ga1nerrrr ( $26,424 )
+Seat 9: colaperm1 ( $35,195 )
+Ga1nerrrr posts ante [$60]
+Howflydwy posts ante [$60]
+Hippokr023 posts ante [$60]
+colaperm1 posts ante [$60]
+PapaShango19 posts ante [$60]
+Hippokr023 posts small blind [$250]
+Howflydwy posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 8h ]
+PapaShango19 folds
+Ga1nerrrr folds
+colaperm1 raises [$1,000]
+Hippokr023 folds
+Howflydwy raises [$9,356]
+colaperm1 folds
+** Summary **
+Howflydwy did not show his hand
+Howflydwy collected [ $2,550 ]
+
+
+
+#Game No : 646079450
+***** 888poker Hand History for Game 646079450 *****
+$250/$500 Blinds No Limit Holdem - *** 16 12 2014 10:46:52
+Tournament #64409364 $1.35 + $0.15 - Table #35 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Hippokr023 ( $12,902 )
+Seat 4: Howflydwy ( $11,406 )
+Seat 6: PapaShango19 ( $4,989 )
+Seat 7: Ga1nerrrr ( $26,364 )
+Seat 9: colaperm1 ( $34,135 )
+Ga1nerrrr posts ante [$60]
+Howflydwy posts ante [$60]
+Hippokr023 posts ante [$60]
+colaperm1 posts ante [$60]
+PapaShango19 posts ante [$60]
+Howflydwy posts small blind [$250]
+PapaShango19 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 5h ]
+Ga1nerrrr folds
+colaperm1 folds
+Hippokr023 calls [$500]
+Howflydwy folds
+PapaShango19 checks
+** Dealing flop ** [ Ah, 9d, 3d ]
+PapaShango19 checks
+Hippokr023 checks
+** Dealing turn ** [ 8s ]
+PapaShango19 checks
+Hippokr023 checks
+** Dealing river ** [ Td ]
+PapaShango19 checks
+Hippokr023 checks
+** Summary **
+PapaShango19 shows [ Ks, 5h ]
+Hippokr023 shows [ Kh, Jc ]
+Hippokr023 collected [ $1,550 ]
+
+
+
+#Game No : 646079503
+***** 888poker Hand History for Game 646079503 *****
+$250/$500 Blinds No Limit Holdem - *** 16 12 2014 10:47:28
+Tournament #64409364 $1.35 + $0.15 - Table #35 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Hippokr023 ( $13,892 )
+Seat 2: Naum_S1960 ( $32,610 )
+Seat 4: Howflydwy ( $11,096 )
+Seat 6: PapaShango19 ( $4,429 )
+Seat 7: Ga1nerrrr ( $26,304 )
+Seat 9: colaperm1 ( $34,075 )
+Ga1nerrrr posts ante [$60]
+Howflydwy posts ante [$60]
+Hippokr023 posts ante [$60]
+colaperm1 posts ante [$60]
+PapaShango19 posts ante [$60]
+Naum_S1960 posts ante [$60]
+PapaShango19 posts small blind [$250]
+Ga1nerrrr posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Ac ]
+colaperm1 folds
+Hippokr023 folds
+Naum_S1960 calls [$500]
+Howflydwy raises [$2,610]
+PapaShango19 folds
+Ga1nerrrr folds
+Naum_S1960 folds
+** Summary **
+Howflydwy did not show his hand
+Howflydwy collected [ $2,110 ]
+
+
+
+#Game No : 646079581
+***** 888poker Hand History for Game 646079581 *****
+$250/$500 Blinds No Limit Holdem - *** 16 12 2014 10:48:18
+Tournament #64409364 $1.35 + $0.15 - Table #35 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Hippokr023 ( $13,832 )
+Seat 2: Naum_S1960 ( $32,050 )
+Seat 4: Howflydwy ( $12,646 )
+Seat 6: PapaShango19 ( $4,119 )
+Seat 7: Ga1nerrrr ( $25,744 )
+Seat 9: colaperm1 ( $34,015 )
+Ga1nerrrr posts ante [$60]
+Howflydwy posts ante [$60]
+Hippokr023 posts ante [$60]
+colaperm1 posts ante [$60]
+PapaShango19 posts ante [$60]
+Naum_S1960 posts ante [$60]
+Ga1nerrrr posts small blind [$250]
+colaperm1 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 6d ]
+Hippokr023 folds
+Naum_S1960 folds
+Howflydwy folds
+PapaShango19 raises [$4,059]
+Ga1nerrrr calls [$3,809]
+colaperm1 folds
+** Dealing flop ** [ Th, 9c, 8h ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Tc ]
+** Summary **
+PapaShango19 shows [ 6h, 6d ]
+Ga1nerrrr shows [ Qc, Ah ]
+Ga1nerrrr collected [ $8,978 ]
+
+
+

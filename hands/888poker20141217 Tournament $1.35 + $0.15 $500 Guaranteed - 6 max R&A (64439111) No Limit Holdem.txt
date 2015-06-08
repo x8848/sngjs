@@ -1,0 +1,3712 @@
+#Game No : 490799150
+***** 888poker Hand History for Game 490799150 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 09:15:25
+Tournament #64439111 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: Jaayson ( $2,000 )
+Seat 4: n0limps ( $2,000 )
+Seat 6: colaperm1 ( $2,000 )
+Seat 7: jsharp90 ( $2,000 )
+Seat 9: foss130 ( $2,000 )
+Jaayson posts small blind [$10]
+n0limps posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Th ]
+colaperm1 calls [$20]
+jsharp90 calls [$20]
+foss130 folds
+PapaShango19 folds
+Jaayson folds
+n0limps checks
+** Dealing flop ** [ 6h, Jd, 4c ]
+n0limps checks
+colaperm1 bets [$52]
+jsharp90 folds
+n0limps calls [$52]
+** Dealing turn ** [ Qs ]
+n0limps checks
+colaperm1 bets [$174]
+n0limps folds
+** Summary **
+colaperm1 did not show his hand
+colaperm1 collected [ $174 ]
+
+
+
+#Game No : 490799257
+***** 888poker Hand History for Game 490799257 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 09:16:55
+Tournament #64439111 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: Jaayson ( $1,990 )
+Seat 4: n0limps ( $3,928 )
+Seat 6: colaperm1 ( $2,102 )
+Seat 7: jsharp90 ( $1,980 )
+Seat 9: foss130 ( $2,000 )
+n0limps posts small blind [$10]
+colaperm1 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 6c ]
+jsharp90 raises [$40]
+foss130 calls [$40]
+PapaShango19 folds
+Jaayson folds
+n0limps folds
+colaperm1 folds
+** Dealing flop ** [ 4d, 8c, 8d ]
+jsharp90 bets [$55]
+foss130 folds
+** Summary **
+jsharp90 did not show his hand
+jsharp90 collected [ $110 ]
+
+
+
+#Game No : 490799302
+***** 888poker Hand History for Game 490799302 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 09:17:38
+Tournament #64439111 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: Jaayson ( $1,990 )
+Seat 4: n0limps ( $3,918 )
+Seat 6: colaperm1 ( $2,082 )
+Seat 7: jsharp90 ( $2,050 )
+Seat 9: foss130 ( $3,960 )
+colaperm1 posts small blind [$10]
+jsharp90 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, As ]
+foss130 raises [$70]
+PapaShango19 folds
+Jaayson folds
+n0limps calls [$70]
+colaperm1 calls [$60]
+jsharp90 calls [$50]
+** Dealing flop ** [ 9c, Ah, 7s ]
+colaperm1 bets [$140]
+jsharp90 folds
+foss130 calls [$140]
+n0limps folds
+** Dealing turn ** [ 2s ]
+colaperm1 checks
+foss130 bets [$280]
+colaperm1 calls [$280]
+** Dealing river ** [ 8d ]
+colaperm1 checks
+foss130 checks
+** Summary **
+colaperm1 shows [ Ks, 9h ]
+foss130 shows [ Ts, Ad ]
+foss130 collected [ $1,120 ]
+
+
+
+#Game No : 490799372
+***** 888poker Hand History for Game 490799372 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 09:18:42
+Tournament #64439111 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: Jaayson ( $1,990 )
+Seat 4: n0limps ( $3,848 )
+Seat 6: colaperm1 ( $1,592 )
+Seat 7: jsharp90 ( $1,980 )
+Seat 9: foss130 ( $4,590 )
+jsharp90 posts small blind [$10]
+foss130 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 6d ]
+PapaShango19 calls [$20]
+Jaayson folds
+n0limps folds
+colaperm1 calls [$20]
+jsharp90 folds
+foss130 raises [$70]
+PapaShango19 folds
+colaperm1 calls [$70]
+** Dealing flop ** [ Ac, Tc, Qh ]
+foss130 checks
+colaperm1 checks
+** Dealing turn ** [ Jc ]
+foss130 checks
+colaperm1 checks
+** Dealing river ** [ Kh ]
+foss130 checks
+colaperm1 bets [$20]
+foss130 calls [$20]
+** Summary **
+colaperm1 shows [ 3s, 3d ]
+foss130 shows [ 8d, 8h ]
+colaperm1 collected [ $125 ]
+foss130 collected [ $125 ]
+
+
+
+#Game No : 490799478
+***** 888poker Hand History for Game 490799478 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 09:20:16
+Tournament #64439111 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,980 )
+Seat 2: Jaayson ( $1,990 )
+Seat 4: n0limps ( $3,848 )
+Seat 6: colaperm1 ( $1,607 )
+Seat 7: jsharp90 ( $1,970 )
+Seat 9: foss130 ( $4,605 )
+foss130 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 4d ]
+Jaayson folds
+n0limps folds
+colaperm1 folds
+jsharp90 raises [$52]
+foss130 calls [$42]
+PapaShango19 folds
+** Dealing flop ** [ 6s, Ad, Ks ]
+foss130 checks
+jsharp90 bets [$82]
+foss130 calls [$82]
+** Dealing turn ** [ 3s ]
+foss130 checks
+jsharp90 bets [$216]
+foss130 folds
+** Summary **
+jsharp90 did not show his hand
+jsharp90 collected [ $288 ]
+
+
+
+#Game No : 490799607
+***** 888poker Hand History for Game 490799607 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 09:22:21
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2:  ( $2,000 )
+Seat 4:  ( $1,950 )
+Seat 6:  ( $3,774 )
+Seat 7:  ( $5,990 )
+Seat 9:  ( $2,000 )
+ posts small blind [$10]
+ posts big blind [$20]
+** Dealing down cards **
+Dealt to  [ Ad, Th ]
+ calls [$20]
+ folds
+ folds
+ raises [$50]
+ folds
+ calls [$40]
+** Dealing flop ** [ 4d, Qh, Td ]
+ bets [$60]
+ folds
+** Summary **
+ collected [ $140 ]
+
+
+
+#Game No : 490799652
+***** 888poker Hand History for Game 490799652 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 09:22:57
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,000 )
+Seat 2: ojay599 ( $2,000 )
+Seat 4: PapaShango19 ( $2,030 )
+Seat 6: tiger_storm ( $3,754 )
+Seat 7: coltop0710 ( $5,930 )
+Seat 9: kingo2222 ( $2,000 )
+tiger_storm posts small blind [$10]
+coltop0710 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 3s ]
+kingo2222 raises [$40]
+Bolygo07 folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$20]
+** Dealing flop ** [ 4h, 4d, 7d ]
+coltop0710 bets [$90]
+kingo2222 calls [$90]
+** Dealing turn ** [ 4c ]
+coltop0710 bets [$5,800]
+kingo2222 folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $270 ]
+
+
+
+#Game No : 490799783
+***** 888poker Hand History for Game 490799783 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 09:24:45
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,000 )
+Seat 2: ojay599 ( $2,000 )
+Seat 4: PapaShango19 ( $2,030 )
+Seat 6: tiger_storm ( $3,744 )
+Seat 7: coltop0710 ( $6,070 )
+Seat 9: kingo2222 ( $1,870 )
+coltop0710 posts small blind [$15]
+kingo2222 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 5h ]
+Bolygo07 folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+** Summary **
+kingo2222 did not show his hand
+kingo2222 collected [ $45 ]
+
+
+
+#Game No : 490799814
+***** 888poker Hand History for Game 490799814 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 09:25:12
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,000 )
+Seat 2: ojay599 ( $2,000 )
+Seat 4: PapaShango19 ( $2,030 )
+Seat 6: tiger_storm ( $3,744 )
+Seat 7: coltop0710 ( $6,055 )
+Seat 9: kingo2222 ( $1,885 )
+kingo2222 posts small blind [$15]
+Bolygo07 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 7h ]
+ojay599 calls [$30]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$30]
+kingo2222 calls [$15]
+Bolygo07 checks
+** Dealing flop ** [ 3h, 3s, Tc ]
+kingo2222 checks
+Bolygo07 checks
+ojay599 bets [$30]
+coltop0710 folds
+kingo2222 calls [$30]
+Bolygo07 folds
+** Dealing turn ** [ Qd ]
+kingo2222 checks
+ojay599 checks
+** Dealing river ** [ Ah ]
+kingo2222 checks
+ojay599 checks
+** Summary **
+kingo2222 shows [ Ks, Jd ]
+ojay599 shows [ Jc, Kh ]
+ojay599 collected [ $90 ]
+kingo2222 collected [ $90 ]
+
+
+
+#Game No : 490799881
+***** 888poker Hand History for Game 490799881 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 09:26:08
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $1,970 )
+Seat 2: ojay599 ( $2,030 )
+Seat 4: PapaShango19 ( $2,030 )
+Seat 6: tiger_storm ( $3,744 )
+Seat 7: coltop0710 ( $6,025 )
+Seat 9: kingo2222 ( $1,915 )
+Bolygo07 posts small blind [$15]
+ojay599 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 6h ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$30]
+kingo2222 calls [$30]
+Bolygo07 calls [$15]
+ojay599 checks
+** Dealing flop ** [ 4s, Td, Ah ]
+Bolygo07 checks
+ojay599 bets [$30]
+coltop0710 raises [$60]
+kingo2222 folds
+Bolygo07 folds
+ojay599 calls [$30]
+** Dealing turn ** [ 8d ]
+ojay599 checks
+coltop0710 bets [$30]
+ojay599 calls [$30]
+** Dealing river ** [ 6c ]
+ojay599 checks
+coltop0710 bets [$30]
+ojay599 calls [$30]
+** Summary **
+coltop0710 shows [ Qs, Ac ]
+ojay599 mucks [ 2s, Ts ]
+coltop0710 collected [ $360 ]
+
+
+
+#Game No : 490799970
+***** 888poker Hand History for Game 490799970 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 09:27:30
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $1,940 )
+Seat 2: ojay599 ( $1,880 )
+Seat 4: PapaShango19 ( $2,030 )
+Seat 6: tiger_storm ( $3,744 )
+Seat 7: coltop0710 ( $6,235 )
+Seat 9: kingo2222 ( $1,885 )
+ojay599 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Qh ]
+tiger_storm folds
+coltop0710 raises [$60]
+kingo2222 folds
+Bolygo07 folds
+ojay599 folds
+PapaShango19 folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $75 ]
+
+
+
+#Game No : 490799998
+***** 888poker Hand History for Game 490799998 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 09:27:55
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $1,940 )
+Seat 2: ojay599 ( $1,865 )
+Seat 4: PapaShango19 ( $2,000 )
+Seat 6: tiger_storm ( $3,744 )
+Seat 7: coltop0710 ( $6,280 )
+Seat 9: kingo2222 ( $1,885 )
+PapaShango19 posts small blind [$15]
+tiger_storm posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Tc ]
+coltop0710 folds
+kingo2222 raises [$60]
+Bolygo07 folds
+ojay599 calls [$60]
+PapaShango19 folds
+tiger_storm folds
+** Dealing flop ** [ 6d, 3d, Kd ]
+kingo2222 bets [$82]
+ojay599 calls [$82]
+** Dealing turn ** [ 9h ]
+kingo2222 bets [$164]
+ojay599 folds
+** Summary **
+kingo2222 did not show his hand
+kingo2222 collected [ $329 ]
+
+
+
+#Game No : 490800051
+***** 888poker Hand History for Game 490800051 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 09:28:54
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $1,940 )
+Seat 2: ojay599 ( $1,723 )
+Seat 4: PapaShango19 ( $1,985 )
+Seat 6: tiger_storm ( $3,714 )
+Seat 7: coltop0710 ( $6,280 )
+Seat 9: kingo2222 ( $2,072 )
+tiger_storm posts small blind [$15]
+coltop0710 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 2h ]
+kingo2222 calls [$30]
+Bolygo07 folds
+ojay599 calls [$30]
+PapaShango19 folds
+tiger_storm calls [$15]
+coltop0710 checks
+** Dealing flop ** [ Qs, Js, 9h ]
+tiger_storm checks
+coltop0710 checks
+kingo2222 checks
+ojay599 checks
+** Dealing turn ** [ Qc ]
+tiger_storm checks
+coltop0710 checks
+kingo2222 checks
+ojay599 checks
+** Dealing river ** [ Jc ]
+tiger_storm checks
+coltop0710 checks
+kingo2222 checks
+ojay599 checks
+** Summary **
+tiger_storm shows [ 5c, 8d ]
+coltop0710 shows [ 2d, 6d ]
+kingo2222 shows [ 9c, 8c ]
+ojay599 shows [ Kd, 7s ]
+ojay599 collected [ $120 ]
+
+
+
+#Game No : 490800105
+***** 888poker Hand History for Game 490800105 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 09:29:47
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $1,940 )
+Seat 2: ojay599 ( $1,813 )
+Seat 4: PapaShango19 ( $1,985 )
+Seat 6: tiger_storm ( $3,684 )
+Seat 7: coltop0710 ( $6,250 )
+Seat 9: kingo2222 ( $2,042 )
+coltop0710 posts small blind [$15]
+kingo2222 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 4s ]
+Bolygo07 folds
+ojay599 folds
+PapaShango19 raises [$60]
+tiger_storm folds
+coltop0710 raises [$75]
+kingo2222 raises [$210]
+PapaShango19 folds
+coltop0710 calls [$150]
+** Dealing flop ** [ 8c, Qs, 9h ]
+coltop0710 bets [$60]
+kingo2222 raises [$210]
+coltop0710 raises [$5,950]
+kingo2222 calls [$1,592]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 5c ]
+** Summary **
+coltop0710 shows [ Jh, Td ]
+kingo2222 shows [ Kd, Kc ]
+coltop0710 collected [ $4,144 ]
+
+
+
+#Game No : 490800207
+***** 888poker Hand History for Game 490800207 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:31:36
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Bolygo07 ( $1,940 )
+Seat 2: ojay599 ( $1,813 )
+Seat 4: PapaShango19 ( $1,925 )
+Seat 6: tiger_storm ( $3,684 )
+Seat 7: coltop0710 ( $8,352 )
+Bolygo07 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5d ]
+ojay599 folds
+PapaShango19 folds
+tiger_storm calls [$50]
+coltop0710 raises [$100]
+Bolygo07 calls [$50]
+tiger_storm calls [$50]
+** Dealing flop ** [ 6d, Kd, Js ]
+Bolygo07 bets [$150]
+tiger_storm folds
+coltop0710 folds
+** Summary **
+Bolygo07 collected [ $300 ]
+
+
+
+#Game No : 490800253
+***** 888poker Hand History for Game 490800253 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:32:32
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Bolygo07 ( $2,140 )
+Seat 2: ojay599 ( $1,813 )
+Seat 4: PapaShango19 ( $1,925 )
+Seat 6: tiger_storm ( $3,584 )
+Seat 7: coltop0710 ( $8,252 )
+Bolygo07 posts small blind [$25]
+ojay599 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 4s ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Bolygo07 raises [$75]
+ojay599 calls [$50]
+** Dealing flop ** [ Kh, 5d, 9h ]
+Bolygo07 bets [$50]
+ojay599 calls [$50]
+** Dealing turn ** [ 5c ]
+Bolygo07 bets [$50]
+ojay599 calls [$50]
+** Dealing river ** [ 3s ]
+Bolygo07 bets [$50]
+ojay599 folds
+** Summary **
+Bolygo07 collected [ $400 ]
+
+
+
+#Game No : 490800317
+***** 888poker Hand History for Game 490800317 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:33:35
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,340 )
+Seat 2: ojay599 ( $1,613 )
+Seat 4: PapaShango19 ( $1,925 )
+Seat 6: tiger_storm ( $3,584 )
+Seat 7: coltop0710 ( $8,252 )
+Seat 9: Pokeroid_KI ( $4,000 )
+ojay599 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Th ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+Bolygo07 folds
+ojay599 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $75 ]
+
+
+
+#Game No : 490800357
+***** 888poker Hand History for Game 490800357 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:34:01
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,340 )
+Seat 2: ojay599 ( $1,588 )
+Seat 4: PapaShango19 ( $1,950 )
+Seat 6: tiger_storm ( $3,584 )
+Seat 7: coltop0710 ( $8,252 )
+Seat 9: Pokeroid_KI ( $4,000 )
+PapaShango19 posts small blind [$25]
+tiger_storm posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Kc ]
+coltop0710 folds
+Pokeroid_KI folds
+Bolygo07 calls [$50]
+ojay599 folds
+PapaShango19 raises [$125]
+tiger_storm folds
+Bolygo07 calls [$100]
+** Dealing flop ** [ Kh, 8h, Ks ]
+PapaShango19 bets [$100]
+Bolygo07 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $350 ]
+
+
+
+#Game No : 490800400
+***** 888poker Hand History for Game 490800400 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:34:46
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,190 )
+Seat 2: ojay599 ( $1,588 )
+Seat 4: PapaShango19 ( $2,150 )
+Seat 6: tiger_storm ( $3,534 )
+Seat 7: coltop0710 ( $8,252 )
+Seat 9: Pokeroid_KI ( $4,000 )
+tiger_storm posts small blind [$25]
+coltop0710 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Ah ]
+Pokeroid_KI raises [$100]
+Bolygo07 raises [$150]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI calls [$50]
+** Dealing flop ** [ 9c, 7s, 2s ]
+Pokeroid_KI checks
+Bolygo07 bets [$100]
+Pokeroid_KI calls [$100]
+** Dealing turn ** [ Jd ]
+Pokeroid_KI checks
+Bolygo07 bets [$50]
+Pokeroid_KI calls [$50]
+** Dealing river ** [ Qd ]
+Pokeroid_KI checks
+Bolygo07 bets [$100]
+Pokeroid_KI calls [$100]
+** Summary **
+Bolygo07 shows [ Ad, Qs ]
+Pokeroid_KI mucks [ 8s, 8h ]
+Bolygo07 collected [ $875 ]
+
+
+
+#Game No : 490800468
+***** 888poker Hand History for Game 490800468 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:36:00
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,665 )
+Seat 2: ojay599 ( $1,588 )
+Seat 4: PapaShango19 ( $2,150 )
+Seat 6: tiger_storm ( $3,509 )
+Seat 7: coltop0710 ( $8,202 )
+Seat 9: Pokeroid_KI ( $3,600 )
+coltop0710 posts small blind [$25]
+Pokeroid_KI posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4h ]
+Bolygo07 folds
+ojay599 raises [$100]
+PapaShango19 folds
+tiger_storm calls [$100]
+coltop0710 folds
+Pokeroid_KI folds
+** Dealing flop ** [ 6c, 7d, 5h ]
+ojay599 bets [$50]
+tiger_storm calls [$50]
+** Dealing turn ** [ 4s ]
+ojay599 bets [$50]
+tiger_storm calls [$50]
+** Dealing river ** [ Kh ]
+ojay599 bets [$356]
+tiger_storm folds
+** Summary **
+ojay599 did not show his hand
+ojay599 collected [ $475 ]
+
+
+
+#Game No : 490800519
+***** 888poker Hand History for Game 490800519 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:36:59
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,665 )
+Seat 2: ojay599 ( $1,863 )
+Seat 4: PapaShango19 ( $2,150 )
+Seat 6: tiger_storm ( $3,309 )
+Seat 7: coltop0710 ( $8,177 )
+Seat 9: Pokeroid_KI ( $3,550 )
+Pokeroid_KI posts small blind [$25]
+Bolygo07 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 2h ]
+ojay599 folds
+PapaShango19 folds
+tiger_storm calls [$50]
+coltop0710 folds
+Pokeroid_KI folds
+Bolygo07 checks
+** Dealing flop ** [ 3d, 5d, 8c ]
+Bolygo07 bets [$50]
+tiger_storm calls [$50]
+** Dealing turn ** [ Kd ]
+Bolygo07 bets [$50]
+tiger_storm calls [$50]
+** Dealing river ** [ 8h ]
+Bolygo07 bets [$100]
+tiger_storm folds
+** Summary **
+Bolygo07 did not show his hand
+Bolygo07 collected [ $325 ]
+
+
+
+#Game No : 490800556
+***** 888poker Hand History for Game 490800556 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:37:37
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,840 )
+Seat 2: ojay599 ( $1,863 )
+Seat 4: PapaShango19 ( $2,150 )
+Seat 6: tiger_storm ( $3,159 )
+Seat 7: coltop0710 ( $8,177 )
+Seat 9: Pokeroid_KI ( $3,525 )
+Bolygo07 posts small blind [$25]
+ojay599 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Qs ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+Bolygo07 folds
+** Summary **
+ojay599 did not show his hand
+ojay599 collected [ $75 ]
+
+
+
+#Game No : 490800581
+***** 888poker Hand History for Game 490800581 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:37:58
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,815 )
+Seat 2: ojay599 ( $1,888 )
+Seat 4: PapaShango19 ( $2,150 )
+Seat 6: tiger_storm ( $3,159 )
+Seat 7: coltop0710 ( $8,177 )
+Seat 9: Pokeroid_KI ( $3,525 )
+ojay599 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 6s ]
+tiger_storm raises [$175]
+coltop0710 calls [$175]
+Pokeroid_KI folds
+Bolygo07 calls [$175]
+ojay599 folds
+PapaShango19 folds
+** Dealing flop ** [ Jc, 7h, 3d ]
+tiger_storm bets [$600]
+coltop0710 folds
+Bolygo07 folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $600 ]
+
+
+
+#Game No : 490800619
+***** 888poker Hand History for Game 490800619 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 09:38:43
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,640 )
+Seat 2: ojay599 ( $1,863 )
+Seat 4: PapaShango19 ( $2,100 )
+Seat 6: tiger_storm ( $3,584 )
+Seat 7: coltop0710 ( $8,002 )
+Seat 9: Pokeroid_KI ( $3,525 )
+PapaShango19 posts small blind [$25]
+tiger_storm posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Jh ]
+coltop0710 folds
+Pokeroid_KI folds
+Bolygo07 calls [$50]
+ojay599 folds
+PapaShango19 folds
+tiger_storm checks
+** Dealing flop ** [ 4d, Ad, Jd ]
+tiger_storm bets [$62]
+Bolygo07 calls [$62]
+** Dealing turn ** [ 8h ]
+tiger_storm checks
+Bolygo07 bets [$50]
+tiger_storm calls [$50]
+** Dealing river ** [ 6s ]
+tiger_storm checks
+Bolygo07 bets [$50]
+tiger_storm calls [$50]
+** Summary **
+Bolygo07 shows [ Jc, Qs ]
+tiger_storm shows [ 4s, As ]
+tiger_storm collected [ $449 ]
+
+
+
+#Game No : 490800673
+***** 888poker Hand History for Game 490800673 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:39:36
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,428 )
+Seat 2: ojay599 ( $1,863 )
+Seat 4: PapaShango19 ( $2,075 )
+Seat 6: tiger_storm ( $3,821 )
+Seat 7: coltop0710 ( $8,002 )
+Seat 9: Pokeroid_KI ( $3,525 )
+tiger_storm posts small blind [$50]
+coltop0710 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 5h ]
+Pokeroid_KI raises [$262]
+Bolygo07 folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $250 ]
+
+
+
+#Game No : 490800691
+***** 888poker Hand History for Game 490800691 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:40:00
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,428 )
+Seat 2: ojay599 ( $1,863 )
+Seat 4: PapaShango19 ( $2,075 )
+Seat 6: tiger_storm ( $3,771 )
+Seat 7: coltop0710 ( $7,902 )
+Seat 9: Pokeroid_KI ( $3,675 )
+coltop0710 posts small blind [$50]
+Pokeroid_KI posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Jc ]
+Bolygo07 folds
+ojay599 raises [$200]
+PapaShango19 calls [$200]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+** Dealing flop ** [ 4s, 6d, Th ]
+ojay599 checks
+PapaShango19 checks
+** Dealing turn ** [ 9d ]
+ojay599 checks
+PapaShango19 checks
+** Dealing river ** [ 8d ]
+ojay599 bets [$100]
+PapaShango19 raises [$300]
+ojay599 raises [$400]
+PapaShango19 raises [$600]
+ojay599 calls [$400]
+** Summary **
+PapaShango19 shows [ Qc, Jc ]
+ojay599 mucks [ Ac, 8h ]
+PapaShango19 collected [ $2,350 ]
+
+
+
+#Game No : 490800759
+***** 888poker Hand History for Game 490800759 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:41:07
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,428 )
+Seat 2: ojay599 ( $763 )
+Seat 4: PapaShango19 ( $3,325 )
+Seat 6: tiger_storm ( $3,771 )
+Seat 7: coltop0710 ( $7,852 )
+Seat 9: Pokeroid_KI ( $3,575 )
+Pokeroid_KI posts small blind [$50]
+Bolygo07 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 4d ]
+ojay599 raises [$200]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$200]
+Pokeroid_KI calls [$150]
+Bolygo07 folds
+** Dealing flop ** [ Jh, Jd, 7d ]
+Pokeroid_KI checks
+ojay599 bets [$100]
+coltop0710 raises [$1,000]
+Pokeroid_KI folds
+ojay599 calls [$463]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ 8s ]
+** Summary **
+ojay599 shows [ Js, Jc ]
+coltop0710 shows [ Qs, Ad ]
+ojay599 collected [ $1,826 ]
+
+
+
+#Game No : 490800832
+***** 888poker Hand History for Game 490800832 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:42:17
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,328 )
+Seat 2: ojay599 ( $1,826 )
+Seat 4: PapaShango19 ( $3,325 )
+Seat 6: tiger_storm ( $3,771 )
+Seat 7: coltop0710 ( $7,089 )
+Seat 9: Pokeroid_KI ( $3,375 )
+Bolygo07 posts small blind [$50]
+ojay599 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 7h ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$100]
+Pokeroid_KI folds
+Bolygo07 calls [$50]
+ojay599 checks
+** Dealing flop ** [ Tc, 9d, 2d ]
+Bolygo07 checks
+ojay599 bets [$100]
+coltop0710 folds
+Bolygo07 folds
+** Summary **
+ojay599 did not show his hand
+ojay599 collected [ $300 ]
+
+
+
+#Game No : 490800872
+***** 888poker Hand History for Game 490800872 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:42:53
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Bolygo07 ( $2,228 )
+Seat 2: ojay599 ( $2,026 )
+Seat 4: PapaShango19 ( $3,325 )
+Seat 6: tiger_storm ( $3,771 )
+Seat 7: coltop0710 ( $6,989 )
+Seat 9: Pokeroid_KI ( $3,375 )
+ojay599 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Kh ]
+tiger_storm folds
+coltop0710 calls [$100]
+Pokeroid_KI raises [$200]
+Bolygo07 raises [$400]
+ojay599 calls [$350]
+PapaShango19 folds
+coltop0710 calls [$300]
+Pokeroid_KI raises [$950]
+Bolygo07 raises [$1,828]
+ojay599 folds
+coltop0710 folds
+Pokeroid_KI calls [$1,078]
+** Dealing flop ** [ Js, Ts, Th ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 8s ]
+** Summary **
+Bolygo07 shows [ Kc, Ah ]
+Pokeroid_KI shows [ Ad, As ]
+Pokeroid_KI collected [ $5,356 ]
+
+
+
+#Game No : 490800953
+***** 888poker Hand History for Game 490800953 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:44:03
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: ojay599 ( $1,626 )
+Seat 4: PapaShango19 ( $3,225 )
+Seat 6: tiger_storm ( $3,771 )
+Seat 7: coltop0710 ( $6,589 )
+Seat 9: Pokeroid_KI ( $6,503 )
+PapaShango19 posts small blind [$50]
+tiger_storm posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5s ]
+coltop0710 folds
+Pokeroid_KI folds
+ojay599 calls [$100]
+PapaShango19 folds
+tiger_storm checks
+** Dealing flop ** [ 7d, 9d, Qs ]
+tiger_storm checks
+ojay599 bets [$100]
+tiger_storm folds
+** Summary **
+ojay599 collected [ $250 ]
+
+
+
+#Game No : 490800980
+***** 888poker Hand History for Game 490800980 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:44:35
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,000 )
+Seat 2: ojay599 ( $1,776 )
+Seat 4: PapaShango19 ( $3,175 )
+Seat 6: tiger_storm ( $3,671 )
+Seat 7: coltop0710 ( $6,589 )
+Seat 9: Pokeroid_KI ( $6,503 )
+tiger_storm posts small blind [$50]
+coltop0710 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 7d ]
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$100]
+PapaShango19 calls [$100]
+tiger_storm calls [$50]
+coltop0710 checks
+** Dealing flop ** [ 8h, 9c, Td ]
+tiger_storm bets [$3,571]
+coltop0710 folds
+ojay599 calls [$1,676]
+PapaShango19 folds
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 6d ]
+** Summary **
+ojay599 shows [ Kc, Kh ]
+tiger_storm shows [ 9h, 8s ]
+tiger_storm collected [ $3,752 ]
+
+
+
+#Game No : 490801053
+***** 888poker Hand History for Game 490801053 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:45:44
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,000 )
+Seat 2: ojay599 ( $4,000 )
+Seat 4: PapaShango19 ( $3,075 )
+Seat 6: tiger_storm ( $5,647 )
+Seat 7: coltop0710 ( $6,489 )
+Seat 9: Pokeroid_KI ( $6,503 )
+coltop0710 posts small blind [$50]
+Pokeroid_KI posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 8c ]
+gohanken folds
+ojay599 folds
+PapaShango19 raises [$200]
+tiger_storm calls [$200]
+coltop0710 raises [$250]
+Pokeroid_KI folds
+PapaShango19 calls [$100]
+tiger_storm calls [$100]
+** Dealing flop ** [ 6h, 2d, 3s ]
+coltop0710 checks
+PapaShango19 checks
+tiger_storm bets [$1,000]
+coltop0710 folds
+PapaShango19 folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $1,000 ]
+
+
+
+#Game No : 490801102
+***** 888poker Hand History for Game 490801102 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 09:46:30
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,000 )
+Seat 2: ojay599 ( $4,000 )
+Seat 4: PapaShango19 ( $2,775 )
+Seat 6: tiger_storm ( $6,347 )
+Seat 7: coltop0710 ( $6,189 )
+Seat 9: Pokeroid_KI ( $6,403 )
+Pokeroid_KI posts small blind [$50]
+gohanken posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 3c ]
+ojay599 calls [$100]
+PapaShango19 folds
+tiger_storm calls [$100]
+coltop0710 calls [$100]
+Pokeroid_KI folds
+gohanken checks
+** Dealing flop ** [ 5h, 2c, Jd ]
+gohanken checks
+ojay599 checks
+tiger_storm checks
+coltop0710 checks
+** Dealing turn ** [ 5c ]
+gohanken checks
+ojay599 checks
+tiger_storm checks
+coltop0710 bets [$100]
+gohanken folds
+ojay599 folds
+tiger_storm folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $450 ]
+
+
+
+#Game No : 490801155
+***** 888poker Hand History for Game 490801155 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:47:24
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,900 )
+Seat 2: ojay599 ( $3,900 )
+Seat 4: PapaShango19 ( $2,775 )
+Seat 6: tiger_storm ( $6,247 )
+Seat 7: coltop0710 ( $6,539 )
+Seat 9: Pokeroid_KI ( $6,353 )
+gohanken posts small blind [$75]
+ojay599 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, As ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 raises [$300]
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$150]
+** Dealing flop ** [ Ts, Qh, 4d ]
+ojay599 checks
+coltop0710 bets [$150]
+ojay599 calls [$150]
+** Dealing turn ** [ 9d ]
+ojay599 checks
+coltop0710 bets [$150]
+ojay599 calls [$150]
+** Dealing river ** [ 4s ]
+ojay599 checks
+coltop0710 checks
+** Summary **
+ojay599 shows [ Ks, Js ]
+coltop0710 mucks [ 7d, Ad ]
+ojay599 collected [ $1,275 ]
+
+
+
+#Game No : 490801198
+***** 888poker Hand History for Game 490801198 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:48:04
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,825 )
+Seat 2: ojay599 ( $4,575 )
+Seat 4: PapaShango19 ( $2,775 )
+Seat 6: tiger_storm ( $6,247 )
+Seat 7: coltop0710 ( $5,939 )
+Seat 9: Pokeroid_KI ( $6,353 )
+ojay599 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Th ]
+tiger_storm calls [$150]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ 9s, Jc, 6s ]
+ojay599 checks
+PapaShango19 checks
+tiger_storm checks
+** Dealing turn ** [ 3s ]
+ojay599 checks
+PapaShango19 checks
+tiger_storm bets [$225]
+ojay599 folds
+PapaShango19 calls [$225]
+** Dealing river ** [ 7h ]
+PapaShango19 checks
+tiger_storm checks
+** Summary **
+PapaShango19 shows [ As, Th ]
+tiger_storm shows [ 9d, Jd ]
+tiger_storm collected [ $900 ]
+
+
+
+#Game No : 490801259
+***** 888poker Hand History for Game 490801259 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:49:11
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,825 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,400 )
+Seat 6: tiger_storm ( $6,772 )
+Seat 7: coltop0710 ( $5,939 )
+Seat 9: Pokeroid_KI ( $6,353 )
+PapaShango19 posts small blind [$75]
+tiger_storm posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Jc ]
+coltop0710 raises [$300]
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $375 ]
+
+
+
+#Game No : 490801288
+***** 888poker Hand History for Game 490801288 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:49:35
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,825 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,325 )
+Seat 6: tiger_storm ( $6,622 )
+Seat 7: coltop0710 ( $6,164 )
+Seat 9: Pokeroid_KI ( $6,353 )
+tiger_storm posts small blind [$75]
+coltop0710 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Ac ]
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+PapaShango19 raises [$300]
+tiger_storm folds
+coltop0710 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 490801318
+***** 888poker Hand History for Game 490801318 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:49:59
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,825 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 6: tiger_storm ( $6,547 )
+Seat 7: coltop0710 ( $6,014 )
+Seat 9: Pokeroid_KI ( $6,353 )
+coltop0710 posts small blind [$75]
+Pokeroid_KI posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 8h ]
+gohanken raises [$1,825]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $375 ]
+
+
+
+#Game No : 490801360
+***** 888poker Hand History for Game 490801360 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:50:34
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,050 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 6: tiger_storm ( $6,547 )
+Seat 7: coltop0710 ( $5,939 )
+Seat 9: Pokeroid_KI ( $6,203 )
+Pokeroid_KI posts small blind [$75]
+gohanken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Th ]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 raises [$300]
+Pokeroid_KI calls [$225]
+gohanken folds
+** Dealing flop ** [ 5c, 9s, 9h ]
+Pokeroid_KI checks
+coltop0710 bets [$150]
+Pokeroid_KI raises [$450]
+coltop0710 calls [$300]
+** Dealing turn ** [ 4d ]
+Pokeroid_KI bets [$825]
+coltop0710 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $1,650 ]
+
+
+
+#Game No : 490801405
+***** 888poker Hand History for Game 490801405 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:51:26
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,900 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 6: tiger_storm ( $6,547 )
+Seat 7: coltop0710 ( $5,189 )
+Seat 9: Pokeroid_KI ( $7,103 )
+gohanken posts small blind [$75]
+ojay599 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Qd ]
+PapaShango19 raises [$300]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 490801440
+***** 888poker Hand History for Game 490801440 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:51:52
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,825 )
+Seat 2: ojay599 ( $4,275 )
+Seat 4: PapaShango19 ( $2,775 )
+Seat 6: tiger_storm ( $6,547 )
+Seat 7: coltop0710 ( $5,189 )
+Seat 9: Pokeroid_KI ( $7,103 )
+ojay599 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2h ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken raises [$1,825]
+ojay599 folds
+PapaShango19 folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $375 ]
+
+
+
+#Game No : 490801469
+***** 888poker Hand History for Game 490801469 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:52:22
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,050 )
+Seat 2: ojay599 ( $4,200 )
+Seat 4: PapaShango19 ( $2,625 )
+Seat 6: tiger_storm ( $6,547 )
+Seat 7: coltop0710 ( $5,189 )
+Seat 9: Pokeroid_KI ( $7,103 )
+PapaShango19 posts small blind [$75]
+tiger_storm posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7c ]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$150]
+PapaShango19 folds
+tiger_storm checks
+** Dealing flop ** [ 8s, 7d, 2s ]
+tiger_storm checks
+ojay599 checks
+** Dealing turn ** [ 4c ]
+tiger_storm checks
+ojay599 checks
+** Dealing river ** [ As ]
+tiger_storm checks
+ojay599 checks
+** Summary **
+tiger_storm shows [ 5s, Tc ]
+ojay599 shows [ Kh, 6h ]
+ojay599 collected [ $375 ]
+
+
+
+#Game No : 490801517
+***** 888poker Hand History for Game 490801517 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:53:07
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,050 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 6: tiger_storm ( $6,397 )
+Seat 7: coltop0710 ( $5,189 )
+Seat 9: Pokeroid_KI ( $7,103 )
+tiger_storm posts small blind [$75]
+coltop0710 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 6c ]
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm calls [$75]
+coltop0710 raises [$5,039]
+tiger_storm folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $300 ]
+
+
+
+#Game No : 490801551
+***** 888poker Hand History for Game 490801551 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:53:43
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,050 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 6: tiger_storm ( $6,247 )
+Seat 7: coltop0710 ( $5,339 )
+Seat 9: Pokeroid_KI ( $7,103 )
+coltop0710 posts small blind [$75]
+Pokeroid_KI posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 7d ]
+gohanken folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $225 ]
+
+
+
+#Game No : 490801575
+***** 888poker Hand History for Game 490801575 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 09:54:04
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,050 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 6: tiger_storm ( $6,247 )
+Seat 7: coltop0710 ( $5,264 )
+Seat 9: Pokeroid_KI ( $7,178 )
+Pokeroid_KI posts small blind [$75]
+gohanken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Jh ]
+ojay599 folds
+PapaShango19 raises [$450]
+tiger_storm folds
+coltop0710 raises [$750]
+Pokeroid_KI folds
+gohanken folds
+PapaShango19 calls [$300]
+** Dealing flop ** [ Jc, 3s, 3h ]
+PapaShango19 checks
+coltop0710 checks
+** Dealing turn ** [ Qh ]
+PapaShango19 checks
+coltop0710 bets [$150]
+PapaShango19 calls [$150]
+** Dealing river ** [ Qs ]
+PapaShango19 checks
+coltop0710 checks
+** Summary **
+PapaShango19 shows [ Jd, Jh ]
+coltop0710 mucks [ Kc, Ac ]
+PapaShango19 collected [ $2,025 ]
+
+
+
+#Game No : 490801692
+***** 888poker Hand History for Game 490801692 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 10:00:00
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,900 )
+Seat 2: ojay599 ( $4,425 )
+Seat 4: PapaShango19 ( $3,675 )
+Seat 6: tiger_storm ( $6,247 )
+Seat 7: coltop0710 ( $4,364 )
+Seat 9: Pokeroid_KI ( $7,103 )
+gohanken posts small blind [$75]
+ojay599 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 4h ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI raises [$300]
+gohanken folds
+ojay599 calls [$150]
+** Dealing flop ** [ 8d, 3c, 4c ]
+ojay599 checks
+Pokeroid_KI bets [$337]
+ojay599 raises [$674]
+Pokeroid_KI folds
+** Summary **
+ojay599 did not show his hand
+ojay599 collected [ $1,349 ]
+
+
+
+#Game No : 490801746
+***** 888poker Hand History for Game 490801746 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:01:04
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,825 )
+Seat 2: ojay599 ( $5,137 )
+Seat 4: PapaShango19 ( $3,675 )
+Seat 6: tiger_storm ( $6,247 )
+Seat 7: coltop0710 ( $4,364 )
+Seat 9: Pokeroid_KI ( $6,466 )
+ojay599 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 3h ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 5h, Kh, 2c ]
+ojay599 checks
+PapaShango19 checks
+** Dealing turn ** [ 5d ]
+ojay599 checks
+PapaShango19 checks
+** Dealing river ** [ 2s ]
+ojay599 checks
+PapaShango19 checks
+** Summary **
+ojay599 shows [ 8s, 3s ]
+PapaShango19 shows [ Td, 3h ]
+ojay599 collected [ $200 ]
+PapaShango19 collected [ $200 ]
+
+
+
+#Game No : 490801798
+***** 888poker Hand History for Game 490801798 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:01:55
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $1,825 )
+Seat 2: ojay599 ( $5,137 )
+Seat 4: PapaShango19 ( $3,675 )
+Seat 6: tiger_storm ( $6,247 )
+Seat 7: coltop0710 ( $4,364 )
+Seat 9: Pokeroid_KI ( $6,466 )
+PapaShango19 posts small blind [$100]
+tiger_storm posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Qd ]
+coltop0710 folds
+Pokeroid_KI raises [$400]
+gohanken raises [$1,825]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+Pokeroid_KI folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $1,100 ]
+
+
+
+#Game No : 490801829
+***** 888poker Hand History for Game 490801829 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:02:18
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,525 )
+Seat 2: ojay599 ( $5,137 )
+Seat 4: PapaShango19 ( $3,575 )
+Seat 6: tiger_storm ( $6,047 )
+Seat 7: coltop0710 ( $4,364 )
+Seat 9: Pokeroid_KI ( $6,066 )
+tiger_storm posts small blind [$100]
+coltop0710 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 9d ]
+Pokeroid_KI folds
+gohanken calls [$200]
+ojay599 calls [$200]
+PapaShango19 folds
+tiger_storm calls [$100]
+coltop0710 checks
+** Dealing flop ** [ 7d, Ad, Jc ]
+tiger_storm checks
+coltop0710 checks
+gohanken checks
+ojay599 bets [$200]
+tiger_storm calls [$200]
+coltop0710 folds
+gohanken folds
+** Dealing turn ** [ 2s ]
+tiger_storm checks
+ojay599 bets [$200]
+tiger_storm calls [$200]
+** Dealing river ** [ 2d ]
+tiger_storm checks
+ojay599 bets [$200]
+tiger_storm calls [$200]
+** Summary **
+ojay599 shows [ Ks, Jd ]
+tiger_storm shows [ Ah, 5d ]
+tiger_storm collected [ $2,000 ]
+
+
+
+#Game No : 490801892
+***** 888poker Hand History for Game 490801892 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:03:12
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,325 )
+Seat 2: ojay599 ( $4,337 )
+Seat 4: PapaShango19 ( $3,575 )
+Seat 6: tiger_storm ( $7,247 )
+Seat 7: coltop0710 ( $4,164 )
+Seat 9: Pokeroid_KI ( $6,066 )
+coltop0710 posts small blind [$100]
+Pokeroid_KI posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, As ]
+gohanken folds
+ojay599 calls [$200]
+PapaShango19 raises [$3,575]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+ojay599 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $700 ]
+
+
+
+#Game No : 490801930
+***** 888poker Hand History for Game 490801930 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:03:40
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,325 )
+Seat 2: ojay599 ( $4,137 )
+Seat 4: PapaShango19 ( $4,075 )
+Seat 6: tiger_storm ( $7,247 )
+Seat 7: coltop0710 ( $4,064 )
+Seat 9: Pokeroid_KI ( $5,866 )
+Pokeroid_KI posts small blind [$100]
+gohanken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 8h ]
+ojay599 folds
+PapaShango19 folds
+tiger_storm raises [$400]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken raises [$2,125]
+tiger_storm calls [$1,925]
+** Dealing flop ** [ Kd, 2d, Th ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ Tc ]
+** Summary **
+gohanken shows [ Ah, As ]
+tiger_storm shows [ Jh, Ac ]
+gohanken collected [ $4,750 ]
+
+
+
+#Game No : 490801978
+***** 888poker Hand History for Game 490801978 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:04:23
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,750 )
+Seat 2: ojay599 ( $4,137 )
+Seat 4: PapaShango19 ( $4,075 )
+Seat 6: tiger_storm ( $4,922 )
+Seat 7: coltop0710 ( $4,064 )
+Seat 9: Pokeroid_KI ( $5,766 )
+gohanken posts small blind [$100]
+ojay599 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, As ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI raises [$400]
+gohanken calls [$300]
+ojay599 raises [$400]
+Pokeroid_KI calls [$200]
+gohanken calls [$200]
+** Dealing flop ** [ 9c, Jh, 7c ]
+gohanken checks
+ojay599 bets [$200]
+Pokeroid_KI raises [$1,200]
+gohanken folds
+ojay599 calls [$1,000]
+** Dealing turn ** [ 8h ]
+ojay599 checks
+Pokeroid_KI bets [$3,966]
+ojay599 calls [$2,337]
+** Dealing river ** [ 9s ]
+** Summary **
+ojay599 shows [ Ad, Ks ]
+Pokeroid_KI shows [ Jd, Kh ]
+Pokeroid_KI collected [ $8,874 ]
+
+
+
+#Game No : 490802054
+***** 888poker Hand History for Game 490802054 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:05:25
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,150 )
+Seat 2: ojay599 ( $4,000 )
+Seat 4: PapaShango19 ( $4,075 )
+Seat 6: tiger_storm ( $4,922 )
+Seat 7: coltop0710 ( $4,064 )
+Seat 9: Pokeroid_KI ( $10,503 )
+ojay599 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 4c ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 9d, Kh, Qh ]
+ojay599 checks
+PapaShango19 bets [$200]
+ojay599 calls [$200]
+** Dealing turn ** [ 5c ]
+ojay599 checks
+PapaShango19 bets [$600]
+ojay599 raises [$1,200]
+PapaShango19 folds
+** Summary **
+ojay599 did not show his hand
+ojay599 collected [ $2,000 ]
+
+
+
+#Game No : 490802176
+***** 888poker Hand History for Game 490802176 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:06:54
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,150 )
+Seat 2: ojay599 ( $5,000 )
+Seat 4: PapaShango19 ( $3,075 )
+Seat 6: tiger_storm ( $4,922 )
+Seat 7: coltop0710 ( $4,064 )
+Seat 9: Pokeroid_KI ( $10,503 )
+PapaShango19 posts small blind [$100]
+tiger_storm posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 5c ]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+PapaShango19 folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $300 ]
+
+
+
+#Game No : 490802211
+***** 888poker Hand History for Game 490802211 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:07:22
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,150 )
+Seat 2: ojay599 ( $5,000 )
+Seat 4: PapaShango19 ( $2,975 )
+Seat 6: tiger_storm ( $5,022 )
+Seat 7: coltop0710 ( $4,064 )
+Seat 9: Pokeroid_KI ( $10,503 )
+tiger_storm posts small blind [$100]
+coltop0710 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Ac ]
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$200]
+PapaShango19 calls [$200]
+tiger_storm calls [$100]
+coltop0710 checks
+** Dealing flop ** [ 6d, 7s, As ]
+tiger_storm checks
+coltop0710 checks
+ojay599 checks
+PapaShango19 bets [$600]
+tiger_storm folds
+coltop0710 folds
+ojay599 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 490802265
+***** 888poker Hand History for Game 490802265 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:08:06
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,150 )
+Seat 2: ojay599 ( $4,800 )
+Seat 4: PapaShango19 ( $3,575 )
+Seat 6: tiger_storm ( $4,822 )
+Seat 7: coltop0710 ( $3,864 )
+Seat 9: Pokeroid_KI ( $10,503 )
+coltop0710 posts small blind [$100]
+Pokeroid_KI posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7h ]
+gohanken folds
+ojay599 calls [$200]
+PapaShango19 folds
+tiger_storm calls [$200]
+coltop0710 folds
+Pokeroid_KI checks
+** Dealing flop ** [ 7s, 5s, 8s ]
+Pokeroid_KI checks
+ojay599 bets [$200]
+tiger_storm folds
+Pokeroid_KI raises [$400]
+ojay599 raises [$400]
+Pokeroid_KI calls [$200]
+** Dealing turn ** [ 2d ]
+Pokeroid_KI checks
+ojay599 checks
+** Dealing river ** [ Kc ]
+Pokeroid_KI checks
+ojay599 checks
+** Summary **
+Pokeroid_KI shows [ Qh, 8c ]
+ojay599 mucks [ 8h, 6h ]
+Pokeroid_KI collected [ $1,900 ]
+
+
+
+#Game No : 490802331
+***** 888poker Hand History for Game 490802331 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:08:58
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,150 )
+Seat 2: ojay599 ( $4,000 )
+Seat 4: PapaShango19 ( $3,575 )
+Seat 6: tiger_storm ( $4,622 )
+Seat 7: coltop0710 ( $3,764 )
+Seat 9: Pokeroid_KI ( $11,603 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+Pokeroid_KI posts small blind [$100]
+gohanken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, As ]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI raises [$300]
+gohanken calls [$200]
+** Dealing flop ** [ Ts, 5c, Kd ]
+Pokeroid_KI checks
+gohanken checks
+** Dealing turn ** [ 3h ]
+Pokeroid_KI bets [$200]
+gohanken folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $950 ]
+
+
+
+#Game No : 490802374
+***** 888poker Hand History for Game 490802374 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:09:30
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,725 )
+Seat 2: ojay599 ( $3,975 )
+Seat 4: PapaShango19 ( $3,550 )
+Seat 6: tiger_storm ( $4,597 )
+Seat 7: coltop0710 ( $3,739 )
+Seat 9: Pokeroid_KI ( $12,128 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+gohanken posts small blind [$100]
+ojay599 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Td ]
+PapaShango19 raises [$400]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $650 ]
+
+
+
+#Game No : 490802396
+***** 888poker Hand History for Game 490802396 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:09:48
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,600 )
+Seat 2: ojay599 ( $3,750 )
+Seat 4: PapaShango19 ( $3,975 )
+Seat 6: tiger_storm ( $4,572 )
+Seat 7: coltop0710 ( $3,714 )
+Seat 9: Pokeroid_KI ( $12,103 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+ojay599 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 9h ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI raises [$400]
+gohanken calls [$400]
+ojay599 folds
+PapaShango19 folds
+** Dealing flop ** [ 9c, 5c, 8d ]
+Pokeroid_KI checks
+gohanken checks
+** Dealing turn ** [ 4s ]
+Pokeroid_KI checks
+gohanken checks
+** Dealing river ** [ 3s ]
+Pokeroid_KI checks
+gohanken checks
+** Summary **
+Pokeroid_KI shows [ Ah, 6c ]
+gohanken mucks [ Qc, Ts ]
+Pokeroid_KI collected [ $1,250 ]
+
+
+
+#Game No : 490802446
+***** 888poker Hand History for Game 490802446 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:10:24
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,175 )
+Seat 2: ojay599 ( $3,625 )
+Seat 4: PapaShango19 ( $3,750 )
+Seat 6: tiger_storm ( $4,547 )
+Seat 7: coltop0710 ( $3,689 )
+Seat 9: Pokeroid_KI ( $12,928 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+PapaShango19 posts small blind [$100]
+tiger_storm posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 5s ]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 calls [$200]
+PapaShango19 folds
+tiger_storm checks
+** Dealing flop ** [ 4h, As, 4s ]
+tiger_storm checks
+ojay599 checks
+** Dealing turn ** [ Jc ]
+tiger_storm checks
+ojay599 checks
+** Dealing river ** [ Tc ]
+tiger_storm checks
+ojay599 checks
+** Summary **
+tiger_storm shows [ Qs, 9h ]
+ojay599 shows [ 6s, Kd ]
+ojay599 collected [ $650 ]
+
+
+
+#Game No : 490802498
+***** 888poker Hand History for Game 490802498 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:11:04
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,150 )
+Seat 2: ojay599 ( $4,050 )
+Seat 4: PapaShango19 ( $3,625 )
+Seat 6: tiger_storm ( $4,322 )
+Seat 7: coltop0710 ( $3,664 )
+Seat 9: Pokeroid_KI ( $12,903 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+tiger_storm posts small blind [$100]
+coltop0710 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9h ]
+Pokeroid_KI folds
+gohanken calls [$200]
+ojay599 calls [$200]
+PapaShango19 folds
+tiger_storm calls [$100]
+coltop0710 checks
+** Dealing flop ** [ Td, Ad, 6c ]
+tiger_storm checks
+coltop0710 checks
+gohanken checks
+ojay599 bets [$712]
+tiger_storm folds
+coltop0710 folds
+gohanken folds
+** Summary **
+ojay599 did not show his hand
+ojay599 collected [ $950 ]
+
+
+
+#Game No : 490802552
+***** 888poker Hand History for Game 490802552 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:11:48
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,925 )
+Seat 2: ojay599 ( $4,775 )
+Seat 4: PapaShango19 ( $3,600 )
+Seat 6: tiger_storm ( $4,097 )
+Seat 7: coltop0710 ( $3,439 )
+Seat 9: Pokeroid_KI ( $12,878 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+coltop0710 posts small blind [$100]
+Pokeroid_KI posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 8d ]
+gohanken calls [$200]
+ojay599 folds
+PapaShango19 raises [$600]
+tiger_storm raises [$4,072]
+coltop0710 calls [$3,314]
+Pokeroid_KI folds
+gohanken folds
+PapaShango19 folds
+** Dealing flop ** [ 5s, 3c, 3s ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Qs ]
+** Summary **
+tiger_storm shows [ Jh, Jd ]
+coltop0710 shows [ Ks, Kd ]
+coltop0710 collected [ $7,978 ]
+
+
+
+#Game No : 490802643
+***** 888poker Hand History for Game 490802643 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:13:09
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,700 )
+Seat 2: ojay599 ( $4,750 )
+Seat 4: PapaShango19 ( $2,975 )
+Seat 6: tiger_storm ( $658 )
+Seat 7: coltop0710 ( $7,978 )
+Seat 9: Pokeroid_KI ( $12,653 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+Pokeroid_KI posts small blind [$100]
+gohanken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 2c ]
+ojay599 calls [$200]
+PapaShango19 calls [$200]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI calls [$100]
+gohanken raises [$2,475]
+ojay599 folds
+PapaShango19 folds
+Pokeroid_KI folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $950 ]
+
+
+
+#Game No : 490802686
+***** 888poker Hand History for Game 490802686 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:13:48
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,425 )
+Seat 2: ojay599 ( $4,525 )
+Seat 4: PapaShango19 ( $2,750 )
+Seat 6: tiger_storm ( $633 )
+Seat 7: coltop0710 ( $7,953 )
+Seat 9: Pokeroid_KI ( $12,428 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+gohanken posts small blind [$100]
+ojay599 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 2s ]
+PapaShango19 folds
+tiger_storm raises [$608]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken raises [$3,300]
+ojay599 folds
+** Dealing flop ** [ Td, 6d, 2c ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 7s ]
+** Summary **
+gohanken shows [ 4s, Qs ]
+tiger_storm shows [ 9c, Ac ]
+tiger_storm collected [ $1,566 ]
+
+
+
+#Game No : 490802742
+***** 888poker Hand History for Game 490802742 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:14:39
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,792 )
+Seat 2: ojay599 ( $4,300 )
+Seat 4: PapaShango19 ( $2,725 )
+Seat 6: tiger_storm ( $1,566 )
+Seat 7: coltop0710 ( $7,928 )
+Seat 9: Pokeroid_KI ( $12,403 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+ojay599 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Jh ]
+tiger_storm raises [$1,541]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+PapaShango19 folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $650 ]
+
+
+
+#Game No : 490802773
+***** 888poker Hand History for Game 490802773 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 10:15:05
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,767 )
+Seat 2: ojay599 ( $4,175 )
+Seat 4: PapaShango19 ( $2,500 )
+Seat 6: tiger_storm ( $1,991 )
+Seat 7: coltop0710 ( $7,903 )
+Seat 9: Pokeroid_KI ( $12,378 )
+ojay599 posts ante [$25]
+PapaShango19 posts ante [$25]
+tiger_storm posts ante [$25]
+coltop0710 posts ante [$25]
+Pokeroid_KI posts ante [$25]
+gohanken posts ante [$25]
+PapaShango19 posts small blind [$100]
+tiger_storm posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 7c ]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken raises [$2,742]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $650 ]
+
+
+
+#Game No : 490803092
+***** 888poker Hand History for Game 490803092 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:20:29
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $8,192 )
+Seat 2: ojay599 ( $9,150 )
+Seat 4: PapaShango19 ( $7,375 )
+Seat 6: tiger_storm ( $8,766 )
+Seat 7: coltop0710 ( $12,878 )
+Seat 9: Pokeroid_KI ( $17,353 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+tiger_storm posts small blind [$125]
+coltop0710 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5s ]
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+PapaShango19 raises [$500]
+tiger_storm calls [$375]
+coltop0710 calls [$250]
+** Dealing flop ** [ Td, 9h, 8d ]
+tiger_storm checks
+coltop0710 checks
+PapaShango19 checks
+** Dealing turn ** [ Jd ]
+tiger_storm checks
+coltop0710 bets [$250]
+PapaShango19 folds
+tiger_storm calls [$250]
+** Dealing river ** [ Qd ]
+tiger_storm checks
+coltop0710 checks
+** Summary **
+tiger_storm shows [ 9c, Qc ]
+coltop0710 shows [ Qh, As ]
+tiger_storm collected [ $1,090 ]
+coltop0710 collected [ $1,090 ]
+
+
+
+#Game No : 490803160
+***** 888poker Hand History for Game 490803160 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:21:49
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $8,162 )
+Seat 2: ojay599 ( $9,120 )
+Seat 4: PapaShango19 ( $6,845 )
+Seat 6: tiger_storm ( $9,076 )
+Seat 7: coltop0710 ( $13,188 )
+Seat 9: Pokeroid_KI ( $17,323 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+coltop0710 posts small blind [$125]
+Pokeroid_KI posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, As ]
+gohanken folds
+ojay599 folds
+PapaShango19 raises [$600]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $805 ]
+
+
+
+#Game No : 490803188
+***** 888poker Hand History for Game 490803188 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:22:16
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $8,132 )
+Seat 2: ojay599 ( $9,090 )
+Seat 4: PapaShango19 ( $7,370 )
+Seat 6: tiger_storm ( $9,046 )
+Seat 7: coltop0710 ( $13,033 )
+Seat 9: Pokeroid_KI ( $17,043 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+Pokeroid_KI posts small blind [$125]
+gohanken posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Kd ]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $555 ]
+
+
+
+#Game No : 490803218
+***** 888poker Hand History for Game 490803218 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:22:44
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $8,407 )
+Seat 2: ojay599 ( $9,060 )
+Seat 4: PapaShango19 ( $7,340 )
+Seat 6: tiger_storm ( $9,016 )
+Seat 7: coltop0710 ( $13,003 )
+Seat 9: Pokeroid_KI ( $16,888 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+gohanken posts small blind [$125]
+ojay599 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Qh ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$250]
+Pokeroid_KI calls [$250]
+gohanken calls [$125]
+ojay599 checks
+** Dealing flop ** [ Ah, 3c, Qd ]
+gohanken checks
+ojay599 checks
+coltop0710 checks
+Pokeroid_KI checks
+** Dealing turn ** [ 4c ]
+gohanken checks
+ojay599 checks
+coltop0710 bets [$250]
+Pokeroid_KI folds
+gohanken calls [$250]
+ojay599 calls [$250]
+** Dealing river ** [ 2c ]
+gohanken checks
+ojay599 checks
+coltop0710 bets [$12,473]
+gohanken folds
+ojay599 folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $1,930 ]
+
+
+
+#Game No : 490803291
+***** 888poker Hand History for Game 490803291 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:23:45
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $7,877 )
+Seat 2: ojay599 ( $8,530 )
+Seat 4: PapaShango19 ( $7,310 )
+Seat 6: tiger_storm ( $8,986 )
+Seat 7: coltop0710 ( $14,403 )
+Seat 9: Pokeroid_KI ( $16,608 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+ojay599 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Jc ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken calls [$250]
+ojay599 calls [$125]
+PapaShango19 raises [$1,000]
+gohanken calls [$1,000]
+ojay599 calls [$1,000]
+** Dealing flop ** [ Jd, Qs, 4c ]
+ojay599 bets [$2,947]
+PapaShango19 calls [$2,947]
+gohanken folds
+** Dealing turn ** [ 3h ]
+ojay599 checks
+PapaShango19 checks
+** Dealing river ** [ Ac ]
+ojay599 checks
+PapaShango19 bets [$3,083]
+ojay599 calls [$3,083]
+** Summary **
+ojay599 shows [ Qc, Kc ]
+PapaShango19 shows [ Jh, Jc ]
+PapaShango19 collected [ $15,990 ]
+
+
+
+#Game No : 490803357
+***** 888poker Hand History for Game 490803357 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:24:54
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $6,597 )
+Seat 2: ojay599 ( $1,220 )
+Seat 4: PapaShango19 ( $15,990 )
+Seat 6: tiger_storm ( $8,956 )
+Seat 7: coltop0710 ( $14,373 )
+Seat 9: Pokeroid_KI ( $16,578 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+PapaShango19 posts small blind [$125]
+tiger_storm posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Qc ]
+coltop0710 calls [$250]
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+PapaShango19 calls [$125]
+tiger_storm checks
+** Dealing flop ** [ As, Kc, 4d ]
+PapaShango19 checks
+tiger_storm checks
+coltop0710 checks
+** Dealing turn ** [ 2d ]
+PapaShango19 checks
+tiger_storm bets [$465]
+coltop0710 folds
+PapaShango19 folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $930 ]
+
+
+
+#Game No : 490803405
+***** 888poker Hand History for Game 490803405 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:25:35
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $6,567 )
+Seat 2: ojay599 ( $1,190 )
+Seat 4: PapaShango19 ( $15,710 )
+Seat 6: tiger_storm ( $9,606 )
+Seat 7: coltop0710 ( $14,093 )
+Seat 9: Pokeroid_KI ( $16,548 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+tiger_storm posts small blind [$125]
+coltop0710 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 3h ]
+Pokeroid_KI raises [$500]
+gohanken folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$250]
+** Dealing flop ** [ Js, Qc, Th ]
+coltop0710 checks
+Pokeroid_KI checks
+** Dealing turn ** [ 6c ]
+coltop0710 checks
+Pokeroid_KI bets [$750]
+coltop0710 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $1,305 ]
+
+
+
+#Game No : 490803459
+***** 888poker Hand History for Game 490803459 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:26:30
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $6,537 )
+Seat 2: ojay599 ( $1,160 )
+Seat 4: PapaShango19 ( $15,680 )
+Seat 6: tiger_storm ( $9,451 )
+Seat 7: coltop0710 ( $13,563 )
+Seat 9: Pokeroid_KI ( $17,323 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+coltop0710 posts small blind [$125]
+Pokeroid_KI posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7d ]
+gohanken folds
+ojay599 folds
+PapaShango19 folds
+tiger_storm raises [$500]
+coltop0710 folds
+Pokeroid_KI folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $805 ]
+
+
+
+#Game No : 490803504
+***** 888poker Hand History for Game 490803504 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:27:02
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $6,507 )
+Seat 2: ojay599 ( $1,130 )
+Seat 4: PapaShango19 ( $15,650 )
+Seat 6: tiger_storm ( $9,976 )
+Seat 7: coltop0710 ( $13,408 )
+Seat 9: Pokeroid_KI ( $17,043 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+Pokeroid_KI posts small blind [$125]
+gohanken posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 6h ]
+ojay599 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$250]
+Pokeroid_KI calls [$125]
+gohanken checks
+** Dealing flop ** [ Ah, 6s, 5c ]
+Pokeroid_KI checks
+gohanken checks
+coltop0710 bets [$250]
+Pokeroid_KI folds
+gohanken folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $930 ]
+
+
+
+#Game No : 490803550
+***** 888poker Hand History for Game 490803550 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 10:27:42
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $6,227 )
+Seat 2: ojay599 ( $1,100 )
+Seat 4: PapaShango19 ( $15,620 )
+Seat 6: tiger_storm ( $9,946 )
+Seat 7: coltop0710 ( $14,058 )
+Seat 9: Pokeroid_KI ( $16,763 )
+ojay599 posts ante [$30]
+PapaShango19 posts ante [$30]
+tiger_storm posts ante [$30]
+coltop0710 posts ante [$30]
+Pokeroid_KI posts ante [$30]
+gohanken posts ante [$30]
+gohanken posts small blind [$125]
+ojay599 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Kd ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$250]
+Pokeroid_KI folds
+gohanken calls [$125]
+ojay599 raises [$250]
+coltop0710 calls [$250]
+gohanken calls [$250]
+** Dealing flop ** [ 4s, 9h, Qd ]
+gohanken checks
+ojay599 checks
+coltop0710 checks
+** Dealing turn ** [ Ac ]
+gohanken checks
+ojay599 checks
+coltop0710 checks
+** Dealing river ** [ Jh ]
+gohanken checks
+ojay599 checks
+coltop0710 bets [$840]
+gohanken folds
+ojay599 folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $1,680 ]
+
+
+
+#Game No : 490803647
+***** 888poker Hand History for Game 490803647 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:28:58
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $5,697 )
+Seat 2: ojay599 ( $570 )
+Seat 4: PapaShango19 ( $15,590 )
+Seat 6: tiger_storm ( $9,916 )
+Seat 7: coltop0710 ( $15,208 )
+Seat 9: Pokeroid_KI ( $16,733 )
+ojay599 posts ante [$40]
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+ojay599 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 5s ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+ojay599 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $690 ]
+
+
+
+#Game No : 490803678
+***** 888poker Hand History for Game 490803678 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:29:22
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $5,657 )
+Seat 2: ojay599 ( $380 )
+Seat 4: PapaShango19 ( $15,940 )
+Seat 6: tiger_storm ( $9,876 )
+Seat 7: coltop0710 ( $15,168 )
+Seat 9: Pokeroid_KI ( $16,693 )
+ojay599 posts ante [$40]
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+PapaShango19 posts small blind [$150]
+tiger_storm posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 8d ]
+coltop0710 folds
+Pokeroid_KI raises [$600]
+gohanken folds
+ojay599 calls [$340]
+PapaShango19 calls [$450]
+tiger_storm calls [$300]
+** Dealing flop ** [ 2c, 4d, 9d ]
+PapaShango19 bets [$600]
+tiger_storm folds
+Pokeroid_KI raises [$1,500]
+PapaShango19 folds
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 7s ]
+** Summary **
+ojay599 shows [ Kh, 7h ]
+Pokeroid_KI shows [ 9s, 9h ]
+Pokeroid_KI collected [ $1,600 ]
+Pokeroid_KI collected [ $1,980 ]
+
+
+
+#Game No : 490803764
+***** 888poker Hand History for Game 490803764 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:30:29
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: gohanken ( $5,617 )
+Seat 4: PapaShango19 ( $14,700 )
+Seat 6: tiger_storm ( $9,236 )
+Seat 7: coltop0710 ( $15,128 )
+Seat 9: Pokeroid_KI ( $19,033 )
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+tiger_storm posts small blind [$150]
+coltop0710 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4h ]
+Pokeroid_KI raises [$600]
+gohanken folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 calls [$300]
+** Dealing flop ** [ Tc, 8h, 7s ]
+coltop0710 checks
+Pokeroid_KI bets [$600]
+coltop0710 calls [$600]
+** Dealing turn ** [ Kd ]
+coltop0710 bets [$300]
+Pokeroid_KI calls [$300]
+** Dealing river ** [ Jh ]
+coltop0710 bets [$13,588]
+Pokeroid_KI folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $3,350 ]
+
+
+
+#Game No : 490803823
+***** 888poker Hand History for Game 490803823 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:31:13
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: gohanken ( $5,577 )
+Seat 4: PapaShango19 ( $14,660 )
+Seat 6: tiger_storm ( $9,046 )
+Seat 7: coltop0710 ( $16,938 )
+Seat 9: Pokeroid_KI ( $17,493 )
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+coltop0710 posts small blind [$150]
+Pokeroid_KI posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 2h ]
+gohanken folds
+PapaShango19 folds
+tiger_storm calls [$300]
+coltop0710 folds
+Pokeroid_KI checks
+** Dealing flop ** [ As, 6h, 9h ]
+Pokeroid_KI checks
+tiger_storm bets [$950]
+Pokeroid_KI calls [$950]
+** Dealing turn ** [ 5s ]
+Pokeroid_KI checks
+tiger_storm bets [$7,756]
+Pokeroid_KI calls [$7,756]
+** Dealing river ** [ 6c ]
+** Summary **
+tiger_storm shows [ Ad, 9s ]
+Pokeroid_KI shows [ Ac, 7h ]
+tiger_storm collected [ $18,362 ]
+
+
+
+#Game No : 490803875
+***** 888poker Hand History for Game 490803875 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:31:52
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $5,537 )
+Seat 2: HopeLm08 ( $16,289 )
+Seat 4: PapaShango19 ( $14,620 )
+Seat 6: tiger_storm ( $18,362 )
+Seat 7: coltop0710 ( $16,748 )
+Seat 9: Pokeroid_KI ( $8,447 )
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+HopeLm08 posts ante [$40]
+Pokeroid_KI posts small blind [$150]
+gohanken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Jd ]
+HopeLm08 raises [$600]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI calls [$450]
+gohanken calls [$300]
+** Dealing flop ** [ 9h, 6c, 7h ]
+Pokeroid_KI checks
+gohanken checks
+HopeLm08 bets [$1,530]
+Pokeroid_KI folds
+gohanken folds
+** Summary **
+HopeLm08 did not show his hand
+HopeLm08 collected [ $2,040 ]
+
+
+
+#Game No : 490803958
+***** 888poker Hand History for Game 490803958 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:32:57
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,897 )
+Seat 2: HopeLm08 ( $17,689 )
+Seat 4: PapaShango19 ( $14,580 )
+Seat 6: tiger_storm ( $18,322 )
+Seat 7: coltop0710 ( $16,708 )
+Seat 9: Pokeroid_KI ( $7,807 )
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+HopeLm08 posts ante [$40]
+gohanken posts small blind [$150]
+HopeLm08 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 6s ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+** Summary **
+HopeLm08 did not show his hand
+HopeLm08 collected [ $690 ]
+
+
+
+#Game No : 490803980
+***** 888poker Hand History for Game 490803980 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:33:18
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,707 )
+Seat 2: HopeLm08 ( $18,039 )
+Seat 4: PapaShango19 ( $14,540 )
+Seat 6: tiger_storm ( $18,282 )
+Seat 7: coltop0710 ( $16,668 )
+Seat 9: Pokeroid_KI ( $7,767 )
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+HopeLm08 posts ante [$40]
+HopeLm08 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 3h ]
+tiger_storm calls [$300]
+coltop0710 raises [$600]
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 folds
+PapaShango19 folds
+tiger_storm calls [$300]
+** Dealing flop ** [ 5h, 9s, 6h ]
+tiger_storm checks
+coltop0710 checks
+** Dealing turn ** [ 8d ]
+tiger_storm checks
+coltop0710 checks
+** Dealing river ** [ 5s ]
+tiger_storm checks
+coltop0710 bets [$300]
+tiger_storm folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $1,890 ]
+
+
+
+#Game No : 490804037
+***** 888poker Hand History for Game 490804037 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:34:00
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,667 )
+Seat 2: HopeLm08 ( $17,849 )
+Seat 4: PapaShango19 ( $14,200 )
+Seat 6: tiger_storm ( $17,642 )
+Seat 7: coltop0710 ( $17,918 )
+Seat 9: Pokeroid_KI ( $7,727 )
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+HopeLm08 posts ante [$40]
+PapaShango19 posts small blind [$150]
+tiger_storm posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 7h ]
+coltop0710 raises [$600]
+Pokeroid_KI calls [$600]
+gohanken calls [$600]
+HopeLm08 folds
+PapaShango19 folds
+tiger_storm calls [$300]
+** Dealing flop ** [ 8s, 8h, Qh ]
+tiger_storm checks
+coltop0710 checks
+Pokeroid_KI checks
+gohanken checks
+** Dealing turn ** [ 3c ]
+tiger_storm checks
+coltop0710 bets [$300]
+Pokeroid_KI calls [$300]
+gohanken folds
+tiger_storm calls [$300]
+** Dealing river ** [ Tc ]
+tiger_storm checks
+coltop0710 checks
+Pokeroid_KI checks
+** Summary **
+tiger_storm shows [ Jc, Ah ]
+coltop0710 shows [ Ac, 3s ]
+Pokeroid_KI shows [ 6s, 6c ]
+Pokeroid_KI collected [ $3,690 ]
+
+
+
+#Game No : 490804103
+***** 888poker Hand History for Game 490804103 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 10:34:44
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,027 )
+Seat 2: HopeLm08 ( $17,809 )
+Seat 4: PapaShango19 ( $14,010 )
+Seat 6: tiger_storm ( $16,702 )
+Seat 7: coltop0710 ( $16,978 )
+Seat 9: Pokeroid_KI ( $10,477 )
+PapaShango19 posts ante [$40]
+tiger_storm posts ante [$40]
+coltop0710 posts ante [$40]
+Pokeroid_KI posts ante [$40]
+gohanken posts ante [$40]
+HopeLm08 posts ante [$40]
+tiger_storm posts small blind [$150]
+coltop0710 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 2c ]
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 folds
+PapaShango19 folds
+tiger_storm calls [$150]
+coltop0710 raises [$16,638]
+tiger_storm folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $840 ]
+
+
+
+#Game No : 490804228
+***** 888poker Hand History for Game 490804228 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:36:11
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,987 )
+Seat 2: HopeLm08 ( $17,769 )
+Seat 4: PapaShango19 ( $13,970 )
+Seat 6: tiger_storm ( $16,362 )
+Seat 7: coltop0710 ( $17,478 )
+Seat 9: Pokeroid_KI ( $10,437 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+coltop0710 posts small blind [$200]
+Pokeroid_KI posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9d ]
+gohanken folds
+HopeLm08 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $900 ]
+
+
+
+#Game No : 490804265
+***** 888poker Hand History for Game 490804265 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:36:39
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,937 )
+Seat 2: HopeLm08 ( $17,719 )
+Seat 4: PapaShango19 ( $13,920 )
+Seat 6: tiger_storm ( $16,312 )
+Seat 7: coltop0710 ( $17,228 )
+Seat 9: Pokeroid_KI ( $10,887 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+Pokeroid_KI posts small blind [$200]
+gohanken posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 8s ]
+HopeLm08 folds
+PapaShango19 raises [$900]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken calls [$500]
+** Dealing flop ** [ Qh, 2d, 8d ]
+gohanken checks
+PapaShango19 bets [$800]
+gohanken folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,300 ]
+
+
+
+#Game No : 490804332
+***** 888poker Hand History for Game 490804332 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:37:20
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $2,987 )
+Seat 2: HopeLm08 ( $17,669 )
+Seat 4: PapaShango19 ( $15,270 )
+Seat 6: tiger_storm ( $16,262 )
+Seat 7: coltop0710 ( $17,178 )
+Seat 9: Pokeroid_KI ( $10,637 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+gohanken posts small blind [$200]
+HopeLm08 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 7d ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken raises [$2,737]
+HopeLm08 folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $1,100 ]
+
+
+
+#Game No : 490804352
+***** 888poker Hand History for Game 490804352 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:37:35
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $3,637 )
+Seat 2: HopeLm08 ( $17,219 )
+Seat 4: PapaShango19 ( $15,220 )
+Seat 6: tiger_storm ( $16,212 )
+Seat 7: coltop0710 ( $17,128 )
+Seat 9: Pokeroid_KI ( $10,587 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+HopeLm08 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 4h ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken raises [$3,587]
+HopeLm08 folds
+PapaShango19 folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $1,300 ]
+
+
+
+#Game No : 490804390
+***** 888poker Hand History for Game 490804390 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:37:59
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,487 )
+Seat 2: HopeLm08 ( $16,969 )
+Seat 4: PapaShango19 ( $14,770 )
+Seat 6: tiger_storm ( $16,162 )
+Seat 7: coltop0710 ( $17,078 )
+Seat 9: Pokeroid_KI ( $10,537 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+PapaShango19 posts small blind [$200]
+tiger_storm posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9c ]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 folds
+PapaShango19 folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $900 ]
+
+
+
+#Game No : 490804421
+***** 888poker Hand History for Game 490804421 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:38:20
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,437 )
+Seat 2: HopeLm08 ( $16,919 )
+Seat 4: PapaShango19 ( $14,520 )
+Seat 6: tiger_storm ( $16,612 )
+Seat 7: coltop0710 ( $17,028 )
+Seat 9: Pokeroid_KI ( $10,487 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+tiger_storm posts small blind [$200]
+coltop0710 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2c ]
+Pokeroid_KI raises [$800]
+gohanken folds
+HopeLm08 raises [$16,869]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+** Summary **
+HopeLm08 did not show his hand
+HopeLm08 collected [ $2,500 ]
+
+
+
+#Game No : 490804449
+***** 888poker Hand History for Game 490804449 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:38:49
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,387 )
+Seat 2: HopeLm08 ( $18,569 )
+Seat 4: PapaShango19 ( $14,470 )
+Seat 6: tiger_storm ( $16,362 )
+Seat 7: coltop0710 ( $16,578 )
+Seat 9: Pokeroid_KI ( $9,637 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+coltop0710 posts small blind [$200]
+Pokeroid_KI posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 4s ]
+gohanken folds
+HopeLm08 folds
+PapaShango19 folds
+tiger_storm calls [$400]
+coltop0710 calls [$200]
+Pokeroid_KI checks
+** Dealing flop ** [ Td, 3s, 4d ]
+coltop0710 bets [$400]
+Pokeroid_KI calls [$400]
+tiger_storm folds
+** Dealing turn ** [ Ah ]
+coltop0710 checks
+Pokeroid_KI bets [$400]
+coltop0710 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $2,300 ]
+
+
+
+#Game No : 490804576
+***** 888poker Hand History for Game 490804576 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:40:35
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,337 )
+Seat 2: HopeLm08 ( $18,519 )
+Seat 4: PapaShango19 ( $14,420 )
+Seat 6: tiger_storm ( $15,912 )
+Seat 7: coltop0710 ( $15,728 )
+Seat 9: Pokeroid_KI ( $11,087 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+Pokeroid_KI posts small blind [$200]
+gohanken posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 2h ]
+HopeLm08 folds
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $900 ]
+
+
+
+#Game No : 490804610
+***** 888poker Hand History for Game 490804610 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:40:51
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,787 )
+Seat 2: HopeLm08 ( $18,469 )
+Seat 4: PapaShango19 ( $14,370 )
+Seat 6: tiger_storm ( $15,862 )
+Seat 7: coltop0710 ( $15,678 )
+Seat 9: Pokeroid_KI ( $10,837 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+gohanken posts small blind [$200]
+HopeLm08 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Jh ]
+PapaShango19 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+** Summary **
+HopeLm08 did not show his hand
+HopeLm08 collected [ $900 ]
+
+
+
+#Game No : 490804622
+***** 888poker Hand History for Game 490804622 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:41:04
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,537 )
+Seat 2: HopeLm08 ( $18,919 )
+Seat 4: PapaShango19 ( $14,320 )
+Seat 6: tiger_storm ( $15,812 )
+Seat 7: coltop0710 ( $15,628 )
+Seat 9: Pokeroid_KI ( $10,787 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+HopeLm08 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 5s ]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 raises [$800]
+PapaShango19 folds
+** Summary **
+HopeLm08 did not show his hand
+HopeLm08 collected [ $1,100 ]
+
+
+
+#Game No : 490804656
+***** 888poker Hand History for Game 490804656 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:41:32
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: gohanken ( $4,487 )
+Seat 2: HopeLm08 ( $19,569 )
+Seat 4: PapaShango19 ( $13,870 )
+Seat 6: tiger_storm ( $15,762 )
+Seat 7: coltop0710 ( $15,578 )
+Seat 9: Pokeroid_KI ( $10,737 )
+PapaShango19 posts ante [$50]
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+PapaShango19 posts small blind [$200]
+tiger_storm posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, As ]
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 folds
+PapaShango19 raises [$700]
+tiger_storm calls [$500]
+** Dealing flop ** [ Ah, Qc, Jd ]
+PapaShango19 bets [$1,200]
+tiger_storm raises [$14,812]
+PapaShango19 calls [$11,720]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 9s ]
+** Summary **
+PapaShango19 shows [ 4d, As ]
+tiger_storm shows [ Jh, Qd ]
+tiger_storm collected [ $27,940 ]
+
+
+
+#Game No : 490804751
+***** 888poker Hand History for Game 490804751 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:42:32
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: gohanken ( $4,437 )
+Seat 2: HopeLm08 ( $19,519 )
+Seat 6: tiger_storm ( $29,832 )
+Seat 7: coltop0710 ( $15,528 )
+Seat 9: Pokeroid_KI ( $10,687 )
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+tiger_storm posts small blind [$200]
+coltop0710 posts big blind [$400]
+** Dealing down cards **
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 folds
+tiger_storm calls [$200]
+coltop0710 checks
+** Dealing flop ** [ 4s, Ah, Qh ]
+tiger_storm bets [$400]
+coltop0710 folds
+** Summary **
+tiger_storm did not show his hand
+tiger_storm collected [ $1,050 ]
+
+
+
+#Game No : 490804795
+***** 888poker Hand History for Game 490804795 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 10:43:05
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: gohanken ( $4,387 )
+Seat 2: HopeLm08 ( $19,469 )
+Seat 6: tiger_storm ( $30,432 )
+Seat 7: coltop0710 ( $15,078 )
+Seat 9: Pokeroid_KI ( $10,637 )
+tiger_storm posts ante [$50]
+coltop0710 posts ante [$50]
+Pokeroid_KI posts ante [$50]
+gohanken posts ante [$50]
+HopeLm08 posts ante [$50]
+coltop0710 posts small blind [$200]
+Pokeroid_KI posts big blind [$400]
+** Dealing down cards **
+gohanken folds
+HopeLm08 raises [$800]
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI calls [$400]
+** Dealing flop ** [ 7c, 6h, Js ]
+Pokeroid_KI checks
+HopeLm08 checks
+** Dealing turn ** [ 9c ]
+Pokeroid_KI bets [$800]
+HopeLm08 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $2,050 ]
+
+
+
+#Game No : 490804875
+***** 888poker Hand History for Game 490804875 *****
+$250/$500 Blinds No Limit Holdem - *** 17 12 2014 10:43:58
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: gohanken ( $4,337 )
+Seat 2: HopeLm08 ( $18,619 )
+Seat 6: tiger_storm ( $30,382 )
+Seat 7: coltop0710 ( $14,828 )
+Seat 9: Pokeroid_KI ( $11,837 )
+tiger_storm posts ante [$60]
+coltop0710 posts ante [$60]
+Pokeroid_KI posts ante [$60]
+gohanken posts ante [$60]
+HopeLm08 posts ante [$60]
+Pokeroid_KI posts small blind [$250]
+gohanken posts big blind [$500]
+** Dealing down cards **
+HopeLm08 folds
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+** Summary **
+gohanken did not show his hand
+gohanken collected [ $1,050 ]
+
+
+
+#Game No : 490804902
+***** 888poker Hand History for Game 490804902 *****
+$250/$500 Blinds No Limit Holdem - *** 17 12 2014 10:44:19
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: gohanken ( $4,827 )
+Seat 2: HopeLm08 ( $18,559 )
+Seat 6: tiger_storm ( $30,322 )
+Seat 7: coltop0710 ( $14,768 )
+Seat 9: Pokeroid_KI ( $11,527 )
+tiger_storm posts ante [$60]
+coltop0710 posts ante [$60]
+Pokeroid_KI posts ante [$60]
+gohanken posts ante [$60]
+HopeLm08 posts ante [$60]
+gohanken posts small blind [$250]
+HopeLm08 posts big blind [$500]
+** Dealing down cards **
+tiger_storm folds
+coltop0710 folds
+Pokeroid_KI folds
+gohanken folds
+** Summary **
+HopeLm08 did not show his hand
+HopeLm08 collected [ $1,050 ]
+
+
+
+#Game No : 490804930
+***** 888poker Hand History for Game 490804930 *****
+$250/$500 Blinds No Limit Holdem - *** 17 12 2014 10:44:36
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: gohanken ( $4,517 )
+Seat 2: HopeLm08 ( $19,049 )
+Seat 6: tiger_storm ( $30,262 )
+Seat 7: coltop0710 ( $14,708 )
+Seat 9: Pokeroid_KI ( $11,467 )
+tiger_storm posts ante [$60]
+coltop0710 posts ante [$60]
+Pokeroid_KI posts ante [$60]
+gohanken posts ante [$60]
+HopeLm08 posts ante [$60]
+HopeLm08 posts small blind [$250]
+tiger_storm posts big blind [$500]
+** Dealing down cards **
+coltop0710 raises [$1,000]
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 folds
+tiger_storm calls [$500]
+** Dealing flop ** [ 7h, Ks, Ts ]
+tiger_storm checks
+coltop0710 bets [$500]
+tiger_storm folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $2,550 ]
+
+
+
+#Game No : 490804977
+***** 888poker Hand History for Game 490804977 *****
+$250/$500 Blinds No Limit Holdem - *** 17 12 2014 10:45:06
+Tournament #64439111 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: gohanken ( $4,457 )
+Seat 2: HopeLm08 ( $18,739 )
+Seat 6: tiger_storm ( $29,202 )
+Seat 7: coltop0710 ( $16,198 )
+Seat 9: Pokeroid_KI ( $11,407 )
+tiger_storm posts ante [$60]
+coltop0710 posts ante [$60]
+Pokeroid_KI posts ante [$60]
+gohanken posts ante [$60]
+HopeLm08 posts ante [$60]
+tiger_storm posts small blind [$250]
+coltop0710 posts big blind [$500]
+** Dealing down cards **
+Pokeroid_KI folds
+gohanken folds
+HopeLm08 folds
+tiger_storm calls [$250]
+coltop0710 raises [$500]
+tiger_storm calls [$500]
+** Dealing flop ** [ 4s, 4c, 2d ]
+tiger_storm checks
+coltop0710 bets [$500]
+tiger_storm calls [$500]
+** Dealing turn ** [ Kh ]
+tiger_storm checks
+coltop0710 bets [$500]
+tiger_storm folds
+** Summary **
+coltop0710 did not show his hand
+coltop0710 collected [ $3,300 ]
+
+
+

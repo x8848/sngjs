@@ -1,0 +1,820 @@
+#Game No : 641777717
+***** 888poker Hand History for Game 641777717 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 10:47:03
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: glavurdan ( $2,030 )
+Seat 2: PapaShango19 ( $2,000 )
+Seat 4: tina018 ( $2,000 )
+Seat 6: ricio_22 ( $6,000 )
+Seat 7: IgorSabov ( $2,000 )
+Seat 9: rfd98 ( $2,000 )
+rfd98 posts small blind [$10]
+glavurdan posts big blind [$20]
+** Dealing down cards **
+PapaShango19 folds
+tina018 folds
+ricio_22 folds
+IgorSabov raises [$2,000]
+rfd98 folds
+glavurdan folds
+** Summary **
+IgorSabov collected [ $50 ]
+
+
+
+#Game No : 641777759
+***** 888poker Hand History for Game 641777759 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 10:47:14
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: glavurdan ( $2,010 )
+Seat 2: PapaShango19 ( $2,000 )
+Seat 4: tina018 ( $4,000 )
+Seat 6: ricio_22 ( $6,000 )
+Seat 7: IgorSabov ( $2,030 )
+Seat 9: rfd98 ( $1,990 )
+glavurdan posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8d ]
+tina018 raises [$40]
+ricio_22 raises [$120]
+IgorSabov folds
+rfd98 folds
+glavurdan calls [$110]
+PapaShango19 folds
+tina018 calls [$80]
+** Dealing flop ** [ Ts, Ac, 5s ]
+glavurdan bets [$190]
+tina018 calls [$190]
+ricio_22 raises [$610]
+glavurdan raises [$1,700]
+tina018 calls [$1,700]
+ricio_22 raises [$5,270]
+tina018 calls [$1,990]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ Kd ]
+** Summary **
+glavurdan shows [ Qs, Ks ]
+tina018 shows [ Js, Qc ]
+ricio_22 shows [ As, Kc ]
+tina018 collected [ $6,050 ]
+tina018 collected [ $3,980 ]
+
+
+
+#Game No : 641777953
+***** 888poker Hand History for Game 641777953 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 10:48:45
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,980 )
+Seat 4: tina018 ( $10,030 )
+Seat 6: ricio_22 ( $4,000 )
+Seat 7: IgorSabov ( $2,030 )
+Seat 9: rfd98 ( $1,990 )
+PapaShango19 posts small blind [$10]
+tina018 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Ah ]
+ricio_22 folds
+IgorSabov raises [$300]
+rfd98 folds
+PapaShango19 folds
+tina018 folds
+** Summary **
+IgorSabov collected [ $50 ]
+
+
+
+#Game No : 641778004
+***** 888poker Hand History for Game 641778004 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 10:49:16
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,000 )
+Seat 2: PapaShango19 ( $1,970 )
+Seat 4: tina018 ( $10,010 )
+Seat 6: ricio_22 ( $4,000 )
+Seat 7: IgorSabov ( $2,060 )
+Seat 9: rfd98 ( $1,990 )
+tina018 posts small blind [$15]
+ricio_22 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Jd ]
+IgorSabov folds
+rfd98 folds
+nguyen666 raises [$105]
+PapaShango19 folds
+tina018 calls [$90]
+ricio_22 folds
+** Dealing flop ** [ 2s, Js, 7h ]
+tina018 checks
+nguyen666 bets [$180]
+tina018 folds
+** Summary **
+nguyen666 did not show his hand
+nguyen666 collected [ $240 ]
+
+
+
+#Game No : 641778095
+***** 888poker Hand History for Game 641778095 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 10:50:12
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,135 )
+Seat 2: PapaShango19 ( $1,970 )
+Seat 4: tina018 ( $9,905 )
+Seat 6: ricio_22 ( $3,970 )
+Seat 7: IgorSabov ( $2,060 )
+Seat 9: rfd98 ( $1,990 )
+ricio_22 posts small blind [$15]
+IgorSabov posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 9s ]
+rfd98 folds
+nguyen666 calls [$30]
+PapaShango19 calls [$30]
+tina018 calls [$30]
+ricio_22 calls [$15]
+IgorSabov checks
+** Dealing flop ** [ Qc, 6h, 4c ]
+ricio_22 bets [$75]
+IgorSabov folds
+nguyen666 folds
+PapaShango19 calls [$75]
+tina018 calls [$75]
+** Dealing turn ** [ 5c ]
+ricio_22 bets [$187]
+PapaShango19 folds
+tina018 folds
+** Summary **
+ricio_22 did not show his hand
+ricio_22 collected [ $375 ]
+
+
+
+#Game No : 641778184
+***** 888poker Hand History for Game 641778184 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 10:51:01
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,105 )
+Seat 2: PapaShango19 ( $1,865 )
+Seat 4: tina018 ( $9,800 )
+Seat 6: ricio_22 ( $4,240 )
+Seat 7: IgorSabov ( $2,030 )
+Seat 9: rfd98 ( $1,990 )
+IgorSabov posts small blind [$15]
+rfd98 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Kh ]
+nguyen666 calls [$30]
+PapaShango19 folds
+tina018 calls [$30]
+ricio_22 calls [$30]
+IgorSabov calls [$15]
+rfd98 checks
+** Dealing flop ** [ 6s, 5h, 9s ]
+IgorSabov checks
+rfd98 checks
+nguyen666 bets [$112]
+tina018 calls [$112]
+ricio_22 folds
+IgorSabov calls [$112]
+rfd98 folds
+** Dealing turn ** [ 3d ]
+IgorSabov checks
+nguyen666 bets [$486]
+tina018 folds
+IgorSabov folds
+** Summary **
+nguyen666 did not show his hand
+nguyen666 collected [ $486 ]
+
+
+
+#Game No : 641778301
+***** 888poker Hand History for Game 641778301 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 10:52:15
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,449 )
+Seat 2: PapaShango19 ( $1,865 )
+Seat 4: tina018 ( $9,658 )
+Seat 6: ricio_22 ( $4,210 )
+Seat 7: IgorSabov ( $1,888 )
+Seat 9: rfd98 ( $1,960 )
+rfd98 posts small blind [$15]
+nguyen666 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 6s ]
+PapaShango19 folds
+tina018 folds
+ricio_22 folds
+IgorSabov raises [$105]
+rfd98 calls [$90]
+nguyen666 calls [$75]
+** Dealing flop ** [ 7d, 8s, Qs ]
+rfd98 checks
+nguyen666 checks
+IgorSabov bets [$236]
+rfd98 folds
+nguyen666 folds
+** Summary **
+IgorSabov did not show his hand
+IgorSabov collected [ $315 ]
+
+
+
+#Game No : 641778365
+***** 888poker Hand History for Game 641778365 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 10:52:58
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,344 )
+Seat 2: PapaShango19 ( $1,865 )
+Seat 4: tina018 ( $9,658 )
+Seat 6: ricio_22 ( $4,210 )
+Seat 7: IgorSabov ( $2,098 )
+Seat 9: rfd98 ( $1,855 )
+nguyen666 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Ts ]
+tina018 raises [$60]
+ricio_22 folds
+IgorSabov raises [$225]
+rfd98 folds
+nguyen666 folds
+PapaShango19 folds
+tina018 calls [$165]
+** Dealing flop ** [ 3d, 2d, Kd ]
+tina018 checks
+IgorSabov bets [$495]
+tina018 folds
+** Summary **
+IgorSabov did not show his hand
+IgorSabov collected [ $495 ]
+
+
+
+#Game No : 641778434
+***** 888poker Hand History for Game 641778434 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 10:53:51
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,329 )
+Seat 2: PapaShango19 ( $1,835 )
+Seat 4: tina018 ( $9,433 )
+Seat 6: ricio_22 ( $4,210 )
+Seat 7: IgorSabov ( $2,368 )
+Seat 9: rfd98 ( $1,855 )
+PapaShango19 posts small blind [$25]
+tina018 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 3d ]
+ricio_22 folds
+IgorSabov folds
+rfd98 folds
+nguyen666 folds
+PapaShango19 folds
+** Summary **
+tina018 did not show his hand
+tina018 collected [ $75 ]
+
+
+
+#Game No : 641778473
+***** 888poker Hand History for Game 641778473 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 10:54:13
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,329 )
+Seat 2: PapaShango19 ( $1,810 )
+Seat 4: tina018 ( $9,458 )
+Seat 6: ricio_22 ( $4,210 )
+Seat 7: IgorSabov ( $2,368 )
+Seat 9: rfd98 ( $1,855 )
+tina018 posts small blind [$25]
+ricio_22 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Qh ]
+IgorSabov folds
+rfd98 folds
+nguyen666 raises [$175]
+PapaShango19 calls [$175]
+tina018 calls [$150]
+ricio_22 folds
+** Dealing flop ** [ 6s, 5c, 8d ]
+tina018 bets [$575]
+nguyen666 raises [$2,154]
+PapaShango19 folds
+tina018 calls [$1,579]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 9s ]
+** Summary **
+nguyen666 shows [ Qd, Qc ]
+tina018 shows [ Ac, 8h ]
+nguyen666 collected [ $4,883 ]
+
+
+
+#Game No : 641778774
+***** 888poker Hand History for Game 641778774 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 10:59:59
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $4,883 )
+Seat 2: PapaShango19 ( $1,635 )
+Seat 4: tina018 ( $7,129 )
+Seat 6: ricio_22 ( $4,160 )
+Seat 7: IgorSabov ( $2,368 )
+Seat 9: rfd98 ( $1,855 )
+ricio_22 posts small blind [$25]
+IgorSabov posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 2d ]
+rfd98 folds
+nguyen666 folds
+PapaShango19 folds
+tina018 folds
+ricio_22 folds
+** Summary **
+IgorSabov did not show his hand
+IgorSabov collected [ $75 ]
+
+
+
+#Game No : 641778851
+***** 888poker Hand History for Game 641778851 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 11:01:15
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $4,883 )
+Seat 2: PapaShango19 ( $1,635 )
+Seat 4: tina018 ( $7,129 )
+Seat 6: ricio_22 ( $4,135 )
+Seat 7: IgorSabov ( $2,393 )
+Seat 9: rfd98 ( $1,855 )
+IgorSabov posts small blind [$25]
+rfd98 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Ks ]
+nguyen666 calls [$50]
+PapaShango19 folds
+tina018 calls [$50]
+ricio_22 folds
+IgorSabov folds
+rfd98 checks
+** Dealing flop ** [ 6s, 7d, 7h ]
+rfd98 checks
+nguyen666 checks
+tina018 checks
+** Dealing turn ** [ Qc ]
+rfd98 bets [$175]
+nguyen666 folds
+tina018 folds
+** Summary **
+rfd98 did not show his hand
+rfd98 collected [ $175 ]
+
+
+
+#Game No : 641778990
+***** 888poker Hand History for Game 641778990 *****
+$50/$100 Blinds No Limit Holdem - *** 01 12 2014 11:02:54
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $4,833 )
+Seat 2: PapaShango19 ( $1,635 )
+Seat 4: tina018 ( $7,079 )
+Seat 6: ricio_22 ( $4,135 )
+Seat 7: IgorSabov ( $2,368 )
+Seat 9: rfd98 ( $1,980 )
+rfd98 posts small blind [$50]
+nguyen666 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4s ]
+PapaShango19 folds
+tina018 folds
+ricio_22 folds
+IgorSabov folds
+rfd98 folds
+** Summary **
+nguyen666 did not show his hand
+nguyen666 collected [ $150 ]
+
+
+
+#Game No : 641779014
+***** 888poker Hand History for Game 641779014 *****
+$50/$100 Blinds No Limit Holdem - *** 01 12 2014 11:03:12
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $4,883 )
+Seat 2: PapaShango19 ( $1,635 )
+Seat 4: tina018 ( $7,079 )
+Seat 6: ricio_22 ( $4,135 )
+Seat 7: IgorSabov ( $2,368 )
+Seat 9: rfd98 ( $1,930 )
+nguyen666 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 4c ]
+tina018 folds
+ricio_22 folds
+IgorSabov raises [$200]
+rfd98 calls [$200]
+nguyen666 calls [$150]
+PapaShango19 folds
+** Dealing flop ** [ 3c, 8s, 6s ]
+nguyen666 checks
+IgorSabov bets [$300]
+rfd98 calls [$300]
+nguyen666 calls [$300]
+** Dealing turn ** [ Qs ]
+nguyen666 checks
+IgorSabov bets [$800]
+rfd98 raises [$1,430]
+nguyen666 raises [$2,060]
+IgorSabov calls [$1,068]
+** Dealing river ** [ 6h ]
+** Summary **
+nguyen666 shows [ Jh, Qh ]
+IgorSabov shows [ 4s, 7s ]
+rfd98 shows [ Qd, Ac ]
+IgorSabov collected [ $5,890 ]
+IgorSabov collected [ $876 ]
+
+
+
+#Game No : 641779148
+***** 888poker Hand History for Game 641779148 *****
+$50/$100 Blinds No Limit Holdem - *** 01 12 2014 11:04:42
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,515 )
+Seat 2: PapaShango19 ( $1,535 )
+Seat 4: tina018 ( $7,079 )
+Seat 6: ricio_22 ( $4,135 )
+Seat 7: IgorSabov ( $6,766 )
+Seat 9: rfd98 ( $2,000 )
+PapaShango19 posts small blind [$50]
+tina018 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2d ]
+ricio_22 folds
+IgorSabov folds
+rfd98 raises [$200]
+nguyen666 calls [$200]
+PapaShango19 folds
+tina018 raises [$750]
+rfd98 folds
+nguyen666 calls [$650]
+** Dealing flop ** [ Td, Qd, 5d ]
+tina018 bets [$1,950]
+nguyen666 calls [$1,665]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 2h ]
+** Summary **
+nguyen666 shows [ Ts, Qh ]
+tina018 shows [ 4h, Ah ]
+nguyen666 collected [ $5,280 ]
+
+
+
+#Game No : 641779222
+***** 888poker Hand History for Game 641779222 *****
+$50/$100 Blinds No Limit Holdem - *** 01 12 2014 11:05:35
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $5,280 )
+Seat 2: PapaShango19 ( $1,485 )
+Seat 4: tina018 ( $6,564 )
+Seat 6: ricio_22 ( $4,135 )
+Seat 7: IgorSabov ( $6,766 )
+Seat 9: rfd98 ( $1,800 )
+tina018 posts small blind [$50]
+ricio_22 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6h ]
+IgorSabov folds
+rfd98 folds
+nguyen666 raises [$262]
+PapaShango19 folds
+tina018 folds
+ricio_22 folds
+** Summary **
+nguyen666 did not show his hand
+nguyen666 collected [ $250 ]
+
+
+
+#Game No : 641779269
+***** 888poker Hand History for Game 641779269 *****
+$50/$100 Blinds No Limit Holdem - *** 01 12 2014 11:06:01
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $5,430 )
+Seat 2: PapaShango19 ( $1,485 )
+Seat 4: tina018 ( $6,514 )
+Seat 6: ricio_22 ( $4,035 )
+Seat 7: IgorSabov ( $6,766 )
+Seat 9: rfd98 ( $1,800 )
+ricio_22 posts small blind [$50]
+IgorSabov posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Th ]
+rfd98 folds
+nguyen666 calls [$100]
+PapaShango19 folds
+tina018 folds
+ricio_22 calls [$50]
+IgorSabov checks
+** Dealing flop ** [ Qs, Kh, 9c ]
+ricio_22 checks
+IgorSabov checks
+nguyen666 bets [$150]
+ricio_22 folds
+IgorSabov folds
+** Summary **
+nguyen666 did not show his hand
+nguyen666 collected [ $300 ]
+
+
+
+#Game No : 641779319
+***** 888poker Hand History for Game 641779319 *****
+$75/$150 Blinds No Limit Holdem - *** 01 12 2014 11:06:40
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $5,630 )
+Seat 2: PapaShango19 ( $1,485 )
+Seat 4: tina018 ( $6,514 )
+Seat 6: ricio_22 ( $3,935 )
+Seat 7: IgorSabov ( $6,666 )
+Seat 9: rfd98 ( $1,800 )
+IgorSabov posts small blind [$75]
+rfd98 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 8h ]
+nguyen666 folds
+PapaShango19 folds
+tina018 folds
+ricio_22 raises [$300]
+IgorSabov raises [$487]
+rfd98 folds
+ricio_22 calls [$262]
+** Dealing flop ** [ 7d, Th, 6c ]
+IgorSabov checks
+ricio_22 bets [$637]
+IgorSabov folds
+** Summary **
+ricio_22 did not show his hand
+ricio_22 collected [ $1,274 ]
+
+
+
+#Game No : 641779406
+***** 888poker Hand History for Game 641779406 *****
+$75/$150 Blinds No Limit Holdem - *** 01 12 2014 11:07:37
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $5,630 )
+Seat 2: PapaShango19 ( $1,485 )
+Seat 4: tina018 ( $6,514 )
+Seat 6: ricio_22 ( $4,647 )
+Seat 7: IgorSabov ( $6,104 )
+Seat 9: rfd98 ( $1,650 )
+rfd98 posts small blind [$75]
+nguyen666 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 3c ]
+PapaShango19 folds
+tina018 calls [$150]
+ricio_22 folds
+IgorSabov calls [$150]
+rfd98 folds
+nguyen666 checks
+** Dealing flop ** [ 8s, Jh, 4d ]
+nguyen666 bets [$393]
+tina018 calls [$393]
+IgorSabov raises [$786]
+nguyen666 calls [$393]
+tina018 calls [$393]
+** Dealing turn ** [ 8c ]
+nguyen666 checks
+tina018 bets [$2,883]
+IgorSabov raises [$5,168]
+nguyen666 folds
+tina018 calls [$2,285]
+** Dealing river ** [ Qs ]
+** Summary **
+tina018 shows [ 8d, Ks ]
+IgorSabov shows [ 4h, 4c ]
+IgorSabov collected [ $13,219 ]
+
+
+
+#Game No : 641779549
+***** 888poker Hand History for Game 641779549 *****
+$75/$150 Blinds No Limit Holdem - *** 01 12 2014 11:09:13
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $4,694 )
+Seat 2: PapaShango19 ( $1,485 )
+Seat 4: tina018 ( $2,410 )
+Seat 6: ricio_22 ( $4,647 )
+Seat 7: IgorSabov ( $13,219 )
+Seat 9: rfd98 ( $1,575 )
+nguyen666 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6d ]
+tina018 raises [$2,410]
+ricio_22 folds
+IgorSabov folds
+rfd98 folds
+nguyen666 raises [$4,619]
+PapaShango19 folds
+** Dealing flop ** [ Qd, 5s, 8s ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 5d ]
+** Summary **
+nguyen666 shows [ 3s, Ad ]
+tina018 shows [ 8h, 8d ]
+tina018 collected [ $4,970 ]
+
+
+
+#Game No : 641779613
+***** 888poker Hand History for Game 641779613 *****
+$75/$150 Blinds No Limit Holdem - *** 01 12 2014 11:09:50
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,284 )
+Seat 2: PapaShango19 ( $1,335 )
+Seat 4: tina018 ( $4,970 )
+Seat 6: ricio_22 ( $4,647 )
+Seat 7: IgorSabov ( $13,219 )
+Seat 9: rfd98 ( $1,575 )
+PapaShango19 posts small blind [$75]
+tina018 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4c ]
+ricio_22 folds
+IgorSabov raises [$450]
+rfd98 folds
+nguyen666 folds
+PapaShango19 folds
+tina018 raises [$4,820]
+IgorSabov calls [$4,520]
+** Dealing flop ** [ Ks, 6h, 7c ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 4h ]
+** Summary **
+tina018 shows [ Jc, Jd ]
+IgorSabov shows [ Ad, 9d ]
+tina018 collected [ $10,015 ]
+
+
+
+#Game No : 641779671
+***** 888poker Hand History for Game 641779671 *****
+$100/$200 Blinds No Limit Holdem - *** 01 12 2014 11:10:31
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,284 )
+Seat 2: PapaShango19 ( $1,260 )
+Seat 4: tina018 ( $10,015 )
+Seat 6: ricio_22 ( $4,647 )
+Seat 7: IgorSabov ( $8,249 )
+Seat 9: rfd98 ( $1,575 )
+ricio_22 posts ante [$20]
+tina018 posts ante [$20]
+IgorSabov posts ante [$20]
+rfd98 posts ante [$20]
+PapaShango19 posts ante [$20]
+nguyen666 posts ante [$20]
+tina018 posts small blind [$100]
+ricio_22 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 7h ]
+IgorSabov raises [$400]
+rfd98 folds
+nguyen666 folds
+PapaShango19 folds
+tina018 folds
+ricio_22 folds
+** Summary **
+IgorSabov did not show his hand
+IgorSabov collected [ $620 ]
+
+
+
+#Game No : 641779716
+***** 888poker Hand History for Game 641779716 *****
+$100/$200 Blinds No Limit Holdem - *** 01 12 2014 11:10:57
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $2,264 )
+Seat 2: PapaShango19 ( $1,240 )
+Seat 4: tina018 ( $9,895 )
+Seat 6: ricio_22 ( $4,427 )
+Seat 7: IgorSabov ( $8,649 )
+Seat 9: rfd98 ( $1,555 )
+ricio_22 posts ante [$20]
+tina018 posts ante [$20]
+IgorSabov posts ante [$20]
+rfd98 posts ante [$20]
+PapaShango19 posts ante [$20]
+nguyen666 posts ante [$20]
+ricio_22 posts small blind [$100]
+IgorSabov posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2d ]
+rfd98 folds
+nguyen666 raises [$2,244]
+PapaShango19 folds
+tina018 folds
+ricio_22 folds
+IgorSabov calls [$2,044]
+** Dealing flop ** [ 8s, 3h, 5h ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ Th ]
+** Summary **
+nguyen666 shows [ Jd, Td ]
+IgorSabov shows [ Ah, 8c ]
+IgorSabov collected [ $4,708 ]
+
+
+
+#Game No : 641779773
+***** 888poker Hand History for Game 641779773 *****
+$100/$200 Blinds No Limit Holdem - *** 01 12 2014 11:11:36
+Tournament #63974003 $1.10 + $0.15 - Table #13 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nguyen666 ( $4,000 )
+Seat 2: PapaShango19 ( $1,220 )
+Seat 4: tina018 ( $9,875 )
+Seat 6: ricio_22 ( $4,307 )
+Seat 7: IgorSabov ( $11,093 )
+Seat 9: rfd98 ( $1,535 )
+ricio_22 posts ante [$20]
+tina018 posts ante [$20]
+IgorSabov posts ante [$20]
+rfd98 posts ante [$20]
+PapaShango19 posts ante [$20]
+nguyen666 posts ante [$20]
+IgorSabov posts small blind [$100]
+rfd98 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 3d ]
+nguyen666 raises [$400]
+PapaShango19 raises [$1,200]
+tina018 folds
+ricio_22 folds
+IgorSabov raises [$1,900]
+rfd98 folds
+nguyen666 calls [$1,600]
+** Dealing flop ** [ 6c, 7c, 4c ]
+IgorSabov bets [$2,760]
+nguyen666 calls [$1,980]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 8d ]
+** Summary **
+nguyen666 shows [ Kc, 5c ]
+PapaShango19 shows [ 3s, 3d ]
+IgorSabov shows [ 8s, Ah ]
+nguyen666 collected [ $3,920 ]
+nguyen666 collected [ $5,560 ]
+
+
+

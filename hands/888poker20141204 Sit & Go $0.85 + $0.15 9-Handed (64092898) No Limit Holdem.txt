@@ -1,0 +1,454 @@
+#Game No : 646218080
+***** 888poker Hand History for Game 646218080 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:17:04
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,500 )
+Seat 2: sens_ey ( $1,500 )
+Seat 3: Cornelus ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: retarusis14 ( $1,500 )
+Seat 6: V.kurbatova ( $1,500 )
+Seat 7: Schavelek ( $1,500 )
+Seat 9: ottobock ( $1,500 )
+Seat 10: hardmeme ( $1,500 )
+ottobock posts small blind [$10]
+hardmeme posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Ks ]
+alekseipechk folds
+sens_ey folds
+Cornelus folds
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova folds
+Schavelek raises [$60]
+ottobock calls [$50]
+hardmeme raises [$1,480]
+Schavelek folds
+ottobock folds
+** Summary **
+hardmeme did not show his hand
+hardmeme collected [ $180 ]
+
+
+
+#Game No : 646218216
+***** 888poker Hand History for Game 646218216 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:17:51
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,500 )
+Seat 2: sens_ey ( $1,500 )
+Seat 3: Cornelus ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: retarusis14 ( $1,500 )
+Seat 6: V.kurbatova ( $1,500 )
+Seat 7: Schavelek ( $1,440 )
+Seat 9: ottobock ( $1,440 )
+Seat 10: hardmeme ( $1,620 )
+hardmeme posts small blind [$10]
+alekseipechk posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kd ]
+sens_ey raises [$70]
+Cornelus folds
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova folds
+Schavelek folds
+ottobock folds
+hardmeme calls [$60]
+alekseipechk folds
+** Dealing flop ** [ Ah, Kc, 2c ]
+hardmeme checks
+sens_ey bets [$120]
+hardmeme folds
+** Summary **
+sens_ey did not show his hand
+sens_ey collected [ $160 ]
+
+
+
+#Game No : 646218299
+***** 888poker Hand History for Game 646218299 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:18:20
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,480 )
+Seat 2: sens_ey ( $1,590 )
+Seat 3: Cornelus ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: retarusis14 ( $1,500 )
+Seat 6: V.kurbatova ( $1,500 )
+Seat 7: Schavelek ( $1,440 )
+Seat 9: ottobock ( $1,440 )
+Seat 10: hardmeme ( $1,550 )
+alekseipechk posts small blind [$10]
+sens_ey posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Tc ]
+Cornelus folds
+PapaShango19 folds
+retarusis14 raises [$60]
+V.kurbatova folds
+Schavelek folds
+ottobock folds
+hardmeme folds
+alekseipechk folds
+sens_ey folds
+** Summary **
+retarusis14 did not show his hand
+retarusis14 collected [ $50 ]
+
+
+
+#Game No : 646218382
+***** 888poker Hand History for Game 646218382 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:18:46
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,470 )
+Seat 2: sens_ey ( $1,570 )
+Seat 3: Cornelus ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: retarusis14 ( $1,530 )
+Seat 6: V.kurbatova ( $1,500 )
+Seat 7: Schavelek ( $1,440 )
+Seat 9: ottobock ( $1,440 )
+Seat 10: hardmeme ( $1,550 )
+sens_ey posts small blind [$10]
+Cornelus posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 9c ]
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova raises [$60]
+Schavelek folds
+ottobock folds
+hardmeme calls [$60]
+alekseipechk folds
+sens_ey folds
+Cornelus folds
+** Dealing flop ** [ Tc, 7h, Kc ]
+V.kurbatova checks
+hardmeme bets [$20]
+V.kurbatova calls [$20]
+** Dealing turn ** [ 8s ]
+V.kurbatova checks
+hardmeme bets [$60]
+V.kurbatova raises [$200]
+hardmeme calls [$140]
+** Dealing river ** [ 7c ]
+V.kurbatova bets [$442]
+hardmeme folds
+** Summary **
+V.kurbatova did not show his hand
+V.kurbatova collected [ $590 ]
+
+
+
+#Game No : 646218614
+***** 888poker Hand History for Game 646218614 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:19:57
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,470 )
+Seat 2: sens_ey ( $1,560 )
+Seat 3: Cornelus ( $1,480 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: retarusis14 ( $1,530 )
+Seat 6: V.kurbatova ( $1,810 )
+Seat 7: Schavelek ( $1,440 )
+Seat 9: ottobock ( $1,440 )
+Seat 10: hardmeme ( $1,270 )
+Cornelus posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 6c ]
+retarusis14 folds
+V.kurbatova folds
+Schavelek folds
+ottobock folds
+hardmeme folds
+alekseipechk folds
+sens_ey raises [$80]
+Cornelus folds
+PapaShango19 folds
+** Summary **
+sens_ey did not show his hand
+sens_ey collected [ $50 ]
+
+
+
+#Game No : 646218695
+***** 888poker Hand History for Game 646218695 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:20:24
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,470 )
+Seat 2: sens_ey ( $1,590 )
+Seat 3: Cornelus ( $1,470 )
+Seat 4: PapaShango19 ( $1,480 )
+Seat 5: retarusis14 ( $1,530 )
+Seat 6: V.kurbatova ( $1,810 )
+Seat 7: Schavelek ( $1,440 )
+Seat 9: ottobock ( $1,440 )
+Seat 10: hardmeme ( $1,270 )
+PapaShango19 posts small blind [$10]
+retarusis14 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 6c ]
+V.kurbatova calls [$20]
+Schavelek folds
+ottobock calls [$20]
+hardmeme calls [$20]
+alekseipechk folds
+sens_ey raises [$130]
+Cornelus folds
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova folds
+ottobock calls [$110]
+hardmeme folds
+** Dealing flop ** [ Th, 3c, 2d ]
+ottobock bets [$20]
+sens_ey calls [$20]
+** Dealing turn ** [ Ah ]
+ottobock bets [$370]
+sens_ey calls [$370]
+** Dealing river ** [ 5h ]
+ottobock bets [$690]
+sens_ey calls [$690]
+** Summary **
+ottobock shows [ 8d, Kh ]
+sens_ey shows [ Kc, Ac ]
+sens_ey collected [ $2,490 ]
+
+
+
+#Game No : 646218941
+***** 888poker Hand History for Game 646218941 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:21:42
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,470 )
+Seat 2: sens_ey ( $2,870 )
+Seat 3: Cornelus ( $1,470 )
+Seat 4: PapaShango19 ( $1,470 )
+Seat 5: retarusis14 ( $1,510 )
+Seat 6: V.kurbatova ( $1,790 )
+Seat 7: Schavelek ( $1,440 )
+Seat 9: ottobock ( $230 )
+Seat 10: hardmeme ( $1,250 )
+retarusis14 posts small blind [$10]
+V.kurbatova posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Ks ]
+Schavelek raises [$40]
+ottobock raises [$230]
+hardmeme folds
+alekseipechk folds
+sens_ey folds
+Cornelus folds
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova folds
+Schavelek calls [$190]
+** Dealing flop ** [ 4d, Th, 3s ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ Jc ]
+** Summary **
+Schavelek shows [ 9s, Kh ]
+ottobock shows [ Ad, 4h ]
+ottobock collected [ $490 ]
+
+
+
+#Game No : 646219135
+***** 888poker Hand History for Game 646219135 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:22:49
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,470 )
+Seat 2: sens_ey ( $2,870 )
+Seat 3: Cornelus ( $1,470 )
+Seat 4: PapaShango19 ( $1,470 )
+Seat 5: retarusis14 ( $1,500 )
+Seat 6: V.kurbatova ( $1,770 )
+Seat 7: Schavelek ( $1,210 )
+Seat 9: ottobock ( $490 )
+Seat 10: hardmeme ( $1,250 )
+V.kurbatova posts small blind [$10]
+Schavelek posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 7c ]
+ottobock folds
+hardmeme folds
+alekseipechk folds
+sens_ey folds
+Cornelus folds
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova calls [$10]
+Schavelek checks
+** Dealing flop ** [ 9s, 8c, As ]
+V.kurbatova checks
+Schavelek bets [$20]
+V.kurbatova calls [$20]
+** Dealing turn ** [ 9h ]
+V.kurbatova checks
+Schavelek bets [$40]
+V.kurbatova folds
+** Summary **
+Schavelek did not show his hand
+Schavelek collected [ $80 ]
+
+
+
+#Game No : 646219335
+***** 888poker Hand History for Game 646219335 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:23:53
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,470 )
+Seat 2: sens_ey ( $2,870 )
+Seat 3: Cornelus ( $1,470 )
+Seat 4: PapaShango19 ( $1,470 )
+Seat 5: retarusis14 ( $1,500 )
+Seat 6: V.kurbatova ( $1,730 )
+Seat 7: Schavelek ( $1,250 )
+Seat 9: ottobock ( $490 )
+Seat 10: hardmeme ( $1,250 )
+Schavelek posts small blind [$10]
+ottobock posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Ts ]
+hardmeme calls [$20]
+alekseipechk folds
+sens_ey folds
+Cornelus folds
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova calls [$20]
+Schavelek folds
+ottobock checks
+** Dealing flop ** [ Ad, 5s, Tc ]
+ottobock checks
+hardmeme checks
+V.kurbatova checks
+** Dealing turn ** [ 9d ]
+ottobock checks
+hardmeme checks
+V.kurbatova checks
+** Dealing river ** [ 8d ]
+ottobock checks
+hardmeme checks
+V.kurbatova bets [$52]
+ottobock folds
+hardmeme folds
+** Summary **
+V.kurbatova did not show his hand
+V.kurbatova collected [ $70 ]
+
+
+
+#Game No : 646219584
+***** 888poker Hand History for Game 646219584 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:25:16
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,470 )
+Seat 2: sens_ey ( $2,870 )
+Seat 3: Cornelus ( $1,470 )
+Seat 4: PapaShango19 ( $1,470 )
+Seat 5: retarusis14 ( $1,500 )
+Seat 6: V.kurbatova ( $1,780 )
+Seat 7: Schavelek ( $1,240 )
+Seat 9: ottobock ( $470 )
+Seat 10: hardmeme ( $1,230 )
+ottobock posts small blind [$15]
+hardmeme posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3d ]
+alekseipechk raises [$60]
+sens_ey folds
+Cornelus folds
+PapaShango19 folds
+retarusis14 folds
+V.kurbatova folds
+Schavelek calls [$60]
+ottobock folds
+hardmeme calls [$30]
+** Dealing flop ** [ Qh, 8h, 6c ]
+hardmeme bets [$30]
+alekseipechk calls [$30]
+Schavelek folds
+** Dealing turn ** [ 4s ]
+hardmeme bets [$60]
+alekseipechk raises [$120]
+hardmeme calls [$60]
+** Dealing river ** [ Jh ]
+hardmeme checks
+alekseipechk bets [$120]
+hardmeme calls [$120]
+** Summary **
+alekseipechk shows [ 8d, As ]
+hardmeme shows [ 8s, Ah ]
+alekseipechk collected [ $367 ]
+hardmeme collected [ $368 ]
+
+
+
+#Game No : 646219786
+***** 888poker Hand History for Game 646219786 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:26:28
+Tournament #64092898 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: alekseipechk ( $1,507 )
+Seat 2: sens_ey ( $2,870 )
+Seat 3: Cornelus ( $1,470 )
+Seat 4: PapaShango19 ( $1,470 )
+Seat 5: retarusis14 ( $1,500 )
+Seat 6: V.kurbatova ( $1,780 )
+Seat 7: Schavelek ( $1,180 )
+Seat 9: ottobock ( $455 )
+Seat 10: hardmeme ( $1,268 )
+hardmeme posts small blind [$15]
+alekseipechk posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Ah ]
+sens_ey folds
+Cornelus folds
+PapaShango19 raises [$90]
+retarusis14 folds
+V.kurbatova raises [$150]
+Schavelek folds
+ottobock folds
+hardmeme raises [$1,253]
+alekseipechk folds
+PapaShango19 raises [$1,380]
+V.kurbatova calls [$1,320]
+** Dealing flop ** [ 6h, Ac, Kd ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 4d ]
+** Summary **
+PapaShango19 shows [ Qc, Ah ]
+V.kurbatova shows [ Kh, Ks ]
+hardmeme shows [ Qd, As ]
+V.kurbatova collected [ $3,834 ]
+V.kurbatova collected [ $404 ]
+
+
+

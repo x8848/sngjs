@@ -1,0 +1,432 @@
+#Game No : 642357561
+***** 888poker Hand History for Game 642357561 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 08:30:16
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: arniesscamp ( $3,000 )
+Seat 2: bkaffes ( $3,000 )
+Seat 3: PapaShango19 ( $3,000 )
+Seat 5: shleb3315 ( $3,000 )
+Seat 6: Moa_Hunter ( $3,000 )
+Seat 7: SryIGotOdds ( $3,000 )
+Seat 9: enderfame ( $3,000 )
+Seat 10: linas.d ( $3,000 )
+Moa_Hunter posts small blind [$10]
+SryIGotOdds posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Qd ]
+enderfame folds
+linas.d folds
+arniesscamp folds
+bkaffes calls [$20]
+PapaShango19 raises [$100]
+shleb3315 calls [$100]
+Moa_Hunter folds
+SryIGotOdds folds
+bkaffes calls [$80]
+** Dealing flop ** [ 3s, Kc, 7s ]
+bkaffes checks
+PapaShango19 checks
+shleb3315 bets [$120]
+bkaffes folds
+PapaShango19 calls [$120]
+** Dealing turn ** [ 2h ]
+PapaShango19 checks
+shleb3315 bets [$285]
+PapaShango19 folds
+** Summary **
+shleb3315 collected [ $570 ]
+
+
+
+#Game No : 642357726
+***** 888poker Hand History for Game 642357726 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 08:32:13
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: arniesscamp ( $3,000 )
+Seat 2: bkaffes ( $2,900 )
+Seat 3: PapaShango19 ( $2,780 )
+Seat 4: mikcav ( $3,000 )
+Seat 5: shleb3315 ( $3,350 )
+Seat 6: Moa_Hunter ( $2,990 )
+Seat 7: SryIGotOdds ( $2,980 )
+Seat 9: enderfame ( $3,000 )
+Seat 10: linas.d ( $3,000 )
+SryIGotOdds posts small blind [$10]
+enderfame posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Kd ]
+linas.d folds
+arniesscamp folds
+bkaffes folds
+PapaShango19 raises [$120]
+mikcav folds
+shleb3315 folds
+Moa_Hunter folds
+SryIGotOdds folds
+enderfame calls [$100]
+** Dealing flop ** [ 4s, 5s, 8c ]
+enderfame checks
+PapaShango19 bets [$187]
+enderfame calls [$187]
+** Dealing turn ** [ Ad ]
+enderfame checks
+PapaShango19 bets [$312]
+enderfame calls [$312]
+** Dealing river ** [ 9c ]
+enderfame checks
+PapaShango19 checks
+** Summary **
+enderfame shows [ 8s, 8d ]
+PapaShango19 mucks [ Ks, Kd ]
+enderfame collected [ $1,248 ]
+
+
+
+#Game No : 642357819
+***** 888poker Hand History for Game 642357819 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 08:33:23
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: arniesscamp ( $3,000 )
+Seat 2: bkaffes ( $2,900 )
+Seat 3: PapaShango19 ( $2,161 )
+Seat 4: mikcav ( $3,000 )
+Seat 5: shleb3315 ( $3,350 )
+Seat 6: Moa_Hunter ( $2,990 )
+Seat 7: SryIGotOdds ( $2,970 )
+Seat 9: enderfame ( $3,629 )
+Seat 10: linas.d ( $3,000 )
+enderfame posts small blind [$10]
+linas.d posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 3c ]
+arniesscamp folds
+bkaffes calls [$20]
+PapaShango19 folds
+mikcav calls [$20]
+shleb3315 folds
+Moa_Hunter folds
+SryIGotOdds folds
+enderfame raises [$30]
+linas.d folds
+bkaffes calls [$20]
+mikcav calls [$20]
+** Dealing flop ** [ 8d, 7h, Ts ]
+enderfame bets [$70]
+bkaffes raises [$140]
+mikcav folds
+enderfame calls [$70]
+** Dealing turn ** [ As ]
+enderfame bets [$210]
+bkaffes calls [$210]
+** Dealing river ** [ Qc ]
+enderfame bets [$420]
+bkaffes folds
+** Summary **
+enderfame did not show his hand
+enderfame collected [ $840 ]
+
+
+
+#Game No : 642357911
+***** 888poker Hand History for Game 642357911 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 08:34:27
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: arniesscamp ( $3,000 )
+Seat 2: bkaffes ( $2,510 )
+Seat 3: PapaShango19 ( $2,161 )
+Seat 4: mikcav ( $2,960 )
+Seat 5: shleb3315 ( $3,350 )
+Seat 6: Moa_Hunter ( $2,990 )
+Seat 7: SryIGotOdds ( $2,970 )
+Seat 9: enderfame ( $4,079 )
+Seat 10: linas.d ( $2,980 )
+linas.d posts small blind [$10]
+arniesscamp posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Tc ]
+bkaffes folds
+PapaShango19 folds
+mikcav raises [$40]
+shleb3315 folds
+Moa_Hunter folds
+SryIGotOdds calls [$40]
+enderfame folds
+linas.d folds
+arniesscamp folds
+** Dealing flop ** [ 9s, 6s, 6h ]
+mikcav bets [$55]
+SryIGotOdds calls [$55]
+** Dealing turn ** [ 5c ]
+mikcav checks
+SryIGotOdds checks
+** Dealing river ** [ 5h ]
+mikcav bets [$110]
+SryIGotOdds folds
+** Summary **
+mikcav did not show his hand
+mikcav collected [ $220 ]
+
+
+
+#Game No : 642357972
+***** 888poker Hand History for Game 642357972 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 08:35:20
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: arniesscamp ( $2,980 )
+Seat 2: bkaffes ( $2,510 )
+Seat 3: PapaShango19 ( $2,161 )
+Seat 4: mikcav ( $3,085 )
+Seat 5: shleb3315 ( $3,350 )
+Seat 6: Moa_Hunter ( $2,990 )
+Seat 7: SryIGotOdds ( $2,875 )
+Seat 9: enderfame ( $4,079 )
+Seat 10: linas.d ( $2,970 )
+arniesscamp posts small blind [$10]
+bkaffes posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Qc ]
+PapaShango19 folds
+mikcav calls [$20]
+shleb3315 folds
+Moa_Hunter folds
+SryIGotOdds folds
+enderfame calls [$20]
+linas.d folds
+arniesscamp calls [$10]
+bkaffes raises [$80]
+mikcav folds
+enderfame folds
+arniesscamp folds
+** Summary **
+bkaffes did not show his hand
+bkaffes collected [ $80 ]
+
+
+
+#Game No : 642358037
+***** 888poker Hand History for Game 642358037 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 08:36:10
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: arniesscamp ( $2,960 )
+Seat 2: bkaffes ( $2,570 )
+Seat 3: PapaShango19 ( $2,161 )
+Seat 4: mikcav ( $3,065 )
+Seat 6: Moa_Hunter ( $2,990 )
+Seat 7: SryIGotOdds ( $2,875 )
+Seat 9: enderfame ( $4,059 )
+Seat 10: linas.d ( $2,970 )
+bkaffes posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Jd ]
+mikcav calls [$20]
+Moa_Hunter folds
+SryIGotOdds calls [$20]
+enderfame calls [$20]
+linas.d folds
+arniesscamp folds
+bkaffes calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ Th, 8c, 3d ]
+bkaffes checks
+PapaShango19 checks
+mikcav checks
+SryIGotOdds checks
+enderfame checks
+** Dealing turn ** [ 2c ]
+bkaffes checks
+PapaShango19 checks
+mikcav bets [$75]
+SryIGotOdds calls [$75]
+enderfame folds
+bkaffes folds
+PapaShango19 calls [$75]
+** Dealing river ** [ 4d ]
+PapaShango19 checks
+mikcav bets [$162]
+SryIGotOdds calls [$162]
+PapaShango19 folds
+** Summary **
+mikcav shows [ 3s, 2s ]
+SryIGotOdds mucks [ 5s, 5h ]
+mikcav collected [ $649 ]
+
+
+
+#Game No : 642358132
+***** 888poker Hand History for Game 642358132 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 08:37:33
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: arniesscamp ( $2,960 )
+Seat 2: bkaffes ( $2,550 )
+Seat 3: PapaShango19 ( $2,066 )
+Seat 4: mikcav ( $3,457 )
+Seat 5: walligalli ( $3,000 )
+Seat 6: Moa_Hunter ( $2,990 )
+Seat 7: SryIGotOdds ( $2,618 )
+Seat 9: enderfame ( $4,039 )
+Seat 10: linas.d ( $2,970 )
+PapaShango19 posts small blind [$15]
+mikcav posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3s ]
+walligalli folds
+Moa_Hunter folds
+SryIGotOdds raises [$60]
+enderfame folds
+linas.d folds
+arniesscamp folds
+bkaffes folds
+PapaShango19 folds
+mikcav calls [$30]
+** Dealing flop ** [ Kc, 5c, 2s ]
+mikcav checks
+SryIGotOdds checks
+** Dealing turn ** [ 5h ]
+mikcav checks
+SryIGotOdds checks
+** Dealing river ** [ 9c ]
+mikcav checks
+SryIGotOdds checks
+** Summary **
+mikcav shows [ 8d, Th ]
+SryIGotOdds shows [ Qs, Jh ]
+SryIGotOdds collected [ $135 ]
+
+
+
+#Game No : 642358195
+***** 888poker Hand History for Game 642358195 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 08:38:28
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: arniesscamp ( $2,960 )
+Seat 2: bkaffes ( $2,550 )
+Seat 3: PapaShango19 ( $2,051 )
+Seat 4: mikcav ( $3,397 )
+Seat 5: walligalli ( $3,000 )
+Seat 6: Moa_Hunter ( $2,990 )
+Seat 7: SryIGotOdds ( $2,693 )
+Seat 9: enderfame ( $4,039 )
+Seat 10: linas.d ( $2,970 )
+mikcav posts small blind [$15]
+walligalli posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Jd ]
+Moa_Hunter folds
+SryIGotOdds folds
+enderfame folds
+linas.d folds
+arniesscamp raises [$120]
+bkaffes calls [$120]
+PapaShango19 folds
+mikcav folds
+walligalli calls [$90]
+** Dealing flop ** [ Qs, Jc, 7h ]
+walligalli checks
+arniesscamp checks
+bkaffes checks
+** Dealing turn ** [ 3h ]
+walligalli bets [$281]
+arniesscamp folds
+bkaffes calls [$281]
+** Dealing river ** [ 4d ]
+walligalli bets [$702]
+bkaffes folds
+** Summary **
+walligalli did not show his hand
+walligalli collected [ $937 ]
+
+
+
+#Game No : 642358261
+***** 888poker Hand History for Game 642358261 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 08:39:26
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: arniesscamp ( $2,840 )
+Seat 2: bkaffes ( $2,149 )
+Seat 3: PapaShango19 ( $2,051 )
+Seat 4: mikcav ( $3,382 )
+Seat 5: walligalli ( $3,536 )
+Seat 7: SryIGotOdds ( $2,693 )
+Seat 9: enderfame ( $4,039 )
+Seat 10: linas.d ( $2,970 )
+walligalli posts small blind [$15]
+SryIGotOdds posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2c ]
+enderfame folds
+linas.d folds
+arniesscamp raises [$120]
+bkaffes folds
+PapaShango19 folds
+mikcav folds
+walligalli folds
+SryIGotOdds folds
+** Summary **
+arniesscamp did not show his hand
+arniesscamp collected [ $75 ]
+
+
+
+#Game No : 642358305
+***** 888poker Hand History for Game 642358305 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 08:40:05
+Tournament #63663208 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: arniesscamp ( $2,885 )
+Seat 2: bkaffes ( $2,149 )
+Seat 3: PapaShango19 ( $2,051 )
+Seat 4: mikcav ( $3,382 )
+Seat 5: walligalli ( $3,521 )
+Seat 7: SryIGotOdds ( $2,663 )
+Seat 9: enderfame ( $4,039 )
+Seat 10: linas.d ( $2,970 )
+SryIGotOdds posts small blind [$15]
+enderfame posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Qs ]
+linas.d folds
+arniesscamp folds
+bkaffes folds
+PapaShango19 raises [$120]
+mikcav folds
+walligalli folds
+SryIGotOdds calls [$105]
+enderfame calls [$90]
+** Dealing flop ** [ Qc, Tc, 4d ]
+SryIGotOdds bets [$180]
+enderfame calls [$180]
+PapaShango19 raises [$450]
+SryIGotOdds calls [$270]
+enderfame calls [$270]
+** Dealing turn ** [ 6s ]
+SryIGotOdds bets [$2,093]
+enderfame folds
+PapaShango19 calls [$1,481]
+** Dealing river ** [ 3s ]
+** Summary **
+PapaShango19 shows [ Ad, Qs ]
+SryIGotOdds shows [ Qh, Th ]
+SryIGotOdds collected [ $4,672 ]
+
+
+

@@ -1,0 +1,2854 @@
+#Game No : 642267529
+***** 888poker Hand History for Game 642267529 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 00:42:10
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $21,807 )
+Seat 2: Blair014 ( $25,533 )
+Seat 3: MaggySmiles ( $8,975 )
+Seat 4: paddy55555 ( $9,470 )
+Seat 5: casdrelll ( $9,960 )
+Seat 6: bigdonk35 ( $9,875 )
+Seat 9: probbie77 ( $4,690 )
+Seat 10: Agnostos69 ( $9,690 )
+Cobblerboy posts small blind [$50]
+Blair014 posts big blind [$100]
+** Dealing down cards **
+MaggySmiles folds
+paddy55555 calls [$100]
+casdrelll folds
+bigdonk35 raises [$450]
+probbie77 calls [$450]
+Agnostos69 folds
+Cobblerboy folds
+Blair014 folds
+paddy55555 calls [$350]
+** Dealing flop ** [ Kc, 6c, Js ]
+paddy55555 checks
+bigdonk35 checks
+probbie77 bets [$1,125]
+paddy55555 calls [$1,125]
+bigdonk35 raises [$2,250]
+probbie77 raises [$3,115]
+paddy55555 raises [$7,895]
+bigdonk35 calls [$6,770]
+** Dealing turn ** [ As ]
+** Dealing river ** [ Ts ]
+** Summary **
+paddy55555 shows [ Kh, Qc ]
+bigdonk35 shows [ Ks, Kd ]
+probbie77 shows [ 6d, 6h ]
+paddy55555 collected [ $14,220 ]
+paddy55555 collected [ $9,560 ]
+
+
+
+#Game No : 642267817
+***** 888poker Hand History for Game 642267817 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 00:42:16
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $25,433 )
+Seat 3: MaggySmiles ( $8,975 )
+Seat 4: paddy55555 ( $23,780 )
+Seat 5: casdrelll ( $9,960 )
+Seat 6: bigdonk35 ( $405 )
+Seat 7: PapaShango19 ( $10,000 )
+Seat 10: Agnostos69 ( $9,690 )
+Blair014 posts small blind [$50]
+MaggySmiles posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 2h ]
+paddy55555 folds
+casdrelll folds
+bigdonk35 folds
+PapaShango19 calls [$100]
+Agnostos69 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles checks
+** Dealing flop ** [ Ks, 3s, As ]
+MaggySmiles checks
+PapaShango19 checks
+** Dealing turn ** [ Qs ]
+MaggySmiles bets [$100]
+PapaShango19 calls [$100]
+** Dealing river ** [ 7d ]
+MaggySmiles bets [$100]
+PapaShango19 calls [$100]
+** Summary **
+MaggySmiles shows [ 7s, Qh ]
+PapaShango19 mucks [ 2s, 2h ]
+MaggySmiles collected [ $650 ]
+
+
+
+#Game No : 642268051
+***** 888poker Hand History for Game 642268051 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 00:42:57
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $25,383 )
+Seat 3: MaggySmiles ( $9,325 )
+Seat 4: paddy55555 ( $23,780 )
+Seat 5: casdrelll ( $9,960 )
+Seat 6: bigdonk35 ( $405 )
+Seat 7: PapaShango19 ( $9,700 )
+Seat 9: randers14 ( $10,000 )
+Seat 10: Agnostos69 ( $9,690 )
+MaggySmiles posts small blind [$50]
+paddy55555 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Th ]
+casdrelll folds
+bigdonk35 raises [$405]
+PapaShango19 folds
+randers14 folds
+Agnostos69 folds
+Cobblerboy folds
+Blair014 calls [$405]
+MaggySmiles folds
+paddy55555 calls [$305]
+** Dealing flop ** [ 5s, Qd, 7d ]
+paddy55555 checks
+Blair014 checks
+** Dealing turn ** [ As ]
+paddy55555 checks
+Blair014 checks
+** Dealing river ** [ Td ]
+paddy55555 bets [$948]
+Blair014 folds
+** Summary **
+paddy55555 shows [ 9d, 8d ]
+bigdonk35 shows [ Qh, 8c ]
+paddy55555 collected [ $1,265 ]
+
+
+
+#Game No : 642268335
+***** 888poker Hand History for Game 642268335 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 00:43:53
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $24,978 )
+Seat 3: MaggySmiles ( $9,275 )
+Seat 4: paddy55555 ( $24,640 )
+Seat 5: casdrelll ( $9,960 )
+Seat 7: PapaShango19 ( $9,700 )
+Seat 9: randers14 ( $10,000 )
+Seat 10: Agnostos69 ( $9,690 )
+paddy55555 posts small blind [$50]
+casdrelll posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Td ]
+PapaShango19 folds
+randers14 folds
+Agnostos69 calls [$100]
+Cobblerboy folds
+Blair014 calls [$100]
+MaggySmiles folds
+paddy55555 calls [$50]
+casdrelll checks
+** Dealing flop ** [ 5s, Ks, Qh ]
+paddy55555 checks
+casdrelll checks
+Agnostos69 checks
+Blair014 checks
+** Dealing turn ** [ 6h ]
+paddy55555 bets [$100]
+casdrelll folds
+Agnostos69 folds
+Blair014 raises [$200]
+paddy55555 calls [$100]
+** Dealing river ** [ Jd ]
+paddy55555 checks
+Blair014 bets [$24,678]
+paddy55555 folds
+** Summary **
+Blair014 collected [ $800 ]
+
+
+
+#Game No : 642268787
+***** 888poker Hand History for Game 642268787 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 00:45:10
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $25,478 )
+Seat 3: MaggySmiles ( $9,275 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $9,860 )
+Seat 6: balbo80 ( $10,000 )
+Seat 7: PapaShango19 ( $9,700 )
+Seat 9: randers14 ( $10,000 )
+Seat 10: Agnostos69 ( $9,590 )
+casdrelll posts small blind [$75]
+balbo80 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Ah ]
+PapaShango19 folds
+randers14 folds
+Agnostos69 calls [$150]
+Cobblerboy folds
+Blair014 raises [$25,478]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+Agnostos69 folds
+** Summary **
+Blair014 did not show his hand
+Blair014 collected [ $525 ]
+
+
+
+#Game No : 642268960
+***** 888poker Hand History for Game 642268960 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 00:45:44
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $25,853 )
+Seat 3: MaggySmiles ( $9,275 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $9,785 )
+Seat 6: balbo80 ( $9,850 )
+Seat 7: PapaShango19 ( $9,700 )
+Seat 9: randers14 ( $10,000 )
+Seat 10: Agnostos69 ( $9,440 )
+balbo80 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 5d ]
+randers14 folds
+Agnostos69 calls [$150]
+Cobblerboy folds
+Blair014 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll raises [$450]
+balbo80 calls [$375]
+PapaShango19 folds
+Agnostos69 raises [$1,800]
+casdrelll calls [$1,500]
+balbo80 folds
+** Dealing flop ** [ 2s, 7d, Kh ]
+Agnostos69 checks
+casdrelll checks
+** Dealing turn ** [ Ah ]
+Agnostos69 checks
+casdrelll checks
+** Dealing river ** [ 7s ]
+Agnostos69 checks
+casdrelll checks
+** Summary **
+Agnostos69 shows [ Qs, Qh ]
+casdrelll mucks [ Ts, Td ]
+Agnostos69 collected [ $4,500 ]
+
+
+
+#Game No : 642269382
+***** 888poker Hand History for Game 642269382 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 00:47:04
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $25,853 )
+Seat 3: MaggySmiles ( $9,275 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $7,835 )
+Seat 6: balbo80 ( $9,400 )
+Seat 7: PapaShango19 ( $9,550 )
+Seat 9: randers14 ( $10,000 )
+Seat 10: Agnostos69 ( $11,990 )
+PapaShango19 posts small blind [$75]
+randers14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 8d ]
+Agnostos69 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles raises [$300]
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 calls [$150]
+** Dealing flop ** [ 3s, Ad, 9d ]
+randers14 checks
+MaggySmiles bets [$337]
+randers14 folds
+** Summary **
+MaggySmiles did not show his hand
+MaggySmiles collected [ $675 ]
+
+
+
+#Game No : 642269627
+***** 888poker Hand History for Game 642269627 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 00:47:53
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $25,853 )
+Seat 3: MaggySmiles ( $9,650 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $7,835 )
+Seat 6: balbo80 ( $9,400 )
+Seat 7: PapaShango19 ( $9,475 )
+Seat 9: randers14 ( $9,700 )
+Seat 10: Agnostos69 ( $11,990 )
+randers14 posts small blind [$100]
+Agnostos69 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 6d ]
+Cobblerboy folds
+Blair014 calls [$200]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+Agnostos69 checks
+** Dealing flop ** [ 4c, Ts, 6c ]
+Agnostos69 bets [$500]
+Blair014 calls [$500]
+** Dealing turn ** [ 7s ]
+Agnostos69 bets [$1,500]
+Blair014 calls [$1,500]
+** Dealing river ** [ 3h ]
+Agnostos69 bets [$1,000]
+Blair014 raises [$23,653]
+Agnostos69 calls [$8,790]
+** Summary **
+Blair014 shows [ 5c, Kc ]
+Agnostos69 shows [ 7h, 5s ]
+Blair014 collected [ $12,040 ]
+Agnostos69 collected [ $12,040 ]
+
+
+
+#Game No : 642269913
+***** 888poker Hand History for Game 642269913 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 00:48:50
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,757 )
+Seat 2: Blair014 ( $25,903 )
+Seat 3: MaggySmiles ( $9,650 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $7,835 )
+Seat 6: balbo80 ( $9,400 )
+Seat 7: PapaShango19 ( $9,475 )
+Seat 9: randers14 ( $9,600 )
+Seat 10: Agnostos69 ( $12,040 )
+Agnostos69 posts small blind [$100]
+Cobblerboy posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 6d ]
+Blair014 calls [$200]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+Agnostos69 calls [$100]
+Cobblerboy checks
+** Dealing flop ** [ 6h, Qh, Qs ]
+Agnostos69 checks
+Cobblerboy bets [$200]
+Blair014 folds
+Agnostos69 calls [$200]
+** Dealing turn ** [ 4c ]
+Agnostos69 checks
+Cobblerboy bets [$200]
+Agnostos69 calls [$200]
+** Dealing river ** [ 3d ]
+Agnostos69 bets [$700]
+Cobblerboy calls [$700]
+** Summary **
+Agnostos69 shows [ 5c, 9c ]
+Cobblerboy shows [ Jc, 6s ]
+Cobblerboy collected [ $2,800 ]
+
+
+
+#Game No : 642270098
+***** 888poker Hand History for Game 642270098 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 00:49:27
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $23,257 )
+Seat 2: Blair014 ( $25,703 )
+Seat 3: MaggySmiles ( $9,650 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $7,835 )
+Seat 6: balbo80 ( $9,400 )
+Seat 7: PapaShango19 ( $9,475 )
+Seat 9: randers14 ( $9,600 )
+Seat 10: Agnostos69 ( $10,740 )
+Cobblerboy posts small blind [$100]
+Blair014 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 4c ]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 calls [$200]
+Agnostos69 folds
+Cobblerboy calls [$100]
+Blair014 checks
+** Dealing flop ** [ Ts, Ah, Ad ]
+Cobblerboy bets [$200]
+Blair014 folds
+randers14 calls [$200]
+** Dealing turn ** [ 4s ]
+Cobblerboy bets [$200]
+randers14 calls [$200]
+** Dealing river ** [ 7h ]
+Cobblerboy bets [$200]
+randers14 calls [$200]
+** Summary **
+Cobblerboy shows [ Th, Kd ]
+randers14 shows [ Qc, Qd ]
+randers14 collected [ $1,800 ]
+
+
+
+#Game No : 642270316
+***** 888poker Hand History for Game 642270316 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 00:50:08
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $22,457 )
+Seat 2: Blair014 ( $25,503 )
+Seat 3: MaggySmiles ( $9,650 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $7,835 )
+Seat 6: balbo80 ( $9,400 )
+Seat 7: PapaShango19 ( $9,475 )
+Seat 9: randers14 ( $10,600 )
+Seat 10: Agnostos69 ( $10,740 )
+Blair014 posts small blind [$100]
+MaggySmiles posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 9h ]
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+Agnostos69 raises [$600]
+Cobblerboy folds
+Blair014 calls [$500]
+MaggySmiles calls [$400]
+** Dealing flop ** [ 6h, 5d, 7c ]
+Blair014 checks
+MaggySmiles checks
+Agnostos69 bets [$1,800]
+Blair014 folds
+MaggySmiles calls [$1,800]
+** Dealing turn ** [ 3s ]
+MaggySmiles checks
+Agnostos69 bets [$8,340]
+MaggySmiles folds
+** Summary **
+Agnostos69 did not show his hand
+Agnostos69 collected [ $5,400 ]
+
+
+
+#Game No : 642270522
+***** 888poker Hand History for Game 642270522 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 00:50:54
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $22,457 )
+Seat 2: Blair014 ( $24,903 )
+Seat 3: MaggySmiles ( $7,250 )
+Seat 4: paddy55555 ( $24,340 )
+Seat 5: casdrelll ( $7,835 )
+Seat 6: balbo80 ( $9,400 )
+Seat 7: PapaShango19 ( $9,475 )
+Seat 9: randers14 ( $10,600 )
+Seat 10: Agnostos69 ( $13,740 )
+Cobblerboy posts ante [$20]
+Blair014 posts ante [$20]
+paddy55555 posts ante [$20]
+MaggySmiles posts ante [$20]
+casdrelll posts ante [$20]
+Agnostos69 posts ante [$20]
+PapaShango19 posts ante [$20]
+randers14 posts ante [$20]
+balbo80 posts ante [$20]
+MaggySmiles posts small blind [$100]
+paddy55555 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Jd ]
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+Agnostos69 raises [$880]
+Cobblerboy folds
+Blair014 folds
+MaggySmiles calls [$780]
+paddy55555 folds
+** Dealing flop ** [ 2c, Qh, 3s ]
+MaggySmiles checks
+Agnostos69 bets [$2,140]
+MaggySmiles folds
+** Summary **
+Agnostos69 did not show his hand
+Agnostos69 collected [ $2,140 ]
+
+
+
+#Game No : 642270722
+***** 888poker Hand History for Game 642270722 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 00:51:30
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $22,437 )
+Seat 2: Blair014 ( $24,883 )
+Seat 3: MaggySmiles ( $6,350 )
+Seat 4: paddy55555 ( $24,120 )
+Seat 5: casdrelll ( $7,815 )
+Seat 6: balbo80 ( $9,380 )
+Seat 7: PapaShango19 ( $9,455 )
+Seat 9: randers14 ( $10,580 )
+Seat 10: Agnostos69 ( $14,980 )
+Cobblerboy posts ante [$20]
+Blair014 posts ante [$20]
+paddy55555 posts ante [$20]
+MaggySmiles posts ante [$20]
+casdrelll posts ante [$20]
+Agnostos69 posts ante [$20]
+PapaShango19 posts ante [$20]
+randers14 posts ante [$20]
+balbo80 posts ante [$20]
+paddy55555 posts small blind [$100]
+casdrelll posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Kh ]
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+Agnostos69 calls [$200]
+Cobblerboy folds
+Blair014 raises [$1,600]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+Agnostos69 calls [$1,400]
+** Dealing flop ** [ 3s, 6d, 3c ]
+Agnostos69 checks
+Blair014 checks
+** Dealing turn ** [ Qh ]
+Agnostos69 checks
+Blair014 checks
+** Dealing river ** [ Kd ]
+Agnostos69 bets [$1,840]
+Blair014 raises [$3,680]
+Agnostos69 calls [$1,840]
+** Summary **
+Blair014 shows [ Kc, Ad ]
+Agnostos69 mucks [ 9s, Qc ]
+Blair014 collected [ $11,040 ]
+
+
+
+#Game No : 642270946
+***** 888poker Hand History for Game 642270946 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 00:52:15
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $22,417 )
+Seat 2: Blair014 ( $30,623 )
+Seat 3: MaggySmiles ( $6,330 )
+Seat 4: paddy55555 ( $24,000 )
+Seat 5: casdrelll ( $7,595 )
+Seat 6: balbo80 ( $9,360 )
+Seat 7: PapaShango19 ( $9,435 )
+Seat 9: randers14 ( $10,560 )
+Seat 10: Agnostos69 ( $9,680 )
+Cobblerboy posts ante [$20]
+Blair014 posts ante [$20]
+paddy55555 posts ante [$20]
+MaggySmiles posts ante [$20]
+casdrelll posts ante [$20]
+Agnostos69 posts ante [$20]
+PapaShango19 posts ante [$20]
+randers14 posts ante [$20]
+balbo80 posts ante [$20]
+casdrelll posts small blind [$100]
+balbo80 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 8d ]
+PapaShango19 folds
+randers14 folds
+Agnostos69 calls [$200]
+Cobblerboy raises [$1,080]
+Blair014 calls [$1,080]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+Agnostos69 calls [$880]
+** Dealing flop ** [ 5s, 2c, Td ]
+Agnostos69 checks
+Cobblerboy checks
+Blair014 bets [$1,400]
+Agnostos69 raises [$3,600]
+Cobblerboy folds
+Blair014 calls [$2,200]
+** Dealing turn ** [ 3h ]
+Agnostos69 checks
+Blair014 bets [$2,000]
+Agnostos69 raises [$4,980]
+Blair014 calls [$2,980]
+** Dealing river ** [ Jc ]
+** Summary **
+Blair014 shows [ Ac, 4s ]
+Agnostos69 shows [ Th, Jh ]
+Blair014 collected [ $20,880 ]
+
+
+
+#Game No : 642271342
+***** 888poker Hand History for Game 642271342 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 00:53:37
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $21,317 )
+Seat 2: Blair014 ( $41,823 )
+Seat 3: MaggySmiles ( $6,310 )
+Seat 4: paddy55555 ( $23,980 )
+Seat 5: casdrelll ( $7,475 )
+Seat 6: balbo80 ( $9,140 )
+Seat 7: PapaShango19 ( $9,415 )
+Seat 9: randers14 ( $10,540 )
+Cobblerboy posts ante [$25]
+Blair014 posts ante [$25]
+paddy55555 posts ante [$25]
+MaggySmiles posts ante [$25]
+casdrelll posts ante [$25]
+PapaShango19 posts ante [$25]
+randers14 posts ante [$25]
+balbo80 posts ante [$25]
+balbo80 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ah ]
+randers14 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles folds
+paddy55555 calls [$250]
+casdrelll folds
+balbo80 folds
+PapaShango19 checks
+** Dealing flop ** [ Td, 8c, 3c ]
+PapaShango19 checks
+paddy55555 checks
+** Dealing turn ** [ Tc ]
+PapaShango19 checks
+paddy55555 checks
+** Dealing river ** [ 2d ]
+PapaShango19 checks
+paddy55555 checks
+** Summary **
+PapaShango19 shows [ 3s, Ah ]
+paddy55555 mucks [ As, Jd ]
+PapaShango19 collected [ $825 ]
+
+
+
+#Game No : 642271577
+***** 888poker Hand History for Game 642271577 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 00:54:22
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,292 )
+Seat 2: Blair014 ( $41,798 )
+Seat 3: MaggySmiles ( $6,285 )
+Seat 4: paddy55555 ( $23,705 )
+Seat 5: casdrelll ( $7,450 )
+Seat 6: balbo80 ( $8,990 )
+Seat 7: PapaShango19 ( $9,965 )
+Seat 9: randers14 ( $10,515 )
+Seat 10: f4ker7 ( $10,000 )
+Cobblerboy posts ante [$25]
+Blair014 posts ante [$25]
+paddy55555 posts ante [$25]
+MaggySmiles posts ante [$25]
+casdrelll posts ante [$25]
+PapaShango19 posts ante [$25]
+randers14 posts ante [$25]
+balbo80 posts ante [$25]
+f4ker7 posts ante [$25]
+PapaShango19 posts small blind [$125]
+randers14 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 4c ]
+f4ker7 raises [$500]
+Cobblerboy folds
+Blair014 folds
+MaggySmiles raises [$1,575]
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+f4ker7 raises [$9,475]
+MaggySmiles calls [$4,685]
+** Dealing flop ** [ Qc, 2c, 8d ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 3h ]
+** Summary **
+MaggySmiles shows [ Qs, Kd ]
+f4ker7 shows [ Ad, Kc ]
+MaggySmiles collected [ $13,120 ]
+
+
+
+#Game No : 642272933
+***** 888poker Hand History for Game 642272933 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 00:59:59
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,267 )
+Seat 2: Blair014 ( $41,773 )
+Seat 3: MaggySmiles ( $13,120 )
+Seat 4: paddy55555 ( $23,680 )
+Seat 5: casdrelll ( $7,425 )
+Seat 6: balbo80 ( $8,965 )
+Seat 7: PapaShango19 ( $9,815 )
+Seat 9: randers14 ( $10,240 )
+Seat 10: f4ker7 ( $3,715 )
+Cobblerboy posts ante [$25]
+Blair014 posts ante [$25]
+paddy55555 posts ante [$25]
+MaggySmiles posts ante [$25]
+casdrelll posts ante [$25]
+PapaShango19 posts ante [$25]
+randers14 posts ante [$25]
+balbo80 posts ante [$25]
+f4ker7 posts ante [$25]
+randers14 posts small blind [$125]
+f4ker7 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 6c ]
+Cobblerboy folds
+Blair014 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+** Summary **
+f4ker7 did not show his hand
+f4ker7 collected [ $600 ]
+
+
+
+#Game No : 642273078
+***** 888poker Hand History for Game 642273078 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 01:00:27
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,242 )
+Seat 2: Blair014 ( $41,748 )
+Seat 3: MaggySmiles ( $13,095 )
+Seat 4: paddy55555 ( $23,655 )
+Seat 5: casdrelll ( $7,400 )
+Seat 6: balbo80 ( $8,940 )
+Seat 7: PapaShango19 ( $9,790 )
+Seat 9: randers14 ( $10,090 )
+Seat 10: f4ker7 ( $4,040 )
+Cobblerboy posts ante [$25]
+Blair014 posts ante [$25]
+paddy55555 posts ante [$25]
+MaggySmiles posts ante [$25]
+casdrelll posts ante [$25]
+PapaShango19 posts ante [$25]
+randers14 posts ante [$25]
+balbo80 posts ante [$25]
+f4ker7 posts ante [$25]
+f4ker7 posts small blind [$125]
+Cobblerboy posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Th ]
+Blair014 calls [$250]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 raises [$1,350]
+PapaShango19 folds
+randers14 folds
+f4ker7 folds
+Cobblerboy folds
+Blair014 raises [$10,500]
+balbo80 calls [$7,565]
+** Dealing flop ** [ 2h, 7h, 8s ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 2c ]
+** Summary **
+Blair014 shows [ 7d, 8d ]
+balbo80 shows [ Ad, Qd ]
+balbo80 collected [ $18,430 ]
+
+
+
+#Game No : 642273318
+***** 888poker Hand History for Game 642273318 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 01:01:17
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $20,967 )
+Seat 2: Blair014 ( $32,808 )
+Seat 3: MaggySmiles ( $13,070 )
+Seat 4: paddy55555 ( $23,630 )
+Seat 5: casdrelll ( $7,375 )
+Seat 6: balbo80 ( $18,430 )
+Seat 7: PapaShango19 ( $9,765 )
+Seat 9: randers14 ( $10,065 )
+Seat 10: f4ker7 ( $3,890 )
+Cobblerboy posts ante [$30]
+Blair014 posts ante [$30]
+paddy55555 posts ante [$30]
+MaggySmiles posts ante [$30]
+casdrelll posts ante [$30]
+PapaShango19 posts ante [$30]
+randers14 posts ante [$30]
+balbo80 posts ante [$30]
+f4ker7 posts ante [$30]
+Cobblerboy posts small blind [$150]
+Blair014 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 4h ]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 calls [$300]
+f4ker7 raises [$600]
+Cobblerboy folds
+Blair014 raises [$600]
+randers14 folds
+f4ker7 calls [$300]
+** Dealing flop ** [ Qd, 7d, Ad ]
+Blair014 bets [$4,200]
+f4ker7 calls [$2,960]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ Kc ]
+** Summary **
+Blair014 shows [ 9h, Ac ]
+f4ker7 shows [ Jh, Kd ]
+Blair014 collected [ $8,440 ]
+
+
+
+#Game No : 642273667
+***** 888poker Hand History for Game 642273667 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 01:02:25
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $20,787 )
+Seat 2: Blair014 ( $37,358 )
+Seat 3: MaggySmiles ( $13,040 )
+Seat 4: paddy55555 ( $23,600 )
+Seat 5: casdrelll ( $7,345 )
+Seat 6: balbo80 ( $18,400 )
+Seat 7: PapaShango19 ( $9,735 )
+Seat 9: randers14 ( $9,735 )
+Cobblerboy posts ante [$30]
+Blair014 posts ante [$30]
+paddy55555 posts ante [$30]
+MaggySmiles posts ante [$30]
+casdrelll posts ante [$30]
+PapaShango19 posts ante [$30]
+randers14 posts ante [$30]
+balbo80 posts ante [$30]
+Blair014 posts small blind [$150]
+MaggySmiles posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ks ]
+paddy55555 calls [$300]
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles checks
+** Dealing flop ** [ Tc, 7c, 4c ]
+MaggySmiles checks
+paddy55555 checks
+** Dealing turn ** [ 8h ]
+MaggySmiles checks
+paddy55555 checks
+** Dealing river ** [ Ac ]
+MaggySmiles checks
+paddy55555 checks
+** Summary **
+MaggySmiles shows [ 3d, Ah ]
+paddy55555 mucks [ Jh, Kh ]
+MaggySmiles collected [ $990 ]
+
+
+
+#Game No : 642273893
+***** 888poker Hand History for Game 642273893 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 01:03:14
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $20,757 )
+Seat 2: Blair014 ( $37,178 )
+Seat 3: MaggySmiles ( $13,700 )
+Seat 4: paddy55555 ( $23,270 )
+Seat 5: casdrelll ( $7,315 )
+Seat 6: balbo80 ( $18,370 )
+Seat 7: PapaShango19 ( $9,705 )
+Seat 9: randers14 ( $9,705 )
+Seat 10: milamber2 ( $10,000 )
+Cobblerboy posts ante [$30]
+Blair014 posts ante [$30]
+paddy55555 posts ante [$30]
+MaggySmiles posts ante [$30]
+casdrelll posts ante [$30]
+PapaShango19 posts ante [$30]
+randers14 posts ante [$30]
+balbo80 posts ante [$30]
+milamber2 posts ante [$30]
+MaggySmiles posts small blind [$150]
+paddy55555 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9d ]
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles folds
+** Summary **
+paddy55555 did not show his hand
+paddy55555 collected [ $720 ]
+
+
+
+#Game No : 642274045
+***** 888poker Hand History for Game 642274045 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 01:03:42
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $20,727 )
+Seat 2: Blair014 ( $37,148 )
+Seat 3: MaggySmiles ( $13,520 )
+Seat 4: paddy55555 ( $23,660 )
+Seat 5: casdrelll ( $7,285 )
+Seat 6: balbo80 ( $18,340 )
+Seat 7: PapaShango19 ( $9,675 )
+Seat 9: randers14 ( $9,675 )
+Seat 10: milamber2 ( $9,970 )
+Cobblerboy posts ante [$30]
+Blair014 posts ante [$30]
+paddy55555 posts ante [$30]
+MaggySmiles posts ante [$30]
+casdrelll posts ante [$30]
+PapaShango19 posts ante [$30]
+randers14 posts ante [$30]
+balbo80 posts ante [$30]
+milamber2 posts ante [$30]
+paddy55555 posts small blind [$150]
+casdrelll posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4s ]
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+milamber2 folds
+Cobblerboy raises [$1,320]
+Blair014 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+** Summary **
+Cobblerboy did not show his hand
+Cobblerboy collected [ $1,020 ]
+
+
+
+#Game No : 642274229
+***** 888poker Hand History for Game 642274229 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 01:04:30
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,417 )
+Seat 2: Blair014 ( $37,118 )
+Seat 3: MaggySmiles ( $13,490 )
+Seat 4: paddy55555 ( $23,480 )
+Seat 5: casdrelll ( $6,955 )
+Seat 6: balbo80 ( $18,310 )
+Seat 7: PapaShango19 ( $9,645 )
+Seat 9: randers14 ( $9,645 )
+Seat 10: milamber2 ( $9,940 )
+Cobblerboy posts ante [$40]
+Blair014 posts ante [$40]
+paddy55555 posts ante [$40]
+MaggySmiles posts ante [$40]
+casdrelll posts ante [$40]
+PapaShango19 posts ante [$40]
+randers14 posts ante [$40]
+balbo80 posts ante [$40]
+milamber2 posts ante [$40]
+casdrelll posts small blind [$200]
+balbo80 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5h ]
+PapaShango19 calls [$400]
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 calls [$400]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 checks
+** Dealing flop ** [ 6c, 7d, 8h ]
+balbo80 checks
+PapaShango19 bets [$880]
+Blair014 calls [$880]
+balbo80 folds
+** Dealing turn ** [ 5c ]
+PapaShango19 bets [$2,640]
+Blair014 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $3,520 ]
+
+
+
+#Game No : 642274618
+***** 888poker Hand History for Game 642274618 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 01:05:50
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,377 )
+Seat 2: Blair014 ( $35,798 )
+Seat 3: MaggySmiles ( $13,450 )
+Seat 4: paddy55555 ( $23,440 )
+Seat 5: casdrelll ( $6,715 )
+Seat 6: balbo80 ( $17,870 )
+Seat 7: PapaShango19 ( $11,845 )
+Seat 9: randers14 ( $9,605 )
+Seat 10: milamber2 ( $9,900 )
+Cobblerboy posts ante [$40]
+Blair014 posts ante [$40]
+paddy55555 posts ante [$40]
+MaggySmiles posts ante [$40]
+casdrelll posts ante [$40]
+PapaShango19 posts ante [$40]
+randers14 posts ante [$40]
+balbo80 posts ante [$40]
+milamber2 posts ante [$40]
+balbo80 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 2s ]
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $960 ]
+
+
+
+#Game No : 642274806
+***** 888poker Hand History for Game 642274806 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 01:06:32
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,337 )
+Seat 2: Blair014 ( $35,758 )
+Seat 3: MaggySmiles ( $13,410 )
+Seat 4: paddy55555 ( $23,400 )
+Seat 5: casdrelll ( $6,675 )
+Seat 6: balbo80 ( $17,630 )
+Seat 7: PapaShango19 ( $12,365 )
+Seat 9: randers14 ( $9,565 )
+Seat 10: milamber2 ( $9,860 )
+Cobblerboy posts ante [$40]
+Blair014 posts ante [$40]
+paddy55555 posts ante [$40]
+MaggySmiles posts ante [$40]
+casdrelll posts ante [$40]
+PapaShango19 posts ante [$40]
+randers14 posts ante [$40]
+balbo80 posts ante [$40]
+milamber2 posts ante [$40]
+PapaShango19 posts small blind [$200]
+randers14 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6s ]
+milamber2 folds
+Cobblerboy raises [$1,760]
+Blair014 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+** Summary **
+Cobblerboy did not show his hand
+Cobblerboy collected [ $1,360 ]
+
+
+
+#Game No : 642274985
+***** 888poker Hand History for Game 642274985 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 01:07:13
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $22,257 )
+Seat 2: Blair014 ( $35,718 )
+Seat 3: MaggySmiles ( $13,370 )
+Seat 4: paddy55555 ( $23,360 )
+Seat 5: casdrelll ( $6,635 )
+Seat 6: balbo80 ( $17,590 )
+Seat 7: PapaShango19 ( $12,125 )
+Seat 9: randers14 ( $9,125 )
+Seat 10: milamber2 ( $9,820 )
+Cobblerboy posts ante [$60]
+Blair014 posts ante [$60]
+paddy55555 posts ante [$60]
+MaggySmiles posts ante [$60]
+casdrelll posts ante [$60]
+PapaShango19 posts ante [$60]
+randers14 posts ante [$60]
+balbo80 posts ante [$60]
+milamber2 posts ante [$60]
+randers14 posts small blind [$300]
+milamber2 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 5s ]
+Cobblerboy folds
+Blair014 folds
+MaggySmiles raises [$1,200]
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+milamber2 folds
+** Summary **
+MaggySmiles did not show his hand
+MaggySmiles collected [ $2,040 ]
+
+
+
+#Game No : 642275198
+***** 888poker Hand History for Game 642275198 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 01:07:58
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $22,197 )
+Seat 2: Blair014 ( $35,658 )
+Seat 3: MaggySmiles ( $14,750 )
+Seat 4: paddy55555 ( $23,300 )
+Seat 5: casdrelll ( $6,575 )
+Seat 6: balbo80 ( $17,530 )
+Seat 7: PapaShango19 ( $12,065 )
+Seat 9: randers14 ( $8,765 )
+Seat 10: milamber2 ( $9,160 )
+Cobblerboy posts ante [$60]
+Blair014 posts ante [$60]
+paddy55555 posts ante [$60]
+MaggySmiles posts ante [$60]
+casdrelll posts ante [$60]
+PapaShango19 posts ante [$60]
+randers14 posts ante [$60]
+balbo80 posts ante [$60]
+milamber2 posts ante [$60]
+milamber2 posts small blind [$300]
+Cobblerboy posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 6h ]
+Blair014 folds
+MaggySmiles folds
+paddy55555 calls [$600]
+casdrelll folds
+balbo80 raises [$1,830]
+PapaShango19 folds
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+paddy55555 calls [$1,230]
+** Dealing flop ** [ 7s, Ad, 8d ]
+paddy55555 checks
+balbo80 bets [$3,225]
+paddy55555 folds
+** Summary **
+balbo80 did not show his hand
+balbo80 collected [ $5,100 ]
+
+
+
+#Game No : 642275392
+***** 888poker Hand History for Game 642275392 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 01:08:45
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,537 )
+Seat 2: Blair014 ( $35,598 )
+Seat 3: MaggySmiles ( $14,690 )
+Seat 4: paddy55555 ( $21,410 )
+Seat 5: casdrelll ( $6,515 )
+Seat 6: balbo80 ( $20,740 )
+Seat 7: PapaShango19 ( $12,005 )
+Seat 9: randers14 ( $8,705 )
+Seat 10: milamber2 ( $8,800 )
+Cobblerboy posts ante [$60]
+Blair014 posts ante [$60]
+paddy55555 posts ante [$60]
+MaggySmiles posts ante [$60]
+casdrelll posts ante [$60]
+PapaShango19 posts ante [$60]
+randers14 posts ante [$60]
+balbo80 posts ante [$60]
+milamber2 posts ante [$60]
+Cobblerboy posts small blind [$300]
+Blair014 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 5c ]
+MaggySmiles raises [$1,200]
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 folds
+** Summary **
+MaggySmiles did not show his hand
+MaggySmiles collected [ $2,040 ]
+
+
+
+#Game No : 642275595
+***** 888poker Hand History for Game 642275595 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 01:09:31
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,177 )
+Seat 2: Blair014 ( $34,938 )
+Seat 3: MaggySmiles ( $16,070 )
+Seat 4: paddy55555 ( $21,350 )
+Seat 5: casdrelll ( $6,455 )
+Seat 6: balbo80 ( $20,680 )
+Seat 7: PapaShango19 ( $11,945 )
+Seat 9: randers14 ( $8,645 )
+Seat 10: milamber2 ( $8,740 )
+Cobblerboy posts ante [$60]
+Blair014 posts ante [$60]
+paddy55555 posts ante [$60]
+MaggySmiles posts ante [$60]
+casdrelll posts ante [$60]
+PapaShango19 posts ante [$60]
+randers14 posts ante [$60]
+balbo80 posts ante [$60]
+milamber2 posts ante [$60]
+Blair014 posts small blind [$300]
+MaggySmiles posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Qd ]
+paddy55555 folds
+casdrelll folds
+balbo80 folds
+PapaShango19 raises [$2,400]
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,040 ]
+
+
+
+#Game No : 642275764
+***** 888poker Hand History for Game 642275764 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 01:10:10
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,117 )
+Seat 2: Blair014 ( $34,578 )
+Seat 3: MaggySmiles ( $15,410 )
+Seat 4: paddy55555 ( $21,290 )
+Seat 5: casdrelll ( $6,395 )
+Seat 6: balbo80 ( $20,620 )
+Seat 7: PapaShango19 ( $13,325 )
+Seat 9: randers14 ( $8,585 )
+Seat 10: milamber2 ( $8,680 )
+Cobblerboy posts ante [$60]
+Blair014 posts ante [$60]
+paddy55555 posts ante [$60]
+MaggySmiles posts ante [$60]
+casdrelll posts ante [$60]
+PapaShango19 posts ante [$60]
+randers14 posts ante [$60]
+balbo80 posts ante [$60]
+milamber2 posts ante [$60]
+MaggySmiles posts small blind [$300]
+paddy55555 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 6d ]
+casdrelll folds
+balbo80 folds
+PapaShango19 folds
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 calls [$600]
+MaggySmiles calls [$300]
+paddy55555 checks
+** Dealing flop ** [ Jd, Js, Qd ]
+MaggySmiles checks
+paddy55555 checks
+Blair014 checks
+** Dealing turn ** [ Ah ]
+MaggySmiles checks
+paddy55555 checks
+Blair014 checks
+** Dealing river ** [ Ad ]
+MaggySmiles bets [$600]
+paddy55555 folds
+Blair014 folds
+** Summary **
+MaggySmiles did not show his hand
+MaggySmiles collected [ $2,340 ]
+
+
+
+#Game No : 642276059
+***** 888poker Hand History for Game 642276059 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 01:11:22
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $21,057 )
+Seat 2: Blair014 ( $33,918 )
+Seat 3: MaggySmiles ( $17,090 )
+Seat 4: paddy55555 ( $20,630 )
+Seat 5: casdrelll ( $6,335 )
+Seat 6: balbo80 ( $20,560 )
+Seat 7: PapaShango19 ( $13,265 )
+Seat 9: randers14 ( $8,525 )
+Seat 10: milamber2 ( $8,620 )
+Cobblerboy posts ante [$80]
+Blair014 posts ante [$80]
+paddy55555 posts ante [$80]
+MaggySmiles posts ante [$80]
+casdrelll posts ante [$80]
+PapaShango19 posts ante [$80]
+randers14 posts ante [$80]
+balbo80 posts ante [$80]
+milamber2 posts ante [$80]
+paddy55555 posts small blind [$400]
+casdrelll posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 8d ]
+balbo80 raises [$1,600]
+PapaShango19 folds
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles calls [$1,600]
+paddy55555 folds
+casdrelll folds
+** Dealing flop ** [ 2s, 2d, 7d ]
+balbo80 checks
+MaggySmiles checks
+** Dealing turn ** [ Ks ]
+balbo80 checks
+MaggySmiles checks
+** Dealing river ** [ Qc ]
+balbo80 checks
+MaggySmiles checks
+** Summary **
+balbo80 shows [ Ac, Jd ]
+MaggySmiles shows [ 4d, As ]
+MaggySmiles collected [ $2,560 ]
+balbo80 collected [ $2,560 ]
+
+
+
+#Game No : 642276389
+***** 888poker Hand History for Game 642276389 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 01:12:22
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $20,977 )
+Seat 2: Blair014 ( $33,838 )
+Seat 3: MaggySmiles ( $17,970 )
+Seat 4: paddy55555 ( $20,150 )
+Seat 5: casdrelll ( $5,455 )
+Seat 6: balbo80 ( $21,440 )
+Seat 7: PapaShango19 ( $13,185 )
+Seat 9: randers14 ( $8,445 )
+Seat 10: milamber2 ( $8,540 )
+Cobblerboy posts ante [$80]
+Blair014 posts ante [$80]
+paddy55555 posts ante [$80]
+MaggySmiles posts ante [$80]
+casdrelll posts ante [$80]
+PapaShango19 posts ante [$80]
+randers14 posts ante [$80]
+balbo80 posts ante [$80]
+milamber2 posts ante [$80]
+casdrelll posts small blind [$400]
+balbo80 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Td ]
+PapaShango19 raises [$1,600]
+randers14 folds
+milamber2 folds
+Cobblerboy folds
+Blair014 calls [$1,600]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+balbo80 calls [$800]
+** Dealing flop ** [ 4s, 8h, 4d ]
+balbo80 checks
+PapaShango19 bets [$1,600]
+Blair014 folds
+balbo80 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $5,920 ]
+
+
+
+#Game No : 642276505
+***** 888poker Hand History for Game 642276505 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 01:12:48
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $20,897 )
+Seat 2: Blair014 ( $32,158 )
+Seat 3: MaggySmiles ( $17,890 )
+Seat 4: paddy55555 ( $20,070 )
+Seat 5: casdrelll ( $4,975 )
+Seat 6: balbo80 ( $19,760 )
+Seat 7: PapaShango19 ( $17,425 )
+Seat 9: randers14 ( $8,365 )
+Seat 10: milamber2 ( $8,460 )
+Cobblerboy posts ante [$80]
+Blair014 posts ante [$80]
+paddy55555 posts ante [$80]
+MaggySmiles posts ante [$80]
+casdrelll posts ante [$80]
+PapaShango19 posts ante [$80]
+randers14 posts ante [$80]
+balbo80 posts ante [$80]
+milamber2 posts ante [$80]
+balbo80 posts small blind [$400]
+PapaShango19 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 5c ]
+randers14 folds
+milamber2 folds
+Cobblerboy raises [$3,520]
+Blair014 raises [$11,200]
+MaggySmiles folds
+paddy55555 folds
+casdrelll calls [$4,895]
+balbo80 folds
+PapaShango19 folds
+Cobblerboy folds
+** Dealing flop ** [ Jc, 5h, Jd ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 3d ]
+** Summary **
+Blair014 shows [ As, 9c ]
+casdrelll shows [ Ah, Ks ]
+casdrelll collected [ $15,230 ]
+
+
+
+#Game No : 642276753
+***** 888poker Hand History for Game 642276753 *****
+$500/$1,000 Blinds No Limit Holdem - *** 21 11 2014 01:13:44
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $17,297 )
+Seat 2: Blair014 ( $27,183 )
+Seat 3: MaggySmiles ( $17,810 )
+Seat 4: paddy55555 ( $19,990 )
+Seat 5: casdrelll ( $15,230 )
+Seat 6: balbo80 ( $19,280 )
+Seat 7: PapaShango19 ( $16,545 )
+Seat 9: randers14 ( $8,285 )
+Seat 10: milamber2 ( $8,380 )
+Cobblerboy posts ante [$100]
+Blair014 posts ante [$100]
+paddy55555 posts ante [$100]
+MaggySmiles posts ante [$100]
+casdrelll posts ante [$100]
+PapaShango19 posts ante [$100]
+randers14 posts ante [$100]
+balbo80 posts ante [$100]
+milamber2 posts ante [$100]
+PapaShango19 posts small blind [$500]
+randers14 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 5s ]
+milamber2 calls [$1,000]
+Cobblerboy folds
+Blair014 folds
+MaggySmiles raises [$4,050]
+paddy55555 folds
+casdrelll folds
+balbo80 calls [$4,050]
+PapaShango19 folds
+randers14 raises [$7,185]
+milamber2 raises [$7,280]
+MaggySmiles raises [$13,660]
+balbo80 calls [$13,660]
+** Dealing flop ** [ 8c, 2s, Ad ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 3c ]
+** Summary **
+MaggySmiles shows [ Ac, Qh ]
+balbo80 shows [ Ks, Qs ]
+randers14 shows [ As, Jh ]
+milamber2 shows [ Kc, Qc ]
+MaggySmiles collected [ $34,140 ]
+MaggySmiles collected [ $285 ]
+MaggySmiles collected [ $18,860 ]
+
+
+
+#Game No : 642277033
+***** 888poker Hand History for Game 642277033 *****
+$500/$1,000 Blinds No Limit Holdem - *** 21 11 2014 01:14:52
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Cobblerboy ( $17,197 )
+Seat 2: Blair014 ( $27,083 )
+Seat 3: MaggySmiles ( $53,285 )
+Seat 4: paddy55555 ( $19,890 )
+Seat 5: casdrelll ( $15,130 )
+Seat 6: balbo80 ( $1,470 )
+Seat 7: PapaShango19 ( $15,945 )
+Cobblerboy posts ante [$100]
+Blair014 posts ante [$100]
+paddy55555 posts ante [$100]
+MaggySmiles posts ante [$100]
+casdrelll posts ante [$100]
+PapaShango19 posts ante [$100]
+balbo80 posts ante [$100]
+Cobblerboy posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Qd ]
+Blair014 calls [$1,000]
+MaggySmiles calls [$1,000]
+paddy55555 folds
+casdrelll folds
+balbo80 raises [$1,370]
+PapaShango19 folds
+Cobblerboy folds
+Blair014 calls [$370]
+MaggySmiles calls [$370]
+** Dealing flop ** [ 4h, Jh, 8s ]
+Blair014 checks
+MaggySmiles checks
+** Dealing turn ** [ Qs ]
+Blair014 bets [$1,000]
+MaggySmiles raises [$4,405]
+Blair014 calls [$3,405]
+** Dealing river ** [ 6s ]
+Blair014 bets [$1,000]
+MaggySmiles calls [$1,000]
+** Summary **
+Blair014 shows [ 9h, 9d ]
+MaggySmiles shows [ Ad, As ]
+balbo80 mucks [ Td, Ts ]
+MaggySmiles collected [ $5,810 ]
+MaggySmiles collected [ $10,810 ]
+
+
+
+#Game No : 642277258
+***** 888poker Hand History for Game 642277258 *****
+$500/$1,000 Blinds No Limit Holdem - *** 21 11 2014 01:15:39
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Cobblerboy ( $16,097 )
+Seat 2: Blair014 ( $20,208 )
+Seat 3: MaggySmiles ( $63,030 )
+Seat 4: paddy55555 ( $19,790 )
+Seat 5: casdrelll ( $15,030 )
+Seat 7: PapaShango19 ( $15,845 )
+Cobblerboy posts ante [$100]
+Blair014 posts ante [$100]
+paddy55555 posts ante [$100]
+MaggySmiles posts ante [$100]
+casdrelll posts ante [$100]
+PapaShango19 posts ante [$100]
+Cobblerboy posts small blind [$500]
+Blair014 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 4c ]
+MaggySmiles folds
+paddy55555 folds
+casdrelll raises [$2,000]
+PapaShango19 folds
+Cobblerboy folds
+Blair014 calls [$1,000]
+** Dealing flop ** [ Qs, 6s, 2h ]
+Blair014 checks
+casdrelll bets [$2,550]
+Blair014 folds
+** Summary **
+casdrelll collected [ $5,100 ]
+
+
+
+#Game No : 642277452
+***** 888poker Hand History for Game 642277452 *****
+$600/$1,200 Blinds No Limit Holdem - *** 21 11 2014 01:16:20
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $15,497 )
+Seat 2: Blair014 ( $18,108 )
+Seat 3: MaggySmiles ( $62,930 )
+Seat 4: paddy55555 ( $19,690 )
+Seat 5: casdrelll ( $18,030 )
+Seat 6: phoenix106 ( $1,570 )
+Seat 7: PapaShango19 ( $15,745 )
+Seat 9: markdani95 ( $10,000 )
+Seat 10: marathana ( $10,000 )
+Cobblerboy posts ante [$120]
+Blair014 posts ante [$120]
+paddy55555 posts ante [$120]
+MaggySmiles posts ante [$120]
+casdrelll posts ante [$120]
+PapaShango19 posts ante [$120]
+markdani95 posts ante [$120]
+marathana posts ante [$120]
+phoenix106 posts ante [$120]
+Blair014 posts small blind [$600]
+MaggySmiles posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Jc ]
+paddy55555 folds
+casdrelll folds
+phoenix106 calls [$1,200]
+PapaShango19 raises [$4,800]
+markdani95 folds
+marathana folds
+Cobblerboy folds
+Blair014 folds
+MaggySmiles folds
+phoenix106 calls [$250]
+** Dealing flop ** [ Qs, 5c, Kc ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 9d ]
+** Summary **
+phoenix106 shows [ Qc, 9s ]
+PapaShango19 shows [ Jd, Jc ]
+PapaShango19 collected [ $5,780 ]
+
+
+
+#Game No : 642277740
+***** 888poker Hand History for Game 642277740 *****
+$600/$1,200 Blinds No Limit Holdem - *** 21 11 2014 01:17:23
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $15,377 )
+Seat 2: Blair014 ( $17,388 )
+Seat 3: MaggySmiles ( $61,610 )
+Seat 4: paddy55555 ( $19,570 )
+Seat 5: casdrelll ( $17,910 )
+Seat 7: PapaShango19 ( $19,955 )
+Seat 9: markdani95 ( $9,880 )
+Seat 10: marathana ( $9,880 )
+Cobblerboy posts ante [$120]
+Blair014 posts ante [$120]
+paddy55555 posts ante [$120]
+MaggySmiles posts ante [$120]
+casdrelll posts ante [$120]
+PapaShango19 posts ante [$120]
+markdani95 posts ante [$120]
+marathana posts ante [$120]
+MaggySmiles posts small blind [$600]
+paddy55555 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 9h ]
+casdrelll folds
+PapaShango19 folds
+markdani95 folds
+marathana folds
+Cobblerboy raises [$5,160]
+Blair014 folds
+MaggySmiles folds
+paddy55555 folds
+** Summary **
+Cobblerboy collected [ $3,960 ]
+
+
+
+#Game No : 642277925
+***** 888poker Hand History for Game 642277925 *****
+$600/$1,200 Blinds No Limit Holdem - *** 21 11 2014 01:18:02
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $18,017 )
+Seat 2: Blair014 ( $17,268 )
+Seat 3: MaggySmiles ( $60,890 )
+Seat 4: paddy55555 ( $18,250 )
+Seat 5: casdrelll ( $17,790 )
+Seat 6: __BMW__ ( $12,980 )
+Seat 7: PapaShango19 ( $19,835 )
+Seat 9: markdani95 ( $9,760 )
+Seat 10: marathana ( $9,760 )
+Cobblerboy posts ante [$120]
+Blair014 posts ante [$120]
+paddy55555 posts ante [$120]
+MaggySmiles posts ante [$120]
+casdrelll posts ante [$120]
+PapaShango19 posts ante [$120]
+markdani95 posts ante [$120]
+marathana posts ante [$120]
+__BMW__ posts ante [$120]
+paddy55555 posts small blind [$600]
+casdrelll posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 2h ]
+__BMW__ folds
+PapaShango19 folds
+markdani95 folds
+marathana folds
+Cobblerboy calls [$1,200]
+Blair014 raises [$17,148]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+Cobblerboy calls [$15,948]
+** Dealing flop ** [ Kc, 6d, 3c ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 8s ]
+** Summary **
+Cobblerboy shows [ Tc, As ]
+Blair014 shows [ Ad, 5c ]
+Cobblerboy collected [ $37,176 ]
+
+
+
+#Game No : 642278222
+***** 888poker Hand History for Game 642278222 *****
+$800/$1,600 Blinds No Limit Holdem - *** 21 11 2014 01:19:12
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $37,925 )
+Seat 3: MaggySmiles ( $60,770 )
+Seat 4: paddy55555 ( $17,530 )
+Seat 5: casdrelll ( $16,470 )
+Seat 6: __BMW__ ( $12,860 )
+Seat 7: PapaShango19 ( $19,715 )
+Seat 9: markdani95 ( $9,640 )
+Seat 10: marathana ( $9,640 )
+Cobblerboy posts ante [$160]
+paddy55555 posts ante [$160]
+MaggySmiles posts ante [$160]
+casdrelll posts ante [$160]
+PapaShango19 posts ante [$160]
+markdani95 posts ante [$160]
+marathana posts ante [$160]
+__BMW__ posts ante [$160]
+casdrelll posts small blind [$800]
+__BMW__ posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Td ]
+PapaShango19 folds
+markdani95 folds
+marathana folds
+Cobblerboy raises [$3,200]
+MaggySmiles calls [$3,200]
+paddy55555 folds
+casdrelll folds
+__BMW__ folds
+** Dealing flop ** [ 8d, 4d, Kc ]
+Cobblerboy bets [$1,600]
+MaggySmiles raises [$4,800]
+Cobblerboy calls [$3,200]
+** Dealing turn ** [ 3c ]
+Cobblerboy checks
+MaggySmiles bets [$8,240]
+Cobblerboy calls [$8,240]
+** Dealing river ** [ 9d ]
+Cobblerboy bets [$21,525]
+MaggySmiles folds
+** Summary **
+Cobblerboy collected [ $36,160 ]
+
+
+
+#Game No : 642278455
+***** 888poker Hand History for Game 642278455 *****
+$800/$1,600 Blinds No Limit Holdem - *** 21 11 2014 01:20:06
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $57,685 )
+Seat 2: gurujosh37 ( $47,331 )
+Seat 3: MaggySmiles ( $44,370 )
+Seat 4: paddy55555 ( $17,370 )
+Seat 5: casdrelll ( $15,510 )
+Seat 6: __BMW__ ( $11,100 )
+Seat 7: PapaShango19 ( $19,555 )
+Seat 9: markdani95 ( $9,480 )
+Seat 10: marathana ( $9,480 )
+Cobblerboy posts ante [$160]
+paddy55555 posts ante [$160]
+MaggySmiles posts ante [$160]
+casdrelll posts ante [$160]
+PapaShango19 posts ante [$160]
+markdani95 posts ante [$160]
+marathana posts ante [$160]
+__BMW__ posts ante [$160]
+gurujosh37 posts ante [$160]
+__BMW__ posts small blind [$800]
+PapaShango19 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Jc ]
+markdani95 folds
+marathana folds
+Cobblerboy folds
+gurujosh37 raises [$7,040]
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+__BMW__ folds
+PapaShango19 folds
+** Summary **
+gurujosh37 did not show his hand
+gurujosh37 collected [ $5,440 ]
+
+
+
+#Game No : 642278640
+***** 888poker Hand History for Game 642278640 *****
+$800/$1,600 Blinds No Limit Holdem - *** 21 11 2014 01:20:50
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $57,525 )
+Seat 2: gurujosh37 ( $51,011 )
+Seat 3: MaggySmiles ( $44,210 )
+Seat 4: paddy55555 ( $17,210 )
+Seat 5: casdrelll ( $15,350 )
+Seat 6: __BMW__ ( $10,140 )
+Seat 7: PapaShango19 ( $17,795 )
+Seat 9: markdani95 ( $9,320 )
+Seat 10: marathana ( $9,320 )
+Cobblerboy posts ante [$160]
+paddy55555 posts ante [$160]
+MaggySmiles posts ante [$160]
+casdrelll posts ante [$160]
+PapaShango19 posts ante [$160]
+markdani95 posts ante [$160]
+marathana posts ante [$160]
+__BMW__ posts ante [$160]
+gurujosh37 posts ante [$160]
+PapaShango19 posts small blind [$800]
+markdani95 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 7h ]
+marathana folds
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll raises [$15,190]
+__BMW__ folds
+PapaShango19 folds
+markdani95 folds
+** Summary **
+casdrelll did not show his hand
+casdrelll collected [ $5,440 ]
+
+
+
+#Game No : 642278787
+***** 888poker Hand History for Game 642278787 *****
+$800/$1,600 Blinds No Limit Holdem - *** 21 11 2014 01:21:23
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $57,365 )
+Seat 2: gurujosh37 ( $50,851 )
+Seat 3: MaggySmiles ( $44,050 )
+Seat 4: paddy55555 ( $17,050 )
+Seat 5: casdrelll ( $19,030 )
+Seat 6: __BMW__ ( $9,980 )
+Seat 7: PapaShango19 ( $16,835 )
+Seat 9: markdani95 ( $7,560 )
+Seat 10: marathana ( $9,160 )
+Cobblerboy posts ante [$160]
+paddy55555 posts ante [$160]
+MaggySmiles posts ante [$160]
+casdrelll posts ante [$160]
+PapaShango19 posts ante [$160]
+markdani95 posts ante [$160]
+marathana posts ante [$160]
+__BMW__ posts ante [$160]
+gurujosh37 posts ante [$160]
+markdani95 posts small blind [$800]
+marathana posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2d ]
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+__BMW__ folds
+PapaShango19 folds
+markdani95 calls [$800]
+marathana checks
+** Dealing flop ** [ Ad, 8d, Qs ]
+markdani95 checks
+marathana checks
+** Dealing turn ** [ Kd ]
+markdani95 checks
+marathana bets [$1,600]
+markdani95 folds
+** Summary **
+marathana did not show his hand
+marathana collected [ $4,640 ]
+
+
+
+#Game No : 642278952
+***** 888poker Hand History for Game 642278952 *****
+$800/$1,600 Blinds No Limit Holdem - *** 21 11 2014 01:22:03
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $57,205 )
+Seat 2: gurujosh37 ( $50,691 )
+Seat 3: MaggySmiles ( $43,890 )
+Seat 4: paddy55555 ( $16,890 )
+Seat 5: casdrelll ( $18,870 )
+Seat 6: __BMW__ ( $9,820 )
+Seat 7: PapaShango19 ( $16,675 )
+Seat 9: markdani95 ( $5,800 )
+Seat 10: marathana ( $12,040 )
+Cobblerboy posts ante [$160]
+paddy55555 posts ante [$160]
+MaggySmiles posts ante [$160]
+casdrelll posts ante [$160]
+PapaShango19 posts ante [$160]
+markdani95 posts ante [$160]
+marathana posts ante [$160]
+__BMW__ posts ante [$160]
+gurujosh37 posts ante [$160]
+marathana posts small blind [$800]
+Cobblerboy posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 7h ]
+gurujosh37 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+__BMW__ raises [$9,660]
+PapaShango19 folds
+markdani95 folds
+marathana folds
+Cobblerboy folds
+** Summary **
+__BMW__ did not show his hand
+__BMW__ collected [ $5,440 ]
+
+
+
+#Game No : 642279105
+***** 888poker Hand History for Game 642279105 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 21 11 2014 01:22:35
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $55,445 )
+Seat 2: gurujosh37 ( $50,531 )
+Seat 3: MaggySmiles ( $43,730 )
+Seat 4: paddy55555 ( $16,730 )
+Seat 5: casdrelll ( $18,710 )
+Seat 6: __BMW__ ( $13,500 )
+Seat 7: PapaShango19 ( $16,515 )
+Seat 9: markdani95 ( $5,640 )
+Seat 10: marathana ( $11,080 )
+Cobblerboy posts ante [$200]
+paddy55555 posts ante [$200]
+MaggySmiles posts ante [$200]
+casdrelll posts ante [$200]
+PapaShango19 posts ante [$200]
+markdani95 posts ante [$200]
+marathana posts ante [$200]
+__BMW__ posts ante [$200]
+gurujosh37 posts ante [$200]
+Cobblerboy posts small blind [$1,000]
+gurujosh37 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 4s ]
+MaggySmiles folds
+paddy55555 folds
+casdrelll raises [$18,510]
+__BMW__ folds
+PapaShango19 folds
+markdani95 folds
+marathana folds
+Cobblerboy folds
+gurujosh37 folds
+** Summary **
+casdrelll did not show his hand
+casdrelll collected [ $6,800 ]
+
+
+
+#Game No : 642279258
+***** 888poker Hand History for Game 642279258 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 21 11 2014 01:23:07
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $54,245 )
+Seat 2: gurujosh37 ( $48,331 )
+Seat 3: MaggySmiles ( $43,530 )
+Seat 4: paddy55555 ( $16,530 )
+Seat 5: casdrelll ( $23,310 )
+Seat 6: __BMW__ ( $13,300 )
+Seat 7: PapaShango19 ( $16,315 )
+Seat 9: markdani95 ( $5,440 )
+Seat 10: marathana ( $10,880 )
+Cobblerboy posts ante [$200]
+paddy55555 posts ante [$200]
+MaggySmiles posts ante [$200]
+casdrelll posts ante [$200]
+PapaShango19 posts ante [$200]
+markdani95 posts ante [$200]
+marathana posts ante [$200]
+__BMW__ posts ante [$200]
+gurujosh37 posts ante [$200]
+gurujosh37 posts small blind [$1,000]
+MaggySmiles posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4c ]
+paddy55555 folds
+casdrelll folds
+__BMW__ folds
+PapaShango19 folds
+markdani95 folds
+marathana folds
+Cobblerboy folds
+gurujosh37 raises [$6,800]
+MaggySmiles folds
+** Summary **
+gurujosh37 did not show his hand
+gurujosh37 collected [ $5,800 ]
+
+
+
+#Game No : 642279364
+***** 888poker Hand History for Game 642279364 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 21 11 2014 01:23:31
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $54,045 )
+Seat 2: gurujosh37 ( $51,931 )
+Seat 3: MaggySmiles ( $41,330 )
+Seat 4: paddy55555 ( $16,330 )
+Seat 5: casdrelll ( $23,110 )
+Seat 6: __BMW__ ( $13,100 )
+Seat 7: PapaShango19 ( $16,115 )
+Seat 9: markdani95 ( $5,240 )
+Seat 10: marathana ( $10,680 )
+Cobblerboy posts ante [$200]
+paddy55555 posts ante [$200]
+MaggySmiles posts ante [$200]
+casdrelll posts ante [$200]
+PapaShango19 posts ante [$200]
+markdani95 posts ante [$200]
+marathana posts ante [$200]
+__BMW__ posts ante [$200]
+gurujosh37 posts ante [$200]
+MaggySmiles posts small blind [$1,000]
+paddy55555 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 3d ]
+casdrelll folds
+__BMW__ folds
+PapaShango19 folds
+markdani95 folds
+marathana folds
+Cobblerboy folds
+gurujosh37 raises [$8,800]
+MaggySmiles folds
+paddy55555 folds
+** Summary **
+gurujosh37 did not show his hand
+gurujosh37 collected [ $6,800 ]
+
+
+
+#Game No : 642279616
+***** 888poker Hand History for Game 642279616 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 21 11 2014 01:24:17
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $53,845 )
+Seat 2: gurujosh37 ( $56,531 )
+Seat 3: MaggySmiles ( $40,130 )
+Seat 4: paddy55555 ( $14,130 )
+Seat 5: casdrelll ( $22,910 )
+Seat 6: __BMW__ ( $12,900 )
+Seat 7: PapaShango19 ( $15,915 )
+Seat 9: markdani95 ( $5,040 )
+Seat 10: marathana ( $10,480 )
+Cobblerboy posts ante [$200]
+paddy55555 posts ante [$200]
+MaggySmiles posts ante [$200]
+casdrelll posts ante [$200]
+PapaShango19 posts ante [$200]
+markdani95 posts ante [$200]
+marathana posts ante [$200]
+__BMW__ posts ante [$200]
+gurujosh37 posts ante [$200]
+paddy55555 posts small blind [$1,000]
+casdrelll posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 2d ]
+__BMW__ folds
+PapaShango19 folds
+markdani95 raises [$4,840]
+marathana folds
+Cobblerboy raises [$19,320]
+gurujosh37 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+** Dealing flop ** [ Tc, 9s, 4s ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 7s ]
+** Summary **
+Cobblerboy shows [ Kh, 6h ]
+markdani95 shows [ Jh, Ts ]
+markdani95 collected [ $14,480 ]
+
+
+
+#Game No : 642279858
+***** 888poker Hand History for Game 642279858 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 21 11 2014 01:25:05
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $48,805 )
+Seat 2: gurujosh37 ( $56,331 )
+Seat 3: MaggySmiles ( $39,930 )
+Seat 4: paddy55555 ( $12,930 )
+Seat 5: casdrelll ( $20,710 )
+Seat 6: __BMW__ ( $12,700 )
+Seat 7: PapaShango19 ( $15,715 )
+Seat 9: markdani95 ( $14,480 )
+Seat 10: marathana ( $10,280 )
+Cobblerboy posts ante [$200]
+paddy55555 posts ante [$200]
+MaggySmiles posts ante [$200]
+casdrelll posts ante [$200]
+PapaShango19 posts ante [$200]
+markdani95 posts ante [$200]
+marathana posts ante [$200]
+__BMW__ posts ante [$200]
+gurujosh37 posts ante [$200]
+casdrelll posts small blind [$1,000]
+__BMW__ posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 2d ]
+PapaShango19 folds
+markdani95 folds
+marathana calls [$2,000]
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles raises [$8,100]
+paddy55555 folds
+casdrelll folds
+__BMW__ folds
+marathana calls [$6,100]
+** Dealing flop ** [ 3c, Ah, 5c ]
+marathana bets [$1,980]
+MaggySmiles calls [$1,980]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 3s ]
+** Summary **
+MaggySmiles shows [ Ac, 8h ]
+marathana shows [ Ks, Qh ]
+MaggySmiles collected [ $24,960 ]
+
+
+
+#Game No : 642280091
+***** 888poker Hand History for Game 642280091 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 21 11 2014 01:25:50
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $48,605 )
+Seat 2: gurujosh37 ( $56,131 )
+Seat 3: MaggySmiles ( $54,610 )
+Seat 4: paddy55555 ( $12,730 )
+Seat 5: casdrelll ( $19,510 )
+Seat 6: __BMW__ ( $10,500 )
+Seat 7: PapaShango19 ( $15,515 )
+Seat 9: markdani95 ( $14,280 )
+Cobblerboy posts ante [$250]
+paddy55555 posts ante [$250]
+MaggySmiles posts ante [$250]
+casdrelll posts ante [$250]
+PapaShango19 posts ante [$250]
+markdani95 posts ante [$250]
+__BMW__ posts ante [$250]
+gurujosh37 posts ante [$250]
+__BMW__ posts small blind [$1,250]
+PapaShango19 posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3h ]
+markdani95 folds
+Cobblerboy raises [$10,750]
+gurujosh37 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+__BMW__ folds
+PapaShango19 folds
+** Summary **
+Cobblerboy collected [ $8,250 ]
+
+
+
+#Game No : 642280274
+***** 888poker Hand History for Game 642280274 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 21 11 2014 01:26:29
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $54,105 )
+Seat 2: gurujosh37 ( $55,881 )
+Seat 3: MaggySmiles ( $54,360 )
+Seat 4: paddy55555 ( $12,480 )
+Seat 5: casdrelll ( $19,260 )
+Seat 6: __BMW__ ( $9,000 )
+Seat 7: PapaShango19 ( $12,765 )
+Seat 9: markdani95 ( $14,030 )
+Seat 10: alecs_p06 ( $13,484 )
+Cobblerboy posts ante [$250]
+paddy55555 posts ante [$250]
+MaggySmiles posts ante [$250]
+casdrelll posts ante [$250]
+PapaShango19 posts ante [$250]
+markdani95 posts ante [$250]
+__BMW__ posts ante [$250]
+gurujosh37 posts ante [$250]
+alecs_p06 posts ante [$250]
+PapaShango19 posts small blind [$1,250]
+markdani95 posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ks ]
+alecs_p06 folds
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles folds
+paddy55555 folds
+casdrelll folds
+__BMW__ raises [$7,500]
+PapaShango19 folds
+markdani95 raises [$11,280]
+__BMW__ calls [$1,250]
+** Dealing flop ** [ 4d, 8s, 6h ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ Jh ]
+** Summary **
+__BMW__ shows [ Ac, 5h ]
+markdani95 shows [ Kh, Js ]
+markdani95 collected [ $21,000 ]
+
+
+
+#Game No : 642280519
+***** 888poker Hand History for Game 642280519 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 21 11 2014 01:27:17
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $53,855 )
+Seat 2: gurujosh37 ( $55,631 )
+Seat 3: MaggySmiles ( $54,110 )
+Seat 4: paddy55555 ( $12,230 )
+Seat 5: casdrelll ( $19,010 )
+Seat 7: PapaShango19 ( $11,265 )
+Seat 9: markdani95 ( $26,030 )
+Seat 10: alecs_p06 ( $13,234 )
+Cobblerboy posts ante [$250]
+paddy55555 posts ante [$250]
+MaggySmiles posts ante [$250]
+casdrelll posts ante [$250]
+PapaShango19 posts ante [$250]
+markdani95 posts ante [$250]
+gurujosh37 posts ante [$250]
+alecs_p06 posts ante [$250]
+markdani95 posts small blind [$1,250]
+alecs_p06 posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 3c ]
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles folds
+paddy55555 raises [$11,980]
+casdrelll folds
+PapaShango19 folds
+markdani95 calls [$10,730]
+alecs_p06 raises [$10,484]
+markdani95 calls [$1,004]
+** Dealing flop ** [ 7s, 6c, 4c ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ Jh ]
+** Summary **
+paddy55555 shows [ 9s, 9c ]
+markdani95 shows [ 5d, 5s ]
+alecs_p06 shows [ Ts, Tc ]
+alecs_p06 collected [ $37,940 ]
+alecs_p06 collected [ $2,008 ]
+
+
+
+#Game No : 642280706
+***** 888poker Hand History for Game 642280706 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 21 11 2014 01:27:53
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $53,605 )
+Seat 2: gurujosh37 ( $55,381 )
+Seat 3: MaggySmiles ( $53,860 )
+Seat 4: Zac.18.3.10 ( $11,250 )
+Seat 5: casdrelll ( $18,760 )
+Seat 7: PapaShango19 ( $11,015 )
+Seat 9: markdani95 ( $12,796 )
+Seat 10: alecs_p06 ( $39,948 )
+Cobblerboy posts ante [$250]
+MaggySmiles posts ante [$250]
+casdrelll posts ante [$250]
+PapaShango19 posts ante [$250]
+markdani95 posts ante [$250]
+gurujosh37 posts ante [$250]
+alecs_p06 posts ante [$250]
+Zac.18.3.10 posts ante [$250]
+alecs_p06 posts small blind [$1,250]
+Cobblerboy posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Tc ]
+gurujosh37 folds
+MaggySmiles folds
+Zac.18.3.10 folds
+casdrelll folds
+PapaShango19 folds
+markdani95 folds
+alecs_p06 folds
+** Summary **
+Cobblerboy collected [ $5,750 ]
+
+
+
+#Game No : 642280819
+***** 888poker Hand History for Game 642280819 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 21 11 2014 01:28:11
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $56,605 )
+Seat 2: gurujosh37 ( $55,131 )
+Seat 3: MaggySmiles ( $53,610 )
+Seat 4: Zac.18.3.10 ( $11,000 )
+Seat 5: casdrelll ( $18,510 )
+Seat 6: Pooky4444 ( $16,900 )
+Seat 7: PapaShango19 ( $10,765 )
+Seat 9: markdani95 ( $12,546 )
+Seat 10: alecs_p06 ( $38,448 )
+Cobblerboy posts ante [$250]
+MaggySmiles posts ante [$250]
+casdrelll posts ante [$250]
+PapaShango19 posts ante [$250]
+markdani95 posts ante [$250]
+gurujosh37 posts ante [$250]
+alecs_p06 posts ante [$250]
+Zac.18.3.10 posts ante [$250]
+Pooky4444 posts ante [$250]
+Cobblerboy posts small blind [$1,250]
+gurujosh37 posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 7d ]
+MaggySmiles folds
+Zac.18.3.10 folds
+casdrelll raises [$18,260]
+Pooky4444 folds
+PapaShango19 folds
+markdani95 folds
+alecs_p06 folds
+Cobblerboy calls [$17,010]
+gurujosh37 folds
+** Dealing flop ** [ 4c, Jh, 9h ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 7h ]
+** Summary **
+Cobblerboy shows [ Ah, 3d ]
+casdrelll shows [ Ac, 6s ]
+Cobblerboy collected [ $41,270 ]
+
+
+
+#Game No : 642281053
+***** 888poker Hand History for Game 642281053 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 21 11 2014 01:28:56
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $79,365 )
+Seat 2: gurujosh37 ( $52,381 )
+Seat 3: MaggySmiles ( $53,360 )
+Seat 4: Zac.18.3.10 ( $10,750 )
+Seat 6: Pooky4444 ( $16,650 )
+Seat 7: PapaShango19 ( $10,515 )
+Seat 9: markdani95 ( $12,296 )
+Seat 10: alecs_p06 ( $38,198 )
+Cobblerboy posts ante [$300]
+MaggySmiles posts ante [$300]
+PapaShango19 posts ante [$300]
+markdani95 posts ante [$300]
+gurujosh37 posts ante [$300]
+alecs_p06 posts ante [$300]
+Zac.18.3.10 posts ante [$300]
+Pooky4444 posts ante [$300]
+gurujosh37 posts small blind [$1,500]
+MaggySmiles posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 2s ]
+Zac.18.3.10 folds
+Pooky4444 folds
+PapaShango19 folds
+markdani95 raises [$11,996]
+alecs_p06 folds
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles calls [$8,996]
+** Dealing flop ** [ 7d, 5c, Qh ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 3h ]
+** Summary **
+MaggySmiles shows [ Ad, 9d ]
+markdani95 shows [ Ah, 3c ]
+markdani95 collected [ $27,892 ]
+
+
+
+#Game No : 642281282
+***** 888poker Hand History for Game 642281282 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 21 11 2014 01:29:38
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $79,065 )
+Seat 2: gurujosh37 ( $50,581 )
+Seat 3: MaggySmiles ( $41,064 )
+Seat 4: Zac.18.3.10 ( $10,450 )
+Seat 5: Billykid15 ( $3,460 )
+Seat 6: Pooky4444 ( $16,350 )
+Seat 7: PapaShango19 ( $10,215 )
+Seat 9: markdani95 ( $27,892 )
+Seat 10: alecs_p06 ( $37,898 )
+Cobblerboy posts ante [$300]
+MaggySmiles posts ante [$300]
+PapaShango19 posts ante [$300]
+markdani95 posts ante [$300]
+gurujosh37 posts ante [$300]
+alecs_p06 posts ante [$300]
+Zac.18.3.10 posts ante [$300]
+Pooky4444 posts ante [$300]
+Billykid15 posts ante [$300]
+MaggySmiles posts small blind [$1,500]
+Zac.18.3.10 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 8c ]
+Billykid15 folds
+Pooky4444 folds
+PapaShango19 folds
+markdani95 folds
+alecs_p06 raises [$6,000]
+Cobblerboy calls [$6,000]
+gurujosh37 folds
+MaggySmiles folds
+Zac.18.3.10 calls [$3,000]
+** Dealing flop ** [ 6c, 4d, Ah ]
+Zac.18.3.10 checks
+alecs_p06 checks
+Cobblerboy bets [$16,650]
+Zac.18.3.10 folds
+alecs_p06 folds
+** Summary **
+Cobblerboy did not show his hand
+Cobblerboy collected [ $22,200 ]
+
+
+
+#Game No : 642281539
+***** 888poker Hand History for Game 642281539 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 21 11 2014 01:30:24
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Cobblerboy ( $94,965 )
+Seat 2: gurujosh37 ( $50,281 )
+Seat 3: MaggySmiles ( $39,264 )
+Seat 4: Zac.18.3.10 ( $4,150 )
+Seat 5: Billykid15 ( $3,160 )
+Seat 6: Pooky4444 ( $16,050 )
+Seat 7: PapaShango19 ( $9,915 )
+Seat 9: markdani95 ( $27,592 )
+Seat 10: alecs_p06 ( $31,598 )
+Cobblerboy posts ante [$300]
+MaggySmiles posts ante [$300]
+PapaShango19 posts ante [$300]
+markdani95 posts ante [$300]
+gurujosh37 posts ante [$300]
+alecs_p06 posts ante [$300]
+Zac.18.3.10 posts ante [$300]
+Pooky4444 posts ante [$300]
+Billykid15 posts ante [$300]
+Zac.18.3.10 posts small blind [$1,500]
+Billykid15 posts big blind [$2,860]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2d ]
+Pooky4444 calls [$3,000]
+PapaShango19 folds
+markdani95 folds
+alecs_p06 raises [$31,298]
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles folds
+Zac.18.3.10 calls [$2,350]
+Pooky4444 folds
+** Dealing flop ** [ 8d, 8c, 7s ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 9d ]
+** Summary **
+Zac.18.3.10 shows [ 5d, 7h ]
+Billykid15 shows [ Ac, Qs ]
+alecs_p06 shows [ 5c, 5h ]
+Zac.18.3.10 collected [ $14,140 ]
+Zac.18.3.10 collected [ $2,120 ]
+alecs_p06 collected [ $27,448 ]
+
+
+
+#Game No : 642281922
+***** 888poker Hand History for Game 642281922 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 21 11 2014 01:31:41
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $94,665 )
+Seat 2: gurujosh37 ( $49,981 )
+Seat 3: MaggySmiles ( $38,964 )
+Seat 4: Zac.18.3.10 ( $16,260 )
+Seat 6: Pooky4444 ( $12,750 )
+Seat 7: PapaShango19 ( $9,615 )
+Seat 9: markdani95 ( $27,292 )
+Seat 10: alecs_p06 ( $27,448 )
+Cobblerboy posts ante [$400]
+MaggySmiles posts ante [$400]
+PapaShango19 posts ante [$400]
+markdani95 posts ante [$400]
+gurujosh37 posts ante [$400]
+alecs_p06 posts ante [$400]
+Zac.18.3.10 posts ante [$400]
+Pooky4444 posts ante [$400]
+Pooky4444 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 2c ]
+PapaShango19 folds
+markdani95 folds
+alecs_p06 folds
+Cobblerboy folds
+gurujosh37 raises [$15,200]
+MaggySmiles folds
+Zac.18.3.10 folds
+Pooky4444 calls [$8,350]
+** Dealing flop ** [ Ac, 7s, 5h ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ Th ]
+** Summary **
+gurujosh37 shows [ Td, Ad ]
+Pooky4444 shows [ 4d, 4h ]
+gurujosh37 collected [ $27,900 ]
+
+
+
+#Game No : 642282142
+***** 888poker Hand History for Game 642282142 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 21 11 2014 01:32:21
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Cobblerboy ( $94,265 )
+Seat 2: gurujosh37 ( $65,131 )
+Seat 3: MaggySmiles ( $38,564 )
+Seat 4: Zac.18.3.10 ( $15,860 )
+Seat 7: PapaShango19 ( $9,215 )
+Seat 9: markdani95 ( $26,892 )
+Seat 10: alecs_p06 ( $27,048 )
+Cobblerboy posts ante [$400]
+MaggySmiles posts ante [$400]
+PapaShango19 posts ante [$400]
+markdani95 posts ante [$400]
+gurujosh37 posts ante [$400]
+alecs_p06 posts ante [$400]
+Zac.18.3.10 posts ante [$400]
+PapaShango19 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5c ]
+markdani95 raises [$26,492]
+alecs_p06 folds
+Cobblerboy folds
+gurujosh37 folds
+MaggySmiles folds
+Zac.18.3.10 folds
+PapaShango19 folds
+** Summary **
+markdani95 collected [ $33,292 ]
+
+
+
+#Game No : 642282242
+***** 888poker Hand History for Game 642282242 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 21 11 2014 01:32:40
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $93,865 )
+Seat 2: gurujosh37 ( $64,731 )
+Seat 3: MaggySmiles ( $38,164 )
+Seat 4: Zac.18.3.10 ( $15,460 )
+Seat 5: busterbubble ( $8,026 )
+Seat 7: PapaShango19 ( $4,815 )
+Seat 9: markdani95 ( $33,292 )
+Seat 10: alecs_p06 ( $26,648 )
+Cobblerboy posts ante [$400]
+MaggySmiles posts ante [$400]
+PapaShango19 posts ante [$400]
+markdani95 posts ante [$400]
+gurujosh37 posts ante [$400]
+alecs_p06 posts ante [$400]
+Zac.18.3.10 posts ante [$400]
+busterbubble posts ante [$400]
+PapaShango19 posts small blind [$2,000]
+markdani95 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 3d ]
+alecs_p06 folds
+Cobblerboy folds
+gurujosh37 raises [$17,200]
+MaggySmiles raises [$37,764]
+Zac.18.3.10 folds
+busterbubble folds
+PapaShango19 folds
+markdani95 folds
+gurujosh37 calls [$20,564]
+** Dealing flop ** [ Ks, 4c, 9d ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 4h ]
+** Summary **
+gurujosh37 shows [ 9h, 9c ]
+MaggySmiles shows [ 6c, 6h ]
+gurujosh37 collected [ $84,728 ]
+
+
+
+#Game No : 642282570
+***** 888poker Hand History for Game 642282570 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 21 11 2014 01:33:38
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $93,465 )
+Seat 2: gurujosh37 ( $111,295 )
+Seat 4: Zac.18.3.10 ( $15,060 )
+Seat 5: busterbubble ( $7,626 )
+Seat 6: dwaynewade09 ( $46,955 )
+Seat 7: PapaShango19 ( $2,415 )
+Seat 9: markdani95 ( $28,892 )
+Seat 10: alecs_p06 ( $26,248 )
+Cobblerboy posts ante [$400]
+PapaShango19 posts ante [$400]
+markdani95 posts ante [$400]
+gurujosh37 posts ante [$400]
+alecs_p06 posts ante [$400]
+Zac.18.3.10 posts ante [$400]
+busterbubble posts ante [$400]
+dwaynewade09 posts ante [$400]
+markdani95 posts small blind [$2,000]
+alecs_p06 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qc ]
+Cobblerboy raises [$8,600]
+gurujosh37 folds
+Zac.18.3.10 folds
+busterbubble folds
+dwaynewade09 calls [$8,600]
+PapaShango19 folds
+markdani95 folds
+alecs_p06 folds
+** Dealing flop ** [ 6c, Kh, 2d ]
+Cobblerboy bets [$4,000]
+dwaynewade09 raises [$37,955]
+Cobblerboy calls [$33,955]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 9d ]
+** Summary **
+Cobblerboy shows [ 7d, 7h ]
+dwaynewade09 shows [ 4h, 4d ]
+Cobblerboy collected [ $102,310 ]
+
+
+
+#Game No : 642282843
+***** 888poker Hand History for Game 642282843 *****
+$2,500/$5,000 Blinds No Limit Holdem - *** 21 11 2014 01:34:25
+Tournament #63662684 $2.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Cobblerboy ( $148,820 )
+Seat 2: gurujosh37 ( $110,895 )
+Seat 3: DedelPiment ( $63,109 )
+Seat 4: Zac.18.3.10 ( $14,660 )
+Seat 5: busterbubble ( $7,226 )
+Seat 7: PapaShango19 ( $2,015 )
+Seat 9: markdani95 ( $26,492 )
+Seat 10: alecs_p06 ( $21,848 )
+Cobblerboy posts ante [$500]
+PapaShango19 posts ante [$500]
+markdani95 posts ante [$500]
+gurujosh37 posts ante [$500]
+alecs_p06 posts ante [$500]
+Zac.18.3.10 posts ante [$500]
+busterbubble posts ante [$500]
+DedelPiment posts ante [$500]
+alecs_p06 posts small blind [$2,500]
+Cobblerboy posts big blind [$5,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4d ]
+gurujosh37 folds
+DedelPiment calls [$5,000]
+Zac.18.3.10 folds
+busterbubble folds
+PapaShango19 calls [$1,515]
+markdani95 folds
+alecs_p06 calls [$2,500]
+Cobblerboy checks
+** Dealing flop ** [ Ad, Kh, 9c ]
+alecs_p06 checks
+Cobblerboy checks
+DedelPiment checks
+** Dealing turn ** [ 2h ]
+alecs_p06 checks
+Cobblerboy checks
+DedelPiment checks
+** Dealing river ** [ 2c ]
+alecs_p06 checks
+Cobblerboy bets [$5,000]
+DedelPiment calls [$5,000]
+alecs_p06 folds
+** Summary **
+Cobblerboy shows [ Tc, 3c ]
+DedelPiment shows [ 7c, 7s ]
+PapaShango19 mucks [ Qd, 4d ]
+DedelPiment collected [ $10,060 ]
+DedelPiment collected [ $20,455 ]
+
+
+

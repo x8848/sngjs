@@ -1,0 +1,750 @@
+#Game No : 646136149
+***** 888poker Hand History for Game 646136149 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:08:10
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: 5kit3 ( $1,000 )
+Seat 2: fitney ( $1,000 )
+Seat 3: Espresso_ST ( $1,000 )
+Seat 5: PapaShango19 ( $1,000 )
+Seat 6: t4thumper ( $1,000 )
+Seat 7: graf71 ( $1,000 )
+Seat 8: beadler ( $1,000 )
+Seat 10: luckyyf1sh ( $1,000 )
+graf71 posts small blind [$10]
+beadler posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Qs ]
+luckyyf1sh folds
+5kit3 folds
+fitney calls [$20]
+Espresso_ST folds
+PapaShango19 raises [$1,000]
+t4thumper folds
+graf71 folds
+beadler calls [$980]
+fitney folds
+** Dealing flop ** [ 8s, 6d, 4c ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 7c ]
+** Summary **
+PapaShango19 shows [ Qc, Qs ]
+beadler shows [ Jc, Qd ]
+PapaShango19 collected [ $2,030 ]
+
+
+
+#Game No : 646136275
+***** 888poker Hand History for Game 646136275 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:09:14
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,000 )
+Seat 2: fitney ( $980 )
+Seat 3: Espresso_ST ( $1,000 )
+Seat 5: PapaShango19 ( $2,030 )
+Seat 6: t4thumper ( $1,000 )
+Seat 7: graf71 ( $990 )
+Seat 10: luckyyf1sh ( $1,000 )
+luckyyf1sh posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 7h ]
+5kit3 folds
+fitney folds
+Espresso_ST raises [$40]
+PapaShango19 folds
+t4thumper folds
+graf71 calls [$40]
+luckyyf1sh folds
+** Dealing flop ** [ 4s, Jc, 3h ]
+Espresso_ST bets [$20]
+graf71 folds
+** Summary **
+Espresso_ST did not show his hand
+Espresso_ST collected [ $100 ]
+
+
+
+#Game No : 646136346
+***** 888poker Hand History for Game 646136346 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:09:49
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,000 )
+Seat 2: fitney ( $980 )
+Seat 3: Espresso_ST ( $1,060 )
+Seat 5: PapaShango19 ( $2,030 )
+Seat 6: t4thumper ( $1,000 )
+Seat 7: graf71 ( $950 )
+Seat 10: luckyyf1sh ( $980 )
+luckyyf1sh posts small blind [$10]
+5kit3 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 4c ]
+fitney folds
+Espresso_ST calls [$20]
+PapaShango19 folds
+t4thumper folds
+graf71 calls [$20]
+luckyyf1sh calls [$10]
+5kit3 checks
+** Dealing flop ** [ Jd, 9d, Th ]
+luckyyf1sh checks
+5kit3 checks
+Espresso_ST bets [$20]
+graf71 calls [$20]
+luckyyf1sh folds
+5kit3 folds
+** Dealing turn ** [ 3s ]
+Espresso_ST bets [$20]
+graf71 calls [$20]
+** Dealing river ** [ 2s ]
+Espresso_ST checks
+graf71 checks
+** Summary **
+Espresso_ST shows [ 4d, 6d ]
+graf71 shows [ Jc, 8s ]
+graf71 collected [ $160 ]
+
+
+
+#Game No : 646136493
+***** 888poker Hand History for Game 646136493 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:10:56
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $980 )
+Seat 2: fitney ( $980 )
+Seat 3: Espresso_ST ( $1,000 )
+Seat 5: PapaShango19 ( $2,030 )
+Seat 6: t4thumper ( $1,000 )
+Seat 7: graf71 ( $1,050 )
+Seat 10: luckyyf1sh ( $960 )
+5kit3 posts small blind [$10]
+fitney posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Qs ]
+Espresso_ST folds
+PapaShango19 raises [$60]
+t4thumper folds
+graf71 folds
+luckyyf1sh folds
+5kit3 folds
+fitney folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $50 ]
+
+
+
+#Game No : 646136555
+***** 888poker Hand History for Game 646136555 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:11:21
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $970 )
+Seat 2: fitney ( $960 )
+Seat 3: Espresso_ST ( $1,000 )
+Seat 5: PapaShango19 ( $2,060 )
+Seat 6: t4thumper ( $1,000 )
+Seat 7: graf71 ( $1,050 )
+Seat 10: luckyyf1sh ( $960 )
+fitney posts small blind [$10]
+Espresso_ST posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 6s ]
+PapaShango19 raises [$60]
+t4thumper folds
+graf71 folds
+luckyyf1sh folds
+5kit3 calls [$60]
+fitney folds
+Espresso_ST calls [$40]
+** Dealing flop ** [ 2c, 4s, Th ]
+Espresso_ST checks
+PapaShango19 bets [$95]
+5kit3 calls [$95]
+Espresso_ST folds
+** Dealing turn ** [ 9d ]
+PapaShango19 checks
+5kit3 bets [$190]
+PapaShango19 folds
+** Summary **
+5kit3 did not show his hand
+5kit3 collected [ $380 ]
+
+
+
+#Game No : 646136710
+***** 888poker Hand History for Game 646136710 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:12:23
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,195 )
+Seat 2: fitney ( $950 )
+Seat 3: Espresso_ST ( $940 )
+Seat 5: PapaShango19 ( $1,905 )
+Seat 6: t4thumper ( $1,000 )
+Seat 7: graf71 ( $1,050 )
+Seat 10: luckyyf1sh ( $960 )
+Espresso_ST posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Kd ]
+t4thumper folds
+graf71 calls [$20]
+luckyyf1sh folds
+5kit3 folds
+fitney folds
+Espresso_ST calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ 5d, 5c, 2c ]
+Espresso_ST checks
+PapaShango19 checks
+graf71 checks
+** Dealing turn ** [ 5s ]
+Espresso_ST checks
+PapaShango19 checks
+graf71 bets [$60]
+Espresso_ST folds
+PapaShango19 folds
+** Summary **
+graf71 did not show his hand
+graf71 collected [ $60 ]
+
+
+
+#Game No : 646136879
+***** 888poker Hand History for Game 646136879 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:13:31
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,195 )
+Seat 2: fitney ( $950 )
+Seat 3: Espresso_ST ( $920 )
+Seat 5: PapaShango19 ( $1,885 )
+Seat 6: t4thumper ( $1,000 )
+Seat 7: graf71 ( $1,090 )
+Seat 10: luckyyf1sh ( $960 )
+PapaShango19 posts small blind [$10]
+t4thumper posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Td ]
+graf71 calls [$20]
+luckyyf1sh folds
+5kit3 folds
+fitney raises [$67]
+Espresso_ST folds
+PapaShango19 calls [$57]
+t4thumper folds
+graf71 folds
+** Dealing flop ** [ Qs, Qc, Ad ]
+PapaShango19 checks
+fitney checks
+** Dealing turn ** [ 8h ]
+PapaShango19 bets [$60]
+fitney calls [$60]
+** Dealing river ** [ 9s ]
+PapaShango19 checks
+fitney bets [$220]
+PapaShango19 folds
+** Summary **
+fitney did not show his hand
+fitney collected [ $294 ]
+
+
+
+#Game No : 646137079
+***** 888poker Hand History for Game 646137079 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:14:44
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,195 )
+Seat 2: fitney ( $1,117 )
+Seat 3: Espresso_ST ( $920 )
+Seat 5: PapaShango19 ( $1,758 )
+Seat 6: t4thumper ( $980 )
+Seat 7: graf71 ( $1,070 )
+Seat 10: luckyyf1sh ( $960 )
+t4thumper posts small blind [$10]
+graf71 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 3d ]
+luckyyf1sh raises [$60]
+5kit3 folds
+fitney folds
+Espresso_ST folds
+PapaShango19 folds
+t4thumper calls [$50]
+graf71 folds
+** Dealing flop ** [ 2s, 5s, Jc ]
+t4thumper checks
+luckyyf1sh bets [$80]
+t4thumper calls [$80]
+** Dealing turn ** [ Jd ]
+t4thumper checks
+luckyyf1sh bets [$175]
+t4thumper calls [$175]
+** Dealing river ** [ 7h ]
+t4thumper checks
+luckyyf1sh bets [$95]
+t4thumper folds
+** Summary **
+luckyyf1sh did not show his hand
+luckyyf1sh collected [ $650 ]
+
+
+
+#Game No : 646137197
+***** 888poker Hand History for Game 646137197 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:15:30
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,195 )
+Seat 2: fitney ( $1,117 )
+Seat 3: Espresso_ST ( $920 )
+Seat 5: PapaShango19 ( $1,758 )
+Seat 6: t4thumper ( $665 )
+Seat 7: graf71 ( $1,050 )
+Seat 10: luckyyf1sh ( $1,295 )
+graf71 posts small blind [$15]
+luckyyf1sh posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 4h ]
+5kit3 folds
+fitney folds
+Espresso_ST folds
+PapaShango19 folds
+t4thumper folds
+graf71 calls [$15]
+luckyyf1sh checks
+** Dealing flop ** [ 9c, 5h, Jc ]
+graf71 checks
+luckyyf1sh checks
+** Dealing turn ** [ 7c ]
+graf71 bets [$30]
+luckyyf1sh folds
+** Summary **
+graf71 did not show his hand
+graf71 collected [ $60 ]
+
+
+
+#Game No : 646137329
+***** 888poker Hand History for Game 646137329 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:16:15
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,195 )
+Seat 2: fitney ( $1,117 )
+Seat 3: Espresso_ST ( $920 )
+Seat 5: PapaShango19 ( $1,758 )
+Seat 6: t4thumper ( $665 )
+Seat 7: graf71 ( $1,080 )
+Seat 10: luckyyf1sh ( $1,265 )
+luckyyf1sh posts small blind [$15]
+5kit3 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 9h ]
+fitney folds
+Espresso_ST calls [$30]
+PapaShango19 raises [$120]
+t4thumper folds
+graf71 calls [$120]
+luckyyf1sh folds
+5kit3 folds
+Espresso_ST calls [$90]
+** Dealing flop ** [ 7c, 7h, 2h ]
+Espresso_ST bets [$30]
+PapaShango19 raises [$371]
+graf71 raises [$960]
+Espresso_ST folds
+PapaShango19 calls [$589]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 4s ]
+** Summary **
+PapaShango19 shows [ 9s, 9h ]
+graf71 shows [ 2c, 2s ]
+graf71 collected [ $2,355 ]
+
+
+
+#Game No : 646137528
+***** 888poker Hand History for Game 646137528 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:17:23
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $1,165 )
+Seat 2: fitney ( $1,117 )
+Seat 3: Espresso_ST ( $770 )
+Seat 5: PapaShango19 ( $678 )
+Seat 6: t4thumper ( $665 )
+Seat 7: graf71 ( $2,355 )
+Seat 10: luckyyf1sh ( $1,250 )
+5kit3 posts small blind [$15]
+fitney posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 4d ]
+Espresso_ST calls [$30]
+PapaShango19 calls [$30]
+t4thumper folds
+graf71 folds
+luckyyf1sh folds
+5kit3 calls [$15]
+fitney checks
+** Dealing flop ** [ 4s, Qh, Ks ]
+5kit3 checks
+fitney bets [$90]
+Espresso_ST folds
+PapaShango19 folds
+5kit3 calls [$90]
+** Dealing turn ** [ Js ]
+5kit3 bets [$150]
+fitney calls [$150]
+** Dealing river ** [ Jh ]
+5kit3 bets [$895]
+fitney calls [$847]
+** Summary **
+5kit3 shows [ Kc, Ts ]
+fitney shows [ Qc, Jd ]
+fitney collected [ $2,294 ]
+
+
+
+#Game No : 646137764
+***** 888poker Hand History for Game 646137764 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:18:35
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: 5kit3 ( $48 )
+Seat 2: fitney ( $2,294 )
+Seat 3: Espresso_ST ( $740 )
+Seat 5: PapaShango19 ( $648 )
+Seat 6: t4thumper ( $665 )
+Seat 7: graf71 ( $2,355 )
+Seat 10: luckyyf1sh ( $1,250 )
+fitney posts small blind [$15]
+Espresso_ST posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Td ]
+PapaShango19 folds
+t4thumper folds
+graf71 calls [$30]
+luckyyf1sh folds
+5kit3 raises [$48]
+fitney calls [$33]
+Espresso_ST folds
+graf71 calls [$18]
+** Dealing flop ** [ 9h, As, Jd ]
+fitney checks
+graf71 checks
+** Dealing turn ** [ 7d ]
+fitney checks
+graf71 bets [$30]
+fitney calls [$30]
+** Dealing river ** [ 8d ]
+fitney bets [$2,216]
+graf71 folds
+** Summary **
+5kit3 shows [ 8h, Kc ]
+fitney shows [ Kd, 5d ]
+fitney collected [ $174 ]
+fitney collected [ $60 ]
+
+
+
+#Game No : 646137993
+***** 888poker Hand History for Game 646137993 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:19:44
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: fitney ( $2,450 )
+Seat 3: Espresso_ST ( $710 )
+Seat 5: PapaShango19 ( $648 )
+Seat 6: t4thumper ( $665 )
+Seat 7: graf71 ( $2,277 )
+Seat 8: lathac ( $1,815 )
+Seat 10: luckyyf1sh ( $1,250 )
+Espresso_ST posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8h ]
+t4thumper folds
+graf71 calls [$30]
+lathac folds
+luckyyf1sh folds
+fitney calls [$30]
+Espresso_ST calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 6d, Qc, 7h ]
+Espresso_ST bets [$30]
+PapaShango19 folds
+graf71 raises [$210]
+fitney folds
+Espresso_ST folds
+** Summary **
+graf71 did not show his hand
+graf71 collected [ $180 ]
+
+
+
+#Game No : 646138201
+***** 888poker Hand History for Game 646138201 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:20:49
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: fitney ( $2,420 )
+Seat 3: Espresso_ST ( $650 )
+Seat 5: PapaShango19 ( $618 )
+Seat 6: t4thumper ( $665 )
+Seat 7: graf71 ( $2,397 )
+Seat 8: lathac ( $1,815 )
+Seat 10: luckyyf1sh ( $1,250 )
+PapaShango19 posts small blind [$15]
+t4thumper posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2c ]
+graf71 calls [$30]
+lathac calls [$30]
+luckyyf1sh folds
+fitney folds
+Espresso_ST folds
+PapaShango19 folds
+t4thumper checks
+** Dealing flop ** [ 2h, Ts, Ad ]
+t4thumper bets [$52]
+graf71 calls [$52]
+lathac folds
+** Dealing turn ** [ 9d ]
+t4thumper bets [$209]
+graf71 folds
+** Summary **
+t4thumper did not show his hand
+t4thumper collected [ $209 ]
+
+
+
+#Game No : 646138344
+***** 888poker Hand History for Game 646138344 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:21:33
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: fitney ( $2,420 )
+Seat 3: Espresso_ST ( $650 )
+Seat 5: PapaShango19 ( $603 )
+Seat 6: t4thumper ( $792 )
+Seat 7: graf71 ( $2,315 )
+Seat 8: lathac ( $1,785 )
+Seat 10: luckyyf1sh ( $1,250 )
+t4thumper posts small blind [$15]
+graf71 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5h ]
+lathac calls [$30]
+luckyyf1sh folds
+fitney calls [$30]
+Espresso_ST folds
+PapaShango19 calls [$30]
+t4thumper calls [$15]
+graf71 checks
+** Dealing flop ** [ 5d, 4s, Jc ]
+t4thumper checks
+graf71 checks
+lathac bets [$60]
+fitney calls [$60]
+PapaShango19 folds
+t4thumper folds
+graf71 calls [$60]
+** Dealing turn ** [ Ac ]
+graf71 checks
+lathac checks
+fitney bets [$330]
+graf71 calls [$330]
+lathac folds
+** Dealing river ** [ 3c ]
+graf71 bets [$495]
+fitney calls [$495]
+** Summary **
+graf71 shows [ 3h, As ]
+fitney mucks [ Ah, 7c ]
+graf71 collected [ $1,980 ]
+
+
+
+#Game No : 646138683
+***** 888poker Hand History for Game 646138683 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:23:24
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: fitney ( $1,505 )
+Seat 3: Espresso_ST ( $650 )
+Seat 5: PapaShango19 ( $573 )
+Seat 6: t4thumper ( $762 )
+Seat 7: graf71 ( $3,380 )
+Seat 8: lathac ( $1,695 )
+Seat 10: luckyyf1sh ( $1,250 )
+graf71 posts small blind [$25]
+lathac posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Js ]
+luckyyf1sh folds
+fitney raises [$131]
+Espresso_ST folds
+PapaShango19 folds
+t4thumper folds
+graf71 calls [$106]
+lathac calls [$81]
+** Dealing flop ** [ 8c, Ad, 7c ]
+graf71 checks
+lathac bets [$50]
+fitney raises [$543]
+graf71 folds
+lathac calls [$493]
+** Dealing turn ** [ Th ]
+lathac checks
+fitney checks
+** Dealing river ** [ Kh ]
+lathac checks
+fitney bets [$739]
+lathac folds
+** Summary **
+fitney did not show his hand
+fitney collected [ $1,479 ]
+
+
+
+#Game No : 646138937
+***** 888poker Hand History for Game 646138937 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:24:55
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: fitney ( $2,310 )
+Seat 3: Espresso_ST ( $650 )
+Seat 5: PapaShango19 ( $573 )
+Seat 6: t4thumper ( $762 )
+Seat 7: graf71 ( $3,249 )
+Seat 8: lathac ( $1,021 )
+Seat 10: luckyyf1sh ( $1,250 )
+lathac posts small blind [$25]
+luckyyf1sh posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8h ]
+fitney calls [$50]
+Espresso_ST raises [$112]
+PapaShango19 folds
+t4thumper folds
+graf71 folds
+lathac folds
+luckyyf1sh folds
+fitney calls [$62]
+** Dealing flop ** [ Ad, 8d, 3c ]
+fitney checks
+Espresso_ST bets [$149]
+fitney calls [$149]
+** Dealing turn ** [ Td ]
+fitney checks
+Espresso_ST bets [$389]
+fitney calls [$389]
+** Dealing river ** [ Ks ]
+** Summary **
+fitney shows [ 7d, Jd ]
+Espresso_ST shows [ Qd, Kh ]
+fitney collected [ $1,375 ]
+
+
+
+#Game No : 646139111
+***** 888poker Hand History for Game 646139111 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:26:00
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 2: fitney ( $3,035 )
+Seat 5: PapaShango19 ( $573 )
+Seat 6: t4thumper ( $762 )
+Seat 7: graf71 ( $3,249 )
+Seat 8: lathac ( $996 )
+Seat 10: luckyyf1sh ( $1,200 )
+luckyyf1sh posts small blind [$25]
+fitney posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Js ]
+PapaShango19 folds
+t4thumper folds
+graf71 calls [$50]
+lathac calls [$50]
+luckyyf1sh folds
+fitney checks
+** Dealing flop ** [ Ac, Ts, Th ]
+fitney checks
+graf71 bets [$50]
+lathac calls [$50]
+fitney folds
+** Dealing turn ** [ 5c ]
+graf71 bets [$50]
+lathac calls [$50]
+** Dealing river ** [ 8c ]
+graf71 bets [$50]
+lathac calls [$50]
+** Summary **
+graf71 shows [ 5s, Ad ]
+lathac mucks [ Jd, Qh ]
+graf71 collected [ $475 ]
+
+
+
+#Game No : 646139244
+***** 888poker Hand History for Game 646139244 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:26:50
+Tournament #63805442 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: fitney ( $2,985 )
+Seat 3: Irena03 ( $1,130 )
+Seat 5: PapaShango19 ( $573 )
+Seat 6: t4thumper ( $762 )
+Seat 7: graf71 ( $3,524 )
+Seat 8: lathac ( $796 )
+Seat 10: luckyyf1sh ( $1,175 )
+fitney posts small blind [$25]
+Irena03 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, As ]
+PapaShango19 raises [$573]
+t4thumper folds
+graf71 calls [$573]
+lathac calls [$573]
+luckyyf1sh folds
+fitney folds
+Irena03 folds
+** Dealing flop ** [ 6h, 4h, 5h ]
+graf71 bets [$2,951]
+lathac calls [$223]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ Kh ]
+** Summary **
+PapaShango19 shows [ Kc, As ]
+graf71 shows [ Ac, 5c ]
+lathac shows [ Ah, Tc ]
+lathac collected [ $1,794 ]
+lathac collected [ $446 ]
+
+
+

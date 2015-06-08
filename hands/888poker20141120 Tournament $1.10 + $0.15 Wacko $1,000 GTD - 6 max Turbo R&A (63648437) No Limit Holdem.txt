@@ -1,0 +1,1680 @@
+#Game No : 644605973
+***** 888poker Hand History for Game 644605973 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 10:45:17
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $2,000 )
+Seat 2: samandrews1 ( $2,000 )
+Seat 4: PapaShango19 ( $2,000 )
+Seat 6: Aaron_Frof ( $2,000 )
+Seat 7: igorbig ( $2,000 )
+Seat 9: sveta7xs ( $2,000 )
+PapaShango19 posts small blind [$10]
+Aaron_Frof posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 8h ]
+igorbig folds
+sveta7xs raises [$2,000]
+larfalot12w2 calls [$2,000]
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof folds
+** Dealing flop ** [ 2h, Jd, 9d ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 2d ]
+** Summary **
+larfalot12w2 shows [ 4d, 4c ]
+sveta7xs shows [ 7c, 7d ]
+sveta7xs collected [ $4,030 ]
+
+
+
+#Game No : 644606115
+***** 888poker Hand History for Game 644606115 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 10:46:22
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $4,000 )
+Seat 2: samandrews1 ( $2,000 )
+Seat 4: PapaShango19 ( $1,990 )
+Seat 6: Aaron_Frof ( $1,980 )
+Seat 7: igorbig ( $2,000 )
+Seat 9: sveta7xs ( $4,030 )
+Aaron_Frof posts small blind [$10]
+igorbig posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 3h ]
+sveta7xs folds
+larfalot12w2 calls [$20]
+samandrews1 folds
+PapaShango19 calls [$20]
+Aaron_Frof calls [$10]
+igorbig checks
+** Dealing flop ** [ 2d, Kd, 5d ]
+Aaron_Frof checks
+igorbig checks
+larfalot12w2 bets [$20]
+PapaShango19 folds
+Aaron_Frof calls [$20]
+igorbig folds
+** Dealing turn ** [ 7h ]
+Aaron_Frof checks
+larfalot12w2 bets [$120]
+Aaron_Frof calls [$120]
+** Dealing river ** [ 8d ]
+Aaron_Frof bets [$360]
+larfalot12w2 folds
+** Summary **
+Aaron_Frof did not show his hand
+Aaron_Frof collected [ $360 ]
+
+
+
+#Game No : 644606306
+***** 888poker Hand History for Game 644606306 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 10:48:10
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $3,840 )
+Seat 2: samandrews1 ( $4,000 )
+Seat 4: PapaShango19 ( $1,970 )
+Seat 6: Aaron_Frof ( $2,180 )
+Seat 7: igorbig ( $1,980 )
+Seat 9: sveta7xs ( $4,030 )
+igorbig posts small blind [$10]
+sveta7xs posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Kh ]
+larfalot12w2 folds
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof calls [$20]
+igorbig folds
+sveta7xs checks
+** Dealing flop ** [ 9d, Tc, 2h ]
+sveta7xs checks
+Aaron_Frof checks
+** Dealing turn ** [ Ah ]
+sveta7xs bets [$20]
+Aaron_Frof raises [$40]
+sveta7xs folds
+** Summary **
+Aaron_Frof did not show his hand
+Aaron_Frof collected [ $90 ]
+
+
+
+#Game No : 644606380
+***** 888poker Hand History for Game 644606380 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 10:48:55
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $3,840 )
+Seat 2: samandrews1 ( $4,000 )
+Seat 4: PapaShango19 ( $1,970 )
+Seat 6: Aaron_Frof ( $2,230 )
+Seat 7: igorbig ( $1,970 )
+Seat 9: sveta7xs ( $3,990 )
+sveta7xs posts small blind [$10]
+larfalot12w2 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 5h ]
+samandrews1 calls [$20]
+PapaShango19 calls [$20]
+Aaron_Frof calls [$20]
+igorbig folds
+sveta7xs calls [$10]
+larfalot12w2 raises [$100]
+samandrews1 calls [$100]
+PapaShango19 calls [$100]
+Aaron_Frof calls [$100]
+sveta7xs calls [$100]
+** Dealing flop ** [ 3s, 2c, Jd ]
+sveta7xs checks
+larfalot12w2 bets [$600]
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof folds
+sveta7xs folds
+** Summary **
+larfalot12w2 did not show his hand
+larfalot12w2 collected [ $600 ]
+
+
+
+#Game No : 644606481
+***** 888poker Hand History for Game 644606481 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 10:49:52
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $4,320 )
+Seat 2: samandrews1 ( $3,880 )
+Seat 4: PapaShango19 ( $1,850 )
+Seat 6: Aaron_Frof ( $2,110 )
+Seat 7: igorbig ( $1,970 )
+Seat 9: sveta7xs ( $3,870 )
+larfalot12w2 posts small blind [$15]
+samandrews1 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Kh ]
+PapaShango19 folds
+Aaron_Frof calls [$30]
+igorbig folds
+sveta7xs calls [$30]
+larfalot12w2 calls [$15]
+samandrews1 checks
+** Dealing flop ** [ 7h, Qh, 7s ]
+larfalot12w2 bets [$120]
+samandrews1 calls [$120]
+Aaron_Frof folds
+sveta7xs folds
+** Dealing turn ** [ Tc ]
+larfalot12w2 bets [$30]
+samandrews1 calls [$30]
+** Dealing river ** [ Ad ]
+larfalot12w2 bets [$30]
+samandrews1 raises [$510]
+larfalot12w2 calls [$480]
+** Summary **
+samandrews1 shows [ 7d, 6s ]
+larfalot12w2 mucks [ Qs, 9h ]
+samandrews1 collected [ $1,440 ]
+
+
+
+#Game No : 644606593
+***** 888poker Hand History for Game 644606593 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 10:50:56
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $3,630 )
+Seat 2: samandrews1 ( $4,630 )
+Seat 4: PapaShango19 ( $1,850 )
+Seat 6: Aaron_Frof ( $2,080 )
+Seat 7: igorbig ( $1,970 )
+Seat 9: sveta7xs ( $3,840 )
+samandrews1 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 5h ]
+Aaron_Frof raises [$60]
+igorbig folds
+sveta7xs calls [$60]
+larfalot12w2 calls [$60]
+samandrews1 calls [$45]
+PapaShango19 calls [$30]
+** Dealing flop ** [ 7h, 8s, Ts ]
+samandrews1 checks
+PapaShango19 checks
+Aaron_Frof bets [$100]
+sveta7xs calls [$100]
+larfalot12w2 calls [$100]
+samandrews1 calls [$100]
+PapaShango19 folds
+** Dealing turn ** [ 6c ]
+samandrews1 checks
+Aaron_Frof bets [$350]
+sveta7xs folds
+larfalot12w2 raises [$1,750]
+samandrews1 calls [$1,750]
+Aaron_Frof calls [$1,400]
+** Dealing river ** [ Ad ]
+samandrews1 checks
+Aaron_Frof bets [$170]
+larfalot12w2 raises [$540]
+samandrews1 folds
+** Summary **
+larfalot12w2 shows [ 9c, Kh ]
+Aaron_Frof shows [ Ah, 9h ]
+larfalot12w2 collected [ $3,145 ]
+Aaron_Frof collected [ $3,145 ]
+
+
+
+#Game No : 644606799
+***** 888poker Hand History for Game 644606799 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 10:52:54
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $4,695 )
+Seat 2: samandrews1 ( $2,720 )
+Seat 4: PapaShango19 ( $1,790 )
+Seat 6: Aaron_Frof ( $3,145 )
+Seat 7: igorbig ( $1,970 )
+Seat 9: sveta7xs ( $3,680 )
+PapaShango19 posts small blind [$15]
+Aaron_Frof posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Qd ]
+igorbig folds
+sveta7xs folds
+larfalot12w2 calls [$30]
+samandrews1 calls [$30]
+PapaShango19 folds
+Aaron_Frof checks
+** Dealing flop ** [ 9s, Kc, 6d ]
+Aaron_Frof checks
+larfalot12w2 bets [$105]
+samandrews1 folds
+Aaron_Frof calls [$105]
+** Dealing turn ** [ 8h ]
+Aaron_Frof checks
+larfalot12w2 bets [$315]
+Aaron_Frof folds
+** Summary **
+larfalot12w2 did not show his hand
+larfalot12w2 collected [ $315 ]
+
+
+
+#Game No : 644606892
+***** 888poker Hand History for Game 644606892 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 10:53:52
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $4,875 )
+Seat 2: samandrews1 ( $2,690 )
+Seat 4: PapaShango19 ( $1,775 )
+Seat 6: Aaron_Frof ( $3,010 )
+Seat 7: igorbig ( $1,970 )
+Seat 9: sveta7xs ( $3,680 )
+Aaron_Frof posts small blind [$25]
+igorbig posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Ad ]
+sveta7xs raises [$100]
+larfalot12w2 raises [$375]
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof calls [$350]
+igorbig folds
+sveta7xs calls [$275]
+** Dealing flop ** [ Qh, Qs, Jc ]
+Aaron_Frof checks
+sveta7xs bets [$100]
+larfalot12w2 calls [$100]
+Aaron_Frof calls [$100]
+** Dealing turn ** [ 9s ]
+Aaron_Frof checks
+sveta7xs checks
+larfalot12w2 checks
+** Dealing river ** [ Td ]
+Aaron_Frof bets [$200]
+sveta7xs folds
+larfalot12w2 folds
+** Summary **
+Aaron_Frof did not show his hand
+Aaron_Frof collected [ $1,475 ]
+
+
+
+#Game No : 644606963
+***** 888poker Hand History for Game 644606963 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 10:54:52
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $4,400 )
+Seat 2: samandrews1 ( $2,690 )
+Seat 4: PapaShango19 ( $1,775 )
+Seat 6: Aaron_Frof ( $4,010 )
+Seat 7: igorbig ( $1,920 )
+Seat 9: sveta7xs ( $3,205 )
+igorbig posts small blind [$25]
+sveta7xs posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7h ]
+larfalot12w2 folds
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof calls [$50]
+igorbig folds
+sveta7xs checks
+** Dealing flop ** [ Kh, As, 5s ]
+sveta7xs bets [$50]
+Aaron_Frof folds
+** Summary **
+sveta7xs did not show his hand
+sveta7xs collected [ $125 ]
+
+
+
+#Game No : 644607152
+***** 888poker Hand History for Game 644607152 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 10:59:59
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $4,400 )
+Seat 2: samandrews1 ( $2,690 )
+Seat 4: PapaShango19 ( $1,775 )
+Seat 6: Aaron_Frof ( $3,960 )
+Seat 7: igorbig ( $1,895 )
+Seat 9: sveta7xs ( $3,280 )
+sveta7xs posts small blind [$25]
+larfalot12w2 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Tc ]
+samandrews1 folds
+PapaShango19 calls [$50]
+Aaron_Frof calls [$50]
+igorbig folds
+sveta7xs calls [$25]
+larfalot12w2 raises [$200]
+PapaShango19 calls [$200]
+Aaron_Frof calls [$200]
+sveta7xs folds
+** Dealing flop ** [ 7d, Kd, 5s ]
+larfalot12w2 bets [$50]
+PapaShango19 folds
+Aaron_Frof calls [$50]
+** Dealing turn ** [ Ah ]
+larfalot12w2 bets [$50]
+Aaron_Frof calls [$50]
+** Dealing river ** [ 9d ]
+larfalot12w2 bets [$1,000]
+Aaron_Frof folds
+** Summary **
+larfalot12w2 did not show his hand
+larfalot12w2 collected [ $1,000 ]
+
+
+
+#Game No : 644607308
+***** 888poker Hand History for Game 644607308 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 11:02:08
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $5,050 )
+Seat 2: samandrews1 ( $4,690 )
+Seat 4: PapaShango19 ( $1,525 )
+Seat 6: Aaron_Frof ( $3,610 )
+Seat 7: igorbig ( $1,895 )
+Seat 9: sveta7xs ( $3,230 )
+larfalot12w2 posts small blind [$25]
+samandrews1 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 9s ]
+PapaShango19 folds
+Aaron_Frof folds
+igorbig folds
+sveta7xs folds
+larfalot12w2 folds
+** Summary **
+samandrews1 did not show his hand
+samandrews1 collected [ $75 ]
+
+
+
+#Game No : 644607325
+***** 888poker Hand History for Game 644607325 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 11:02:21
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $5,025 )
+Seat 2: samandrews1 ( $4,715 )
+Seat 4: PapaShango19 ( $1,525 )
+Seat 6: Aaron_Frof ( $3,610 )
+Seat 7: igorbig ( $1,895 )
+Seat 9: sveta7xs ( $3,230 )
+samandrews1 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 5c ]
+Aaron_Frof calls [$100]
+igorbig folds
+sveta7xs folds
+larfalot12w2 folds
+samandrews1 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ Tc, Kh, As ]
+samandrews1 checks
+PapaShango19 checks
+Aaron_Frof checks
+** Dealing turn ** [ Ac ]
+samandrews1 bets [$100]
+PapaShango19 folds
+Aaron_Frof calls [$100]
+** Dealing river ** [ 3h ]
+samandrews1 bets [$100]
+Aaron_Frof calls [$100]
+** Summary **
+samandrews1 shows [ 5h, 5d ]
+Aaron_Frof mucks [ 2s, Qh ]
+samandrews1 collected [ $700 ]
+
+
+
+#Game No : 644607368
+***** 888poker Hand History for Game 644607368 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 11:03:00
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $5,025 )
+Seat 2: samandrews1 ( $5,115 )
+Seat 4: PapaShango19 ( $1,425 )
+Seat 6: Aaron_Frof ( $3,310 )
+Seat 7: igorbig ( $1,895 )
+Seat 9: sveta7xs ( $3,230 )
+PapaShango19 posts small blind [$50]
+Aaron_Frof posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 5h ]
+igorbig folds
+sveta7xs calls [$100]
+larfalot12w2 raises [$450]
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof folds
+sveta7xs calls [$350]
+** Dealing flop ** [ Qd, Jd, Qc ]
+sveta7xs checks
+larfalot12w2 bets [$200]
+sveta7xs raises [$400]
+larfalot12w2 raises [$2,050]
+sveta7xs folds
+** Summary **
+larfalot12w2 did not show his hand
+larfalot12w2 collected [ $1,850 ]
+
+
+
+#Game No : 644607459
+***** 888poker Hand History for Game 644607459 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 11:04:06
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $6,025 )
+Seat 2: samandrews1 ( $5,115 )
+Seat 4: PapaShango19 ( $1,375 )
+Seat 6: Aaron_Frof ( $3,210 )
+Seat 7: igorbig ( $1,895 )
+Seat 9: sveta7xs ( $2,380 )
+Aaron_Frof posts small blind [$50]
+igorbig posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 2c ]
+sveta7xs folds
+larfalot12w2 folds
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof calls [$50]
+igorbig checks
+** Dealing flop ** [ Jd, 2s, 8d ]
+Aaron_Frof checks
+igorbig checks
+** Dealing turn ** [ 6c ]
+Aaron_Frof checks
+igorbig checks
+** Dealing river ** [ 9h ]
+Aaron_Frof bets [$200]
+igorbig folds
+** Summary **
+Aaron_Frof did not show his hand
+Aaron_Frof collected [ $200 ]
+
+
+
+#Game No : 644607488
+***** 888poker Hand History for Game 644607488 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 11:04:33
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $6,025 )
+Seat 2: samandrews1 ( $5,115 )
+Seat 4: PapaShango19 ( $1,375 )
+Seat 6: Aaron_Frof ( $3,310 )
+Seat 7: igorbig ( $1,795 )
+Seat 9: sveta7xs ( $2,380 )
+igorbig posts small blind [$50]
+sveta7xs posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 6d ]
+larfalot12w2 folds
+samandrews1 calls [$100]
+PapaShango19 folds
+Aaron_Frof calls [$100]
+igorbig folds
+sveta7xs checks
+** Dealing flop ** [ Kc, 3s, Ah ]
+sveta7xs checks
+samandrews1 checks
+Aaron_Frof checks
+** Dealing turn ** [ 6c ]
+sveta7xs checks
+samandrews1 bets [$100]
+Aaron_Frof calls [$100]
+sveta7xs folds
+** Dealing river ** [ 4s ]
+samandrews1 bets [$275]
+Aaron_Frof calls [$275]
+** Summary **
+samandrews1 shows [ Qc, Ac ]
+Aaron_Frof mucks [ 4h, Js ]
+samandrews1 collected [ $1,100 ]
+
+
+
+#Game No : 644607558
+***** 888poker Hand History for Game 644607558 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 11:05:20
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $6,025 )
+Seat 2: samandrews1 ( $5,740 )
+Seat 4: PapaShango19 ( $1,375 )
+Seat 6: Aaron_Frof ( $2,835 )
+Seat 7: igorbig ( $1,745 )
+Seat 9: sveta7xs ( $2,280 )
+sveta7xs posts small blind [$50]
+larfalot12w2 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Ad ]
+samandrews1 folds
+PapaShango19 raises [$300]
+Aaron_Frof calls [$300]
+igorbig folds
+sveta7xs folds
+larfalot12w2 calls [$200]
+** Dealing flop ** [ 4h, Jd, 9s ]
+larfalot12w2 checks
+PapaShango19 bets [$712]
+Aaron_Frof calls [$712]
+larfalot12w2 calls [$712]
+** Dealing turn ** [ 7h ]
+larfalot12w2 checks
+PapaShango19 bets [$363]
+Aaron_Frof calls [$363]
+larfalot12w2 raises [$726]
+Aaron_Frof calls [$363]
+** Dealing river ** [ 4s ]
+larfalot12w2 bets [$2,450]
+Aaron_Frof folds
+** Summary **
+larfalot12w2 shows [ Tc, 8d ]
+PapaShango19 shows [ Ac, Ad ]
+larfalot12w2 collected [ $4,175 ]
+larfalot12w2 collected [ $726 ]
+
+
+
+#Game No : 644607661
+***** 888poker Hand History for Game 644607661 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 11:06:44
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $9,188 )
+Seat 2: samandrews1 ( $5,740 )
+Seat 4: PapaShango19 ( $2,000 )
+Seat 6: Aaron_Frof ( $1,097 )
+Seat 7: igorbig ( $1,745 )
+Seat 9: sveta7xs ( $2,230 )
+larfalot12w2 posts small blind [$75]
+samandrews1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 6d ]
+PapaShango19 folds
+Aaron_Frof calls [$150]
+igorbig folds
+sveta7xs folds
+larfalot12w2 folds
+samandrews1 checks
+** Dealing flop ** [ Qs, As, 4c ]
+samandrews1 checks
+Aaron_Frof checks
+** Dealing turn ** [ 7h ]
+samandrews1 bets [$150]
+Aaron_Frof raises [$300]
+samandrews1 calls [$150]
+** Dealing river ** [ 9d ]
+samandrews1 checks
+Aaron_Frof bets [$647]
+samandrews1 folds
+** Summary **
+Aaron_Frof did not show his hand
+Aaron_Frof collected [ $975 ]
+
+
+
+#Game No : 644607721
+***** 888poker Hand History for Game 644607721 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 11:07:27
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $9,113 )
+Seat 2: samandrews1 ( $5,290 )
+Seat 4: PapaShango19 ( $2,000 )
+Seat 6: Aaron_Frof ( $1,622 )
+Seat 7: igorbig ( $1,745 )
+Seat 9: sveta7xs ( $2,230 )
+samandrews1 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 5d ]
+Aaron_Frof folds
+igorbig folds
+sveta7xs folds
+larfalot12w2 raises [$300]
+samandrews1 calls [$225]
+PapaShango19 calls [$150]
+** Dealing flop ** [ 8d, 3d, Jh ]
+samandrews1 checks
+PapaShango19 checks
+larfalot12w2 bets [$900]
+samandrews1 folds
+PapaShango19 folds
+** Summary **
+larfalot12w2 did not show his hand
+larfalot12w2 collected [ $900 ]
+
+
+
+#Game No : 644607786
+***** 888poker Hand History for Game 644607786 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 11:08:19
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $9,713 )
+Seat 2: samandrews1 ( $4,990 )
+Seat 4: PapaShango19 ( $1,700 )
+Seat 6: Aaron_Frof ( $1,622 )
+Seat 7: igorbig ( $1,745 )
+Seat 9: sveta7xs ( $2,230 )
+PapaShango19 posts small blind [$75]
+Aaron_Frof posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 7d ]
+igorbig folds
+sveta7xs folds
+larfalot12w2 calls [$150]
+samandrews1 calls [$150]
+PapaShango19 folds
+Aaron_Frof checks
+** Dealing flop ** [ Jc, 7s, Ah ]
+Aaron_Frof bets [$150]
+larfalot12w2 folds
+samandrews1 calls [$150]
+** Dealing turn ** [ Ks ]
+Aaron_Frof bets [$150]
+samandrews1 calls [$150]
+** Dealing river ** [ 2s ]
+Aaron_Frof bets [$1,172]
+samandrews1 calls [$1,172]
+** Summary **
+samandrews1 shows [ Qc, As ]
+Aaron_Frof shows [ 8c, 9c ]
+samandrews1 collected [ $3,469 ]
+
+
+
+#Game No : 644607848
+***** 888poker Hand History for Game 644607848 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 11:09:03
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $9,563 )
+Seat 2: samandrews1 ( $6,837 )
+Seat 4: PapaShango19 ( $1,625 )
+Seat 6: Aaron_Frof ( $2,000 )
+Seat 7: igorbig ( $1,745 )
+Seat 9: sveta7xs ( $2,230 )
+Aaron_Frof posts small blind [$75]
+igorbig posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5s ]
+sveta7xs folds
+larfalot12w2 folds
+samandrews1 folds
+PapaShango19 calls [$150]
+Aaron_Frof calls [$75]
+igorbig checks
+** Dealing flop ** [ 6d, Qd, Ts ]
+Aaron_Frof checks
+igorbig checks
+PapaShango19 checks
+** Dealing turn ** [ 2d ]
+Aaron_Frof checks
+igorbig checks
+PapaShango19 checks
+** Dealing river ** [ 6c ]
+Aaron_Frof bets [$450]
+igorbig folds
+PapaShango19 folds
+** Summary **
+Aaron_Frof did not show his hand
+Aaron_Frof collected [ $450 ]
+
+
+
+#Game No : 644607893
+***** 888poker Hand History for Game 644607893 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 11:09:36
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: larfalot12w2 ( $9,563 )
+Seat 2: samandrews1 ( $6,837 )
+Seat 4: PapaShango19 ( $1,475 )
+Seat 6: Aaron_Frof ( $2,300 )
+Seat 7: igorbig ( $1,595 )
+Seat 9: sveta7xs ( $2,230 )
+igorbig posts small blind [$75]
+sveta7xs posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4h ]
+larfalot12w2 raises [$300]
+samandrews1 folds
+PapaShango19 folds
+Aaron_Frof calls [$300]
+igorbig folds
+sveta7xs calls [$150]
+** Dealing flop ** [ 8h, Ad, Kd ]
+sveta7xs checks
+larfalot12w2 bets [$975]
+Aaron_Frof calls [$975]
+sveta7xs folds
+** Dealing turn ** [ 9s ]
+larfalot12w2 bets [$2,925]
+Aaron_Frof calls [$1,025]
+** Dealing river ** [ 7d ]
+** Summary **
+larfalot12w2 shows [ Ts, Ac ]
+Aaron_Frof shows [ Kh, 5c ]
+larfalot12w2 collected [ $4,975 ]
+
+
+
+#Game No : 644607970
+***** 888poker Hand History for Game 644607970 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:10:33
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $12,238 )
+Seat 2: samandrews1 ( $6,837 )
+Seat 4: PapaShango19 ( $1,475 )
+Seat 7: igorbig ( $1,520 )
+Seat 9: sveta7xs ( $1,930 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+igorbig posts ante [$20]
+sveta7xs posts ante [$20]
+samandrews1 posts ante [$20]
+sveta7xs posts small blind [$100]
+larfalot12w2 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Ad ]
+samandrews1 folds
+PapaShango19 raises [$1,455]
+igorbig folds
+sveta7xs folds
+larfalot12w2 calls [$1,255]
+** Dealing flop ** [ 4d, Qh, 9s ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 2s ]
+** Summary **
+larfalot12w2 shows [ 7c, Ah ]
+PapaShango19 shows [ Ts, Ad ]
+PapaShango19 collected [ $3,110 ]
+
+
+
+#Game No : 644607999
+***** 888poker Hand History for Game 644607999 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:10:59
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $10,763 )
+Seat 2: samandrews1 ( $6,817 )
+Seat 4: PapaShango19 ( $3,110 )
+Seat 7: igorbig ( $1,500 )
+Seat 9: sveta7xs ( $1,810 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+igorbig posts ante [$20]
+sveta7xs posts ante [$20]
+samandrews1 posts ante [$20]
+larfalot12w2 posts small blind [$100]
+samandrews1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Th ]
+PapaShango19 folds
+igorbig folds
+sveta7xs raises [$1,790]
+larfalot12w2 folds
+samandrews1 folds
+** Summary **
+sveta7xs did not show his hand
+sveta7xs collected [ $600 ]
+
+
+
+#Game No : 644608017
+***** 888poker Hand History for Game 644608017 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:11:16
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $10,643 )
+Seat 2: samandrews1 ( $6,597 )
+Seat 4: PapaShango19 ( $3,090 )
+Seat 7: igorbig ( $1,480 )
+Seat 9: sveta7xs ( $2,190 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+igorbig posts ante [$20]
+sveta7xs posts ante [$20]
+samandrews1 posts ante [$20]
+samandrews1 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3d ]
+igorbig folds
+sveta7xs folds
+larfalot12w2 calls [$200]
+samandrews1 folds
+PapaShango19 checks
+** Dealing flop ** [ Qd, 6s, 5c ]
+PapaShango19 checks
+larfalot12w2 bets [$200]
+PapaShango19 folds
+** Summary **
+larfalot12w2 did not show his hand
+larfalot12w2 collected [ $600 ]
+
+
+
+#Game No : 644608054
+***** 888poker Hand History for Game 644608054 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:11:36
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $11,023 )
+Seat 2: samandrews1 ( $6,477 )
+Seat 4: PapaShango19 ( $2,870 )
+Seat 7: igorbig ( $1,460 )
+Seat 9: sveta7xs ( $2,170 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+igorbig posts ante [$20]
+sveta7xs posts ante [$20]
+samandrews1 posts ante [$20]
+PapaShango19 posts small blind [$100]
+igorbig posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6c ]
+sveta7xs calls [$200]
+larfalot12w2 folds
+samandrews1 folds
+PapaShango19 calls [$100]
+igorbig checks
+** Dealing flop ** [ 8d, 7h, Ad ]
+PapaShango19 checks
+igorbig checks
+sveta7xs bets [$200]
+PapaShango19 folds
+igorbig folds
+** Summary **
+sveta7xs did not show his hand
+sveta7xs collected [ $700 ]
+
+
+
+#Game No : 644608071
+***** 888poker Hand History for Game 644608071 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:11:54
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $11,003 )
+Seat 2: samandrews1 ( $6,457 )
+Seat 4: PapaShango19 ( $2,650 )
+Seat 7: igorbig ( $1,240 )
+Seat 9: sveta7xs ( $2,650 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+igorbig posts ante [$20]
+sveta7xs posts ante [$20]
+samandrews1 posts ante [$20]
+igorbig posts small blind [$100]
+sveta7xs posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, As ]
+larfalot12w2 folds
+samandrews1 folds
+PapaShango19 raises [$2,630]
+igorbig folds
+sveta7xs folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 644608096
+***** 888poker Hand History for Game 644608096 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:12:09
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $10,983 )
+Seat 2: samandrews1 ( $6,437 )
+Seat 4: PapaShango19 ( $3,030 )
+Seat 7: igorbig ( $1,120 )
+Seat 9: sveta7xs ( $2,430 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+igorbig posts ante [$20]
+sveta7xs posts ante [$20]
+samandrews1 posts ante [$20]
+sveta7xs posts small blind [$100]
+larfalot12w2 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 6h ]
+samandrews1 folds
+PapaShango19 raises [$3,010]
+igorbig folds
+sveta7xs folds
+larfalot12w2 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 644608125
+***** 888poker Hand History for Game 644608125 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:12:29
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $10,763 )
+Seat 2: samandrews1 ( $6,417 )
+Seat 4: PapaShango19 ( $3,410 )
+Seat 7: igorbig ( $1,100 )
+Seat 9: sveta7xs ( $2,310 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+igorbig posts ante [$20]
+sveta7xs posts ante [$20]
+samandrews1 posts ante [$20]
+larfalot12w2 posts small blind [$100]
+samandrews1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 6s ]
+PapaShango19 folds
+igorbig calls [$200]
+sveta7xs calls [$200]
+larfalot12w2 folds
+samandrews1 checks
+** Dealing flop ** [ 3s, Js, 3c ]
+samandrews1 checks
+igorbig bets [$200]
+sveta7xs raises [$2,090]
+samandrews1 calls [$2,090]
+igorbig calls [$680]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 8d ]
+** Summary **
+samandrews1 shows [ 3h, Jd ]
+igorbig shows [ 6c, As ]
+sveta7xs shows [ 8c, Jc ]
+samandrews1 collected [ $3,440 ]
+samandrews1 collected [ $2,420 ]
+
+
+
+#Game No : 644608208
+***** 888poker Hand History for Game 644608208 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 11:13:29
+Tournament #63648437 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: larfalot12w2 ( $10,643 )
+Seat 2: samandrews1 ( $9,967 )
+Seat 4: PapaShango19 ( $3,390 )
+Seat 6: NetoBilly ( $2,000 )
+Seat 7: walshman57 ( $11,279 )
+larfalot12w2 posts ante [$20]
+PapaShango19 posts ante [$20]
+samandrews1 posts ante [$20]
+NetoBilly posts ante [$20]
+walshman57 posts ante [$20]
+samandrews1 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 3h ]
+NetoBilly raises [$400]
+walshman57 folds
+larfalot12w2 folds
+samandrews1 calls [$300]
+PapaShango19 calls [$200]
+** Dealing flop ** [ Ac, 2c, 4h ]
+samandrews1 checks
+PapaShango19 checks
+NetoBilly checks
+** Dealing turn ** [ 8s ]
+samandrews1 checks
+PapaShango19 bets [$650]
+NetoBilly folds
+samandrews1 calls [$650]
+** Dealing river ** [ Kc ]
+samandrews1 checks
+PapaShango19 bets [$2,320]
+samandrews1 folds
+** Summary **
+PapaShango19 collected [ $2,600 ]
+
+
+
+#Game No : 644608187
+***** 888poker Hand History for Game 644608187 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 11:15:02
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1:  ( $7,760 )
+Seat 2:  ( $2,720 )
+Seat 4:  ( $11,595 )
+Seat 6:  ( $5,240 )
+Seat 7:  ( $360 )
+Seat 9:  ( $4,450 )
+ posts ante [$20]
+ posts ante [$20]
+ posts ante [$20]
+ posts ante [$20]
+ posts ante [$20]
+ posts ante [$20]
+ posts small blind [$100]
+ posts big blind [$200]
+** Dealing down cards **
+ folds
+ calls [$200]
+ calls [$200]
+ folds
+ calls [$100]
+ checks
+** Dealing flop ** [ Js, 8h, 3d ]
+ checks
+ checks
+ checks
+ checks
+** Dealing turn ** [ 8d ]
+ checks
+ checks
+ bets [$920]
+ folds
+ folds
+ folds
+** Summary **
+ collected [ $920 ]
+
+
+
+#Game No : 644608382
+***** 888poker Hand History for Game 644608382 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 11:15:31
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: aussiesboy ( $7,540 )
+Seat 2: Pokerok111 ( $2,700 )
+Seat 4: genadiy60 ( $12,295 )
+Seat 6: may2201 ( $5,020 )
+Seat 7: PapaShango19 ( $4,645 )
+Seat 9: flicka27 ( $4,230 )
+flicka27 posts ante [$25]
+aussiesboy posts ante [$25]
+Pokerok111 posts ante [$25]
+genadiy60 posts ante [$25]
+may2201 posts ante [$25]
+PapaShango19 posts ante [$25]
+aussiesboy posts small blind [$125]
+Pokerok111 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 5c ]
+genadiy60 folds
+may2201 folds
+PapaShango19 folds
+flicka27 calls [$250]
+aussiesboy raises [$7,390]
+Pokerok111 folds
+flicka27 calls [$3,955]
+** Dealing flop ** [ 8d, 9d, 7h ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ Qd ]
+** Summary **
+aussiesboy shows [ 7d, 7s ]
+flicka27 shows [ Ks, 8s ]
+aussiesboy collected [ $8,810 ]
+
+
+
+#Game No : 644608460
+***** 888poker Hand History for Game 644608460 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 11:16:19
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: aussiesboy ( $12,120 )
+Seat 2: Pokerok111 ( $2,425 )
+Seat 4: genadiy60 ( $12,270 )
+Seat 6: may2201 ( $4,995 )
+Seat 7: PapaShango19 ( $4,620 )
+aussiesboy posts ante [$25]
+Pokerok111 posts ante [$25]
+genadiy60 posts ante [$25]
+may2201 posts ante [$25]
+PapaShango19 posts ante [$25]
+Pokerok111 posts small blind [$125]
+genadiy60 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Qc ]
+may2201 raises [$500]
+PapaShango19 folds
+aussiesboy folds
+Pokerok111 calls [$375]
+genadiy60 raises [$750]
+may2201 calls [$500]
+Pokerok111 calls [$500]
+** Dealing flop ** [ 6c, 9h, 6d ]
+Pokerok111 checks
+genadiy60 bets [$1,562]
+may2201 calls [$1,562]
+Pokerok111 folds
+** Dealing turn ** [ Jc ]
+genadiy60 bets [$3,124]
+may2201 calls [$2,408]
+** Dealing river ** [ 2d ]
+** Summary **
+genadiy60 shows [ 8s, 8c ]
+may2201 shows [ Ac, 2s ]
+genadiy60 collected [ $11,065 ]
+
+
+
+#Game No : 644608556
+***** 888poker Hand History for Game 644608556 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 11:17:30
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aussiesboy ( $12,095 )
+Seat 2: Pokerok111 ( $1,400 )
+Seat 4: genadiy60 ( $18,340 )
+Seat 6: may2201 ( $2,000 )
+Seat 7: PapaShango19 ( $4,595 )
+Seat 9: Ratbagg1 ( $2,000 )
+aussiesboy posts ante [$25]
+Pokerok111 posts ante [$25]
+genadiy60 posts ante [$25]
+may2201 posts ante [$25]
+PapaShango19 posts ante [$25]
+Ratbagg1 posts ante [$25]
+genadiy60 posts small blind [$125]
+may2201 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3h ]
+PapaShango19 folds
+Ratbagg1 folds
+aussiesboy folds
+Pokerok111 calls [$250]
+genadiy60 calls [$125]
+may2201 raises [$1,725]
+Pokerok111 calls [$1,125]
+genadiy60 folds
+** Dealing flop ** [ Qh, Tc, Kc ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 6d ]
+** Summary **
+Pokerok111 shows [ Ad, 4d ]
+may2201 shows [ Js, Jc ]
+may2201 collected [ $3,150 ]
+
+
+
+#Game No : 644608645
+***** 888poker Hand History for Game 644608645 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 11:18:29
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aussiesboy ( $12,070 )
+Seat 2: Pokerok111 ( $2,000 )
+Seat 4: genadiy60 ( $18,065 )
+Seat 6: may2201 ( $3,750 )
+Seat 7: PapaShango19 ( $4,570 )
+Seat 9: Ratbagg1 ( $3,975 )
+aussiesboy posts ante [$30]
+Pokerok111 posts ante [$30]
+genadiy60 posts ante [$30]
+may2201 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ratbagg1 posts ante [$30]
+may2201 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Td ]
+Ratbagg1 folds
+aussiesboy folds
+Pokerok111 calls [$300]
+genadiy60 calls [$300]
+may2201 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ Ts, Jc, Jd ]
+may2201 checks
+PapaShango19 checks
+Pokerok111 checks
+genadiy60 bets [$300]
+may2201 folds
+PapaShango19 folds
+Pokerok111 calls [$300]
+** Dealing turn ** [ Qd ]
+Pokerok111 bets [$300]
+genadiy60 calls [$300]
+** Dealing river ** [ Jh ]
+Pokerok111 bets [$300]
+genadiy60 calls [$300]
+** Summary **
+Pokerok111 shows [ Ac, 9d ]
+genadiy60 shows [ 6h, 6d ]
+genadiy60 collected [ $3,180 ]
+
+
+
+#Game No : 644608773
+***** 888poker Hand History for Game 644608773 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 11:19:58
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: aussiesboy ( $12,040 )
+Seat 2: Pokerok111 ( $770 )
+Seat 4: genadiy60 ( $20,015 )
+Seat 6: may2201 ( $3,420 )
+Seat 7: PapaShango19 ( $4,240 )
+Seat 9: Ratbagg1 ( $3,945 )
+aussiesboy posts ante [$30]
+Pokerok111 posts ante [$30]
+genadiy60 posts ante [$30]
+may2201 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ratbagg1 posts ante [$30]
+PapaShango19 posts small blind [$150]
+Ratbagg1 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2d ]
+aussiesboy folds
+Pokerok111 raises [$740]
+genadiy60 folds
+may2201 folds
+PapaShango19 folds
+Ratbagg1 calls [$440]
+** Dealing flop ** [ 5c, Ah, 8d ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ Kd ]
+** Summary **
+Pokerok111 shows [ 3d, 3h ]
+Ratbagg1 shows [ 3s, Ts ]
+Pokerok111 collected [ $1,810 ]
+
+
+
+#Game No : 644608847
+***** 888poker Hand History for Game 644608847 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 11:20:44
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: aussiesboy ( $12,010 )
+Seat 2: Pokerok111 ( $1,810 )
+Seat 4: genadiy60 ( $19,985 )
+Seat 6: may2201 ( $3,390 )
+Seat 7: PapaShango19 ( $4,060 )
+Seat 9: Ratbagg1 ( $3,175 )
+aussiesboy posts ante [$30]
+Pokerok111 posts ante [$30]
+genadiy60 posts ante [$30]
+may2201 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ratbagg1 posts ante [$30]
+Ratbagg1 posts small blind [$150]
+aussiesboy posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 4d ]
+Pokerok111 folds
+genadiy60 folds
+may2201 raises [$3,360]
+PapaShango19 folds
+Ratbagg1 calls [$2,995]
+aussiesboy calls [$3,060]
+** Dealing flop ** [ Ac, 9h, 6c ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ Jd ]
+** Summary **
+aussiesboy shows [ 5d, 5c ]
+may2201 shows [ 2c, Kc ]
+Ratbagg1 shows [ Jc, Qh ]
+Ratbagg1 collected [ $9,615 ]
+aussiesboy collected [ $430 ]
+
+
+
+#Game No : 644608929
+***** 888poker Hand History for Game 644608929 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 11:21:37
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: aussiesboy ( $9,050 )
+Seat 2: Pokerok111 ( $1,780 )
+Seat 4: genadiy60 ( $19,955 )
+Seat 7: PapaShango19 ( $4,030 )
+Seat 9: Ratbagg1 ( $9,615 )
+aussiesboy posts ante [$30]
+Pokerok111 posts ante [$30]
+genadiy60 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ratbagg1 posts ante [$30]
+aussiesboy posts small blind [$150]
+Pokerok111 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 8s ]
+genadiy60 calls [$300]
+PapaShango19 folds
+Ratbagg1 calls [$300]
+aussiesboy calls [$150]
+Pokerok111 checks
+** Dealing flop ** [ 6h, Jd, 6s ]
+aussiesboy checks
+Pokerok111 checks
+genadiy60 checks
+Ratbagg1 checks
+** Dealing turn ** [ 3d ]
+aussiesboy checks
+Pokerok111 checks
+genadiy60 bets [$300]
+Ratbagg1 folds
+aussiesboy folds
+Pokerok111 folds
+** Summary **
+genadiy60 did not show his hand
+genadiy60 collected [ $1,350 ]
+
+
+
+#Game No : 644609005
+***** 888poker Hand History for Game 644609005 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 11:22:36
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: aussiesboy ( $8,720 )
+Seat 2: Pokerok111 ( $1,450 )
+Seat 4: genadiy60 ( $20,975 )
+Seat 7: PapaShango19 ( $4,000 )
+Seat 9: Ratbagg1 ( $9,285 )
+aussiesboy posts ante [$40]
+Pokerok111 posts ante [$40]
+genadiy60 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ratbagg1 posts ante [$40]
+Pokerok111 posts small blind [$200]
+genadiy60 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Kd ]
+PapaShango19 folds
+Ratbagg1 folds
+aussiesboy folds
+Pokerok111 calls [$200]
+genadiy60 checks
+** Dealing flop ** [ 7d, Jc, 6h ]
+Pokerok111 checks
+genadiy60 bets [$400]
+Pokerok111 calls [$400]
+** Dealing turn ** [ Ah ]
+Pokerok111 checks
+genadiy60 bets [$400]
+Pokerok111 raises [$610]
+genadiy60 calls [$210]
+** Dealing river ** [ 3h ]
+** Summary **
+Pokerok111 shows [ 8h, Qs ]
+genadiy60 shows [ Ks, 4h ]
+genadiy60 collected [ $3,020 ]
+
+
+
+#Game No : 644609085
+***** 888poker Hand History for Game 644609085 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 11:23:34
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: aussiesboy ( $8,680 )
+Seat 2: Pokerok111 ( $2,000 )
+Seat 4: genadiy60 ( $22,545 )
+Seat 6: Gargas888 ( $2,000 )
+Seat 7: PapaShango19 ( $3,960 )
+Seat 9: Ratbagg1 ( $9,245 )
+aussiesboy posts ante [$40]
+Pokerok111 posts ante [$40]
+genadiy60 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ratbagg1 posts ante [$40]
+Gargas888 posts ante [$40]
+genadiy60 posts small blind [$200]
+Gargas888 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 8h ]
+PapaShango19 folds
+Ratbagg1 raises [$9,205]
+aussiesboy folds
+Pokerok111 folds
+genadiy60 folds
+Gargas888 folds
+** Summary **
+Ratbagg1 did not show his hand
+Ratbagg1 collected [ $1,240 ]
+
+
+
+#Game No : 644609167
+***** 888poker Hand History for Game 644609167 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 11:24:35
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: aussiesboy ( $8,640 )
+Seat 2: Pokerok111 ( $1,960 )
+Seat 4: genadiy60 ( $22,305 )
+Seat 6: Gargas888 ( $1,560 )
+Seat 7: PapaShango19 ( $3,920 )
+Seat 9: Ratbagg1 ( $10,045 )
+aussiesboy posts ante [$40]
+Pokerok111 posts ante [$40]
+genadiy60 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ratbagg1 posts ante [$40]
+Gargas888 posts ante [$40]
+Gargas888 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Ts ]
+Ratbagg1 calls [$400]
+aussiesboy folds
+Pokerok111 calls [$400]
+genadiy60 calls [$400]
+Gargas888 folds
+PapaShango19 checks
+** Dealing flop ** [ 4c, 6d, 3d ]
+PapaShango19 checks
+Ratbagg1 bets [$2,040]
+Pokerok111 calls [$1,520]
+genadiy60 calls [$2,040]
+PapaShango19 folds
+** Dealing turn ** [ Kh ]
+Ratbagg1 bets [$7,565]
+genadiy60 folds
+** Dealing river ** [ Qd ]
+** Summary **
+Pokerok111 shows [ As, Jd ]
+Ratbagg1 shows [ Td, 9d ]
+Ratbagg1 collected [ $6,600 ]
+Ratbagg1 collected [ $1,040 ]
+
+
+
+#Game No : 644609259
+***** 888poker Hand History for Game 644609259 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 11:25:33
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: aussiesboy ( $8,600 )
+Seat 4: genadiy60 ( $19,825 )
+Seat 6: Gargas888 ( $1,320 )
+Seat 7: PapaShango19 ( $3,480 )
+Seat 9: Ratbagg1 ( $15,205 )
+aussiesboy posts ante [$40]
+genadiy60 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ratbagg1 posts ante [$40]
+Gargas888 posts ante [$40]
+PapaShango19 posts small blind [$200]
+Ratbagg1 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7c ]
+aussiesboy folds
+genadiy60 folds
+Gargas888 raises [$1,280]
+PapaShango19 folds
+Ratbagg1 calls [$880]
+** Dealing flop ** [ 3c, 4c, 9s ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 6h ]
+** Summary **
+Gargas888 shows [ Th, 4h ]
+Ratbagg1 shows [ 3s, Qs ]
+Gargas888 collected [ $2,960 ]
+
+
+
+#Game No : 644609315
+***** 888poker Hand History for Game 644609315 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 11:26:06
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 2: Snap.u.Fish ( $3,690 )
+Seat 4: genadiy60 ( $19,785 )
+Seat 6: Gargas888 ( $2,960 )
+Seat 7: PapaShango19 ( $3,240 )
+Seat 9: Ratbagg1 ( $13,885 )
+genadiy60 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ratbagg1 posts ante [$40]
+Gargas888 posts ante [$40]
+Snap.u.Fish posts ante [$40]
+Ratbagg1 posts small blind [$200]
+Snap.u.Fish posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 9d ]
+genadiy60 folds
+Gargas888 folds
+PapaShango19 raises [$3,200]
+Ratbagg1 folds
+Snap.u.Fish folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,200 ]
+
+
+
+#Game No : 644609340
+***** 888poker Hand History for Game 644609340 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 11:26:23
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 2: Snap.u.Fish ( $3,250 )
+Seat 4: genadiy60 ( $19,745 )
+Seat 6: Gargas888 ( $2,920 )
+Seat 7: PapaShango19 ( $4,000 )
+Seat 9: Ratbagg1 ( $13,645 )
+genadiy60 posts ante [$60]
+PapaShango19 posts ante [$60]
+Ratbagg1 posts ante [$60]
+Gargas888 posts ante [$60]
+Snap.u.Fish posts ante [$60]
+Snap.u.Fish posts small blind [$300]
+genadiy60 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 7h ]
+Gargas888 folds
+PapaShango19 folds
+Ratbagg1 calls [$600]
+Snap.u.Fish raises [$2,890]
+genadiy60 folds
+Ratbagg1 folds
+** Summary **
+Snap.u.Fish did not show his hand
+Snap.u.Fish collected [ $2,100 ]
+
+
+
+#Game No : 644609371
+***** 888poker Hand History for Game 644609371 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 11:26:46
+Tournament #63648437 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: Snap.u.Fish ( $4,690 )
+Seat 4: genadiy60 ( $19,085 )
+Seat 6: Gargas888 ( $2,860 )
+Seat 7: PapaShango19 ( $3,940 )
+Seat 9: Ratbagg1 ( $12,985 )
+genadiy60 posts ante [$60]
+PapaShango19 posts ante [$60]
+Ratbagg1 posts ante [$60]
+Gargas888 posts ante [$60]
+Snap.u.Fish posts ante [$60]
+genadiy60 posts small blind [$300]
+Gargas888 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ac ]
+PapaShango19 raises [$3,880]
+Ratbagg1 calls [$3,880]
+Snap.u.Fish folds
+genadiy60 folds
+Gargas888 folds
+** Dealing flop ** [ 8d, 2s, Qd ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Ks ]
+** Summary **
+PapaShango19 shows [ Th, Ac ]
+Ratbagg1 shows [ 9s, 9h ]
+Ratbagg1 collected [ $8,960 ]
+
+
+

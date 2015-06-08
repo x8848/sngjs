@@ -1,0 +1,1668 @@
+#Game No : 463379782
+***** 888poker Hand History for Game 463379782 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 03:46:08
+Tournament #64432225 $0.90 + $0.09 - Table #12 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1:  ( $1,500 )
+Seat 2:  ( $1,500 )
+Seat 3:  ( $2,990 )
+Seat 4:  ( $1,500 )
+Seat 5:  ( $4,500 )
+Seat 9:  ( $3,000 )
+Seat 10:  ( $1,500 )
+ posts small blind [$10]
+ posts big blind [$20]
+** Dealing down cards **
+Dealt to  [ 9h, Ks ]
+ folds
+ folds
+ folds
+ folds
+ calls [$20]
+ calls [$10]
+ checks
+** Dealing flop ** [ 7h, 6h, Qh ]
+ checks
+ checks
+ checks
+** Dealing turn ** [ Tc ]
+ checks
+ bets [$30]
+ calls [$30]
+ folds
+** Dealing river ** [ Kh ]
+ bets [$60]
+ calls [$60]
+** Summary **
+ shows [ Ah, Qc ]
+ mucks [ 5h, 7c ]
+ collected [ $240 ]
+
+
+
+#Game No : 463380037
+***** 888poker Hand History for Game 463380037 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 03:47:31
+Tournament #64432225 $0.90 + $0.09 - Table #12 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $1,630 )
+Seat 2: benson08.15 ( $1,500 )
+Seat 3: _MoNgReGoN_ ( $2,990 )
+Seat 4: pdcers ( $1,500 )
+Seat 5: kobra202 ( $4,500 )
+Seat 6: AMcCAMLEY ( $1,500 )
+Seat 7: nufcisley123 ( $1,500 )
+Seat 9: BadBoyEF ( $2,890 )
+Seat 10: PapaShango19 ( $1,480 )
+wiccanred posts small blind [$10]
+benson08.15 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Ad ]
+_MoNgReGoN_ folds
+pdcers folds
+kobra202 calls [$20]
+AMcCAMLEY folds
+nufcisley123 calls [$20]
+BadBoyEF calls [$20]
+PapaShango19 calls [$20]
+wiccanred calls [$10]
+benson08.15 checks
+** Dealing flop ** [ 5h, 7c, 7s ]
+wiccanred checks
+benson08.15 checks
+kobra202 checks
+nufcisley123 checks
+BadBoyEF checks
+PapaShango19 checks
+** Dealing turn ** [ 4c ]
+wiccanred checks
+benson08.15 bets [$20]
+kobra202 calls [$20]
+nufcisley123 calls [$20]
+BadBoyEF folds
+PapaShango19 folds
+wiccanred folds
+** Dealing river ** [ Jd ]
+benson08.15 bets [$60]
+kobra202 calls [$60]
+nufcisley123 folds
+** Summary **
+benson08.15 shows [ Ts, 4s ]
+kobra202 shows [ 8h, Js ]
+kobra202 collected [ $300 ]
+
+
+
+#Game No : 463380397
+***** 888poker Hand History for Game 463380397 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 03:49:22
+Tournament #64432225 $0.90 + $0.09 - Table #12 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $1,610 )
+Seat 2: benson08.15 ( $1,400 )
+Seat 3: _MoNgReGoN_ ( $2,990 )
+Seat 4: pdcers ( $1,500 )
+Seat 5: kobra202 ( $4,700 )
+Seat 6: AMcCAMLEY ( $4,500 )
+Seat 7: nufcisley123 ( $1,460 )
+Seat 9: BadBoyEF ( $2,870 )
+Seat 10: PapaShango19 ( $1,460 )
+benson08.15 posts small blind [$10]
+_MoNgReGoN_ posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 2s ]
+pdcers calls [$20]
+kobra202 folds
+AMcCAMLEY folds
+nufcisley123 calls [$20]
+BadBoyEF calls [$20]
+PapaShango19 folds
+wiccanred folds
+benson08.15 calls [$10]
+_MoNgReGoN_ checks
+** Dealing flop ** [ 4h, 7s, 4s ]
+benson08.15 checks
+_MoNgReGoN_ checks
+pdcers checks
+nufcisley123 checks
+BadBoyEF checks
+** Dealing turn ** [ 9s ]
+benson08.15 bets [$20]
+_MoNgReGoN_ raises [$2,970]
+pdcers folds
+nufcisley123 folds
+BadBoyEF folds
+benson08.15 calls [$1,360]
+** Dealing river ** [ Ks ]
+** Summary **
+benson08.15 shows [ Jc, 4d ]
+_MoNgReGoN_ shows [ 5s, 8s ]
+_MoNgReGoN_ collected [ $2,860 ]
+
+
+
+#Game No : 463380744
+***** 888poker Hand History for Game 463380744 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 03:51:33
+Tournament #64432225 $0.90 + $0.09 - Table #12 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $1,610 )
+Seat 2: benson08.15 ( $1,500 )
+Seat 3: _MoNgReGoN_ ( $4,450 )
+Seat 4: pdcers ( $1,480 )
+Seat 5: kobra202 ( $4,700 )
+Seat 6: AMcCAMLEY ( $4,500 )
+Seat 7: nufcisley123 ( $1,440 )
+Seat 9: BadBoyEF ( $2,850 )
+Seat 10: PapaShango19 ( $1,460 )
+_MoNgReGoN_ posts small blind [$15]
+pdcers posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3h ]
+kobra202 calls [$30]
+AMcCAMLEY raises [$135]
+nufcisley123 folds
+BadBoyEF calls [$135]
+PapaShango19 folds
+wiccanred folds
+benson08.15 calls [$135]
+_MoNgReGoN_ folds
+pdcers folds
+kobra202 calls [$105]
+** Dealing flop ** [ 2d, 3d, 4d ]
+kobra202 checks
+AMcCAMLEY checks
+BadBoyEF checks
+benson08.15 checks
+** Dealing turn ** [ 5s ]
+kobra202 checks
+AMcCAMLEY bets [$585]
+BadBoyEF calls [$585]
+benson08.15 calls [$585]
+kobra202 folds
+** Dealing river ** [ 8d ]
+AMcCAMLEY bets [$3,780]
+BadBoyEF calls [$2,130]
+benson08.15 folds
+** Summary **
+AMcCAMLEY shows [ Td, As ]
+BadBoyEF shows [ Ad, Th ]
+BadBoyEF collected [ $6,600 ]
+
+
+
+#Game No : 463380966
+***** 888poker Hand History for Game 463380966 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 03:52:59
+Tournament #64432225 $0.90 + $0.09 - Table #12 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $1,610 )
+Seat 2: benson08.15 ( $780 )
+Seat 3: _MoNgReGoN_ ( $4,435 )
+Seat 4: pdcers ( $1,450 )
+Seat 5: kobra202 ( $4,565 )
+Seat 6: AMcCAMLEY ( $1,650 )
+Seat 7: nufcisley123 ( $1,440 )
+Seat 9: BadBoyEF ( $6,600 )
+Seat 10: PapaShango19 ( $1,460 )
+pdcers posts small blind [$15]
+kobra202 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 6c ]
+AMcCAMLEY folds
+nufcisley123 calls [$30]
+BadBoyEF calls [$30]
+PapaShango19 folds
+wiccanred calls [$30]
+benson08.15 folds
+_MoNgReGoN_ raises [$4,435]
+pdcers folds
+kobra202 folds
+nufcisley123 folds
+BadBoyEF folds
+wiccanred calls [$1,580]
+** Dealing flop ** [ 6h, 8h, Tc ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ac ]
+** Summary **
+wiccanred shows [ Ah, Kd ]
+_MoNgReGoN_ shows [ Ts, Td ]
+_MoNgReGoN_ collected [ $3,325 ]
+
+
+
+#Game No : 463381092
+***** 888poker Hand History for Game 463381092 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 03:54:00
+Tournament #64432225 $0.90 + $0.09 - Table #12 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $3,000 )
+Seat 2: benson08.15 ( $780 )
+Seat 3: _MoNgReGoN_ ( $6,150 )
+Seat 4: pdcers ( $1,435 )
+Seat 5: kobra202 ( $4,535 )
+Seat 6: AMcCAMLEY ( $3,150 )
+Seat 7: nufcisley123 ( $1,410 )
+Seat 9: BadBoyEF ( $6,570 )
+Seat 10: PapaShango19 ( $1,460 )
+kobra202 posts small blind [$15]
+AMcCAMLEY posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 3s ]
+nufcisley123 folds
+BadBoyEF calls [$30]
+PapaShango19 folds
+wiccanred calls [$30]
+benson08.15 folds
+_MoNgReGoN_ raises [$6,150]
+pdcers folds
+kobra202 calls [$4,520]
+AMcCAMLEY folds
+BadBoyEF folds
+wiccanred folds
+** Dealing flop ** [ 6c, 7c, 6s ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 9h ]
+** Summary **
+_MoNgReGoN_ shows [ As, Kd ]
+kobra202 shows [ Qc, Ks ]
+_MoNgReGoN_ collected [ $9,160 ]
+
+
+
+#Game No : 463381205
+***** 888poker Hand History for Game 463381205 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 03:54:49
+Tournament #64432225 $0.90 + $0.09 - Table #12 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $2,970 )
+Seat 2: benson08.15 ( $780 )
+Seat 3: _MoNgReGoN_ ( $10,775 )
+Seat 4: pdcers ( $1,435 )
+Seat 5: kobra202 ( $3,000 )
+Seat 6: AMcCAMLEY ( $3,120 )
+Seat 7: nufcisley123 ( $1,410 )
+Seat 9: BadBoyEF ( $6,540 )
+Seat 10: PapaShango19 ( $1,460 )
+AMcCAMLEY posts small blind [$15]
+nufcisley123 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Qc ]
+BadBoyEF calls [$30]
+PapaShango19 folds
+wiccanred calls [$30]
+benson08.15 folds
+_MoNgReGoN_ folds
+pdcers folds
+kobra202 raises [$3,000]
+AMcCAMLEY raises [$3,105]
+nufcisley123 folds
+BadBoyEF folds
+wiccanred folds
+** Dealing flop ** [ Kc, Jc, Tc ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 2h ]
+** Summary **
+kobra202 shows [ Jh, 9s ]
+AMcCAMLEY shows [ 7d, Ad ]
+kobra202 collected [ $6,090 ]
+
+
+
+#Game No : 463381772
+***** 888poker Hand History for Game 463381772 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 04:00:14
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1:  ( $1,500 )
+Seat 6:  ( $1,500 )
+Seat 7:  ( $1,460 )
+Seat 9:  ( $1,350 )
+Seat 10:  ( $2,200 )
+ posts small blind [$25]
+ posts big blind [$50]
+** Dealing down cards **
+Dealt to  [ Qc, 3h ]
+ folds
+ raises [$888]
+ folds
+ folds
+ folds
+** Summary **
+ collected [ $125 ]
+
+
+
+#Game No : 463381815
+***** 888poker Hand History for Game 463381815 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 04:00:36
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $1,575 )
+Seat 2: kingpoker58 ( $1,855 )
+Seat 3: Gulstar14 ( $3,195 )
+Seat 4: Geminikcr ( $1,500 )
+Seat 5: MrWassy ( $1,500 )
+Seat 6: rudey4 ( $1,500 )
+Seat 7: PapaShango19 ( $1,435 )
+Seat 9: JeffersonFer ( $1,300 )
+Seat 10: Xavy1311 ( $2,200 )
+JeffersonFer posts small blind [$25]
+Xavy1311 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Kh ]
+__KAfee__ calls [$50]
+kingpoker58 folds
+Gulstar14 folds
+Geminikcr calls [$50]
+MrWassy folds
+rudey4 folds
+PapaShango19 calls [$50]
+JeffersonFer calls [$25]
+Xavy1311 checks
+** Dealing flop ** [ 8c, Jc, 4h ]
+JeffersonFer checks
+Xavy1311 checks
+__KAfee__ bets [$187]
+Geminikcr calls [$187]
+PapaShango19 calls [$187]
+JeffersonFer folds
+Xavy1311 folds
+** Dealing turn ** [ Qc ]
+__KAfee__ bets [$150]
+Geminikcr folds
+PapaShango19 folds
+** Summary **
+__KAfee__ did not show his hand
+__KAfee__ collected [ $811 ]
+
+
+
+#Game No : 463381996
+***** 888poker Hand History for Game 463381996 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 04:02:07
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $2,149 )
+Seat 2: kingpoker58 ( $1,855 )
+Seat 3: Gulstar14 ( $3,195 )
+Seat 4: Geminikcr ( $1,263 )
+Seat 5: MrWassy ( $1,500 )
+Seat 6: rudey4 ( $1,500 )
+Seat 7: PapaShango19 ( $1,198 )
+Seat 9: JeffersonFer ( $1,250 )
+Seat 10: Xavy1311 ( $2,150 )
+Xavy1311 posts small blind [$25]
+__KAfee__ posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 4c ]
+kingpoker58 folds
+Gulstar14 folds
+Geminikcr calls [$50]
+MrWassy calls [$50]
+rudey4 calls [$50]
+PapaShango19 folds
+JeffersonFer raises [$1,250]
+Xavy1311 folds
+__KAfee__ calls [$1,200]
+Geminikcr folds
+MrWassy folds
+rudey4 calls [$1,200]
+** Dealing flop ** [ 3s, 6h, 8s ]
+__KAfee__ bets [$200]
+rudey4 raises [$250]
+__KAfee__ calls [$50]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ Ad ]
+** Summary **
+__KAfee__ shows [ 9d, Ah ]
+rudey4 shows [ 6d, 6c ]
+JeffersonFer shows [ Jc, Jd ]
+rudey4 collected [ $3,875 ]
+rudey4 collected [ $500 ]
+
+
+
+#Game No : 463382114
+***** 888poker Hand History for Game 463382114 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 04:03:05
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $2,149 )
+Seat 2: kingpoker58 ( $1,855 )
+Seat 3: Gulstar14 ( $3,195 )
+Seat 4: Geminikcr ( $2,713 )
+Seat 5: MrWassy ( $1,450 )
+Seat 6: rudey4 ( $4,375 )
+Seat 7: PapaShango19 ( $1,198 )
+Seat 9: JeffersonFer ( $3,000 )
+Seat 10: Xavy1311 ( $2,125 )
+__KAfee__ posts small blind [$25]
+kingpoker58 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 3c ]
+Gulstar14 folds
+Geminikcr calls [$50]
+MrWassy folds
+rudey4 calls [$50]
+PapaShango19 folds
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ calls [$25]
+kingpoker58 checks
+** Dealing flop ** [ 2h, Qh, Tc ]
+__KAfee__ bets [$200]
+kingpoker58 folds
+Geminikcr calls [$200]
+rudey4 calls [$200]
+** Dealing turn ** [ Kd ]
+__KAfee__ checks
+Geminikcr checks
+rudey4 checks
+** Dealing river ** [ Qc ]
+__KAfee__ bets [$100]
+Geminikcr calls [$100]
+rudey4 raises [$1,200]
+__KAfee__ folds
+Geminikcr folds
+** Summary **
+rudey4 did not show his hand
+rudey4 collected [ $1,100 ]
+
+
+
+#Game No : 463382278
+***** 888poker Hand History for Game 463382278 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 04:04:27
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $3,299 )
+Seat 2: kingpoker58 ( $1,805 )
+Seat 3: Gulstar14 ( $3,195 )
+Seat 4: Geminikcr ( $2,363 )
+Seat 5: MrWassy ( $1,450 )
+Seat 6: rudey4 ( $5,125 )
+Seat 7: PapaShango19 ( $1,198 )
+Seat 9: JeffersonFer ( $3,000 )
+Seat 10: Xavy1311 ( $2,125 )
+kingpoker58 posts small blind [$25]
+Gulstar14 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 5h ]
+Geminikcr calls [$50]
+MrWassy calls [$50]
+rudey4 calls [$50]
+PapaShango19 folds
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ folds
+kingpoker58 calls [$25]
+Gulstar14 checks
+** Dealing flop ** [ 9h, 7c, 2h ]
+kingpoker58 checks
+Gulstar14 checks
+Geminikcr checks
+MrWassy checks
+rudey4 checks
+** Dealing turn ** [ Ks ]
+kingpoker58 checks
+Gulstar14 checks
+Geminikcr checks
+MrWassy checks
+rudey4 checks
+** Dealing river ** [ 3c ]
+kingpoker58 bets [$125]
+Gulstar14 folds
+Geminikcr folds
+MrWassy folds
+rudey4 folds
+** Summary **
+kingpoker58 did not show his hand
+kingpoker58 collected [ $250 ]
+
+
+
+#Game No : 463382422
+***** 888poker Hand History for Game 463382422 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 04:06:02
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $3,299 )
+Seat 2: kingpoker58 ( $2,005 )
+Seat 3: Gulstar14 ( $3,145 )
+Seat 4: Geminikcr ( $2,313 )
+Seat 5: MrWassy ( $1,400 )
+Seat 6: rudey4 ( $5,075 )
+Seat 7: PapaShango19 ( $1,198 )
+Seat 9: JeffersonFer ( $3,000 )
+Seat 10: Xavy1311 ( $2,125 )
+Gulstar14 posts small blind [$50]
+Geminikcr posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 2d ]
+MrWassy folds
+rudey4 folds
+PapaShango19 folds
+JeffersonFer raises [$350]
+Xavy1311 folds
+__KAfee__ calls [$350]
+kingpoker58 folds
+Gulstar14 folds
+Geminikcr calls [$250]
+** Dealing flop ** [ As, 9h, 3s ]
+Geminikcr checks
+JeffersonFer bets [$480]
+__KAfee__ calls [$480]
+Geminikcr folds
+** Dealing turn ** [ 5s ]
+JeffersonFer checks
+__KAfee__ bets [$1,300]
+JeffersonFer calls [$1,300]
+** Dealing river ** [ Qc ]
+JeffersonFer checks
+__KAfee__ bets [$600]
+JeffersonFer calls [$600]
+** Summary **
+__KAfee__ shows [ 2h, 4s ]
+JeffersonFer mucks [ 7d, 7s ]
+__KAfee__ collected [ $5,860 ]
+
+
+
+#Game No : 463382574
+***** 888poker Hand History for Game 463382574 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 04:07:29
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $6,429 )
+Seat 2: kingpoker58 ( $2,005 )
+Seat 3: Gulstar14 ( $3,095 )
+Seat 4: Geminikcr ( $1,963 )
+Seat 5: MrWassy ( $1,400 )
+Seat 6: rudey4 ( $5,075 )
+Seat 7: PapaShango19 ( $1,198 )
+Seat 9: JeffersonFer ( $270 )
+Seat 10: Xavy1311 ( $2,125 )
+Geminikcr posts small blind [$50]
+MrWassy posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Jd ]
+rudey4 folds
+PapaShango19 folds
+JeffersonFer raises [$270]
+Xavy1311 folds
+__KAfee__ calls [$270]
+kingpoker58 folds
+Gulstar14 calls [$270]
+Geminikcr calls [$220]
+MrWassy folds
+** Dealing flop ** [ Kd, 4h, 5c ]
+Geminikcr checks
+__KAfee__ bets [$885]
+Gulstar14 folds
+Geminikcr folds
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 3s ]
+** Summary **
+__KAfee__ shows [ Ks, 6c ]
+JeffersonFer shows [ Qs, 3h ]
+__KAfee__ collected [ $1,180 ]
+
+
+
+#Game No : 463382695
+***** 888poker Hand History for Game 463382695 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 04:08:27
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $7,339 )
+Seat 2: kingpoker58 ( $2,005 )
+Seat 3: Gulstar14 ( $2,825 )
+Seat 4: Geminikcr ( $1,693 )
+Seat 5: MrWassy ( $1,300 )
+Seat 6: rudey4 ( $5,075 )
+Seat 7: PapaShango19 ( $1,198 )
+Seat 9: JeffersonFer ( $3,000 )
+Seat 10: Xavy1311 ( $2,125 )
+MrWassy posts small blind [$50]
+rudey4 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Js ]
+PapaShango19 folds
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ folds
+kingpoker58 folds
+Gulstar14 folds
+Geminikcr calls [$100]
+MrWassy folds
+rudey4 checks
+** Dealing flop ** [ 4s, 6h, 8h ]
+rudey4 checks
+Geminikcr checks
+** Dealing turn ** [ Th ]
+rudey4 checks
+Geminikcr checks
+** Dealing river ** [ 6c ]
+rudey4 checks
+Geminikcr checks
+** Summary **
+rudey4 shows [ Kd, 9h ]
+Geminikcr shows [ 9d, Kc ]
+rudey4 collected [ $125 ]
+Geminikcr collected [ $125 ]
+
+
+
+#Game No : 463382774
+***** 888poker Hand History for Game 463382774 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 04:09:16
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $7,339 )
+Seat 2: kingpoker58 ( $2,005 )
+Seat 3: Gulstar14 ( $2,825 )
+Seat 4: Geminikcr ( $1,718 )
+Seat 5: MrWassy ( $1,250 )
+Seat 6: rudey4 ( $5,100 )
+Seat 7: PapaShango19 ( $1,198 )
+Seat 9: JeffersonFer ( $3,000 )
+Seat 10: Xavy1311 ( $2,125 )
+rudey4 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Ks ]
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ calls [$100]
+kingpoker58 calls [$100]
+Gulstar14 folds
+Geminikcr calls [$100]
+MrWassy folds
+rudey4 calls [$50]
+PapaShango19 raises [$1,098]
+__KAfee__ folds
+kingpoker58 raises [$1,905]
+Geminikcr calls [$1,618]
+rudey4 folds
+** Dealing flop ** [ 3d, 5c, Jc ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ Kc ]
+** Summary **
+kingpoker58 shows [ 2d, 2s ]
+Geminikcr shows [ Qs, Kd ]
+PapaShango19 shows [ Ac, Ks ]
+PapaShango19 collected [ $3,794 ]
+Geminikcr collected [ $1,040 ]
+
+
+
+#Game No : 463382866
+***** 888poker Hand History for Game 463382866 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 04:10:09
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $7,239 )
+Seat 2: kingpoker58 ( $287 )
+Seat 3: Gulstar14 ( $2,825 )
+Seat 4: Geminikcr ( $1,040 )
+Seat 5: MrWassy ( $1,250 )
+Seat 6: rudey4 ( $5,000 )
+Seat 7: PapaShango19 ( $3,794 )
+Seat 9: JeffersonFer ( $3,000 )
+Seat 10: Xavy1311 ( $2,125 )
+PapaShango19 posts small blind [$50]
+JeffersonFer posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 7c ]
+Xavy1311 folds
+__KAfee__ raises [$300]
+kingpoker58 calls [$287]
+Gulstar14 folds
+Geminikcr calls [$300]
+MrWassy raises [$900]
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+__KAfee__ calls [$600]
+Geminikcr calls [$600]
+** Dealing flop ** [ Jc, Ac, 8d ]
+__KAfee__ bets [$6,339]
+Geminikcr calls [$140]
+MrWassy calls [$350]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Js ]
+** Summary **
+__KAfee__ shows [ 9s, Tc ]
+kingpoker58 shows [ 4h, 3h ]
+Geminikcr shows [ Qc, 4c ]
+MrWassy shows [ Qd, Ks ]
+__KAfee__ collected [ $325 ]
+kingpoker58 collected [ $325 ]
+Geminikcr collected [ $324 ]
+MrWassy collected [ $324 ]
+__KAfee__ collected [ $753 ]
+Geminikcr collected [ $753 ]
+MrWassy collected [ $753 ]
+__KAfee__ collected [ $210 ]
+MrWassy collected [ $210 ]
+
+
+
+#Game No : 463382987
+***** 888poker Hand History for Game 463382987 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 04:11:10
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $7,277 )
+Seat 2: kingpoker58 ( $325 )
+Seat 3: Gulstar14 ( $2,825 )
+Seat 4: Geminikcr ( $1,077 )
+Seat 5: MrWassy ( $1,287 )
+Seat 6: rudey4 ( $5,000 )
+Seat 7: PapaShango19 ( $3,744 )
+Seat 9: JeffersonFer ( $2,900 )
+Seat 10: Xavy1311 ( $2,125 )
+JeffersonFer posts small blind [$75]
+Xavy1311 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 8c ]
+__KAfee__ raises [$393]
+kingpoker58 folds
+Gulstar14 folds
+Geminikcr folds
+MrWassy folds
+rudey4 raises [$5,000]
+PapaShango19 folds
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ folds
+** Summary **
+rudey4 did not show his hand
+rudey4 collected [ $1,011 ]
+
+
+
+#Game No : 463383068
+***** 888poker Hand History for Game 463383068 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 04:11:55
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $6,884 )
+Seat 2: kingpoker58 ( $325 )
+Seat 3: Gulstar14 ( $2,825 )
+Seat 4: Geminikcr ( $1,077 )
+Seat 5: MrWassy ( $1,287 )
+Seat 6: rudey4 ( $5,618 )
+Seat 7: PapaShango19 ( $3,744 )
+Seat 9: JeffersonFer ( $2,825 )
+Seat 10: Xavy1311 ( $1,975 )
+Xavy1311 posts small blind [$75]
+__KAfee__ posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 7s ]
+kingpoker58 raises [$325]
+Gulstar14 folds
+Geminikcr folds
+MrWassy folds
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ calls [$175]
+** Dealing flop ** [ Qs, As, 5h ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 2s ]
+** Summary **
+__KAfee__ shows [ Kd, 8s ]
+kingpoker58 shows [ 9h, Js ]
+__KAfee__ collected [ $725 ]
+
+
+
+#Game No : 463383191
+***** 888poker Hand History for Game 463383191 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 04:12:47
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: __KAfee__ ( $7,284 )
+Seat 3: Gulstar14 ( $2,825 )
+Seat 4: Geminikcr ( $1,077 )
+Seat 5: MrWassy ( $1,287 )
+Seat 6: rudey4 ( $5,618 )
+Seat 7: PapaShango19 ( $3,744 )
+Seat 9: JeffersonFer ( $2,825 )
+Seat 10: Xavy1311 ( $1,900 )
+__KAfee__ posts small blind [$75]
+Gulstar14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 6s ]
+Geminikcr folds
+MrWassy raises [$600]
+rudey4 folds
+PapaShango19 folds
+JeffersonFer calls [$600]
+Xavy1311 folds
+__KAfee__ raises [$1,425]
+Gulstar14 raises [$2,675]
+MrWassy calls [$687]
+JeffersonFer calls [$2,225]
+__KAfee__ calls [$1,325]
+** Dealing flop ** [ 8s, 8h, 9c ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 9h ]
+** Summary **
+__KAfee__ shows [ Kd, Jd ]
+Gulstar14 shows [ 3s, As ]
+MrWassy shows [ Jh, Qh ]
+JeffersonFer shows [ 9s, Th ]
+JeffersonFer collected [ $5,148 ]
+JeffersonFer collected [ $4,614 ]
+
+
+
+#Game No : 463383298
+***** 888poker Hand History for Game 463383298 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 04:13:52
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: __KAfee__ ( $4,459 )
+Seat 4: Geminikcr ( $1,077 )
+Seat 5: MrWassy ( $3,000 )
+Seat 6: rudey4 ( $5,618 )
+Seat 7: PapaShango19 ( $3,744 )
+Seat 9: JeffersonFer ( $9,762 )
+Seat 10: Xavy1311 ( $1,900 )
+Geminikcr posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 7s ]
+MrWassy calls [$150]
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ folds
+Geminikcr raises [$927]
+MrWassy folds
+** Summary **
+Geminikcr collected [ $300 ]
+
+
+
+#Game No : 463383388
+***** 888poker Hand History for Game 463383388 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 04:14:49
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: __KAfee__ ( $4,459 )
+Seat 4: Geminikcr ( $1,227 )
+Seat 5: MrWassy ( $2,850 )
+Seat 6: rudey4 ( $5,618 )
+Seat 7: PapaShango19 ( $3,744 )
+Seat 9: JeffersonFer ( $9,762 )
+Seat 10: Xavy1311 ( $1,900 )
+Geminikcr posts small blind [$75]
+MrWassy posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 3c ]
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ raises [$2,100]
+Geminikcr calls [$1,152]
+MrWassy folds
+** Dealing flop ** [ 7c, Tc, 7s ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 9c ]
+** Summary **
+__KAfee__ shows [ Kh, Jc ]
+Geminikcr shows [ Qc, 5h ]
+__KAfee__ collected [ $2,604 ]
+
+
+
+#Game No : 463383443
+***** 888poker Hand History for Game 463383443 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 04:15:25
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $5,836 )
+Seat 2: Jack9ospades ( $1,500 )
+Seat 3: Jaayson ( $9,045 )
+Seat 4: Geminikcr ( $3,000 )
+Seat 5: MrWassy ( $2,700 )
+Seat 6: rudey4 ( $5,618 )
+Seat 7: PapaShango19 ( $3,744 )
+Seat 9: JeffersonFer ( $9,762 )
+Seat 10: Xavy1311 ( $1,900 )
+rudey4 posts ante [$20]
+PapaShango19 posts ante [$20]
+JeffersonFer posts ante [$20]
+Xavy1311 posts ante [$20]
+__KAfee__ posts ante [$20]
+Geminikcr posts ante [$20]
+MrWassy posts ante [$20]
+Jack9ospades posts ante [$20]
+Jaayson posts ante [$20]
+MrWassy posts small blind [$100]
+rudey4 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 3c ]
+PapaShango19 folds
+JeffersonFer calls [$200]
+Xavy1311 calls [$200]
+__KAfee__ raises [$840]
+Jack9ospades folds
+Jaayson calls [$840]
+Geminikcr calls [$840]
+MrWassy folds
+rudey4 folds
+JeffersonFer calls [$640]
+Xavy1311 calls [$640]
+** Dealing flop ** [ Qs, Js, 3h ]
+JeffersonFer checks
+Xavy1311 checks
+__KAfee__ checks
+Jaayson bets [$200]
+Geminikcr raises [$2,140]
+JeffersonFer folds
+Xavy1311 folds
+__KAfee__ folds
+Jaayson calls [$1,940]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Ad ]
+** Summary **
+Jaayson shows [ Qh, 2h ]
+Geminikcr shows [ Qc, Jc ]
+Geminikcr collected [ $8,960 ]
+
+
+
+#Game No : 463383622
+***** 888poker Hand History for Game 463383622 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 04:17:12
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $4,976 )
+Seat 2: Jack9ospades ( $1,480 )
+Seat 3: Jaayson ( $6,045 )
+Seat 4: Geminikcr ( $8,960 )
+Seat 5: MrWassy ( $2,580 )
+Seat 6: rudey4 ( $5,398 )
+Seat 7: PapaShango19 ( $3,724 )
+Seat 9: JeffersonFer ( $8,902 )
+Seat 10: Xavy1311 ( $1,040 )
+rudey4 posts ante [$20]
+PapaShango19 posts ante [$20]
+JeffersonFer posts ante [$20]
+Xavy1311 posts ante [$20]
+__KAfee__ posts ante [$20]
+Geminikcr posts ante [$20]
+MrWassy posts ante [$20]
+Jack9ospades posts ante [$20]
+Jaayson posts ante [$20]
+rudey4 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Js ]
+JeffersonFer calls [$200]
+Xavy1311 raises [$1,020]
+__KAfee__ calls [$1,020]
+Jack9ospades folds
+Jaayson raises [$4,760]
+Geminikcr folds
+MrWassy folds
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+__KAfee__ folds
+** Dealing flop ** [ 4h, 4d, 3d ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 5d ]
+** Summary **
+Jaayson shows [ Ah, 8d ]
+Xavy1311 shows [ 6c, Kd ]
+Jaayson collected [ $3,740 ]
+
+
+
+#Game No : 463383763
+***** 888poker Hand History for Game 463383763 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 04:18:37
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: __KAfee__ ( $3,936 )
+Seat 2: Jack9ospades ( $1,460 )
+Seat 3: Jaayson ( $8,745 )
+Seat 4: Geminikcr ( $8,940 )
+Seat 5: MrWassy ( $2,560 )
+Seat 6: rudey4 ( $5,278 )
+Seat 7: PapaShango19 ( $3,504 )
+Seat 9: JeffersonFer ( $8,682 )
+rudey4 posts ante [$20]
+PapaShango19 posts ante [$20]
+JeffersonFer posts ante [$20]
+__KAfee__ posts ante [$20]
+Geminikcr posts ante [$20]
+MrWassy posts ante [$20]
+Jack9ospades posts ante [$20]
+Jaayson posts ante [$20]
+PapaShango19 posts small blind [$100]
+JeffersonFer posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 8c ]
+__KAfee__ calls [$200]
+Jack9ospades folds
+Jaayson folds
+Geminikcr calls [$200]
+MrWassy folds
+rudey4 raises [$1,260]
+PapaShango19 folds
+JeffersonFer folds
+__KAfee__ calls [$1,060]
+Geminikcr folds
+** Dealing flop ** [ Kh, 8d, 4d ]
+__KAfee__ bets [$2,656]
+rudey4 calls [$2,656]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 7s ]
+** Summary **
+__KAfee__ shows [ 6h, 5d ]
+rudey4 shows [ Ah, Ad ]
+__KAfee__ collected [ $8,492 ]
+
+
+
+#Game No : 463383858
+***** 888poker Hand History for Game 463383858 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 04:19:43
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $8,492 )
+Seat 2: Jack9ospades ( $1,440 )
+Seat 3: Jaayson ( $8,725 )
+Seat 4: Geminikcr ( $8,720 )
+Seat 5: MrWassy ( $2,540 )
+Seat 6: rudey4 ( $1,342 )
+Seat 7: PapaShango19 ( $3,384 )
+Seat 9: JeffersonFer ( $8,462 )
+Seat 10: veelox321 ( $4,500 )
+rudey4 posts ante [$20]
+PapaShango19 posts ante [$20]
+JeffersonFer posts ante [$20]
+__KAfee__ posts ante [$20]
+Geminikcr posts ante [$20]
+MrWassy posts ante [$20]
+Jack9ospades posts ante [$20]
+Jaayson posts ante [$20]
+veelox321 posts ante [$20]
+JeffersonFer posts small blind [$100]
+veelox321 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 7d ]
+__KAfee__ calls [$200]
+Jack9ospades folds
+Jaayson folds
+Geminikcr folds
+MrWassy folds
+rudey4 raises [$1,322]
+PapaShango19 folds
+JeffersonFer folds
+veelox321 folds
+__KAfee__ calls [$1,122]
+** Dealing flop ** [ Qc, 4s, Ah ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 3h ]
+** Summary **
+__KAfee__ shows [ Js, Ts ]
+rudey4 shows [ Jd, Th ]
+rudey4 collected [ $1,562 ]
+__KAfee__ collected [ $1,562 ]
+
+
+
+#Game No : 463383947
+***** 888poker Hand History for Game 463383947 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 04:20:37
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $8,712 )
+Seat 2: Jack9ospades ( $1,420 )
+Seat 3: Jaayson ( $8,705 )
+Seat 4: Geminikcr ( $8,700 )
+Seat 5: MrWassy ( $2,520 )
+Seat 6: rudey4 ( $1,562 )
+Seat 7: PapaShango19 ( $3,364 )
+Seat 9: JeffersonFer ( $8,342 )
+Seat 10: veelox321 ( $4,280 )
+rudey4 posts ante [$25]
+PapaShango19 posts ante [$25]
+JeffersonFer posts ante [$25]
+__KAfee__ posts ante [$25]
+Geminikcr posts ante [$25]
+MrWassy posts ante [$25]
+Jack9ospades posts ante [$25]
+Jaayson posts ante [$25]
+veelox321 posts ante [$25]
+veelox321 posts small blind [$125]
+__KAfee__ posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Td ]
+Jack9ospades folds
+Jaayson folds
+Geminikcr folds
+MrWassy folds
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+veelox321 raises [$4,130]
+__KAfee__ calls [$4,005]
+** Dealing flop ** [ 3c, Kh, 6h ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ Js ]
+** Summary **
+__KAfee__ shows [ Qs, Ts ]
+veelox321 shows [ 6s, 9d ]
+veelox321 collected [ $8,735 ]
+
+
+
+#Game No : 463384029
+***** 888poker Hand History for Game 463384029 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 04:21:30
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $4,432 )
+Seat 2: Jack9ospades ( $1,395 )
+Seat 3: Jaayson ( $8,680 )
+Seat 4: Geminikcr ( $8,675 )
+Seat 5: MrWassy ( $2,495 )
+Seat 6: rudey4 ( $1,537 )
+Seat 7: PapaShango19 ( $3,339 )
+Seat 9: JeffersonFer ( $8,317 )
+Seat 10: veelox321 ( $8,735 )
+rudey4 posts ante [$25]
+PapaShango19 posts ante [$25]
+JeffersonFer posts ante [$25]
+__KAfee__ posts ante [$25]
+Geminikcr posts ante [$25]
+MrWassy posts ante [$25]
+Jack9ospades posts ante [$25]
+Jaayson posts ante [$25]
+veelox321 posts ante [$25]
+__KAfee__ posts small blind [$125]
+Jack9ospades posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 3d ]
+Jaayson folds
+Geminikcr calls [$250]
+MrWassy folds
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+veelox321 raises [$725]
+__KAfee__ folds
+Jack9ospades folds
+Geminikcr calls [$475]
+** Dealing flop ** [ Ac, 8d, 8s ]
+Geminikcr checks
+veelox321 bets [$1,025]
+Geminikcr calls [$1,025]
+** Dealing turn ** [ 9s ]
+Geminikcr checks
+veelox321 checks
+** Dealing river ** [ 3c ]
+Geminikcr bets [$2,050]
+veelox321 raises [$6,960]
+Geminikcr calls [$4,850]
+** Summary **
+Geminikcr shows [ Ad, 5d ]
+veelox321 shows [ Td, Kh ]
+Geminikcr collected [ $17,900 ]
+
+
+
+#Game No : 463384165
+***** 888poker Hand History for Game 463384165 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 04:23:01
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $4,282 )
+Seat 2: Jack9ospades ( $1,120 )
+Seat 3: Jaayson ( $8,655 )
+Seat 4: Geminikcr ( $17,900 )
+Seat 5: MrWassy ( $2,470 )
+Seat 6: rudey4 ( $1,512 )
+Seat 7: PapaShango19 ( $3,314 )
+Seat 9: JeffersonFer ( $8,292 )
+Seat 10: veelox321 ( $3,060 )
+rudey4 posts ante [$25]
+PapaShango19 posts ante [$25]
+JeffersonFer posts ante [$25]
+__KAfee__ posts ante [$25]
+Geminikcr posts ante [$25]
+MrWassy posts ante [$25]
+Jack9ospades posts ante [$25]
+Jaayson posts ante [$25]
+veelox321 posts ante [$25]
+Jack9ospades posts small blind [$125]
+Jaayson posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 8d ]
+Geminikcr calls [$250]
+MrWassy folds
+rudey4 calls [$250]
+PapaShango19 folds
+JeffersonFer folds
+veelox321 folds
+__KAfee__ calls [$250]
+Jack9ospades folds
+Jaayson checks
+** Dealing flop ** [ Kc, Qs, Jh ]
+Jaayson checks
+Geminikcr checks
+rudey4 checks
+__KAfee__ checks
+** Dealing turn ** [ Js ]
+Jaayson checks
+Geminikcr checks
+rudey4 checks
+__KAfee__ checks
+** Dealing river ** [ 7d ]
+Jaayson bets [$250]
+Geminikcr folds
+rudey4 folds
+__KAfee__ folds
+** Summary **
+Jaayson did not show his hand
+Jaayson collected [ $1,350 ]
+
+
+
+#Game No : 463384342
+***** 888poker Hand History for Game 463384342 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 04:24:44
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $4,007 )
+Seat 2: Jack9ospades ( $970 )
+Seat 3: Jaayson ( $9,730 )
+Seat 4: Geminikcr ( $17,625 )
+Seat 5: MrWassy ( $2,445 )
+Seat 6: rudey4 ( $1,237 )
+Seat 7: PapaShango19 ( $3,289 )
+Seat 9: JeffersonFer ( $8,267 )
+Seat 10: veelox321 ( $3,035 )
+rudey4 posts ante [$25]
+PapaShango19 posts ante [$25]
+JeffersonFer posts ante [$25]
+__KAfee__ posts ante [$25]
+Geminikcr posts ante [$25]
+MrWassy posts ante [$25]
+Jack9ospades posts ante [$25]
+Jaayson posts ante [$25]
+veelox321 posts ante [$25]
+Jaayson posts small blind [$125]
+Geminikcr posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 5c ]
+MrWassy folds
+rudey4 folds
+PapaShango19 folds
+JeffersonFer folds
+veelox321 folds
+__KAfee__ folds
+Jack9ospades raises [$500]
+Jaayson folds
+Geminikcr calls [$250]
+** Dealing flop ** [ 7h, Jc, Td ]
+Geminikcr checks
+Jack9ospades bets [$445]
+Geminikcr calls [$445]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 8s ]
+** Summary **
+Jack9ospades shows [ Kc, Ac ]
+Geminikcr shows [ 8d, As ]
+Geminikcr collected [ $2,240 ]
+
+
+
+#Game No : 463384467
+***** 888poker Hand History for Game 463384467 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 04:26:07
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $3,982 )
+Seat 2: Jack9ospades ( $1,500 )
+Seat 3: Jaayson ( $9,580 )
+Seat 4: Geminikcr ( $18,895 )
+Seat 5: MrWassy ( $2,420 )
+Seat 6: rudey4 ( $1,212 )
+Seat 7: PapaShango19 ( $3,264 )
+Seat 9: JeffersonFer ( $8,242 )
+Seat 10: veelox321 ( $3,010 )
+rudey4 posts ante [$30]
+PapaShango19 posts ante [$30]
+JeffersonFer posts ante [$30]
+__KAfee__ posts ante [$30]
+Geminikcr posts ante [$30]
+MrWassy posts ante [$30]
+Jack9ospades posts ante [$30]
+Jaayson posts ante [$30]
+veelox321 posts ante [$30]
+Geminikcr posts small blind [$150]
+MrWassy posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 6c ]
+rudey4 raises [$1,182]
+PapaShango19 folds
+JeffersonFer folds
+veelox321 folds
+__KAfee__ calls [$1,182]
+Jack9ospades folds
+Jaayson calls [$1,182]
+Geminikcr folds
+MrWassy folds
+** Dealing flop ** [ 8d, 7d, 6s ]
+__KAfee__ bets [$2,770]
+Jaayson calls [$2,770]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ Ad ]
+** Summary **
+__KAfee__ shows [ 2c, 5c ]
+Jaayson shows [ Ah, Jh ]
+rudey4 shows [ As, 2h ]
+Jaayson collected [ $4,266 ]
+Jaayson collected [ $5,540 ]
+
+
+
+#Game No : 463384619
+***** 888poker Hand History for Game 463384619 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 04:27:43
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $3,000 )
+Seat 2: Jack9ospades ( $1,470 )
+Seat 3: Jaayson ( $15,404 )
+Seat 4: Geminikcr ( $18,715 )
+Seat 5: MrWassy ( $2,090 )
+Seat 6: rudey4 ( $1,500 )
+Seat 7: PapaShango19 ( $3,234 )
+Seat 9: JeffersonFer ( $8,212 )
+Seat 10: veelox321 ( $2,980 )
+rudey4 posts ante [$30]
+PapaShango19 posts ante [$30]
+JeffersonFer posts ante [$30]
+__KAfee__ posts ante [$30]
+Geminikcr posts ante [$30]
+MrWassy posts ante [$30]
+Jack9ospades posts ante [$30]
+Jaayson posts ante [$30]
+veelox321 posts ante [$30]
+MrWassy posts small blind [$150]
+rudey4 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Kd ]
+PapaShango19 folds
+JeffersonFer calls [$300]
+veelox321 folds
+__KAfee__ folds
+Jack9ospades raises [$600]
+Jaayson folds
+Geminikcr folds
+MrWassy folds
+rudey4 calls [$300]
+JeffersonFer calls [$300]
+** Dealing flop ** [ 2s, 6d, 2c ]
+rudey4 checks
+JeffersonFer checks
+Jack9ospades bets [$840]
+rudey4 folds
+JeffersonFer folds
+** Summary **
+Jack9ospades did not show his hand
+Jack9ospades collected [ $2,220 ]
+
+
+
+#Game No : 463384710
+***** 888poker Hand History for Game 463384710 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 04:28:59
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $2,970 )
+Seat 2: Jack9ospades ( $3,060 )
+Seat 3: Jaayson ( $15,374 )
+Seat 4: Geminikcr ( $18,685 )
+Seat 5: MrWassy ( $1,910 )
+Seat 6: rudey4 ( $870 )
+Seat 7: PapaShango19 ( $3,204 )
+Seat 9: JeffersonFer ( $7,582 )
+Seat 10: veelox321 ( $2,950 )
+rudey4 posts ante [$30]
+PapaShango19 posts ante [$30]
+JeffersonFer posts ante [$30]
+__KAfee__ posts ante [$30]
+Geminikcr posts ante [$30]
+MrWassy posts ante [$30]
+Jack9ospades posts ante [$30]
+Jaayson posts ante [$30]
+veelox321 posts ante [$30]
+rudey4 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6h ]
+JeffersonFer calls [$300]
+veelox321 folds
+__KAfee__ raises [$1,234]
+Jack9ospades folds
+Jaayson folds
+Geminikcr calls [$1,234]
+MrWassy folds
+rudey4 calls [$690]
+PapaShango19 folds
+JeffersonFer calls [$934]
+** Dealing flop ** [ Ad, Ks, 4d ]
+JeffersonFer checks
+__KAfee__ bets [$1,234]
+Geminikcr calls [$1,234]
+JeffersonFer folds
+** Dealing turn ** [ Jc ]
+__KAfee__ bets [$472]
+Geminikcr calls [$472]
+** Dealing river ** [ Th ]
+** Summary **
+__KAfee__ shows [ Jh, Qc ]
+Geminikcr shows [ Kh, Tc ]
+rudey4 shows [ Ac, 6c ]
+__KAfee__ collected [ $3,930 ]
+__KAfee__ collected [ $4,594 ]
+
+
+
+#Game No : 463384818
+***** 888poker Hand History for Game 463384818 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 04:30:22
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: __KAfee__ ( $8,524 )
+Seat 2: Jack9ospades ( $3,030 )
+Seat 3: Jaayson ( $15,344 )
+Seat 4: Geminikcr ( $15,715 )
+Seat 5: MrWassy ( $1,880 )
+Seat 7: PapaShango19 ( $2,874 )
+Seat 9: JeffersonFer ( $6,318 )
+Seat 10: veelox321 ( $2,920 )
+PapaShango19 posts ante [$40]
+JeffersonFer posts ante [$40]
+__KAfee__ posts ante [$40]
+Geminikcr posts ante [$40]
+MrWassy posts ante [$40]
+Jack9ospades posts ante [$40]
+Jaayson posts ante [$40]
+veelox321 posts ante [$40]
+PapaShango19 posts small blind [$200]
+JeffersonFer posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 4h ]
+veelox321 folds
+__KAfee__ raises [$3,500]
+Jack9ospades folds
+Jaayson folds
+Geminikcr calls [$3,500]
+MrWassy folds
+PapaShango19 folds
+JeffersonFer folds
+** Dealing flop ** [ 3s, 6c, 9c ]
+__KAfee__ bets [$4,984]
+Geminikcr folds
+** Summary **
+__KAfee__ did not show his hand
+__KAfee__ collected [ $7,920 ]
+
+
+
+#Game No : 463384904
+***** 888poker Hand History for Game 463384904 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 04:31:19
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: __KAfee__ ( $12,904 )
+Seat 2: Jack9ospades ( $2,990 )
+Seat 3: Jaayson ( $15,304 )
+Seat 4: Geminikcr ( $12,175 )
+Seat 5: MrWassy ( $1,840 )
+Seat 7: PapaShango19 ( $2,634 )
+Seat 9: JeffersonFer ( $5,878 )
+Seat 10: veelox321 ( $2,880 )
+PapaShango19 posts ante [$40]
+JeffersonFer posts ante [$40]
+__KAfee__ posts ante [$40]
+Geminikcr posts ante [$40]
+MrWassy posts ante [$40]
+Jack9ospades posts ante [$40]
+Jaayson posts ante [$40]
+veelox321 posts ante [$40]
+JeffersonFer posts small blind [$200]
+veelox321 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Qc ]
+__KAfee__ calls [$400]
+Jack9ospades folds
+Jaayson folds
+Geminikcr folds
+MrWassy calls [$400]
+PapaShango19 calls [$400]
+JeffersonFer calls [$200]
+veelox321 raises [$2,440]
+__KAfee__ folds
+MrWassy folds
+PapaShango19 calls [$2,194]
+JeffersonFer folds
+** Dealing flop ** [ Jc, 8d, Kc ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ 7c ]
+** Summary **
+PapaShango19 shows [ Js, Qc ]
+veelox321 shows [ 4s, Ks ]
+veelox321 collected [ $6,708 ]
+
+
+
+#Game No : 463385036
+***** 888poker Hand History for Game 463385036 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 04:32:37
+Tournament #64432225 $0.90 + $0.09 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: __KAfee__ ( $12,464 )
+Seat 2: Jack9ospades ( $2,950 )
+Seat 3: Jaayson ( $15,264 )
+Seat 4: Geminikcr ( $12,135 )
+Seat 5: MrWassy ( $1,400 )
+Seat 6: Flopit2Me ( $3,000 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: JeffersonFer ( $5,438 )
+Seat 10: veelox321 ( $6,954 )
+PapaShango19 posts ante [$40]
+JeffersonFer posts ante [$40]
+__KAfee__ posts ante [$40]
+Geminikcr posts ante [$40]
+MrWassy posts ante [$40]
+Jack9ospades posts ante [$40]
+Jaayson posts ante [$40]
+veelox321 posts ante [$40]
+Flopit2Me posts ante [$40]
+veelox321 posts small blind [$200]
+__KAfee__ posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, As ]
+Jack9ospades folds
+Jaayson calls [$400]
+Geminikcr folds
+MrWassy folds
+Flopit2Me calls [$400]
+PapaShango19 raises [$1,460]
+JeffersonFer folds
+veelox321 folds
+__KAfee__ calls [$1,060]
+Jaayson calls [$1,060]
+Flopit2Me calls [$1,060]
+** Dealing flop ** [ Jh, 7s, 8d ]
+__KAfee__ checks
+Jaayson checks
+Flopit2Me checks
+** Dealing turn ** [ 4s ]
+__KAfee__ bets [$400]
+Jaayson calls [$400]
+Flopit2Me folds
+** Dealing river ** [ 2d ]
+__KAfee__ bets [$800]
+Jaayson calls [$800]
+** Summary **
+__KAfee__ shows [ Qh, 2h ]
+Jaayson shows [ 4d, 5d ]
+PapaShango19 mucks [ 6c, As ]
+Jaayson collected [ $6,400 ]
+Jaayson collected [ $2,400 ]
+
+
+

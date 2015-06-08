@@ -1,0 +1,568 @@
+#Game No : 703355618
+***** 888poker Hand History for Game 703355618 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:00:25
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $2,000 )
+Seat 2: PapaShango19 ( $2,000 )
+Seat 3: craighutchin ( $2,000 )
+Seat 4: willyboy38m ( $2,000 )
+Seat 5: cantgettoomu ( $2,000 )
+Seat 6: glenda4848 ( $2,000 )
+Seat 7: ReeniGrl85 ( $2,000 )
+Seat 9: sewellp ( $2,000 )
+Seat 10: YunAlex ( $2,000 )
+cantgettoomu posts small blind [$10]
+glenda4848 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 9s ]
+ReeniGrl85 calls [$20]
+sewellp calls [$20]
+YunAlex folds
+wiccanred folds
+PapaShango19 folds
+craighutchin folds
+willyboy38m calls [$20]
+cantgettoomu calls [$10]
+glenda4848 checks
+** Dealing flop ** [ Qd, 5c, 2c ]
+cantgettoomu bets [$100]
+glenda4848 folds
+ReeniGrl85 folds
+sewellp calls [$100]
+willyboy38m calls [$100]
+** Dealing turn ** [ Th ]
+cantgettoomu bets [$300]
+sewellp folds
+willyboy38m folds
+** Summary **
+cantgettoomu did not show his hand
+cantgettoomu collected [ $400 ]
+
+
+
+#Game No : 703355717
+***** 888poker Hand History for Game 703355717 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:01:27
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $2,000 )
+Seat 2: PapaShango19 ( $2,000 )
+Seat 3: craighutchin ( $2,000 )
+Seat 4: willyboy38m ( $1,880 )
+Seat 5: cantgettoomu ( $2,280 )
+Seat 6: glenda4848 ( $1,980 )
+Seat 7: ReeniGrl85 ( $1,980 )
+Seat 9: sewellp ( $1,880 )
+Seat 10: YunAlex ( $2,000 )
+glenda4848 posts small blind [$10]
+ReeniGrl85 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Js ]
+sewellp calls [$20]
+YunAlex calls [$20]
+wiccanred calls [$20]
+PapaShango19 raises [$120]
+craighutchin folds
+willyboy38m folds
+cantgettoomu folds
+glenda4848 folds
+ReeniGrl85 folds
+sewellp calls [$100]
+YunAlex folds
+wiccanred calls [$100]
+** Dealing flop ** [ 4s, Qc, 5h ]
+sewellp checks
+wiccanred checks
+PapaShango19 bets [$120]
+sewellp folds
+wiccanred calls [$120]
+** Dealing turn ** [ Kd ]
+wiccanred checks
+PapaShango19 checks
+** Dealing river ** [ 6s ]
+wiccanred checks
+PapaShango19 checks
+** Summary **
+wiccanred shows [ 6d, 7c ]
+PapaShango19 mucks [ Ac, Js ]
+wiccanred collected [ $650 ]
+
+
+
+#Game No : 703355837
+***** 888poker Hand History for Game 703355837 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:02:49
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: wiccanred ( $2,410 )
+Seat 2: PapaShango19 ( $1,760 )
+Seat 3: andrew426 ( $2,000 )
+Seat 4: willyboy38m ( $1,880 )
+Seat 5: cantgettoomu ( $2,280 )
+Seat 6: glenda4848 ( $1,970 )
+Seat 7: ReeniGrl85 ( $1,960 )
+Seat 9: sewellp ( $1,760 )
+Seat 10: YunAlex ( $1,980 )
+ReeniGrl85 posts small blind [$10]
+sewellp posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 3c ]
+YunAlex raises [$60]
+wiccanred folds
+PapaShango19 calls [$60]
+andrew426 folds
+willyboy38m calls [$60]
+cantgettoomu calls [$60]
+glenda4848 folds
+ReeniGrl85 calls [$50]
+sewellp calls [$40]
+** Dealing flop ** [ 9s, Qs, 6c ]
+ReeniGrl85 bets [$20]
+sewellp calls [$20]
+YunAlex calls [$20]
+PapaShango19 folds
+willyboy38m calls [$20]
+cantgettoomu calls [$20]
+** Dealing turn ** [ Js ]
+ReeniGrl85 bets [$20]
+sewellp calls [$20]
+YunAlex calls [$20]
+willyboy38m folds
+cantgettoomu folds
+** Dealing river ** [ 9c ]
+ReeniGrl85 bets [$20]
+sewellp calls [$20]
+YunAlex folds
+** Summary **
+ReeniGrl85 shows [ Ac, 6h ]
+sewellp shows [ Jd, 6d ]
+sewellp collected [ $560 ]
+
+
+
+#Game No : 703355935
+***** 888poker Hand History for Game 703355935 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:03:54
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: PapaShango19 ( $1,700 )
+Seat 3: andrew426 ( $2,000 )
+Seat 4: willyboy38m ( $1,800 )
+Seat 5: cantgettoomu ( $2,200 )
+Seat 6: glenda4848 ( $1,970 )
+Seat 7: ReeniGrl85 ( $1,840 )
+Seat 9: sewellp ( $2,200 )
+Seat 10: YunAlex ( $1,880 )
+sewellp posts small blind [$10]
+YunAlex posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Qd ]
+PapaShango19 folds
+andrew426 calls [$20]
+willyboy38m folds
+cantgettoomu raises [$40]
+glenda4848 folds
+ReeniGrl85 calls [$40]
+sewellp calls [$30]
+YunAlex calls [$20]
+andrew426 calls [$20]
+** Dealing flop ** [ Ks, 9s, 5d ]
+sewellp bets [$20]
+YunAlex calls [$20]
+andrew426 calls [$20]
+cantgettoomu raises [$300]
+ReeniGrl85 folds
+sewellp folds
+YunAlex folds
+andrew426 folds
+** Summary **
+cantgettoomu collected [ $280 ]
+
+
+
+#Game No : 703356038
+***** 888poker Hand History for Game 703356038 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:05:03
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: aperlari ( $2,000 )
+Seat 2: PapaShango19 ( $1,700 )
+Seat 3: andrew426 ( $1,940 )
+Seat 4: willyboy38m ( $1,800 )
+Seat 5: cantgettoomu ( $2,420 )
+Seat 6: glenda4848 ( $1,970 )
+Seat 7: ReeniGrl85 ( $1,800 )
+Seat 9: sewellp ( $2,140 )
+Seat 10: YunAlex ( $1,820 )
+YunAlex posts small blind [$10]
+aperlari posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 8h ]
+PapaShango19 calls [$20]
+andrew426 folds
+willyboy38m folds
+cantgettoomu calls [$20]
+glenda4848 calls [$20]
+ReeniGrl85 calls [$20]
+sewellp raises [$150]
+YunAlex folds
+aperlari folds
+PapaShango19 folds
+cantgettoomu folds
+glenda4848 calls [$130]
+ReeniGrl85 calls [$130]
+** Dealing flop ** [ Qs, Ad, 6s ]
+glenda4848 checks
+ReeniGrl85 checks
+sewellp bets [$20]
+glenda4848 calls [$20]
+ReeniGrl85 calls [$20]
+** Dealing turn ** [ 9h ]
+glenda4848 checks
+ReeniGrl85 checks
+sewellp checks
+** Dealing river ** [ 6c ]
+glenda4848 checks
+ReeniGrl85 bets [$20]
+sewellp calls [$20]
+glenda4848 folds
+** Summary **
+ReeniGrl85 shows [ Jd, Qd ]
+sewellp mucks [ Js, Jh ]
+ReeniGrl85 collected [ $620 ]
+
+
+
+#Game No : 703356224
+***** 888poker Hand History for Game 703356224 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:07:15
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: aperlari ( $1,980 )
+Seat 2: PapaShango19 ( $1,680 )
+Seat 3: andrew426 ( $1,940 )
+Seat 4: willyboy38m ( $1,800 )
+Seat 5: cantgettoomu ( $2,400 )
+Seat 6: glenda4848 ( $1,800 )
+Seat 7: ReeniGrl85 ( $2,230 )
+Seat 9: sewellp ( $1,950 )
+Seat 10: YunAlex ( $1,810 )
+aperlari posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Jc ]
+andrew426 calls [$20]
+willyboy38m calls [$20]
+cantgettoomu calls [$20]
+glenda4848 folds
+ReeniGrl85 calls [$20]
+sewellp calls [$20]
+YunAlex folds
+aperlari folds
+PapaShango19 checks
+** Dealing flop ** [ 7s, Kd, 9h ]
+PapaShango19 checks
+andrew426 checks
+willyboy38m checks
+cantgettoomu checks
+ReeniGrl85 checks
+sewellp bets [$130]
+PapaShango19 folds
+andrew426 calls [$130]
+willyboy38m folds
+cantgettoomu calls [$130]
+ReeniGrl85 folds
+** Dealing turn ** [ 2s ]
+andrew426 checks
+cantgettoomu checks
+sewellp bets [$520]
+andrew426 folds
+cantgettoomu folds
+** Summary **
+sewellp did not show his hand
+sewellp collected [ $520 ]
+
+
+
+#Game No : 703356348
+***** 888poker Hand History for Game 703356348 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:08:50
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: aperlari ( $1,970 )
+Seat 2: PapaShango19 ( $1,660 )
+Seat 3: andrew426 ( $1,790 )
+Seat 4: willyboy38m ( $1,780 )
+Seat 5: cantgettoomu ( $2,250 )
+Seat 6: glenda4848 ( $1,800 )
+Seat 7: ReeniGrl85 ( $2,210 )
+Seat 9: sewellp ( $2,320 )
+Seat 10: YunAlex ( $1,810 )
+PapaShango19 posts small blind [$10]
+andrew426 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Ks ]
+willyboy38m folds
+cantgettoomu raises [$80]
+glenda4848 folds
+ReeniGrl85 folds
+sewellp calls [$80]
+YunAlex calls [$80]
+aperlari raises [$240]
+PapaShango19 folds
+andrew426 calls [$220]
+cantgettoomu calls [$160]
+sewellp calls [$160]
+YunAlex folds
+** Dealing flop ** [ 4h, 9h, 9c ]
+andrew426 checks
+cantgettoomu checks
+sewellp checks
+aperlari bets [$525]
+andrew426 folds
+cantgettoomu folds
+sewellp folds
+** Summary **
+aperlari did not show his hand
+aperlari collected [ $1,050 ]
+
+
+
+#Game No : 703356430
+***** 888poker Hand History for Game 703356430 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:09:56
+Tournament #64463232 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: aperlari ( $2,780 )
+Seat 2: PapaShango19 ( $1,650 )
+Seat 3: andrew426 ( $1,550 )
+Seat 4: willyboy38m ( $1,780 )
+Seat 5: cantgettoomu ( $2,010 )
+Seat 6: glenda4848 ( $1,800 )
+Seat 7: ReeniGrl85 ( $2,210 )
+Seat 9: sewellp ( $2,080 )
+Seat 10: YunAlex ( $1,730 )
+andrew426 posts small blind [$10]
+willyboy38m posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Qc ]
+cantgettoomu folds
+glenda4848 calls [$20]
+ReeniGrl85 calls [$20]
+sewellp folds
+YunAlex folds
+aperlari folds
+PapaShango19 raises [$60]
+andrew426 calls [$50]
+willyboy38m folds
+glenda4848 calls [$40]
+ReeniGrl85 calls [$40]
+** Dealing flop ** [ As, 2s, Js ]
+andrew426 checks
+glenda4848 checks
+ReeniGrl85 bets [$20]
+PapaShango19 raises [$80]
+andrew426 folds
+glenda4848 folds
+ReeniGrl85 calls [$60]
+** Dealing turn ** [ Qh ]
+ReeniGrl85 checks
+PapaShango19 bets [$210]
+ReeniGrl85 calls [$210]
+** Dealing river ** [ 3c ]
+ReeniGrl85 checks
+PapaShango19 bets [$100]
+ReeniGrl85 calls [$100]
+** Summary **
+PapaShango19 shows [ Jh, Qc ]
+ReeniGrl85 shows [ 2h, Ah ]
+ReeniGrl85 collected [ $1,040 ]
+
+
+
+#Game No : 703356623
+***** 888poker Hand History for Game 703356623 *****
+$15/$30 Blinds No Limit Holdem - *** 18 12 2014 05:12:30
+Tournament #64463232 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1:  ( $1,788 )
+Seat 2:  ( $1,970 )
+Seat 3:  ( $1,740 )
+Seat 5:  ( $1,440 )
+Seat 6:  ( $1,200 )
+Seat 7:  ( $1,290 )
+Seat 9:  ( $7,750 )
+Seat 10:  ( $1,250 )
+ posts small blind [$15]
+ posts big blind [$30]
+** Dealing down cards **
+Dealt to  [ 6d, 5d ]
+ folds
+ folds
+ raises [$60]
+ raises [$1,440]
+ folds
+ folds
+ calls [$1,425]
+ folds
+ raises [$1,680]
+ calls [$300]
+** Dealing flop ** [ 8d, 3s, Ad ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 9s ]
+** Summary **
+ shows [ 9d, Ah ]
+ shows [ 9c, 2s ]
+ shows [ Kd, Ac ]
+ collected [ $4,350 ]
+ collected [ $600 ]
+
+
+
+#Game No : 703356685
+***** 888poker Hand History for Game 703356685 *****
+$15/$30 Blinds No Limit Holdem - *** 18 12 2014 05:13:23
+Tournament #64463232 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Anbimi ( $1,788 )
+Seat 2: chliaba ( $1,970 )
+Seat 3: nflmiami61 ( $4,950 )
+Seat 4: YunAlex ( $1,355 )
+Seat 6: PapaShango19 ( $1,200 )
+Seat 7: allwinpoker ( $1,290 )
+Seat 9: terenova_tq ( $6,010 )
+Seat 10: Kadestorm11 ( $1,220 )
+Kadestorm11 posts small blind [$15]
+Anbimi posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4d ]
+chliaba folds
+nflmiami61 folds
+YunAlex folds
+PapaShango19 folds
+allwinpoker raises [$60]
+terenova_tq raises [$90]
+Kadestorm11 folds
+Anbimi folds
+allwinpoker calls [$30]
+** Dealing flop ** [ As, Kc, 9c ]
+allwinpoker bets [$112]
+terenova_tq raises [$224]
+allwinpoker folds
+** Summary **
+terenova_tq did not show his hand
+terenova_tq collected [ $449 ]
+
+
+
+#Game No : 703356745
+***** 888poker Hand History for Game 703356745 *****
+$15/$30 Blinds No Limit Holdem - *** 18 12 2014 05:14:18
+Tournament #64463232 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Anbimi ( $1,758 )
+Seat 2: chliaba ( $1,970 )
+Seat 3: nflmiami61 ( $4,950 )
+Seat 4: YunAlex ( $1,355 )
+Seat 6: PapaShango19 ( $1,200 )
+Seat 7: allwinpoker ( $1,088 )
+Seat 9: terenova_tq ( $6,257 )
+Seat 10: Kadestorm11 ( $1,205 )
+Anbimi posts small blind [$15]
+chliaba posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Kc ]
+nflmiami61 folds
+YunAlex calls [$30]
+PapaShango19 raises [$90]
+allwinpoker folds
+terenova_tq calls [$90]
+Kadestorm11 folds
+Anbimi folds
+chliaba folds
+YunAlex calls [$60]
+** Dealing flop ** [ 8d, 9c, 7c ]
+YunAlex checks
+PapaShango19 checks
+terenova_tq bets [$30]
+YunAlex calls [$30]
+PapaShango19 calls [$30]
+** Dealing turn ** [ 9h ]
+YunAlex checks
+PapaShango19 checks
+terenova_tq checks
+** Dealing river ** [ 3h ]
+YunAlex checks
+PapaShango19 checks
+terenova_tq checks
+** Summary **
+YunAlex shows [ Js, 4s ]
+PapaShango19 shows [ Ts, Kc ]
+terenova_tq shows [ 6h, Ac ]
+terenova_tq collected [ $405 ]
+
+
+
+#Game No : 703356831
+***** 888poker Hand History for Game 703356831 *****
+$15/$30 Blinds No Limit Holdem - *** 18 12 2014 05:15:29
+Tournament #64463232 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Anbimi ( $1,743 )
+Seat 2: chliaba ( $1,940 )
+Seat 3: nflmiami61 ( $4,950 )
+Seat 4: YunAlex ( $1,235 )
+Seat 5: ommibatta ( $2,000 )
+Seat 6: PapaShango19 ( $1,080 )
+Seat 7: allwinpoker ( $1,088 )
+Seat 9: terenova_tq ( $6,542 )
+Seat 10: Kadestorm11 ( $1,205 )
+chliaba posts small blind [$15]
+nflmiami61 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Jh ]
+YunAlex calls [$30]
+ommibatta calls [$30]
+PapaShango19 raises [$120]
+allwinpoker calls [$120]
+terenova_tq calls [$120]
+Kadestorm11 folds
+Anbimi folds
+chliaba folds
+nflmiami61 calls [$90]
+YunAlex calls [$90]
+ommibatta calls [$90]
+** Dealing flop ** [ Js, 5s, 5d ]
+nflmiami61 bets [$30]
+YunAlex folds
+ommibatta calls [$30]
+PapaShango19 raises [$427]
+allwinpoker raises [$968]
+terenova_tq raises [$1,509]
+nflmiami61 folds
+ommibatta folds
+PapaShango19 calls [$533]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 7h ]
+** Summary **
+PapaShango19 shows [ As, Jh ]
+allwinpoker shows [ 9s, 9h ]
+terenova_tq shows [ 5c, Ad ]
+terenova_tq collected [ $3,675 ]
+terenova_tq collected [ $16 ]
+
+
+

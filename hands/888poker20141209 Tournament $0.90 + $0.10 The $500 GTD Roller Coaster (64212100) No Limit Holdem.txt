@@ -1,0 +1,835 @@
+#Game No : 461181935
+***** 888poker Hand History for Game 461181935 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 16:10:28
+Tournament #64212100 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: s7611song ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: makadam32 ( $1,000 )
+Seat 4: Sasa1611 ( $1,000 )
+Seat 5: aldente. ( $1,000 )
+Seat 6: moumouette ( $1,000 )
+Seat 7: pistols1982 ( $1,000 )
+Seat 9: elmarito90 ( $1,000 )
+Seat 10: jackmaca ( $1,000 )
+pistols1982 posts small blind [$10]
+elmarito90 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 6d ]
+jackmaca folds
+s7611song raises [$40]
+PapaShango19 calls [$40]
+makadam32 calls [$40]
+Sasa1611 folds
+aldente. folds
+moumouette folds
+pistols1982 folds
+elmarito90 folds
+** Dealing flop ** [ 9h, Td, 4s ]
+s7611song checks
+PapaShango19 checks
+makadam32 checks
+** Dealing turn ** [ Qd ]
+s7611song checks
+PapaShango19 checks
+makadam32 checks
+** Dealing river ** [ Js ]
+s7611song checks
+PapaShango19 checks
+makadam32 checks
+** Summary **
+s7611song shows [ 8h, Ac ]
+PapaShango19 mucks [ 6s, 6d ]
+makadam32 mucks [ As, 2h ]
+s7611song collected [ $150 ]
+
+
+
+#Game No : 461182287
+***** 888poker Hand History for Game 461182287 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 16:11:58
+Tournament #64212100 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: s7611song ( $1,110 )
+Seat 2: PapaShango19 ( $960 )
+Seat 3: makadam32 ( $960 )
+Seat 4: Sasa1611 ( $1,000 )
+Seat 5: aldente. ( $1,000 )
+Seat 6: moumouette ( $1,000 )
+Seat 7: pistols1982 ( $990 )
+Seat 9: elmarito90 ( $980 )
+Seat 10: jackmaca ( $1,000 )
+elmarito90 posts small blind [$10]
+jackmaca posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 3h ]
+s7611song folds
+PapaShango19 folds
+makadam32 folds
+Sasa1611 calls [$20]
+aldente. folds
+moumouette folds
+pistols1982 folds
+elmarito90 calls [$10]
+jackmaca checks
+** Dealing flop ** [ Kc, 5c, Qc ]
+elmarito90 bets [$20]
+jackmaca folds
+Sasa1611 calls [$20]
+** Dealing turn ** [ 9h ]
+elmarito90 bets [$20]
+Sasa1611 calls [$20]
+** Dealing river ** [ 9d ]
+elmarito90 bets [$20]
+Sasa1611 calls [$20]
+** Summary **
+elmarito90 shows [ 8d, Ks ]
+Sasa1611 mucks [ 6h, 6d ]
+elmarito90 collected [ $180 ]
+
+
+
+#Game No : 461182516
+***** 888poker Hand History for Game 461182516 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 16:13:03
+Tournament #64212100 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: PapaShango19 ( $960 )
+Seat 3: makadam32 ( $960 )
+Seat 4: Sasa1611 ( $920 )
+Seat 5: aldente. ( $1,000 )
+Seat 6: moumouette ( $1,000 )
+Seat 7: pistols1982 ( $990 )
+Seat 9: elmarito90 ( $1,080 )
+Seat 10: jackmaca ( $980 )
+jackmaca posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 4d ]
+makadam32 raises [$40]
+Sasa1611 calls [$40]
+aldente. folds
+moumouette folds
+pistols1982 folds
+elmarito90 folds
+jackmaca folds
+PapaShango19 calls [$20]
+** Dealing flop ** [ Td, 6s, 8h ]
+PapaShango19 checks
+makadam32 bets [$100]
+Sasa1611 raises [$200]
+PapaShango19 folds
+makadam32 calls [$100]
+** Dealing turn ** [ 3c ]
+makadam32 checks
+Sasa1611 bets [$220]
+makadam32 folds
+** Summary **
+Sasa1611 collected [ $530 ]
+
+
+
+#Game No : 461182827
+***** 888poker Hand History for Game 461182827 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 16:14:14
+Tournament #64212100 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: PapaShango19 ( $920 )
+Seat 3: makadam32 ( $720 )
+Seat 4: Sasa1611 ( $1,210 )
+Seat 5: aldente. ( $1,000 )
+Seat 6: moumouette ( $1,000 )
+Seat 7: pistols1982 ( $990 )
+Seat 9: elmarito90 ( $1,080 )
+Seat 10: jackmaca ( $970 )
+PapaShango19 posts small blind [$10]
+makadam32 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 7h ]
+Sasa1611 folds
+aldente. folds
+moumouette calls [$20]
+pistols1982 folds
+elmarito90 folds
+jackmaca folds
+PapaShango19 raises [$50]
+makadam32 folds
+moumouette calls [$40]
+** Dealing flop ** [ 5s, Qs, 9c ]
+PapaShango19 bets [$60]
+moumouette raises [$120]
+PapaShango19 folds
+** Summary **
+moumouette collected [ $260 ]
+
+
+
+#Game No : 461182952
+***** 888poker Hand History for Game 461182952 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 16:14:58
+Tournament #64212100 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Erick0777 ( $1,000 )
+Seat 2: PapaShango19 ( $800 )
+Seat 3: makadam32 ( $700 )
+Seat 4: Sasa1611 ( $1,210 )
+Seat 5: aldente. ( $1,000 )
+Seat 6: moumouette ( $1,140 )
+Seat 7: pistols1982 ( $990 )
+Seat 9: LFS10 ( $1,000 )
+Seat 10: jackmaca ( $970 )
+makadam32 posts small blind [$10]
+Sasa1611 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 4h ]
+aldente. folds
+moumouette calls [$20]
+pistols1982 calls [$20]
+LFS10 raises [$82]
+jackmaca folds
+Erick0777 calls [$82]
+PapaShango19 folds
+makadam32 calls [$72]
+Sasa1611 folds
+moumouette calls [$62]
+pistols1982 calls [$62]
+** Dealing flop ** [ 5s, Ts, Td ]
+makadam32 checks
+moumouette checks
+pistols1982 checks
+LFS10 bets [$918]
+Erick0777 calls [$918]
+makadam32 folds
+moumouette folds
+pistols1982 folds
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Ad ]
+** Summary **
+Erick0777 shows [ As, Qs ]
+LFS10 shows [ Qh, Qd ]
+Erick0777 collected [ $2,266 ]
+
+
+
+#Game No : 461182954
+***** 888poker Hand History for Game 461182954 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 16:16:02
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: stacemj88 ( $865 )
+Seat 2: MEGADOM76 ( $1,000 )
+Seat 3: SASgeorgiev ( $820 )
+Seat 4: Vekideki ( $970 )
+Seat 5: Woooups ( $960 )
+Seat 7: johnstiegl ( $995 )
+Seat 9: Takshaka13 ( $860 )
+Seat 10: xWhistler ( $2,070 )
+Takshaka13 posts small blind [$10]
+xWhistler posts big blind [$20]
+** Dealing down cards **
+stacemj88 calls [$20]
+MEGADOM76 folds
+SASgeorgiev calls [$20]
+Vekideki calls [$20]
+Woooups folds
+johnstiegl folds
+Takshaka13 raises [$115]
+xWhistler folds
+stacemj88 calls [$105]
+SASgeorgiev calls [$105]
+Vekideki calls [$105]
+** Dealing flop ** [ 4c, 4d, 3s ]
+Takshaka13 bets [$260]
+stacemj88 calls [$260]
+SASgeorgiev folds
+Vekideki raises [$845]
+Takshaka13 folds
+stacemj88 folds
+** Summary **
+Vekideki collected [ $1,300 ]
+
+
+
+#Game No : 461183181
+***** 888poker Hand History for Game 461183181 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 16:16:12
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: stacemj88 ( $480 )
+Seat 2: MEGADOM76 ( $1,000 )
+Seat 3: SASgeorgiev ( $695 )
+Seat 4: Vekideki ( $1,885 )
+Seat 5: Woooups ( $960 )
+Seat 6: fatman0898 ( $1,000 )
+Seat 7: PapaShango19 ( $800 )
+Seat 9: Takshaka13 ( $475 )
+Seat 10: xWhistler ( $2,050 )
+xWhistler posts small blind [$15]
+stacemj88 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 5s ]
+MEGADOM76 calls [$30]
+SASgeorgiev folds
+Vekideki calls [$30]
+Woooups folds
+fatman0898 calls [$30]
+PapaShango19 folds
+Takshaka13 calls [$30]
+xWhistler raises [$165]
+stacemj88 folds
+MEGADOM76 calls [$150]
+Vekideki folds
+fatman0898 calls [$150]
+Takshaka13 raises [$445]
+xWhistler raises [$1,870]
+MEGADOM76 calls [$820]
+fatman0898 calls [$820]
+** Dealing flop ** [ 7h, 6s, Qs ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ As ]
+** Summary **
+MEGADOM76 shows [ Ts, Qd ]
+fatman0898 shows [ 2d, 2s ]
+Takshaka13 shows [ 8s, Js ]
+xWhistler shows [ 9h, 9s ]
+Takshaka13 collected [ $1,960 ]
+MEGADOM76 collected [ $1,575 ]
+
+
+
+#Game No : 461183408
+***** 888poker Hand History for Game 461183408 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 16:17:27
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: MEGADOM76 ( $1,575 )
+Seat 3: SASgeorgiev ( $695 )
+Seat 4: Vekideki ( $1,855 )
+Seat 5: Woooups ( $960 )
+Seat 6: fatman0898 ( $1,000 )
+Seat 7: PapaShango19 ( $800 )
+Seat 9: Takshaka13 ( $1,960 )
+Seat 10: xWhistler ( $1,050 )
+MEGADOM76 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 4d ]
+SASgeorgiev folds
+Vekideki calls [$30]
+Woooups folds
+fatman0898 folds
+PapaShango19 folds
+Takshaka13 raises [$90]
+xWhistler raises [$225]
+MEGADOM76 calls [$195]
+Vekideki folds
+Takshaka13 folds
+** Dealing flop ** [ 6s, 8s, Jd ]
+MEGADOM76 checks
+xWhistler bets [$285]
+MEGADOM76 calls [$285]
+** Dealing turn ** [ 7h ]
+MEGADOM76 checks
+xWhistler bets [$540]
+MEGADOM76 folds
+** Summary **
+xWhistler collected [ $1,140 ]
+
+
+
+#Game No : 461183605
+***** 888poker Hand History for Game 461183605 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 16:18:31
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 2: MEGADOM76 ( $1,065 )
+Seat 3: SASgeorgiev ( $695 )
+Seat 4: Vekideki ( $1,825 )
+Seat 5: Woooups ( $960 )
+Seat 6: fatman0898 ( $1,000 )
+Seat 7: PapaShango19 ( $800 )
+Seat 10: xWhistler ( $1,680 )
+MEGADOM76 posts small blind [$15]
+SASgeorgiev posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Jd ]
+Vekideki folds
+Woooups folds
+fatman0898 calls [$30]
+PapaShango19 folds
+xWhistler raises [$90]
+MEGADOM76 folds
+SASgeorgiev folds
+fatman0898 calls [$60]
+** Dealing flop ** [ 8c, Jh, 2s ]
+fatman0898 checks
+xWhistler checks
+** Dealing turn ** [ Td ]
+fatman0898 checks
+xWhistler bets [$112]
+fatman0898 calls [$112]
+** Dealing river ** [ 9s ]
+fatman0898 checks
+xWhistler checks
+** Summary **
+fatman0898 shows [ 6h, 6c ]
+xWhistler shows [ Ah, Tc ]
+xWhistler collected [ $449 ]
+
+
+
+#Game No : 461183825
+***** 888poker Hand History for Game 461183825 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 16:19:42
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: pistols1982 ( $908 )
+Seat 2: MEGADOM76 ( $1,050 )
+Seat 3: SASgeorgiev ( $665 )
+Seat 4: Vekideki ( $1,825 )
+Seat 5: Woooups ( $960 )
+Seat 6: fatman0898 ( $798 )
+Seat 7: PapaShango19 ( $800 )
+Seat 10: xWhistler ( $1,927 )
+SASgeorgiev posts small blind [$15]
+Vekideki posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Kh ]
+Woooups raises [$60]
+fatman0898 calls [$60]
+PapaShango19 folds
+xWhistler folds
+pistols1982 folds
+MEGADOM76 folds
+SASgeorgiev folds
+Vekideki calls [$30]
+** Dealing flop ** [ 6h, 5h, Tc ]
+Vekideki checks
+Woooups checks
+fatman0898 checks
+** Dealing turn ** [ 8s ]
+Vekideki checks
+Woooups checks
+fatman0898 bets [$30]
+Vekideki calls [$30]
+Woooups calls [$30]
+** Dealing river ** [ Qs ]
+Vekideki checks
+Woooups checks
+fatman0898 checks
+** Summary **
+Vekideki shows [ 3d, 4s ]
+Woooups shows [ Ac, Js ]
+fatman0898 shows [ 5s, 7s ]
+fatman0898 collected [ $285 ]
+
+
+
+#Game No : 461184064
+***** 888poker Hand History for Game 461184064 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 16:21:00
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: pistols1982 ( $908 )
+Seat 2: MEGADOM76 ( $1,050 )
+Seat 3: SASgeorgiev ( $650 )
+Seat 4: Vekideki ( $1,735 )
+Seat 5: Woooups ( $870 )
+Seat 6: fatman0898 ( $993 )
+Seat 7: PapaShango19 ( $800 )
+Seat 9: kajajaka30 ( $1,000 )
+Seat 10: xWhistler ( $1,927 )
+Vekideki posts small blind [$25]
+Woooups posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 6d ]
+fatman0898 folds
+PapaShango19 folds
+kajajaka30 raises [$500]
+xWhistler folds
+pistols1982 folds
+MEGADOM76 folds
+SASgeorgiev folds
+Vekideki folds
+Woooups folds
+** Summary **
+kajajaka30 did not show his hand
+kajajaka30 collected [ $125 ]
+
+
+
+#Game No : 461184191
+***** 888poker Hand History for Game 461184191 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 16:21:39
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: pistols1982 ( $908 )
+Seat 2: MEGADOM76 ( $1,050 )
+Seat 3: SASgeorgiev ( $650 )
+Seat 4: Vekideki ( $1,710 )
+Seat 5: Woooups ( $820 )
+Seat 6: fatman0898 ( $993 )
+Seat 7: PapaShango19 ( $800 )
+Seat 9: kajajaka30 ( $1,075 )
+Seat 10: xWhistler ( $1,927 )
+Woooups posts small blind [$25]
+fatman0898 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 7c ]
+PapaShango19 folds
+kajajaka30 folds
+xWhistler folds
+pistols1982 folds
+MEGADOM76 calls [$50]
+SASgeorgiev folds
+Vekideki calls [$50]
+Woooups calls [$25]
+fatman0898 checks
+** Dealing flop ** [ 4h, Qs, Jh ]
+Woooups checks
+fatman0898 checks
+MEGADOM76 bets [$100]
+Vekideki calls [$100]
+Woooups folds
+fatman0898 folds
+** Dealing turn ** [ 2s ]
+MEGADOM76 bets [$400]
+Vekideki calls [$400]
+** Dealing river ** [ Kd ]
+MEGADOM76 bets [$50]
+Vekideki raises [$1,160]
+MEGADOM76 calls [$450]
+** Summary **
+MEGADOM76 shows [ Qc, 7d ]
+Vekideki shows [ Kh, 5h ]
+Vekideki collected [ $2,200 ]
+
+
+
+#Game No : 461184642
+***** 888poker Hand History for Game 461184642 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 16:23:54
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: pistols1982 ( $908 )
+Seat 2: MEGADOM76 ( $1,000 )
+Seat 3: SASgeorgiev ( $650 )
+Seat 4: Vekideki ( $2,860 )
+Seat 5: Woooups ( $770 )
+Seat 6: fatman0898 ( $943 )
+Seat 7: PapaShango19 ( $800 )
+Seat 9: kajajaka30 ( $1,075 )
+fatman0898 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 9c ]
+kajajaka30 folds
+pistols1982 folds
+MEGADOM76 folds
+SASgeorgiev calls [$50]
+Vekideki calls [$50]
+Woooups folds
+fatman0898 folds
+PapaShango19 checks
+** Dealing flop ** [ 7s, 2d, 4s ]
+PapaShango19 checks
+SASgeorgiev bets [$175]
+Vekideki calls [$175]
+PapaShango19 folds
+** Dealing turn ** [ Qs ]
+SASgeorgiev checks
+Vekideki checks
+** Dealing river ** [ 2c ]
+SASgeorgiev checks
+Vekideki bets [$525]
+SASgeorgiev folds
+** Summary **
+Vekideki collected [ $525 ]
+
+
+
+#Game No : 461184979
+***** 888poker Hand History for Game 461184979 *****
+$50/$100 Blinds No Limit Holdem - *** 09 12 2014 16:25:30
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: pistols1982 ( $908 )
+Seat 2: MEGADOM76 ( $1,000 )
+Seat 3: SASgeorgiev ( $425 )
+Seat 4: Vekideki ( $3,160 )
+Seat 5: Woooups ( $770 )
+Seat 6: fatman0898 ( $918 )
+Seat 7: PapaShango19 ( $750 )
+Seat 9: kajajaka30 ( $1,075 )
+Seat 10: nalog1917 ( $1,000 )
+PapaShango19 posts small blind [$50]
+kajajaka30 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Tc ]
+nalog1917 folds
+pistols1982 folds
+MEGADOM76 calls [$100]
+SASgeorgiev raises [$300]
+Vekideki folds
+Woooups folds
+fatman0898 folds
+PapaShango19 folds
+kajajaka30 raises [$975]
+MEGADOM76 folds
+SASgeorgiev calls [$125]
+** Dealing flop ** [ Js, 5h, As ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 7h ]
+** Summary **
+SASgeorgiev shows [ 8h, 8s ]
+kajajaka30 shows [ Ah, Qh ]
+kajajaka30 collected [ $1,000 ]
+
+
+
+#Game No : 461185189
+***** 888poker Hand History for Game 461185189 *****
+$50/$100 Blinds No Limit Holdem - *** 09 12 2014 16:26:30
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: pistols1982 ( $908 )
+Seat 2: MEGADOM76 ( $900 )
+Seat 3: dm789 ( $1,000 )
+Seat 4: Vekideki ( $3,160 )
+Seat 5: Woooups ( $770 )
+Seat 6: fatman0898 ( $918 )
+Seat 7: PapaShango19 ( $700 )
+Seat 9: kajajaka30 ( $1,650 )
+Seat 10: nalog1917 ( $1,000 )
+kajajaka30 posts small blind [$50]
+nalog1917 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Qs ]
+pistols1982 folds
+MEGADOM76 calls [$100]
+dm789 raises [$200]
+Vekideki calls [$200]
+Woooups folds
+fatman0898 raises [$918]
+PapaShango19 calls [$700]
+kajajaka30 folds
+nalog1917 folds
+MEGADOM76 folds
+dm789 calls [$718]
+Vekideki folds
+** Dealing flop ** [ Qd, Tc, 7c ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ Jd ]
+** Summary **
+dm789 shows [ Jh, Ac ]
+fatman0898 shows [ Ks, Ad ]
+PapaShango19 shows [ Qc, Qs ]
+fatman0898 collected [ $2,550 ]
+fatman0898 collected [ $436 ]
+
+
+
+#Game No : 461185411
+***** 888poker Hand History for Game 461185411 *****
+$50/$100 Blinds No Limit Holdem - *** 09 12 2014 16:27:36
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: MEGADOM76 ( $800 )
+Seat 3: dm789 ( $1,082 )
+Seat 4: Vekideki ( $2,960 )
+Seat 5: Woooups ( $770 )
+Seat 6: fatman0898 ( $2,986 )
+Seat 7: PapaShango19 ( $1,000 )
+Seat 9: kajajaka30 ( $1,600 )
+Seat 10: nalog1917 ( $900 )
+nalog1917 posts small blind [$50]
+MEGADOM76 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 3c ]
+dm789 folds
+Vekideki folds
+Woooups folds
+fatman0898 raises [$350]
+PapaShango19 folds
+kajajaka30 folds
+nalog1917 folds
+MEGADOM76 calls [$250]
+** Dealing flop ** [ Jd, 9h, 8c ]
+MEGADOM76 checks
+fatman0898 bets [$100]
+MEGADOM76 folds
+** Summary **
+fatman0898 did not show his hand
+fatman0898 collected [ $750 ]
+
+
+
+#Game No : 461185552
+***** 888poker Hand History for Game 461185552 *****
+$50/$100 Blinds No Limit Holdem - *** 09 12 2014 16:28:15
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: MEGADOM76 ( $450 )
+Seat 3: dm789 ( $1,082 )
+Seat 4: Vekideki ( $2,960 )
+Seat 5: Woooups ( $770 )
+Seat 6: fatman0898 ( $3,386 )
+Seat 7: PapaShango19 ( $1,000 )
+Seat 9: kajajaka30 ( $1,600 )
+Seat 10: nalog1917 ( $850 )
+MEGADOM76 posts small blind [$50]
+dm789 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Qh ]
+Vekideki raises [$350]
+Woooups folds
+fatman0898 folds
+PapaShango19 folds
+kajajaka30 folds
+nalog1917 folds
+MEGADOM76 raises [$400]
+dm789 raises [$982]
+Vekideki calls [$732]
+** Dealing flop ** [ 7h, 7s, 5s ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ 9s ]
+** Summary **
+MEGADOM76 shows [ 3d, Ah ]
+dm789 shows [ Kc, Kd ]
+Vekideki shows [ Ad, Kh ]
+dm789 collected [ $1,350 ]
+dm789 collected [ $1,264 ]
+
+
+
+#Game No : 461185735
+***** 888poker Hand History for Game 461185735 *****
+$50/$100 Blinds No Limit Holdem - *** 09 12 2014 16:29:00
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 3: dm789 ( $2,614 )
+Seat 4: Vekideki ( $1,878 )
+Seat 5: Woooups ( $770 )
+Seat 6: fatman0898 ( $3,386 )
+Seat 7: PapaShango19 ( $1,000 )
+Seat 9: kajajaka30 ( $1,600 )
+Seat 10: nalog1917 ( $850 )
+dm789 posts small blind [$50]
+Vekideki posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 2c ]
+Woooups folds
+fatman0898 folds
+PapaShango19 folds
+kajajaka30 folds
+nalog1917 raises [$850]
+dm789 folds
+Vekideki folds
+** Summary **
+nalog1917 collected [ $250 ]
+
+
+
+#Game No : 461185874
+***** 888poker Hand History for Game 461185874 *****
+$50/$100 Blinds No Limit Holdem - *** 09 12 2014 16:29:32
+Tournament #64212100 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: FTwOnMyWay ( $2,700 )
+Seat 2: dean068 ( $1,000 )
+Seat 3: dm789 ( $2,564 )
+Seat 4: Vekideki ( $1,778 )
+Seat 5: Woooups ( $770 )
+Seat 6: fatman0898 ( $3,386 )
+Seat 7: PapaShango19 ( $1,000 )
+Seat 9: kajajaka30 ( $1,600 )
+Seat 10: nalog1917 ( $1,000 )
+Vekideki posts small blind [$50]
+Woooups posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 2c ]
+fatman0898 folds
+PapaShango19 folds
+kajajaka30 calls [$100]
+nalog1917 folds
+FTwOnMyWay folds
+dean068 calls [$100]
+dm789 calls [$100]
+Vekideki calls [$50]
+Woooups checks
+** Dealing flop ** [ 6c, 8s, 5c ]
+Vekideki bets [$1,678]
+Woooups folds
+kajajaka30 folds
+dean068 folds
+dm789 folds
+** Summary **
+Vekideki collected [ $500 ]
+
+
+
+#Game No : 461186217
+***** 888poker Hand History for Game 461186217 *****
+$75/$150 Blinds No Limit Holdem - *** 09 12 2014 16:31:01
+Tournament #64212100 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1:  ( $1,850 )
+Seat 2:  ( $3,286 )
+Seat 3:  ( $1,000 )
+Seat 5:  ( $1,175 )
+Seat 6:  ( $1,000 )
+Seat 7:  ( $2,725 )
+Seat 9:  ( $2,020 )
+Seat 10:  ( $1,105 )
+ posts small blind [$75]
+ posts big blind [$150]
+** Dealing down cards **
+Dealt to  [ Qs, Qh ]
+ folds
+ folds
+ raises [$525]
+ folds
+ folds
+ folds
+ calls [$450]
+ raises [$850]
+ calls [$475]
+ calls [$475]
+** Dealing flop ** [ Ks, 9h, 7s ]
+ checks
+ checks
+** Dealing turn ** [ 2d ]
+ checks
+ bets [$450]
+ calls [$450]
+** Dealing river ** [ Kd ]
+ checks
+ bets [$1,275]
+ folds
+** Summary **
+ shows [ Qs, Qh ]
+ shows [ Ah, Kc ]
+ collected [ $3,000 ]
+ collected [ $900 ]
+
+
+

@@ -1,0 +1,2580 @@
+#Game No : 486814312
+***** 888poker Hand History for Game 486814312 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 13:45:17
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: yarek1985 ( $1,500 )
+Seat 2: nicolaas16 ( $1,500 )
+Seat 4: hamoudim ( $1,500 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: zigiscrew ( $1,500 )
+Seat 9: sd01000 ( $1,500 )
+hamoudim posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Td ]
+zigiscrew folds
+sd01000 folds
+yarek1985 calls [$20]
+nicolaas16 calls [$20]
+hamoudim folds
+PapaShango19 checks
+** Dealing flop ** [ Ts, Ad, Ac ]
+PapaShango19 checks
+yarek1985 bets [$140]
+nicolaas16 folds
+PapaShango19 folds
+** Summary **
+yarek1985 did not show his hand
+yarek1985 collected [ $70 ]
+
+
+
+#Game No : 486814656
+***** 888poker Hand History for Game 486814656 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 13:46:37
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: yarek1985 ( $1,550 )
+Seat 2: nicolaas16 ( $1,480 )
+Seat 4: hamoudim ( $2,990 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: zigiscrew ( $1,500 )
+Seat 9: sd01000 ( $1,500 )
+PapaShango19 posts small blind [$10]
+zigiscrew posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 3h ]
+sd01000 folds
+yarek1985 calls [$20]
+nicolaas16 calls [$20]
+hamoudim calls [$20]
+PapaShango19 folds
+zigiscrew raises [$1,480]
+yarek1985 raises [$1,530]
+nicolaas16 calls [$1,460]
+hamoudim calls [$1,530]
+** Dealing flop ** [ 5c, 8d, 5h ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 8s ]
+** Summary **
+yarek1985 shows [ Td, Kd ]
+nicolaas16 shows [ As, 9c ]
+hamoudim shows [ 6d, 4d ]
+zigiscrew shows [ Ad, Qc ]
+hamoudim collected [ $5,930 ]
+hamoudim collected [ $60 ]
+hamoudim collected [ $100 ]
+
+
+
+#Game No : 486815075
+***** 888poker Hand History for Game 486815075 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 13:48:17
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: yarek1985 ( $3,000 )
+Seat 2: nicolaas16 ( $3,000 )
+Seat 4: hamoudim ( $7,530 )
+Seat 6: PapaShango19 ( $1,470 )
+yarek1985 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Kc ]
+nicolaas16 calls [$20]
+hamoudim calls [$20]
+PapaShango19 raises [$60]
+yarek1985 calls [$40]
+nicolaas16 calls [$40]
+hamoudim calls [$40]
+** Dealing flop ** [ 5d, Jc, 3c ]
+yarek1985 checks
+nicolaas16 checks
+hamoudim checks
+PapaShango19 checks
+** Dealing turn ** [ Qc ]
+yarek1985 checks
+nicolaas16 checks
+hamoudim checks
+PapaShango19 bets [$120]
+yarek1985 folds
+nicolaas16 folds
+hamoudim folds
+** Summary **
+PapaShango19 collected [ $240 ]
+
+
+
+#Game No : 486815369
+***** 888poker Hand History for Game 486815369 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 13:49:37
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 2: nicolaas16 ( $2,940 )
+Seat 4: hamoudim ( $7,470 )
+Seat 6: PapaShango19 ( $1,650 )
+nicolaas16 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Qs ]
+hamoudim folds
+PapaShango19 folds
+** Summary **
+nicolaas16 collected [ $20 ]
+
+
+
+#Game No : 486815409
+***** 888poker Hand History for Game 486815409 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 13:49:45
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nicolaas16 ( $2,940 )
+Seat 4: hamoudim ( $7,470 )
+Seat 6: PapaShango19 ( $1,650 )
+Seat 7: marekkoszmar ( $1,500 )
+nicolaas16 posts small blind [$10]
+hamoudim posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 9d ]
+PapaShango19 folds
+marekkoszmar folds
+nicolaas16 calls [$10]
+hamoudim raises [$40]
+nicolaas16 calls [$40]
+** Dealing flop ** [ 9h, 3c, 7c ]
+nicolaas16 checks
+hamoudim bets [$120]
+nicolaas16 folds
+** Summary **
+hamoudim collected [ $120 ]
+
+
+
+#Game No : 486815556
+***** 888poker Hand History for Game 486815556 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 13:50:24
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: nicolaas16 ( $2,880 )
+Seat 4: hamoudim ( $7,530 )
+Seat 6: PapaShango19 ( $1,650 )
+Seat 7: marekkoszmar ( $1,500 )
+Seat 9: zil001 ( $1,500 )
+hamoudim posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4h ]
+marekkoszmar folds
+zil001 calls [$20]
+nicolaas16 calls [$20]
+hamoudim raises [$90]
+PapaShango19 folds
+zil001 calls [$80]
+nicolaas16 calls [$80]
+** Dealing flop ** [ 7c, 8h, 4c ]
+hamoudim bets [$160]
+zil001 folds
+nicolaas16 calls [$160]
+** Dealing turn ** [ Ac ]
+hamoudim checks
+nicolaas16 checks
+** Dealing river ** [ Jh ]
+hamoudim checks
+nicolaas16 checks
+** Summary **
+hamoudim shows [ Qh, 6h ]
+nicolaas16 shows [ 7h, Kh ]
+nicolaas16 collected [ $640 ]
+
+
+
+#Game No : 486815781
+***** 888poker Hand History for Game 486815781 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 13:51:21
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: nicolaas16 ( $3,260 )
+Seat 4: hamoudim ( $7,270 )
+Seat 6: PapaShango19 ( $1,630 )
+Seat 7: marekkoszmar ( $1,500 )
+Seat 9: zil001 ( $1,400 )
+PapaShango19 posts small blind [$15]
+marekkoszmar posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Th ]
+zil001 calls [$30]
+nicolaas16 calls [$30]
+hamoudim calls [$30]
+PapaShango19 raises [$75]
+marekkoszmar calls [$60]
+zil001 calls [$60]
+nicolaas16 calls [$60]
+hamoudim calls [$60]
+** Dealing flop ** [ 2c, Jc, As ]
+PapaShango19 bets [$225]
+marekkoszmar folds
+zil001 calls [$225]
+nicolaas16 calls [$225]
+hamoudim calls [$225]
+** Dealing turn ** [ 7h ]
+PapaShango19 bets [$1,315]
+zil001 folds
+nicolaas16 folds
+hamoudim folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,350 ]
+
+
+
+#Game No : 486816026
+***** 888poker Hand History for Game 486816026 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 13:52:19
+Tournament #64032058 $1.70 + $0.30 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: nicolaas16 ( $2,945 )
+Seat 4: hamoudim ( $6,955 )
+Seat 6: PapaShango19 ( $2,665 )
+Seat 7: marekkoszmar ( $1,410 )
+Seat 9: zil001 ( $1,085 )
+marekkoszmar posts small blind [$15]
+zil001 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Kh ]
+nicolaas16 folds
+hamoudim folds
+PapaShango19 raises [$60]
+marekkoszmar folds
+zil001 raises [$240]
+PapaShango19 folds
+** Summary **
+zil001 did not show his hand
+zil001 collected [ $135 ]
+
+
+
+#Game No : 486816455
+***** 888poker Hand History for Game 486816455 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 13:54:08
+Tournament #64032058 $1.70 + $0.30 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1:  ( $2,880 )
+Seat 2:  ( $1,610 )
+Seat 4:  ( $2,605 )
+Seat 6:  ( $887 )
+Seat 9:  ( $3,000 )
+ posts small blind [$15]
+ posts big blind [$30]
+** Dealing down cards **
+Dealt to  [ 6s, 4d ]
+ folds
+ folds
+ folds
+ calls [$15]
+ checks
+** Dealing flop ** [ 2c, 4h, 7c ]
+ checks
+ checks
+** Dealing turn ** [ 4s ]
+ checks
+ bets [$52]
+ folds
+** Summary **
+ did not show his hand
+ collected [ $60 ]
+
+
+
+#Game No : 486816640
+***** 888poker Hand History for Game 486816640 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 13:54:51
+Tournament #64032058 $1.70 + $0.30 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: tripleplay18 ( $2,850 )
+Seat 2: HAJMUS ( $1,640 )
+Seat 4: PapaShango19 ( $2,605 )
+Seat 6: Luckydmi1 ( $887 )
+Seat 9: helltell14 ( $3,000 )
+HAJMUS posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Qh ]
+Luckydmi1 raises [$887]
+helltell14 calls [$887]
+tripleplay18 folds
+HAJMUS folds
+PapaShango19 folds
+** Dealing flop ** [ 8s, 9c, Kc ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Qd ]
+** Summary **
+Luckydmi1 shows [ Kd, Ah ]
+helltell14 shows [ Jc, Tc ]
+helltell14 collected [ $1,819 ]
+
+
+
+#Game No : 486817678
+***** 888poker Hand History for Game 486817678 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 13:59:59
+Tournament #64032058 $1.70 + $0.30 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: tripleplay18 ( $2,850 )
+Seat 2: HAJMUS ( $1,625 )
+Seat 4: PapaShango19 ( $2,575 )
+Seat 6: Luckydmi1 ( $1,500 )
+Seat 7: bonchev2 ( $1,500 )
+Seat 9: helltell14 ( $3,932 )
+PapaShango19 posts small blind [$15]
+Luckydmi1 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Kc ]
+bonchev2 folds
+helltell14 folds
+tripleplay18 folds
+HAJMUS folds
+PapaShango19 folds
+** Summary **
+Luckydmi1 did not show his hand
+Luckydmi1 collected [ $45 ]
+
+
+
+#Game No : 486817759
+***** 888poker Hand History for Game 486817759 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 14:00:22
+Tournament #64032058 $1.70 + $0.30 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: tripleplay18 ( $2,850 )
+Seat 2: HAJMUS ( $1,625 )
+Seat 4: PapaShango19 ( $2,560 )
+Seat 6: Luckydmi1 ( $1,515 )
+Seat 7: bonchev2 ( $1,500 )
+Seat 9: helltell14 ( $3,932 )
+Luckydmi1 posts small blind [$15]
+bonchev2 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6c ]
+helltell14 calls [$30]
+tripleplay18 folds
+HAJMUS folds
+PapaShango19 raises [$60]
+Luckydmi1 calls [$45]
+bonchev2 raises [$1,470]
+helltell14 calls [$1,470]
+PapaShango19 folds
+Luckydmi1 folds
+** Dealing flop ** [ 6s, 4d, 6d ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 5d ]
+** Summary **
+bonchev2 shows [ Qs, Ac ]
+helltell14 shows [ 3d, Ad ]
+helltell14 collected [ $3,120 ]
+
+
+
+#Game No : 486818038
+***** 888poker Hand History for Game 486818038 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 14:01:45
+Tournament #64032058 $1.70 + $0.30 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: tripleplay18 ( $2,850 )
+Seat 2: HAJMUS ( $1,625 )
+Seat 4: PapaShango19 ( $2,500 )
+Seat 6: Luckydmi1 ( $1,455 )
+Seat 7: bonchev2 ( $1,500 )
+Seat 9: helltell14 ( $5,552 )
+bonchev2 posts small blind [$15]
+helltell14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6s ]
+tripleplay18 folds
+HAJMUS folds
+PapaShango19 calls [$30]
+Luckydmi1 folds
+bonchev2 folds
+helltell14 raises [$75]
+PapaShango19 calls [$75]
+** Dealing flop ** [ Jh, Ah, 8d ]
+helltell14 checks
+PapaShango19 checks
+** Dealing turn ** [ 7d ]
+helltell14 checks
+PapaShango19 checks
+** Dealing river ** [ Jc ]
+helltell14 checks
+PapaShango19 checks
+** Summary **
+helltell14 shows [ 5d, 5s ]
+PapaShango19 mucks [ 9s, 6s ]
+helltell14 collected [ $225 ]
+
+
+
+#Game No : 486818208
+***** 888poker Hand History for Game 486818208 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:02:27
+Tournament #64032058 $1.70 + $0.30 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: tripleplay18 ( $2,850 )
+Seat 2: HAJMUS ( $1,625 )
+Seat 4: PapaShango19 ( $2,395 )
+Seat 6: Luckydmi1 ( $1,455 )
+Seat 7: bonchev2 ( $1,485 )
+Seat 9: helltell14 ( $5,672 )
+helltell14 posts small blind [$25]
+tripleplay18 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, As ]
+HAJMUS raises [$122]
+PapaShango19 raises [$444]
+Luckydmi1 folds
+bonchev2 raises [$1,485]
+helltell14 folds
+tripleplay18 folds
+HAJMUS folds
+PapaShango19 calls [$1,041]
+** Dealing flop ** [ 4s, 8s, 6h ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 2d ]
+** Summary **
+PapaShango19 shows [ Ad, As ]
+bonchev2 shows [ Ks, Ac ]
+PapaShango19 collected [ $3,167 ]
+
+
+
+#Game No : 486818388
+***** 888poker Hand History for Game 486818388 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:03:21
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Jadies22 ( $880 )
+Seat 2: GarethBelfie ( $3,024 )
+Seat 4: nicolaas16 ( $1,325 )
+Seat 6: ChaoNash ( $1,744 )
+Seat 9: AKatyrev ( $3,075 )
+GarethBelfie posts small blind [$25]
+nicolaas16 posts big blind [$50]
+** Dealing down cards **
+ChaoNash folds
+AKatyrev folds
+Jadies22 folds
+GarethBelfie folds
+** Summary **
+nicolaas16 collected [ $75 ]
+
+
+
+#Game No : 486818444
+***** 888poker Hand History for Game 486818444 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:03:29
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $880 )
+Seat 2: GarethBelfie ( $2,999 )
+Seat 4: nicolaas16 ( $1,350 )
+Seat 6: ChaoNash ( $1,744 )
+Seat 7: PapaShango19 ( $4,077 )
+Seat 9: AKatyrev ( $3,075 )
+nicolaas16 posts small blind [$25]
+ChaoNash posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ac ]
+PapaShango19 folds
+AKatyrev raises [$131]
+Jadies22 folds
+GarethBelfie folds
+nicolaas16 folds
+ChaoNash folds
+** Summary **
+AKatyrev did not show his hand
+AKatyrev collected [ $125 ]
+
+
+
+#Game No : 486818594
+***** 888poker Hand History for Game 486818594 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:04:06
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $880 )
+Seat 2: GarethBelfie ( $2,999 )
+Seat 4: nicolaas16 ( $1,325 )
+Seat 6: ChaoNash ( $1,694 )
+Seat 7: PapaShango19 ( $4,077 )
+Seat 9: AKatyrev ( $3,150 )
+ChaoNash posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 3h ]
+AKatyrev calls [$50]
+Jadies22 folds
+GarethBelfie calls [$50]
+nicolaas16 raises [$1,325]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+GarethBelfie folds
+** Summary **
+nicolaas16 did not show his hand
+nicolaas16 collected [ $225 ]
+
+
+
+#Game No : 486818727
+***** 888poker Hand History for Game 486818727 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:04:38
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $880 )
+Seat 2: GarethBelfie ( $2,949 )
+Seat 4: nicolaas16 ( $1,500 )
+Seat 6: ChaoNash ( $1,669 )
+Seat 7: PapaShango19 ( $4,027 )
+Seat 9: AKatyrev ( $3,100 )
+PapaShango19 posts small blind [$25]
+AKatyrev posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Jc ]
+Jadies22 calls [$50]
+GarethBelfie folds
+nicolaas16 folds
+ChaoNash calls [$50]
+PapaShango19 calls [$25]
+AKatyrev checks
+** Dealing flop ** [ 4d, 5h, 2h ]
+PapaShango19 checks
+AKatyrev bets [$150]
+Jadies22 folds
+ChaoNash calls [$150]
+PapaShango19 folds
+** Dealing turn ** [ 8h ]
+AKatyrev checks
+ChaoNash checks
+** Dealing river ** [ 9d ]
+AKatyrev checks
+ChaoNash checks
+** Summary **
+AKatyrev shows [ 2s, 4c ]
+ChaoNash mucks [ Kd, 6h ]
+AKatyrev collected [ $500 ]
+
+
+
+#Game No : 486818968
+***** 888poker Hand History for Game 486818968 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:05:39
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $830 )
+Seat 2: GarethBelfie ( $2,949 )
+Seat 4: nicolaas16 ( $1,500 )
+Seat 6: ChaoNash ( $1,469 )
+Seat 7: PapaShango19 ( $3,977 )
+Seat 9: AKatyrev ( $3,400 )
+AKatyrev posts small blind [$25]
+Jadies22 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Td ]
+GarethBelfie folds
+nicolaas16 folds
+ChaoNash raises [$131]
+PapaShango19 calls [$131]
+AKatyrev folds
+Jadies22 folds
+** Dealing flop ** [ 3s, 9c, Th ]
+ChaoNash bets [$337]
+PapaShango19 calls [$337]
+** Dealing turn ** [ 3c ]
+ChaoNash bets [$1,001]
+PapaShango19 calls [$1,001]
+** Dealing river ** [ 3d ]
+** Summary **
+ChaoNash shows [ Ah, Tc ]
+PapaShango19 shows [ Ts, Td ]
+PapaShango19 collected [ $3,013 ]
+
+
+
+#Game No : 486819373
+***** 888poker Hand History for Game 486819373 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:07:11
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $780 )
+Seat 2: GarethBelfie ( $2,949 )
+Seat 4: nicolaas16 ( $1,500 )
+Seat 6: ChaoNash ( $3,000 )
+Seat 7: PapaShango19 ( $5,521 )
+Seat 9: AKatyrev ( $3,375 )
+Jadies22 posts small blind [$25]
+GarethBelfie posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Kd ]
+nicolaas16 folds
+ChaoNash folds
+PapaShango19 folds
+AKatyrev calls [$50]
+Jadies22 folds
+GarethBelfie checks
+** Dealing flop ** [ Ts, 5c, Jd ]
+GarethBelfie checks
+AKatyrev bets [$125]
+GarethBelfie folds
+** Summary **
+AKatyrev did not show his hand
+AKatyrev collected [ $125 ]
+
+
+
+#Game No : 486819571
+***** 888poker Hand History for Game 486819571 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 14:07:59
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $755 )
+Seat 2: GarethBelfie ( $2,899 )
+Seat 4: nicolaas16 ( $1,500 )
+Seat 6: ChaoNash ( $3,000 )
+Seat 7: PapaShango19 ( $5,521 )
+Seat 9: AKatyrev ( $3,450 )
+GarethBelfie posts small blind [$25]
+nicolaas16 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 8h ]
+ChaoNash calls [$50]
+PapaShango19 calls [$50]
+AKatyrev folds
+Jadies22 calls [$50]
+GarethBelfie folds
+nicolaas16 checks
+** Dealing flop ** [ Jc, 3c, 9d ]
+nicolaas16 bets [$50]
+ChaoNash folds
+PapaShango19 folds
+Jadies22 calls [$50]
+** Dealing turn ** [ Qd ]
+nicolaas16 checks
+Jadies22 checks
+** Dealing river ** [ Qh ]
+nicolaas16 checks
+Jadies22 checks
+** Summary **
+nicolaas16 shows [ 5d, Jd ]
+Jadies22 mucks [ Ah, Kd ]
+nicolaas16 collected [ $325 ]
+
+
+
+#Game No : 486819820
+***** 888poker Hand History for Game 486819820 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 14:09:03
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $655 )
+Seat 2: GarethBelfie ( $2,874 )
+Seat 4: nicolaas16 ( $1,725 )
+Seat 6: ChaoNash ( $2,950 )
+Seat 7: PapaShango19 ( $5,471 )
+Seat 9: AKatyrev ( $3,450 )
+nicolaas16 posts small blind [$50]
+ChaoNash posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Qs ]
+PapaShango19 folds
+AKatyrev folds
+Jadies22 calls [$100]
+GarethBelfie calls [$100]
+nicolaas16 calls [$50]
+ChaoNash checks
+** Dealing flop ** [ Ah, 8c, 8h ]
+nicolaas16 checks
+ChaoNash checks
+Jadies22 checks
+GarethBelfie checks
+** Dealing turn ** [ Jh ]
+nicolaas16 checks
+ChaoNash checks
+Jadies22 checks
+GarethBelfie bets [$100]
+nicolaas16 folds
+ChaoNash folds
+Jadies22 calls [$100]
+** Dealing river ** [ 6s ]
+Jadies22 bets [$455]
+GarethBelfie folds
+** Summary **
+Jadies22 did not show his hand
+Jadies22 collected [ $600 ]
+
+
+
+#Game No : 486820153
+***** 888poker Hand History for Game 486820153 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 14:10:35
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,055 )
+Seat 2: GarethBelfie ( $2,674 )
+Seat 4: nicolaas16 ( $1,625 )
+Seat 6: ChaoNash ( $2,850 )
+Seat 7: PapaShango19 ( $5,471 )
+Seat 9: AKatyrev ( $3,450 )
+ChaoNash posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4c ]
+AKatyrev calls [$100]
+Jadies22 calls [$100]
+GarethBelfie folds
+nicolaas16 folds
+ChaoNash calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ Jh, Kd, Jc ]
+ChaoNash checks
+PapaShango19 checks
+AKatyrev checks
+Jadies22 checks
+** Dealing turn ** [ 6d ]
+ChaoNash bets [$100]
+PapaShango19 folds
+AKatyrev folds
+Jadies22 calls [$100]
+** Dealing river ** [ Ac ]
+ChaoNash bets [$300]
+Jadies22 calls [$300]
+** Summary **
+ChaoNash shows [ Js, 3c ]
+Jadies22 shows [ Qh, Ts ]
+Jadies22 collected [ $1,200 ]
+
+
+
+#Game No : 486820410
+***** 888poker Hand History for Game 486820410 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 14:11:37
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,755 )
+Seat 2: GarethBelfie ( $2,674 )
+Seat 4: nicolaas16 ( $1,625 )
+Seat 6: ChaoNash ( $2,350 )
+Seat 7: PapaShango19 ( $5,371 )
+Seat 9: AKatyrev ( $3,350 )
+PapaShango19 posts small blind [$50]
+AKatyrev posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3c ]
+Jadies22 folds
+GarethBelfie folds
+nicolaas16 calls [$100]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev checks
+** Dealing flop ** [ 5c, 2d, 8c ]
+AKatyrev checks
+nicolaas16 checks
+** Dealing turn ** [ Jh ]
+AKatyrev bets [$250]
+nicolaas16 folds
+** Summary **
+AKatyrev did not show his hand
+AKatyrev collected [ $250 ]
+
+
+
+#Game No : 486820634
+***** 888poker Hand History for Game 486820634 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 14:12:35
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,755 )
+Seat 2: GarethBelfie ( $2,674 )
+Seat 4: nicolaas16 ( $1,525 )
+Seat 6: ChaoNash ( $2,350 )
+Seat 7: PapaShango19 ( $5,321 )
+Seat 9: AKatyrev ( $3,500 )
+AKatyrev posts small blind [$50]
+Jadies22 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Jh ]
+GarethBelfie folds
+nicolaas16 raises [$1,525]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+Jadies22 folds
+** Summary **
+nicolaas16 did not show his hand
+nicolaas16 collected [ $250 ]
+
+
+
+#Game No : 486820748
+***** 888poker Hand History for Game 486820748 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 14:13:04
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,655 )
+Seat 2: GarethBelfie ( $2,674 )
+Seat 4: nicolaas16 ( $1,675 )
+Seat 6: ChaoNash ( $2,350 )
+Seat 7: PapaShango19 ( $5,321 )
+Seat 9: AKatyrev ( $3,450 )
+Jadies22 posts small blind [$50]
+GarethBelfie posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 8d ]
+nicolaas16 raises [$200]
+ChaoNash calls [$200]
+PapaShango19 calls [$200]
+AKatyrev folds
+Jadies22 folds
+GarethBelfie folds
+** Dealing flop ** [ Qc, Kd, Qh ]
+nicolaas16 checks
+ChaoNash checks
+PapaShango19 checks
+** Dealing turn ** [ Qd ]
+nicolaas16 checks
+ChaoNash checks
+PapaShango19 checks
+** Dealing river ** [ Ts ]
+nicolaas16 checks
+ChaoNash checks
+PapaShango19 checks
+** Summary **
+nicolaas16 shows [ Ac, 6s ]
+ChaoNash shows [ 3d, 3c ]
+PapaShango19 mucks [ 6d, 8d ]
+ChaoNash collected [ $750 ]
+
+
+
+#Game No : 486821031
+***** 888poker Hand History for Game 486821031 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 14:14:11
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,605 )
+Seat 2: GarethBelfie ( $2,574 )
+Seat 4: nicolaas16 ( $1,475 )
+Seat 6: ChaoNash ( $2,900 )
+Seat 7: PapaShango19 ( $5,121 )
+Seat 9: AKatyrev ( $3,450 )
+GarethBelfie posts small blind [$50]
+nicolaas16 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Kh ]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+Jadies22 folds
+GarethBelfie calls [$50]
+nicolaas16 checks
+** Dealing flop ** [ 4h, 5s, 9d ]
+GarethBelfie checks
+nicolaas16 checks
+** Dealing turn ** [ Ad ]
+GarethBelfie checks
+nicolaas16 checks
+** Dealing river ** [ 2d ]
+GarethBelfie checks
+nicolaas16 checks
+** Summary **
+GarethBelfie shows [ 3c, 3s ]
+nicolaas16 mucks [ Qs, Td ]
+GarethBelfie collected [ $200 ]
+
+
+
+#Game No : 486821169
+***** 888poker Hand History for Game 486821169 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 14:14:50
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,605 )
+Seat 2: GarethBelfie ( $2,674 )
+Seat 4: nicolaas16 ( $1,375 )
+Seat 6: ChaoNash ( $2,900 )
+Seat 7: PapaShango19 ( $5,121 )
+Seat 9: AKatyrev ( $3,450 )
+nicolaas16 posts small blind [$75]
+ChaoNash posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5s ]
+PapaShango19 calls [$150]
+AKatyrev raises [$300]
+Jadies22 folds
+GarethBelfie calls [$300]
+nicolaas16 calls [$225]
+ChaoNash folds
+PapaShango19 calls [$150]
+** Dealing flop ** [ 7s, 8h, Qd ]
+nicolaas16 checks
+PapaShango19 checks
+AKatyrev bets [$675]
+GarethBelfie folds
+nicolaas16 folds
+PapaShango19 folds
+** Summary **
+AKatyrev did not show his hand
+AKatyrev collected [ $1,350 ]
+
+
+
+#Game No : 486821472
+***** 888poker Hand History for Game 486821472 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 14:16:05
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,605 )
+Seat 2: GarethBelfie ( $2,374 )
+Seat 4: nicolaas16 ( $1,075 )
+Seat 6: ChaoNash ( $2,750 )
+Seat 7: PapaShango19 ( $4,821 )
+Seat 9: AKatyrev ( $4,500 )
+ChaoNash posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 9c ]
+AKatyrev folds
+Jadies22 folds
+GarethBelfie folds
+nicolaas16 calls [$150]
+ChaoNash calls [$75]
+PapaShango19 raises [$450]
+nicolaas16 calls [$450]
+ChaoNash folds
+** Dealing flop ** [ 3h, Ad, 8d ]
+PapaShango19 bets [$675]
+nicolaas16 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,350 ]
+
+
+
+#Game No : 486821758
+***** 888poker Hand History for Game 486821758 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 14:17:23
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,605 )
+Seat 2: GarethBelfie ( $2,374 )
+Seat 4: nicolaas16 ( $475 )
+Seat 6: ChaoNash ( $2,600 )
+Seat 7: PapaShango19 ( $5,571 )
+Seat 9: AKatyrev ( $4,500 )
+PapaShango19 posts small blind [$75]
+AKatyrev posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Ks ]
+Jadies22 folds
+GarethBelfie folds
+nicolaas16 folds
+ChaoNash calls [$150]
+PapaShango19 raises [$275]
+AKatyrev folds
+ChaoNash folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 486821942
+***** 888poker Hand History for Game 486821942 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 14:18:17
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,605 )
+Seat 2: GarethBelfie ( $2,374 )
+Seat 4: nicolaas16 ( $475 )
+Seat 6: ChaoNash ( $2,450 )
+Seat 7: PapaShango19 ( $5,871 )
+Seat 9: AKatyrev ( $4,350 )
+AKatyrev posts small blind [$75]
+Jadies22 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 4h ]
+GarethBelfie folds
+nicolaas16 raises [$475]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+Jadies22 folds
+** Summary **
+nicolaas16 did not show his hand
+nicolaas16 collected [ $375 ]
+
+
+
+#Game No : 486822040
+***** 888poker Hand History for Game 486822040 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 14:18:42
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,455 )
+Seat 2: GarethBelfie ( $2,374 )
+Seat 4: nicolaas16 ( $700 )
+Seat 6: ChaoNash ( $2,450 )
+Seat 7: PapaShango19 ( $5,871 )
+Seat 9: AKatyrev ( $4,275 )
+Jadies22 posts small blind [$75]
+GarethBelfie posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 4s ]
+nicolaas16 folds
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+Jadies22 folds
+** Summary **
+GarethBelfie did not show his hand
+GarethBelfie collected [ $225 ]
+
+
+
+#Game No : 486822137
+***** 888poker Hand History for Game 486822137 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 14:19:06
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,380 )
+Seat 2: GarethBelfie ( $2,449 )
+Seat 4: nicolaas16 ( $700 )
+Seat 6: ChaoNash ( $2,450 )
+Seat 7: PapaShango19 ( $5,871 )
+Seat 9: AKatyrev ( $4,275 )
+GarethBelfie posts small blind [$75]
+nicolaas16 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Jc ]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+Jadies22 calls [$150]
+GarethBelfie calls [$75]
+nicolaas16 checks
+** Dealing flop ** [ 5s, Ah, Qh ]
+GarethBelfie checks
+nicolaas16 checks
+Jadies22 checks
+** Dealing turn ** [ Jh ]
+GarethBelfie bets [$225]
+nicolaas16 calls [$225]
+Jadies22 calls [$225]
+** Dealing river ** [ 4s ]
+GarethBelfie bets [$562]
+nicolaas16 folds
+Jadies22 raises [$1,005]
+GarethBelfie calls [$443]
+** Summary **
+Jadies22 shows [ Kd, Td ]
+GarethBelfie shows [ Ac, 2h ]
+Jadies22 collected [ $3,135 ]
+
+
+
+#Game No : 486822360
+***** 888poker Hand History for Game 486822360 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 14:20:00
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $3,135 )
+Seat 2: GarethBelfie ( $2,569 )
+Seat 4: nicolaas16 ( $325 )
+Seat 6: ChaoNash ( $2,450 )
+Seat 7: PapaShango19 ( $5,871 )
+Seat 9: AKatyrev ( $4,275 )
+nicolaas16 posts small blind [$75]
+ChaoNash posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Ac ]
+PapaShango19 raises [$450]
+AKatyrev calls [$450]
+Jadies22 folds
+GarethBelfie folds
+nicolaas16 calls [$250]
+ChaoNash folds
+** Dealing flop ** [ Td, 8s, 9c ]
+PapaShango19 checks
+AKatyrev checks
+** Dealing turn ** [ Kc ]
+PapaShango19 bets [$450]
+AKatyrev calls [$450]
+** Dealing river ** [ 2c ]
+PapaShango19 checks
+AKatyrev checks
+** Summary **
+PapaShango19 shows [ Kd, Ac ]
+AKatyrev mucks [ 7d, 7s ]
+nicolaas16 mucks [ Qd, Ts ]
+PapaShango19 collected [ $1,125 ]
+PapaShango19 collected [ $1,150 ]
+
+
+
+#Game No : 486822588
+***** 888poker Hand History for Game 486822588 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:21:03
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Jadies22 ( $3,135 )
+Seat 2: GarethBelfie ( $2,569 )
+Seat 6: ChaoNash ( $2,300 )
+Seat 7: PapaShango19 ( $7,246 )
+Seat 9: AKatyrev ( $3,375 )
+ChaoNash posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Qs ]
+AKatyrev folds
+Jadies22 calls [$200]
+GarethBelfie raises [$2,569]
+ChaoNash folds
+PapaShango19 folds
+Jadies22 calls [$2,369]
+** Dealing flop ** [ 8d, 6c, 6s ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ Qd ]
+** Summary **
+Jadies22 shows [ 8h, Kd ]
+GarethBelfie shows [ Ad, Jd ]
+GarethBelfie collected [ $5,438 ]
+
+
+
+#Game No : 486822757
+***** 888poker Hand History for Game 486822757 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:21:50
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $566 )
+Seat 2: GarethBelfie ( $5,438 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: ChaoNash ( $2,200 )
+Seat 7: PapaShango19 ( $7,046 )
+Seat 9: AKatyrev ( $3,375 )
+PapaShango19 posts small blind [$100]
+AKatyrev posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Tc ]
+Jadies22 folds
+GarethBelfie folds
+ApTucT folds
+ChaoNash folds
+PapaShango19 folds
+** Summary **
+AKatyrev did not show his hand
+AKatyrev collected [ $300 ]
+
+
+
+#Game No : 486822850
+***** 888poker Hand History for Game 486822850 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:22:13
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $566 )
+Seat 2: GarethBelfie ( $5,438 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: ChaoNash ( $2,200 )
+Seat 7: PapaShango19 ( $6,946 )
+Seat 9: AKatyrev ( $3,475 )
+AKatyrev posts small blind [$100]
+Jadies22 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Js ]
+GarethBelfie folds
+ApTucT folds
+ChaoNash folds
+PapaShango19 folds
+AKatyrev calls [$100]
+Jadies22 checks
+** Dealing flop ** [ 5c, 8s, Ts ]
+AKatyrev checks
+Jadies22 checks
+** Dealing turn ** [ 2s ]
+AKatyrev checks
+Jadies22 bets [$200]
+AKatyrev calls [$200]
+** Dealing river ** [ Qh ]
+AKatyrev checks
+Jadies22 bets [$166]
+AKatyrev calls [$166]
+** Summary **
+Jadies22 shows [ Qd, Ah ]
+AKatyrev shows [ 9d, 2d ]
+Jadies22 collected [ $1,132 ]
+
+
+
+#Game No : 486823162
+***** 888poker Hand History for Game 486823162 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:23:43
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,632 )
+Seat 2: GarethBelfie ( $5,438 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: ChaoNash ( $2,200 )
+Seat 7: PapaShango19 ( $6,946 )
+Seat 9: AKatyrev ( $2,909 )
+Jadies22 posts small blind [$100]
+GarethBelfie posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 8s ]
+ApTucT folds
+ChaoNash raises [$400]
+PapaShango19 folds
+AKatyrev folds
+Jadies22 calls [$300]
+GarethBelfie calls [$200]
+** Dealing flop ** [ 7h, 5s, 3h ]
+Jadies22 checks
+GarethBelfie checks
+ChaoNash checks
+** Dealing turn ** [ 6d ]
+Jadies22 checks
+GarethBelfie bets [$200]
+ChaoNash folds
+Jadies22 folds
+** Summary **
+GarethBelfie did not show his hand
+GarethBelfie collected [ $1,200 ]
+
+
+
+#Game No : 486823331
+***** 888poker Hand History for Game 486823331 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:24:25
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,232 )
+Seat 2: GarethBelfie ( $6,238 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: ChaoNash ( $1,800 )
+Seat 7: PapaShango19 ( $6,946 )
+Seat 9: AKatyrev ( $2,909 )
+GarethBelfie posts small blind [$100]
+ApTucT posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 5d ]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+Jadies22 folds
+GarethBelfie raises [$6,138]
+ApTucT calls [$1,300]
+** Dealing flop ** [ 6c, Ts, Qd ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 2d ]
+** Summary **
+GarethBelfie shows [ Kc, As ]
+ApTucT shows [ Ad, Td ]
+ApTucT collected [ $3,000 ]
+
+
+
+#Game No : 486823484
+***** 888poker Hand History for Game 486823484 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:25:14
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,232 )
+Seat 2: GarethBelfie ( $4,738 )
+Seat 4: ApTucT ( $3,000 )
+Seat 6: ChaoNash ( $1,800 )
+Seat 7: PapaShango19 ( $6,946 )
+Seat 9: AKatyrev ( $2,909 )
+ApTucT posts small blind [$100]
+ChaoNash posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 2c ]
+PapaShango19 folds
+AKatyrev folds
+Jadies22 calls [$200]
+GarethBelfie folds
+ApTucT calls [$100]
+ChaoNash checks
+** Dealing flop ** [ Ts, 3d, 2h ]
+ApTucT checks
+ChaoNash checks
+Jadies22 checks
+** Dealing turn ** [ 3s ]
+ApTucT bets [$200]
+ChaoNash folds
+Jadies22 calls [$200]
+** Dealing river ** [ 3h ]
+ApTucT bets [$500]
+Jadies22 folds
+** Summary **
+ApTucT did not show his hand
+ApTucT collected [ $1,000 ]
+
+
+
+#Game No : 486823755
+***** 888poker Hand History for Game 486823755 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:26:34
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,832 )
+Seat 2: GarethBelfie ( $4,738 )
+Seat 4: ApTucT ( $3,600 )
+Seat 6: ChaoNash ( $1,600 )
+Seat 7: PapaShango19 ( $6,946 )
+Seat 9: AKatyrev ( $2,909 )
+AKatyrev posts ante [$20]
+Jadies22 posts ante [$20]
+GarethBelfie posts ante [$20]
+ChaoNash posts ante [$20]
+PapaShango19 posts ante [$20]
+ApTucT posts ante [$20]
+ChaoNash posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 3h ]
+AKatyrev folds
+Jadies22 folds
+GarethBelfie folds
+ApTucT raises [$400]
+ChaoNash folds
+PapaShango19 folds
+** Summary **
+ApTucT did not show his hand
+ApTucT collected [ $620 ]
+
+
+
+#Game No : 486823849
+***** 888poker Hand History for Game 486823849 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:27:07
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,812 )
+Seat 2: GarethBelfie ( $4,718 )
+Seat 4: ApTucT ( $4,000 )
+Seat 6: ChaoNash ( $1,480 )
+Seat 7: PapaShango19 ( $6,726 )
+Seat 9: AKatyrev ( $2,889 )
+AKatyrev posts ante [$20]
+Jadies22 posts ante [$20]
+GarethBelfie posts ante [$20]
+ChaoNash posts ante [$20]
+PapaShango19 posts ante [$20]
+ApTucT posts ante [$20]
+PapaShango19 posts small blind [$100]
+AKatyrev posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Jd ]
+Jadies22 calls [$200]
+GarethBelfie calls [$200]
+ApTucT folds
+ChaoNash folds
+PapaShango19 calls [$100]
+AKatyrev checks
+** Dealing flop ** [ 9s, 2d, 4c ]
+PapaShango19 checks
+AKatyrev checks
+Jadies22 checks
+GarethBelfie checks
+** Dealing turn ** [ Jc ]
+PapaShango19 checks
+AKatyrev checks
+Jadies22 bets [$200]
+GarethBelfie calls [$200]
+PapaShango19 calls [$200]
+AKatyrev folds
+** Dealing river ** [ As ]
+PapaShango19 checks
+Jadies22 bets [$200]
+GarethBelfie folds
+PapaShango19 calls [$200]
+** Summary **
+Jadies22 shows [ Ad, 9d ]
+PapaShango19 mucks [ 8s, Jd ]
+Jadies22 collected [ $1,920 ]
+
+
+
+#Game No : 486824047
+***** 888poker Hand History for Game 486824047 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:28:14
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $3,112 )
+Seat 2: GarethBelfie ( $4,298 )
+Seat 4: ApTucT ( $3,980 )
+Seat 6: ChaoNash ( $1,460 )
+Seat 7: PapaShango19 ( $6,106 )
+Seat 9: AKatyrev ( $2,669 )
+AKatyrev posts ante [$20]
+Jadies22 posts ante [$20]
+GarethBelfie posts ante [$20]
+ChaoNash posts ante [$20]
+PapaShango19 posts ante [$20]
+ApTucT posts ante [$20]
+AKatyrev posts small blind [$100]
+Jadies22 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4s ]
+GarethBelfie folds
+ApTucT raises [$3,960]
+ChaoNash folds
+PapaShango19 folds
+AKatyrev folds
+Jadies22 folds
+** Summary **
+ApTucT did not show his hand
+ApTucT collected [ $620 ]
+
+
+
+#Game No : 486824175
+***** 888poker Hand History for Game 486824175 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:28:57
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,892 )
+Seat 2: GarethBelfie ( $4,278 )
+Seat 4: ApTucT ( $4,380 )
+Seat 6: ChaoNash ( $1,440 )
+Seat 7: PapaShango19 ( $6,086 )
+Seat 9: AKatyrev ( $2,549 )
+AKatyrev posts ante [$20]
+Jadies22 posts ante [$20]
+GarethBelfie posts ante [$20]
+ChaoNash posts ante [$20]
+PapaShango19 posts ante [$20]
+ApTucT posts ante [$20]
+Jadies22 posts small blind [$100]
+GarethBelfie posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 7c ]
+ApTucT folds
+ChaoNash raises [$1,420]
+PapaShango19 folds
+AKatyrev folds
+Jadies22 folds
+GarethBelfie calls [$1,220]
+** Dealing flop ** [ 4h, Jc, Qs ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 4s ]
+** Summary **
+GarethBelfie shows [ Qd, Kc ]
+ChaoNash shows [ Ac, Kd ]
+GarethBelfie collected [ $3,060 ]
+
+
+
+#Game No : 486824302
+***** 888poker Hand History for Game 486824302 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:29:39
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,772 )
+Seat 2: GarethBelfie ( $5,898 )
+Seat 4: ApTucT ( $4,360 )
+Seat 6: ChaoNash ( $3,000 )
+Seat 7: PapaShango19 ( $6,066 )
+Seat 9: AKatyrev ( $2,529 )
+AKatyrev posts ante [$20]
+Jadies22 posts ante [$20]
+GarethBelfie posts ante [$20]
+ChaoNash posts ante [$20]
+PapaShango19 posts ante [$20]
+ApTucT posts ante [$20]
+GarethBelfie posts small blind [$100]
+ApTucT posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Kc ]
+ChaoNash calls [$200]
+PapaShango19 folds
+AKatyrev raises [$2,509]
+Jadies22 folds
+GarethBelfie folds
+ApTucT folds
+ChaoNash folds
+** Summary **
+AKatyrev did not show his hand
+AKatyrev collected [ $820 ]
+
+
+
+#Game No : 486824451
+***** 888poker Hand History for Game 486824451 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:30:18
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,752 )
+Seat 2: GarethBelfie ( $5,778 )
+Seat 4: ApTucT ( $4,140 )
+Seat 6: ChaoNash ( $2,780 )
+Seat 7: PapaShango19 ( $6,046 )
+Seat 9: AKatyrev ( $3,129 )
+AKatyrev posts ante [$20]
+Jadies22 posts ante [$20]
+GarethBelfie posts ante [$20]
+ChaoNash posts ante [$20]
+PapaShango19 posts ante [$20]
+ApTucT posts ante [$20]
+ApTucT posts small blind [$100]
+ChaoNash posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 2s ]
+PapaShango19 calls [$200]
+AKatyrev raises [$3,109]
+Jadies22 calls [$2,732]
+GarethBelfie folds
+ApTucT raises [$4,020]
+ChaoNash folds
+PapaShango19 folds
+** Dealing flop ** [ 8c, Qc, 9s ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 9c ]
+** Summary **
+Jadies22 shows [ Qs, Qd ]
+ApTucT shows [ As, Ac ]
+AKatyrev shows [ Ts, 8h ]
+Jadies22 collected [ $8,716 ]
+ApTucT collected [ $754 ]
+
+
+
+#Game No : 486824651
+***** 888poker Hand History for Game 486824651 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 14:31:21
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Jadies22 ( $8,716 )
+Seat 2: GarethBelfie ( $5,758 )
+Seat 4: ApTucT ( $1,765 )
+Seat 6: ChaoNash ( $2,560 )
+Seat 7: PapaShango19 ( $5,826 )
+Jadies22 posts ante [$20]
+GarethBelfie posts ante [$20]
+ChaoNash posts ante [$20]
+PapaShango19 posts ante [$20]
+ApTucT posts ante [$20]
+ChaoNash posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 5s ]
+Jadies22 folds
+GarethBelfie calls [$200]
+ApTucT folds
+ChaoNash calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Tc, 8c, Ks ]
+ChaoNash checks
+PapaShango19 checks
+GarethBelfie bets [$200]
+ChaoNash folds
+PapaShango19 folds
+** Summary **
+GarethBelfie collected [ $700 ]
+
+
+
+#Game No : 486824834
+***** 888poker Hand History for Game 486824834 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:32:17
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $8,696 )
+Seat 2: GarethBelfie ( $6,238 )
+Seat 4: ApTucT ( $1,745 )
+Seat 6: ChaoNash ( $2,340 )
+Seat 7: PapaShango19 ( $5,606 )
+Seat 9: Mad_Boy_SV ( $1,440 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+PapaShango19 posts small blind [$125]
+Mad_Boy_SV posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Td ]
+Jadies22 calls [$250]
+GarethBelfie folds
+ApTucT folds
+ChaoNash folds
+PapaShango19 calls [$125]
+Mad_Boy_SV checks
+** Dealing flop ** [ Kd, 2c, Qd ]
+PapaShango19 checks
+Mad_Boy_SV checks
+Jadies22 checks
+** Dealing turn ** [ 6s ]
+PapaShango19 checks
+Mad_Boy_SV bets [$250]
+Jadies22 calls [$250]
+PapaShango19 folds
+** Dealing river ** [ 4d ]
+Mad_Boy_SV checks
+Jadies22 checks
+** Summary **
+Mad_Boy_SV shows [ 7c, 2h ]
+Jadies22 shows [ Ts, Ks ]
+Jadies22 collected [ $1,400 ]
+
+
+
+#Game No : 486825021
+***** 888poker Hand History for Game 486825021 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:33:10
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $9,571 )
+Seat 2: GarethBelfie ( $6,213 )
+Seat 4: ApTucT ( $1,720 )
+Seat 6: ChaoNash ( $2,315 )
+Seat 7: PapaShango19 ( $5,331 )
+Seat 9: Mad_Boy_SV ( $915 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+Mad_Boy_SV posts small blind [$125]
+Jadies22 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 9c ]
+GarethBelfie folds
+ApTucT raises [$500]
+ChaoNash raises [$2,290]
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 folds
+ApTucT calls [$1,195]
+** Dealing flop ** [ 2c, 2d, Ks ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 5d ]
+** Summary **
+ApTucT shows [ Ah, 8h ]
+ChaoNash shows [ Qd, Kd ]
+ChaoNash collected [ $3,915 ]
+
+
+
+#Game No : 486825168
+***** 888poker Hand History for Game 486825168 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:33:56
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $9,296 )
+Seat 2: GarethBelfie ( $6,188 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: ChaoNash ( $4,510 )
+Seat 7: PapaShango19 ( $5,306 )
+Seat 9: Mad_Boy_SV ( $765 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+Jadies22 posts small blind [$125]
+GarethBelfie posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Tc ]
+ApTucT folds
+ChaoNash calls [$250]
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 folds
+GarethBelfie checks
+** Dealing flop ** [ 6d, 3c, 6h ]
+GarethBelfie checks
+ChaoNash bets [$250]
+GarethBelfie folds
+** Summary **
+ChaoNash did not show his hand
+ChaoNash collected [ $775 ]
+
+
+
+#Game No : 486825295
+***** 888poker Hand History for Game 486825295 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:34:26
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $9,146 )
+Seat 2: GarethBelfie ( $5,913 )
+Seat 4: ApTucT ( $1,475 )
+Seat 6: ChaoNash ( $5,010 )
+Seat 7: PapaShango19 ( $5,281 )
+Seat 9: Mad_Boy_SV ( $740 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+GarethBelfie posts small blind [$125]
+ApTucT posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 8d ]
+ChaoNash folds
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 folds
+GarethBelfie calls [$125]
+ApTucT checks
+** Dealing flop ** [ Ad, 3s, Kc ]
+GarethBelfie bets [$250]
+ApTucT folds
+** Summary **
+GarethBelfie did not show his hand
+GarethBelfie collected [ $650 ]
+
+
+
+#Game No : 486825397
+***** 888poker Hand History for Game 486825397 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:34:59
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $9,121 )
+Seat 2: GarethBelfie ( $6,288 )
+Seat 4: ApTucT ( $1,200 )
+Seat 6: ChaoNash ( $4,985 )
+Seat 7: PapaShango19 ( $5,256 )
+Seat 9: Mad_Boy_SV ( $715 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+ApTucT posts small blind [$125]
+ChaoNash posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Jh ]
+PapaShango19 folds
+Mad_Boy_SV raises [$690]
+Jadies22 folds
+GarethBelfie folds
+ApTucT folds
+ChaoNash calls [$440]
+** Dealing flop ** [ 5s, Jd, 6s ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 2c ]
+** Summary **
+ChaoNash shows [ 8c, Td ]
+Mad_Boy_SV shows [ Ts, Jc ]
+Mad_Boy_SV collected [ $1,655 ]
+
+
+
+#Game No : 486825521
+***** 888poker Hand History for Game 486825521 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:35:40
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $9,096 )
+Seat 2: GarethBelfie ( $6,263 )
+Seat 4: ApTucT ( $1,050 )
+Seat 6: ChaoNash ( $4,270 )
+Seat 7: PapaShango19 ( $5,231 )
+Seat 9: Mad_Boy_SV ( $1,655 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+ChaoNash posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 3d ]
+Mad_Boy_SV folds
+Jadies22 calls [$250]
+GarethBelfie raises [$6,238]
+ApTucT folds
+ChaoNash folds
+PapaShango19 folds
+Jadies22 calls [$5,988]
+** Dealing flop ** [ 4h, As, 8d ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 3s ]
+** Summary **
+Jadies22 shows [ Jc, Js ]
+GarethBelfie shows [ Kd, Ah ]
+GarethBelfie collected [ $13,001 ]
+
+
+
+#Game No : 486825660
+***** 888poker Hand History for Game 486825660 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:36:23
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,833 )
+Seat 2: GarethBelfie ( $13,001 )
+Seat 4: ApTucT ( $1,025 )
+Seat 6: ChaoNash ( $4,120 )
+Seat 7: PapaShango19 ( $4,956 )
+Seat 9: Mad_Boy_SV ( $1,630 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+PapaShango19 posts small blind [$125]
+Mad_Boy_SV posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Jh ]
+Jadies22 calls [$250]
+GarethBelfie folds
+ApTucT folds
+ChaoNash calls [$250]
+PapaShango19 folds
+Mad_Boy_SV checks
+** Dealing flop ** [ 5s, 6d, 6c ]
+Mad_Boy_SV checks
+Jadies22 checks
+ChaoNash bets [$250]
+Mad_Boy_SV calls [$250]
+Jadies22 folds
+** Dealing turn ** [ 7d ]
+Mad_Boy_SV checks
+ChaoNash bets [$250]
+Mad_Boy_SV calls [$250]
+** Dealing river ** [ Kc ]
+Mad_Boy_SV bets [$855]
+ChaoNash calls [$855]
+** Summary **
+ChaoNash shows [ Kd, Th ]
+Mad_Boy_SV shows [ 4d, 8d ]
+Mad_Boy_SV collected [ $3,735 ]
+
+
+
+#Game No : 486825943
+***** 888poker Hand History for Game 486825943 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 14:37:46
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,558 )
+Seat 2: GarethBelfie ( $12,976 )
+Seat 4: ApTucT ( $1,000 )
+Seat 6: ChaoNash ( $2,490 )
+Seat 7: PapaShango19 ( $4,806 )
+Seat 9: Mad_Boy_SV ( $3,735 )
+Jadies22 posts ante [$25]
+GarethBelfie posts ante [$25]
+ChaoNash posts ante [$25]
+PapaShango19 posts ante [$25]
+ApTucT posts ante [$25]
+Mad_Boy_SV posts ante [$25]
+Mad_Boy_SV posts small blind [$125]
+Jadies22 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 3d ]
+GarethBelfie folds
+ApTucT raises [$975]
+ChaoNash folds
+PapaShango19 folds
+Mad_Boy_SV raises [$3,585]
+Jadies22 calls [$2,283]
+** Dealing flop ** [ 9h, 8d, 4c ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 2s ]
+** Summary **
+Jadies22 shows [ Kc, Ks ]
+ApTucT shows [ 3c, Ac ]
+Mad_Boy_SV shows [ 4d, 4s ]
+Mad_Boy_SV collected [ $3,075 ]
+Mad_Boy_SV collected [ $3,116 ]
+
+
+
+#Game No : 486826045
+***** 888poker Hand History for Game 486826045 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:38:20
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,500 )
+Seat 2: GarethBelfie ( $12,951 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: ChaoNash ( $2,465 )
+Seat 7: PapaShango19 ( $4,781 )
+Seat 9: Mad_Boy_SV ( $7,368 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+ChaoNash posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+Jadies22 posts small blind [$150]
+GarethBelfie posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4c ]
+ApTucT raises [$1,470]
+ChaoNash folds
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 folds
+GarethBelfie calls [$1,170]
+** Dealing flop ** [ 8c, Td, 2d ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 5s ]
+** Summary **
+GarethBelfie shows [ 6h, Ad ]
+ApTucT shows [ 6c, 6s ]
+ApTucT collected [ $3,270 ]
+
+
+
+#Game No : 486826171
+***** 888poker Hand History for Game 486826171 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:38:58
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,320 )
+Seat 2: GarethBelfie ( $11,451 )
+Seat 4: ApTucT ( $3,270 )
+Seat 6: ChaoNash ( $2,435 )
+Seat 7: PapaShango19 ( $4,751 )
+Seat 9: Mad_Boy_SV ( $7,338 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+ChaoNash posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+GarethBelfie posts small blind [$150]
+ApTucT posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Kh ]
+ChaoNash folds
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 calls [$300]
+GarethBelfie folds
+ApTucT checks
+** Dealing flop ** [ Qc, 2s, Ac ]
+ApTucT checks
+Jadies22 checks
+** Dealing turn ** [ 8d ]
+ApTucT checks
+Jadies22 checks
+** Dealing river ** [ 6h ]
+ApTucT checks
+Jadies22 bets [$300]
+ApTucT folds
+** Summary **
+Jadies22 did not show his hand
+Jadies22 collected [ $930 ]
+
+
+
+#Game No : 486826420
+***** 888poker Hand History for Game 486826420 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:40:07
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $1,920 )
+Seat 2: GarethBelfie ( $11,271 )
+Seat 4: ApTucT ( $2,940 )
+Seat 6: ChaoNash ( $2,405 )
+Seat 7: PapaShango19 ( $4,721 )
+Seat 9: Mad_Boy_SV ( $7,308 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+ChaoNash posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+ApTucT posts small blind [$150]
+ChaoNash posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 3d ]
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 calls [$300]
+GarethBelfie folds
+ApTucT calls [$150]
+ChaoNash checks
+** Dealing flop ** [ 2s, Qc, Kh ]
+ApTucT checks
+ChaoNash checks
+Jadies22 checks
+** Dealing turn ** [ 5d ]
+ApTucT bets [$810]
+ChaoNash folds
+Jadies22 calls [$810]
+** Dealing river ** [ 5c ]
+ApTucT bets [$1,800]
+Jadies22 calls [$780]
+** Summary **
+Jadies22 shows [ Td, Kc ]
+ApTucT shows [ 9d, Kd ]
+Jadies22 collected [ $2,130 ]
+ApTucT collected [ $2,130 ]
+
+
+
+#Game No : 486826657
+***** 888poker Hand History for Game 486826657 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:41:15
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,130 )
+Seat 2: GarethBelfie ( $11,241 )
+Seat 4: ApTucT ( $3,150 )
+Seat 6: ChaoNash ( $2,075 )
+Seat 7: PapaShango19 ( $4,691 )
+Seat 9: Mad_Boy_SV ( $7,278 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+ChaoNash posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+ChaoNash posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 4d ]
+Mad_Boy_SV folds
+Jadies22 folds
+GarethBelfie folds
+ApTucT raises [$600]
+ChaoNash raises [$1,895]
+PapaShango19 folds
+ApTucT calls [$1,445]
+** Dealing flop ** [ Qh, 4c, Qd ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 2d ]
+** Summary **
+ApTucT shows [ 6c, Ad ]
+ChaoNash shows [ 5c, Ac ]
+ApTucT collected [ $4,570 ]
+
+
+
+#Game No : 486826811
+***** 888poker Hand History for Game 486826811 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:41:58
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Jadies22 ( $2,100 )
+Seat 2: GarethBelfie ( $11,211 )
+Seat 4: ApTucT ( $5,645 )
+Seat 7: PapaShango19 ( $4,361 )
+Seat 9: Mad_Boy_SV ( $7,248 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+PapaShango19 posts small blind [$150]
+Mad_Boy_SV posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3h ]
+Jadies22 folds
+GarethBelfie folds
+ApTucT folds
+PapaShango19 folds
+** Summary **
+Mad_Boy_SV did not show his hand
+Mad_Boy_SV collected [ $600 ]
+
+
+
+#Game No : 486826866
+***** 888poker Hand History for Game 486826866 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:42:14
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Jadies22 ( $2,070 )
+Seat 2: GarethBelfie ( $11,181 )
+Seat 4: ApTucT ( $5,615 )
+Seat 7: PapaShango19 ( $4,181 )
+Seat 9: Mad_Boy_SV ( $7,518 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+Mad_Boy_SV posts small blind [$150]
+Jadies22 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 6d ]
+GarethBelfie folds
+ApTucT folds
+PapaShango19 folds
+Mad_Boy_SV folds
+** Summary **
+Jadies22 did not show his hand
+Jadies22 collected [ $600 ]
+
+
+
+#Game No : 486826920
+***** 888poker Hand History for Game 486826920 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:42:31
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Jadies22 ( $2,340 )
+Seat 2: GarethBelfie ( $11,151 )
+Seat 4: ApTucT ( $5,585 )
+Seat 7: PapaShango19 ( $4,151 )
+Seat 9: Mad_Boy_SV ( $7,338 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+Jadies22 posts small blind [$150]
+GarethBelfie posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 9h ]
+ApTucT raises [$600]
+PapaShango19 folds
+Mad_Boy_SV calls [$600]
+Jadies22 folds
+GarethBelfie calls [$300]
+** Dealing flop ** [ 6h, Qc, Js ]
+GarethBelfie checks
+ApTucT bets [$1,050]
+Mad_Boy_SV calls [$1,050]
+GarethBelfie folds
+** Dealing turn ** [ Qh ]
+ApTucT bets [$2,100]
+Mad_Boy_SV raises [$4,200]
+ApTucT calls [$1,805]
+** Dealing river ** [ 7h ]
+** Summary **
+ApTucT shows [ Tc, Jc ]
+Mad_Boy_SV shows [ Jh, As ]
+Mad_Boy_SV collected [ $12,010 ]
+
+
+
+#Game No : 486827088
+***** 888poker Hand History for Game 486827088 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 14:43:16
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,160 )
+Seat 2: GarethBelfie ( $10,521 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: dinonodi ( $3,000 )
+Seat 7: PapaShango19 ( $4,121 )
+Seat 9: Mad_Boy_SV ( $13,763 )
+Jadies22 posts ante [$30]
+GarethBelfie posts ante [$30]
+PapaShango19 posts ante [$30]
+ApTucT posts ante [$30]
+Mad_Boy_SV posts ante [$30]
+dinonodi posts ante [$30]
+GarethBelfie posts small blind [$150]
+ApTucT posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 6s ]
+dinonodi folds
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 calls [$300]
+GarethBelfie calls [$150]
+ApTucT checks
+** Dealing flop ** [ 7s, 9h, Kc ]
+GarethBelfie checks
+ApTucT checks
+Jadies22 checks
+** Dealing turn ** [ Ad ]
+GarethBelfie checks
+ApTucT checks
+Jadies22 checks
+** Dealing river ** [ 5d ]
+GarethBelfie checks
+ApTucT checks
+Jadies22 checks
+** Summary **
+GarethBelfie shows [ 4c, 3c ]
+ApTucT shows [ 8d, Qh ]
+Jadies22 shows [ Jd, Qs ]
+Jadies22 collected [ $1,080 ]
+
+
+
+#Game No : 486827360
+***** 888poker Hand History for Game 486827360 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:44:29
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,910 )
+Seat 2: GarethBelfie ( $10,191 )
+Seat 4: ApTucT ( $1,170 )
+Seat 6: dinonodi ( $2,970 )
+Seat 7: PapaShango19 ( $4,091 )
+Seat 9: Mad_Boy_SV ( $13,733 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+ApTucT posts small blind [$200]
+dinonodi posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Kh ]
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 folds
+GarethBelfie folds
+ApTucT folds
+** Summary **
+dinonodi did not show his hand
+dinonodi collected [ $840 ]
+
+
+
+#Game No : 486827473
+***** 888poker Hand History for Game 486827473 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:45:04
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,870 )
+Seat 2: GarethBelfie ( $10,151 )
+Seat 4: ApTucT ( $930 )
+Seat 6: dinonodi ( $3,370 )
+Seat 7: PapaShango19 ( $4,051 )
+Seat 9: Mad_Boy_SV ( $13,693 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+dinonodi posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 4d ]
+Mad_Boy_SV folds
+Jadies22 folds
+GarethBelfie folds
+ApTucT folds
+dinonodi folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $840 ]
+
+
+
+#Game No : 486827524
+***** 888poker Hand History for Game 486827524 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:45:20
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $2,830 )
+Seat 2: GarethBelfie ( $10,111 )
+Seat 4: ApTucT ( $890 )
+Seat 6: dinonodi ( $3,130 )
+Seat 7: PapaShango19 ( $4,451 )
+Seat 9: Mad_Boy_SV ( $13,653 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+PapaShango19 posts small blind [$200]
+Mad_Boy_SV posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 9d ]
+Jadies22 calls [$400]
+GarethBelfie folds
+ApTucT folds
+dinonodi folds
+PapaShango19 folds
+Mad_Boy_SV raises [$13,213]
+Jadies22 calls [$2,390]
+** Dealing flop ** [ Kc, 4c, 9s ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 4s ]
+** Summary **
+Jadies22 shows [ Ah, Kd ]
+Mad_Boy_SV shows [ Th, As ]
+Jadies22 collected [ $6,020 ]
+
+
+
+#Game No : 486827668
+***** 888poker Hand History for Game 486827668 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:45:59
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $6,020 )
+Seat 2: GarethBelfie ( $10,071 )
+Seat 4: ApTucT ( $850 )
+Seat 6: dinonodi ( $3,090 )
+Seat 7: PapaShango19 ( $4,211 )
+Seat 9: Mad_Boy_SV ( $10,823 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+Mad_Boy_SV posts small blind [$200]
+Jadies22 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 4h ]
+GarethBelfie folds
+ApTucT folds
+dinonodi folds
+PapaShango19 folds
+Mad_Boy_SV raises [$600]
+Jadies22 folds
+** Summary **
+Mad_Boy_SV did not show his hand
+Mad_Boy_SV collected [ $1,040 ]
+
+
+
+#Game No : 486827747
+***** 888poker Hand History for Game 486827747 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:46:22
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $5,580 )
+Seat 2: GarethBelfie ( $10,031 )
+Seat 4: ApTucT ( $810 )
+Seat 6: dinonodi ( $3,050 )
+Seat 7: PapaShango19 ( $4,171 )
+Seat 9: Mad_Boy_SV ( $11,423 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+Jadies22 posts small blind [$200]
+GarethBelfie posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Th ]
+ApTucT folds
+dinonodi folds
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 folds
+** Summary **
+GarethBelfie did not show his hand
+GarethBelfie collected [ $840 ]
+
+
+
+#Game No : 486827812
+***** 888poker Hand History for Game 486827812 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:46:43
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $5,340 )
+Seat 2: GarethBelfie ( $10,431 )
+Seat 4: ApTucT ( $770 )
+Seat 6: dinonodi ( $3,010 )
+Seat 7: PapaShango19 ( $4,131 )
+Seat 9: Mad_Boy_SV ( $11,383 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+GarethBelfie posts small blind [$200]
+ApTucT posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 6h ]
+dinonodi folds
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 calls [$400]
+GarethBelfie calls [$200]
+ApTucT checks
+** Dealing flop ** [ Ts, 4s, 4d ]
+GarethBelfie checks
+ApTucT checks
+Jadies22 checks
+** Dealing turn ** [ Kh ]
+GarethBelfie checks
+ApTucT checks
+Jadies22 checks
+** Dealing river ** [ Jh ]
+GarethBelfie checks
+ApTucT checks
+Jadies22 bets [$400]
+GarethBelfie folds
+ApTucT folds
+** Summary **
+Jadies22 did not show his hand
+Jadies22 collected [ $1,440 ]
+
+
+
+#Game No : 486828087
+***** 888poker Hand History for Game 486828087 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:48:07
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $6,340 )
+Seat 2: GarethBelfie ( $9,991 )
+Seat 4: ApTucT ( $330 )
+Seat 6: dinonodi ( $2,970 )
+Seat 7: PapaShango19 ( $4,091 )
+Seat 9: Mad_Boy_SV ( $11,343 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+ApTucT posts small blind [$200]
+dinonodi posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7s ]
+PapaShango19 folds
+Mad_Boy_SV folds
+Jadies22 calls [$400]
+GarethBelfie calls [$400]
+ApTucT calls [$90]
+dinonodi checks
+** Dealing flop ** [ 9c, Kh, Ad ]
+dinonodi checks
+Jadies22 checks
+GarethBelfie checks
+** Dealing turn ** [ Ah ]
+dinonodi checks
+Jadies22 bets [$400]
+GarethBelfie raises [$9,551]
+dinonodi folds
+Jadies22 calls [$5,500]
+** Dealing river ** [ Ks ]
+** Summary **
+Jadies22 shows [ Kd, Kc ]
+GarethBelfie shows [ As, 2h ]
+ApTucT shows [ Ts, 5h ]
+Jadies22 collected [ $1,400 ]
+Jadies22 collected [ $12,130 ]
+
+
+
+#Game No : 486828272
+***** 888poker Hand History for Game 486828272 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 14:48:55
+Tournament #64032058 $1.70 + $0.30 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Jadies22 ( $13,530 )
+Seat 2: GarethBelfie ( $3,651 )
+Seat 4: ApTucT ( $1,500 )
+Seat 6: dinonodi ( $2,530 )
+Seat 7: PapaShango19 ( $4,051 )
+Seat 9: Mad_Boy_SV ( $11,303 )
+Jadies22 posts ante [$40]
+GarethBelfie posts ante [$40]
+PapaShango19 posts ante [$40]
+ApTucT posts ante [$40]
+Mad_Boy_SV posts ante [$40]
+dinonodi posts ante [$40]
+dinonodi posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 7c ]
+Mad_Boy_SV folds
+Jadies22 calls [$400]
+GarethBelfie folds
+ApTucT folds
+dinonodi folds
+PapaShango19 raises [$3,611]
+Jadies22 calls [$3,611]
+** Dealing flop ** [ Ad, 2c, 3d ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 4d ]
+** Summary **
+Jadies22 shows [ Ah, 9s ]
+PapaShango19 shows [ As, 7c ]
+Jadies22 collected [ $8,462 ]
+
+
+

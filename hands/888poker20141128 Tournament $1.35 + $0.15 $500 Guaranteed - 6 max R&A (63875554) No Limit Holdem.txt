@@ -1,0 +1,3200 @@
+#Game No : 644572389
+***** 888poker Hand History for Game 644572389 *****
+$10/$20 Blinds No Limit Holdem - *** 28 11 2014 09:18:21
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: nickclau ( $1,980 )
+Seat 2: NaGiBaLkO ( $1,950 )
+Seat 4: marshmello72 ( $2,000 )
+Seat 6: Commentator2 ( $1,925 )
+Seat 9: Jarrod1967 ( $1,990 )
+nickclau posts small blind [$10]
+NaGiBaLkO posts big blind [$20]
+** Dealing down cards **
+marshmello72 folds
+Commentator2 raises [$60]
+Jarrod1967 folds
+nickclau raises [$95]
+NaGiBaLkO folds
+Commentator2 calls [$45]
+** Dealing flop ** [ 4h, 8c, 3d ]
+nickclau bets [$100]
+Commentator2 raises [$200]
+nickclau raises [$365]
+Commentator2 calls [$265]
+** Dealing turn ** [ 3h ]
+nickclau bets [$280]
+Commentator2 raises [$1,355]
+nickclau folds
+** Summary **
+Commentator2 collected [ $1,720 ]
+
+
+
+#Game No : 644572558
+***** 888poker Hand History for Game 644572558 *****
+$10/$20 Blinds No Limit Holdem - *** 28 11 2014 09:19:31
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,130 )
+Seat 2: NaGiBaLkO ( $1,930 )
+Seat 4: marshmello72 ( $2,000 )
+Seat 6: Commentator2 ( $2,795 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: Jarrod1967 ( $3,990 )
+NaGiBaLkO posts small blind [$10]
+marshmello72 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 5s ]
+Commentator2 calls [$20]
+PapaShango19 calls [$20]
+Jarrod1967 raises [$82]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$62]
+Commentator2 calls [$62]
+PapaShango19 folds
+** Dealing flop ** [ Kc, Kh, 7d ]
+marshmello72 bets [$207]
+Commentator2 folds
+Jarrod1967 calls [$207]
+** Dealing turn ** [ Ac ]
+marshmello72 checks
+Jarrod1967 bets [$517]
+marshmello72 calls [$517]
+** Dealing river ** [ Jh ]
+marshmello72 checks
+Jarrod1967 checks
+** Summary **
+marshmello72 shows [ 4d, 7s ]
+Jarrod1967 shows [ Ah, 9h ]
+Jarrod1967 collected [ $1,724 ]
+
+
+
+#Game No : 644572685
+***** 888poker Hand History for Game 644572685 *****
+$10/$20 Blinds No Limit Holdem - *** 28 11 2014 09:20:26
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,130 )
+Seat 2: NaGiBaLkO ( $1,920 )
+Seat 4: marshmello72 ( $1,194 )
+Seat 6: Commentator2 ( $2,713 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: Jarrod1967 ( $4,908 )
+marshmello72 posts small blind [$10]
+Commentator2 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Ad ]
+PapaShango19 calls [$20]
+Jarrod1967 raises [$67]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$57]
+Commentator2 folds
+PapaShango19 calls [$47]
+** Dealing flop ** [ 6d, Jc, 9s ]
+marshmello72 bets [$221]
+PapaShango19 folds
+Jarrod1967 calls [$221]
+** Dealing turn ** [ Qc ]
+marshmello72 bets [$497]
+Jarrod1967 calls [$497]
+** Dealing river ** [ 9c ]
+marshmello72 checks
+Jarrod1967 checks
+** Summary **
+marshmello72 shows [ Ts, Td ]
+Jarrod1967 mucks [ 7h, 7s ]
+marshmello72 collected [ $1,657 ]
+
+
+
+#Game No : 644572806
+***** 888poker Hand History for Game 644572806 *****
+$10/$20 Blinds No Limit Holdem - *** 28 11 2014 09:21:20
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,130 )
+Seat 2: NaGiBaLkO ( $1,920 )
+Seat 4: marshmello72 ( $2,066 )
+Seat 6: Commentator2 ( $2,693 )
+Seat 7: PapaShango19 ( $1,913 )
+Seat 9: Jarrod1967 ( $4,123 )
+Commentator2 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Tc ]
+Jarrod1967 raises [$4,123]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $50 ]
+
+
+
+#Game No : 644572858
+***** 888poker Hand History for Game 644572858 *****
+$10/$20 Blinds No Limit Holdem - *** 28 11 2014 09:21:38
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,130 )
+Seat 2: NaGiBaLkO ( $1,920 )
+Seat 4: marshmello72 ( $2,066 )
+Seat 6: Commentator2 ( $2,683 )
+Seat 7: PapaShango19 ( $1,893 )
+Seat 9: Jarrod1967 ( $4,153 )
+PapaShango19 posts small blind [$10]
+Jarrod1967 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 2h ]
+nickclau raises [$40]
+NaGiBaLkO calls [$40]
+marshmello72 raises [$60]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$40]
+nickclau calls [$20]
+NaGiBaLkO calls [$20]
+** Dealing flop ** [ Td, 5h, 3d ]
+Jarrod1967 bets [$20]
+nickclau folds
+NaGiBaLkO calls [$20]
+marshmello72 calls [$20]
+** Dealing turn ** [ 4c ]
+Jarrod1967 bets [$310]
+NaGiBaLkO folds
+marshmello72 calls [$310]
+** Dealing river ** [ 6d ]
+Jarrod1967 bets [$930]
+marshmello72 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $930 ]
+
+
+
+#Game No : 644573011
+***** 888poker Hand History for Game 644573011 *****
+$10/$20 Blinds No Limit Holdem - *** 28 11 2014 09:22:48
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,070 )
+Seat 2: NaGiBaLkO ( $1,840 )
+Seat 4: marshmello72 ( $1,676 )
+Seat 6: Commentator2 ( $2,683 )
+Seat 7: PapaShango19 ( $1,883 )
+Seat 9: Jarrod1967 ( $4,693 )
+Jarrod1967 posts small blind [$10]
+nickclau posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 7s ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 raises [$40]
+Jarrod1967 calls [$30]
+nickclau raises [$1,050]
+PapaShango19 folds
+Jarrod1967 calls [$1,030]
+** Dealing flop ** [ 2s, 5h, 4s ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 9c ]
+** Summary **
+nickclau shows [ Ah, Qc ]
+Jarrod1967 shows [ 2c, 2d ]
+Jarrod1967 collected [ $2,180 ]
+
+
+
+#Game No : 644573108
+***** 888poker Hand History for Game 644573108 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:23:29
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $2,000 )
+Seat 2: NaGiBaLkO ( $1,840 )
+Seat 4: marshmello72 ( $1,676 )
+Seat 6: Commentator2 ( $2,683 )
+Seat 7: PapaShango19 ( $1,843 )
+Seat 9: Jarrod1967 ( $5,803 )
+nickclau posts small blind [$15]
+NaGiBaLkO posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Ks ]
+marshmello72 raises [$60]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $75 ]
+
+
+
+#Game No : 644573161
+***** 888poker Hand History for Game 644573161 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:23:51
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,985 )
+Seat 2: NaGiBaLkO ( $1,810 )
+Seat 4: marshmello72 ( $1,721 )
+Seat 6: Commentator2 ( $2,683 )
+Seat 7: PapaShango19 ( $1,843 )
+Seat 9: Jarrod1967 ( $5,803 )
+NaGiBaLkO posts small blind [$15]
+marshmello72 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 6s ]
+Commentator2 raises [$90]
+PapaShango19 folds
+Jarrod1967 calls [$90]
+nickclau calls [$90]
+NaGiBaLkO calls [$75]
+marshmello72 folds
+** Dealing flop ** [ Kd, 4s, Qc ]
+NaGiBaLkO checks
+Commentator2 checks
+Jarrod1967 bets [$292]
+nickclau calls [$292]
+NaGiBaLkO folds
+Commentator2 calls [$292]
+** Dealing turn ** [ 7d ]
+Commentator2 checks
+Jarrod1967 bets [$633]
+nickclau folds
+Commentator2 calls [$633]
+** Dealing river ** [ Kh ]
+Commentator2 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $2,532 ]
+
+
+
+#Game No : 644573275
+***** 888poker Hand History for Game 644573275 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:24:40
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,603 )
+Seat 2: NaGiBaLkO ( $1,720 )
+Seat 4: marshmello72 ( $1,691 )
+Seat 6: Commentator2 ( $1,668 )
+Seat 7: PapaShango19 ( $1,843 )
+Seat 9: Jarrod1967 ( $7,320 )
+marshmello72 posts small blind [$15]
+Commentator2 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Td ]
+PapaShango19 calls [$30]
+Jarrod1967 folds
+nickclau raises [$60]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 calls [$30]
+PapaShango19 calls [$30]
+** Dealing flop ** [ Ah, 3d, 7s ]
+Commentator2 checks
+PapaShango19 checks
+nickclau bets [$97]
+Commentator2 calls [$97]
+PapaShango19 folds
+** Dealing turn ** [ 6c ]
+Commentator2 checks
+nickclau bets [$194]
+Commentator2 calls [$194]
+** Dealing river ** [ 9s ]
+Commentator2 checks
+nickclau checks
+** Summary **
+Commentator2 shows [ 9h, Th ]
+nickclau shows [ 2s, As ]
+nickclau collected [ $777 ]
+
+
+
+#Game No : 644573404
+***** 888poker Hand History for Game 644573404 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:25:32
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $2,029 )
+Seat 2: NaGiBaLkO ( $1,720 )
+Seat 4: marshmello72 ( $1,676 )
+Seat 6: Commentator2 ( $1,317 )
+Seat 7: PapaShango19 ( $1,783 )
+Seat 9: Jarrod1967 ( $7,320 )
+Commentator2 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 6h ]
+Jarrod1967 raises [$78]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$78]
+Commentator2 calls [$63]
+PapaShango19 folds
+** Dealing flop ** [ 4d, 9s, Qd ]
+Commentator2 bets [$264]
+Jarrod1967 folds
+marshmello72 calls [$264]
+** Dealing turn ** [ Qc ]
+Commentator2 checks
+marshmello72 checks
+** Dealing river ** [ 4c ]
+Commentator2 checks
+marshmello72 checks
+** Summary **
+Commentator2 shows [ 9d, Ts ]
+marshmello72 shows [ Jc, 9h ]
+marshmello72 collected [ $792 ]
+
+
+
+#Game No : 644573544
+***** 888poker Hand History for Game 644573544 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:26:27
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $2,029 )
+Seat 2: NaGiBaLkO ( $1,720 )
+Seat 4: marshmello72 ( $2,126 )
+Seat 6: Commentator2 ( $975 )
+Seat 7: PapaShango19 ( $1,753 )
+Seat 9: Jarrod1967 ( $7,242 )
+PapaShango19 posts small blind [$15]
+Jarrod1967 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 4h ]
+nickclau raises [$60]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$30]
+** Dealing flop ** [ 5c, 2s, 5d ]
+Jarrod1967 bets [$30]
+nickclau calls [$30]
+** Dealing turn ** [ 4d ]
+Jarrod1967 bets [$90]
+nickclau calls [$90]
+** Dealing river ** [ 7h ]
+Jarrod1967 bets [$281]
+nickclau folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $375 ]
+
+
+
+#Game No : 644573695
+***** 888poker Hand History for Game 644573695 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:27:39
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,849 )
+Seat 2: NaGiBaLkO ( $1,720 )
+Seat 4: marshmello72 ( $2,126 )
+Seat 6: Commentator2 ( $975 )
+Seat 7: PapaShango19 ( $1,738 )
+Seat 9: Jarrod1967 ( $7,437 )
+Jarrod1967 posts small blind [$15]
+nickclau posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 9s ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 raises [$90]
+Jarrod1967 calls [$75]
+nickclau folds
+** Dealing flop ** [ 3h, Jd, Qd ]
+Jarrod1967 bets [$105]
+PapaShango19 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $210 ]
+
+
+
+#Game No : 644573782
+***** 888poker Hand History for Game 644573782 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:28:13
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,819 )
+Seat 2: NaGiBaLkO ( $1,720 )
+Seat 4: marshmello72 ( $2,126 )
+Seat 6: Commentator2 ( $975 )
+Seat 7: PapaShango19 ( $1,648 )
+Seat 9: Jarrod1967 ( $7,557 )
+nickclau posts small blind [$15]
+NaGiBaLkO posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Td ]
+marshmello72 folds
+Commentator2 raises [$60]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO calls [$30]
+** Dealing flop ** [ As, 8s, 3h ]
+NaGiBaLkO checks
+Commentator2 checks
+** Dealing turn ** [ Jc ]
+NaGiBaLkO checks
+Commentator2 checks
+** Dealing river ** [ 7s ]
+NaGiBaLkO bets [$67]
+Commentator2 calls [$67]
+** Summary **
+NaGiBaLkO shows [ Th, 7h ]
+Commentator2 shows [ 5s, Ac ]
+Commentator2 collected [ $269 ]
+
+
+
+#Game No : 644573833
+***** 888poker Hand History for Game 644573833 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:28:42
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,804 )
+Seat 2: NaGiBaLkO ( $1,593 )
+Seat 4: marshmello72 ( $2,126 )
+Seat 6: Commentator2 ( $1,117 )
+Seat 7: PapaShango19 ( $1,648 )
+Seat 9: Jarrod1967 ( $7,557 )
+NaGiBaLkO posts small blind [$15]
+marshmello72 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 4d ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $45 ]
+
+
+
+#Game No : 644573898
+***** 888poker Hand History for Game 644573898 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:29:10
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,804 )
+Seat 2: NaGiBaLkO ( $1,578 )
+Seat 4: marshmello72 ( $2,141 )
+Seat 6: Commentator2 ( $1,117 )
+Seat 7: PapaShango19 ( $1,648 )
+Seat 9: Jarrod1967 ( $7,557 )
+marshmello72 posts small blind [$15]
+Commentator2 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 8c ]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau raises [$60]
+NaGiBaLkO raises [$225]
+marshmello72 folds
+Commentator2 folds
+nickclau folds
+** Summary **
+NaGiBaLkO did not show his hand
+NaGiBaLkO collected [ $165 ]
+
+
+
+#Game No : 644573998
+***** 888poker Hand History for Game 644573998 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:29:55
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,744 )
+Seat 2: NaGiBaLkO ( $1,683 )
+Seat 4: marshmello72 ( $2,126 )
+Seat 6: Commentator2 ( $1,087 )
+Seat 7: PapaShango19 ( $1,648 )
+Seat 9: Jarrod1967 ( $7,557 )
+Commentator2 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 4c ]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO raises [$78]
+marshmello72 calls [$78]
+Commentator2 folds
+PapaShango19 folds
+** Dealing flop ** [ 7c, 5c, Qh ]
+NaGiBaLkO bets [$120]
+marshmello72 raises [$561]
+NaGiBaLkO raises [$1,485]
+marshmello72 calls [$1,044]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 3d ]
+** Summary **
+NaGiBaLkO shows [ Kc, Qc ]
+marshmello72 shows [ Ts, Tc ]
+NaGiBaLkO collected [ $3,411 ]
+
+
+
+#Game No : 644574126
+***** 888poker Hand History for Game 644574126 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:30:47
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,744 )
+Seat 2: NaGiBaLkO ( $3,411 )
+Seat 4: marshmello72 ( $443 )
+Seat 6: Commentator2 ( $1,072 )
+Seat 7: PapaShango19 ( $1,618 )
+Seat 9: Jarrod1967 ( $7,557 )
+PapaShango19 posts small blind [$15]
+Jarrod1967 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 8d ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 raises [$443]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $75 ]
+
+
+
+#Game No : 644574182
+***** 888poker Hand History for Game 644574182 *****
+$15/$30 Blinds No Limit Holdem - *** 28 11 2014 09:31:10
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,744 )
+Seat 2: NaGiBaLkO ( $3,411 )
+Seat 4: marshmello72 ( $488 )
+Seat 6: Commentator2 ( $1,072 )
+Seat 7: PapaShango19 ( $1,603 )
+Seat 9: Jarrod1967 ( $7,527 )
+Jarrod1967 posts small blind [$15]
+nickclau posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Qs ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$15]
+nickclau raises [$810]
+Jarrod1967 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $60 ]
+
+
+
+#Game No : 644574220
+***** 888poker Hand History for Game 644574220 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:31:33
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,774 )
+Seat 2: NaGiBaLkO ( $3,411 )
+Seat 4: marshmello72 ( $488 )
+Seat 6: Commentator2 ( $1,072 )
+Seat 7: PapaShango19 ( $1,603 )
+Seat 9: Jarrod1967 ( $7,497 )
+nickclau posts small blind [$25]
+NaGiBaLkO posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Qc ]
+marshmello72 calls [$50]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$7,497]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$438]
+** Dealing flop ** [ 9s, Td, Js ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 5d ]
+** Summary **
+marshmello72 shows [ 5s, 5h ]
+Jarrod1967 shows [ Ad, 9c ]
+marshmello72 collected [ $1,051 ]
+
+
+
+#Game No : 644574281
+***** 888poker Hand History for Game 644574281 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:32:05
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,749 )
+Seat 2: NaGiBaLkO ( $3,361 )
+Seat 4: marshmello72 ( $1,051 )
+Seat 6: Commentator2 ( $1,072 )
+Seat 7: PapaShango19 ( $1,603 )
+Seat 9: Jarrod1967 ( $7,009 )
+NaGiBaLkO posts small blind [$25]
+marshmello72 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kh ]
+Commentator2 raises [$100]
+PapaShango19 folds
+Jarrod1967 raises [$7,009]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $275 ]
+
+
+
+#Game No : 644574312
+***** 888poker Hand History for Game 644574312 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:32:23
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,749 )
+Seat 2: NaGiBaLkO ( $3,336 )
+Seat 4: marshmello72 ( $1,001 )
+Seat 6: Commentator2 ( $972 )
+Seat 7: PapaShango19 ( $1,603 )
+Seat 9: Jarrod1967 ( $7,184 )
+marshmello72 posts small blind [$25]
+Commentator2 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ks ]
+PapaShango19 folds
+Jarrod1967 raises [$131]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $125 ]
+
+
+
+#Game No : 644574345
+***** 888poker Hand History for Game 644574345 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:32:41
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,749 )
+Seat 2: NaGiBaLkO ( $3,336 )
+Seat 4: marshmello72 ( $976 )
+Seat 6: Commentator2 ( $922 )
+Seat 7: PapaShango19 ( $1,603 )
+Seat 9: Jarrod1967 ( $7,259 )
+Commentator2 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 6h ]
+Jarrod1967 raises [$131]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $125 ]
+
+
+
+#Game No : 644574378
+***** 888poker Hand History for Game 644574378 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:32:57
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,749 )
+Seat 2: NaGiBaLkO ( $3,336 )
+Seat 4: marshmello72 ( $976 )
+Seat 6: Commentator2 ( $897 )
+Seat 7: PapaShango19 ( $1,553 )
+Seat 9: Jarrod1967 ( $7,334 )
+PapaShango19 posts small blind [$25]
+Jarrod1967 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Th ]
+nickclau folds
+NaGiBaLkO raises [$131]
+marshmello72 raises [$976]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+NaGiBaLkO calls [$845]
+** Dealing flop ** [ Ts, 8c, 9d ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 7s ]
+** Summary **
+NaGiBaLkO shows [ Tc, Ad ]
+marshmello72 shows [ 5d, 5s ]
+NaGiBaLkO collected [ $2,027 ]
+
+
+
+#Game No : 644574468
+***** 888poker Hand History for Game 644574468 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:33:43
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,749 )
+Seat 2: NaGiBaLkO ( $4,387 )
+Seat 4: marshmello72 ( $2,000 )
+Seat 6: Commentator2 ( $897 )
+Seat 7: PapaShango19 ( $1,528 )
+Seat 9: Jarrod1967 ( $7,284 )
+Jarrod1967 posts small blind [$25]
+nickclau posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9h ]
+NaGiBaLkO folds
+marshmello72 calls [$50]
+Commentator2 raises [$897]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+marshmello72 calls [$847]
+** Dealing flop ** [ 6c, 4h, 3c ]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ Jc ]
+** Summary **
+marshmello72 shows [ 8h, Qc ]
+Commentator2 shows [ Jh, Ts ]
+marshmello72 collected [ $1,869 ]
+
+
+
+#Game No : 644574526
+***** 888poker Hand History for Game 644574526 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:34:14
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,699 )
+Seat 2: NaGiBaLkO ( $4,387 )
+Seat 4: marshmello72 ( $2,972 )
+Seat 6: Commentator2 ( $2,000 )
+Seat 7: PapaShango19 ( $1,528 )
+Seat 9: Jarrod1967 ( $7,259 )
+nickclau posts small blind [$25]
+NaGiBaLkO posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7s ]
+marshmello72 calls [$50]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$168]
+nickclau raises [$1,674]
+NaGiBaLkO folds
+marshmello72 folds
+Jarrod1967 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $436 ]
+
+
+
+#Game No : 644574587
+***** 888poker Hand History for Game 644574587 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:34:46
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,967 )
+Seat 2: NaGiBaLkO ( $4,337 )
+Seat 4: marshmello72 ( $2,922 )
+Seat 6: Commentator2 ( $2,000 )
+Seat 7: PapaShango19 ( $1,528 )
+Seat 9: Jarrod1967 ( $7,091 )
+NaGiBaLkO posts small blind [$25]
+marshmello72 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ks ]
+Commentator2 raises [$100]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+** Summary **
+Commentator2 did not show his hand
+Commentator2 collected [ $125 ]
+
+
+
+#Game No : 644574640
+***** 888poker Hand History for Game 644574640 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:35:06
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,967 )
+Seat 2: NaGiBaLkO ( $4,312 )
+Seat 4: marshmello72 ( $2,872 )
+Seat 6: Commentator2 ( $2,075 )
+Seat 7: PapaShango19 ( $1,528 )
+Seat 9: Jarrod1967 ( $7,091 )
+marshmello72 posts small blind [$25]
+Commentator2 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 9h ]
+PapaShango19 calls [$50]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$25]
+Commentator2 checks
+** Dealing flop ** [ Qh, Kd, Ah ]
+marshmello72 checks
+Commentator2 checks
+PapaShango19 checks
+** Dealing turn ** [ Ad ]
+marshmello72 checks
+Commentator2 checks
+PapaShango19 checks
+** Dealing river ** [ 6s ]
+marshmello72 checks
+Commentator2 checks
+PapaShango19 checks
+** Summary **
+marshmello72 shows [ 2h, 7s ]
+Commentator2 mucks [ 5d, 3s ]
+PapaShango19 shows [ Jh, 9h ]
+PapaShango19 collected [ $150 ]
+
+
+
+#Game No : 644574733
+***** 888poker Hand History for Game 644574733 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:35:50
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,967 )
+Seat 2: NaGiBaLkO ( $4,312 )
+Seat 4: marshmello72 ( $2,822 )
+Seat 6: Commentator2 ( $2,025 )
+Seat 7: PapaShango19 ( $1,628 )
+Seat 9: Jarrod1967 ( $7,091 )
+Commentator2 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 7d ]
+Jarrod1967 raises [$131]
+nickclau folds
+NaGiBaLkO raises [$351]
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$6,960]
+NaGiBaLkO calls [$3,961]
+** Dealing flop ** [ 5d, 9h, 4d ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ Qc ]
+** Summary **
+NaGiBaLkO shows [ Ac, As ]
+Jarrod1967 shows [ Ah, 9c ]
+NaGiBaLkO collected [ $8,699 ]
+
+
+
+#Game No : 644574809
+***** 888poker Hand History for Game 644574809 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:36:29
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $1,967 )
+Seat 2: NaGiBaLkO ( $8,699 )
+Seat 4: marshmello72 ( $2,822 )
+Seat 6: Commentator2 ( $2,000 )
+Seat 7: PapaShango19 ( $1,578 )
+Seat 9: Jarrod1967 ( $2,779 )
+PapaShango19 posts small blind [$25]
+Jarrod1967 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 7h ]
+nickclau raises [$100]
+NaGiBaLkO folds
+marshmello72 calls [$100]
+Commentator2 folds
+PapaShango19 calls [$75]
+Jarrod1967 raises [$2,729]
+nickclau calls [$1,867]
+marshmello72 folds
+PapaShango19 folds
+** Dealing flop ** [ Qs, Qd, 4d ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 3c ]
+** Summary **
+nickclau shows [ Ah, Ad ]
+Jarrod1967 shows [ Jc, 7d ]
+nickclau collected [ $4,134 ]
+
+
+
+#Game No : 644574893
+***** 888poker Hand History for Game 644574893 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:37:12
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,134 )
+Seat 2: NaGiBaLkO ( $8,699 )
+Seat 4: marshmello72 ( $2,722 )
+Seat 6: Commentator2 ( $2,000 )
+Seat 7: PapaShango19 ( $1,478 )
+Seat 9: Jarrod1967 ( $2,812 )
+Jarrod1967 posts small blind [$25]
+nickclau posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 3c ]
+NaGiBaLkO folds
+marshmello72 raises [$100]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$2,787]
+nickclau folds
+marshmello72 calls [$2,622]
+** Dealing flop ** [ Ac, 9c, 9s ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ Qs ]
+** Summary **
+marshmello72 shows [ Th, Ks ]
+Jarrod1967 shows [ Qh, 6h ]
+marshmello72 collected [ $5,494 ]
+
+
+
+#Game No : 644574966
+***** 888poker Hand History for Game 644574966 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:37:51
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,084 )
+Seat 2: NaGiBaLkO ( $8,699 )
+Seat 4: marshmello72 ( $5,494 )
+Seat 6: Commentator2 ( $2,000 )
+Seat 7: PapaShango19 ( $1,478 )
+Seat 9: Jarrod1967 ( $90 )
+nickclau posts small blind [$25]
+NaGiBaLkO posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9s ]
+marshmello72 folds
+Commentator2 calls [$50]
+PapaShango19 folds
+Jarrod1967 raises [$90]
+nickclau folds
+NaGiBaLkO calls [$40]
+Commentator2 calls [$40]
+** Dealing flop ** [ Qh, 8c, Jc ]
+NaGiBaLkO checks
+Commentator2 checks
+** Dealing turn ** [ 4s ]
+NaGiBaLkO checks
+Commentator2 checks
+** Dealing river ** [ Jh ]
+NaGiBaLkO checks
+Commentator2 checks
+** Summary **
+NaGiBaLkO shows [ 5h, Kd ]
+Commentator2 shows [ Tc, Ah ]
+Jarrod1967 shows [ Qs, As ]
+Jarrod1967 collected [ $295 ]
+
+
+
+#Game No : 644575034
+***** 888poker Hand History for Game 644575034 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:38:24
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,059 )
+Seat 2: NaGiBaLkO ( $8,609 )
+Seat 4: marshmello72 ( $5,494 )
+Seat 6: Commentator2 ( $1,910 )
+Seat 7: PapaShango19 ( $1,478 )
+Seat 9: Jarrod1967 ( $295 )
+NaGiBaLkO posts small blind [$25]
+marshmello72 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 8d ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+nickclau raises [$100]
+NaGiBaLkO folds
+marshmello72 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $125 ]
+
+
+
+#Game No : 644575084
+***** 888poker Hand History for Game 644575084 *****
+$25/$50 Blinds No Limit Holdem - *** 28 11 2014 09:38:44
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,134 )
+Seat 2: NaGiBaLkO ( $8,584 )
+Seat 4: marshmello72 ( $5,444 )
+Seat 6: Commentator2 ( $1,910 )
+Seat 7: PapaShango19 ( $1,478 )
+Seat 9: Jarrod1967 ( $295 )
+marshmello72 posts small blind [$25]
+Commentator2 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2h ]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$25]
+Commentator2 checks
+** Dealing flop ** [ 7s, Ac, Jc ]
+marshmello72 checks
+Commentator2 checks
+** Dealing turn ** [ 8s ]
+marshmello72 bets [$50]
+Commentator2 calls [$50]
+** Dealing river ** [ Td ]
+marshmello72 checks
+Commentator2 bets [$150]
+marshmello72 raises [$300]
+Commentator2 raises [$1,660]
+marshmello72 folds
+** Summary **
+Commentator2 did not show his hand
+Commentator2 collected [ $800 ]
+
+
+
+#Game No : 644575166
+***** 888poker Hand History for Game 644575166 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:39:33
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,134 )
+Seat 2: NaGiBaLkO ( $8,584 )
+Seat 4: marshmello72 ( $5,044 )
+Seat 6: Commentator2 ( $2,310 )
+Seat 7: PapaShango19 ( $1,478 )
+Seat 9: Jarrod1967 ( $295 )
+Commentator2 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 7h ]
+Jarrod1967 raises [$295]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 calls [$195]
+** Dealing flop ** [ Ad, Qs, 5d ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Qh ]
+** Summary **
+PapaShango19 shows [ As, 7h ]
+Jarrod1967 shows [ 7s, 7d ]
+PapaShango19 collected [ $640 ]
+
+
+
+#Game No : 644575233
+***** 888poker Hand History for Game 644575233 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:40:09
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,134 )
+Seat 2: NaGiBaLkO ( $8,584 )
+Seat 4: marshmello72 ( $5,044 )
+Seat 6: Commentator2 ( $2,260 )
+Seat 7: PapaShango19 ( $1,823 )
+Seat 9: Jarrod1967 ( $4,000 )
+PapaShango19 posts small blind [$50]
+Jarrod1967 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 9d ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 raises [$200]
+PapaShango19 folds
+Jarrod1967 raises [$3,900]
+Commentator2 calls [$2,060]
+** Dealing flop ** [ Jd, 5s, 4s ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 6s ]
+** Summary **
+Commentator2 shows [ 3d, Ad ]
+Jarrod1967 shows [ 8c, Qd ]
+Commentator2 collected [ $4,570 ]
+
+
+
+#Game No : 644575295
+***** 888poker Hand History for Game 644575295 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:40:48
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,134 )
+Seat 2: NaGiBaLkO ( $8,584 )
+Seat 4: marshmello72 ( $5,044 )
+Seat 6: Commentator2 ( $4,570 )
+Seat 7: PapaShango19 ( $1,773 )
+Seat 9: Jarrod1967 ( $1,740 )
+Jarrod1967 posts small blind [$50]
+nickclau posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 9d ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$1,690]
+nickclau folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $200 ]
+
+
+
+#Game No : 644575327
+***** 888poker Hand History for Game 644575327 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:41:04
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,034 )
+Seat 2: NaGiBaLkO ( $8,584 )
+Seat 4: marshmello72 ( $5,044 )
+Seat 6: Commentator2 ( $4,570 )
+Seat 7: PapaShango19 ( $1,773 )
+Seat 9: Jarrod1967 ( $1,840 )
+nickclau posts small blind [$50]
+NaGiBaLkO posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Jh ]
+marshmello72 raises [$200]
+Commentator2 raises [$4,570]
+PapaShango19 folds
+Jarrod1967 calls [$1,840]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+** Dealing flop ** [ Th, Qs, 6d ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 8s ]
+** Summary **
+Commentator2 shows [ Ah, Qc ]
+Jarrod1967 shows [ 7s, Ks ]
+Commentator2 collected [ $4,030 ]
+
+
+
+#Game No : 644575402
+***** 888poker Hand History for Game 644575402 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:41:41
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,984 )
+Seat 2: NaGiBaLkO ( $8,484 )
+Seat 4: marshmello72 ( $4,844 )
+Seat 6: Commentator2 ( $6,760 )
+Seat 7: PapaShango19 ( $1,773 )
+Seat 9: Jarrod1967 ( $4,000 )
+NaGiBaLkO posts small blind [$50]
+marshmello72 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 3h ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+nickclau raises [$200]
+NaGiBaLkO folds
+marshmello72 calls [$100]
+** Dealing flop ** [ Qd, 4d, 2s ]
+marshmello72 checks
+nickclau bets [$100]
+marshmello72 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $450 ]
+
+
+
+#Game No : 644575448
+***** 888poker Hand History for Game 644575448 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:42:05
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,234 )
+Seat 2: NaGiBaLkO ( $8,434 )
+Seat 4: marshmello72 ( $4,644 )
+Seat 6: Commentator2 ( $6,760 )
+Seat 7: PapaShango19 ( $1,773 )
+Seat 9: Jarrod1967 ( $4,000 )
+marshmello72 posts small blind [$50]
+Commentator2 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3h ]
+PapaShango19 folds
+Jarrod1967 raises [$4,000]
+nickclau raises [$4,234]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 calls [$4,134]
+** Dealing flop ** [ 4s, 2d, Qc ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ Jd ]
+** Summary **
+nickclau shows [ Tc, Th ]
+Commentator2 shows [ Qs, Ah ]
+Jarrod1967 shows [ 6s, 2s ]
+Jarrod1967 collected [ $12,050 ]
+Commentator2 collected [ $468 ]
+
+
+
+#Game No : 644575507
+***** 888poker Hand History for Game 644575507 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:42:37
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,000 )
+Seat 2: NaGiBaLkO ( $8,434 )
+Seat 4: marshmello72 ( $4,594 )
+Seat 6: Commentator2 ( $2,994 )
+Seat 7: PapaShango19 ( $1,773 )
+Seat 9: Jarrod1967 ( $12,050 )
+Commentator2 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 9d ]
+Jarrod1967 raises [$200]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$200]
+Commentator2 folds
+PapaShango19 calls [$100]
+** Dealing flop ** [ Qc, Qs, 2d ]
+PapaShango19 checks
+Jarrod1967 checks
+marshmello72 checks
+** Dealing turn ** [ 3h ]
+PapaShango19 checks
+Jarrod1967 checks
+marshmello72 checks
+** Dealing river ** [ Qh ]
+PapaShango19 checks
+Jarrod1967 checks
+marshmello72 bets [$100]
+PapaShango19 folds
+Jarrod1967 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $650 ]
+
+
+
+#Game No : 644575630
+***** 888poker Hand History for Game 644575630 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:43:57
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,000 )
+Seat 2: NaGiBaLkO ( $8,434 )
+Seat 4: marshmello72 ( $5,044 )
+Seat 6: Commentator2 ( $2,944 )
+Seat 7: PapaShango19 ( $1,573 )
+Seat 9: Jarrod1967 ( $11,850 )
+PapaShango19 posts small blind [$50]
+Jarrod1967 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 8h ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $150 ]
+
+
+
+#Game No : 644575678
+***** 888poker Hand History for Game 644575678 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:44:24
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,000 )
+Seat 2: NaGiBaLkO ( $8,434 )
+Seat 4: marshmello72 ( $5,044 )
+Seat 6: Commentator2 ( $2,944 )
+Seat 7: PapaShango19 ( $1,523 )
+Seat 9: Jarrod1967 ( $11,900 )
+Jarrod1967 posts small blind [$50]
+nickclau posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 7s ]
+NaGiBaLkO folds
+marshmello72 calls [$100]
+Commentator2 raises [$2,944]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+marshmello72 folds
+** Summary **
+Commentator2 did not show his hand
+Commentator2 collected [ $350 ]
+
+
+
+#Game No : 644575712
+***** 888poker Hand History for Game 644575712 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:44:48
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,900 )
+Seat 2: NaGiBaLkO ( $8,434 )
+Seat 4: marshmello72 ( $4,944 )
+Seat 6: Commentator2 ( $3,194 )
+Seat 7: PapaShango19 ( $1,523 )
+Seat 9: Jarrod1967 ( $11,850 )
+nickclau posts small blind [$50]
+NaGiBaLkO posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 2s ]
+marshmello72 calls [$100]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$450]
+nickclau raises [$3,850]
+NaGiBaLkO folds
+marshmello72 folds
+Jarrod1967 calls [$3,450]
+** Dealing flop ** [ 2c, 8d, Qc ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ Jh ]
+** Summary **
+nickclau shows [ Ks, Th ]
+Jarrod1967 shows [ Kd, 9h ]
+Jarrod1967 collected [ $8,000 ]
+
+
+
+#Game No : 644575831
+***** 888poker Hand History for Game 644575831 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:45:48
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $2,000 )
+Seat 2: NaGiBaLkO ( $8,334 )
+Seat 4: marshmello72 ( $4,844 )
+Seat 6: Commentator2 ( $3,194 )
+Seat 7: PapaShango19 ( $1,523 )
+Seat 9: Jarrod1967 ( $15,950 )
+NaGiBaLkO posts small blind [$50]
+marshmello72 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Js ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+nickclau raises [$2,000]
+NaGiBaLkO folds
+marshmello72 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $250 ]
+
+
+
+#Game No : 644575862
+***** 888poker Hand History for Game 644575862 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:46:10
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $2,150 )
+Seat 2: NaGiBaLkO ( $8,284 )
+Seat 4: marshmello72 ( $4,744 )
+Seat 6: Commentator2 ( $3,194 )
+Seat 7: PapaShango19 ( $1,523 )
+Seat 9: Jarrod1967 ( $15,950 )
+marshmello72 posts small blind [$50]
+Commentator2 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 9d ]
+PapaShango19 folds
+Jarrod1967 raises [$400]
+nickclau raises [$2,150]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 raises [$3,094]
+Jarrod1967 calls [$2,794]
+** Dealing flop ** [ As, 9c, 4s ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ Td ]
+** Summary **
+nickclau shows [ 6h, 6c ]
+Commentator2 shows [ 7h, 7s ]
+Jarrod1967 shows [ 3h, Qh ]
+Commentator2 collected [ $6,500 ]
+Commentator2 collected [ $2,088 ]
+
+
+
+#Game No : 644575927
+***** 888poker Hand History for Game 644575927 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:46:55
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,000 )
+Seat 2: NaGiBaLkO ( $8,284 )
+Seat 4: marshmello72 ( $4,694 )
+Seat 6: Commentator2 ( $8,588 )
+Seat 7: PapaShango19 ( $1,523 )
+Seat 9: Jarrod1967 ( $12,756 )
+Commentator2 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, As ]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $150 ]
+
+
+
+#Game No : 644575946
+***** 888poker Hand History for Game 644575946 *****
+$50/$100 Blinds No Limit Holdem - *** 28 11 2014 09:47:08
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,000 )
+Seat 2: NaGiBaLkO ( $8,284 )
+Seat 4: marshmello72 ( $4,694 )
+Seat 6: Commentator2 ( $8,538 )
+Seat 7: PapaShango19 ( $1,573 )
+Seat 9: Jarrod1967 ( $12,756 )
+PapaShango19 posts small blind [$50]
+Jarrod1967 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, As ]
+nickclau raises [$200]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$412]
+nickclau calls [$312]
+** Dealing flop ** [ 9h, 5c, 6s ]
+Jarrod1967 bets [$12,244]
+nickclau folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $1,074 ]
+
+
+
+#Game No : 644576008
+***** 888poker Hand History for Game 644576008 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:47:47
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,488 )
+Seat 2: NaGiBaLkO ( $8,284 )
+Seat 4: marshmello72 ( $4,694 )
+Seat 6: Commentator2 ( $8,538 )
+Seat 7: PapaShango19 ( $1,523 )
+Seat 9: Jarrod1967 ( $13,318 )
+Jarrod1967 posts small blind [$75]
+nickclau posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Js ]
+NaGiBaLkO raises [$393]
+marshmello72 folds
+Commentator2 folds
+PapaShango19 raises [$1,523]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO calls [$1,130]
+** Dealing flop ** [ 4c, 3h, Kd ]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ 5s ]
+** Summary **
+NaGiBaLkO shows [ Jd, Jc ]
+PapaShango19 shows [ As, Js ]
+PapaShango19 collected [ $3,271 ]
+
+
+
+#Game No : 644576045
+***** 888poker Hand History for Game 644576045 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:48:16
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,338 )
+Seat 2: NaGiBaLkO ( $6,761 )
+Seat 4: marshmello72 ( $4,694 )
+Seat 6: Commentator2 ( $8,538 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $13,243 )
+nickclau posts small blind [$75]
+NaGiBaLkO posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Tc ]
+marshmello72 calls [$150]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$150]
+nickclau folds
+NaGiBaLkO checks
+** Dealing flop ** [ 6h, Ad, Js ]
+NaGiBaLkO checks
+marshmello72 bets [$150]
+Jarrod1967 folds
+NaGiBaLkO folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $525 ]
+
+
+
+#Game No : 644576105
+***** 888poker Hand History for Game 644576105 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:48:54
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,263 )
+Seat 2: NaGiBaLkO ( $6,611 )
+Seat 4: marshmello72 ( $5,069 )
+Seat 6: Commentator2 ( $8,538 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $13,093 )
+NaGiBaLkO posts small blind [$75]
+marshmello72 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Qs ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO raises [$281]
+marshmello72 calls [$206]
+** Dealing flop ** [ As, 8h, 6s ]
+NaGiBaLkO bets [$356]
+marshmello72 folds
+** Summary **
+NaGiBaLkO did not show his hand
+NaGiBaLkO collected [ $712 ]
+
+
+
+#Game No : 644576134
+***** 888poker Hand History for Game 644576134 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:49:17
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,263 )
+Seat 2: NaGiBaLkO ( $6,967 )
+Seat 4: marshmello72 ( $4,713 )
+Seat 6: Commentator2 ( $8,538 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $13,093 )
+marshmello72 posts small blind [$75]
+Commentator2 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9s ]
+PapaShango19 folds
+Jarrod1967 raises [$300]
+nickclau raises [$3,263]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+Jarrod1967 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $825 ]
+
+
+
+#Game No : 644576190
+***** 888poker Hand History for Game 644576190 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:49:52
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,788 )
+Seat 2: NaGiBaLkO ( $6,967 )
+Seat 4: marshmello72 ( $4,638 )
+Seat 6: Commentator2 ( $8,388 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $12,793 )
+Commentator2 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5d ]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 644576216
+***** 888poker Hand History for Game 644576216 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:50:07
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,788 )
+Seat 2: NaGiBaLkO ( $6,967 )
+Seat 4: marshmello72 ( $4,638 )
+Seat 6: Commentator2 ( $8,313 )
+Seat 7: PapaShango19 ( $3,346 )
+Seat 9: Jarrod1967 ( $12,793 )
+PapaShango19 posts small blind [$75]
+Jarrod1967 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 2d ]
+nickclau raises [$300]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$150]
+** Dealing flop ** [ 7h, 9d, Jd ]
+Jarrod1967 bets [$150]
+nickclau raises [$3,488]
+Jarrod1967 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $975 ]
+
+
+
+#Game No : 644576275
+***** 888poker Hand History for Game 644576275 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:50:41
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,313 )
+Seat 2: NaGiBaLkO ( $6,967 )
+Seat 4: marshmello72 ( $4,638 )
+Seat 6: Commentator2 ( $8,313 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $12,343 )
+Jarrod1967 posts small blind [$75]
+nickclau posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 5h ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$75]
+nickclau checks
+** Dealing flop ** [ 8s, Ah, Jh ]
+Jarrod1967 bets [$150]
+nickclau folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $300 ]
+
+
+
+#Game No : 644576332
+***** 888poker Hand History for Game 644576332 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:51:27
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,163 )
+Seat 2: NaGiBaLkO ( $6,967 )
+Seat 4: marshmello72 ( $4,638 )
+Seat 6: Commentator2 ( $8,313 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $12,493 )
+nickclau posts small blind [$75]
+NaGiBaLkO posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 3d ]
+marshmello72 folds
+Commentator2 raises [$450]
+PapaShango19 folds
+Jarrod1967 raises [$1,181]
+nickclau folds
+NaGiBaLkO folds
+Commentator2 calls [$731]
+** Dealing flop ** [ 4h, Qc, 3h ]
+Commentator2 checks
+Jarrod1967 bets [$2,587]
+Commentator2 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $2,587 ]
+
+
+
+#Game No : 644576394
+***** 888poker Hand History for Game 644576394 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:52:09
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,088 )
+Seat 2: NaGiBaLkO ( $6,817 )
+Seat 4: marshmello72 ( $4,638 )
+Seat 6: Commentator2 ( $7,132 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $13,899 )
+NaGiBaLkO posts small blind [$75]
+marshmello72 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 2s ]
+Commentator2 raises [$300]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$150]
+** Dealing flop ** [ 5d, 6c, Qh ]
+marshmello72 bets [$506]
+Commentator2 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $675 ]
+
+
+
+#Game No : 644576442
+***** 888poker Hand History for Game 644576442 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:52:39
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,088 )
+Seat 2: NaGiBaLkO ( $6,742 )
+Seat 4: marshmello72 ( $5,013 )
+Seat 6: Commentator2 ( $6,832 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $13,899 )
+marshmello72 posts small blind [$75]
+Commentator2 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Kc ]
+PapaShango19 folds
+Jarrod1967 raises [$393]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$318]
+Commentator2 folds
+** Dealing flop ** [ Js, Ts, Qc ]
+marshmello72 bets [$150]
+Jarrod1967 raises [$13,506]
+marshmello72 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $1,236 ]
+
+
+
+#Game No : 644576515
+***** 888poker Hand History for Game 644576515 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:53:35
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,088 )
+Seat 2: NaGiBaLkO ( $6,742 )
+Seat 4: marshmello72 ( $4,470 )
+Seat 6: Commentator2 ( $6,682 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $14,592 )
+Commentator2 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 5d ]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 644576555
+***** 888poker Hand History for Game 644576555 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:53:56
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,088 )
+Seat 2: NaGiBaLkO ( $6,742 )
+Seat 4: marshmello72 ( $4,470 )
+Seat 6: Commentator2 ( $6,607 )
+Seat 7: PapaShango19 ( $3,346 )
+Seat 9: Jarrod1967 ( $14,592 )
+PapaShango19 posts small blind [$75]
+Jarrod1967 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9d ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $225 ]
+
+
+
+#Game No : 644576580
+***** 888poker Hand History for Game 644576580 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:54:12
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,088 )
+Seat 2: NaGiBaLkO ( $6,742 )
+Seat 4: marshmello72 ( $4,470 )
+Seat 6: Commentator2 ( $6,607 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $14,667 )
+Jarrod1967 posts small blind [$75]
+nickclau posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 6d ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 raises [$300]
+PapaShango19 folds
+Jarrod1967 calls [$225]
+nickclau folds
+** Dealing flop ** [ 4c, 9c, 8c ]
+Jarrod1967 bets [$150]
+Commentator2 calls [$150]
+** Dealing turn ** [ Jh ]
+Jarrod1967 bets [$150]
+Commentator2 calls [$150]
+** Dealing river ** [ Jc ]
+Jarrod1967 bets [$450]
+Commentator2 raises [$1,350]
+Jarrod1967 folds
+** Summary **
+Commentator2 did not show his hand
+Commentator2 collected [ $2,250 ]
+
+
+
+#Game No : 644576889
+***** 888poker Hand History for Game 644576889 *****
+$75/$150 Blinds No Limit Holdem - *** 28 11 2014 09:59:58
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,938 )
+Seat 2: NaGiBaLkO ( $6,742 )
+Seat 4: marshmello72 ( $4,470 )
+Seat 6: Commentator2 ( $7,807 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $13,617 )
+nickclau posts small blind [$75]
+NaGiBaLkO posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 6d ]
+marshmello72 calls [$150]
+Commentator2 calls [$150]
+PapaShango19 folds
+Jarrod1967 raises [$618]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$468]
+Commentator2 calls [$468]
+** Dealing flop ** [ Kd, 4h, 9d ]
+marshmello72 checks
+Commentator2 checks
+Jarrod1967 checks
+** Dealing turn ** [ Th ]
+marshmello72 bets [$150]
+Commentator2 raises [$1,896]
+Jarrod1967 folds
+marshmello72 folds
+** Summary **
+Commentator2 did not show his hand
+Commentator2 collected [ $2,379 ]
+
+
+
+#Game No : 644577009
+***** 888poker Hand History for Game 644577009 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:01:14
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $6,592 )
+Seat 4: marshmello72 ( $3,702 )
+Seat 6: Commentator2 ( $9,418 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $12,999 )
+NaGiBaLkO posts small blind [$100]
+marshmello72 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 7s ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$12,999]
+nickclau folds
+NaGiBaLkO calls [$6,492]
+marshmello72 calls [$3,502]
+** Dealing flop ** [ Qc, 5d, 6d ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Qs ]
+** Summary **
+NaGiBaLkO shows [ Kc, Kh ]
+marshmello72 shows [ Jc, Ad ]
+Jarrod1967 shows [ Ks, 8c ]
+NaGiBaLkO collected [ $11,106 ]
+NaGiBaLkO collected [ $5,780 ]
+
+
+
+#Game No : 644577094
+***** 888poker Hand History for Game 644577094 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:02:11
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,886 )
+Seat 4: marshmello72 ( $2,000 )
+Seat 6: Commentator2 ( $9,418 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $6,407 )
+marshmello72 posts small blind [$100]
+Commentator2 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9c ]
+PapaShango19 folds
+Jarrod1967 raises [$6,407]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $500 ]
+
+
+
+#Game No : 644577127
+***** 888poker Hand History for Game 644577127 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:02:42
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,886 )
+Seat 4: marshmello72 ( $1,900 )
+Seat 6: Commentator2 ( $9,218 )
+Seat 7: PapaShango19 ( $3,271 )
+Seat 9: Jarrod1967 ( $6,707 )
+Commentator2 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 4c ]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 raises [$400]
+Commentator2 raises [$500]
+PapaShango19 folds
+marshmello72 calls [$200]
+** Dealing flop ** [ Ks, 3h, 5h ]
+Commentator2 bets [$700]
+marshmello72 folds
+** Summary **
+Commentator2 did not show his hand
+Commentator2 collected [ $1,400 ]
+
+
+
+#Game No : 644577175
+***** 888poker Hand History for Game 644577175 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:03:10
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,886 )
+Seat 4: marshmello72 ( $1,300 )
+Seat 6: Commentator2 ( $10,018 )
+Seat 7: PapaShango19 ( $3,071 )
+Seat 9: Jarrod1967 ( $6,707 )
+PapaShango19 posts small blind [$100]
+Jarrod1967 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 3s ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 raises [$1,300]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $500 ]
+
+
+
+#Game No : 644577217
+***** 888poker Hand History for Game 644577217 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:03:42
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,886 )
+Seat 4: marshmello72 ( $1,600 )
+Seat 6: Commentator2 ( $10,018 )
+Seat 7: PapaShango19 ( $2,971 )
+Seat 9: Jarrod1967 ( $6,507 )
+Jarrod1967 posts small blind [$100]
+nickclau posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 2c ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 calls [$200]
+PapaShango19 folds
+Jarrod1967 calls [$100]
+nickclau checks
+** Dealing flop ** [ Tc, 7d, Th ]
+Jarrod1967 bets [$200]
+nickclau folds
+Commentator2 calls [$200]
+** Dealing turn ** [ Ad ]
+Jarrod1967 bets [$6,107]
+Commentator2 calls [$6,107]
+** Dealing river ** [ 2s ]
+** Summary **
+Commentator2 shows [ Qs, Ts ]
+Jarrod1967 shows [ 2h, Jc ]
+Commentator2 collected [ $13,214 ]
+
+
+
+#Game No : 644577284
+***** 888poker Hand History for Game 644577284 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:04:22
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,663 )
+Seat 2: NaGiBaLkO ( $16,886 )
+Seat 4: marshmello72 ( $1,600 )
+Seat 6: Commentator2 ( $16,725 )
+Seat 7: PapaShango19 ( $2,971 )
+Seat 9: Jarrod1967 ( $4,000 )
+nickclau posts small blind [$100]
+NaGiBaLkO posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 5h ]
+marshmello72 folds
+Commentator2 calls [$200]
+PapaShango19 folds
+Jarrod1967 raises [$4,000]
+nickclau calls [$3,563]
+NaGiBaLkO folds
+Commentator2 folds
+** Dealing flop ** [ Ks, Kc, 5c ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 3s ]
+** Summary **
+nickclau shows [ Ah, Ts ]
+Jarrod1967 shows [ Ad, 8h ]
+Jarrod1967 collected [ $3,863 ]
+nickclau collected [ $3,863 ]
+
+
+
+#Game No : 644577345
+***** 888poker Hand History for Game 644577345 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:05:00
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,686 )
+Seat 4: marshmello72 ( $1,600 )
+Seat 6: Commentator2 ( $16,525 )
+Seat 7: PapaShango19 ( $2,971 )
+Seat 9: Jarrod1967 ( $4,200 )
+NaGiBaLkO posts small blind [$100]
+marshmello72 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Kc ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$700]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $500 ]
+
+
+
+#Game No : 644577376
+***** 888poker Hand History for Game 644577376 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:05:18
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,586 )
+Seat 4: marshmello72 ( $1,400 )
+Seat 6: Commentator2 ( $16,525 )
+Seat 7: PapaShango19 ( $2,971 )
+Seat 9: Jarrod1967 ( $4,500 )
+marshmello72 posts small blind [$100]
+Commentator2 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 9d ]
+PapaShango19 folds
+Jarrod1967 calls [$200]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$100]
+Commentator2 checks
+** Dealing flop ** [ Kd, 7d, 8d ]
+marshmello72 bets [$1,200]
+Commentator2 folds
+Jarrod1967 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $600 ]
+
+
+
+#Game No : 644577430
+***** 888poker Hand History for Game 644577430 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:05:53
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,586 )
+Seat 4: marshmello72 ( $1,800 )
+Seat 6: Commentator2 ( $16,325 )
+Seat 7: PapaShango19 ( $2,971 )
+Seat 9: Jarrod1967 ( $4,300 )
+Commentator2 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4c ]
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO folds
+marshmello72 raises [$800]
+Commentator2 folds
+PapaShango19 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $500 ]
+
+
+
+#Game No : 644577495
+***** 888poker Hand History for Game 644577495 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:06:31
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,586 )
+Seat 4: marshmello72 ( $2,100 )
+Seat 6: Commentator2 ( $16,225 )
+Seat 7: PapaShango19 ( $2,771 )
+Seat 9: Jarrod1967 ( $4,300 )
+PapaShango19 posts small blind [$100]
+Jarrod1967 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Ac ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 raises [$16,225]
+PapaShango19 calls [$2,671]
+Jarrod1967 calls [$4,100]
+** Dealing flop ** [ 7c, Ad, 3h ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 2h ]
+** Summary **
+Commentator2 shows [ 8d, 8s ]
+PapaShango19 shows [ Ks, Ac ]
+Jarrod1967 shows [ 3d, 2d ]
+PapaShango19 collected [ $8,313 ]
+Commentator2 collected [ $3,058 ]
+
+
+
+#Game No : 644577553
+***** 888poker Hand History for Game 644577553 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:07:08
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,863 )
+Seat 2: NaGiBaLkO ( $16,586 )
+Seat 4: marshmello72 ( $2,100 )
+Seat 6: Commentator2 ( $14,983 )
+Seat 7: PapaShango19 ( $8,313 )
+Seat 9: Jarrod1967 ( $4,000 )
+Jarrod1967 posts small blind [$100]
+nickclau posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 8h ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$100]
+nickclau raises [$3,663]
+Jarrod1967 calls [$3,663]
+** Dealing flop ** [ 4c, 7s, 6d ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 6s ]
+** Summary **
+nickclau shows [ Td, Js ]
+Jarrod1967 shows [ 2h, 8d ]
+nickclau collected [ $7,726 ]
+
+
+
+#Game No : 644577594
+***** 888poker Hand History for Game 644577594 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:07:39
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $7,726 )
+Seat 2: NaGiBaLkO ( $16,586 )
+Seat 4: marshmello72 ( $2,100 )
+Seat 6: Commentator2 ( $14,983 )
+Seat 7: PapaShango19 ( $8,313 )
+Seat 9: Jarrod1967 ( $137 )
+nickclau posts small blind [$100]
+NaGiBaLkO posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 4d ]
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$137]
+nickclau folds
+** Dealing flop ** [ 7h, 6d, 5s ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 2d ]
+** Summary **
+NaGiBaLkO shows [ Qd, 5d ]
+Jarrod1967 shows [ 3h, 9d ]
+NaGiBaLkO collected [ $374 ]
+NaGiBaLkO collected [ $63 ]
+
+
+
+#Game No : 644577643
+***** 888poker Hand History for Game 644577643 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:08:14
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $7,626 )
+Seat 2: NaGiBaLkO ( $16,823 )
+Seat 4: marshmello72 ( $2,100 )
+Seat 6: Commentator2 ( $14,983 )
+Seat 7: PapaShango19 ( $8,313 )
+Seat 9: Jarrod1967 ( $4,000 )
+NaGiBaLkO posts small blind [$100]
+marshmello72 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Kc ]
+Commentator2 raises [$700]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO calls [$600]
+marshmello72 calls [$500]
+** Dealing flop ** [ Ts, 5c, Jd ]
+NaGiBaLkO checks
+marshmello72 bets [$1,400]
+Commentator2 raises [$2,800]
+NaGiBaLkO folds
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 9h ]
+** Summary **
+marshmello72 shows [ 9d, Td ]
+Commentator2 shows [ 6d, 6h ]
+marshmello72 collected [ $4,900 ]
+
+
+
+#Game No : 644577734
+***** 888poker Hand History for Game 644577734 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:09:15
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $7,626 )
+Seat 2: NaGiBaLkO ( $16,123 )
+Seat 4: marshmello72 ( $4,900 )
+Seat 6: Commentator2 ( $12,883 )
+Seat 7: PapaShango19 ( $8,313 )
+Seat 9: Jarrod1967 ( $4,000 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+marshmello72 posts small blind [$100]
+Commentator2 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Th ]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO raises [$425]
+marshmello72 folds
+Commentator2 raises [$450]
+NaGiBaLkO calls [$225]
+** Dealing flop ** [ 6h, 4c, 7h ]
+Commentator2 bets [$1,550]
+NaGiBaLkO folds
+** Summary **
+Commentator2 did not show his hand
+Commentator2 collected [ $1,550 ]
+
+
+
+#Game No : 644577792
+***** 888poker Hand History for Game 644577792 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:09:50
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $7,601 )
+Seat 2: NaGiBaLkO ( $15,448 )
+Seat 4: marshmello72 ( $4,775 )
+Seat 6: Commentator2 ( $13,758 )
+Seat 7: PapaShango19 ( $8,288 )
+Seat 9: Jarrod1967 ( $3,975 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+Commentator2 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8s ]
+Jarrod1967 raises [$3,950]
+nickclau calls [$3,950]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 raises [$7,600]
+PapaShango19 folds
+nickclau calls [$3,626]
+** Dealing flop ** [ Th, 5d, 2h ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ Ac ]
+** Summary **
+nickclau shows [ Kd, Qs ]
+Commentator2 shows [ Jd, Js ]
+Jarrod1967 shows [ Jc, 9h ]
+Commentator2 collected [ $12,200 ]
+Commentator2 collected [ $7,252 ]
+
+
+
+#Game No : 644577878
+***** 888poker Hand History for Game 644577878 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:10:45
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $4,000 )
+Seat 2: NaGiBaLkO ( $15,423 )
+Seat 4: marshmello72 ( $4,750 )
+Seat 6: Commentator2 ( $25,609 )
+Seat 7: PapaShango19 ( $8,063 )
+Seat 9: Jarrod1967 ( $4,000 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+PapaShango19 posts small blind [$100]
+Jarrod1967 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2d ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$200]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 checks
+** Dealing flop ** [ Kh, 9h, As ]
+Jarrod1967 checks
+marshmello72 checks
+** Dealing turn ** [ 2h ]
+Jarrod1967 checks
+marshmello72 checks
+** Dealing river ** [ 6c ]
+Jarrod1967 checks
+marshmello72 bets [$600]
+Jarrod1967 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $650 ]
+
+
+
+#Game No : 644577973
+***** 888poker Hand History for Game 644577973 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:11:38
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,975 )
+Seat 2: NaGiBaLkO ( $15,398 )
+Seat 4: marshmello72 ( $5,175 )
+Seat 6: Commentator2 ( $25,584 )
+Seat 7: PapaShango19 ( $7,938 )
+Seat 9: Jarrod1967 ( $3,775 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+Jarrod1967 posts small blind [$100]
+nickclau posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 5c ]
+NaGiBaLkO raises [$425]
+marshmello72 folds
+Commentator2 calls [$425]
+PapaShango19 folds
+Jarrod1967 calls [$325]
+nickclau folds
+** Dealing flop ** [ Qc, 3s, 4d ]
+Jarrod1967 bets [$3,325]
+NaGiBaLkO folds
+Commentator2 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $1,625 ]
+
+
+
+#Game No : 644578045
+***** 888poker Hand History for Game 644578045 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:12:12
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,750 )
+Seat 2: NaGiBaLkO ( $14,948 )
+Seat 4: marshmello72 ( $5,150 )
+Seat 6: Commentator2 ( $25,134 )
+Seat 7: PapaShango19 ( $7,913 )
+Seat 9: Jarrod1967 ( $4,950 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+nickclau posts small blind [$100]
+NaGiBaLkO posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 7h ]
+marshmello72 calls [$200]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$1,050]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$850]
+** Dealing flop ** [ Qs, 8d, 6s ]
+marshmello72 checks
+Jarrod1967 checks
+** Dealing turn ** [ 3s ]
+marshmello72 checks
+Jarrod1967 checks
+** Dealing river ** [ 9c ]
+marshmello72 bets [$600]
+Jarrod1967 folds
+** Summary **
+marshmello72 did not show his hand
+marshmello72 collected [ $2,550 ]
+
+
+
+#Game No : 644578125
+***** 888poker Hand History for Game 644578125 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:12:58
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,625 )
+Seat 2: NaGiBaLkO ( $14,723 )
+Seat 4: marshmello72 ( $6,625 )
+Seat 6: Commentator2 ( $25,109 )
+Seat 7: PapaShango19 ( $7,888 )
+Seat 9: Jarrod1967 ( $3,875 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+NaGiBaLkO posts small blind [$100]
+marshmello72 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 2s ]
+Commentator2 raises [$400]
+PapaShango19 folds
+Jarrod1967 raises [$3,850]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 calls [$3,450]
+** Dealing flop ** [ Ac, 5s, 4d ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Qd ]
+** Summary **
+Commentator2 shows [ Jc, Kd ]
+Jarrod1967 shows [ 7h, 7s ]
+Jarrod1967 collected [ $8,150 ]
+
+
+
+#Game No : 644578191
+***** 888poker Hand History for Game 644578191 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:13:29
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,600 )
+Seat 2: NaGiBaLkO ( $14,598 )
+Seat 4: marshmello72 ( $6,400 )
+Seat 6: Commentator2 ( $21,234 )
+Seat 7: PapaShango19 ( $7,863 )
+Seat 9: Jarrod1967 ( $8,150 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+marshmello72 posts small blind [$100]
+Commentator2 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 3c ]
+PapaShango19 folds
+Jarrod1967 folds
+nickclau folds
+NaGiBaLkO raises [$425]
+marshmello72 calls [$325]
+Commentator2 folds
+** Dealing flop ** [ 8s, Tc, Th ]
+marshmello72 checks
+NaGiBaLkO checks
+** Dealing turn ** [ 7c ]
+marshmello72 bets [$600]
+NaGiBaLkO calls [$600]
+** Dealing river ** [ 9d ]
+marshmello72 checks
+NaGiBaLkO checks
+** Summary **
+marshmello72 shows [ Ac, 5h ]
+NaGiBaLkO shows [ 9h, As ]
+NaGiBaLkO collected [ $2,400 ]
+
+
+
+#Game No : 644578291
+***** 888poker Hand History for Game 644578291 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:14:31
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,575 )
+Seat 2: NaGiBaLkO ( $15,948 )
+Seat 4: marshmello72 ( $5,350 )
+Seat 6: Commentator2 ( $21,009 )
+Seat 7: PapaShango19 ( $7,838 )
+Seat 9: Jarrod1967 ( $8,125 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+Commentator2 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 9h ]
+Jarrod1967 raises [$8,100]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 folds
+PapaShango19 folds
+** Summary **
+Jarrod1967 did not show his hand
+Jarrod1967 collected [ $650 ]
+
+
+
+#Game No : 644578323
+***** 888poker Hand History for Game 644578323 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:14:48
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,550 )
+Seat 2: NaGiBaLkO ( $15,923 )
+Seat 4: marshmello72 ( $5,325 )
+Seat 6: Commentator2 ( $20,884 )
+Seat 7: PapaShango19 ( $7,613 )
+Seat 9: Jarrod1967 ( $8,550 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+PapaShango19 posts small blind [$100]
+Jarrod1967 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ac ]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 raises [$400]
+PapaShango19 raises [$7,488]
+Jarrod1967 folds
+Commentator2 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,150 ]
+
+
+
+#Game No : 644578346
+***** 888poker Hand History for Game 644578346 *****
+$100/$200 Blinds No Limit Holdem - *** 28 11 2014 10:15:05
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: nickclau ( $3,525 )
+Seat 2: NaGiBaLkO ( $15,898 )
+Seat 4: marshmello72 ( $5,300 )
+Seat 6: Commentator2 ( $20,459 )
+Seat 7: PapaShango19 ( $8,338 )
+Seat 9: Jarrod1967 ( $8,325 )
+Jarrod1967 posts ante [$25]
+marshmello72 posts ante [$25]
+nickclau posts ante [$25]
+NaGiBaLkO posts ante [$25]
+Commentator2 posts ante [$25]
+PapaShango19 posts ante [$25]
+Jarrod1967 posts small blind [$100]
+nickclau posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3d ]
+NaGiBaLkO folds
+marshmello72 folds
+Commentator2 calls [$200]
+PapaShango19 folds
+Jarrod1967 calls [$100]
+nickclau raises [$200]
+Commentator2 calls [$200]
+Jarrod1967 calls [$200]
+** Dealing flop ** [ 3h, 9c, 9s ]
+Jarrod1967 checks
+nickclau checks
+Commentator2 checks
+** Dealing turn ** [ 8c ]
+Jarrod1967 checks
+nickclau bets [$3,100]
+Commentator2 folds
+Jarrod1967 folds
+** Summary **
+nickclau did not show his hand
+nickclau collected [ $1,350 ]
+
+
+
+#Game No : 644578755
+***** 888poker Hand History for Game 644578755 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:20:06
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: nickclau ( $9,450 )
+Seat 2: NaGiBaLkO ( $20,873 )
+Seat 4: marshmello72 ( $10,275 )
+Seat 6: Commentator2 ( $20,034 )
+Seat 7: PapaShango19 ( $13,313 )
+Seat 9: Jarrod1967 ( $12,900 )
+Jarrod1967 posts ante [$30]
+marshmello72 posts ante [$30]
+nickclau posts ante [$30]
+NaGiBaLkO posts ante [$30]
+Commentator2 posts ante [$30]
+PapaShango19 posts ante [$30]
+nickclau posts small blind [$125]
+NaGiBaLkO posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 4c ]
+marshmello72 raises [$1,055]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 calls [$1,055]
+nickclau folds
+NaGiBaLkO folds
+** Dealing flop ** [ Kc, 9c, Jd ]
+marshmello72 bets [$2,665]
+Jarrod1967 calls [$2,665]
+** Dealing turn ** [ 7s ]
+marshmello72 bets [$5,996]
+Jarrod1967 calls [$5,996]
+** Dealing river ** [ Ts ]
+marshmello72 bets [$529]
+Jarrod1967 calls [$529]
+** Summary **
+marshmello72 shows [ Qh, Qc ]
+Jarrod1967 shows [ 2s, Js ]
+marshmello72 collected [ $21,045 ]
+
+
+
+#Game No : 644578853
+***** 888poker Hand History for Game 644578853 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:21:08
+Tournament #63875554 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: nickclau ( $9,295 )
+Seat 2: NaGiBaLkO ( $20,593 )
+Seat 4: marshmello72 ( $21,045 )
+Seat 6: Commentator2 ( $20,004 )
+Seat 7: PapaShango19 ( $13,283 )
+Seat 9: Jarrod1967 ( $2,625 )
+Jarrod1967 posts ante [$30]
+marshmello72 posts ante [$30]
+nickclau posts ante [$30]
+NaGiBaLkO posts ante [$30]
+Commentator2 posts ante [$30]
+PapaShango19 posts ante [$30]
+NaGiBaLkO posts small blind [$125]
+marshmello72 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ah ]
+Commentator2 folds
+PapaShango19 folds
+Jarrod1967 raises [$2,595]
+nickclau folds
+NaGiBaLkO folds
+marshmello72 calls [$2,345]
+** Dealing flop ** [ 9d, 9h, Jh ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 4c ]
+** Summary **
+marshmello72 shows [ 7c, 7s ]
+Jarrod1967 shows [ 8h, Ks ]
+marshmello72 collected [ $5,495 ]
+
+
+
+#Game No : 644578889
+***** 888poker Hand History for Game 644578889 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:21:32
+Tournament #63875554 $1.35 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: lFearless ( $10,024 )
+Seat 4: BleFiX ( $49,893 )
+Seat 6: Gilly_uk ( $7,240 )
+Seat 7: sandel13 ( $13,976 )
+Seat 9: PushtheCooki ( $1,815 )
+BleFiX posts ante [$30]
+lFearless posts ante [$30]
+Gilly_uk posts ante [$30]
+PushtheCooki posts ante [$30]
+sandel13 posts ante [$30]
+lFearless posts small blind [$125]
+BleFiX posts big blind [$250]
+** Dealing down cards **
+Gilly_uk folds
+sandel13 folds
+PushtheCooki calls [$250]
+lFearless calls [$125]
+BleFiX checks
+** Dealing flop ** [ 4d, 7h, 8h ]
+lFearless checks
+BleFiX checks
+PushtheCooki bets [$1,535]
+lFearless calls [$1,535]
+BleFiX calls [$1,535]
+** Dealing turn ** [ 6s ]
+lFearless checks
+BleFiX checks
+** Dealing river ** [ Ks ]
+lFearless bets [$2,752]
+BleFiX folds
+** Summary **
+lFearless shows [ 6c, 4c ]
+PushtheCooki shows [ 7s, Jc ]
+lFearless collected [ $5,505 ]
+
+
+
+#Game No : 644578962
+***** 888poker Hand History for Game 644578962 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:22:12
+Tournament #63875554 $1.35 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: lFearless ( $13,714 )
+Seat 4: BleFiX ( $48,078 )
+Seat 6: Gilly_uk ( $7,210 )
+Seat 7: sandel13 ( $13,946 )
+BleFiX posts ante [$30]
+lFearless posts ante [$30]
+Gilly_uk posts ante [$30]
+sandel13 posts ante [$30]
+BleFiX posts small blind [$125]
+Gilly_uk posts big blind [$250]
+** Dealing down cards **
+sandel13 raises [$500]
+lFearless raises [$750]
+BleFiX folds
+Gilly_uk folds
+sandel13 calls [$250]
+** Dealing flop ** [ 7h, Qd, 4d ]
+sandel13 checks
+lFearless checks
+** Dealing turn ** [ 6d ]
+sandel13 checks
+lFearless checks
+** Dealing river ** [ 5d ]
+sandel13 checks
+lFearless checks
+** Summary **
+sandel13 shows [ 4h, 9h ]
+lFearless mucks [ As, Js ]
+sandel13 collected [ $1,995 ]
+
+
+
+#Game No : 644579003
+***** 888poker Hand History for Game 644579003 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:22:41
+Tournament #63875554 $1.35 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: lFearless ( $12,934 )
+Seat 2: PapaShango19 ( $13,253 )
+Seat 4: BleFiX ( $47,923 )
+Seat 6: Gilly_uk ( $6,930 )
+Seat 7: sandel13 ( $15,161 )
+BleFiX posts ante [$30]
+lFearless posts ante [$30]
+Gilly_uk posts ante [$30]
+sandel13 posts ante [$30]
+PapaShango19 posts ante [$30]
+Gilly_uk posts small blind [$125]
+sandel13 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, As ]
+lFearless folds
+PapaShango19 raises [$500]
+BleFiX calls [$500]
+Gilly_uk folds
+sandel13 folds
+** Dealing flop ** [ Qh, Qd, Kd ]
+PapaShango19 checks
+BleFiX bets [$1,525]
+PapaShango19 folds
+** Summary **
+BleFiX did not show his hand
+BleFiX collected [ $1,525 ]
+
+
+
+#Game No : 644579053
+***** 888poker Hand History for Game 644579053 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:23:08
+Tournament #63875554 $1.35 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: lFearless ( $12,904 )
+Seat 2: PapaShango19 ( $12,723 )
+Seat 4: BleFiX ( $48,918 )
+Seat 6: Gilly_uk ( $6,775 )
+Seat 7: sandel13 ( $14,881 )
+BleFiX posts ante [$30]
+lFearless posts ante [$30]
+Gilly_uk posts ante [$30]
+sandel13 posts ante [$30]
+PapaShango19 posts ante [$30]
+sandel13 posts small blind [$125]
+lFearless posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 7h ]
+PapaShango19 folds
+BleFiX calls [$250]
+Gilly_uk calls [$250]
+sandel13 calls [$125]
+lFearless checks
+** Dealing flop ** [ Kd, Jd, 6s ]
+sandel13 checks
+lFearless checks
+BleFiX checks
+Gilly_uk bets [$250]
+sandel13 folds
+lFearless calls [$250]
+BleFiX calls [$250]
+** Dealing turn ** [ 4d ]
+lFearless checks
+BleFiX checks
+Gilly_uk bets [$950]
+lFearless raises [$2,375]
+BleFiX folds
+Gilly_uk calls [$1,425]
+** Dealing river ** [ 3h ]
+lFearless bets [$9,999]
+Gilly_uk folds
+** Summary **
+lFearless collected [ $6,650 ]
+
+
+
+#Game No : 644579184
+***** 888poker Hand History for Game 644579184 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:24:19
+Tournament #63875554 $1.35 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: lFearless ( $16,649 )
+Seat 2: PapaShango19 ( $12,693 )
+Seat 4: BleFiX ( $48,388 )
+Seat 6: Gilly_uk ( $3,870 )
+Seat 7: sandel13 ( $14,601 )
+BleFiX posts ante [$30]
+lFearless posts ante [$30]
+Gilly_uk posts ante [$30]
+sandel13 posts ante [$30]
+PapaShango19 posts ante [$30]
+lFearless posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Td ]
+BleFiX calls [$250]
+Gilly_uk calls [$250]
+sandel13 folds
+lFearless calls [$125]
+PapaShango19 checks
+** Dealing flop ** [ 8h, Kd, Qd ]
+lFearless checks
+PapaShango19 checks
+BleFiX bets [$250]
+Gilly_uk folds
+lFearless folds
+PapaShango19 calls [$250]
+** Dealing turn ** [ 4c ]
+PapaShango19 checks
+BleFiX bets [$1,650]
+PapaShango19 folds
+** Summary **
+BleFiX collected [ $1,650 ]
+
+
+
+#Game No : 644579268
+***** 888poker Hand History for Game 644579268 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:25:03
+Tournament #63875554 $1.35 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: lFearless ( $16,369 )
+Seat 2: PapaShango19 ( $12,163 )
+Seat 4: BleFiX ( $49,508 )
+Seat 6: Gilly_uk ( $3,590 )
+Seat 7: sandel13 ( $14,571 )
+Seat 9: NicNoels ( $17,378 )
+BleFiX posts ante [$30]
+lFearless posts ante [$30]
+Gilly_uk posts ante [$30]
+sandel13 posts ante [$30]
+PapaShango19 posts ante [$30]
+NicNoels posts ante [$30]
+PapaShango19 posts small blind [$125]
+BleFiX posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 6s ]
+Gilly_uk calls [$250]
+sandel13 folds
+NicNoels folds
+lFearless raises [$978]
+PapaShango19 folds
+BleFiX calls [$728]
+Gilly_uk folds
+** Dealing flop ** [ Ks, 3h, 4h ]
+BleFiX checks
+lFearless bets [$1,255]
+BleFiX calls [$1,255]
+** Dealing turn ** [ 6c ]
+BleFiX bets [$5,021]
+lFearless folds
+** Summary **
+BleFiX did not show his hand
+BleFiX collected [ $5,021 ]
+
+
+
+#Game No : 644579432
+***** 888poker Hand History for Game 644579432 *****
+$125/$250 Blinds No Limit Holdem - *** 28 11 2014 10:26:47
+Tournament #63875554 $1.35 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: lFearless ( $14,106 )
+Seat 2: PapaShango19 ( $12,008 )
+Seat 4: BleFiX ( $52,266 )
+Seat 6: Gilly_uk ( $3,310 )
+Seat 7: sandel13 ( $14,541 )
+Seat 9: NicNoels ( $17,348 )
+BleFiX posts ante [$30]
+lFearless posts ante [$30]
+Gilly_uk posts ante [$30]
+sandel13 posts ante [$30]
+PapaShango19 posts ante [$30]
+NicNoels posts ante [$30]
+BleFiX posts small blind [$125]
+Gilly_uk posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Tc ]
+sandel13 folds
+NicNoels raises [$500]
+lFearless folds
+PapaShango19 calls [$500]
+BleFiX calls [$375]
+Gilly_uk folds
+** Dealing flop ** [ Qc, 8d, Ah ]
+BleFiX bets [$1,930]
+NicNoels calls [$1,930]
+PapaShango19 raises [$11,478]
+BleFiX raises [$19,096]
+NicNoels folds
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 9s ]
+** Summary **
+PapaShango19 shows [ As, Tc ]
+BleFiX shows [ 8h, Qh ]
+BleFiX collected [ $26,816 ]
+
+
+

@@ -1,0 +1,192 @@
+#Game No : 646217023
+***** 888poker Hand History for Game 646217023 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:10:22
+Tournament #64092739 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Piccola. ( $1,500 )
+Seat 2: ladisz85 ( $1,500 )
+Seat 3: wildtrout14 ( $1,500 )
+Seat 4: Menne81 ( $1,500 )
+Seat 5: Ausking88 ( $1,500 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: sens_ey ( $1,500 )
+Seat 9: imantsb ( $1,500 )
+Seat 10: famico66 ( $1,500 )
+imantsb posts small blind [$10]
+famico66 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Jh ]
+Piccola. calls [$20]
+ladisz85 folds
+wildtrout14 calls [$20]
+Menne81 calls [$20]
+Ausking88 raises [$130]
+PapaShango19 folds
+sens_ey folds
+imantsb folds
+famico66 folds
+Piccola. folds
+wildtrout14 calls [$110]
+Menne81 calls [$110]
+** Dealing flop ** [ 4c, Ac, 9d ]
+wildtrout14 checks
+Menne81 checks
+Ausking88 checks
+** Dealing turn ** [ 6h ]
+wildtrout14 bets [$380]
+Menne81 raises [$1,370]
+Ausking88 folds
+wildtrout14 calls [$990]
+** Dealing river ** [ 7d ]
+** Summary **
+wildtrout14 shows [ 8h, Kc ]
+Menne81 shows [ As, Qs ]
+Menne81 collected [ $3,180 ]
+
+
+
+#Game No : 646217260
+***** 888poker Hand History for Game 646217260 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:11:57
+Tournament #64092739 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Piccola. ( $1,480 )
+Seat 2: ladisz85 ( $1,500 )
+Seat 4: Menne81 ( $3,180 )
+Seat 5: Ausking88 ( $1,370 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: sens_ey ( $1,500 )
+Seat 9: imantsb ( $1,490 )
+Seat 10: famico66 ( $1,480 )
+famico66 posts small blind [$10]
+Piccola. posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Jh ]
+ladisz85 folds
+Menne81 calls [$20]
+Ausking88 folds
+PapaShango19 folds
+sens_ey folds
+imantsb calls [$20]
+famico66 calls [$10]
+Piccola. checks
+** Dealing flop ** [ Ts, Jc, 9h ]
+famico66 checks
+Piccola. bets [$20]
+Menne81 calls [$20]
+imantsb calls [$20]
+famico66 calls [$20]
+** Dealing turn ** [ 2h ]
+famico66 checks
+Piccola. checks
+Menne81 checks
+imantsb checks
+** Dealing river ** [ Td ]
+famico66 checks
+Piccola. checks
+Menne81 checks
+imantsb checks
+** Summary **
+famico66 shows [ 3s, Kd ]
+Piccola. shows [ 7h, 7c ]
+Menne81 mucks [ Ac, Qd ]
+imantsb shows [ 9d, 6h ]
+imantsb collected [ $160 ]
+
+
+
+#Game No : 646217399
+***** 888poker Hand History for Game 646217399 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:12:56
+Tournament #64092739 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Piccola. ( $1,440 )
+Seat 2: ladisz85 ( $1,500 )
+Seat 4: Menne81 ( $3,140 )
+Seat 5: Ausking88 ( $1,370 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: sens_ey ( $1,500 )
+Seat 9: imantsb ( $1,610 )
+Seat 10: famico66 ( $1,440 )
+Piccola. posts small blind [$10]
+ladisz85 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 4d ]
+Menne81 calls [$20]
+Ausking88 folds
+PapaShango19 calls [$20]
+sens_ey folds
+imantsb folds
+famico66 folds
+Piccola. folds
+ladisz85 checks
+** Dealing flop ** [ Ks, Ad, 5c ]
+ladisz85 checks
+Menne81 checks
+PapaShango19 checks
+** Dealing turn ** [ 9s ]
+ladisz85 checks
+Menne81 checks
+PapaShango19 checks
+** Dealing river ** [ Th ]
+ladisz85 checks
+Menne81 checks
+PapaShango19 checks
+** Summary **
+ladisz85 shows [ 9h, 8d ]
+Menne81 mucks [ 4c, Qc ]
+PapaShango19 mucks [ 4s, 4d ]
+ladisz85 collected [ $70 ]
+
+
+
+#Game No : 646217561
+***** 888poker Hand History for Game 646217561 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:13:56
+Tournament #64092739 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Piccola. ( $1,430 )
+Seat 2: ladisz85 ( $1,550 )
+Seat 4: Menne81 ( $3,120 )
+Seat 5: Ausking88 ( $1,370 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: sens_ey ( $1,500 )
+Seat 9: imantsb ( $1,610 )
+Seat 10: famico66 ( $1,440 )
+ladisz85 posts small blind [$10]
+Menne81 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Ts ]
+Ausking88 folds
+PapaShango19 calls [$20]
+sens_ey folds
+imantsb calls [$20]
+famico66 folds
+Piccola. folds
+ladisz85 calls [$10]
+Menne81 checks
+** Dealing flop ** [ Jh, Qh, Th ]
+ladisz85 checks
+Menne81 bets [$40]
+PapaShango19 raises [$120]
+imantsb folds
+ladisz85 calls [$120]
+Menne81 calls [$80]
+** Dealing turn ** [ 2c ]
+ladisz85 checks
+Menne81 bets [$220]
+PapaShango19 raises [$1,340]
+ladisz85 folds
+Menne81 calls [$1,120]
+** Dealing river ** [ 4s ]
+** Summary **
+Menne81 shows [ Kh, 6h ]
+PapaShango19 shows [ Qs, Ts ]
+Menne81 collected [ $3,120 ]
+
+
+

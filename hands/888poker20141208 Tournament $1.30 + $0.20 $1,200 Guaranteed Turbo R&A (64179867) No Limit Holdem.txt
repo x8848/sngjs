@@ -1,0 +1,2813 @@
+#Game No : 643990091
+***** 888poker Hand History for Game 643990091 *****
+$5/$10 Blinds No Limit Holdem - *** 08 12 2014 17:08:24
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: SBobrovskij ( $1,500 )
+Seat 2: IRrri9 ( $1,500 )
+Seat 3: H.Talho ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: mfazzani ( $1,500 )
+Seat 6: grnnn ( $1,500 )
+Seat 7: AGAAK ( $1,500 )
+Seat 9: PauloATDias ( $1,500 )
+PauloATDias posts small blind [$5]
+SBobrovskij posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Ad ]
+IRrri9 calls [$10]
+H.Talho folds
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK calls [$10]
+PauloATDias raises [$33]
+SBobrovskij calls [$28]
+IRrri9 calls [$28]
+AGAAK calls [$28]
+** Dealing flop ** [ 9c, Qs, Kd ]
+PauloATDias checks
+SBobrovskij bets [$76]
+IRrri9 calls [$76]
+AGAAK calls [$76]
+PauloATDias calls [$76]
+** Dealing turn ** [ 5c ]
+PauloATDias checks
+SBobrovskij checks
+IRrri9 checks
+AGAAK checks
+** Dealing river ** [ 3d ]
+PauloATDias checks
+SBobrovskij bets [$342]
+IRrri9 folds
+AGAAK folds
+PauloATDias raises [$684]
+SBobrovskij calls [$342]
+** Summary **
+PauloATDias shows [ Qh, Qd ]
+SBobrovskij mucks [ Kc, Ah ]
+PauloATDias collected [ $1,824 ]
+
+
+
+#Game No : 643990422
+***** 888poker Hand History for Game 643990422 *****
+$5/$10 Blinds No Limit Holdem - *** 08 12 2014 17:10:15
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: SBobrovskij ( $702 )
+Seat 2: IRrri9 ( $1,386 )
+Seat 3: H.Talho ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: mfazzani ( $1,500 )
+Seat 6: grnnn ( $1,500 )
+Seat 7: AGAAK ( $1,386 )
+Seat 9: PauloATDias ( $2,526 )
+SBobrovskij posts small blind [$5]
+IRrri9 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Kd ]
+H.Talho folds
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK raises [$35]
+PauloATDias folds
+SBobrovskij calls [$30]
+IRrri9 calls [$25]
+** Dealing flop ** [ 9d, 9h, 7s ]
+SBobrovskij checks
+IRrri9 checks
+AGAAK checks
+** Dealing turn ** [ Ks ]
+SBobrovskij checks
+IRrri9 checks
+AGAAK checks
+** Dealing river ** [ As ]
+SBobrovskij checks
+IRrri9 bets [$105]
+AGAAK folds
+SBobrovskij folds
+** Summary **
+IRrri9 collected [ $105 ]
+
+
+
+#Game No : 643990605
+***** 888poker Hand History for Game 643990605 *****
+$5/$10 Blinds No Limit Holdem - *** 08 12 2014 17:11:19
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $667 )
+Seat 2: IRrri9 ( $1,456 )
+Seat 3: H.Talho ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: mfazzani ( $1,500 )
+Seat 6: grnnn ( $1,500 )
+Seat 7: AGAAK ( $1,351 )
+Seat 9: PauloATDias ( $2,526 )
+Seat 10: abc12151 ( $3,000 )
+IRrri9 posts small blind [$5]
+H.Talho posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9s ]
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 calls [$10]
+SBobrovskij folds
+IRrri9 calls [$5]
+H.Talho checks
+** Dealing flop ** [ As, Kc, Jd ]
+IRrri9 bets [$10]
+H.Talho calls [$10]
+abc12151 calls [$10]
+** Dealing turn ** [ 8c ]
+IRrri9 checks
+H.Talho checks
+abc12151 checks
+** Dealing river ** [ Jc ]
+IRrri9 bets [$10]
+H.Talho raises [$110]
+abc12151 folds
+IRrri9 calls [$100]
+** Summary **
+H.Talho shows [ Ac, 7c ]
+IRrri9 mucks [ Qc, Ah ]
+H.Talho collected [ $280 ]
+
+
+
+#Game No : 643990817
+***** 888poker Hand History for Game 643990817 *****
+$5/$10 Blinds No Limit Holdem - *** 08 12 2014 17:12:35
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $667 )
+Seat 2: IRrri9 ( $1,326 )
+Seat 3: H.Talho ( $1,650 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: mfazzani ( $1,500 )
+Seat 6: grnnn ( $1,500 )
+Seat 7: AGAAK ( $1,351 )
+Seat 9: PauloATDias ( $2,526 )
+Seat 10: abc12151 ( $2,980 )
+H.Talho posts small blind [$5]
+PapaShango19 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8s ]
+mfazzani folds
+grnnn folds
+AGAAK folds
+PauloATDias calls [$10]
+abc12151 folds
+SBobrovskij calls [$10]
+IRrri9 folds
+H.Talho folds
+PapaShango19 checks
+** Dealing flop ** [ 3h, 7c, 2d ]
+PapaShango19 checks
+PauloATDias checks
+SBobrovskij checks
+** Dealing turn ** [ Ad ]
+PapaShango19 bets [$35]
+PauloATDias calls [$35]
+SBobrovskij folds
+** Dealing river ** [ Tc ]
+PapaShango19 bets [$30]
+PauloATDias folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $105 ]
+
+
+
+#Game No : 643990970
+***** 888poker Hand History for Game 643990970 *****
+$5/$10 Blinds No Limit Holdem - *** 08 12 2014 17:13:39
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $657 )
+Seat 2: IRrri9 ( $1,326 )
+Seat 3: H.Talho ( $1,645 )
+Seat 4: PapaShango19 ( $1,560 )
+Seat 5: mfazzani ( $1,500 )
+Seat 6: grnnn ( $1,500 )
+Seat 7: AGAAK ( $1,351 )
+Seat 9: PauloATDias ( $2,481 )
+Seat 10: abc12151 ( $2,980 )
+PapaShango19 posts small blind [$5]
+mfazzani posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 3h ]
+grnnn folds
+AGAAK folds
+PauloATDias raises [$20]
+abc12151 calls [$20]
+SBobrovskij folds
+IRrri9 calls [$20]
+H.Talho folds
+PapaShango19 calls [$15]
+mfazzani folds
+** Dealing flop ** [ 2d, Kc, 6h ]
+PapaShango19 checks
+PauloATDias checks
+abc12151 checks
+IRrri9 checks
+** Dealing turn ** [ 4h ]
+PapaShango19 checks
+PauloATDias checks
+abc12151 checks
+IRrri9 checks
+** Dealing river ** [ Ks ]
+PapaShango19 checks
+PauloATDias checks
+abc12151 bets [$45]
+IRrri9 calls [$45]
+PapaShango19 folds
+PauloATDias folds
+** Summary **
+abc12151 shows [ 9h, Ts ]
+IRrri9 shows [ Ac, 4d ]
+IRrri9 collected [ $180 ]
+
+
+
+#Game No : 643991169
+***** 888poker Hand History for Game 643991169 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:14:49
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $657 )
+Seat 2: IRrri9 ( $1,441 )
+Seat 3: H.Talho ( $1,645 )
+Seat 4: PapaShango19 ( $1,540 )
+Seat 5: mfazzani ( $1,490 )
+Seat 6: grnnn ( $1,500 )
+Seat 7: AGAAK ( $1,351 )
+Seat 9: PauloATDias ( $2,461 )
+Seat 10: abc12151 ( $2,915 )
+mfazzani posts small blind [$10]
+grnnn posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 6d ]
+AGAAK folds
+PauloATDias raises [$40]
+abc12151 calls [$40]
+SBobrovskij calls [$40]
+IRrri9 calls [$40]
+H.Talho calls [$40]
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+** Dealing flop ** [ Jh, Qc, 7d ]
+PauloATDias checks
+abc12151 checks
+SBobrovskij bets [$115]
+IRrri9 folds
+H.Talho folds
+PauloATDias folds
+abc12151 folds
+** Summary **
+SBobrovskij did not show his hand
+SBobrovskij collected [ $230 ]
+
+
+
+#Game No : 643991280
+***** 888poker Hand History for Game 643991280 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:15:39
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $847 )
+Seat 2: IRrri9 ( $1,401 )
+Seat 3: H.Talho ( $1,605 )
+Seat 4: PapaShango19 ( $1,540 )
+Seat 5: mfazzani ( $1,480 )
+Seat 6: grnnn ( $1,480 )
+Seat 7: AGAAK ( $1,351 )
+Seat 9: PauloATDias ( $2,421 )
+Seat 10: abc12151 ( $2,875 )
+grnnn posts small blind [$10]
+AGAAK posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Js ]
+PauloATDias folds
+abc12151 folds
+SBobrovskij calls [$20]
+IRrri9 calls [$20]
+H.Talho folds
+PapaShango19 folds
+mfazzani raises [$80]
+grnnn folds
+AGAAK folds
+SBobrovskij calls [$60]
+IRrri9 calls [$60]
+** Dealing flop ** [ 6s, 3c, Ts ]
+SBobrovskij checks
+IRrri9 checks
+mfazzani bets [$200]
+SBobrovskij folds
+IRrri9 calls [$200]
+** Dealing turn ** [ Ks ]
+IRrri9 checks
+mfazzani checks
+** Dealing river ** [ 7d ]
+IRrri9 checks
+mfazzani checks
+** Summary **
+IRrri9 shows [ Ad, Jh ]
+mfazzani shows [ 2s, 2h ]
+mfazzani collected [ $670 ]
+
+
+
+#Game No : 643991467
+***** 888poker Hand History for Game 643991467 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:16:57
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $767 )
+Seat 2: IRrri9 ( $1,121 )
+Seat 3: H.Talho ( $1,605 )
+Seat 4: PapaShango19 ( $1,540 )
+Seat 5: mfazzani ( $1,870 )
+Seat 6: grnnn ( $1,470 )
+Seat 7: AGAAK ( $1,331 )
+Seat 9: PauloATDias ( $2,421 )
+Seat 10: abc12151 ( $2,875 )
+AGAAK posts small blind [$10]
+PauloATDias posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 9h ]
+abc12151 folds
+SBobrovskij folds
+IRrri9 calls [$20]
+H.Talho calls [$20]
+PapaShango19 calls [$20]
+mfazzani calls [$20]
+grnnn folds
+AGAAK calls [$10]
+PauloATDias checks
+** Dealing flop ** [ Ah, Ac, 4d ]
+AGAAK checks
+PauloATDias checks
+IRrri9 checks
+H.Talho bets [$60]
+PapaShango19 folds
+mfazzani folds
+AGAAK calls [$60]
+PauloATDias folds
+IRrri9 folds
+** Dealing turn ** [ 4h ]
+AGAAK checks
+H.Talho bets [$120]
+AGAAK calls [$120]
+** Dealing river ** [ 8c ]
+AGAAK bets [$1,131]
+H.Talho calls [$1,131]
+** Summary **
+H.Talho shows [ Ad, 5h ]
+AGAAK shows [ As, 8s ]
+AGAAK collected [ $2,742 ]
+
+
+
+#Game No : 643991697
+***** 888poker Hand History for Game 643991697 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:18:29
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $767 )
+Seat 2: IRrri9 ( $1,101 )
+Seat 3: H.Talho ( $274 )
+Seat 4: PapaShango19 ( $1,520 )
+Seat 5: mfazzani ( $1,850 )
+Seat 6: grnnn ( $1,470 )
+Seat 7: AGAAK ( $2,742 )
+Seat 9: PauloATDias ( $2,401 )
+Seat 10: abc12151 ( $2,875 )
+PauloATDias posts small blind [$10]
+abc12151 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Qh ]
+SBobrovskij folds
+IRrri9 folds
+H.Talho raises [$274]
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK folds
+PauloATDias calls [$264]
+abc12151 folds
+** Dealing flop ** [ 7d, 7s, 4d ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ Qs ]
+** Summary **
+H.Talho shows [ Ah, 2c ]
+PauloATDias shows [ Jh, Tc ]
+H.Talho collected [ $568 ]
+
+
+
+#Game No : 643991785
+***** 888poker Hand History for Game 643991785 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:19:12
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SBobrovskij ( $767 )
+Seat 2: IRrri9 ( $1,101 )
+Seat 3: H.Talho ( $568 )
+Seat 4: PapaShango19 ( $1,520 )
+Seat 5: mfazzani ( $1,850 )
+Seat 6: grnnn ( $1,470 )
+Seat 7: AGAAK ( $2,742 )
+Seat 9: PauloATDias ( $2,127 )
+Seat 10: abc12151 ( $2,855 )
+abc12151 posts small blind [$10]
+SBobrovskij posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 3s ]
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+mfazzani raises [$40]
+grnnn calls [$40]
+AGAAK raises [$190]
+PauloATDias folds
+abc12151 folds
+SBobrovskij calls [$170]
+mfazzani folds
+grnnn folds
+** Dealing flop ** [ 9d, 4s, 9h ]
+SBobrovskij checks
+AGAAK checks
+** Dealing turn ** [ Js ]
+SBobrovskij bets [$235]
+AGAAK raises [$2,552]
+SBobrovskij calls [$342]
+** Dealing river ** [ Td ]
+** Summary **
+SBobrovskij shows [ 8c, Jc ]
+AGAAK shows [ Kh, Kc ]
+AGAAK collected [ $1,624 ]
+
+
+
+#Game No : 643991958
+***** 888poker Hand History for Game 643991958 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:20:40
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: IRrri9 ( $1,101 )
+Seat 3: H.Talho ( $568 )
+Seat 4: PapaShango19 ( $1,520 )
+Seat 5: mfazzani ( $1,810 )
+Seat 6: grnnn ( $1,430 )
+Seat 7: AGAAK ( $3,599 )
+Seat 9: PauloATDias ( $2,127 )
+Seat 10: abc12151 ( $2,845 )
+IRrri9 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Kh ]
+H.Talho folds
+PapaShango19 folds
+mfazzani raises [$85]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+IRrri9 calls [$55]
+** Dealing flop ** [ 3d, 9d, 8c ]
+IRrri9 bets [$30]
+mfazzani raises [$100]
+IRrri9 calls [$70]
+** Dealing turn ** [ Js ]
+IRrri9 checks
+mfazzani bets [$300]
+IRrri9 calls [$300]
+** Dealing river ** [ 5c ]
+IRrri9 checks
+mfazzani checks
+** Summary **
+IRrri9 shows [ Tc, 9c ]
+mfazzani shows [ Ac, Jc ]
+mfazzani collected [ $970 ]
+
+
+
+#Game No : 643992080
+***** 888poker Hand History for Game 643992080 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:21:29
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 2: IRrri9 ( $616 )
+Seat 3: H.Talho ( $568 )
+Seat 4: PapaShango19 ( $1,520 )
+Seat 5: mfazzani ( $2,295 )
+Seat 6: grnnn ( $1,430 )
+Seat 7: AGAAK ( $3,599 )
+Seat 9: PauloATDias ( $2,127 )
+Seat 10: abc12151 ( $2,845 )
+IRrri9 posts small blind [$15]
+H.Talho posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 4c ]
+PapaShango19 folds
+mfazzani raises [$75]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+IRrri9 folds
+H.Talho folds
+** Summary **
+mfazzani collected [ $75 ]
+
+
+
+#Game No : 643992129
+***** 888poker Hand History for Game 643992129 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:21:57
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $1,500 )
+Seat 2: IRrri9 ( $601 )
+Seat 3: H.Talho ( $538 )
+Seat 4: PapaShango19 ( $1,520 )
+Seat 5: mfazzani ( $2,340 )
+Seat 6: grnnn ( $1,430 )
+Seat 7: AGAAK ( $3,599 )
+Seat 9: PauloATDias ( $2,127 )
+Seat 10: abc12151 ( $2,845 )
+H.Talho posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 2s ]
+mfazzani folds
+grnnn folds
+AGAAK folds
+PauloATDias raises [$78]
+abc12151 folds
+Hillier74 folds
+IRrri9 raises [$601]
+H.Talho calls [$523]
+PapaShango19 folds
+PauloATDias folds
+** Dealing flop ** [ 4s, As, Kd ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 7c ]
+** Summary **
+IRrri9 shows [ 8c, 8s ]
+H.Talho shows [ Td, Qc ]
+IRrri9 collected [ $1,184 ]
+
+
+
+#Game No : 643992259
+***** 888poker Hand History for Game 643992259 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:23:01
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $1,500 )
+Seat 2: IRrri9 ( $2,747 )
+Seat 3: H.Talho ( $1,500 )
+Seat 4: PapaShango19 ( $1,490 )
+Seat 5: mfazzani ( $2,340 )
+Seat 6: grnnn ( $1,430 )
+Seat 7: AGAAK ( $3,599 )
+Seat 9: PauloATDias ( $2,049 )
+Seat 10: abc12151 ( $2,845 )
+PapaShango19 posts small blind [$15]
+mfazzani posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4c ]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 calls [$30]
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+mfazzani raises [$40]
+abc12151 calls [$40]
+** Dealing flop ** [ Qh, 6d, 3s ]
+mfazzani bets [$100]
+abc12151 calls [$100]
+** Dealing turn ** [ 2c ]
+mfazzani checks
+abc12151 bets [$177]
+mfazzani calls [$177]
+** Dealing river ** [ Ts ]
+mfazzani checks
+abc12151 checks
+** Summary **
+mfazzani shows [ 3d, Ac ]
+abc12151 shows [ 6c, Kc ]
+abc12151 collected [ $709 ]
+
+
+
+#Game No : 643992355
+***** 888poker Hand History for Game 643992355 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:23:57
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $1,500 )
+Seat 2: IRrri9 ( $2,747 )
+Seat 3: H.Talho ( $1,500 )
+Seat 4: PapaShango19 ( $1,475 )
+Seat 5: mfazzani ( $1,993 )
+Seat 6: grnnn ( $1,430 )
+Seat 7: AGAAK ( $3,599 )
+Seat 9: PauloATDias ( $2,049 )
+Seat 10: abc12151 ( $3,207 )
+mfazzani posts small blind [$15]
+grnnn posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2d ]
+AGAAK folds
+PauloATDias folds
+abc12151 raises [$60]
+Hillier74 folds
+IRrri9 folds
+H.Talho calls [$60]
+PapaShango19 folds
+mfazzani calls [$45]
+grnnn folds
+** Dealing flop ** [ Kh, 7h, Qh ]
+mfazzani checks
+abc12151 bets [$105]
+H.Talho folds
+mfazzani folds
+** Summary **
+abc12151 did not show his hand
+abc12151 collected [ $210 ]
+
+
+
+#Game No : 643992435
+***** 888poker Hand History for Game 643992435 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:24:42
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $1,500 )
+Seat 2: IRrri9 ( $2,747 )
+Seat 3: H.Talho ( $1,440 )
+Seat 4: PapaShango19 ( $1,475 )
+Seat 5: mfazzani ( $1,933 )
+Seat 6: grnnn ( $1,400 )
+Seat 7: AGAAK ( $3,599 )
+Seat 9: PauloATDias ( $2,049 )
+Seat 10: abc12151 ( $3,357 )
+grnnn posts small blind [$15]
+AGAAK posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 8c ]
+PauloATDias calls [$30]
+abc12151 folds
+Hillier74 raises [$1,500]
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK raises [$2,940]
+PauloATDias folds
+** Dealing flop ** [ 6d, Ad, Tc ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Kd ]
+** Summary **
+Hillier74 shows [ Ah, Kh ]
+AGAAK shows [ Qs, Qd ]
+Hillier74 collected [ $3,045 ]
+
+
+
+#Game No : 643992527
+***** 888poker Hand History for Game 643992527 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:25:33
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,045 )
+Seat 2: IRrri9 ( $2,747 )
+Seat 3: H.Talho ( $1,440 )
+Seat 4: PapaShango19 ( $1,475 )
+Seat 5: mfazzani ( $1,933 )
+Seat 6: grnnn ( $1,385 )
+Seat 7: AGAAK ( $2,099 )
+Seat 9: PauloATDias ( $2,019 )
+Seat 10: abc12151 ( $3,357 )
+AGAAK posts small blind [$15]
+PauloATDias posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 3c ]
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$30]
+H.Talho calls [$30]
+PapaShango19 calls [$30]
+mfazzani folds
+grnnn folds
+AGAAK folds
+PauloATDias checks
+** Dealing flop ** [ 2d, 6h, 3h ]
+PauloATDias checks
+IRrri9 checks
+H.Talho checks
+PapaShango19 bets [$135]
+PauloATDias folds
+IRrri9 folds
+H.Talho folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $135 ]
+
+
+
+#Game No : 643992624
+***** 888poker Hand History for Game 643992624 *****
+$20/$40 Blinds No Limit Holdem - *** 08 12 2014 17:26:19
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,045 )
+Seat 2: IRrri9 ( $2,717 )
+Seat 3: H.Talho ( $1,410 )
+Seat 4: PapaShango19 ( $1,580 )
+Seat 5: mfazzani ( $1,933 )
+Seat 6: grnnn ( $1,385 )
+Seat 7: AGAAK ( $2,084 )
+Seat 9: PauloATDias ( $1,989 )
+Seat 10: abc12151 ( $3,357 )
+PauloATDias posts small blind [$20]
+abc12151 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 2s ]
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK raises [$105]
+PauloATDias folds
+abc12151 raises [$3,317]
+AGAAK folds
+** Summary **
+abc12151 did not show his hand
+abc12151 collected [ $230 ]
+
+
+
+#Game No : 643992767
+***** 888poker Hand History for Game 643992767 *****
+$20/$40 Blinds No Limit Holdem - *** 08 12 2014 17:27:32
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,045 )
+Seat 2: IRrri9 ( $2,717 )
+Seat 3: H.Talho ( $1,410 )
+Seat 4: PapaShango19 ( $1,580 )
+Seat 5: mfazzani ( $1,933 )
+Seat 6: grnnn ( $1,385 )
+Seat 7: AGAAK ( $1,979 )
+Seat 9: PauloATDias ( $1,969 )
+Seat 10: abc12151 ( $3,482 )
+abc12151 posts small blind [$20]
+Hillier74 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7c ]
+IRrri9 folds
+H.Talho raises [$105]
+PapaShango19 folds
+mfazzani calls [$105]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+** Dealing flop ** [ 8h, 6c, Ts ]
+H.Talho bets [$135]
+mfazzani calls [$135]
+** Dealing turn ** [ 2h ]
+H.Talho bets [$270]
+mfazzani calls [$270]
+** Dealing river ** [ 2d ]
+H.Talho bets [$540]
+mfazzani raises [$1,423]
+H.Talho calls [$360]
+** Summary **
+H.Talho shows [ 9c, 9h ]
+mfazzani shows [ Ac, 7s ]
+H.Talho collected [ $2,880 ]
+
+
+
+#Game No : 643992861
+***** 888poker Hand History for Game 643992861 *****
+$20/$40 Blinds No Limit Holdem - *** 08 12 2014 17:28:27
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,005 )
+Seat 2: IRrri9 ( $2,717 )
+Seat 3: H.Talho ( $2,880 )
+Seat 4: PapaShango19 ( $1,580 )
+Seat 5: mfazzani ( $523 )
+Seat 6: grnnn ( $1,385 )
+Seat 7: AGAAK ( $1,979 )
+Seat 9: PauloATDias ( $1,969 )
+Seat 10: abc12151 ( $3,462 )
+Hillier74 posts small blind [$20]
+IRrri9 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Ah ]
+H.Talho calls [$40]
+PapaShango19 folds
+mfazzani folds
+grnnn raises [$120]
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho calls [$80]
+** Dealing flop ** [ Ad, 3s, Ts ]
+H.Talho checks
+grnnn bets [$300]
+H.Talho folds
+** Summary **
+grnnn did not show his hand
+grnnn collected [ $300 ]
+
+
+
+#Game No : 643992974
+***** 888poker Hand History for Game 643992974 *****
+$20/$40 Blinds No Limit Holdem - *** 08 12 2014 17:29:21
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $2,985 )
+Seat 2: IRrri9 ( $2,677 )
+Seat 3: H.Talho ( $2,760 )
+Seat 4: PapaShango19 ( $1,580 )
+Seat 5: mfazzani ( $523 )
+Seat 6: grnnn ( $1,565 )
+Seat 7: AGAAK ( $1,979 )
+Seat 9: PauloATDias ( $1,969 )
+Seat 10: abc12151 ( $3,462 )
+IRrri9 posts small blind [$20]
+H.Talho posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Td ]
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$20]
+H.Talho raises [$80]
+IRrri9 folds
+** Summary **
+H.Talho did not show his hand
+H.Talho collected [ $80 ]
+
+
+
+#Game No : 643993019
+***** 888poker Hand History for Game 643993019 *****
+$20/$40 Blinds No Limit Holdem - *** 08 12 2014 17:29:47
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $2,985 )
+Seat 2: IRrri9 ( $2,637 )
+Seat 3: H.Talho ( $2,800 )
+Seat 4: PapaShango19 ( $1,580 )
+Seat 5: mfazzani ( $523 )
+Seat 6: grnnn ( $1,565 )
+Seat 7: AGAAK ( $1,979 )
+Seat 9: PauloATDias ( $1,969 )
+Seat 10: abc12151 ( $3,462 )
+H.Talho posts small blind [$20]
+PapaShango19 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 5h ]
+mfazzani raises [$523]
+grnnn raises [$1,565]
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+** Dealing flop ** [ Kh, 9d, 3c ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 5c ]
+** Summary **
+mfazzani shows [ Js, As ]
+grnnn shows [ Ah, Jh ]
+mfazzani collected [ $553 ]
+grnnn collected [ $553 ]
+
+
+
+#Game No : 643993076
+***** 888poker Hand History for Game 643993076 *****
+$20/$40 Blinds No Limit Holdem - *** 08 12 2014 17:30:21
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $2,985 )
+Seat 2: IRrri9 ( $2,637 )
+Seat 3: H.Talho ( $2,780 )
+Seat 4: PapaShango19 ( $1,540 )
+Seat 5: mfazzani ( $553 )
+Seat 6: grnnn ( $1,595 )
+Seat 7: AGAAK ( $1,979 )
+Seat 9: PauloATDias ( $1,969 )
+Seat 10: abc12151 ( $3,462 )
+PapaShango19 posts small blind [$20]
+mfazzani posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Ks ]
+grnnn folds
+AGAAK folds
+PauloATDias calls [$40]
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$40]
+H.Talho calls [$40]
+PapaShango19 calls [$20]
+mfazzani checks
+** Dealing flop ** [ 8c, Qd, Qh ]
+PapaShango19 checks
+mfazzani checks
+PauloATDias bets [$100]
+IRrri9 calls [$100]
+H.Talho folds
+PapaShango19 folds
+mfazzani folds
+** Dealing turn ** [ 4h ]
+PauloATDias bets [$200]
+IRrri9 calls [$200]
+** Dealing river ** [ Kc ]
+PauloATDias bets [$400]
+IRrri9 calls [$400]
+** Summary **
+PauloATDias shows [ 9c, 8d ]
+IRrri9 shows [ Kh, Ac ]
+IRrri9 collected [ $1,600 ]
+
+
+
+#Game No : 643993192
+***** 888poker Hand History for Game 643993192 *****
+$20/$40 Blinds No Limit Holdem - *** 08 12 2014 17:31:28
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $2,985 )
+Seat 2: IRrri9 ( $3,497 )
+Seat 3: H.Talho ( $2,740 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: mfazzani ( $513 )
+Seat 6: grnnn ( $1,595 )
+Seat 7: AGAAK ( $1,979 )
+Seat 9: PauloATDias ( $1,229 )
+Seat 10: abc12151 ( $3,462 )
+mfazzani posts small blind [$20]
+grnnn posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Jc ]
+AGAAK folds
+PauloATDias calls [$40]
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$40]
+H.Talho calls [$40]
+PapaShango19 raises [$120]
+mfazzani folds
+grnnn folds
+PauloATDias calls [$80]
+IRrri9 calls [$80]
+H.Talho folds
+** Dealing flop ** [ Kh, Kc, 3h ]
+PauloATDias checks
+IRrri9 checks
+PapaShango19 bets [$120]
+PauloATDias raises [$1,109]
+IRrri9 folds
+PapaShango19 folds
+** Summary **
+PauloATDias did not show his hand
+PauloATDias collected [ $700 ]
+
+
+
+#Game No : 643993303
+***** 888poker Hand History for Game 643993303 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 17:32:39
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $2,985 )
+Seat 2: IRrri9 ( $3,377 )
+Seat 3: H.Talho ( $2,700 )
+Seat 4: PapaShango19 ( $1,260 )
+Seat 5: mfazzani ( $493 )
+Seat 6: grnnn ( $1,555 )
+Seat 7: AGAAK ( $1,979 )
+Seat 9: PauloATDias ( $1,689 )
+Seat 10: abc12151 ( $3,462 )
+grnnn posts small blind [$25]
+AGAAK posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Jc ]
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$50]
+H.Talho calls [$50]
+PapaShango19 folds
+mfazzani folds
+grnnn folds
+AGAAK checks
+** Dealing flop ** [ Qs, Ts, Qc ]
+AGAAK checks
+IRrri9 bets [$175]
+H.Talho folds
+AGAAK folds
+** Summary **
+IRrri9 did not show his hand
+IRrri9 collected [ $175 ]
+
+
+
+#Game No : 643993383
+***** 888poker Hand History for Game 643993383 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 17:33:28
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $2,985 )
+Seat 2: IRrri9 ( $3,502 )
+Seat 3: H.Talho ( $2,650 )
+Seat 4: PapaShango19 ( $1,260 )
+Seat 5: mfazzani ( $493 )
+Seat 6: grnnn ( $1,530 )
+Seat 7: AGAAK ( $1,929 )
+Seat 9: PauloATDias ( $1,689 )
+Seat 10: abc12151 ( $3,462 )
+AGAAK posts small blind [$25]
+PauloATDias posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 6h ]
+abc12151 folds
+Hillier74 calls [$50]
+IRrri9 folds
+H.Talho calls [$50]
+PapaShango19 folds
+mfazzani raises [$493]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+Hillier74 calls [$443]
+H.Talho folds
+** Dealing flop ** [ 6d, 7h, Jd ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 3s ]
+** Summary **
+Hillier74 shows [ Jh, Kd ]
+mfazzani shows [ Ac, 9h ]
+Hillier74 collected [ $1,111 ]
+
+
+
+#Game No : 643993502
+***** 888poker Hand History for Game 643993502 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 17:34:38
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Hillier74 ( $3,603 )
+Seat 2: IRrri9 ( $3,502 )
+Seat 3: H.Talho ( $2,600 )
+Seat 4: PapaShango19 ( $1,260 )
+Seat 6: grnnn ( $1,530 )
+Seat 7: AGAAK ( $1,904 )
+Seat 9: PauloATDias ( $1,639 )
+Seat 10: abc12151 ( $3,462 )
+PauloATDias posts small blind [$25]
+abc12151 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Js ]
+Hillier74 folds
+IRrri9 folds
+H.Talho calls [$50]
+PapaShango19 folds
+grnnn folds
+AGAAK folds
+PauloATDias calls [$25]
+abc12151 checks
+** Dealing flop ** [ Jc, 8c, 4s ]
+PauloATDias checks
+abc12151 bets [$75]
+H.Talho calls [$75]
+PauloATDias folds
+** Dealing turn ** [ Ts ]
+abc12151 bets [$150]
+H.Talho raises [$450]
+abc12151 folds
+** Summary **
+H.Talho collected [ $600 ]
+
+
+
+#Game No : 643993611
+***** 888poker Hand History for Game 643993611 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 17:35:39
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,603 )
+Seat 2: IRrri9 ( $3,502 )
+Seat 3: H.Talho ( $2,925 )
+Seat 4: PapaShango19 ( $1,260 )
+Seat 5: jurij77777 ( $1,500 )
+Seat 6: grnnn ( $1,530 )
+Seat 7: AGAAK ( $1,904 )
+Seat 9: PauloATDias ( $1,589 )
+Seat 10: abc12151 ( $3,187 )
+abc12151 posts small blind [$25]
+Hillier74 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 9s ]
+IRrri9 calls [$50]
+H.Talho folds
+PapaShango19 folds
+jurij77777 calls [$50]
+grnnn calls [$50]
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 checks
+** Dealing flop ** [ Kh, 6s, 8s ]
+Hillier74 checks
+IRrri9 checks
+jurij77777 checks
+grnnn checks
+** Dealing turn ** [ 7s ]
+Hillier74 bets [$50]
+IRrri9 calls [$50]
+jurij77777 calls [$50]
+grnnn calls [$50]
+** Dealing river ** [ Kc ]
+Hillier74 bets [$50]
+IRrri9 calls [$50]
+jurij77777 folds
+grnnn folds
+** Summary **
+Hillier74 shows [ Qd, 7h ]
+IRrri9 mucks [ 3s, 3d ]
+Hillier74 collected [ $525 ]
+
+
+
+#Game No : 643993792
+***** 888poker Hand History for Game 643993792 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 17:37:16
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,978 )
+Seat 2: IRrri9 ( $3,352 )
+Seat 3: H.Talho ( $2,925 )
+Seat 4: PapaShango19 ( $1,260 )
+Seat 5: jurij77777 ( $1,400 )
+Seat 6: grnnn ( $1,430 )
+Seat 7: AGAAK ( $1,904 )
+Seat 9: PauloATDias ( $1,589 )
+Seat 10: abc12151 ( $3,162 )
+Hillier74 posts small blind [$25]
+IRrri9 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, As ]
+H.Talho calls [$50]
+PapaShango19 folds
+jurij77777 calls [$50]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 calls [$25]
+IRrri9 checks
+** Dealing flop ** [ Qd, 6s, Ks ]
+Hillier74 bets [$100]
+IRrri9 folds
+H.Talho calls [$100]
+jurij77777 calls [$100]
+** Dealing turn ** [ Th ]
+Hillier74 bets [$50]
+H.Talho raises [$100]
+jurij77777 calls [$100]
+Hillier74 calls [$50]
+** Dealing river ** [ Ad ]
+Hillier74 folds
+H.Talho bets [$150]
+jurij77777 raises [$300]
+H.Talho calls [$150]
+** Summary **
+jurij77777 shows [ Qh, 4h ]
+H.Talho shows [ Td, Ac ]
+H.Talho collected [ $1,400 ]
+
+
+
+#Game No : 643993956
+***** 888poker Hand History for Game 643993956 *****
+$30/$60 Blinds No Limit Holdem - *** 08 12 2014 17:38:44
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,728 )
+Seat 2: IRrri9 ( $3,302 )
+Seat 3: H.Talho ( $3,775 )
+Seat 4: PapaShango19 ( $1,260 )
+Seat 5: jurij77777 ( $850 )
+Seat 6: grnnn ( $1,430 )
+Seat 7: AGAAK ( $1,904 )
+Seat 9: PauloATDias ( $1,589 )
+Seat 10: abc12151 ( $3,162 )
+PapaShango19 posts ante [$5]
+PauloATDias posts ante [$5]
+H.Talho posts ante [$5]
+grnnn posts ante [$5]
+AGAAK posts ante [$5]
+IRrri9 posts ante [$5]
+abc12151 posts ante [$5]
+Hillier74 posts ante [$5]
+jurij77777 posts ante [$5]
+IRrri9 posts small blind [$30]
+H.Talho posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3d ]
+PapaShango19 folds
+jurij77777 calls [$60]
+grnnn folds
+AGAAK folds
+PauloATDias calls [$60]
+abc12151 calls [$60]
+Hillier74 folds
+IRrri9 calls [$30]
+H.Talho checks
+** Dealing flop ** [ 5s, Ac, 8h ]
+IRrri9 checks
+H.Talho checks
+jurij77777 checks
+PauloATDias checks
+abc12151 bets [$172]
+IRrri9 folds
+H.Talho folds
+jurij77777 folds
+PauloATDias folds
+** Summary **
+abc12151 did not show his hand
+abc12151 collected [ $345 ]
+
+
+
+#Game No : 643994031
+***** 888poker Hand History for Game 643994031 *****
+$30/$60 Blinds No Limit Holdem - *** 08 12 2014 17:39:27
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,723 )
+Seat 2: IRrri9 ( $3,237 )
+Seat 3: H.Talho ( $3,710 )
+Seat 4: PapaShango19 ( $1,255 )
+Seat 5: jurij77777 ( $785 )
+Seat 6: grnnn ( $1,425 )
+Seat 7: AGAAK ( $1,899 )
+Seat 9: PauloATDias ( $1,524 )
+Seat 10: abc12151 ( $3,442 )
+PapaShango19 posts ante [$5]
+PauloATDias posts ante [$5]
+H.Talho posts ante [$5]
+grnnn posts ante [$5]
+AGAAK posts ante [$5]
+IRrri9 posts ante [$5]
+abc12151 posts ante [$5]
+Hillier74 posts ante [$5]
+jurij77777 posts ante [$5]
+H.Talho posts small blind [$30]
+PapaShango19 posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Th ]
+jurij77777 calls [$60]
+grnnn folds
+AGAAK calls [$60]
+PauloATDias calls [$60]
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$60]
+H.Talho calls [$30]
+PapaShango19 checks
+** Dealing flop ** [ As, Jh, Td ]
+H.Talho checks
+PapaShango19 checks
+jurij77777 checks
+AGAAK checks
+PauloATDias checks
+IRrri9 checks
+** Dealing turn ** [ 8s ]
+H.Talho checks
+PapaShango19 bets [$303]
+jurij77777 calls [$303]
+AGAAK folds
+PauloATDias folds
+IRrri9 calls [$303]
+H.Talho calls [$303]
+** Dealing river ** [ 9d ]
+H.Talho checks
+PapaShango19 checks
+jurij77777 checks
+IRrri9 bets [$1,617]
+H.Talho calls [$1,617]
+PapaShango19 folds
+jurij77777 folds
+** Summary **
+IRrri9 shows [ 7c, Tc ]
+H.Talho shows [ Js, Qs ]
+H.Talho collected [ $4,851 ]
+
+
+
+#Game No : 643994174
+***** 888poker Hand History for Game 643994174 *****
+$30/$60 Blinds No Limit Holdem - *** 08 12 2014 17:40:54
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,718 )
+Seat 2: IRrri9 ( $1,252 )
+Seat 3: H.Talho ( $6,576 )
+Seat 4: PapaShango19 ( $887 )
+Seat 5: jurij77777 ( $417 )
+Seat 6: grnnn ( $1,420 )
+Seat 7: AGAAK ( $1,834 )
+Seat 9: PauloATDias ( $1,459 )
+Seat 10: abc12151 ( $3,437 )
+PapaShango19 posts ante [$5]
+PauloATDias posts ante [$5]
+H.Talho posts ante [$5]
+grnnn posts ante [$5]
+AGAAK posts ante [$5]
+IRrri9 posts ante [$5]
+abc12151 posts ante [$5]
+Hillier74 posts ante [$5]
+jurij77777 posts ante [$5]
+PapaShango19 posts small blind [$30]
+jurij77777 posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 7h ]
+grnnn raises [$180]
+AGAAK raises [$1,829]
+PauloATDias folds
+abc12151 raises [$3,432]
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 calls [$852]
+jurij77777 folds
+grnnn calls [$1,235]
+** Dealing flop ** [ Kd, Jd, 7c ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 6h ]
+** Summary **
+PapaShango19 shows [ 7d, 7h ]
+grnnn shows [ Ac, Ad ]
+AGAAK shows [ Jh, Js ]
+abc12151 shows [ 4c, 4h ]
+grnnn collected [ $3,633 ]
+grnnn collected [ $1,599 ]
+AGAAK collected [ $828 ]
+
+
+
+#Game No : 643994293
+***** 888poker Hand History for Game 643994293 *****
+$30/$60 Blinds No Limit Holdem - *** 08 12 2014 17:41:57
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,713 )
+Seat 2: IRrri9 ( $1,247 )
+Seat 3: H.Talho ( $6,571 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: jurij77777 ( $352 )
+Seat 6: grnnn ( $5,232 )
+Seat 7: AGAAK ( $828 )
+Seat 9: PauloATDias ( $1,454 )
+Seat 10: abc12151 ( $1,603 )
+PapaShango19 posts ante [$5]
+PauloATDias posts ante [$5]
+H.Talho posts ante [$5]
+grnnn posts ante [$5]
+AGAAK posts ante [$5]
+IRrri9 posts ante [$5]
+abc12151 posts ante [$5]
+Hillier74 posts ante [$5]
+jurij77777 posts ante [$5]
+jurij77777 posts small blind [$30]
+grnnn posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Ad ]
+AGAAK folds
+PauloATDias folds
+abc12151 raises [$120]
+Hillier74 folds
+IRrri9 folds
+H.Talho calls [$120]
+PapaShango19 folds
+jurij77777 folds
+grnnn folds
+** Dealing flop ** [ 3h, 8s, Ts ]
+abc12151 bets [$187]
+H.Talho raises [$468]
+abc12151 folds
+** Summary **
+H.Talho did not show his hand
+H.Talho collected [ $749 ]
+
+
+
+#Game No : 643994383
+***** 888poker Hand History for Game 643994383 *****
+$30/$60 Blinds No Limit Holdem - *** 08 12 2014 17:42:45
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,708 )
+Seat 2: IRrri9 ( $1,242 )
+Seat 3: H.Talho ( $7,008 )
+Seat 4: PapaShango19 ( $1,495 )
+Seat 5: jurij77777 ( $317 )
+Seat 6: grnnn ( $5,167 )
+Seat 7: AGAAK ( $823 )
+Seat 9: PauloATDias ( $1,449 )
+Seat 10: abc12151 ( $2,791 )
+PapaShango19 posts ante [$5]
+PauloATDias posts ante [$5]
+H.Talho posts ante [$5]
+grnnn posts ante [$5]
+AGAAK posts ante [$5]
+IRrri9 posts ante [$5]
+abc12151 posts ante [$5]
+Hillier74 posts ante [$5]
+jurij77777 posts ante [$5]
+grnnn posts small blind [$30]
+AGAAK posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 7c ]
+PauloATDias folds
+abc12151 raises [$120]
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+jurij77777 raises [$312]
+grnnn folds
+AGAAK folds
+abc12151 calls [$192]
+** Dealing flop ** [ Ts, 5d, 4d ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 8s ]
+** Summary **
+jurij77777 shows [ Ad, 3d ]
+abc12151 shows [ 4s, Ac ]
+abc12151 collected [ $759 ]
+
+
+
+#Game No : 643994537
+***** 888poker Hand History for Game 643994537 *****
+$30/$60 Blinds No Limit Holdem - *** 08 12 2014 17:44:05
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Hillier74 ( $3,703 )
+Seat 2: IRrri9 ( $1,237 )
+Seat 3: H.Talho ( $7,003 )
+Seat 4: PapaShango19 ( $1,490 )
+Seat 6: grnnn ( $5,132 )
+Seat 7: AGAAK ( $2,258 )
+Seat 9: PauloATDias ( $1,444 )
+Seat 10: abc12151 ( $3,233 )
+PapaShango19 posts ante [$5]
+PauloATDias posts ante [$5]
+H.Talho posts ante [$5]
+grnnn posts ante [$5]
+AGAAK posts ante [$5]
+IRrri9 posts ante [$5]
+abc12151 posts ante [$5]
+Hillier74 posts ante [$5]
+AGAAK posts small blind [$30]
+PauloATDias posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 4c ]
+abc12151 folds
+Hillier74 calls [$60]
+IRrri9 calls [$60]
+H.Talho folds
+PapaShango19 folds
+grnnn folds
+AGAAK calls [$30]
+PauloATDias checks
+** Dealing flop ** [ Qd, 6s, 7d ]
+AGAAK checks
+PauloATDias checks
+Hillier74 checks
+IRrri9 checks
+** Dealing turn ** [ Tc ]
+AGAAK checks
+PauloATDias checks
+Hillier74 checks
+IRrri9 checks
+** Dealing river ** [ As ]
+AGAAK checks
+PauloATDias checks
+Hillier74 checks
+IRrri9 bets [$280]
+AGAAK folds
+PauloATDias folds
+Hillier74 folds
+** Summary **
+IRrri9 collected [ $280 ]
+
+
+
+#Game No : 643994666
+***** 888poker Hand History for Game 643994666 *****
+$40/$80 Blinds No Limit Holdem - *** 08 12 2014 17:45:09
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,638 )
+Seat 2: IRrri9 ( $1,452 )
+Seat 3: H.Talho ( $6,998 )
+Seat 4: PapaShango19 ( $1,485 )
+Seat 5: tonibosi29 ( $3,000 )
+Seat 6: grnnn ( $5,127 )
+Seat 7: AGAAK ( $2,193 )
+Seat 9: PauloATDias ( $1,379 )
+Seat 10: abc12151 ( $3,228 )
+PapaShango19 posts ante [$10]
+PauloATDias posts ante [$10]
+H.Talho posts ante [$10]
+grnnn posts ante [$10]
+AGAAK posts ante [$10]
+IRrri9 posts ante [$10]
+abc12151 posts ante [$10]
+Hillier74 posts ante [$10]
+tonibosi29 posts ante [$10]
+PauloATDias posts small blind [$40]
+abc12151 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 5h ]
+Hillier74 calls [$80]
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+tonibosi29 folds
+grnnn folds
+AGAAK folds
+PauloATDias calls [$40]
+abc12151 checks
+** Dealing flop ** [ Jd, 6c, 7s ]
+PauloATDias checks
+abc12151 checks
+Hillier74 bets [$80]
+PauloATDias folds
+abc12151 folds
+** Summary **
+Hillier74 did not show his hand
+Hillier74 collected [ $330 ]
+
+
+
+#Game No : 643994768
+***** 888poker Hand History for Game 643994768 *****
+$40/$80 Blinds No Limit Holdem - *** 08 12 2014 17:45:48
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,878 )
+Seat 2: IRrri9 ( $1,442 )
+Seat 3: H.Talho ( $6,988 )
+Seat 4: PapaShango19 ( $1,475 )
+Seat 5: tonibosi29 ( $2,990 )
+Seat 6: grnnn ( $5,117 )
+Seat 7: AGAAK ( $2,183 )
+Seat 9: PauloATDias ( $1,289 )
+Seat 10: abc12151 ( $3,138 )
+PapaShango19 posts ante [$10]
+PauloATDias posts ante [$10]
+H.Talho posts ante [$10]
+grnnn posts ante [$10]
+AGAAK posts ante [$10]
+IRrri9 posts ante [$10]
+abc12151 posts ante [$10]
+Hillier74 posts ante [$10]
+tonibosi29 posts ante [$10]
+abc12151 posts small blind [$40]
+Hillier74 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Th ]
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+tonibosi29 folds
+grnnn folds
+AGAAK folds
+PauloATDias raises [$160]
+abc12151 raises [$3,088]
+Hillier74 folds
+PauloATDias calls [$1,119]
+** Dealing flop ** [ 7s, As, 7h ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 9s ]
+** Summary **
+PauloATDias shows [ Ac, Kd ]
+abc12151 shows [ Qs, Kh ]
+PauloATDias collected [ $2,728 ]
+
+
+
+#Game No : 643994892
+***** 888poker Hand History for Game 643994892 *****
+$40/$80 Blinds No Limit Holdem - *** 08 12 2014 17:46:36
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,788 )
+Seat 2: IRrri9 ( $1,432 )
+Seat 3: H.Talho ( $6,978 )
+Seat 4: PapaShango19 ( $1,465 )
+Seat 5: tonibosi29 ( $2,980 )
+Seat 6: grnnn ( $5,107 )
+Seat 7: AGAAK ( $2,173 )
+Seat 9: PauloATDias ( $2,728 )
+Seat 10: abc12151 ( $1,849 )
+PapaShango19 posts ante [$10]
+PauloATDias posts ante [$10]
+H.Talho posts ante [$10]
+grnnn posts ante [$10]
+AGAAK posts ante [$10]
+IRrri9 posts ante [$10]
+abc12151 posts ante [$10]
+Hillier74 posts ante [$10]
+tonibosi29 posts ante [$10]
+Hillier74 posts small blind [$40]
+IRrri9 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Tc ]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$160]
+grnnn calls [$160]
+AGAAK folds
+PauloATDias folds
+abc12151 calls [$160]
+Hillier74 folds
+IRrri9 calls [$80]
+** Dealing flop ** [ 2s, 7c, Ah ]
+IRrri9 checks
+tonibosi29 bets [$577]
+grnnn calls [$577]
+abc12151 folds
+IRrri9 folds
+** Dealing turn ** [ 7s ]
+tonibosi29 bets [$1,924]
+grnnn raises [$3,848]
+tonibosi29 folds
+** Summary **
+grnnn did not show his hand
+grnnn collected [ $5,772 ]
+
+
+
+#Game No : 643995072
+***** 888poker Hand History for Game 643995072 *****
+$40/$80 Blinds No Limit Holdem - *** 08 12 2014 17:47:56
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,738 )
+Seat 2: IRrri9 ( $1,262 )
+Seat 3: H.Talho ( $6,968 )
+Seat 4: PapaShango19 ( $1,455 )
+Seat 5: tonibosi29 ( $1,809 )
+Seat 6: grnnn ( $8,208 )
+Seat 7: AGAAK ( $2,163 )
+Seat 9: PauloATDias ( $2,718 )
+Seat 10: abc12151 ( $1,679 )
+PapaShango19 posts ante [$10]
+PauloATDias posts ante [$10]
+H.Talho posts ante [$10]
+grnnn posts ante [$10]
+AGAAK posts ante [$10]
+IRrri9 posts ante [$10]
+abc12151 posts ante [$10]
+Hillier74 posts ante [$10]
+tonibosi29 posts ante [$10]
+IRrri9 posts small blind [$40]
+H.Talho posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, As ]
+PapaShango19 folds
+tonibosi29 raises [$1,799]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $290 ]
+
+
+
+#Game No : 643995127
+***** 888poker Hand History for Game 643995127 *****
+$40/$80 Blinds No Limit Holdem - *** 08 12 2014 17:48:20
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,728 )
+Seat 2: IRrri9 ( $1,212 )
+Seat 3: H.Talho ( $6,878 )
+Seat 4: PapaShango19 ( $1,445 )
+Seat 5: tonibosi29 ( $2,009 )
+Seat 6: grnnn ( $8,198 )
+Seat 7: AGAAK ( $2,153 )
+Seat 9: PauloATDias ( $2,708 )
+Seat 10: abc12151 ( $1,669 )
+PapaShango19 posts ante [$10]
+PauloATDias posts ante [$10]
+H.Talho posts ante [$10]
+grnnn posts ante [$10]
+AGAAK posts ante [$10]
+IRrri9 posts ante [$10]
+abc12151 posts ante [$10]
+Hillier74 posts ante [$10]
+tonibosi29 posts ante [$10]
+H.Talho posts small blind [$40]
+PapaShango19 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 7s ]
+tonibosi29 raises [$1,999]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $290 ]
+
+
+
+#Game No : 643995183
+***** 888poker Hand History for Game 643995183 *****
+$40/$80 Blinds No Limit Holdem - *** 08 12 2014 17:48:42
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,718 )
+Seat 2: IRrri9 ( $1,202 )
+Seat 3: H.Talho ( $6,828 )
+Seat 4: PapaShango19 ( $1,355 )
+Seat 5: tonibosi29 ( $2,209 )
+Seat 6: grnnn ( $8,188 )
+Seat 7: AGAAK ( $2,143 )
+Seat 9: PauloATDias ( $2,698 )
+Seat 10: abc12151 ( $1,659 )
+PapaShango19 posts ante [$10]
+PauloATDias posts ante [$10]
+H.Talho posts ante [$10]
+grnnn posts ante [$10]
+AGAAK posts ante [$10]
+IRrri9 posts ante [$10]
+abc12151 posts ante [$10]
+Hillier74 posts ante [$10]
+tonibosi29 posts ante [$10]
+PapaShango19 posts small blind [$40]
+tonibosi29 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3c ]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 calls [$80]
+IRrri9 folds
+H.Talho folds
+PapaShango19 calls [$40]
+tonibosi29 checks
+** Dealing flop ** [ Tc, Qh, 7h ]
+PapaShango19 checks
+tonibosi29 checks
+Hillier74 checks
+** Dealing turn ** [ 4s ]
+PapaShango19 checks
+tonibosi29 checks
+Hillier74 checks
+** Dealing river ** [ 8c ]
+PapaShango19 checks
+tonibosi29 checks
+Hillier74 folds
+** Summary **
+PapaShango19 shows [ Ac, 3c ]
+tonibosi29 mucks [ 2h, Jd ]
+PapaShango19 collected [ $330 ]
+
+
+
+#Game No : 643995391
+***** 888poker Hand History for Game 643995391 *****
+$40/$80 Blinds No Limit Holdem - *** 08 12 2014 17:50:18
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,628 )
+Seat 2: IRrri9 ( $1,192 )
+Seat 3: H.Talho ( $6,818 )
+Seat 4: PapaShango19 ( $1,595 )
+Seat 5: tonibosi29 ( $2,119 )
+Seat 6: grnnn ( $8,178 )
+Seat 7: AGAAK ( $2,133 )
+Seat 9: PauloATDias ( $2,688 )
+Seat 10: abc12151 ( $1,649 )
+PapaShango19 posts ante [$10]
+PauloATDias posts ante [$10]
+H.Talho posts ante [$10]
+grnnn posts ante [$10]
+AGAAK posts ante [$10]
+IRrri9 posts ante [$10]
+abc12151 posts ante [$10]
+Hillier74 posts ante [$10]
+tonibosi29 posts ante [$10]
+tonibosi29 posts small blind [$40]
+grnnn posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9s ]
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$80]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$2,069]
+grnnn folds
+IRrri9 calls [$1,102]
+** Dealing flop ** [ Ks, Qd, 6s ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Kc ]
+** Summary **
+IRrri9 shows [ Ah, 4h ]
+tonibosi29 shows [ 2d, Js ]
+IRrri9 collected [ $2,534 ]
+
+
+
+#Game No : 643995497
+***** 888poker Hand History for Game 643995497 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 17:51:03
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,618 )
+Seat 2: IRrri9 ( $2,534 )
+Seat 3: H.Talho ( $6,808 )
+Seat 4: PapaShango19 ( $1,585 )
+Seat 5: tonibosi29 ( $927 )
+Seat 6: grnnn ( $8,088 )
+Seat 7: AGAAK ( $2,123 )
+Seat 9: PauloATDias ( $2,678 )
+Seat 10: abc12151 ( $1,639 )
+PapaShango19 posts ante [$15]
+PauloATDias posts ante [$15]
+H.Talho posts ante [$15]
+grnnn posts ante [$15]
+AGAAK posts ante [$15]
+IRrri9 posts ante [$15]
+abc12151 posts ante [$15]
+Hillier74 posts ante [$15]
+tonibosi29 posts ante [$15]
+grnnn posts small blind [$50]
+AGAAK posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Jd ]
+PauloATDias raises [$200]
+abc12151 calls [$200]
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$912]
+grnnn folds
+AGAAK folds
+PauloATDias raises [$2,463]
+abc12151 calls [$1,424]
+** Dealing flop ** [ Kh, Td, Ts ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 5c ]
+** Summary **
+tonibosi29 shows [ 5d, 6s ]
+PauloATDias shows [ Qd, Ad ]
+abc12151 shows [ Kc, Jh ]
+abc12151 collected [ $3,021 ]
+abc12151 collected [ $1,424 ]
+
+
+
+#Game No : 643995632
+***** 888poker Hand History for Game 643995632 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 17:52:04
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,603 )
+Seat 2: IRrri9 ( $2,519 )
+Seat 3: H.Talho ( $6,793 )
+Seat 4: PapaShango19 ( $1,570 )
+Seat 5: tonibosi29 ( $3,000 )
+Seat 6: grnnn ( $8,023 )
+Seat 7: AGAAK ( $2,008 )
+Seat 9: PauloATDias ( $1,039 )
+Seat 10: abc12151 ( $4,445 )
+PapaShango19 posts ante [$15]
+PauloATDias posts ante [$15]
+H.Talho posts ante [$15]
+grnnn posts ante [$15]
+AGAAK posts ante [$15]
+IRrri9 posts ante [$15]
+abc12151 posts ante [$15]
+Hillier74 posts ante [$15]
+tonibosi29 posts ante [$15]
+AGAAK posts small blind [$50]
+PauloATDias posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Jc ]
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 raises [$300]
+tonibosi29 calls [$300]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+** Dealing flop ** [ 5c, 3s, 8h ]
+PapaShango19 checks
+tonibosi29 bets [$885]
+PapaShango19 raises [$1,255]
+tonibosi29 calls [$370]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 6c ]
+** Summary **
+PapaShango19 shows [ Ac, Jc ]
+tonibosi29 shows [ 6h, 9d ]
+PapaShango19 collected [ $3,395 ]
+
+
+
+#Game No : 643995754
+***** 888poker Hand History for Game 643995754 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 17:52:59
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,588 )
+Seat 2: IRrri9 ( $2,504 )
+Seat 3: H.Talho ( $6,778 )
+Seat 4: PapaShango19 ( $3,395 )
+Seat 5: tonibosi29 ( $1,430 )
+Seat 6: grnnn ( $8,008 )
+Seat 7: AGAAK ( $1,943 )
+Seat 9: PauloATDias ( $924 )
+Seat 10: abc12151 ( $4,430 )
+PapaShango19 posts ante [$15]
+PauloATDias posts ante [$15]
+H.Talho posts ante [$15]
+grnnn posts ante [$15]
+AGAAK posts ante [$15]
+IRrri9 posts ante [$15]
+abc12151 posts ante [$15]
+Hillier74 posts ante [$15]
+tonibosi29 posts ante [$15]
+PauloATDias posts small blind [$50]
+abc12151 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 4d ]
+Hillier74 folds
+IRrri9 calls [$100]
+H.Talho calls [$100]
+PapaShango19 folds
+tonibosi29 raises [$1,415]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 raises [$4,315]
+IRrri9 folds
+H.Talho folds
+** Dealing flop ** [ Kd, Jh, Ks ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 6s ]
+** Summary **
+tonibosi29 shows [ 9c, 6c ]
+abc12151 shows [ Ad, 9s ]
+abc12151 collected [ $3,215 ]
+
+
+
+#Game No : 643995859
+***** 888poker Hand History for Game 643995859 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 17:53:57
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,573 )
+Seat 2: IRrri9 ( $2,389 )
+Seat 3: H.Talho ( $6,663 )
+Seat 4: PapaShango19 ( $3,380 )
+Seat 5: tonibosi29 ( $3,000 )
+Seat 6: grnnn ( $7,993 )
+Seat 7: AGAAK ( $1,928 )
+Seat 9: PauloATDias ( $859 )
+Seat 10: abc12151 ( $6,215 )
+PapaShango19 posts ante [$15]
+PauloATDias posts ante [$15]
+H.Talho posts ante [$15]
+grnnn posts ante [$15]
+AGAAK posts ante [$15]
+IRrri9 posts ante [$15]
+abc12151 posts ante [$15]
+Hillier74 posts ante [$15]
+tonibosi29 posts ante [$15]
+abc12151 posts small blind [$50]
+Hillier74 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 9c ]
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$2,985]
+grnnn folds
+AGAAK calls [$1,913]
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+** Dealing flop ** [ 8h, Js, 8c ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ Jh ]
+** Summary **
+tonibosi29 shows [ Kc, 7c ]
+AGAAK shows [ Ad, Qh ]
+AGAAK collected [ $4,111 ]
+
+
+
+#Game No : 643995947
+***** 888poker Hand History for Game 643995947 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 17:54:39
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $3,458 )
+Seat 2: IRrri9 ( $2,374 )
+Seat 3: H.Talho ( $6,648 )
+Seat 4: PapaShango19 ( $3,365 )
+Seat 5: tonibosi29 ( $1,072 )
+Seat 6: grnnn ( $7,978 )
+Seat 7: AGAAK ( $4,111 )
+Seat 9: PauloATDias ( $844 )
+Seat 10: abc12151 ( $6,150 )
+PapaShango19 posts ante [$15]
+PauloATDias posts ante [$15]
+H.Talho posts ante [$15]
+grnnn posts ante [$15]
+AGAAK posts ante [$15]
+IRrri9 posts ante [$15]
+abc12151 posts ante [$15]
+Hillier74 posts ante [$15]
+tonibosi29 posts ante [$15]
+Hillier74 posts small blind [$50]
+IRrri9 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Ts ]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$1,057]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 raises [$2,014]
+Hillier74 folds
+IRrri9 folds
+** Dealing flop ** [ 7c, 7h, 3h ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 8d ]
+** Summary **
+tonibosi29 shows [ Js, 9d ]
+abc12151 shows [ 6d, Ad ]
+abc12151 collected [ $2,399 ]
+
+
+
+#Game No : 643996530
+***** 888poker Hand History for Game 643996530 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:01:53
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,893 )
+Seat 2: IRrri9 ( $6,759 )
+Seat 3: H.Talho ( $11,133 )
+Seat 4: PapaShango19 ( $3,350 )
+Seat 5: tonibosi29 ( $3,000 )
+Seat 6: grnnn ( $12,463 )
+Seat 7: AGAAK ( $8,596 )
+Seat 9: PauloATDias ( $5,329 )
+Seat 10: abc12151 ( $7,477 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+IRrri9 posts small blind [$60]
+H.Talho posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 7s ]
+PapaShango19 folds
+tonibosi29 raises [$600]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $480 ]
+
+
+
+#Game No : 643996616
+***** 888poker Hand History for Game 643996616 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:02:42
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,873 )
+Seat 2: IRrri9 ( $6,679 )
+Seat 3: H.Talho ( $10,993 )
+Seat 4: PapaShango19 ( $3,330 )
+Seat 5: tonibosi29 ( $3,340 )
+Seat 6: grnnn ( $12,443 )
+Seat 7: AGAAK ( $8,576 )
+Seat 9: PauloATDias ( $5,309 )
+Seat 10: abc12151 ( $7,457 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+H.Talho posts small blind [$60]
+PapaShango19 posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Ks ]
+tonibosi29 folds
+grnnn folds
+AGAAK folds
+PauloATDias raises [$240]
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+** Summary **
+PauloATDias did not show his hand
+PauloATDias collected [ $480 ]
+
+
+
+#Game No : 643996692
+***** 888poker Hand History for Game 643996692 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:03:24
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,853 )
+Seat 2: IRrri9 ( $6,659 )
+Seat 3: H.Talho ( $10,913 )
+Seat 4: PapaShango19 ( $3,190 )
+Seat 5: tonibosi29 ( $3,320 )
+Seat 6: grnnn ( $12,423 )
+Seat 7: AGAAK ( $8,556 )
+Seat 9: PauloATDias ( $5,649 )
+Seat 10: abc12151 ( $7,437 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+PapaShango19 posts small blind [$60]
+tonibosi29 posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 4s ]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $360 ]
+
+
+
+#Game No : 643996739
+***** 888poker Hand History for Game 643996739 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:03:53
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,833 )
+Seat 2: IRrri9 ( $6,639 )
+Seat 3: H.Talho ( $10,893 )
+Seat 4: PapaShango19 ( $3,110 )
+Seat 5: tonibosi29 ( $3,540 )
+Seat 6: grnnn ( $12,403 )
+Seat 7: AGAAK ( $8,536 )
+Seat 9: PauloATDias ( $5,629 )
+Seat 10: abc12151 ( $7,417 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+tonibosi29 posts small blind [$60]
+grnnn posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 6s ]
+AGAAK folds
+PauloATDias calls [$120]
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$120]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$3,460]
+grnnn folds
+PauloATDias folds
+IRrri9 folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $660 ]
+
+
+
+#Game No : 643996792
+***** 888poker Hand History for Game 643996792 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:04:29
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,813 )
+Seat 2: IRrri9 ( $6,499 )
+Seat 3: H.Talho ( $10,873 )
+Seat 4: PapaShango19 ( $3,090 )
+Seat 5: tonibosi29 ( $4,060 )
+Seat 6: grnnn ( $12,263 )
+Seat 7: AGAAK ( $8,516 )
+Seat 9: PauloATDias ( $5,489 )
+Seat 10: abc12151 ( $7,397 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+grnnn posts small blind [$60]
+AGAAK posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 6h ]
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$120]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$4,040]
+grnnn folds
+AGAAK folds
+IRrri9 folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $600 ]
+
+
+
+#Game No : 643996858
+***** 888poker Hand History for Game 643996858 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:05:03
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,793 )
+Seat 2: IRrri9 ( $6,359 )
+Seat 3: H.Talho ( $10,853 )
+Seat 4: PapaShango19 ( $3,070 )
+Seat 5: tonibosi29 ( $4,520 )
+Seat 6: grnnn ( $12,183 )
+Seat 7: AGAAK ( $8,376 )
+Seat 9: PauloATDias ( $5,469 )
+Seat 10: abc12151 ( $7,377 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+AGAAK posts small blind [$60]
+PauloATDias posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 9d ]
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$120]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 calls [$120]
+grnnn folds
+AGAAK calls [$60]
+PauloATDias raises [$330]
+IRrri9 calls [$330]
+tonibosi29 calls [$330]
+AGAAK folds
+** Dealing flop ** [ Qh, Qd, Td ]
+PauloATDias bets [$4,999]
+IRrri9 folds
+tonibosi29 folds
+** Summary **
+PauloATDias did not show his hand
+PauloATDias collected [ $1,650 ]
+
+
+
+#Game No : 643996937
+***** 888poker Hand History for Game 643996937 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:05:54
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,773 )
+Seat 2: IRrri9 ( $5,889 )
+Seat 3: H.Talho ( $10,833 )
+Seat 4: PapaShango19 ( $3,050 )
+Seat 5: tonibosi29 ( $4,050 )
+Seat 6: grnnn ( $12,163 )
+Seat 7: AGAAK ( $8,236 )
+Seat 9: PauloATDias ( $6,649 )
+Seat 10: abc12151 ( $7,357 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+PauloATDias posts small blind [$60]
+abc12151 posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Kc ]
+Hillier74 folds
+IRrri9 calls [$120]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 folds
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 checks
+** Dealing flop ** [ 8c, 5d, 2c ]
+abc12151 checks
+IRrri9 checks
+** Dealing turn ** [ 3d ]
+abc12151 bets [$240]
+IRrri9 folds
+** Summary **
+abc12151 did not show his hand
+abc12151 collected [ $480 ]
+
+
+
+#Game No : 643997040
+***** 888poker Hand History for Game 643997040 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:06:45
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,753 )
+Seat 2: IRrri9 ( $5,749 )
+Seat 3: H.Talho ( $10,813 )
+Seat 4: PapaShango19 ( $3,030 )
+Seat 5: tonibosi29 ( $4,030 )
+Seat 6: grnnn ( $12,143 )
+Seat 7: AGAAK ( $8,216 )
+Seat 9: PauloATDias ( $6,569 )
+Seat 10: abc12151 ( $7,697 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+abc12151 posts small blind [$60]
+Hillier74 posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2c ]
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$4,010]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $480 ]
+
+
+
+#Game No : 643997093
+***** 888poker Hand History for Game 643997093 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:07:09
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,613 )
+Seat 2: IRrri9 ( $5,729 )
+Seat 3: H.Talho ( $10,793 )
+Seat 4: PapaShango19 ( $3,010 )
+Seat 5: tonibosi29 ( $4,370 )
+Seat 6: grnnn ( $12,123 )
+Seat 7: AGAAK ( $8,196 )
+Seat 9: PauloATDias ( $6,549 )
+Seat 10: abc12151 ( $7,617 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+Hillier74 posts small blind [$60]
+IRrri9 posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 5d ]
+H.Talho folds
+PapaShango19 folds
+tonibosi29 raises [$240]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $480 ]
+
+
+
+#Game No : 643997143
+***** 888poker Hand History for Game 643997143 *****
+$60/$120 Blinds No Limit Holdem - *** 08 12 2014 18:07:35
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,533 )
+Seat 2: IRrri9 ( $5,589 )
+Seat 3: H.Talho ( $10,773 )
+Seat 4: PapaShango19 ( $2,990 )
+Seat 5: tonibosi29 ( $4,710 )
+Seat 6: grnnn ( $12,103 )
+Seat 7: AGAAK ( $8,176 )
+Seat 9: PauloATDias ( $6,529 )
+Seat 10: abc12151 ( $7,597 )
+PapaShango19 posts ante [$20]
+PauloATDias posts ante [$20]
+H.Talho posts ante [$20]
+grnnn posts ante [$20]
+AGAAK posts ante [$20]
+IRrri9 posts ante [$20]
+abc12151 posts ante [$20]
+Hillier74 posts ante [$20]
+tonibosi29 posts ante [$20]
+IRrri9 posts small blind [$60]
+H.Talho posts big blind [$120]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ks ]
+PapaShango19 folds
+tonibosi29 folds
+grnnn folds
+AGAAK folds
+PauloATDias calls [$120]
+abc12151 folds
+Hillier74 folds
+IRrri9 calls [$60]
+H.Talho checks
+** Dealing flop ** [ Kh, 7c, 3c ]
+IRrri9 checks
+H.Talho checks
+PauloATDias checks
+** Dealing turn ** [ 4c ]
+IRrri9 checks
+H.Talho checks
+PauloATDias bets [$120]
+IRrri9 calls [$120]
+H.Talho folds
+** Dealing river ** [ Qs ]
+IRrri9 checks
+PauloATDias checks
+** Summary **
+IRrri9 shows [ 5d, As ]
+PauloATDias shows [ 9h, 9c ]
+PauloATDias collected [ $780 ]
+
+
+
+#Game No : 643997282
+***** 888poker Hand History for Game 643997282 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:08:38
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,513 )
+Seat 2: IRrri9 ( $5,329 )
+Seat 3: H.Talho ( $10,633 )
+Seat 4: PapaShango19 ( $2,970 )
+Seat 5: tonibosi29 ( $4,690 )
+Seat 6: grnnn ( $12,083 )
+Seat 7: AGAAK ( $8,156 )
+Seat 9: PauloATDias ( $7,049 )
+Seat 10: abc12151 ( $7,577 )
+PapaShango19 posts ante [$30]
+PauloATDias posts ante [$30]
+H.Talho posts ante [$30]
+grnnn posts ante [$30]
+AGAAK posts ante [$30]
+IRrri9 posts ante [$30]
+abc12151 posts ante [$30]
+Hillier74 posts ante [$30]
+tonibosi29 posts ante [$30]
+H.Talho posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Ah ]
+tonibosi29 raises [$4,660]
+grnnn folds
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+** Summary **
+tonibosi29 did not show his hand
+tonibosi29 collected [ $645 ]
+
+
+
+#Game No : 643997358
+***** 888poker Hand History for Game 643997358 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:09:13
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,483 )
+Seat 2: IRrri9 ( $5,299 )
+Seat 3: H.Talho ( $10,528 )
+Seat 4: PapaShango19 ( $2,790 )
+Seat 5: tonibosi29 ( $5,155 )
+Seat 6: grnnn ( $12,053 )
+Seat 7: AGAAK ( $8,126 )
+Seat 9: PauloATDias ( $7,019 )
+Seat 10: abc12151 ( $7,547 )
+PapaShango19 posts ante [$30]
+PauloATDias posts ante [$30]
+H.Talho posts ante [$30]
+grnnn posts ante [$30]
+AGAAK posts ante [$30]
+IRrri9 posts ante [$30]
+abc12151 posts ante [$30]
+Hillier74 posts ante [$30]
+tonibosi29 posts ante [$30]
+PapaShango19 posts small blind [$75]
+tonibosi29 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Jh ]
+grnnn raises [$450]
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 folds
+IRrri9 folds
+H.Talho folds
+PapaShango19 folds
+tonibosi29 calls [$300]
+** Dealing flop ** [ Ah, Ks, 7c ]
+tonibosi29 bets [$150]
+grnnn raises [$450]
+tonibosi29 calls [$300]
+** Dealing turn ** [ As ]
+tonibosi29 checks
+grnnn bets [$2,145]
+tonibosi29 raises [$4,225]
+grnnn calls [$2,080]
+** Dealing river ** [ 2s ]
+** Summary **
+tonibosi29 shows [ 2h, Kc ]
+grnnn shows [ Td, Ts ]
+tonibosi29 collected [ $10,595 ]
+
+
+
+#Game No : 643997482
+***** 888poker Hand History for Game 643997482 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:10:08
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Hillier74 ( $7,453 )
+Seat 2: IRrri9 ( $5,269 )
+Seat 3: H.Talho ( $10,498 )
+Seat 4: PapaShango19 ( $2,685 )
+Seat 5: tonibosi29 ( $10,595 )
+Seat 6: grnnn ( $6,898 )
+Seat 7: AGAAK ( $8,096 )
+Seat 9: PauloATDias ( $6,989 )
+Seat 10: abc12151 ( $7,517 )
+PapaShango19 posts ante [$30]
+PauloATDias posts ante [$30]
+H.Talho posts ante [$30]
+grnnn posts ante [$30]
+AGAAK posts ante [$30]
+IRrri9 posts ante [$30]
+abc12151 posts ante [$30]
+Hillier74 posts ante [$30]
+tonibosi29 posts ante [$30]
+tonibosi29 posts small blind [$75]
+grnnn posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8c ]
+AGAAK folds
+PauloATDias folds
+abc12151 folds
+Hillier74 calls [$150]
+IRrri9 folds
+H.Talho calls [$150]
+PapaShango19 folds
+tonibosi29 raises [$4,575]
+grnnn folds
+Hillier74 raises [$7,273]
+H.Talho folds
+tonibosi29 calls [$2,773]
+** Dealing flop ** [ 5h, Th, 2h ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 2c ]
+** Summary **
+Hillier74 shows [ Ts, 9d ]
+tonibosi29 shows [ Qs, Qd ]
+tonibosi29 collected [ $15,416 ]
+
+
+
+#Game No : 643997653
+***** 888poker Hand History for Game 643997653 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:11:24
+Tournament #64179867 $1.30 + $0.20 - Table #15 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: IRrri9 ( $5,239 )
+Seat 3: H.Talho ( $10,318 )
+Seat 4: PapaShango19 ( $2,655 )
+Seat 5: tonibosi29 ( $18,558 )
+Seat 6: grnnn ( $6,718 )
+Seat 7: AGAAK ( $8,066 )
+Seat 9: PauloATDias ( $6,959 )
+Seat 10: abc12151 ( $7,487 )
+PapaShango19 posts ante [$30]
+PauloATDias posts ante [$30]
+H.Talho posts ante [$30]
+grnnn posts ante [$30]
+AGAAK posts ante [$30]
+IRrri9 posts ante [$30]
+abc12151 posts ante [$30]
+tonibosi29 posts ante [$30]
+grnnn posts small blind [$75]
+AGAAK posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 6s ]
+PauloATDias calls [$150]
+abc12151 folds
+IRrri9 calls [$150]
+H.Talho folds
+PapaShango19 raises [$2,625]
+tonibosi29 folds
+grnnn folds
+AGAAK folds
+PauloATDias folds
+IRrri9 calls [$2,475]
+** Dealing flop ** [ 3h, 9d, Js ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 2c ]
+** Summary **
+IRrri9 shows [ Jd, Kh ]
+PapaShango19 shows [ 6c, 6s ]
+IRrri9 collected [ $5,865 ]
+
+
+

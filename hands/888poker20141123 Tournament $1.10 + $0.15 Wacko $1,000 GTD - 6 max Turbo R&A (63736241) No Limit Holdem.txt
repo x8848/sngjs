@@ -1,0 +1,1061 @@
+#Game No : 642917838
+***** 888poker Hand History for Game 642917838 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:49:06
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Doedet_mne ( $1,890 )
+Seat 2: sun_baby ( $2,110 )
+Seat 4: helltell14 ( $6,080 )
+Seat 6: maikelnai77 ( $1,980 )
+Seat 9: Alexandeure ( $1,870 )
+maikelnai77 posts small blind [$10]
+Alexandeure posts big blind [$20]
+** Dealing down cards **
+Doedet_mne folds
+sun_baby folds
+helltell14 folds
+maikelnai77 folds
+** Summary **
+Alexandeure collected [ $30 ]
+
+
+
+#Game No : 642917874
+***** 888poker Hand History for Game 642917874 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:49:11
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Doedet_mne ( $1,890 )
+Seat 2: sun_baby ( $2,110 )
+Seat 4: helltell14 ( $6,080 )
+Seat 6: maikelnai77 ( $1,970 )
+Seat 9: Alexandeure ( $1,880 )
+Alexandeure posts small blind [$10]
+Doedet_mne posts big blind [$20]
+** Dealing down cards **
+sun_baby folds
+helltell14 folds
+maikelnai77 folds
+Alexandeure folds
+** Summary **
+Doedet_mne collected [ $30 ]
+
+
+
+#Game No : 642917951
+***** 888poker Hand History for Game 642917951 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 10:49:31
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,900 )
+Seat 2: sun_baby ( $2,110 )
+Seat 4: helltell14 ( $6,080 )
+Seat 6: maikelnai77 ( $1,970 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: Alexandeure ( $1,870 )
+Doedet_mne posts small blind [$15]
+sun_baby posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 5d ]
+helltell14 calls [$30]
+maikelnai77 folds
+PapaShango19 folds
+Alexandeure folds
+Doedet_mne folds
+sun_baby checks
+** Dealing flop ** [ 3s, 5s, 7c ]
+sun_baby checks
+helltell14 checks
+** Dealing turn ** [ 9s ]
+sun_baby bets [$37]
+helltell14 calls [$37]
+** Dealing river ** [ 5h ]
+sun_baby checks
+helltell14 checks
+** Summary **
+sun_baby shows [ 9d, Kh ]
+helltell14 mucks [ Kd, Jd ]
+sun_baby collected [ $149 ]
+
+
+
+#Game No : 642918085
+***** 888poker Hand History for Game 642918085 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 10:50:39
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,885 )
+Seat 2: sun_baby ( $2,192 )
+Seat 4: helltell14 ( $6,013 )
+Seat 6: maikelnai77 ( $1,970 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: Alexandeure ( $1,870 )
+sun_baby posts small blind [$15]
+helltell14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 2c ]
+maikelnai77 calls [$30]
+PapaShango19 folds
+Alexandeure calls [$30]
+Doedet_mne folds
+sun_baby calls [$15]
+helltell14 checks
+** Dealing flop ** [ Kc, 4h, 5c ]
+sun_baby checks
+helltell14 checks
+maikelnai77 checks
+Alexandeure bets [$90]
+sun_baby calls [$90]
+helltell14 folds
+maikelnai77 folds
+** Dealing turn ** [ Jc ]
+sun_baby checks
+Alexandeure checks
+** Dealing river ** [ 8d ]
+sun_baby bets [$150]
+Alexandeure calls [$150]
+** Summary **
+sun_baby shows [ 8s, 8c ]
+Alexandeure mucks [ Kd, Jd ]
+sun_baby collected [ $600 ]
+
+
+
+#Game No : 642918216
+***** 888poker Hand History for Game 642918216 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 10:51:34
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Doedet_mne ( $1,885 )
+Seat 2: sun_baby ( $2,522 )
+Seat 6: maikelnai77 ( $1,940 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: Alexandeure ( $1,600 )
+maikelnai77 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 2c ]
+PapaShango19 folds
+Alexandeure calls [$30]
+Doedet_mne folds
+sun_baby folds
+maikelnai77 checks
+** Dealing flop ** [ 8d, Jh, 6h ]
+maikelnai77 checks
+Alexandeure bets [$60]
+maikelnai77 calls [$60]
+** Dealing turn ** [ 7h ]
+maikelnai77 bets [$90]
+Alexandeure folds
+** Summary **
+maikelnai77 collected [ $180 ]
+
+
+
+#Game No : 642918303
+***** 888poker Hand History for Game 642918303 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 10:52:16
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Doedet_mne ( $1,885 )
+Seat 2: sun_baby ( $2,522 )
+Seat 6: maikelnai77 ( $2,030 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: Alexandeure ( $1,510 )
+maikelnai77 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4c ]
+Alexandeure folds
+Doedet_mne folds
+sun_baby raises [$90]
+maikelnai77 folds
+PapaShango19 folds
+** Summary **
+sun_baby collected [ $75 ]
+
+
+
+#Game No : 642918375
+***** 888poker Hand History for Game 642918375 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 10:52:42
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,885 )
+Seat 2: sun_baby ( $2,567 )
+Seat 4: Cjgreen25 ( $2,000 )
+Seat 6: maikelnai77 ( $2,015 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: Alexandeure ( $1,510 )
+PapaShango19 posts small blind [$15]
+Alexandeure posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Qc ]
+Doedet_mne folds
+sun_baby folds
+Cjgreen25 calls [$30]
+maikelnai77 folds
+PapaShango19 raises [$105]
+Alexandeure folds
+Cjgreen25 calls [$90]
+** Dealing flop ** [ 8h, Qh, 9d ]
+PapaShango19 bets [$202]
+Cjgreen25 calls [$202]
+** Dealing turn ** [ 7d ]
+PapaShango19 bets [$505]
+Cjgreen25 raises [$1,678]
+PapaShango19 calls [$1,143]
+** Dealing river ** [ 7s ]
+** Summary **
+Cjgreen25 shows [ Qd, 5s ]
+PapaShango19 shows [ As, Qc ]
+PapaShango19 collected [ $3,970 ]
+
+
+
+#Game No : 642918485
+***** 888poker Hand History for Game 642918485 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 10:53:42
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Doedet_mne ( $1,885 )
+Seat 2: sun_baby ( $2,567 )
+Seat 4: Cjgreen25 ( $30 )
+Seat 6: maikelnai77 ( $2,015 )
+Seat 7: PapaShango19 ( $3,970 )
+Doedet_mne posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Js ]
+sun_baby folds
+Cjgreen25 calls [$30]
+maikelnai77 calls [$50]
+PapaShango19 raises [$150]
+Doedet_mne calls [$100]
+maikelnai77 calls [$100]
+** Dealing flop ** [ As, Qc, Jc ]
+Doedet_mne checks
+maikelnai77 checks
+PapaShango19 bets [$240]
+Doedet_mne folds
+maikelnai77 calls [$240]
+** Dealing turn ** [ Qd ]
+maikelnai77 checks
+PapaShango19 checks
+** Dealing river ** [ 8c ]
+maikelnai77 bets [$250]
+PapaShango19 calls [$250]
+** Summary **
+maikelnai77 shows [ Jh, Ks ]
+PapaShango19 shows [ Kc, Js ]
+Cjgreen25 mucks [ 7h, 9d ]
+maikelnai77 collected [ $60 ]
+PapaShango19 collected [ $60 ]
+maikelnai77 collected [ $670 ]
+PapaShango19 collected [ $670 ]
+
+
+
+#Game No : 642919059
+***** 888poker Hand History for Game 642919059 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:00:01
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Doedet_mne ( $1,735 )
+Seat 2: sun_baby ( $2,567 )
+Seat 4: Cjgreen25 ( $2,000 )
+Seat 6: maikelnai77 ( $4,105 )
+Seat 7: PapaShango19 ( $4,060 )
+Doedet_mne posts small blind [$25]
+sun_baby posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 3s ]
+Cjgreen25 calls [$50]
+maikelnai77 folds
+PapaShango19 folds
+Doedet_mne folds
+sun_baby checks
+** Dealing flop ** [ 7h, Td, Kc ]
+sun_baby bets [$93]
+Cjgreen25 folds
+** Summary **
+sun_baby collected [ $125 ]
+
+
+
+#Game No : 642919129
+***** 888poker Hand History for Game 642919129 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:00:41
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,710 )
+Seat 2: sun_baby ( $2,642 )
+Seat 4: Cjgreen25 ( $1,950 )
+Seat 6: maikelnai77 ( $4,105 )
+Seat 7: PapaShango19 ( $4,060 )
+Seat 9: ozken41 ( $2,000 )
+sun_baby posts small blind [$25]
+Cjgreen25 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Js ]
+maikelnai77 folds
+PapaShango19 folds
+ozken41 calls [$50]
+Doedet_mne calls [$50]
+sun_baby folds
+Cjgreen25 checks
+** Dealing flop ** [ Th, 3h, 3c ]
+Cjgreen25 checks
+ozken41 bets [$50]
+Doedet_mne folds
+Cjgreen25 folds
+** Summary **
+ozken41 did not show his hand
+ozken41 collected [ $175 ]
+
+
+
+#Game No : 642919198
+***** 888poker Hand History for Game 642919198 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:01:16
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,660 )
+Seat 2: sun_baby ( $2,617 )
+Seat 4: Cjgreen25 ( $1,900 )
+Seat 6: maikelnai77 ( $4,105 )
+Seat 7: PapaShango19 ( $4,060 )
+Seat 9: ozken41 ( $2,125 )
+Cjgreen25 posts small blind [$25]
+maikelnai77 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Qs ]
+PapaShango19 folds
+ozken41 folds
+Doedet_mne folds
+sun_baby folds
+Cjgreen25 folds
+** Summary **
+maikelnai77 did not show his hand
+maikelnai77 collected [ $75 ]
+
+
+
+#Game No : 642919259
+***** 888poker Hand History for Game 642919259 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:01:48
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,660 )
+Seat 2: sun_baby ( $2,617 )
+Seat 4: Cjgreen25 ( $1,875 )
+Seat 6: maikelnai77 ( $4,130 )
+Seat 7: PapaShango19 ( $4,060 )
+Seat 9: ozken41 ( $2,125 )
+maikelnai77 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 7c ]
+ozken41 folds
+Doedet_mne raises [$175]
+sun_baby folds
+Cjgreen25 folds
+maikelnai77 folds
+PapaShango19 folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $125 ]
+
+
+
+#Game No : 642919314
+***** 888poker Hand History for Game 642919314 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:02:09
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,735 )
+Seat 2: sun_baby ( $2,617 )
+Seat 4: Cjgreen25 ( $1,875 )
+Seat 6: maikelnai77 ( $4,105 )
+Seat 7: PapaShango19 ( $4,010 )
+Seat 9: ozken41 ( $2,125 )
+PapaShango19 posts small blind [$25]
+ozken41 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 4s ]
+Doedet_mne folds
+sun_baby raises [$150]
+Cjgreen25 folds
+maikelnai77 folds
+PapaShango19 calls [$125]
+ozken41 calls [$100]
+** Dealing flop ** [ 9d, 9c, 3c ]
+PapaShango19 checks
+ozken41 bets [$50]
+sun_baby calls [$50]
+PapaShango19 calls [$50]
+** Dealing turn ** [ 8h ]
+PapaShango19 checks
+ozken41 bets [$150]
+sun_baby folds
+PapaShango19 folds
+** Summary **
+ozken41 did not show his hand
+ozken41 collected [ $600 ]
+
+
+
+#Game No : 642919468
+***** 888poker Hand History for Game 642919468 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:03:27
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,735 )
+Seat 2: sun_baby ( $2,417 )
+Seat 4: Cjgreen25 ( $1,875 )
+Seat 6: maikelnai77 ( $4,105 )
+Seat 7: PapaShango19 ( $3,810 )
+Seat 9: ozken41 ( $2,525 )
+ozken41 posts small blind [$50]
+Doedet_mne posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 7s ]
+sun_baby folds
+Cjgreen25 calls [$100]
+maikelnai77 folds
+PapaShango19 folds
+ozken41 calls [$50]
+Doedet_mne checks
+** Dealing flop ** [ 8h, Kh, Kc ]
+ozken41 checks
+Doedet_mne checks
+Cjgreen25 checks
+** Dealing turn ** [ 2d ]
+ozken41 checks
+Doedet_mne checks
+Cjgreen25 checks
+** Dealing river ** [ 2h ]
+ozken41 bets [$100]
+Doedet_mne folds
+Cjgreen25 folds
+** Summary **
+ozken41 did not show his hand
+ozken41 collected [ $300 ]
+
+
+
+#Game No : 642919591
+***** 888poker Hand History for Game 642919591 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:04:22
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Doedet_mne ( $1,635 )
+Seat 2: sun_baby ( $2,417 )
+Seat 4: Cjgreen25 ( $1,775 )
+Seat 6: maikelnai77 ( $4,105 )
+Seat 7: PapaShango19 ( $3,810 )
+Seat 9: ozken41 ( $2,725 )
+Doedet_mne posts small blind [$50]
+sun_baby posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 4h ]
+Cjgreen25 raises [$1,775]
+maikelnai77 folds
+PapaShango19 folds
+ozken41 calls [$1,775]
+Doedet_mne folds
+sun_baby folds
+** Dealing flop ** [ 6c, 2s, Kc ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 7d ]
+** Summary **
+Cjgreen25 shows [ Jc, Ad ]
+ozken41 shows [ 9s, 9h ]
+ozken41 collected [ $3,700 ]
+
+
+
+#Game No : 642919764
+***** 888poker Hand History for Game 642919764 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:05:47
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 2: sun_baby ( $2,317 )
+Seat 6: maikelnai77 ( $4,105 )
+Seat 7: PapaShango19 ( $3,810 )
+Seat 9: ozken41 ( $4,650 )
+sun_baby posts small blind [$50]
+maikelnai77 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 5h ]
+PapaShango19 raises [$200]
+ozken41 calls [$200]
+sun_baby folds
+maikelnai77 folds
+** Dealing flop ** [ Qs, 2c, 7h ]
+PapaShango19 bets [$275]
+ozken41 calls [$275]
+** Dealing turn ** [ 3h ]
+PapaShango19 bets [$300]
+ozken41 calls [$300]
+** Dealing river ** [ 3c ]
+PapaShango19 checks
+ozken41 bets [$300]
+PapaShango19 raises [$1,400]
+ozken41 calls [$1,100]
+** Summary **
+PapaShango19 shows [ Ah, 5h ]
+ozken41 shows [ Jh, Jc ]
+ozken41 collected [ $4,500 ]
+
+
+
+#Game No : 642919996
+***** 888poker Hand History for Game 642919996 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:07:28
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Zarasaar ( $2,000 )
+Seat 2: sun_baby ( $4,267 )
+Seat 6: maikelnai77 ( $4,005 )
+Seat 7: PapaShango19 ( $1,635 )
+Seat 9: ozken41 ( $6,975 )
+maikelnai77 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Jd ]
+ozken41 calls [$150]
+Zarasaar raises [$600]
+sun_baby folds
+maikelnai77 folds
+PapaShango19 folds
+ozken41 calls [$450]
+** Dealing flop ** [ Qh, Th, 3c ]
+ozken41 checks
+Zarasaar bets [$900]
+ozken41 folds
+** Summary **
+Zarasaar collected [ $1,425 ]
+
+
+
+#Game No : 642920117
+***** 888poker Hand History for Game 642920117 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:08:20
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Zarasaar ( $2,825 )
+Seat 2: sun_baby ( $4,267 )
+Seat 4: WilTroll ( $2,000 )
+Seat 6: maikelnai77 ( $3,930 )
+Seat 7: PapaShango19 ( $1,485 )
+Seat 9: ozken41 ( $6,375 )
+PapaShango19 posts small blind [$75]
+ozken41 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 7d ]
+Zarasaar calls [$150]
+sun_baby folds
+WilTroll folds
+maikelnai77 folds
+PapaShango19 folds
+ozken41 checks
+** Dealing flop ** [ 9c, 5c, 4d ]
+ozken41 bets [$150]
+Zarasaar calls [$150]
+** Dealing turn ** [ 4c ]
+ozken41 bets [$450]
+Zarasaar calls [$450]
+** Dealing river ** [ 8d ]
+ozken41 bets [$787]
+Zarasaar calls [$787]
+** Summary **
+ozken41 shows [ 9s, Qc ]
+Zarasaar mucks [ 5d, Ad ]
+ozken41 collected [ $3,149 ]
+
+
+
+#Game No : 642920206
+***** 888poker Hand History for Game 642920206 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:09:05
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Zarasaar ( $1,288 )
+Seat 2: sun_baby ( $4,267 )
+Seat 4: WilTroll ( $2,000 )
+Seat 6: maikelnai77 ( $3,930 )
+Seat 7: PapaShango19 ( $1,410 )
+Seat 9: ozken41 ( $7,987 )
+ozken41 posts small blind [$75]
+Zarasaar posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Ah ]
+sun_baby folds
+WilTroll folds
+maikelnai77 raises [$300]
+PapaShango19 folds
+ozken41 folds
+Zarasaar folds
+** Summary **
+maikelnai77 did not show his hand
+maikelnai77 collected [ $375 ]
+
+
+
+#Game No : 642920251
+***** 888poker Hand History for Game 642920251 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:09:25
+Tournament #63736241 $1.10 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Zarasaar ( $1,138 )
+Seat 2: sun_baby ( $4,267 )
+Seat 4: WilTroll ( $2,000 )
+Seat 6: maikelnai77 ( $4,155 )
+Seat 7: PapaShango19 ( $1,410 )
+Seat 9: ozken41 ( $7,912 )
+Zarasaar posts small blind [$75]
+sun_baby posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Qs ]
+WilTroll folds
+maikelnai77 folds
+PapaShango19 raises [$1,410]
+ozken41 folds
+Zarasaar folds
+sun_baby folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 642920334
+***** 888poker Hand History for Game 642920334 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:10:06
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $4,155 )
+Seat 2: Turboflo0202 ( $2,000 )
+Seat 4: nuser17 ( $3,675 )
+Seat 6: riffela ( $5,725 )
+Seat 7: PapaShango19 ( $1,635 )
+Seat 9: flipthatsht ( $2,000 )
+nuser17 posts small blind [$75]
+riffela posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 7h ]
+PapaShango19 folds
+flipthatsht folds
+maikelnai77 calls [$150]
+Turboflo0202 calls [$150]
+nuser17 calls [$75]
+riffela checks
+** Dealing flop ** [ Tc, 3h, Jc ]
+nuser17 bets [$150]
+riffela folds
+maikelnai77 calls [$150]
+Turboflo0202 folds
+** Dealing turn ** [ Kd ]
+nuser17 bets [$150]
+maikelnai77 calls [$150]
+** Dealing river ** [ Qd ]
+nuser17 bets [$150]
+maikelnai77 calls [$150]
+** Summary **
+nuser17 shows [ Jh, 4s ]
+maikelnai77 shows [ Td, Kc ]
+maikelnai77 collected [ $1,500 ]
+
+
+
+#Game No : 642920426
+***** 888poker Hand History for Game 642920426 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:10:51
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $5,055 )
+Seat 2: Turboflo0202 ( $1,850 )
+Seat 4: nuser17 ( $3,075 )
+Seat 6: riffela ( $5,575 )
+Seat 7: PapaShango19 ( $1,635 )
+Seat 9: flipthatsht ( $2,000 )
+Turboflo0202 posts ante [$20]
+flipthatsht posts ante [$20]
+maikelnai77 posts ante [$20]
+nuser17 posts ante [$20]
+riffela posts ante [$20]
+PapaShango19 posts ante [$20]
+riffela posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 5h ]
+flipthatsht calls [$200]
+maikelnai77 folds
+Turboflo0202 calls [$200]
+nuser17 calls [$200]
+riffela calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Qd, Qs, Ac ]
+riffela checks
+PapaShango19 checks
+flipthatsht checks
+Turboflo0202 checks
+nuser17 checks
+** Dealing turn ** [ Ah ]
+riffela checks
+PapaShango19 checks
+flipthatsht checks
+Turboflo0202 checks
+nuser17 checks
+** Dealing river ** [ Ts ]
+riffela checks
+PapaShango19 checks
+flipthatsht bets [$1,780]
+Turboflo0202 folds
+nuser17 calls [$1,780]
+riffela folds
+PapaShango19 folds
+** Summary **
+nuser17 shows [ 9h, Tc ]
+flipthatsht shows [ 8h, 7s ]
+flipthatsht collected [ $2,340 ]
+nuser17 collected [ $2,340 ]
+
+
+
+#Game No : 642920831
+***** 888poker Hand History for Game 642920831 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:14:06
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $5,035 )
+Seat 2: Turboflo0202 ( $1,630 )
+Seat 4: nuser17 ( $5,415 )
+Seat 6: riffela ( $5,355 )
+Seat 7: PapaShango19 ( $1,415 )
+Seat 9: flipthatsht ( $2,340 )
+Turboflo0202 posts ante [$20]
+flipthatsht posts ante [$20]
+maikelnai77 posts ante [$20]
+nuser17 posts ante [$20]
+riffela posts ante [$20]
+PapaShango19 posts ante [$20]
+PapaShango19 posts small blind [$100]
+flipthatsht posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Ah ]
+maikelnai77 folds
+Turboflo0202 folds
+nuser17 folds
+riffela folds
+PapaShango19 raises [$1,295]
+flipthatsht folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $520 ]
+
+
+
+#Game No : 642920913
+***** 888poker Hand History for Game 642920913 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 11:14:45
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $5,015 )
+Seat 2: Turboflo0202 ( $1,610 )
+Seat 4: nuser17 ( $5,395 )
+Seat 6: riffela ( $5,335 )
+Seat 7: PapaShango19 ( $1,715 )
+Seat 9: flipthatsht ( $2,120 )
+Turboflo0202 posts ante [$25]
+flipthatsht posts ante [$25]
+maikelnai77 posts ante [$25]
+nuser17 posts ante [$25]
+riffela posts ante [$25]
+PapaShango19 posts ante [$25]
+flipthatsht posts small blind [$125]
+maikelnai77 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Qd ]
+Turboflo0202 folds
+nuser17 calls [$250]
+riffela folds
+PapaShango19 folds
+flipthatsht folds
+maikelnai77 checks
+** Dealing flop ** [ Ts, 4d, Td ]
+maikelnai77 checks
+nuser17 bets [$250]
+maikelnai77 folds
+** Summary **
+nuser17 did not show his hand
+nuser17 collected [ $775 ]
+
+
+
+#Game No : 642921079
+***** 888poker Hand History for Game 642921079 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 11:15:55
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $4,740 )
+Seat 2: Turboflo0202 ( $1,585 )
+Seat 4: nuser17 ( $5,895 )
+Seat 6: riffela ( $5,310 )
+Seat 7: PapaShango19 ( $1,690 )
+Seat 9: flipthatsht ( $1,970 )
+Turboflo0202 posts ante [$25]
+flipthatsht posts ante [$25]
+maikelnai77 posts ante [$25]
+nuser17 posts ante [$25]
+riffela posts ante [$25]
+PapaShango19 posts ante [$25]
+maikelnai77 posts small blind [$125]
+Turboflo0202 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Jc ]
+nuser17 calls [$250]
+riffela folds
+PapaShango19 folds
+flipthatsht calls [$250]
+maikelnai77 folds
+Turboflo0202 checks
+** Dealing flop ** [ 5h, Jd, 6h ]
+Turboflo0202 checks
+nuser17 checks
+flipthatsht bets [$250]
+Turboflo0202 folds
+nuser17 folds
+** Summary **
+flipthatsht did not show his hand
+flipthatsht collected [ $1,025 ]
+
+
+
+#Game No : 642921177
+***** 888poker Hand History for Game 642921177 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 11:16:39
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $4,590 )
+Seat 2: Turboflo0202 ( $1,310 )
+Seat 4: nuser17 ( $5,620 )
+Seat 6: riffela ( $5,285 )
+Seat 7: PapaShango19 ( $1,665 )
+Seat 9: flipthatsht ( $2,720 )
+Turboflo0202 posts ante [$25]
+flipthatsht posts ante [$25]
+maikelnai77 posts ante [$25]
+nuser17 posts ante [$25]
+riffela posts ante [$25]
+PapaShango19 posts ante [$25]
+Turboflo0202 posts small blind [$125]
+nuser17 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 4s ]
+riffela folds
+PapaShango19 folds
+flipthatsht calls [$250]
+maikelnai77 folds
+Turboflo0202 calls [$125]
+nuser17 checks
+** Dealing flop ** [ 8c, 4h, Qd ]
+Turboflo0202 bets [$900]
+nuser17 folds
+flipthatsht folds
+** Summary **
+Turboflo0202 did not show his hand
+Turboflo0202 collected [ $900 ]
+
+
+
+#Game No : 642921251
+***** 888poker Hand History for Game 642921251 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 11:17:19
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $4,565 )
+Seat 2: Turboflo0202 ( $1,935 )
+Seat 4: nuser17 ( $5,345 )
+Seat 6: riffela ( $5,260 )
+Seat 7: PapaShango19 ( $1,640 )
+Seat 9: flipthatsht ( $2,445 )
+Turboflo0202 posts ante [$25]
+flipthatsht posts ante [$25]
+maikelnai77 posts ante [$25]
+nuser17 posts ante [$25]
+riffela posts ante [$25]
+PapaShango19 posts ante [$25]
+nuser17 posts small blind [$125]
+riffela posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Ac ]
+PapaShango19 raises [$1,615]
+flipthatsht folds
+maikelnai77 folds
+Turboflo0202 calls [$1,615]
+nuser17 folds
+riffela folds
+** Dealing flop ** [ 5s, 3c, 6c ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 6s ]
+** Summary **
+Turboflo0202 shows [ As, 4h ]
+PapaShango19 shows [ Jh, Ac ]
+PapaShango19 collected [ $3,755 ]
+
+
+
+#Game No : 642921383
+***** 888poker Hand History for Game 642921383 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:18:17
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $4,540 )
+Seat 2: Turboflo0202 ( $295 )
+Seat 4: nuser17 ( $5,195 )
+Seat 6: riffela ( $4,985 )
+Seat 7: PapaShango19 ( $3,755 )
+Seat 9: flipthatsht ( $2,420 )
+Turboflo0202 posts ante [$30]
+flipthatsht posts ante [$30]
+maikelnai77 posts ante [$30]
+nuser17 posts ante [$30]
+riffela posts ante [$30]
+PapaShango19 posts ante [$30]
+riffela posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Js ]
+flipthatsht folds
+maikelnai77 folds
+Turboflo0202 calls [$265]
+nuser17 folds
+riffela folds
+** Dealing flop ** [ 5s, 6c, Td ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Ah ]
+** Summary **
+Turboflo0202 shows [ 6d, Jh ]
+PapaShango19 shows [ Ac, Js ]
+PapaShango19 collected [ $860 ]
+PapaShango19 collected [ $35 ]
+
+
+
+#Game No : 642921455
+***** 888poker Hand History for Game 642921455 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:18:54
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $4,510 )
+Seat 2: Turboflo0202 ( $4,000 )
+Seat 4: nuser17 ( $5,165 )
+Seat 6: riffela ( $4,805 )
+Seat 7: PapaShango19 ( $4,320 )
+Seat 9: flipthatsht ( $2,390 )
+Turboflo0202 posts ante [$30]
+flipthatsht posts ante [$30]
+maikelnai77 posts ante [$30]
+nuser17 posts ante [$30]
+riffela posts ante [$30]
+PapaShango19 posts ante [$30]
+PapaShango19 posts small blind [$150]
+flipthatsht posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 5c ]
+maikelnai77 folds
+Turboflo0202 calls [$300]
+nuser17 calls [$300]
+riffela folds
+PapaShango19 calls [$150]
+flipthatsht checks
+** Dealing flop ** [ Qd, 6d, 7h ]
+PapaShango19 bets [$600]
+flipthatsht folds
+Turboflo0202 calls [$600]
+nuser17 calls [$600]
+** Dealing turn ** [ Ks ]
+PapaShango19 checks
+Turboflo0202 checks
+nuser17 bets [$300]
+PapaShango19 calls [$300]
+Turboflo0202 folds
+** Dealing river ** [ 9h ]
+PapaShango19 checks
+nuser17 bets [$300]
+PapaShango19 calls [$300]
+** Summary **
+nuser17 shows [ Ad, Qs ]
+PapaShango19 mucks [ Qc, 5c ]
+nuser17 collected [ $4,380 ]
+
+
+
+#Game No : 642921665
+***** 888poker Hand History for Game 642921665 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:20:33
+Tournament #63736241 $1.10 + $0.15 - Table #37 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: maikelnai77 ( $4,480 )
+Seat 2: Turboflo0202 ( $3,070 )
+Seat 4: nuser17 ( $8,015 )
+Seat 6: riffela ( $4,775 )
+Seat 7: PapaShango19 ( $2,790 )
+Seat 9: flipthatsht ( $2,060 )
+Turboflo0202 posts ante [$30]
+flipthatsht posts ante [$30]
+maikelnai77 posts ante [$30]
+nuser17 posts ante [$30]
+riffela posts ante [$30]
+PapaShango19 posts ante [$30]
+flipthatsht posts small blind [$150]
+maikelnai77 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ad ]
+Turboflo0202 calls [$300]
+nuser17 folds
+riffela folds
+PapaShango19 raises [$2,760]
+flipthatsht folds
+maikelnai77 folds
+Turboflo0202 calls [$2,460]
+** Dealing flop ** [ 5c, 8d, Ac ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ Qc ]
+** Summary **
+Turboflo0202 shows [ 8h, 3h ]
+PapaShango19 shows [ Kh, Ad ]
+Turboflo0202 collected [ $6,150 ]
+
+
+

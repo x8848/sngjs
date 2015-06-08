@@ -1,0 +1,555 @@
+#Game No : 699258427
+***** 888poker Hand History for Game 699258427 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:19:49
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,500 )
+Seat 2: Khostinec ( $1,500 )
+Seat 3: sens_ey ( $1,500 )
+Seat 4: ALLINA330 ( $1,500 )
+Seat 5: Murmanov14 ( $1,500 )
+Seat 6: conrad1986 ( $1,500 )
+Seat 7: Cornelus ( $1,500 )
+Seat 9: midnightrta ( $1,500 )
+Seat 10: PapaShango19 ( $1,500 )
+ALLINA330 posts small blind [$10]
+Murmanov14 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 7s ]
+conrad1986 calls [$20]
+Cornelus folds
+midnightrta calls [$20]
+PapaShango19 folds
+NORMIEX folds
+Khostinec folds
+sens_ey folds
+ALLINA330 folds
+Murmanov14 checks
+** Dealing flop ** [ 4h, 6s, Qh ]
+Murmanov14 checks
+conrad1986 checks
+midnightrta bets [$20]
+Murmanov14 folds
+conrad1986 calls [$20]
+** Dealing turn ** [ 2s ]
+conrad1986 checks
+midnightrta bets [$20]
+conrad1986 folds
+** Summary **
+midnightrta did not show his hand
+midnightrta collected [ $110 ]
+
+
+
+#Game No : 699258573
+***** 888poker Hand History for Game 699258573 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:20:46
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,500 )
+Seat 2: Khostinec ( $1,500 )
+Seat 3: sens_ey ( $1,500 )
+Seat 4: ALLINA330 ( $1,490 )
+Seat 5: Murmanov14 ( $1,480 )
+Seat 6: conrad1986 ( $1,460 )
+Seat 7: Cornelus ( $1,500 )
+Seat 9: midnightrta ( $1,570 )
+Seat 10: PapaShango19 ( $1,500 )
+Murmanov14 posts small blind [$10]
+conrad1986 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 9d ]
+Cornelus folds
+midnightrta calls [$20]
+PapaShango19 folds
+NORMIEX folds
+Khostinec folds
+sens_ey folds
+ALLINA330 raises [$40]
+Murmanov14 folds
+conrad1986 calls [$20]
+midnightrta calls [$20]
+** Dealing flop ** [ 2h, Ah, 2s ]
+conrad1986 checks
+midnightrta checks
+ALLINA330 bets [$20]
+conrad1986 folds
+midnightrta calls [$20]
+** Dealing turn ** [ 5d ]
+midnightrta checks
+ALLINA330 bets [$40]
+midnightrta calls [$40]
+** Dealing river ** [ 3h ]
+midnightrta checks
+ALLINA330 checks
+** Summary **
+midnightrta shows [ 8h, 8d ]
+ALLINA330 mucks [ Kc, Tc ]
+midnightrta collected [ $250 ]
+
+
+
+#Game No : 699258767
+***** 888poker Hand History for Game 699258767 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:21:50
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,500 )
+Seat 2: Khostinec ( $1,500 )
+Seat 3: sens_ey ( $1,500 )
+Seat 4: ALLINA330 ( $1,390 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,420 )
+Seat 7: Cornelus ( $1,500 )
+Seat 9: midnightrta ( $1,720 )
+Seat 10: PapaShango19 ( $1,500 )
+conrad1986 posts small blind [$10]
+Cornelus posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 3c ]
+midnightrta calls [$20]
+PapaShango19 folds
+NORMIEX calls [$20]
+Khostinec folds
+sens_ey calls [$20]
+ALLINA330 folds
+Murmanov14 folds
+conrad1986 calls [$10]
+Cornelus checks
+** Dealing flop ** [ Kh, 5c, Ad ]
+conrad1986 checks
+Cornelus bets [$20]
+midnightrta folds
+NORMIEX calls [$20]
+sens_ey folds
+conrad1986 folds
+** Dealing turn ** [ Td ]
+Cornelus bets [$20]
+NORMIEX folds
+** Summary **
+Cornelus did not show his hand
+Cornelus collected [ $140 ]
+
+
+
+#Game No : 699258948
+***** 888poker Hand History for Game 699258948 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:22:53
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,460 )
+Seat 2: Khostinec ( $1,500 )
+Seat 3: sens_ey ( $1,480 )
+Seat 4: ALLINA330 ( $1,390 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,400 )
+Seat 7: Cornelus ( $1,600 )
+Seat 9: midnightrta ( $1,700 )
+Seat 10: PapaShango19 ( $1,500 )
+Cornelus posts small blind [$10]
+midnightrta posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 6d ]
+PapaShango19 folds
+NORMIEX calls [$20]
+Khostinec folds
+sens_ey folds
+ALLINA330 folds
+Murmanov14 folds
+conrad1986 calls [$20]
+Cornelus folds
+midnightrta checks
+** Dealing flop ** [ 4s, 3h, 3c ]
+midnightrta checks
+NORMIEX bets [$80]
+conrad1986 folds
+midnightrta folds
+** Summary **
+NORMIEX did not show his hand
+NORMIEX collected [ $70 ]
+
+
+
+#Game No : 699259078
+***** 888poker Hand History for Game 699259078 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:23:31
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,510 )
+Seat 2: Khostinec ( $1,500 )
+Seat 3: sens_ey ( $1,480 )
+Seat 4: ALLINA330 ( $1,390 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,380 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,680 )
+Seat 10: PapaShango19 ( $1,500 )
+midnightrta posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 7h ]
+NORMIEX calls [$20]
+Khostinec folds
+sens_ey folds
+ALLINA330 folds
+Murmanov14 folds
+conrad1986 calls [$20]
+Cornelus folds
+midnightrta calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ 7s, Js, 8h ]
+midnightrta checks
+PapaShango19 checks
+NORMIEX checks
+conrad1986 checks
+** Dealing turn ** [ 5s ]
+midnightrta checks
+PapaShango19 checks
+NORMIEX bets [$60]
+conrad1986 calls [$60]
+midnightrta folds
+PapaShango19 folds
+** Dealing river ** [ 6d ]
+NORMIEX checks
+conrad1986 bets [$200]
+NORMIEX folds
+** Summary **
+conrad1986 did not show his hand
+conrad1986 collected [ $200 ]
+
+
+
+#Game No : 699259288
+***** 888poker Hand History for Game 699259288 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:24:41
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,430 )
+Seat 2: Khostinec ( $1,500 )
+Seat 3: sens_ey ( $1,480 )
+Seat 4: ALLINA330 ( $1,390 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,500 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,660 )
+Seat 10: PapaShango19 ( $1,480 )
+PapaShango19 posts small blind [$10]
+NORMIEX posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 9d ]
+Khostinec folds
+sens_ey folds
+ALLINA330 folds
+Murmanov14 folds
+conrad1986 calls [$20]
+Cornelus folds
+midnightrta folds
+PapaShango19 calls [$10]
+NORMIEX checks
+** Dealing flop ** [ Kc, Th, 9h ]
+PapaShango19 checks
+NORMIEX checks
+conrad1986 checks
+** Dealing turn ** [ 3s ]
+PapaShango19 checks
+NORMIEX checks
+conrad1986 checks
+** Dealing river ** [ 2h ]
+PapaShango19 checks
+NORMIEX bets [$80]
+conrad1986 folds
+PapaShango19 folds
+** Summary **
+NORMIEX did not show his hand
+NORMIEX collected [ $60 ]
+
+
+
+#Game No : 699259498
+***** 888poker Hand History for Game 699259498 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:25:53
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,470 )
+Seat 2: Khostinec ( $1,500 )
+Seat 3: sens_ey ( $1,480 )
+Seat 4: ALLINA330 ( $1,390 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,480 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,660 )
+Seat 10: PapaShango19 ( $1,460 )
+NORMIEX posts small blind [$10]
+Khostinec posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Jc ]
+sens_ey folds
+ALLINA330 folds
+Murmanov14 folds
+conrad1986 calls [$20]
+Cornelus folds
+midnightrta calls [$20]
+PapaShango19 calls [$20]
+NORMIEX folds
+Khostinec checks
+** Dealing flop ** [ Ks, Ad, 5s ]
+Khostinec checks
+conrad1986 checks
+midnightrta checks
+PapaShango19 checks
+** Dealing turn ** [ 9d ]
+Khostinec checks
+conrad1986 checks
+midnightrta checks
+PapaShango19 checks
+** Dealing river ** [ 9c ]
+Khostinec checks
+conrad1986 checks
+midnightrta checks
+PapaShango19 checks
+** Summary **
+Khostinec shows [ 4s, 2d ]
+conrad1986 shows [ 8c, Tc ]
+midnightrta shows [ Th, Jh ]
+PapaShango19 shows [ 8s, Jc ]
+PapaShango19 collected [ $45 ]
+midnightrta collected [ $45 ]
+
+
+
+#Game No : 699259717
+***** 888poker Hand History for Game 699259717 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:26:55
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,460 )
+Seat 2: Khostinec ( $1,480 )
+Seat 3: sens_ey ( $1,480 )
+Seat 4: ALLINA330 ( $1,390 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,460 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,685 )
+Seat 10: PapaShango19 ( $1,485 )
+Khostinec posts small blind [$10]
+sens_ey posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 4s ]
+ALLINA330 raises [$40]
+Murmanov14 folds
+conrad1986 calls [$40]
+Cornelus folds
+midnightrta calls [$40]
+PapaShango19 folds
+NORMIEX folds
+Khostinec folds
+sens_ey calls [$20]
+** Dealing flop ** [ 7s, Tc, 3d ]
+sens_ey checks
+ALLINA330 checks
+conrad1986 checks
+midnightrta bets [$20]
+sens_ey folds
+ALLINA330 calls [$20]
+conrad1986 folds
+** Dealing turn ** [ 7h ]
+ALLINA330 checks
+midnightrta bets [$20]
+ALLINA330 calls [$20]
+** Dealing river ** [ 2h ]
+ALLINA330 checks
+midnightrta bets [$20]
+ALLINA330 calls [$20]
+** Summary **
+midnightrta shows [ Kh, Ts ]
+ALLINA330 mucks [ Ad, Qc ]
+midnightrta collected [ $290 ]
+
+
+
+#Game No : 699260109
+***** 888poker Hand History for Game 699260109 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:29:18
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,460 )
+Seat 2: Khostinec ( $1,470 )
+Seat 3: sens_ey ( $1,440 )
+Seat 4: ALLINA330 ( $1,290 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,420 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,875 )
+Seat 10: PapaShango19 ( $1,485 )
+sens_ey posts small blind [$15]
+ALLINA330 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 7c ]
+Murmanov14 folds
+conrad1986 calls [$30]
+Cornelus folds
+midnightrta calls [$30]
+PapaShango19 folds
+NORMIEX calls [$30]
+Khostinec folds
+sens_ey folds
+ALLINA330 checks
+** Dealing flop ** [ 5h, 5d, Kd ]
+ALLINA330 checks
+conrad1986 checks
+midnightrta checks
+NORMIEX checks
+** Dealing turn ** [ Kh ]
+ALLINA330 checks
+conrad1986 checks
+midnightrta bets [$30]
+NORMIEX folds
+ALLINA330 folds
+conrad1986 folds
+** Summary **
+midnightrta did not show his hand
+midnightrta collected [ $135 ]
+
+
+
+#Game No : 699260466
+***** 888poker Hand History for Game 699260466 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:31:12
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,430 )
+Seat 2: Khostinec ( $1,470 )
+Seat 3: sens_ey ( $1,425 )
+Seat 4: ALLINA330 ( $1,260 )
+Seat 5: Murmanov14 ( $1,470 )
+Seat 6: conrad1986 ( $1,390 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,980 )
+Seat 10: PapaShango19 ( $1,485 )
+ALLINA330 posts small blind [$15]
+Murmanov14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Jd ]
+conrad1986 calls [$30]
+Cornelus folds
+midnightrta folds
+PapaShango19 folds
+NORMIEX folds
+Khostinec folds
+sens_ey folds
+ALLINA330 folds
+Murmanov14 checks
+** Dealing flop ** [ 8s, Kh, 3s ]
+Murmanov14 checks
+conrad1986 checks
+** Dealing turn ** [ 8d ]
+Murmanov14 checks
+conrad1986 checks
+** Dealing river ** [ 2s ]
+Murmanov14 checks
+conrad1986 checks
+** Summary **
+Murmanov14 shows [ 6c, 9c ]
+conrad1986 shows [ Ah, 4d ]
+conrad1986 collected [ $75 ]
+
+
+
+#Game No : 699260657
+***** 888poker Hand History for Game 699260657 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:32:05
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,430 )
+Seat 2: Khostinec ( $1,470 )
+Seat 3: sens_ey ( $1,425 )
+Seat 4: ALLINA330 ( $1,245 )
+Seat 5: Murmanov14 ( $1,440 )
+Seat 6: conrad1986 ( $1,435 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,980 )
+Seat 10: PapaShango19 ( $1,485 )
+Murmanov14 posts small blind [$15]
+conrad1986 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 3s ]
+Cornelus folds
+midnightrta calls [$30]
+PapaShango19 folds
+NORMIEX calls [$30]
+Khostinec folds
+sens_ey folds
+ALLINA330 folds
+Murmanov14 calls [$15]
+conrad1986 checks
+** Dealing flop ** [ Td, 9s, Jd ]
+Murmanov14 bets [$60]
+conrad1986 calls [$60]
+midnightrta folds
+NORMIEX folds
+** Dealing turn ** [ 9d ]
+Murmanov14 bets [$120]
+conrad1986 folds
+** Summary **
+Murmanov14 did not show his hand
+Murmanov14 collected [ $240 ]
+
+
+
+#Game No : 699260845
+***** 888poker Hand History for Game 699260845 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:33:06
+Tournament #64092932 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: NORMIEX ( $1,400 )
+Seat 2: Khostinec ( $1,470 )
+Seat 3: sens_ey ( $1,425 )
+Seat 4: ALLINA330 ( $1,245 )
+Seat 5: Murmanov14 ( $1,590 )
+Seat 6: conrad1986 ( $1,345 )
+Seat 7: Cornelus ( $1,590 )
+Seat 9: midnightrta ( $1,950 )
+Seat 10: PapaShango19 ( $1,485 )
+conrad1986 posts small blind [$15]
+Cornelus posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Ts ]
+midnightrta calls [$30]
+PapaShango19 raises [$90]
+NORMIEX calls [$90]
+Khostinec calls [$90]
+sens_ey folds
+ALLINA330 folds
+Murmanov14 folds
+conrad1986 calls [$75]
+Cornelus folds
+midnightrta calls [$60]
+** Dealing flop ** [ 7d, As, 3c ]
+conrad1986 checks
+midnightrta bets [$240]
+PapaShango19 raises [$1,395]
+NORMIEX folds
+Khostinec folds
+conrad1986 folds
+midnightrta calls [$1,155]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ Kh ]
+** Summary **
+midnightrta shows [ 5c, Ah ]
+PapaShango19 shows [ Ad, Ts ]
+midnightrta collected [ $3,270 ]
+
+
+

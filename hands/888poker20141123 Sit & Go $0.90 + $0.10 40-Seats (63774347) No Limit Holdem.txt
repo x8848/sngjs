@@ -1,0 +1,703 @@
+#Game No : 460318844
+***** 888poker Hand History for Game 460318844 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:54:16
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: killer013 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: super.ykpon ( $1,000 )
+Seat 5: Eurotrash01 ( $1,000 )
+Seat 6: svizist ( $1,000 )
+Seat 7: jolidog ( $1,000 )
+Seat 8: kassala35 ( $1,000 )
+Seat 10: DARKDRON ( $1,000 )
+svizist posts small blind [$10]
+jolidog posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Qs ]
+kassala35 calls [$20]
+DARKDRON folds
+killer013 folds
+PapaShango19 folds
+super.ykpon calls [$20]
+Eurotrash01 calls [$20]
+svizist folds
+jolidog checks
+** Dealing flop ** [ 4h, Ah, 8s ]
+jolidog checks
+kassala35 checks
+super.ykpon bets [$90]
+Eurotrash01 folds
+jolidog calls [$90]
+kassala35 calls [$90]
+** Dealing turn ** [ 6d ]
+jolidog checks
+kassala35 checks
+super.ykpon bets [$180]
+jolidog folds
+kassala35 calls [$180]
+** Dealing river ** [ Kc ]
+kassala35 checks
+super.ykpon checks
+** Summary **
+kassala35 shows [ 5d, 5c ]
+super.ykpon shows [ Ac, 2h ]
+super.ykpon collected [ $720 ]
+
+
+
+#Game No : 460319087
+***** 888poker Hand History for Game 460319087 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:56:01
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: killer013 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: super.ykpon ( $1,430 )
+Seat 5: Eurotrash01 ( $980 )
+Seat 6: svizist ( $990 )
+Seat 7: jolidog ( $890 )
+Seat 8: kassala35 ( $710 )
+Seat 10: DARKDRON ( $1,000 )
+jolidog posts small blind [$10]
+kassala35 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 9s ]
+DARKDRON calls [$20]
+killer013 folds
+PapaShango19 raises [$80]
+super.ykpon folds
+Eurotrash01 folds
+svizist folds
+jolidog calls [$70]
+kassala35 calls [$60]
+DARKDRON calls [$60]
+** Dealing flop ** [ 8c, As, Ad ]
+jolidog checks
+kassala35 checks
+DARKDRON checks
+PapaShango19 bets [$160]
+jolidog calls [$160]
+kassala35 calls [$160]
+DARKDRON folds
+** Dealing turn ** [ 8s ]
+jolidog checks
+kassala35 checks
+PapaShango19 checks
+** Dealing river ** [ 2c ]
+jolidog bets [$650]
+kassala35 folds
+PapaShango19 folds
+** Summary **
+jolidog did not show his hand
+jolidog collected [ $800 ]
+
+
+
+#Game No : 460319287
+***** 888poker Hand History for Game 460319287 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:57:38
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: killer013 ( $1,000 )
+Seat 2: PapaShango19 ( $760 )
+Seat 3: super.ykpon ( $1,430 )
+Seat 5: Eurotrash01 ( $980 )
+Seat 6: svizist ( $990 )
+Seat 7: jolidog ( $1,450 )
+Seat 8: kassala35 ( $470 )
+Seat 10: DARKDRON ( $920 )
+kassala35 posts small blind [$10]
+DARKDRON posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9s ]
+killer013 calls [$20]
+PapaShango19 folds
+super.ykpon calls [$20]
+Eurotrash01 folds
+svizist folds
+jolidog calls [$20]
+kassala35 calls [$10]
+DARKDRON checks
+** Dealing flop ** [ 7c, 4h, 5h ]
+kassala35 bets [$40]
+DARKDRON folds
+killer013 calls [$40]
+super.ykpon raises [$1,410]
+jolidog folds
+kassala35 calls [$410]
+killer013 folds
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ Jc ]
+** Summary **
+super.ykpon shows [ 4s, 4d ]
+kassala35 shows [ Kd, 7h ]
+super.ykpon collected [ $1,040 ]
+
+
+
+#Game No : 460319430
+***** 888poker Hand History for Game 460319430 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:58:55
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: killer013 ( $940 )
+Seat 2: PapaShango19 ( $760 )
+Seat 3: super.ykpon ( $2,000 )
+Seat 5: Eurotrash01 ( $980 )
+Seat 6: svizist ( $990 )
+Seat 7: jolidog ( $1,430 )
+Seat 10: DARKDRON ( $900 )
+DARKDRON posts small blind [$10]
+killer013 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Js ]
+PapaShango19 folds
+super.ykpon raises [$2,000]
+Eurotrash01 folds
+svizist folds
+jolidog folds
+DARKDRON folds
+killer013 folds
+** Summary **
+super.ykpon did not show his hand
+super.ykpon collected [ $50 ]
+
+
+
+#Game No : 460319490
+***** 888poker Hand History for Game 460319490 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:59:29
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: killer013 ( $920 )
+Seat 2: PapaShango19 ( $760 )
+Seat 3: super.ykpon ( $2,030 )
+Seat 5: Eurotrash01 ( $980 )
+Seat 6: svizist ( $990 )
+Seat 7: jolidog ( $1,430 )
+Seat 10: DARKDRON ( $890 )
+killer013 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 3d ]
+super.ykpon raises [$2,030]
+Eurotrash01 folds
+svizist folds
+jolidog folds
+DARKDRON folds
+killer013 folds
+PapaShango19 folds
+** Summary **
+super.ykpon did not show his hand
+super.ykpon collected [ $50 ]
+
+
+
+#Game No : 460319525
+***** 888poker Hand History for Game 460319525 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:59:50
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: killer013 ( $910 )
+Seat 2: PapaShango19 ( $740 )
+Seat 3: super.ykpon ( $2,060 )
+Seat 5: Eurotrash01 ( $980 )
+Seat 6: svizist ( $990 )
+Seat 7: jolidog ( $1,430 )
+Seat 10: DARKDRON ( $890 )
+PapaShango19 posts small blind [$10]
+super.ykpon posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 7s ]
+Eurotrash01 folds
+svizist calls [$20]
+jolidog folds
+DARKDRON folds
+killer013 calls [$20]
+PapaShango19 calls [$10]
+super.ykpon checks
+** Dealing flop ** [ Th, 9d, 9s ]
+PapaShango19 checks
+super.ykpon checks
+svizist checks
+killer013 checks
+** Dealing turn ** [ Jh ]
+PapaShango19 checks
+super.ykpon checks
+svizist bets [$100]
+killer013 calls [$100]
+PapaShango19 folds
+super.ykpon folds
+** Dealing river ** [ 4c ]
+svizist bets [$870]
+killer013 folds
+** Summary **
+svizist did not show his hand
+svizist collected [ $280 ]
+
+
+
+#Game No : 460319689
+***** 888poker Hand History for Game 460319689 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 11:01:00
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: killer013 ( $790 )
+Seat 2: PapaShango19 ( $720 )
+Seat 3: super.ykpon ( $2,040 )
+Seat 5: Eurotrash01 ( $980 )
+Seat 6: svizist ( $1,150 )
+Seat 7: jolidog ( $1,430 )
+Seat 10: DARKDRON ( $890 )
+super.ykpon posts small blind [$10]
+Eurotrash01 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 7s ]
+svizist folds
+jolidog folds
+DARKDRON calls [$20]
+killer013 folds
+PapaShango19 folds
+super.ykpon folds
+Eurotrash01 checks
+** Dealing flop ** [ Kd, 4h, 2d ]
+Eurotrash01 checks
+DARKDRON checks
+** Dealing turn ** [ 8h ]
+Eurotrash01 checks
+DARKDRON checks
+** Dealing river ** [ 5d ]
+Eurotrash01 checks
+DARKDRON checks
+** Summary **
+Eurotrash01 shows [ 3s, Tc ]
+DARKDRON shows [ 9c, As ]
+DARKDRON collected [ $50 ]
+
+
+
+#Game No : 460319826
+***** 888poker Hand History for Game 460319826 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:01:54
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: killer013 ( $790 )
+Seat 2: PapaShango19 ( $720 )
+Seat 3: super.ykpon ( $2,030 )
+Seat 5: Eurotrash01 ( $960 )
+Seat 6: svizist ( $1,150 )
+Seat 7: jolidog ( $1,430 )
+Seat 10: DARKDRON ( $920 )
+Eurotrash01 posts small blind [$15]
+svizist posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Jh ]
+jolidog calls [$30]
+DARKDRON folds
+killer013 calls [$30]
+PapaShango19 folds
+super.ykpon raises [$2,030]
+Eurotrash01 folds
+svizist calls [$1,120]
+jolidog folds
+killer013 folds
+** Dealing flop ** [ Kd, 6s, Th ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ 4h ]
+** Summary **
+super.ykpon shows [ Ah, Kc ]
+svizist shows [ Ad, As ]
+svizist collected [ $2,375 ]
+
+
+
+#Game No : 460319972
+***** 888poker Hand History for Game 460319972 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:02:56
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: killer013 ( $760 )
+Seat 2: PapaShango19 ( $720 )
+Seat 3: super.ykpon ( $880 )
+Seat 5: Eurotrash01 ( $945 )
+Seat 6: svizist ( $2,375 )
+Seat 7: jolidog ( $1,400 )
+Seat 8: Lovethenut ( $1,450 )
+Seat 10: DARKDRON ( $920 )
+svizist posts small blind [$15]
+jolidog posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 6h ]
+Lovethenut folds
+DARKDRON folds
+killer013 calls [$30]
+PapaShango19 folds
+super.ykpon folds
+Eurotrash01 folds
+svizist folds
+jolidog checks
+** Dealing flop ** [ Qd, Ad, 4c ]
+jolidog bets [$30]
+killer013 calls [$30]
+** Dealing turn ** [ 2h ]
+jolidog checks
+killer013 bets [$30]
+jolidog calls [$30]
+** Dealing river ** [ Qc ]
+jolidog bets [$30]
+killer013 raises [$213]
+jolidog calls [$183]
+** Summary **
+killer013 shows [ 2d, 2s ]
+jolidog mucks [ Qh, 3s ]
+killer013 collected [ $621 ]
+
+
+
+#Game No : 460320105
+***** 888poker Hand History for Game 460320105 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:03:53
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: killer013 ( $1,078 )
+Seat 2: PapaShango19 ( $720 )
+Seat 3: super.ykpon ( $880 )
+Seat 5: Eurotrash01 ( $945 )
+Seat 6: svizist ( $2,360 )
+Seat 7: jolidog ( $1,097 )
+Seat 8: Lovethenut ( $1,450 )
+Seat 10: DARKDRON ( $920 )
+jolidog posts small blind [$15]
+Lovethenut posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 4d ]
+DARKDRON folds
+killer013 folds
+PapaShango19 folds
+super.ykpon calls [$30]
+Eurotrash01 folds
+svizist calls [$30]
+jolidog calls [$15]
+Lovethenut checks
+** Dealing flop ** [ 7d, 6d, 7s ]
+jolidog checks
+Lovethenut checks
+super.ykpon checks
+svizist checks
+** Dealing turn ** [ 3s ]
+jolidog checks
+Lovethenut checks
+super.ykpon checks
+svizist bets [$60]
+jolidog folds
+Lovethenut folds
+super.ykpon folds
+** Summary **
+svizist did not show his hand
+svizist collected [ $120 ]
+
+
+
+#Game No : 460320278
+***** 888poker Hand History for Game 460320278 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:05:10
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: killer013 ( $1,078 )
+Seat 2: PapaShango19 ( $720 )
+Seat 3: super.ykpon ( $850 )
+Seat 5: Eurotrash01 ( $945 )
+Seat 6: svizist ( $2,450 )
+Seat 7: jolidog ( $1,067 )
+Seat 8: Lovethenut ( $1,420 )
+Seat 10: DARKDRON ( $920 )
+Lovethenut posts small blind [$15]
+DARKDRON posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2d ]
+killer013 folds
+PapaShango19 folds
+super.ykpon raises [$850]
+Eurotrash01 folds
+svizist folds
+jolidog folds
+Lovethenut folds
+DARKDRON calls [$820]
+** Dealing flop ** [ Ac, 9s, Jc ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 8h ]
+** Summary **
+super.ykpon shows [ As, Kh ]
+DARKDRON shows [ Tc, Ah ]
+DARKDRON collected [ $1,715 ]
+
+
+
+#Game No : 460320384
+***** 888poker Hand History for Game 460320384 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:05:49
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 1: killer013 ( $1,078 )
+Seat 2: PapaShango19 ( $720 )
+Seat 5: Eurotrash01 ( $945 )
+Seat 6: svizist ( $2,450 )
+Seat 7: jolidog ( $1,067 )
+Seat 8: Lovethenut ( $1,405 )
+Seat 10: DARKDRON ( $1,785 )
+DARKDRON posts small blind [$15]
+killer013 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Ts ]
+PapaShango19 folds
+Eurotrash01 folds
+svizist folds
+jolidog calls [$30]
+Lovethenut folds
+DARKDRON calls [$15]
+killer013 checks
+** Dealing flop ** [ 4c, 5s, 3c ]
+DARKDRON checks
+killer013 checks
+jolidog checks
+** Dealing turn ** [ Tc ]
+DARKDRON bets [$30]
+killer013 calls [$30]
+jolidog calls [$30]
+** Dealing river ** [ Ad ]
+DARKDRON checks
+killer013 checks
+jolidog checks
+** Summary **
+DARKDRON shows [ Th, 7h ]
+killer013 mucks [ 3s, 8h ]
+jolidog shows [ Ah, 6c ]
+jolidog collected [ $180 ]
+
+
+
+#Game No : 460320529
+***** 888poker Hand History for Game 460320529 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:06:42
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: killer013 ( $1,018 )
+Seat 2: PapaShango19 ( $720 )
+Seat 5: Eurotrash01 ( $945 )
+Seat 6: svizist ( $2,450 )
+Seat 7: jolidog ( $1,187 )
+Seat 8: Lovethenut ( $1,405 )
+Seat 10: DARKDRON ( $1,725 )
+killer013 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9d ]
+Eurotrash01 raises [$60]
+svizist folds
+jolidog folds
+Lovethenut raises [$120]
+DARKDRON folds
+killer013 folds
+PapaShango19 folds
+Eurotrash01 calls [$60]
+** Dealing flop ** [ Ks, 5h, 2d ]
+Eurotrash01 bets [$150]
+Lovethenut folds
+** Summary **
+Eurotrash01 did not show his hand
+Eurotrash01 collected [ $285 ]
+
+
+
+#Game No : 460320671
+***** 888poker Hand History for Game 460320671 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:07:41
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: killer013 ( $1,003 )
+Seat 2: PapaShango19 ( $690 )
+Seat 5: Eurotrash01 ( $1,110 )
+Seat 6: svizist ( $2,450 )
+Seat 7: jolidog ( $1,187 )
+Seat 8: Lovethenut ( $1,285 )
+Seat 10: DARKDRON ( $1,725 )
+PapaShango19 posts small blind [$15]
+Eurotrash01 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Ks ]
+svizist folds
+jolidog calls [$30]
+Lovethenut raises [$90]
+DARKDRON folds
+killer013 folds
+PapaShango19 folds
+Eurotrash01 calls [$60]
+jolidog folds
+** Dealing flop ** [ 8s, 7c, Ac ]
+Eurotrash01 checks
+Lovethenut bets [$168]
+Eurotrash01 folds
+** Summary **
+Lovethenut did not show his hand
+Lovethenut collected [ $225 ]
+
+
+
+#Game No : 460320788
+***** 888poker Hand History for Game 460320788 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:08:30
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: killer013 ( $1,003 )
+Seat 2: PapaShango19 ( $675 )
+Seat 5: Eurotrash01 ( $1,020 )
+Seat 6: svizist ( $2,450 )
+Seat 7: jolidog ( $1,157 )
+Seat 8: Lovethenut ( $1,420 )
+Seat 10: DARKDRON ( $1,725 )
+Eurotrash01 posts small blind [$25]
+svizist posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3d ]
+jolidog calls [$50]
+Lovethenut folds
+DARKDRON folds
+killer013 calls [$50]
+PapaShango19 folds
+Eurotrash01 calls [$25]
+svizist checks
+** Dealing flop ** [ 7h, 5c, Th ]
+Eurotrash01 checks
+svizist checks
+jolidog bets [$50]
+killer013 folds
+Eurotrash01 folds
+svizist folds
+** Summary **
+jolidog did not show his hand
+jolidog collected [ $200 ]
+
+
+
+#Game No : 460320970
+***** 888poker Hand History for Game 460320970 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:09:34
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: killer013 ( $953 )
+Seat 2: PapaShango19 ( $675 )
+Seat 5: Eurotrash01 ( $970 )
+Seat 6: svizist ( $2,400 )
+Seat 7: jolidog ( $1,307 )
+Seat 8: Lovethenut ( $1,420 )
+svizist posts small blind [$25]
+jolidog posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8h ]
+Lovethenut folds
+killer013 calls [$50]
+PapaShango19 folds
+Eurotrash01 folds
+svizist calls [$25]
+jolidog checks
+** Dealing flop ** [ 8d, Jc, Kd ]
+svizist bets [$100]
+jolidog folds
+killer013 folds
+** Summary **
+svizist did not show his hand
+svizist collected [ $150 ]
+
+
+
+#Game No : 460321037
+***** 888poker Hand History for Game 460321037 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:10:06
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: killer013 ( $903 )
+Seat 2: PapaShango19 ( $675 )
+Seat 5: Eurotrash01 ( $970 )
+Seat 6: svizist ( $2,500 )
+Seat 7: jolidog ( $1,257 )
+Seat 8: Lovethenut ( $1,420 )
+jolidog posts small blind [$25]
+Lovethenut posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Tc ]
+killer013 calls [$50]
+PapaShango19 folds
+Eurotrash01 calls [$50]
+svizist folds
+jolidog calls [$25]
+Lovethenut checks
+** Dealing flop ** [ Ac, Td, 5s ]
+jolidog folds
+Lovethenut checks
+killer013 bets [$200]
+Eurotrash01 calls [$200]
+Lovethenut folds
+** Dealing turn ** [ Kh ]
+killer013 bets [$653]
+Eurotrash01 calls [$653]
+** Dealing river ** [ 9d ]
+** Summary **
+killer013 shows [ Th, 5h ]
+Eurotrash01 shows [ 5d, Ad ]
+Eurotrash01 collected [ $1,906 ]
+
+
+
+#Game No : 460321594
+***** 888poker Hand History for Game 460321594 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:11:27
+Tournament #63774347 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $675 )
+Seat 3: Sweep3211111 ( $2,115 )
+Seat 5: Eurotrash01 ( $1,973 )
+Seat 6: svizist ( $2,500 )
+Seat 7: jolidog ( $1,207 )
+Seat 8: Lovethenut ( $1,370 )
+Seat 10: Go.win ( $1,535 )
+Lovethenut posts small blind [$25]
+Go.win posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Ac ]
+PapaShango19 raises [$100]
+Sweep3211111 folds
+Eurotrash01 folds
+svizist folds
+jolidog folds
+Lovethenut raises [$1,345]
+Go.win folds
+PapaShango19 calls [$575]
+** Dealing flop ** [ 2s, 8s, 6s ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Qs ]
+** Summary **
+PapaShango19 shows [ Td, Ac ]
+Lovethenut shows [ Qc, As ]
+Lovethenut collected [ $1,400 ]
+
+
+

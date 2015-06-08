@@ -1,0 +1,1646 @@
+#Game No : 650311911
+***** 888poker Hand History for Game 650311911 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 10:46:30
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,000 )
+Seat 2: deucesgirl ( $2,000 )
+Seat 4: trublu4444 ( $2,000 )
+Seat 6: verido ( $4,000 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: DO.IT1967 ( $2,000 )
+DO.IT1967 posts small blind [$10]
+Brian_S62 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3h ]
+deucesgirl calls [$20]
+trublu4444 folds
+verido calls [$20]
+PapaShango19 calls [$20]
+DO.IT1967 calls [$10]
+Brian_S62 checks
+** Dealing flop ** [ Tc, 3d, Jd ]
+DO.IT1967 checks
+Brian_S62 checks
+deucesgirl checks
+verido checks
+PapaShango19 checks
+** Dealing turn ** [ Jh ]
+DO.IT1967 bets [$20]
+Brian_S62 calls [$20]
+deucesgirl calls [$20]
+verido calls [$20]
+PapaShango19 folds
+** Dealing river ** [ Ah ]
+DO.IT1967 checks
+Brian_S62 bets [$180]
+deucesgirl folds
+verido folds
+DO.IT1967 folds
+** Summary **
+Brian_S62 did not show his hand
+Brian_S62 collected [ $180 ]
+
+
+
+#Game No : 650312042
+***** 888poker Hand History for Game 650312042 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 10:48:00
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,140 )
+Seat 2: deucesgirl ( $3,960 )
+Seat 4: trublu4444 ( $2,000 )
+Seat 6: verido ( $5,960 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: DO.IT1967 ( $1,960 )
+Brian_S62 posts small blind [$10]
+deucesgirl posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Tc ]
+trublu4444 calls [$20]
+verido folds
+PapaShango19 folds
+DO.IT1967 calls [$20]
+Brian_S62 calls [$10]
+deucesgirl checks
+** Dealing flop ** [ 3h, 7d, Qd ]
+Brian_S62 checks
+deucesgirl checks
+trublu4444 bets [$60]
+DO.IT1967 calls [$60]
+Brian_S62 folds
+deucesgirl folds
+** Dealing turn ** [ 2c ]
+trublu4444 bets [$100]
+DO.IT1967 calls [$100]
+** Dealing river ** [ 8s ]
+trublu4444 bets [$200]
+DO.IT1967 folds
+** Summary **
+trublu4444 did not show his hand
+trublu4444 collected [ $400 ]
+
+
+
+#Game No : 650312151
+***** 888poker Hand History for Game 650312151 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 10:49:15
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,120 )
+Seat 2: deucesgirl ( $3,940 )
+Seat 4: trublu4444 ( $2,220 )
+Seat 6: verido ( $7,960 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: DO.IT1967 ( $1,780 )
+deucesgirl posts small blind [$15]
+trublu4444 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, As ]
+verido calls [$30]
+PapaShango19 folds
+DO.IT1967 calls [$30]
+Brian_S62 folds
+deucesgirl folds
+trublu4444 checks
+** Dealing flop ** [ 7d, Ks, Qh ]
+trublu4444 checks
+verido checks
+DO.IT1967 checks
+** Dealing turn ** [ Js ]
+trublu4444 checks
+verido checks
+DO.IT1967 checks
+** Dealing river ** [ Th ]
+trublu4444 checks
+verido checks
+DO.IT1967 bets [$30]
+trublu4444 calls [$30]
+verido folds
+** Summary **
+DO.IT1967 shows [ Ad, 9c ]
+trublu4444 mucks [ 5d, 5s ]
+DO.IT1967 collected [ $165 ]
+
+
+
+#Game No : 650312265
+***** 888poker Hand History for Game 650312265 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 10:50:38
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,120 )
+Seat 2: deucesgirl ( $3,925 )
+Seat 4: trublu4444 ( $2,160 )
+Seat 6: verido ( $7,930 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: DO.IT1967 ( $1,885 )
+trublu4444 posts small blind [$15]
+verido posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4c ]
+PapaShango19 folds
+DO.IT1967 calls [$30]
+Brian_S62 folds
+deucesgirl folds
+trublu4444 calls [$15]
+verido checks
+** Dealing flop ** [ 2h, 4d, 6h ]
+trublu4444 bets [$30]
+verido folds
+DO.IT1967 folds
+** Summary **
+trublu4444 did not show his hand
+trublu4444 collected [ $90 ]
+
+
+
+#Game No : 650312316
+***** 888poker Hand History for Game 650312316 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 10:51:15
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,120 )
+Seat 2: deucesgirl ( $3,925 )
+Seat 4: trublu4444 ( $2,220 )
+Seat 6: verido ( $7,900 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: DO.IT1967 ( $1,855 )
+verido posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Js ]
+DO.IT1967 calls [$30]
+Brian_S62 calls [$30]
+deucesgirl folds
+trublu4444 calls [$30]
+verido calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ Td, Qh, 6d ]
+verido checks
+PapaShango19 checks
+DO.IT1967 checks
+Brian_S62 checks
+trublu4444 checks
+** Dealing turn ** [ 5d ]
+verido checks
+PapaShango19 checks
+DO.IT1967 bets [$1,825]
+Brian_S62 folds
+trublu4444 folds
+verido folds
+PapaShango19 folds
+** Summary **
+DO.IT1967 did not show his hand
+DO.IT1967 collected [ $150 ]
+
+
+
+#Game No : 650312448
+***** 888poker Hand History for Game 650312448 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 10:52:45
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,090 )
+Seat 2: deucesgirl ( $3,925 )
+Seat 4: trublu4444 ( $2,190 )
+Seat 6: verido ( $7,870 )
+Seat 7: PapaShango19 ( $1,950 )
+Seat 9: DO.IT1967 ( $1,975 )
+PapaShango19 posts small blind [$15]
+DO.IT1967 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2c ]
+Brian_S62 calls [$30]
+deucesgirl calls [$30]
+trublu4444 calls [$30]
+verido raises [$60]
+PapaShango19 folds
+DO.IT1967 calls [$30]
+Brian_S62 calls [$30]
+deucesgirl calls [$30]
+trublu4444 calls [$30]
+** Dealing flop ** [ 9c, Kh, 4c ]
+DO.IT1967 checks
+Brian_S62 checks
+deucesgirl checks
+trublu4444 checks
+verido bets [$315]
+DO.IT1967 folds
+Brian_S62 folds
+deucesgirl folds
+trublu4444 folds
+** Summary **
+verido did not show his hand
+verido collected [ $315 ]
+
+
+
+#Game No : 650312555
+***** 888poker Hand History for Game 650312555 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 10:53:56
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,030 )
+Seat 2: deucesgirl ( $3,865 )
+Seat 4: trublu4444 ( $2,130 )
+Seat 6: verido ( $8,125 )
+Seat 7: PapaShango19 ( $1,935 )
+Seat 9: DO.IT1967 ( $1,915 )
+DO.IT1967 posts small blind [$25]
+Brian_S62 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7c ]
+deucesgirl folds
+trublu4444 calls [$50]
+verido raises [$100]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$50]
+trublu4444 calls [$50]
+** Dealing flop ** [ 6s, 4h, 8d ]
+Brian_S62 checks
+trublu4444 bets [$50]
+verido calls [$50]
+Brian_S62 folds
+** Dealing turn ** [ Ah ]
+trublu4444 bets [$50]
+verido calls [$50]
+** Dealing river ** [ 2c ]
+trublu4444 bets [$262]
+verido calls [$262]
+** Summary **
+trublu4444 shows [ 7s, 9d ]
+verido shows [ Ac, Qc ]
+verido collected [ $1,049 ]
+
+
+
+#Game No : 650312792
+***** 888poker Hand History for Game 650312792 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 11:00:01
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,930 )
+Seat 2: deucesgirl ( $3,865 )
+Seat 4: trublu4444 ( $1,668 )
+Seat 6: verido ( $8,712 )
+Seat 7: PapaShango19 ( $1,935 )
+Seat 9: DO.IT1967 ( $1,890 )
+Brian_S62 posts small blind [$25]
+deucesgirl posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 8d ]
+trublu4444 raises [$100]
+verido calls [$100]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$75]
+deucesgirl folds
+** Dealing flop ** [ Td, 6h, 5d ]
+Brian_S62 checks
+trublu4444 bets [$100]
+verido calls [$100]
+Brian_S62 folds
+** Dealing turn ** [ 5s ]
+trublu4444 bets [$200]
+verido calls [$200]
+** Dealing river ** [ Qd ]
+trublu4444 bets [$1,268]
+verido folds
+** Summary **
+trublu4444 did not show his hand
+trublu4444 collected [ $950 ]
+
+
+
+#Game No : 650312883
+***** 888poker Hand History for Game 650312883 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 11:01:18
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,830 )
+Seat 2: deucesgirl ( $3,815 )
+Seat 4: trublu4444 ( $2,218 )
+Seat 6: verido ( $8,312 )
+Seat 7: PapaShango19 ( $1,935 )
+Seat 9: DO.IT1967 ( $1,890 )
+deucesgirl posts small blind [$25]
+trublu4444 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9c ]
+verido folds
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$50]
+deucesgirl calls [$25]
+trublu4444 checks
+** Dealing flop ** [ Ks, 8d, 2h ]
+deucesgirl checks
+trublu4444 checks
+Brian_S62 checks
+** Dealing turn ** [ Th ]
+deucesgirl checks
+trublu4444 checks
+Brian_S62 checks
+** Dealing river ** [ 9h ]
+deucesgirl checks
+trublu4444 checks
+Brian_S62 checks
+** Summary **
+deucesgirl shows [ 9s, Qc ]
+trublu4444 shows [ 7s, Td ]
+Brian_S62 mucks [ 7h, 8c ]
+trublu4444 collected [ $150 ]
+
+
+
+#Game No : 650312970
+***** 888poker Hand History for Game 650312970 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 11:02:23
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,780 )
+Seat 2: deucesgirl ( $3,765 )
+Seat 4: trublu4444 ( $2,318 )
+Seat 6: verido ( $8,312 )
+Seat 7: PapaShango19 ( $1,935 )
+Seat 9: DO.IT1967 ( $1,890 )
+trublu4444 posts small blind [$50]
+verido posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8s ]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 folds
+deucesgirl folds
+trublu4444 folds
+** Summary **
+verido did not show his hand
+verido collected [ $150 ]
+
+
+
+#Game No : 650313018
+***** 888poker Hand History for Game 650313018 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 11:02:48
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,780 )
+Seat 2: deucesgirl ( $3,765 )
+Seat 4: trublu4444 ( $2,268 )
+Seat 6: verido ( $8,362 )
+Seat 7: PapaShango19 ( $1,935 )
+Seat 9: DO.IT1967 ( $1,890 )
+verido posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 4s ]
+DO.IT1967 calls [$100]
+Brian_S62 calls [$100]
+deucesgirl folds
+trublu4444 raises [$200]
+verido folds
+PapaShango19 folds
+DO.IT1967 calls [$100]
+Brian_S62 calls [$100]
+** Dealing flop ** [ Qd, 5h, 2h ]
+DO.IT1967 bets [$1,690]
+Brian_S62 folds
+trublu4444 folds
+** Summary **
+DO.IT1967 did not show his hand
+DO.IT1967 collected [ $750 ]
+
+
+
+#Game No : 650313081
+***** 888poker Hand History for Game 650313081 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 11:03:27
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,580 )
+Seat 2: deucesgirl ( $3,765 )
+Seat 4: trublu4444 ( $2,068 )
+Seat 6: verido ( $8,312 )
+Seat 7: PapaShango19 ( $1,835 )
+Seat 9: DO.IT1967 ( $2,440 )
+PapaShango19 posts small blind [$50]
+DO.IT1967 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 6c ]
+Brian_S62 calls [$100]
+deucesgirl folds
+trublu4444 raises [$450]
+verido folds
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$350]
+** Dealing flop ** [ 7c, Qs, Qh ]
+Brian_S62 checks
+trublu4444 bets [$1,050]
+Brian_S62 folds
+** Summary **
+trublu4444 did not show his hand
+trublu4444 collected [ $1,050 ]
+
+
+
+#Game No : 650313153
+***** 888poker Hand History for Game 650313153 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 11:04:13
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,130 )
+Seat 2: deucesgirl ( $3,765 )
+Seat 4: trublu4444 ( $2,668 )
+Seat 6: verido ( $8,312 )
+Seat 7: PapaShango19 ( $1,785 )
+Seat 9: DO.IT1967 ( $2,340 )
+DO.IT1967 posts small blind [$50]
+Brian_S62 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 6d ]
+deucesgirl calls [$100]
+trublu4444 folds
+verido calls [$100]
+PapaShango19 calls [$100]
+DO.IT1967 calls [$50]
+Brian_S62 checks
+** Dealing flop ** [ 5s, 7h, Kh ]
+DO.IT1967 checks
+Brian_S62 checks
+deucesgirl checks
+verido checks
+PapaShango19 bets [$200]
+DO.IT1967 raises [$2,240]
+Brian_S62 folds
+deucesgirl folds
+verido folds
+PapaShango19 folds
+** Summary **
+DO.IT1967 did not show his hand
+DO.IT1967 collected [ $900 ]
+
+
+
+#Game No : 650313238
+***** 888poker Hand History for Game 650313238 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 11:05:13
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,030 )
+Seat 2: deucesgirl ( $3,665 )
+Seat 4: trublu4444 ( $2,668 )
+Seat 6: verido ( $8,212 )
+Seat 7: PapaShango19 ( $1,485 )
+Seat 9: DO.IT1967 ( $2,940 )
+Brian_S62 posts small blind [$50]
+deucesgirl posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Qh ]
+trublu4444 folds
+verido calls [$100]
+PapaShango19 raises [$200]
+DO.IT1967 folds
+Brian_S62 folds
+deucesgirl calls [$100]
+verido calls [$100]
+** Dealing flop ** [ 6s, 7h, 2s ]
+deucesgirl bets [$650]
+verido calls [$650]
+PapaShango19 folds
+** Dealing turn ** [ 9c ]
+deucesgirl bets [$100]
+verido calls [$100]
+** Dealing river ** [ As ]
+deucesgirl checks
+verido bets [$7,262]
+deucesgirl calls [$2,715]
+** Summary **
+deucesgirl shows [ 6c, 7d ]
+verido shows [ 7s, Ks ]
+verido collected [ $7,580 ]
+
+
+
+#Game No : 650313317
+***** 888poker Hand History for Game 650313317 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 11:06:09
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Brian_S62 ( $980 )
+Seat 4: trublu4444 ( $2,668 )
+Seat 6: verido ( $12,127 )
+Seat 7: PapaShango19 ( $1,285 )
+Seat 9: DO.IT1967 ( $2,940 )
+trublu4444 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 2c ]
+verido folds
+PapaShango19 folds
+DO.IT1967 calls [$100]
+Brian_S62 folds
+trublu4444 checks
+** Dealing flop ** [ Qh, Kc, 5h ]
+trublu4444 checks
+DO.IT1967 bets [$100]
+trublu4444 folds
+** Summary **
+DO.IT1967 did not show his hand
+DO.IT1967 collected [ $200 ]
+
+
+
+#Game No : 650313357
+***** 888poker Hand History for Game 650313357 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 11:06:36
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Brian_S62 ( $980 )
+Seat 4: trublu4444 ( $2,568 )
+Seat 6: verido ( $12,127 )
+Seat 7: PapaShango19 ( $1,285 )
+Seat 9: DO.IT1967 ( $3,040 )
+trublu4444 posts small blind [$75]
+verido posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 3h ]
+PapaShango19 folds
+DO.IT1967 calls [$150]
+Brian_S62 calls [$150]
+trublu4444 folds
+verido raises [$150]
+DO.IT1967 calls [$150]
+Brian_S62 calls [$150]
+** Dealing flop ** [ 5d, Td, 4c ]
+verido checks
+DO.IT1967 bets [$150]
+Brian_S62 calls [$150]
+verido calls [$150]
+** Dealing turn ** [ 2h ]
+verido checks
+DO.IT1967 bets [$150]
+Brian_S62 calls [$150]
+verido calls [$150]
+** Dealing river ** [ Ac ]
+verido checks
+DO.IT1967 bets [$150]
+Brian_S62 folds
+verido calls [$150]
+** Summary **
+DO.IT1967 shows [ 9c, Ah ]
+verido mucks [ 7s, Ad ]
+DO.IT1967 collected [ $2,175 ]
+
+
+
+#Game No : 650313457
+***** 888poker Hand History for Game 650313457 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 11:07:37
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $380 )
+Seat 2: jimmer0007 ( $2,000 )
+Seat 4: trublu4444 ( $2,493 )
+Seat 6: verido ( $11,377 )
+Seat 7: PapaShango19 ( $1,285 )
+Seat 9: DO.IT1967 ( $4,465 )
+verido posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 2s ]
+DO.IT1967 calls [$150]
+Brian_S62 folds
+jimmer0007 folds
+trublu4444 folds
+verido calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ Ah, Jh, 6c ]
+verido checks
+PapaShango19 checks
+DO.IT1967 checks
+** Dealing turn ** [ 6h ]
+verido bets [$150]
+PapaShango19 folds
+DO.IT1967 folds
+** Summary **
+verido did not show his hand
+verido collected [ $450 ]
+
+
+
+#Game No : 650313549
+***** 888poker Hand History for Game 650313549 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 11:08:35
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $380 )
+Seat 2: jimmer0007 ( $2,000 )
+Seat 4: trublu4444 ( $2,493 )
+Seat 6: verido ( $11,677 )
+Seat 7: PapaShango19 ( $1,135 )
+Seat 9: DO.IT1967 ( $4,315 )
+PapaShango19 posts small blind [$75]
+DO.IT1967 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9h ]
+Brian_S62 folds
+jimmer0007 folds
+trublu4444 raises [$300]
+verido folds
+PapaShango19 folds
+DO.IT1967 calls [$150]
+** Dealing flop ** [ Qc, Td, Qh ]
+DO.IT1967 checks
+trublu4444 bets [$337]
+DO.IT1967 folds
+** Summary **
+trublu4444 did not show his hand
+trublu4444 collected [ $675 ]
+
+
+
+#Game No : 650313617
+***** 888poker Hand History for Game 650313617 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 11:09:16
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $380 )
+Seat 2: jimmer0007 ( $2,000 )
+Seat 4: trublu4444 ( $2,868 )
+Seat 6: verido ( $11,677 )
+Seat 7: PapaShango19 ( $1,060 )
+Seat 9: DO.IT1967 ( $4,015 )
+DO.IT1967 posts small blind [$75]
+Brian_S62 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, As ]
+jimmer0007 folds
+trublu4444 folds
+verido calls [$150]
+PapaShango19 folds
+DO.IT1967 calls [$75]
+Brian_S62 raises [$230]
+verido calls [$230]
+DO.IT1967 folds
+** Dealing flop ** [ Qs, Kc, Ac ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 6c ]
+** Summary **
+Brian_S62 shows [ Ks, Tc ]
+verido shows [ Jh, 8c ]
+Brian_S62 collected [ $910 ]
+
+
+
+#Game No : 650313679
+***** 888poker Hand History for Game 650313679 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 11:09:54
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $910 )
+Seat 2: jimmer0007 ( $2,000 )
+Seat 4: trublu4444 ( $2,868 )
+Seat 6: verido ( $11,297 )
+Seat 7: PapaShango19 ( $1,060 )
+Seat 9: DO.IT1967 ( $3,865 )
+Brian_S62 posts small blind [$75]
+jimmer0007 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3s ]
+trublu4444 folds
+verido calls [$150]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$75]
+jimmer0007 checks
+** Dealing flop ** [ 5s, Ts, Ks ]
+Brian_S62 bets [$760]
+jimmer0007 folds
+verido folds
+** Summary **
+Brian_S62 did not show his hand
+Brian_S62 collected [ $450 ]
+
+
+
+#Game No : 650313743
+***** 888poker Hand History for Game 650313743 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 11:10:30
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $1,210 )
+Seat 2: jimmer0007 ( $1,850 )
+Seat 4: trublu4444 ( $2,868 )
+Seat 6: verido ( $11,147 )
+Seat 7: PapaShango19 ( $1,060 )
+Seat 9: DO.IT1967 ( $3,865 )
+trublu4444 posts ante [$20]
+verido posts ante [$20]
+PapaShango19 posts ante [$20]
+DO.IT1967 posts ante [$20]
+Brian_S62 posts ante [$20]
+jimmer0007 posts ante [$20]
+jimmer0007 posts small blind [$100]
+trublu4444 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 6s ]
+verido folds
+PapaShango19 folds
+DO.IT1967 calls [$200]
+Brian_S62 calls [$200]
+jimmer0007 folds
+trublu4444 checks
+** Dealing flop ** [ Qc, 4d, 9h ]
+trublu4444 checks
+DO.IT1967 bets [$200]
+Brian_S62 calls [$200]
+trublu4444 folds
+** Dealing turn ** [ Kh ]
+DO.IT1967 bets [$200]
+Brian_S62 raises [$790]
+DO.IT1967 folds
+** Summary **
+Brian_S62 did not show his hand
+Brian_S62 collected [ $1,620 ]
+
+
+
+#Game No : 650313852
+***** 888poker Hand History for Game 650313852 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 11:11:38
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,210 )
+Seat 2: jimmer0007 ( $1,730 )
+Seat 4: trublu4444 ( $2,648 )
+Seat 6: verido ( $11,127 )
+Seat 7: PapaShango19 ( $1,040 )
+Seat 9: DO.IT1967 ( $3,245 )
+trublu4444 posts ante [$20]
+verido posts ante [$20]
+PapaShango19 posts ante [$20]
+DO.IT1967 posts ante [$20]
+Brian_S62 posts ante [$20]
+jimmer0007 posts ante [$20]
+trublu4444 posts small blind [$100]
+verido posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 4d ]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$200]
+jimmer0007 folds
+trublu4444 calls [$100]
+verido raises [$200]
+Brian_S62 calls [$200]
+trublu4444 calls [$200]
+** Dealing flop ** [ 6s, Jd, 2h ]
+trublu4444 checks
+verido bets [$200]
+Brian_S62 raises [$1,790]
+trublu4444 folds
+verido calls [$1,590]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ Qc ]
+** Summary **
+Brian_S62 shows [ Ts, Js ]
+verido shows [ Ac, Ks ]
+Brian_S62 collected [ $4,900 ]
+
+
+
+#Game No : 650313972
+***** 888poker Hand History for Game 650313972 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 11:12:48
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,900 )
+Seat 2: jimmer0007 ( $1,710 )
+Seat 4: trublu4444 ( $2,228 )
+Seat 6: verido ( $8,917 )
+Seat 7: PapaShango19 ( $1,020 )
+Seat 9: DO.IT1967 ( $3,225 )
+trublu4444 posts ante [$20]
+verido posts ante [$20]
+PapaShango19 posts ante [$20]
+DO.IT1967 posts ante [$20]
+Brian_S62 posts ante [$20]
+jimmer0007 posts ante [$20]
+verido posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Js ]
+DO.IT1967 folds
+Brian_S62 folds
+jimmer0007 folds
+trublu4444 calls [$200]
+verido calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 6c, Ah, 5s ]
+verido checks
+PapaShango19 checks
+trublu4444 checks
+** Dealing turn ** [ 3c ]
+verido checks
+PapaShango19 checks
+trublu4444 checks
+** Dealing river ** [ Td ]
+verido checks
+PapaShango19 checks
+trublu4444 checks
+** Summary **
+verido shows [ Jd, 5d ]
+PapaShango19 mucks [ 3s, Js ]
+trublu4444 mucks [ 4d, Qd ]
+verido collected [ $720 ]
+
+
+
+#Game No : 650314068
+***** 888poker Hand History for Game 650314068 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 11:13:50
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,880 )
+Seat 2: jimmer0007 ( $1,690 )
+Seat 4: trublu4444 ( $2,008 )
+Seat 6: verido ( $9,417 )
+Seat 7: PapaShango19 ( $800 )
+Seat 9: DO.IT1967 ( $3,205 )
+trublu4444 posts ante [$20]
+verido posts ante [$20]
+PapaShango19 posts ante [$20]
+DO.IT1967 posts ante [$20]
+Brian_S62 posts ante [$20]
+jimmer0007 posts ante [$20]
+PapaShango19 posts small blind [$100]
+DO.IT1967 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 4d ]
+Brian_S62 calls [$200]
+jimmer0007 folds
+trublu4444 folds
+verido calls [$200]
+PapaShango19 folds
+DO.IT1967 checks
+** Dealing flop ** [ 5s, 7s, Qd ]
+DO.IT1967 bets [$200]
+Brian_S62 folds
+verido calls [$200]
+** Dealing turn ** [ 8c ]
+DO.IT1967 bets [$200]
+verido calls [$200]
+** Dealing river ** [ Kd ]
+DO.IT1967 bets [$2,585]
+verido folds
+** Summary **
+DO.IT1967 did not show his hand
+DO.IT1967 collected [ $1,620 ]
+
+
+
+#Game No : 650314165
+***** 888poker Hand History for Game 650314165 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 11:14:48
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,660 )
+Seat 2: jimmer0007 ( $1,670 )
+Seat 4: trublu4444 ( $1,988 )
+Seat 6: verido ( $8,797 )
+Seat 7: PapaShango19 ( $680 )
+Seat 9: DO.IT1967 ( $4,205 )
+trublu4444 posts ante [$25]
+verido posts ante [$25]
+PapaShango19 posts ante [$25]
+DO.IT1967 posts ante [$25]
+Brian_S62 posts ante [$25]
+jimmer0007 posts ante [$25]
+DO.IT1967 posts small blind [$125]
+Brian_S62 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 7c ]
+jimmer0007 folds
+trublu4444 calls [$250]
+verido calls [$250]
+PapaShango19 folds
+DO.IT1967 calls [$125]
+Brian_S62 checks
+** Dealing flop ** [ 5s, 7h, 8c ]
+DO.IT1967 checks
+Brian_S62 checks
+trublu4444 bets [$1,150]
+verido calls [$1,150]
+DO.IT1967 folds
+Brian_S62 folds
+** Dealing turn ** [ Jd ]
+trublu4444 bets [$563]
+verido calls [$563]
+** Dealing river ** [ 2s ]
+** Summary **
+trublu4444 shows [ 8h, Ad ]
+verido shows [ Qh, 6c ]
+trublu4444 collected [ $4,576 ]
+
+
+
+#Game No : 650314254
+***** 888poker Hand History for Game 650314254 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 11:15:48
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,385 )
+Seat 2: jimmer0007 ( $1,645 )
+Seat 4: trublu4444 ( $4,576 )
+Seat 6: verido ( $6,809 )
+Seat 7: PapaShango19 ( $2,655 )
+Seat 9: DO.IT1967 ( $3,930 )
+trublu4444 posts ante [$25]
+verido posts ante [$25]
+PapaShango19 posts ante [$25]
+DO.IT1967 posts ante [$25]
+Brian_S62 posts ante [$25]
+jimmer0007 posts ante [$25]
+Brian_S62 posts small blind [$125]
+jimmer0007 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6h ]
+trublu4444 raises [$500]
+verido folds
+PapaShango19 folds
+DO.IT1967 calls [$500]
+Brian_S62 folds
+jimmer0007 raises [$1,370]
+trublu4444 raises [$4,051]
+DO.IT1967 calls [$3,405]
+** Dealing flop ** [ 4c, 3d, 3s ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 9h ]
+** Summary **
+jimmer0007 shows [ Ks, Th ]
+trublu4444 shows [ As, Ah ]
+DO.IT1967 shows [ Kc, Jh ]
+trublu4444 collected [ $5,135 ]
+trublu4444 collected [ $4,570 ]
+
+
+
+#Game No : 650314347
+***** 888poker Hand History for Game 650314347 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 11:16:48
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Brian_S62 ( $4,235 )
+Seat 4: trublu4444 ( $10,351 )
+Seat 6: verido ( $6,784 )
+Seat 7: PapaShango19 ( $2,630 )
+Seat 9: DO.IT1967 ( $2,000 )
+trublu4444 posts ante [$25]
+verido posts ante [$25]
+PapaShango19 posts ante [$25]
+DO.IT1967 posts ante [$25]
+Brian_S62 posts ante [$25]
+trublu4444 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 9s ]
+verido raises [$500]
+PapaShango19 folds
+DO.IT1967 raises [$1,975]
+Brian_S62 folds
+trublu4444 folds
+verido calls [$1,475]
+** Dealing flop ** [ 4h, 2c, 7s ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 3h ]
+** Summary **
+verido shows [ Jd, Ad ]
+DO.IT1967 shows [ Ac, Js ]
+verido collected [ $2,163 ]
+DO.IT1967 collected [ $2,162 ]
+
+
+
+#Game No : 650314420
+***** 888poker Hand History for Game 650314420 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 11:17:29
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Brian_S62 ( $4,210 )
+Seat 4: trublu4444 ( $10,076 )
+Seat 6: verido ( $6,947 )
+Seat 7: PapaShango19 ( $2,605 )
+Seat 9: DO.IT1967 ( $2,162 )
+trublu4444 posts ante [$25]
+verido posts ante [$25]
+PapaShango19 posts ante [$25]
+DO.IT1967 posts ante [$25]
+Brian_S62 posts ante [$25]
+trublu4444 posts small blind [$125]
+verido posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kd ]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$250]
+trublu4444 calls [$125]
+verido checks
+** Dealing flop ** [ Qc, 4s, 8s ]
+trublu4444 checks
+verido checks
+Brian_S62 checks
+** Dealing turn ** [ 8h ]
+trublu4444 checks
+verido checks
+Brian_S62 checks
+** Dealing river ** [ 5h ]
+trublu4444 checks
+verido checks
+Brian_S62 checks
+** Summary **
+trublu4444 shows [ 6h, Ah ]
+verido shows [ Jc, 4h ]
+Brian_S62 shows [ 6s, 5s ]
+Brian_S62 collected [ $875 ]
+
+
+
+#Game No : 650314479
+***** 888poker Hand History for Game 650314479 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 11:18:18
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,810 )
+Seat 2: Paha89 ( $2,765 )
+Seat 4: trublu4444 ( $9,801 )
+Seat 6: verido ( $6,672 )
+Seat 7: PapaShango19 ( $2,580 )
+Seat 9: DO.IT1967 ( $2,137 )
+trublu4444 posts ante [$30]
+verido posts ante [$30]
+PapaShango19 posts ante [$30]
+DO.IT1967 posts ante [$30]
+Brian_S62 posts ante [$30]
+Paha89 posts ante [$30]
+verido posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6d ]
+DO.IT1967 calls [$300]
+Brian_S62 folds
+Paha89 folds
+trublu4444 calls [$300]
+verido raises [$450]
+PapaShango19 folds
+DO.IT1967 calls [$300]
+trublu4444 calls [$300]
+** Dealing flop ** [ Qd, Td, Jh ]
+verido bets [$300]
+DO.IT1967 folds
+trublu4444 calls [$300]
+** Dealing turn ** [ Jd ]
+verido bets [$1,440]
+trublu4444 calls [$1,440]
+** Dealing river ** [ Tc ]
+verido bets [$4,302]
+trublu4444 folds
+** Summary **
+verido did not show his hand
+verido collected [ $5,760 ]
+
+
+
+#Game No : 650314567
+***** 888poker Hand History for Game 650314567 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 11:19:22
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,780 )
+Seat 2: Paha89 ( $2,735 )
+Seat 4: trublu4444 ( $7,431 )
+Seat 6: verido ( $10,062 )
+Seat 7: PapaShango19 ( $2,250 )
+Seat 9: DO.IT1967 ( $1,507 )
+trublu4444 posts ante [$30]
+verido posts ante [$30]
+PapaShango19 posts ante [$30]
+DO.IT1967 posts ante [$30]
+Brian_S62 posts ante [$30]
+Paha89 posts ante [$30]
+PapaShango19 posts small blind [$150]
+DO.IT1967 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Th ]
+Brian_S62 calls [$300]
+Paha89 raises [$2,705]
+trublu4444 folds
+verido folds
+PapaShango19 folds
+DO.IT1967 calls [$1,177]
+Brian_S62 folds
+** Dealing flop ** [ 2h, Tc, Ah ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 2d ]
+** Summary **
+Paha89 shows [ Qs, Qh ]
+DO.IT1967 shows [ 7d, 7c ]
+Paha89 collected [ $3,584 ]
+
+
+
+#Game No : 650314625
+***** 888poker Hand History for Game 650314625 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 11:20:01
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,450 )
+Seat 2: Paha89 ( $4,812 )
+Seat 4: trublu4444 ( $7,401 )
+Seat 6: verido ( $10,032 )
+Seat 7: PapaShango19 ( $2,070 )
+Seat 9: DO.IT1967 ( $2,000 )
+trublu4444 posts ante [$30]
+verido posts ante [$30]
+PapaShango19 posts ante [$30]
+DO.IT1967 posts ante [$30]
+Brian_S62 posts ante [$30]
+Paha89 posts ante [$30]
+DO.IT1967 posts small blind [$150]
+Brian_S62 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Kh ]
+Paha89 folds
+trublu4444 calls [$300]
+verido folds
+PapaShango19 raises [$2,040]
+DO.IT1967 folds
+Brian_S62 folds
+trublu4444 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,230 ]
+
+
+
+#Game No : 650314667
+***** 888poker Hand History for Game 650314667 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 11:20:33
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $4,120 )
+Seat 2: Paha89 ( $4,782 )
+Seat 4: trublu4444 ( $7,071 )
+Seat 6: verido ( $10,002 )
+Seat 7: PapaShango19 ( $2,970 )
+Seat 9: DO.IT1967 ( $1,820 )
+trublu4444 posts ante [$30]
+verido posts ante [$30]
+PapaShango19 posts ante [$30]
+DO.IT1967 posts ante [$30]
+Brian_S62 posts ante [$30]
+Paha89 posts ante [$30]
+Brian_S62 posts small blind [$150]
+Paha89 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 5c ]
+trublu4444 folds
+verido calls [$300]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$150]
+Paha89 checks
+** Dealing flop ** [ Kd, 5h, Ah ]
+Brian_S62 checks
+Paha89 checks
+verido checks
+** Dealing turn ** [ 7s ]
+Brian_S62 checks
+Paha89 bets [$300]
+verido folds
+Brian_S62 folds
+** Summary **
+Paha89 did not show his hand
+Paha89 collected [ $1,080 ]
+
+
+
+#Game No : 650314735
+***** 888poker Hand History for Game 650314735 *****
+$150/$300 Blinds No Limit Holdem - *** 17 12 2014 11:21:19
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $3,790 )
+Seat 2: Paha89 ( $5,532 )
+Seat 4: trublu4444 ( $7,041 )
+Seat 6: verido ( $9,672 )
+Seat 7: PapaShango19 ( $2,940 )
+Seat 9: DO.IT1967 ( $1,790 )
+trublu4444 posts ante [$30]
+verido posts ante [$30]
+PapaShango19 posts ante [$30]
+DO.IT1967 posts ante [$30]
+Brian_S62 posts ante [$30]
+Paha89 posts ante [$30]
+Paha89 posts small blind [$150]
+trublu4444 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 2d ]
+verido calls [$300]
+PapaShango19 folds
+DO.IT1967 calls [$300]
+Brian_S62 folds
+Paha89 calls [$150]
+trublu4444 checks
+** Dealing flop ** [ 3h, Qs, 8s ]
+Paha89 checks
+trublu4444 checks
+verido checks
+DO.IT1967 checks
+** Dealing turn ** [ 5h ]
+Paha89 checks
+trublu4444 bets [$300]
+verido calls [$300]
+DO.IT1967 folds
+Paha89 calls [$300]
+** Dealing river ** [ 8d ]
+Paha89 checks
+trublu4444 bets [$300]
+verido calls [$300]
+Paha89 calls [$300]
+** Summary **
+trublu4444 shows [ Ad, 8h ]
+verido mucks [ Ks, 5d ]
+Paha89 mucks [ 5s, Kc ]
+trublu4444 collected [ $3,180 ]
+
+
+
+#Game No : 650314854
+***** 888poker Hand History for Game 650314854 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 11:22:44
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $3,760 )
+Seat 2: Paha89 ( $4,602 )
+Seat 4: trublu4444 ( $9,291 )
+Seat 6: verido ( $8,742 )
+Seat 7: PapaShango19 ( $2,910 )
+Seat 9: DO.IT1967 ( $1,460 )
+trublu4444 posts ante [$40]
+verido posts ante [$40]
+PapaShango19 posts ante [$40]
+DO.IT1967 posts ante [$40]
+Brian_S62 posts ante [$40]
+Paha89 posts ante [$40]
+trublu4444 posts small blind [$200]
+verido posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 6c ]
+PapaShango19 folds
+DO.IT1967 calls [$400]
+Brian_S62 calls [$400]
+Paha89 folds
+trublu4444 calls [$200]
+verido checks
+** Dealing flop ** [ 6h, Th, 6d ]
+trublu4444 checks
+verido bets [$400]
+DO.IT1967 calls [$400]
+Brian_S62 folds
+trublu4444 folds
+** Dealing turn ** [ Ah ]
+verido checks
+DO.IT1967 bets [$620]
+verido calls [$620]
+** Dealing river ** [ 7d ]
+** Summary **
+verido shows [ Tc, 9d ]
+DO.IT1967 shows [ 6s, Qs ]
+DO.IT1967 collected [ $3,880 ]
+
+
+
+#Game No : 650314938
+***** 888poker Hand History for Game 650314938 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 11:23:44
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $3,320 )
+Seat 2: Paha89 ( $4,562 )
+Seat 4: trublu4444 ( $8,851 )
+Seat 6: verido ( $7,282 )
+Seat 7: PapaShango19 ( $2,870 )
+Seat 9: DO.IT1967 ( $3,880 )
+trublu4444 posts ante [$40]
+verido posts ante [$40]
+PapaShango19 posts ante [$40]
+DO.IT1967 posts ante [$40]
+Brian_S62 posts ante [$40]
+Paha89 posts ante [$40]
+verido posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 6s ]
+DO.IT1967 folds
+Brian_S62 calls [$400]
+Paha89 folds
+trublu4444 folds
+verido calls [$200]
+PapaShango19 checks
+** Dealing flop ** [ 7d, 8s, Ts ]
+verido checks
+PapaShango19 bets [$2,430]
+Brian_S62 folds
+verido folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,440 ]
+
+
+
+#Game No : 650314990
+***** 888poker Hand History for Game 650314990 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 11:24:20
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $2,880 )
+Seat 2: Paha89 ( $4,522 )
+Seat 4: trublu4444 ( $8,811 )
+Seat 6: verido ( $6,842 )
+Seat 7: PapaShango19 ( $3,870 )
+Seat 9: DO.IT1967 ( $3,840 )
+trublu4444 posts ante [$40]
+verido posts ante [$40]
+PapaShango19 posts ante [$40]
+DO.IT1967 posts ante [$40]
+Brian_S62 posts ante [$40]
+Paha89 posts ante [$40]
+PapaShango19 posts small blind [$200]
+DO.IT1967 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3c ]
+Brian_S62 raises [$2,840]
+Paha89 raises [$4,482]
+trublu4444 folds
+verido calls [$4,482]
+PapaShango19 folds
+DO.IT1967 folds
+** Dealing flop ** [ Tc, 4s, 2h ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 8d ]
+** Summary **
+Brian_S62 shows [ 9s, 9d ]
+Paha89 shows [ Ad, Qc ]
+verido shows [ Ah, Jc ]
+Brian_S62 collected [ $9,360 ]
+Paha89 collected [ $3,284 ]
+
+
+
+#Game No : 650315047
+***** 888poker Hand History for Game 650315047 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 11:24:55
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $9,360 )
+Seat 2: Paha89 ( $3,284 )
+Seat 4: trublu4444 ( $8,771 )
+Seat 6: verido ( $2,320 )
+Seat 7: PapaShango19 ( $3,630 )
+Seat 9: DO.IT1967 ( $3,400 )
+trublu4444 posts ante [$40]
+verido posts ante [$40]
+PapaShango19 posts ante [$40]
+DO.IT1967 posts ante [$40]
+Brian_S62 posts ante [$40]
+Paha89 posts ante [$40]
+DO.IT1967 posts small blind [$200]
+Brian_S62 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 3c ]
+Paha89 folds
+trublu4444 folds
+verido calls [$400]
+PapaShango19 folds
+DO.IT1967 calls [$200]
+Brian_S62 checks
+** Dealing flop ** [ 2c, 5c, Td ]
+DO.IT1967 checks
+Brian_S62 checks
+verido bets [$400]
+DO.IT1967 folds
+Brian_S62 folds
+** Summary **
+verido did not show his hand
+verido collected [ $1,440 ]
+
+
+
+#Game No : 650315107
+***** 888poker Hand History for Game 650315107 *****
+$200/$400 Blinds No Limit Holdem - *** 17 12 2014 11:25:39
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $8,920 )
+Seat 2: Paha89 ( $3,244 )
+Seat 4: trublu4444 ( $8,731 )
+Seat 6: verido ( $5,320 )
+Seat 7: PapaShango19 ( $3,590 )
+Seat 9: DO.IT1967 ( $2,960 )
+trublu4444 posts ante [$40]
+verido posts ante [$40]
+PapaShango19 posts ante [$40]
+DO.IT1967 posts ante [$40]
+Brian_S62 posts ante [$40]
+Paha89 posts ante [$40]
+Brian_S62 posts small blind [$200]
+Paha89 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 8c ]
+trublu4444 folds
+verido calls [$400]
+PapaShango19 folds
+DO.IT1967 folds
+Brian_S62 calls [$200]
+Paha89 checks
+** Dealing flop ** [ Tc, 5s, Kh ]
+Brian_S62 checks
+Paha89 checks
+verido checks
+** Dealing turn ** [ 6c ]
+Brian_S62 checks
+Paha89 bets [$400]
+verido calls [$400]
+Brian_S62 folds
+** Dealing river ** [ Jh ]
+Paha89 checks
+verido bets [$1,120]
+Paha89 folds
+** Summary **
+verido did not show his hand
+verido collected [ $2,240 ]
+
+
+
+#Game No : 650315173
+***** 888poker Hand History for Game 650315173 *****
+$300/$600 Blinds No Limit Holdem - *** 17 12 2014 11:26:29
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $8,480 )
+Seat 2: Paha89 ( $2,404 )
+Seat 4: trublu4444 ( $8,691 )
+Seat 6: verido ( $6,720 )
+Seat 7: PapaShango19 ( $3,550 )
+Seat 9: DO.IT1967 ( $2,920 )
+trublu4444 posts ante [$60]
+verido posts ante [$60]
+PapaShango19 posts ante [$60]
+DO.IT1967 posts ante [$60]
+Brian_S62 posts ante [$60]
+Paha89 posts ante [$60]
+Paha89 posts small blind [$300]
+trublu4444 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2h ]
+verido folds
+PapaShango19 folds
+DO.IT1967 raises [$2,860]
+Brian_S62 folds
+Paha89 folds
+trublu4444 calls [$2,260]
+** Dealing flop ** [ 6h, Ah, 8d ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 7d ]
+** Summary **
+trublu4444 shows [ Ks, Ad ]
+DO.IT1967 shows [ 9h, 9s ]
+trublu4444 collected [ $6,380 ]
+
+
+
+#Game No : 650315269
+***** 888poker Hand History for Game 650315269 *****
+$300/$600 Blinds No Limit Holdem - *** 17 12 2014 11:27:32
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Brian_S62 ( $8,420 )
+Seat 2: Paha89 ( $2,044 )
+Seat 4: trublu4444 ( $12,151 )
+Seat 6: verido ( $6,660 )
+Seat 7: PapaShango19 ( $3,490 )
+trublu4444 posts ante [$60]
+verido posts ante [$60]
+PapaShango19 posts ante [$60]
+Brian_S62 posts ante [$60]
+Paha89 posts ante [$60]
+trublu4444 posts small blind [$300]
+verido posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Jc ]
+PapaShango19 folds
+Brian_S62 calls [$600]
+Paha89 raises [$1,984]
+trublu4444 folds
+verido calls [$1,384]
+Brian_S62 calls [$1,384]
+** Dealing flop ** [ 4c, Qd, Ts ]
+verido checks
+Brian_S62 checks
+** Dealing turn ** [ Kd ]
+verido checks
+Brian_S62 checks
+** Dealing river ** [ 7d ]
+verido bets [$4,616]
+Brian_S62 folds
+** Summary **
+Paha89 shows [ Kh, Qh ]
+verido shows [ 7s, Qc ]
+Paha89 collected [ $6,552 ]
+
+
+
+#Game No : 650315340
+***** 888poker Hand History for Game 650315340 *****
+$300/$600 Blinds No Limit Holdem - *** 17 12 2014 11:28:19
+Tournament #64449533 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Brian_S62 ( $6,376 )
+Seat 2: Paha89 ( $6,552 )
+Seat 4: trublu4444 ( $11,791 )
+Seat 6: verido ( $6,616 )
+Seat 7: PapaShango19 ( $3,430 )
+Seat 9: steinmuppet ( $6,000 )
+trublu4444 posts ante [$60]
+verido posts ante [$60]
+PapaShango19 posts ante [$60]
+Brian_S62 posts ante [$60]
+Paha89 posts ante [$60]
+steinmuppet posts ante [$60]
+verido posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 8c ]
+steinmuppet calls [$600]
+Brian_S62 calls [$600]
+Paha89 folds
+trublu4444 folds
+verido raises [$6,256]
+PapaShango19 calls [$2,770]
+steinmuppet calls [$5,340]
+Brian_S62 folds
+** Dealing flop ** [ 7c, 5h, 3d ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 2c ]
+** Summary **
+verido shows [ Kc, Kd ]
+PapaShango19 shows [ 8d, 8c ]
+steinmuppet shows [ Ac, Ts ]
+verido collected [ $11,070 ]
+verido collected [ $5,140 ]
+
+
+

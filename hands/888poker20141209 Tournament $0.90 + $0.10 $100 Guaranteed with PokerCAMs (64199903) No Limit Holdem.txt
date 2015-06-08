@@ -1,0 +1,144 @@
+#Game No : 700937213
+***** 888poker Hand History for Game 700937213 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 15:31:34
+Tournament #64199903 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2:  ( $2,500 )
+Seat 4:  ( $2,500 )
+Seat 6:  ( $2,490 )
+Seat 7:  ( $2,500 )
+ posts small blind [$10]
+ posts big blind [$20]
+** Dealing down cards **
+Dealt to  [ 8s, 3d ]
+ folds
+ calls [$20]
+ raises [$110]
+ folds
+ calls [$100]
+** Dealing flop ** [ 9s, Jd, Jh ]
+ checks
+ checks
+** Dealing turn ** [ 8h ]
+ checks
+ checks
+** Dealing river ** [ 3c ]
+ bets [$260]
+ calls [$260]
+** Summary **
+ shows [ 9h, 9d ]
+ mucks [ 3s, 2s ]
+ collected [ $780 ]
+
+
+
+#Game No : 700937414
+***** 888poker Hand History for Game 700937414 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 15:32:33
+Tournament #64199903 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: sammm3333 ( $2,500 )
+Seat 2: nikkave ( $2,900 )
+Seat 4: PapaShango19 ( $2,480 )
+Seat 6: ultras3ano ( $2,490 )
+Seat 7: arukar2x ( $2,120 )
+Seat 9: VladimirA. ( $2,500 )
+PapaShango19 posts small blind [$10]
+ultras3ano posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Qd ]
+arukar2x folds
+VladimirA. calls [$20]
+sammm3333 folds
+nikkave folds
+PapaShango19 folds
+ultras3ano checks
+** Dealing flop ** [ 5s, 3d, Tc ]
+ultras3ano checks
+VladimirA. checks
+** Dealing turn ** [ 2c ]
+ultras3ano checks
+VladimirA. checks
+** Dealing river ** [ 3c ]
+ultras3ano bets [$20]
+VladimirA. calls [$20]
+** Summary **
+ultras3ano shows [ 9h, 6s ]
+VladimirA. shows [ 6c, Jd ]
+VladimirA. collected [ $90 ]
+
+
+
+#Game No : 700937579
+***** 888poker Hand History for Game 700937579 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 15:33:34
+Tournament #64199903 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: sammm3333 ( $2,500 )
+Seat 2: nikkave ( $2,900 )
+Seat 4: PapaShango19 ( $2,470 )
+Seat 6: ultras3ano ( $2,450 )
+Seat 7: arukar2x ( $2,120 )
+Seat 9: VladimirA. ( $2,550 )
+ultras3ano posts small blind [$10]
+arukar2x posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 3c ]
+VladimirA. calls [$20]
+sammm3333 raises [$150]
+nikkave folds
+PapaShango19 folds
+ultras3ano folds
+arukar2x calls [$130]
+VladimirA. calls [$130]
+** Dealing flop ** [ 4c, Ac, 8c ]
+arukar2x bets [$230]
+VladimirA. folds
+sammm3333 raises [$2,350]
+arukar2x calls [$1,740]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Td ]
+** Summary **
+sammm3333 shows [ Ad, Qc ]
+arukar2x shows [ Ks, Ah ]
+arukar2x collected [ $4,400 ]
+
+
+
+#Game No : 700937813
+***** 888poker Hand History for Game 700937813 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 15:34:53
+Tournament #64199903 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: sammm3333 ( $380 )
+Seat 2: nikkave ( $2,900 )
+Seat 4: PapaShango19 ( $2,470 )
+Seat 6: ultras3ano ( $2,440 )
+Seat 7: arukar2x ( $4,400 )
+Seat 9: VladimirA. ( $2,400 )
+arukar2x posts small blind [$10]
+VladimirA. posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Ad ]
+sammm3333 raises [$380]
+nikkave folds
+PapaShango19 raises [$2,470]
+ultras3ano folds
+arukar2x calls [$2,460]
+VladimirA. folds
+** Dealing flop ** [ 8s, Kd, 5h ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 2h ]
+** Summary **
+sammm3333 shows [ Ts, 9s ]
+PapaShango19 shows [ Kc, Ad ]
+arukar2x shows [ Kh, Ah ]
+arukar2x collected [ $1,160 ]
+arukar2x collected [ $4,180 ]
+
+
+

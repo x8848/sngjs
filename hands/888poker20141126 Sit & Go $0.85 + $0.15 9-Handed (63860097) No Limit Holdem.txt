@@ -1,0 +1,2810 @@
+#Game No : 640263111
+***** 888poker Hand History for Game 640263111 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:27:36
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: einrieder ( $1,500 )
+Seat 2: zey58 ( $1,500 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: krrraken ( $1,500 )
+Seat 6: Perumych ( $1,500 )
+Seat 7: tomos6785 ( $1,500 )
+Seat 9: adelynochka ( $1,500 )
+Seat 10: kozaktm64 ( $1,500 )
+PapaShango19 posts small blind [$10]
+krrraken posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 3h ]
+Perumych folds
+tomos6785 folds
+adelynochka folds
+kozaktm64 calls [$20]
+einrieder calls [$20]
+zey58 calls [$20]
+vYlen folds
+PapaShango19 calls [$10]
+krrraken checks
+** Dealing flop ** [ 4c, Ah, 4d ]
+PapaShango19 checks
+krrraken checks
+kozaktm64 bets [$100]
+einrieder calls [$100]
+zey58 folds
+PapaShango19 folds
+krrraken folds
+** Dealing turn ** [ 5d ]
+kozaktm64 bets [$1,380]
+einrieder folds
+** Summary **
+kozaktm64 did not show his hand
+kozaktm64 collected [ $300 ]
+
+
+
+#Game No : 640263276
+***** 888poker Hand History for Game 640263276 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:29:41
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: einrieder ( $1,380 )
+Seat 2: zey58 ( $1,480 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,480 )
+Seat 5: krrraken ( $1,480 )
+Seat 6: Perumych ( $1,500 )
+Seat 7: tomos6785 ( $1,500 )
+Seat 9: adelynochka ( $1,500 )
+Seat 10: kozaktm64 ( $1,680 )
+krrraken posts small blind [$10]
+Perumych posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 2d ]
+tomos6785 folds
+adelynochka folds
+kozaktm64 folds
+einrieder raises [$70]
+zey58 folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$50]
+** Dealing flop ** [ 6c, Qh, 4s ]
+Perumych bets [$75]
+einrieder calls [$75]
+** Dealing turn ** [ 4h ]
+Perumych bets [$150]
+einrieder calls [$150]
+** Dealing river ** [ 8c ]
+Perumych checks
+einrieder checks
+** Summary **
+Perumych shows [ 8s, 7h ]
+einrieder mucks [ Ah, Kd ]
+Perumych collected [ $600 ]
+
+
+
+#Game No : 640263373
+***** 888poker Hand History for Game 640263373 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:30:47
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: einrieder ( $1,085 )
+Seat 2: zey58 ( $1,480 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,480 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,805 )
+Seat 7: tomos6785 ( $1,500 )
+Seat 9: adelynochka ( $1,500 )
+Seat 10: kozaktm64 ( $1,680 )
+Perumych posts small blind [$10]
+tomos6785 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8d ]
+adelynochka folds
+kozaktm64 raises [$140]
+einrieder folds
+zey58 calls [$140]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 calls [$120]
+** Dealing flop ** [ Tc, 7s, 5d ]
+tomos6785 checks
+kozaktm64 bets [$1,540]
+zey58 calls [$1,340]
+tomos6785 folds
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 9h ]
+** Summary **
+zey58 shows [ Th, As ]
+kozaktm64 shows [ Ac, 8h ]
+zey58 collected [ $3,110 ]
+
+
+
+#Game No : 640263439
+***** 888poker Hand History for Game 640263439 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:31:29
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: einrieder ( $1,085 )
+Seat 2: zey58 ( $3,110 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,480 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,795 )
+Seat 7: tomos6785 ( $1,360 )
+Seat 9: adelynochka ( $1,500 )
+Seat 10: kozaktm64 ( $200 )
+tomos6785 posts small blind [$10]
+adelynochka posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 3s ]
+kozaktm64 raises [$200]
+einrieder folds
+zey58 folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 calls [$190]
+adelynochka folds
+** Dealing flop ** [ Th, 5c, Jh ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 9s ]
+** Summary **
+tomos6785 shows [ 7c, As ]
+kozaktm64 shows [ 5s, Qs ]
+kozaktm64 collected [ $420 ]
+
+
+
+#Game No : 640263491
+***** 888poker Hand History for Game 640263491 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:32:09
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: einrieder ( $1,085 )
+Seat 2: zey58 ( $3,110 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,480 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,795 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,480 )
+Seat 10: kozaktm64 ( $420 )
+adelynochka posts small blind [$10]
+kozaktm64 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 8d ]
+einrieder calls [$20]
+zey58 folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka folds
+kozaktm64 checks
+** Dealing flop ** [ As, 5h, 9s ]
+kozaktm64 checks
+einrieder checks
+** Dealing turn ** [ 8c ]
+kozaktm64 checks
+einrieder bets [$20]
+kozaktm64 folds
+** Summary **
+einrieder did not show his hand
+einrieder collected [ $50 ]
+
+
+
+#Game No : 640263649
+***** 888poker Hand History for Game 640263649 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:33:50
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: einrieder ( $1,115 )
+Seat 2: zey58 ( $3,110 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,480 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,795 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,470 )
+Seat 10: kozaktm64 ( $400 )
+kozaktm64 posts small blind [$10]
+einrieder posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Qs ]
+zey58 folds
+vYlen folds
+PapaShango19 raises [$60]
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka calls [$60]
+kozaktm64 raises [$390]
+einrieder folds
+PapaShango19 folds
+adelynochka folds
+** Summary **
+kozaktm64 did not show his hand
+kozaktm64 collected [ $200 ]
+
+
+
+#Game No : 640263714
+***** 888poker Hand History for Game 640263714 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:34:27
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: einrieder ( $1,095 )
+Seat 2: zey58 ( $3,110 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,420 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,795 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,410 )
+Seat 10: kozaktm64 ( $540 )
+einrieder posts small blind [$10]
+zey58 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 6c ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$20]
+tomos6785 folds
+adelynochka raises [$80]
+kozaktm64 raises [$540]
+einrieder calls [$530]
+zey58 folds
+Perumych folds
+adelynochka folds
+** Dealing flop ** [ 3c, Jh, 7c ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ Qd ]
+** Summary **
+einrieder shows [ Tc, Ad ]
+kozaktm64 shows [ 4h, 7d ]
+einrieder collected [ $1,200 ]
+
+
+
+#Game No : 640263819
+***** 888poker Hand History for Game 640263819 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:35:42
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: einrieder ( $1,755 )
+Seat 2: zey58 ( $3,090 )
+Seat 3: vYlen ( $1,500 )
+Seat 4: PapaShango19 ( $1,420 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,775 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,330 )
+zey58 posts small blind [$15]
+vYlen posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 7s ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka calls [$30]
+einrieder folds
+zey58 calls [$15]
+vYlen checks
+** Dealing flop ** [ Qd, Kd, 9c ]
+zey58 checks
+vYlen checks
+adelynochka checks
+** Dealing turn ** [ Ad ]
+zey58 checks
+vYlen checks
+adelynochka checks
+** Dealing river ** [ Jc ]
+zey58 checks
+vYlen bets [$45]
+adelynochka folds
+zey58 calls [$45]
+** Summary **
+vYlen shows [ Th, 3h ]
+zey58 mucks [ 7h, Ac ]
+vYlen collected [ $180 ]
+
+
+
+#Game No : 640263898
+***** 888poker Hand History for Game 640263898 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:36:48
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: einrieder ( $1,755 )
+Seat 2: zey58 ( $3,015 )
+Seat 3: vYlen ( $1,605 )
+Seat 4: PapaShango19 ( $1,420 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,775 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,300 )
+vYlen posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 9s ]
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka raises [$90]
+einrieder folds
+zey58 calls [$90]
+vYlen folds
+PapaShango19 calls [$60]
+** Dealing flop ** [ 9h, 2h, Ah ]
+PapaShango19 checks
+adelynochka checks
+zey58 bets [$30]
+PapaShango19 folds
+adelynochka folds
+** Summary **
+zey58 did not show his hand
+zey58 collected [ $285 ]
+
+
+
+#Game No : 640263983
+***** 888poker Hand History for Game 640263983 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:37:51
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: einrieder ( $1,755 )
+Seat 2: zey58 ( $3,210 )
+Seat 3: vYlen ( $1,590 )
+Seat 4: PapaShango19 ( $1,330 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: Perumych ( $1,775 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,210 )
+PapaShango19 posts small blind [$15]
+krrraken posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 8c ]
+Perumych calls [$30]
+tomos6785 folds
+adelynochka folds
+einrieder raises [$135]
+zey58 folds
+vYlen folds
+PapaShango19 calls [$120]
+krrraken folds
+Perumych calls [$105]
+** Dealing flop ** [ 7s, Qs, As ]
+PapaShango19 checks
+Perumych bets [$217]
+einrieder calls [$217]
+PapaShango19 folds
+** Dealing turn ** [ 8d ]
+Perumych bets [$651]
+einrieder calls [$651]
+** Dealing river ** [ Jh ]
+Perumych bets [$772]
+einrieder calls [$752]
+** Summary **
+einrieder shows [ 2d, Ah ]
+Perumych shows [ Ts, Js ]
+Perumych collected [ $3,675 ]
+
+
+
+#Game No : 640264129
+***** 888poker Hand History for Game 640264129 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:39:41
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: zey58 ( $3,210 )
+Seat 3: vYlen ( $1,590 )
+Seat 4: PapaShango19 ( $1,195 )
+Seat 5: krrraken ( $1,440 )
+Seat 6: Perumych ( $3,695 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,210 )
+krrraken posts small blind [$15]
+Perumych posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Jh ]
+tomos6785 folds
+adelynochka folds
+zey58 folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $45 ]
+
+
+
+#Game No : 640264150
+***** 888poker Hand History for Game 640264150 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:40:01
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: zey58 ( $3,210 )
+Seat 3: vYlen ( $1,590 )
+Seat 4: PapaShango19 ( $1,195 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $3,710 )
+Seat 7: tomos6785 ( $1,160 )
+Seat 9: adelynochka ( $1,210 )
+Perumych posts small blind [$15]
+tomos6785 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 4c ]
+adelynochka folds
+zey58 folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych raises [$45]
+tomos6785 calls [$30]
+** Dealing flop ** [ Jd, 6d, 2h ]
+Perumych bets [$30]
+tomos6785 raises [$210]
+Perumych folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $180 ]
+
+
+
+#Game No : 640264199
+***** 888poker Hand History for Game 640264199 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:40:37
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: zey58 ( $3,210 )
+Seat 3: vYlen ( $1,590 )
+Seat 4: PapaShango19 ( $1,195 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $3,620 )
+Seat 7: tomos6785 ( $1,250 )
+Seat 9: adelynochka ( $1,210 )
+tomos6785 posts small blind [$15]
+adelynochka posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Qs ]
+zey58 folds
+vYlen folds
+PapaShango19 raises [$90]
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $75 ]
+
+
+
+#Game No : 640264230
+***** 888poker Hand History for Game 640264230 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:41:23
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: zey58 ( $3,210 )
+Seat 3: vYlen ( $1,590 )
+Seat 4: PapaShango19 ( $1,240 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $3,620 )
+Seat 7: tomos6785 ( $1,235 )
+Seat 9: adelynochka ( $1,180 )
+adelynochka posts small blind [$15]
+zey58 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Kd ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$30]
+tomos6785 folds
+adelynochka folds
+zey58 checks
+** Dealing flop ** [ Qc, Th, 2h ]
+zey58 checks
+Perumych bets [$56]
+zey58 calls [$56]
+** Dealing turn ** [ Ts ]
+zey58 checks
+Perumych bets [$93]
+zey58 calls [$93]
+** Dealing river ** [ Qs ]
+zey58 bets [$3,031]
+Perumych calls [$3,031]
+** Summary **
+zey58 shows [ As, Ad ]
+Perumych shows [ Js, Qd ]
+Perumych collected [ $6,435 ]
+
+
+
+#Game No : 640264384
+***** 888poker Hand History for Game 640264384 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:42:44
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,590 )
+Seat 4: PapaShango19 ( $1,240 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $6,845 )
+Seat 7: tomos6785 ( $1,235 )
+Seat 9: adelynochka ( $1,165 )
+vYlen posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Ks ]
+PapaShango19 raises [$60]
+krrraken folds
+Perumych folds
+tomos6785 calls [$60]
+adelynochka calls [$60]
+vYlen folds
+** Dealing flop ** [ Ah, 2h, 4c ]
+PapaShango19 checks
+tomos6785 bets [$210]
+adelynochka calls [$210]
+PapaShango19 folds
+** Dealing turn ** [ 5c ]
+tomos6785 bets [$965]
+adelynochka folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $630 ]
+
+
+
+#Game No : 640264450
+***** 888poker Hand History for Game 640264450 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:43:48
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,560 )
+Seat 4: PapaShango19 ( $1,180 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $6,845 )
+Seat 7: tomos6785 ( $1,595 )
+Seat 9: adelynochka ( $895 )
+vYlen posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 8d ]
+krrraken folds
+Perumych calls [$50]
+tomos6785 folds
+adelynochka raises [$250]
+vYlen folds
+PapaShango19 folds
+Perumych calls [$200]
+** Dealing flop ** [ 9d, 3s, 5d ]
+Perumych checks
+adelynochka bets [$373]
+Perumych raises [$746]
+adelynochka calls [$272]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ Kh ]
+** Summary **
+Perumych shows [ Qd, 6d ]
+adelynochka shows [ Kc, Kd ]
+adelynochka collected [ $1,865 ]
+
+
+
+#Game No : 640264560
+***** 888poker Hand History for Game 640264560 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:44:50
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,535 )
+Seat 4: PapaShango19 ( $1,130 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $5,950 )
+Seat 7: tomos6785 ( $1,595 )
+Seat 9: adelynochka ( $1,865 )
+PapaShango19 posts small blind [$25]
+krrraken posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 6h ]
+Perumych folds
+tomos6785 folds
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $75 ]
+
+
+
+#Game No : 640264645
+***** 888poker Hand History for Game 640264645 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:46:01
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3:  ( $1,535 )
+Seat 4:  ( $1,105 )
+Seat 5:  ( $1,425 )
+Seat 6:  ( $5,975 )
+Seat 7:  ( $1,595 )
+Seat 9:  ( $1,865 )
+ posts small blind [$25]
+ posts big blind [$50]
+** Dealing down cards **
+Dealt to  [ 5s, 7c ]
+ folds
+ raises [$125]
+ folds
+ folds
+ raises [$175]
+ folds
+ calls [$75]
+** Dealing flop ** [ 2d, 6c, 2s ]
+ bets [$337]
+ folds
+** Summary **
+ did not show his hand
+ collected [ $450 ]
+
+
+
+#Game No : 640264709
+***** 888poker Hand History for Game 640264709 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:46:35
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,335 )
+Seat 4: PapaShango19 ( $1,105 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $6,225 )
+Seat 7: tomos6785 ( $1,545 )
+Seat 9: adelynochka ( $1,865 )
+tomos6785 posts small blind [$25]
+adelynochka posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Jc ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych raises [$250]
+tomos6785 folds
+adelynochka folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $125 ]
+
+
+
+#Game No : 640264747
+***** 888poker Hand History for Game 640264747 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:47:06
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,335 )
+Seat 4: PapaShango19 ( $1,105 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $6,300 )
+Seat 7: tomos6785 ( $1,520 )
+Seat 9: adelynochka ( $1,815 )
+adelynochka posts small blind [$25]
+vYlen posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 3s ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 raises [$150]
+adelynochka folds
+vYlen folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $125 ]
+
+
+
+#Game No : 640264780
+***** 888poker Hand History for Game 640264780 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:47:36
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $1,105 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $6,300 )
+Seat 7: tomos6785 ( $1,595 )
+Seat 9: adelynochka ( $1,790 )
+vYlen posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 9h ]
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka raises [$125]
+vYlen folds
+PapaShango19 folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $125 ]
+
+
+
+#Game No : 640264823
+***** 888poker Hand History for Game 640264823 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:48:00
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,260 )
+Seat 4: PapaShango19 ( $1,055 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $6,300 )
+Seat 7: tomos6785 ( $1,595 )
+Seat 9: adelynochka ( $1,865 )
+PapaShango19 posts small blind [$25]
+krrraken posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Ks ]
+Perumych folds
+tomos6785 raises [$150]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $125 ]
+
+
+
+#Game No : 640264853
+***** 888poker Hand History for Game 640264853 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:48:28
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,260 )
+Seat 4: PapaShango19 ( $1,030 )
+Seat 5: krrraken ( $1,375 )
+Seat 6: Perumych ( $6,300 )
+Seat 7: tomos6785 ( $1,670 )
+Seat 9: adelynochka ( $1,865 )
+krrraken posts small blind [$25]
+Perumych posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 9h ]
+tomos6785 folds
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken raises [$75]
+Perumych calls [$50]
+** Dealing flop ** [ 5s, 7s, 6d ]
+krrraken bets [$150]
+Perumych folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $200 ]
+
+
+
+#Game No : 640264903
+***** 888poker Hand History for Game 640264903 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:49:00
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,260 )
+Seat 4: PapaShango19 ( $1,030 )
+Seat 5: krrraken ( $1,475 )
+Seat 6: Perumych ( $6,200 )
+Seat 7: tomos6785 ( $1,670 )
+Seat 9: adelynochka ( $1,865 )
+Perumych posts small blind [$25]
+tomos6785 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Qd ]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$25]
+tomos6785 checks
+** Dealing flop ** [ 2c, 8d, Ac ]
+Perumych checks
+tomos6785 checks
+** Dealing turn ** [ Qs ]
+Perumych checks
+tomos6785 checks
+** Dealing river ** [ Qc ]
+Perumych bets [$50]
+tomos6785 calls [$50]
+** Summary **
+Perumych shows [ 8c, 6h ]
+tomos6785 shows [ Jc, 4c ]
+tomos6785 collected [ $200 ]
+
+
+
+#Game No : 640264951
+***** 888poker Hand History for Game 640264951 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:49:28
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,260 )
+Seat 4: PapaShango19 ( $1,030 )
+Seat 5: krrraken ( $1,475 )
+Seat 6: Perumych ( $6,100 )
+Seat 7: tomos6785 ( $1,770 )
+Seat 9: adelynochka ( $1,865 )
+tomos6785 posts small blind [$25]
+adelynochka posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, As ]
+vYlen raises [$125]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $125 ]
+
+
+
+#Game No : 640264982
+***** 888poker Hand History for Game 640264982 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:49:49
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,335 )
+Seat 4: PapaShango19 ( $1,030 )
+Seat 5: krrraken ( $1,475 )
+Seat 6: Perumych ( $6,100 )
+Seat 7: tomos6785 ( $1,745 )
+Seat 9: adelynochka ( $1,815 )
+adelynochka posts small blind [$25]
+vYlen posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8h ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 raises [$150]
+adelynochka folds
+vYlen folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $125 ]
+
+
+
+#Game No : 640265012
+***** 888poker Hand History for Game 640265012 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:50:11
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $1,030 )
+Seat 5: krrraken ( $1,475 )
+Seat 6: Perumych ( $6,100 )
+Seat 7: tomos6785 ( $1,820 )
+Seat 9: adelynochka ( $1,790 )
+vYlen posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3c ]
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka folds
+vYlen raises [$125]
+PapaShango19 calls [$100]
+** Dealing flop ** [ 5d, Qh, Td ]
+vYlen bets [$225]
+PapaShango19 folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $300 ]
+
+
+
+#Game No : 640265069
+***** 888poker Hand History for Game 640265069 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:50:46
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,435 )
+Seat 4: PapaShango19 ( $880 )
+Seat 5: krrraken ( $1,475 )
+Seat 6: Perumych ( $6,100 )
+Seat 7: tomos6785 ( $1,820 )
+Seat 9: adelynochka ( $1,790 )
+PapaShango19 posts small blind [$25]
+krrraken posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kc ]
+Perumych folds
+tomos6785 folds
+adelynochka folds
+vYlen raises [$150]
+PapaShango19 folds
+krrraken folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $125 ]
+
+
+
+#Game No : 640265102
+***** 888poker Hand History for Game 640265102 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:51:10
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $855 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: Perumych ( $6,100 )
+Seat 7: tomos6785 ( $1,820 )
+Seat 9: adelynochka ( $1,790 )
+krrraken posts small blind [$25]
+Perumych posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Qd ]
+tomos6785 raises [$150]
+adelynochka folds
+vYlen folds
+PapaShango19 raises [$350]
+krrraken folds
+Perumych folds
+tomos6785 calls [$200]
+** Dealing flop ** [ Kd, Th, 4h ]
+tomos6785 bets [$387]
+PapaShango19 raises [$505]
+tomos6785 calls [$118]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 8s ]
+** Summary **
+PapaShango19 shows [ Qh, Qd ]
+tomos6785 shows [ Jc, Jd ]
+PapaShango19 collected [ $1,785 ]
+
+
+
+#Game No : 640265173
+***** 888poker Hand History for Game 640265173 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:52:00
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,400 )
+Seat 6: Perumych ( $6,050 )
+Seat 7: tomos6785 ( $965 )
+Seat 9: adelynochka ( $1,790 )
+Perumych posts small blind [$50]
+tomos6785 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 2c ]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$50]
+tomos6785 checks
+** Dealing flop ** [ 5s, Ts, 2h ]
+Perumych checks
+tomos6785 checks
+** Dealing turn ** [ 2s ]
+Perumych checks
+tomos6785 bets [$100]
+Perumych folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $200 ]
+
+
+
+#Game No : 640265223
+***** 888poker Hand History for Game 640265223 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:52:34
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,400 )
+Seat 6: Perumych ( $5,950 )
+Seat 7: tomos6785 ( $1,065 )
+Seat 9: adelynochka ( $1,790 )
+tomos6785 posts small blind [$50]
+adelynochka posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 2c ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 raises [$250]
+adelynochka folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $200 ]
+
+
+
+#Game No : 640265260
+***** 888poker Hand History for Game 640265260 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:53:00
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,400 )
+Seat 6: Perumych ( $5,950 )
+Seat 7: tomos6785 ( $1,165 )
+Seat 9: adelynochka ( $1,690 )
+adelynochka posts small blind [$50]
+vYlen posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Kc ]
+PapaShango19 folds
+krrraken folds
+Perumych calls [$100]
+tomos6785 folds
+adelynochka calls [$50]
+vYlen checks
+** Dealing flop ** [ 4h, Tc, 5c ]
+adelynochka checks
+vYlen bets [$250]
+Perumych folds
+adelynochka folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $300 ]
+
+
+
+#Game No : 640265336
+***** 888poker Hand History for Game 640265336 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:53:44
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,710 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,400 )
+Seat 6: Perumych ( $5,850 )
+Seat 7: tomos6785 ( $1,165 )
+Seat 9: adelynochka ( $1,590 )
+vYlen posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Tc ]
+krrraken folds
+Perumych folds
+tomos6785 folds
+adelynochka folds
+vYlen folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $150 ]
+
+
+
+#Game No : 640265366
+***** 888poker Hand History for Game 640265366 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:54:03
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,660 )
+Seat 4: PapaShango19 ( $1,835 )
+Seat 5: krrraken ( $1,400 )
+Seat 6: Perumych ( $5,850 )
+Seat 7: tomos6785 ( $1,165 )
+Seat 9: adelynochka ( $1,590 )
+PapaShango19 posts small blind [$50]
+krrraken posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Kh ]
+Perumych folds
+tomos6785 folds
+adelynochka raises [$300]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $250 ]
+
+
+
+#Game No : 640265400
+***** 888poker Hand History for Game 640265400 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:54:29
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,660 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,300 )
+Seat 6: Perumych ( $5,850 )
+Seat 7: tomos6785 ( $1,165 )
+Seat 9: adelynochka ( $1,740 )
+krrraken posts small blind [$50]
+Perumych posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 6s ]
+tomos6785 folds
+adelynochka raises [$250]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$150]
+** Dealing flop ** [ Ac, 7d, 6c ]
+Perumych bets [$100]
+adelynochka calls [$100]
+** Dealing turn ** [ 8s ]
+Perumych bets [$100]
+adelynochka folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $750 ]
+
+
+
+#Game No : 640265454
+***** 888poker Hand History for Game 640265454 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:55:17
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,660 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,250 )
+Seat 6: Perumych ( $6,250 )
+Seat 7: tomos6785 ( $1,165 )
+Seat 9: adelynochka ( $1,390 )
+Perumych posts small blind [$50]
+tomos6785 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Jh ]
+adelynochka raises [$250]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych raises [$350]
+tomos6785 calls [$300]
+adelynochka raises [$1,140]
+Perumych raises [$1,980]
+tomos6785 folds
+** Dealing flop ** [ Qc, 2s, 5d ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 5s ]
+** Summary **
+Perumych shows [ Kd, As ]
+adelynochka shows [ Qh, Ac ]
+adelynochka collected [ $3,180 ]
+
+
+
+#Game No : 640265510
+***** 888poker Hand History for Game 640265510 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:56:06
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,660 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,250 )
+Seat 6: Perumych ( $4,860 )
+Seat 7: tomos6785 ( $765 )
+Seat 9: adelynochka ( $3,180 )
+tomos6785 posts small blind [$50]
+adelynochka posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 6s ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych folds
+tomos6785 raises [$250]
+adelynochka folds
+** Summary **
+tomos6785 did not show his hand
+tomos6785 collected [ $200 ]
+
+
+
+#Game No : 640265536
+***** 888poker Hand History for Game 640265536 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:56:34
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,660 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,250 )
+Seat 6: Perumych ( $4,860 )
+Seat 7: tomos6785 ( $865 )
+Seat 9: adelynochka ( $3,080 )
+adelynochka posts small blind [$50]
+vYlen posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Qd ]
+PapaShango19 folds
+krrraken folds
+Perumych calls [$100]
+tomos6785 folds
+adelynochka calls [$50]
+vYlen checks
+** Dealing flop ** [ 6c, Tc, Kd ]
+adelynochka checks
+vYlen checks
+Perumych checks
+** Dealing turn ** [ Ac ]
+adelynochka bets [$135]
+vYlen folds
+Perumych folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $300 ]
+
+
+
+#Game No : 640265586
+***** 888poker Hand History for Game 640265586 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:57:20
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,560 )
+Seat 4: PapaShango19 ( $1,785 )
+Seat 5: krrraken ( $1,250 )
+Seat 6: Perumych ( $4,760 )
+Seat 7: tomos6785 ( $865 )
+Seat 9: adelynochka ( $3,280 )
+vYlen posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 4d ]
+krrraken folds
+Perumych raises [$300]
+tomos6785 folds
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $250 ]
+
+
+
+#Game No : 640265610
+***** 888poker Hand History for Game 640265610 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:57:53
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,685 )
+Seat 5: krrraken ( $1,250 )
+Seat 6: Perumych ( $4,910 )
+Seat 7: tomos6785 ( $865 )
+Seat 9: adelynochka ( $3,280 )
+PapaShango19 posts small blind [$50]
+krrraken posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Ac ]
+Perumych raises [$200]
+tomos6785 folds
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken raises [$1,150]
+Perumych calls [$1,050]
+** Dealing flop ** [ 3d, Td, 4d ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Qs ]
+** Summary **
+krrraken shows [ Th, Ts ]
+Perumych shows [ Js, Jd ]
+krrraken collected [ $2,550 ]
+
+
+
+#Game No : 640265675
+***** 888poker Hand History for Game 640265675 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:58:46
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,635 )
+Seat 5: krrraken ( $2,550 )
+Seat 6: Perumych ( $3,660 )
+Seat 7: tomos6785 ( $865 )
+Seat 9: adelynochka ( $3,280 )
+krrraken posts small blind [$50]
+Perumych posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 4c ]
+tomos6785 folds
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $150 ]
+
+
+
+#Game No : 640265702
+***** 888poker Hand History for Game 640265702 *****
+$50/$100 Blinds No Limit Holdem - *** 26 11 2014 09:59:07
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,635 )
+Seat 5: krrraken ( $2,500 )
+Seat 6: Perumych ( $3,710 )
+Seat 7: tomos6785 ( $865 )
+Seat 9: adelynochka ( $3,280 )
+Perumych posts small blind [$50]
+tomos6785 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 9h ]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$50]
+tomos6785 checks
+** Dealing flop ** [ 3s, Kc, 7c ]
+Perumych bets [$100]
+tomos6785 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $200 ]
+
+
+
+#Game No : 640265735
+***** 888poker Hand History for Game 640265735 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 09:59:39
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,635 )
+Seat 5: krrraken ( $2,500 )
+Seat 6: Perumych ( $3,810 )
+Seat 7: tomos6785 ( $765 )
+Seat 9: adelynochka ( $3,280 )
+tomos6785 posts small blind [$75]
+adelynochka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 8h ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych raises [$300]
+tomos6785 folds
+adelynochka calls [$150]
+** Dealing flop ** [ 6h, 3c, 4s ]
+adelynochka checks
+Perumych checks
+** Dealing turn ** [ 6d ]
+adelynochka checks
+Perumych checks
+** Dealing river ** [ Ks ]
+adelynochka checks
+Perumych checks
+** Summary **
+adelynochka shows [ Qh, Jc ]
+Perumych shows [ Jd, Ad ]
+Perumych collected [ $675 ]
+
+
+
+#Game No : 640265819
+***** 888poker Hand History for Game 640265819 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:00:23
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $1,635 )
+Seat 5: krrraken ( $2,500 )
+Seat 6: Perumych ( $4,185 )
+Seat 7: tomos6785 ( $690 )
+Seat 9: adelynochka ( $2,980 )
+adelynochka posts small blind [$75]
+vYlen posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 7s ]
+PapaShango19 raises [$300]
+krrraken folds
+Perumych folds
+tomos6785 raises [$690]
+adelynochka folds
+vYlen folds
+PapaShango19 calls [$390]
+** Dealing flop ** [ 6d, 3s, Tc ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 8h ]
+** Summary **
+PapaShango19 shows [ 7c, 7s ]
+tomos6785 shows [ As, Jc ]
+PapaShango19 collected [ $1,605 ]
+
+
+
+#Game No : 640265887
+***** 888poker Hand History for Game 640265887 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:01:08
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,360 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 5: krrraken ( $2,500 )
+Seat 6: Perumych ( $4,185 )
+Seat 9: adelynochka ( $2,905 )
+vYlen posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 3h ]
+krrraken folds
+Perumych raises [$300]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $375 ]
+
+
+
+#Game No : 640265940
+***** 888poker Hand History for Game 640265940 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:01:33
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $2,400 )
+Seat 5: krrraken ( $2,500 )
+Seat 6: Perumych ( $4,410 )
+Seat 9: adelynochka ( $2,905 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Qc ]
+Perumych folds
+adelynochka folds
+vYlen folds
+PapaShango19 raises [$225]
+krrraken folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 640265987
+***** 888poker Hand History for Game 640265987 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:01:57
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 5: krrraken ( $2,350 )
+Seat 6: Perumych ( $4,410 )
+Seat 9: adelynochka ( $2,905 )
+krrraken posts small blind [$75]
+Perumych posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 3c ]
+adelynochka raises [$300]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych calls [$150]
+** Dealing flop ** [ Qc, 5c, Ts ]
+Perumych checks
+adelynochka bets [$438]
+Perumych folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $675 ]
+
+
+
+#Game No : 640266043
+***** 888poker Hand History for Game 640266043 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:02:34
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,110 )
+Seat 9: adelynochka ( $3,280 )
+Perumych posts small blind [$75]
+adelynochka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 8c ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $225 ]
+
+
+
+#Game No : 640266065
+***** 888poker Hand History for Game 640266065 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:02:46
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,035 )
+Seat 9: adelynochka ( $3,355 )
+adelynochka posts small blind [$75]
+vYlen posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Kh ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $225 ]
+
+
+
+#Game No : 640266103
+***** 888poker Hand History for Game 640266103 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:03:06
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,360 )
+Seat 4: PapaShango19 ( $2,550 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,035 )
+Seat 9: adelynochka ( $3,280 )
+vYlen posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9c ]
+krrraken folds
+Perumych raises [$300]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $375 ]
+
+
+
+#Game No : 640266143
+***** 888poker Hand History for Game 640266143 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:03:29
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $2,400 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,280 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 8s ]
+Perumych folds
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $225 ]
+
+
+
+#Game No : 640266173
+***** 888poker Hand History for Game 640266173 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:03:51
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,285 )
+Seat 4: PapaShango19 ( $2,325 )
+Seat 5: krrraken ( $2,350 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,280 )
+krrraken posts small blind [$75]
+Perumych posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 6h ]
+adelynochka folds
+vYlen raises [$1,285]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $375 ]
+
+
+
+#Game No : 640266208
+***** 888poker Hand History for Game 640266208 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:04:15
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $2,325 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,110 )
+Seat 9: adelynochka ( $3,280 )
+Perumych posts small blind [$75]
+adelynochka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Tc ]
+vYlen folds
+PapaShango19 folds
+krrraken folds
+Perumych raises [$225]
+adelynochka folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $300 ]
+
+
+
+#Game No : 640266242
+***** 888poker Hand History for Game 640266242 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:04:33
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,510 )
+Seat 4: PapaShango19 ( $2,325 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,130 )
+adelynochka posts small blind [$75]
+vYlen posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 6h ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $225 ]
+
+
+
+#Game No : 640266266
+***** 888poker Hand History for Game 640266266 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:04:48
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,585 )
+Seat 4: PapaShango19 ( $2,325 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,055 )
+vYlen posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Td ]
+krrraken folds
+Perumych folds
+adelynochka folds
+vYlen raises [$375]
+PapaShango19 raises [$2,175]
+vYlen folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $900 ]
+
+
+
+#Game No : 640266318
+***** 888poker Hand History for Game 640266318 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:05:14
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,135 )
+Seat 4: PapaShango19 ( $2,775 )
+Seat 5: krrraken ( $2,275 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,055 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 2d ]
+Perumych folds
+adelynochka folds
+vYlen raises [$1,135]
+PapaShango19 folds
+krrraken folds
+** Summary **
+vYlen did not show his hand
+vYlen collected [ $375 ]
+
+
+
+#Game No : 640266359
+***** 888poker Hand History for Game 640266359 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:05:45
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,360 )
+Seat 4: PapaShango19 ( $2,700 )
+Seat 5: krrraken ( $2,125 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,055 )
+krrraken posts small blind [$75]
+Perumych posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 7d ]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $225 ]
+
+
+
+#Game No : 640266399
+***** 888poker Hand History for Game 640266399 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:06:06
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,360 )
+Seat 4: PapaShango19 ( $2,700 )
+Seat 5: krrraken ( $2,050 )
+Seat 6: Perumych ( $4,335 )
+Seat 9: adelynochka ( $3,055 )
+Perumych posts small blind [$75]
+adelynochka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 5s ]
+vYlen folds
+PapaShango19 raises [$300]
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 640266438
+***** 888poker Hand History for Game 640266438 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:06:26
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,360 )
+Seat 4: PapaShango19 ( $2,925 )
+Seat 5: krrraken ( $2,050 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,905 )
+adelynochka posts small blind [$75]
+vYlen posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Ad ]
+PapaShango19 raises [$300]
+krrraken folds
+Perumych folds
+adelynochka folds
+vYlen folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 640266472
+***** 888poker Hand History for Game 640266472 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:06:47
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,210 )
+Seat 4: PapaShango19 ( $3,150 )
+Seat 5: krrraken ( $2,050 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,830 )
+vYlen posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 4c ]
+krrraken folds
+Perumych folds
+adelynochka raises [$300]
+vYlen folds
+PapaShango19 calls [$150]
+** Dealing flop ** [ 9h, 8c, 6c ]
+PapaShango19 checks
+adelynochka bets [$438]
+PapaShango19 folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $675 ]
+
+
+
+#Game No : 640266542
+***** 888poker Hand History for Game 640266542 *****
+$75/$150 Blinds No Limit Holdem - *** 26 11 2014 10:07:25
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,135 )
+Seat 4: PapaShango19 ( $2,850 )
+Seat 5: krrraken ( $2,050 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,205 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 4h ]
+Perumych folds
+adelynochka folds
+vYlen folds
+PapaShango19 raises [$225]
+krrraken folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 640266574
+***** 888poker Hand History for Game 640266574 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:07:45
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,135 )
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $1,900 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,205 )
+krrraken posts small blind [$100]
+Perumych posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 2d ]
+adelynochka folds
+vYlen folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $300 ]
+
+
+
+#Game No : 640266615
+***** 888poker Hand History for Game 640266615 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:08:01
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 3: vYlen ( $1,135 )
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $1,800 )
+Seat 6: Perumych ( $4,360 )
+Seat 9: adelynochka ( $3,205 )
+Perumych posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 6d ]
+vYlen raises [$1,135]
+PapaShango19 folds
+krrraken raises [$1,800]
+Perumych folds
+adelynochka folds
+** Dealing flop ** [ 9c, Tc, 9s ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 2s ]
+** Summary **
+vYlen shows [ Qd, Qc ]
+krrraken shows [ Kc, Ah ]
+krrraken collected [ $2,570 ]
+
+
+
+#Game No : 640266667
+***** 888poker Hand History for Game 640266667 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:08:34
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $3,005 )
+adelynochka posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Ac ]
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 640266698
+***** 888poker Hand History for Game 640266698 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:08:49
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,100 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,905 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 9h ]
+Perumych folds
+adelynochka folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $300 ]
+
+
+
+#Game No : 640266719
+***** 888poker Hand History for Game 640266719 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:09:03
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $3,335 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,905 )
+krrraken posts small blind [$100]
+Perumych posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Jd ]
+adelynochka folds
+PapaShango19 folds
+krrraken raises [$300]
+Perumych folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $400 ]
+
+
+
+#Game No : 640266758
+***** 888poker Hand History for Game 640266758 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:09:24
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $3,535 )
+Seat 6: Perumych ( $4,060 )
+Seat 9: adelynochka ( $2,905 )
+Perumych posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4d ]
+PapaShango19 folds
+krrraken raises [$400]
+Perumych folds
+adelynochka folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $500 ]
+
+
+
+#Game No : 640266786
+***** 888poker Hand History for Game 640266786 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:09:40
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $3,835 )
+Seat 6: Perumych ( $3,960 )
+Seat 9: adelynochka ( $2,705 )
+adelynochka posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Td ]
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 640266809
+***** 888poker Hand History for Game 640266809 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:09:53
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,100 )
+Seat 5: krrraken ( $3,835 )
+Seat 6: Perumych ( $3,960 )
+Seat 9: adelynochka ( $2,605 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 4d ]
+Perumych raises [$400]
+adelynochka folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $500 ]
+
+
+
+#Game No : 640266844
+***** 888poker Hand History for Game 640266844 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:10:07
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $3,635 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,605 )
+krrraken posts small blind [$100]
+Perumych posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 3s ]
+adelynochka folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $300 ]
+
+
+
+#Game No : 640266880
+***** 888poker Hand History for Game 640266880 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:10:27
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $3,535 )
+Seat 6: Perumych ( $4,360 )
+Seat 9: adelynochka ( $2,605 )
+Perumych posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 3c ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $300 ]
+
+
+
+#Game No : 640266907
+***** 888poker Hand History for Game 640266907 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:10:41
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,000 )
+Seat 5: krrraken ( $3,535 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,705 )
+adelynochka posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Td ]
+krrraken folds
+Perumych raises [$400]
+adelynochka folds
+PapaShango19 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $500 ]
+
+
+
+#Game No : 640266963
+***** 888poker Hand History for Game 640266963 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:10:57
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $2,800 )
+Seat 5: krrraken ( $3,535 )
+Seat 6: Perumych ( $4,560 )
+Seat 9: adelynochka ( $2,605 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Js ]
+Perumych folds
+adelynochka folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $300 ]
+
+
+
+#Game No : 640267000
+***** 888poker Hand History for Game 640267000 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:11:13
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $2,700 )
+Seat 5: krrraken ( $3,635 )
+Seat 6: Perumych ( $4,560 )
+Seat 9: adelynochka ( $2,605 )
+krrraken posts small blind [$100]
+Perumych posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 4s ]
+adelynochka folds
+PapaShango19 raises [$400]
+krrraken folds
+Perumych calls [$200]
+** Dealing flop ** [ 8h, Ah, 3d ]
+Perumych bets [$200]
+PapaShango19 raises [$600]
+Perumych folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,300 ]
+
+
+
+#Game No : 640267091
+***** 888poker Hand History for Game 640267091 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:11:58
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,400 )
+Seat 5: krrraken ( $3,535 )
+Seat 6: Perumych ( $3,960 )
+Seat 9: adelynochka ( $2,605 )
+Perumych posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Th ]
+PapaShango19 folds
+krrraken raises [$400]
+Perumych folds
+adelynochka folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $500 ]
+
+
+
+#Game No : 640267125
+***** 888poker Hand History for Game 640267125 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:12:14
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,400 )
+Seat 5: krrraken ( $3,835 )
+Seat 6: Perumych ( $3,860 )
+Seat 9: adelynochka ( $2,405 )
+adelynochka posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8d ]
+krrraken folds
+Perumych calls [$200]
+adelynochka folds
+PapaShango19 checks
+** Dealing flop ** [ 4d, 5d, Ts ]
+PapaShango19 checks
+Perumych checks
+** Dealing turn ** [ 2h ]
+PapaShango19 checks
+Perumych checks
+** Dealing river ** [ 2d ]
+PapaShango19 checks
+Perumych bets [$200]
+PapaShango19 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $500 ]
+
+
+
+#Game No : 640267216
+***** 888poker Hand History for Game 640267216 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:13:01
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,200 )
+Seat 5: krrraken ( $3,835 )
+Seat 6: Perumych ( $4,160 )
+Seat 9: adelynochka ( $2,305 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 2h ]
+Perumych folds
+adelynochka folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $300 ]
+
+
+
+#Game No : 640267248
+***** 888poker Hand History for Game 640267248 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:13:16
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,100 )
+Seat 5: krrraken ( $3,935 )
+Seat 6: Perumych ( $4,160 )
+Seat 9: adelynochka ( $2,305 )
+krrraken posts small blind [$100]
+Perumych posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2h ]
+adelynochka folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $300 ]
+
+
+
+#Game No : 640267269
+***** 888poker Hand History for Game 640267269 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:13:28
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,100 )
+Seat 5: krrraken ( $3,835 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,305 )
+Perumych posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 3s ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $300 ]
+
+
+
+#Game No : 640267301
+***** 888poker Hand History for Game 640267301 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:13:41
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,100 )
+Seat 5: krrraken ( $3,835 )
+Seat 6: Perumych ( $4,160 )
+Seat 9: adelynochka ( $2,405 )
+adelynochka posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 3d ]
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 640267324
+***** 888poker Hand History for Game 640267324 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:13:53
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,200 )
+Seat 5: krrraken ( $3,835 )
+Seat 6: Perumych ( $4,160 )
+Seat 9: adelynochka ( $2,305 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Jh ]
+Perumych raises [$400]
+adelynochka folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $500 ]
+
+
+
+#Game No : 640267359
+***** 888poker Hand History for Game 640267359 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:14:13
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,100 )
+Seat 5: krrraken ( $3,635 )
+Seat 6: Perumych ( $4,460 )
+Seat 9: adelynochka ( $2,305 )
+krrraken posts small blind [$100]
+Perumych posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Th ]
+adelynochka folds
+PapaShango19 raises [$400]
+krrraken calls [$300]
+Perumych folds
+** Dealing flop ** [ Qd, 4h, 2s ]
+krrraken checks
+PapaShango19 bets [$400]
+krrraken folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,000 ]
+
+
+
+#Game No : 640267436
+***** 888poker Hand History for Game 640267436 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:14:47
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,700 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $4,260 )
+Seat 9: adelynochka ( $2,305 )
+Perumych posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 2h ]
+PapaShango19 folds
+krrraken folds
+Perumych calls [$100]
+adelynochka checks
+** Dealing flop ** [ 8s, 9c, Kh ]
+Perumych checks
+adelynochka bets [$200]
+Perumych folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $400 ]
+
+
+
+#Game No : 640267508
+***** 888poker Hand History for Game 640267508 *****
+$100/$200 Blinds No Limit Holdem - *** 26 11 2014 10:15:27
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,700 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $4,060 )
+Seat 9: adelynochka ( $2,505 )
+adelynochka posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 7s ]
+krrraken folds
+Perumych raises [$400]
+adelynochka folds
+PapaShango19 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $500 ]
+
+
+
+#Game No : 640267537
+***** 888poker Hand History for Game 640267537 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:15:44
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,500 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $4,360 )
+Seat 9: adelynochka ( $2,405 )
+PapaShango19 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Td ]
+Perumych calls [$300]
+adelynochka folds
+PapaShango19 folds
+krrraken checks
+** Dealing flop ** [ As, Tc, 9c ]
+krrraken checks
+Perumych checks
+** Dealing turn ** [ Ad ]
+krrraken checks
+Perumych checks
+** Dealing river ** [ Ac ]
+krrraken checks
+Perumych checks
+** Summary **
+krrraken shows [ 7s, 4s ]
+Perumych shows [ Kh, Jc ]
+Perumych collected [ $750 ]
+
+
+
+#Game No : 640267594
+***** 888poker Hand History for Game 640267594 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:16:15
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,350 )
+Seat 5: krrraken ( $2,935 )
+Seat 6: Perumych ( $4,810 )
+Seat 9: adelynochka ( $2,405 )
+krrraken posts small blind [$150]
+Perumych posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 4d ]
+adelynochka folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $450 ]
+
+
+
+#Game No : 640267619
+***** 888poker Hand History for Game 640267619 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:16:31
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,350 )
+Seat 5: krrraken ( $2,785 )
+Seat 6: Perumych ( $4,960 )
+Seat 9: adelynochka ( $2,405 )
+Perumych posts small blind [$150]
+adelynochka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 9h ]
+PapaShango19 folds
+krrraken folds
+Perumych folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $450 ]
+
+
+
+#Game No : 640267638
+***** 888poker Hand History for Game 640267638 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:16:42
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,350 )
+Seat 5: krrraken ( $2,785 )
+Seat 6: Perumych ( $4,810 )
+Seat 9: adelynochka ( $2,555 )
+adelynochka posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 9s ]
+krrraken raises [$2,785]
+Perumych folds
+adelynochka folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $750 ]
+
+
+
+#Game No : 640267662
+***** 888poker Hand History for Game 640267662 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:17:00
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $3,050 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $4,810 )
+Seat 9: adelynochka ( $2,405 )
+PapaShango19 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 7h ]
+Perumych raises [$600]
+adelynochka folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $750 ]
+
+
+
+#Game No : 640267699
+***** 888poker Hand History for Game 640267699 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:17:23
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $2,900 )
+Seat 5: krrraken ( $2,935 )
+Seat 6: Perumych ( $5,260 )
+Seat 9: adelynochka ( $2,405 )
+krrraken posts small blind [$150]
+Perumych posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 6s ]
+adelynochka folds
+PapaShango19 folds
+krrraken raises [$2,785]
+Perumych folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $600 ]
+
+
+
+#Game No : 640267802
+***** 888poker Hand History for Game 640267802 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:17:49
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $2,900 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $4,960 )
+Seat 9: adelynochka ( $2,405 )
+Perumych posts small blind [$150]
+adelynochka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 4c ]
+PapaShango19 raises [$600]
+krrraken folds
+Perumych calls [$450]
+adelynochka folds
+** Dealing flop ** [ 8s, 2s, 9h ]
+Perumych bets [$300]
+PapaShango19 folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $1,500 ]
+
+
+
+#Game No : 640267915
+***** 888poker Hand History for Game 640267915 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:18:26
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $2,300 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $5,860 )
+Seat 9: adelynochka ( $2,105 )
+adelynochka posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3h ]
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 640267956
+***** 888poker Hand History for Game 640267956 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:18:44
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $2,450 )
+Seat 5: krrraken ( $3,235 )
+Seat 6: Perumych ( $5,860 )
+Seat 9: adelynochka ( $1,955 )
+PapaShango19 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 3c ]
+Perumych raises [$600]
+adelynochka folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+Perumych did not show his hand
+Perumych collected [ $750 ]
+
+
+
+#Game No : 640267992
+***** 888poker Hand History for Game 640267992 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:19:12
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $2,300 )
+Seat 5: krrraken ( $2,935 )
+Seat 6: Perumych ( $6,310 )
+Seat 9: adelynochka ( $1,955 )
+krrraken posts small blind [$150]
+Perumych posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Td ]
+adelynochka raises [$1,955]
+PapaShango19 raises [$2,300]
+krrraken folds
+Perumych folds
+** Dealing flop ** [ Qc, 6c, Kc ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 2d ]
+** Summary **
+PapaShango19 shows [ Th, Td ]
+adelynochka shows [ Qs, Tc ]
+adelynochka collected [ $4,360 ]
+
+
+
+#Game No : 640268050
+***** 888poker Hand History for Game 640268050 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:19:41
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $345 )
+Seat 5: krrraken ( $2,785 )
+Seat 6: Perumych ( $6,010 )
+Seat 9: adelynochka ( $4,360 )
+Perumych posts small blind [$150]
+adelynochka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Kc ]
+PapaShango19 raises [$345]
+krrraken folds
+Perumych folds
+adelynochka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $750 ]
+
+
+
+#Game No : 640268071
+***** 888poker Hand History for Game 640268071 *****
+$150/$300 Blinds No Limit Holdem - *** 26 11 2014 10:19:58
+Tournament #63860097 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: PapaShango19 ( $795 )
+Seat 5: krrraken ( $2,785 )
+Seat 6: Perumych ( $5,860 )
+Seat 9: adelynochka ( $4,060 )
+adelynochka posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, As ]
+krrraken raises [$2,785]
+Perumych folds
+adelynochka folds
+PapaShango19 calls [$495]
+** Dealing flop ** [ 4s, Ts, 9h ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 7c ]
+** Summary **
+PapaShango19 shows [ Qc, As ]
+krrraken shows [ Ks, Ad ]
+krrraken collected [ $1,740 ]
+
+
+

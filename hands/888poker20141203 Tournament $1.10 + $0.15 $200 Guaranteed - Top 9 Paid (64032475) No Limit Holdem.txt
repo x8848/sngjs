@@ -1,0 +1,6097 @@
+#Game No : 486853033
+***** 888poker Hand History for Game 486853033 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:05:17
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $3,000 )
+Seat 2: sinisacelik ( $3,000 )
+Seat 3: StoraBankis ( $3,000 )
+Seat 4: mcable72 ( $3,000 )
+Seat 5: Trebbor35 ( $3,000 )
+Seat 6: PapaShango19 ( $3,000 )
+Seat 7: pastlife08 ( $3,000 )
+Seat 9: VonTeeth ( $3,000 )
+mcable72 posts small blind [$10]
+Trebbor35 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7h ]
+PapaShango19 folds
+pastlife08 folds
+VonTeeth raises [$3,000]
+Neverhood007 folds
+sinisacelik folds
+StoraBankis folds
+mcable72 folds
+Trebbor35 calls [$2,980]
+** Dealing flop ** [ 3d, 8h, 7s ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ks ]
+** Summary **
+Trebbor35 shows [ 8s, Kd ]
+VonTeeth shows [ Ac, Qh ]
+Trebbor35 collected [ $6,010 ]
+
+
+
+#Game No : 486853283
+***** 888poker Hand History for Game 486853283 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:06:13
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $3,000 )
+Seat 2: sinisacelik ( $3,000 )
+Seat 3: StoraBankis ( $3,000 )
+Seat 4: mcable72 ( $2,990 )
+Seat 5: Trebbor35 ( $6,010 )
+Seat 6: PapaShango19 ( $3,000 )
+Seat 7: pastlife08 ( $3,000 )
+Seat 9: GDLadima ( $3,000 )
+Seat 10: phu5e ( $3,000 )
+Trebbor35 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Ac ]
+pastlife08 calls [$20]
+GDLadima calls [$20]
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+StoraBankis folds
+mcable72 folds
+Trebbor35 folds
+PapaShango19 checks
+** Dealing flop ** [ 3s, Ad, 3c ]
+PapaShango19 checks
+pastlife08 checks
+GDLadima checks
+** Dealing turn ** [ 6c ]
+PapaShango19 checks
+pastlife08 checks
+GDLadima checks
+** Dealing river ** [ 2d ]
+PapaShango19 checks
+pastlife08 checks
+GDLadima checks
+** Summary **
+PapaShango19 shows [ 7h, Ac ]
+pastlife08 mucks [ 4c, 4s ]
+GDLadima mucks [ Qh, 4h ]
+PapaShango19 collected [ $70 ]
+
+
+
+#Game No : 486853486
+***** 888poker Hand History for Game 486853486 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:07:02
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $3,000 )
+Seat 2: sinisacelik ( $3,000 )
+Seat 3: jackmaca ( $2,900 )
+Seat 4: mcable72 ( $2,990 )
+Seat 5: Trebbor35 ( $6,000 )
+Seat 6: PapaShango19 ( $3,050 )
+Seat 7: pastlife08 ( $2,980 )
+Seat 9: GDLadima ( $2,980 )
+Seat 10: phu5e ( $3,000 )
+PapaShango19 posts small blind [$10]
+pastlife08 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 6s ]
+GDLadima calls [$20]
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$20]
+jackmaca raises [$120]
+mcable72 folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GDLadima calls [$100]
+sinisacelik folds
+** Dealing flop ** [ 6h, 2c, Qs ]
+GDLadima checks
+jackmaca bets [$105]
+GDLadima calls [$105]
+** Dealing turn ** [ Ad ]
+GDLadima checks
+jackmaca bets [$160]
+GDLadima folds
+** Summary **
+jackmaca collected [ $500 ]
+
+
+
+#Game No : 486853788
+***** 888poker Hand History for Game 486853788 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:08:14
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $3,000 )
+Seat 2: sinisacelik ( $2,980 )
+Seat 3: jackmaca ( $3,175 )
+Seat 4: mcable72 ( $2,990 )
+Seat 5: Trebbor35 ( $6,000 )
+Seat 6: PapaShango19 ( $3,040 )
+Seat 7: pastlife08 ( $2,960 )
+Seat 9: GDLadima ( $2,755 )
+Seat 10: phu5e ( $3,000 )
+pastlife08 posts small blind [$10]
+GDLadima posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Qh ]
+phu5e folds
+Neverhood007 raises [$60]
+sinisacelik folds
+jackmaca folds
+mcable72 folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GDLadima calls [$40]
+** Dealing flop ** [ 9s, Ah, 2d ]
+GDLadima checks
+Neverhood007 checks
+** Dealing turn ** [ 7h ]
+GDLadima checks
+Neverhood007 checks
+** Dealing river ** [ 8c ]
+GDLadima bets [$2,695]
+Neverhood007 folds
+** Summary **
+GDLadima did not show his hand
+GDLadima collected [ $130 ]
+
+
+
+#Game No : 486854032
+***** 888poker Hand History for Game 486854032 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:09:15
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,940 )
+Seat 2: sinisacelik ( $2,980 )
+Seat 3: jackmaca ( $3,175 )
+Seat 4: mcable72 ( $2,990 )
+Seat 5: Trebbor35 ( $6,000 )
+Seat 6: PapaShango19 ( $3,040 )
+Seat 7: pastlife08 ( $2,950 )
+Seat 9: GDLadima ( $2,825 )
+Seat 10: phu5e ( $3,000 )
+GDLadima posts small blind [$10]
+phu5e posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 2h ]
+Neverhood007 folds
+sinisacelik calls [$20]
+jackmaca folds
+mcable72 folds
+Trebbor35 calls [$20]
+PapaShango19 folds
+pastlife08 folds
+GDLadima calls [$10]
+phu5e checks
+** Dealing flop ** [ Jc, 4c, Qc ]
+GDLadima checks
+phu5e bets [$40]
+sinisacelik calls [$40]
+Trebbor35 calls [$40]
+GDLadima folds
+** Dealing turn ** [ 3h ]
+phu5e checks
+sinisacelik checks
+Trebbor35 checks
+** Dealing river ** [ Jh ]
+phu5e checks
+sinisacelik checks
+Trebbor35 bets [$200]
+phu5e folds
+sinisacelik folds
+** Summary **
+Trebbor35 did not show his hand
+Trebbor35 collected [ $200 ]
+
+
+
+#Game No : 486854429
+***** 888poker Hand History for Game 486854429 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:10:55
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,940 )
+Seat 2: sinisacelik ( $2,920 )
+Seat 3: jackmaca ( $3,175 )
+Seat 4: mcable72 ( $2,990 )
+Seat 5: Trebbor35 ( $6,140 )
+Seat 6: PapaShango19 ( $3,040 )
+Seat 7: pastlife08 ( $2,950 )
+Seat 9: GDLadima ( $2,805 )
+Seat 10: phu5e ( $2,940 )
+phu5e posts small blind [$10]
+Neverhood007 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Qd ]
+sinisacelik folds
+jackmaca folds
+mcable72 folds
+Trebbor35 calls [$20]
+PapaShango19 calls [$20]
+pastlife08 folds
+GDLadima calls [$20]
+phu5e folds
+Neverhood007 checks
+** Dealing flop ** [ 3h, 4c, 8d ]
+Neverhood007 checks
+Trebbor35 bets [$20]
+PapaShango19 folds
+GDLadima calls [$20]
+Neverhood007 folds
+** Dealing turn ** [ 5s ]
+Trebbor35 bets [$20]
+GDLadima calls [$20]
+** Dealing river ** [ Tc ]
+Trebbor35 bets [$20]
+GDLadima calls [$20]
+** Summary **
+Trebbor35 shows [ 2d, 4d ]
+GDLadima shows [ Th, Kd ]
+GDLadima collected [ $210 ]
+
+
+
+#Game No : 486854758
+***** 888poker Hand History for Game 486854758 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:12:11
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,920 )
+Seat 2: sinisacelik ( $2,920 )
+Seat 3: jackmaca ( $3,175 )
+Seat 4: mcable72 ( $2,990 )
+Seat 5: Trebbor35 ( $6,060 )
+Seat 6: PapaShango19 ( $3,020 )
+Seat 7: pastlife08 ( $2,950 )
+Seat 9: GDLadima ( $2,935 )
+Seat 10: phu5e ( $2,930 )
+Neverhood007 posts small blind [$10]
+sinisacelik posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 5s ]
+jackmaca folds
+mcable72 folds
+Trebbor35 calls [$20]
+PapaShango19 folds
+pastlife08 calls [$20]
+GDLadima calls [$20]
+phu5e folds
+Neverhood007 folds
+sinisacelik checks
+** Dealing flop ** [ Qs, Qh, 6c ]
+sinisacelik checks
+Trebbor35 checks
+pastlife08 checks
+GDLadima checks
+** Dealing turn ** [ 8s ]
+sinisacelik checks
+Trebbor35 bets [$20]
+pastlife08 folds
+GDLadima calls [$20]
+sinisacelik calls [$20]
+** Dealing river ** [ Kd ]
+sinisacelik checks
+Trebbor35 checks
+GDLadima checks
+** Summary **
+sinisacelik shows [ 7h, 4h ]
+Trebbor35 shows [ Ts, 8d ]
+GDLadima mucks [ 6h, 7d ]
+Trebbor35 collected [ $150 ]
+
+
+
+#Game No : 486855012
+***** 888poker Hand History for Game 486855012 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:13:23
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,910 )
+Seat 2: sinisacelik ( $2,880 )
+Seat 3: jackmaca ( $3,175 )
+Seat 4: juebe01 ( $3,000 )
+Seat 5: Trebbor35 ( $6,170 )
+Seat 6: PapaShango19 ( $3,020 )
+Seat 7: pastlife08 ( $2,930 )
+Seat 9: GDLadima ( $2,895 )
+Seat 10: phu5e ( $2,930 )
+sinisacelik posts small blind [$10]
+jackmaca posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 2c ]
+juebe01 folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GDLadima calls [$20]
+phu5e raises [$67]
+Neverhood007 folds
+sinisacelik calls [$57]
+jackmaca folds
+GDLadima calls [$47]
+** Dealing flop ** [ Th, As, 3d ]
+sinisacelik checks
+GDLadima checks
+phu5e bets [$111]
+sinisacelik calls [$111]
+GDLadima folds
+** Dealing turn ** [ Qh ]
+sinisacelik checks
+phu5e checks
+** Dealing river ** [ Qd ]
+sinisacelik bets [$221]
+phu5e folds
+** Summary **
+sinisacelik did not show his hand
+sinisacelik collected [ $443 ]
+
+
+
+#Game No : 486855278
+***** 888poker Hand History for Game 486855278 *****
+$10/$20 Blinds No Limit Holdem - *** 03 12 2014 16:14:36
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,910 )
+Seat 2: sinisacelik ( $3,145 )
+Seat 3: jackmaca ( $3,155 )
+Seat 4: juebe01 ( $3,000 )
+Seat 5: Trebbor35 ( $6,170 )
+Seat 6: PapaShango19 ( $3,020 )
+Seat 7: pastlife08 ( $2,930 )
+Seat 9: GDLadima ( $2,828 )
+Seat 10: phu5e ( $2,752 )
+jackmaca posts small blind [$10]
+juebe01 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Js ]
+Trebbor35 calls [$20]
+PapaShango19 folds
+pastlife08 folds
+GDLadima calls [$20]
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$20]
+jackmaca calls [$10]
+juebe01 checks
+** Dealing flop ** [ Kd, 3h, Jh ]
+jackmaca checks
+juebe01 checks
+Trebbor35 checks
+GDLadima checks
+sinisacelik checks
+** Dealing turn ** [ 5s ]
+jackmaca checks
+juebe01 checks
+Trebbor35 checks
+GDLadima bets [$100]
+sinisacelik calls [$100]
+jackmaca folds
+juebe01 calls [$100]
+Trebbor35 folds
+** Dealing river ** [ Tc ]
+juebe01 checks
+GDLadima bets [$400]
+sinisacelik raises [$1,200]
+juebe01 folds
+GDLadima raises [$2,308]
+sinisacelik calls [$1,508]
+** Summary **
+sinisacelik shows [ 9d, Qd ]
+GDLadima shows [ Kc, 5d ]
+sinisacelik collected [ $5,816 ]
+
+
+
+#Game No : 486855639
+***** 888poker Hand History for Game 486855639 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 16:16:32
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,910 )
+Seat 2: sinisacelik ( $6,133 )
+Seat 3: jackmaca ( $3,135 )
+Seat 4: juebe01 ( $2,880 )
+Seat 5: Trebbor35 ( $6,150 )
+Seat 6: PapaShango19 ( $3,020 )
+Seat 7: pastlife08 ( $2,930 )
+Seat 10: phu5e ( $2,752 )
+juebe01 posts small blind [$15]
+Trebbor35 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 8c ]
+PapaShango19 folds
+pastlife08 folds
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$30]
+jackmaca folds
+juebe01 calls [$15]
+Trebbor35 checks
+** Dealing flop ** [ 9d, Jc, Qd ]
+juebe01 checks
+Trebbor35 checks
+sinisacelik bets [$30]
+juebe01 folds
+Trebbor35 folds
+** Summary **
+sinisacelik collected [ $90 ]
+
+
+
+#Game No : 486855849
+***** 888poker Hand History for Game 486855849 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 16:17:30
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,910 )
+Seat 2: sinisacelik ( $6,193 )
+Seat 3: jackmaca ( $3,135 )
+Seat 4: juebe01 ( $2,850 )
+Seat 5: Trebbor35 ( $6,120 )
+Seat 6: PapaShango19 ( $3,020 )
+Seat 7: pastlife08 ( $2,930 )
+Seat 9: GolbergArt ( $3,000 )
+Seat 10: phu5e ( $2,752 )
+Trebbor35 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ah ]
+pastlife08 folds
+GolbergArt folds
+phu5e raises [$78]
+Neverhood007 folds
+sinisacelik folds
+jackmaca calls [$78]
+juebe01 folds
+Trebbor35 calls [$63]
+PapaShango19 calls [$48]
+** Dealing flop ** [ 4h, 5c, 6d ]
+Trebbor35 checks
+PapaShango19 checks
+phu5e checks
+jackmaca checks
+** Dealing turn ** [ 5d ]
+Trebbor35 checks
+PapaShango19 checks
+phu5e checks
+jackmaca checks
+** Dealing river ** [ 6s ]
+Trebbor35 checks
+PapaShango19 checks
+phu5e checks
+jackmaca checks
+** Summary **
+Trebbor35 shows [ 7h, Kh ]
+PapaShango19 shows [ 2d, Ah ]
+phu5e shows [ Kc, Ac ]
+jackmaca mucks [ Qc, Jh ]
+PapaShango19 collected [ $156 ]
+phu5e collected [ $156 ]
+
+
+
+#Game No : 486856210
+***** 888poker Hand History for Game 486856210 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 16:19:02
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,910 )
+Seat 2: sinisacelik ( $6,193 )
+Seat 3: jackmaca ( $3,057 )
+Seat 4: juebe01 ( $2,850 )
+Seat 5: Trebbor35 ( $6,042 )
+Seat 6: PapaShango19 ( $3,098 )
+Seat 7: pastlife08 ( $2,930 )
+Seat 9: GolbergArt ( $3,000 )
+Seat 10: phu5e ( $2,830 )
+PapaShango19 posts small blind [$15]
+pastlife08 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 9d ]
+GolbergArt folds
+phu5e folds
+Neverhood007 raises [$78]
+sinisacelik calls [$78]
+jackmaca folds
+juebe01 folds
+Trebbor35 calls [$78]
+PapaShango19 calls [$63]
+pastlife08 folds
+** Dealing flop ** [ Ad, Tc, 5c ]
+PapaShango19 checks
+Neverhood007 checks
+sinisacelik bets [$30]
+Trebbor35 calls [$30]
+PapaShango19 raises [$120]
+Neverhood007 folds
+sinisacelik calls [$90]
+Trebbor35 folds
+** Dealing turn ** [ 2c ]
+PapaShango19 checks
+sinisacelik checks
+** Dealing river ** [ 8c ]
+PapaShango19 bets [$276]
+sinisacelik calls [$276]
+** Summary **
+PapaShango19 shows [ Ac, 9d ]
+sinisacelik mucks [ Td, 8h ]
+PapaShango19 collected [ $1,164 ]
+
+
+
+#Game No : 486856500
+***** 888poker Hand History for Game 486856500 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 16:20:40
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,832 )
+Seat 2: sinisacelik ( $5,719 )
+Seat 3: jackmaca ( $3,057 )
+Seat 4: juebe01 ( $2,850 )
+Seat 5: Trebbor35 ( $5,934 )
+Seat 6: PapaShango19 ( $3,788 )
+Seat 7: pastlife08 ( $2,900 )
+Seat 9: GolbergArt ( $3,000 )
+Seat 10: phu5e ( $2,830 )
+pastlife08 posts small blind [$15]
+GolbergArt posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 8s ]
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$30]
+jackmaca calls [$30]
+juebe01 calls [$30]
+Trebbor35 calls [$30]
+PapaShango19 calls [$30]
+pastlife08 calls [$15]
+GolbergArt checks
+** Dealing flop ** [ 3h, Td, Ac ]
+pastlife08 checks
+GolbergArt checks
+sinisacelik checks
+jackmaca checks
+juebe01 checks
+Trebbor35 bets [$105]
+PapaShango19 raises [$210]
+pastlife08 folds
+GolbergArt folds
+sinisacelik folds
+jackmaca folds
+juebe01 calls [$210]
+Trebbor35 raises [$5,799]
+PapaShango19 folds
+juebe01 calls [$2,610]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 9h ]
+** Summary **
+juebe01 shows [ Jh, Js ]
+Trebbor35 shows [ 5h, As ]
+Trebbor35 collected [ $6,060 ]
+
+
+
+#Game No : 486856939
+***** 888poker Hand History for Game 486856939 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 16:22:45
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,832 )
+Seat 2: sinisacelik ( $5,689 )
+Seat 3: jackmaca ( $3,027 )
+Seat 5: Trebbor35 ( $9,144 )
+Seat 6: PapaShango19 ( $3,548 )
+Seat 7: pastlife08 ( $2,870 )
+Seat 9: GolbergArt ( $2,970 )
+Seat 10: phu5e ( $2,830 )
+GolbergArt posts small blind [$15]
+phu5e posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Kc ]
+Neverhood007 folds
+sinisacelik folds
+jackmaca raises [$90]
+Trebbor35 calls [$90]
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e calls [$60]
+** Dealing flop ** [ 5d, 4c, 7h ]
+phu5e checks
+jackmaca checks
+Trebbor35 checks
+** Dealing turn ** [ 2s ]
+phu5e bets [$213]
+jackmaca folds
+Trebbor35 folds
+** Summary **
+phu5e collected [ $285 ]
+
+
+
+#Game No : 486857133
+***** 888poker Hand History for Game 486857133 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 16:23:38
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,832 )
+Seat 2: sinisacelik ( $5,689 )
+Seat 3: jackmaca ( $2,937 )
+Seat 4: azulnetwork ( $3,000 )
+Seat 5: Trebbor35 ( $9,054 )
+Seat 6: PapaShango19 ( $3,548 )
+Seat 7: pastlife08 ( $2,870 )
+Seat 9: GolbergArt ( $2,955 )
+Seat 10: phu5e ( $3,025 )
+phu5e posts small blind [$15]
+Neverhood007 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, As ]
+sinisacelik folds
+jackmaca folds
+azulnetwork folds
+Trebbor35 folds
+PapaShango19 raises [$120]
+pastlife08 folds
+GolbergArt folds
+phu5e calls [$105]
+Neverhood007 folds
+** Dealing flop ** [ 6s, 4d, 7s ]
+phu5e checks
+PapaShango19 checks
+** Dealing turn ** [ 2d ]
+phu5e checks
+PapaShango19 checks
+** Dealing river ** [ 5h ]
+phu5e checks
+PapaShango19 checks
+** Summary **
+phu5e shows [ Ks, Ts ]
+PapaShango19 shows [ Kh, As ]
+PapaShango19 collected [ $270 ]
+
+
+
+#Game No : 486857314
+***** 888poker Hand History for Game 486857314 *****
+$15/$30 Blinds No Limit Holdem - *** 03 12 2014 16:24:27
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,802 )
+Seat 2: sinisacelik ( $5,689 )
+Seat 3: jackmaca ( $2,937 )
+Seat 4: azulnetwork ( $3,000 )
+Seat 5: Trebbor35 ( $9,054 )
+Seat 6: PapaShango19 ( $3,698 )
+Seat 7: pastlife08 ( $2,870 )
+Seat 9: GolbergArt ( $2,955 )
+Seat 10: phu5e ( $2,905 )
+Neverhood007 posts small blind [$15]
+sinisacelik posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Qh ]
+jackmaca folds
+azulnetwork folds
+Trebbor35 folds
+PapaShango19 raises [$60]
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$30]
+** Dealing flop ** [ 8h, 7s, 7d ]
+sinisacelik checks
+PapaShango19 checks
+** Dealing turn ** [ As ]
+sinisacelik checks
+PapaShango19 checks
+** Dealing river ** [ 6s ]
+sinisacelik checks
+PapaShango19 checks
+** Summary **
+sinisacelik shows [ 5c, 3d ]
+PapaShango19 shows [ Jc, Qh ]
+PapaShango19 collected [ $135 ]
+
+
+
+#Game No : 486857484
+***** 888poker Hand History for Game 486857484 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:25:22
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,787 )
+Seat 2: sinisacelik ( $5,629 )
+Seat 3: jackmaca ( $2,937 )
+Seat 4: azulnetwork ( $3,000 )
+Seat 5: Trebbor35 ( $9,054 )
+Seat 6: PapaShango19 ( $3,773 )
+Seat 7: pastlife08 ( $2,870 )
+Seat 9: GolbergArt ( $2,955 )
+Seat 10: phu5e ( $2,905 )
+sinisacelik posts small blind [$25]
+jackmaca posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 2h ]
+azulnetwork folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$25]
+jackmaca checks
+** Dealing flop ** [ 9h, 8h, 3c ]
+sinisacelik checks
+jackmaca checks
+** Dealing turn ** [ 6h ]
+sinisacelik bets [$50]
+jackmaca folds
+** Summary **
+sinisacelik did not show his hand
+sinisacelik collected [ $100 ]
+
+
+
+#Game No : 486857661
+***** 888poker Hand History for Game 486857661 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:26:24
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,787 )
+Seat 2: sinisacelik ( $5,679 )
+Seat 3: jackmaca ( $2,887 )
+Seat 4: azulnetwork ( $3,000 )
+Seat 5: Trebbor35 ( $9,054 )
+Seat 6: PapaShango19 ( $3,773 )
+Seat 7: pastlife08 ( $2,870 )
+Seat 9: GolbergArt ( $2,955 )
+Seat 10: phu5e ( $2,905 )
+jackmaca posts small blind [$25]
+azulnetwork posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ks ]
+Trebbor35 calls [$50]
+PapaShango19 calls [$50]
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+jackmaca folds
+azulnetwork checks
+** Dealing flop ** [ Js, Jc, 3h ]
+azulnetwork checks
+Trebbor35 checks
+PapaShango19 checks
+** Dealing turn ** [ 7s ]
+azulnetwork checks
+Trebbor35 checks
+PapaShango19 checks
+** Dealing river ** [ 5c ]
+azulnetwork checks
+Trebbor35 bets [$50]
+PapaShango19 folds
+azulnetwork folds
+** Summary **
+Trebbor35 did not show his hand
+Trebbor35 collected [ $175 ]
+
+
+
+#Game No : 486857911
+***** 888poker Hand History for Game 486857911 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:27:55
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,787 )
+Seat 2: sinisacelik ( $5,679 )
+Seat 3: jackmaca ( $2,862 )
+Seat 4: azulnetwork ( $2,950 )
+Seat 5: Trebbor35 ( $9,179 )
+Seat 6: PapaShango19 ( $3,723 )
+Seat 7: pastlife08 ( $2,870 )
+Seat 9: GolbergArt ( $2,955 )
+Seat 10: phu5e ( $2,905 )
+azulnetwork posts small blind [$25]
+Trebbor35 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Qc ]
+PapaShango19 folds
+pastlife08 calls [$50]
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+jackmaca folds
+azulnetwork raises [$75]
+Trebbor35 calls [$50]
+pastlife08 calls [$50]
+** Dealing flop ** [ Ah, Qd, Ks ]
+azulnetwork checks
+Trebbor35 checks
+pastlife08 checks
+** Dealing turn ** [ 6h ]
+azulnetwork checks
+Trebbor35 checks
+pastlife08 checks
+** Dealing river ** [ 3s ]
+azulnetwork bets [$50]
+Trebbor35 folds
+pastlife08 folds
+** Summary **
+azulnetwork did not show his hand
+azulnetwork collected [ $300 ]
+
+
+
+#Game No : 486858195
+***** 888poker Hand History for Game 486858195 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:29:34
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,787 )
+Seat 2: sinisacelik ( $5,679 )
+Seat 3: jackmaca ( $2,862 )
+Seat 4: azulnetwork ( $3,150 )
+Seat 5: Trebbor35 ( $9,079 )
+Seat 6: PapaShango19 ( $3,723 )
+Seat 7: pastlife08 ( $2,770 )
+Seat 9: GolbergArt ( $2,955 )
+Seat 10: phu5e ( $2,905 )
+Trebbor35 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 9c ]
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 raises [$100]
+sinisacelik calls [$100]
+jackmaca folds
+azulnetwork raises [$3,150]
+Trebbor35 folds
+PapaShango19 raises [$3,673]
+Neverhood007 folds
+sinisacelik folds
+** Dealing flop ** [ As, Qh, 2d ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 9s ]
+** Summary **
+azulnetwork shows [ Js, Jc ]
+PapaShango19 shows [ 9h, 9c ]
+PapaShango19 collected [ $6,525 ]
+
+
+
+#Game No : 486858394
+***** 888poker Hand History for Game 486858394 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:30:41
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,687 )
+Seat 2: sinisacelik ( $5,579 )
+Seat 3: jackmaca ( $2,862 )
+Seat 4: vlokez ( $3,000 )
+Seat 5: Trebbor35 ( $9,054 )
+Seat 6: PapaShango19 ( $7,098 )
+Seat 7: pastlife08 ( $2,770 )
+Seat 9: GolbergArt ( $2,955 )
+Seat 10: phu5e ( $2,905 )
+PapaShango19 posts small blind [$25]
+pastlife08 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 5s ]
+GolbergArt calls [$50]
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+jackmaca folds
+vlokez folds
+Trebbor35 calls [$50]
+PapaShango19 calls [$25]
+pastlife08 checks
+** Dealing flop ** [ Th, Kd, 2c ]
+PapaShango19 checks
+pastlife08 checks
+GolbergArt checks
+Trebbor35 bets [$50]
+PapaShango19 folds
+pastlife08 calls [$50]
+GolbergArt folds
+** Dealing turn ** [ 8s ]
+pastlife08 bets [$50]
+Trebbor35 calls [$50]
+** Dealing river ** [ Ts ]
+pastlife08 checks
+Trebbor35 checks
+** Summary **
+pastlife08 shows [ As, Qc ]
+Trebbor35 shows [ 3s, 2d ]
+Trebbor35 collected [ $400 ]
+
+
+
+#Game No : 486858623
+***** 888poker Hand History for Game 486858623 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:31:59
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,687 )
+Seat 2: sinisacelik ( $5,579 )
+Seat 3: jackmaca ( $2,862 )
+Seat 4: vlokez ( $3,000 )
+Seat 5: Trebbor35 ( $9,304 )
+Seat 6: PapaShango19 ( $7,048 )
+Seat 7: pastlife08 ( $2,620 )
+Seat 9: GolbergArt ( $2,905 )
+Seat 10: phu5e ( $2,905 )
+pastlife08 posts small blind [$25]
+GolbergArt posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 6d ]
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+jackmaca folds
+vlokez folds
+Trebbor35 calls [$50]
+PapaShango19 folds
+pastlife08 calls [$25]
+GolbergArt checks
+** Dealing flop ** [ Qc, 7h, Kc ]
+pastlife08 checks
+GolbergArt checks
+Trebbor35 checks
+** Dealing turn ** [ Ah ]
+pastlife08 checks
+GolbergArt bets [$50]
+Trebbor35 calls [$50]
+pastlife08 folds
+** Dealing river ** [ Qd ]
+GolbergArt checks
+Trebbor35 checks
+** Summary **
+GolbergArt shows [ Th, 2h ]
+Trebbor35 shows [ 6h, Jh ]
+Trebbor35 collected [ $250 ]
+
+
+
+#Game No : 486858752
+***** 888poker Hand History for Game 486858752 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:32:45
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,687 )
+Seat 2: sinisacelik ( $5,579 )
+Seat 3: jackmaca ( $2,862 )
+Seat 4: vlokez ( $3,000 )
+Seat 5: Trebbor35 ( $9,454 )
+Seat 6: PapaShango19 ( $7,048 )
+Seat 7: pastlife08 ( $2,570 )
+Seat 9: GolbergArt ( $2,805 )
+Seat 10: phu5e ( $2,905 )
+GolbergArt posts small blind [$25]
+phu5e posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Jh ]
+Neverhood007 folds
+sinisacelik folds
+jackmaca folds
+vlokez folds
+Trebbor35 calls [$50]
+PapaShango19 calls [$50]
+pastlife08 folds
+GolbergArt folds
+phu5e checks
+** Dealing flop ** [ 9d, 6d, 3h ]
+phu5e checks
+Trebbor35 bets [$50]
+PapaShango19 calls [$50]
+phu5e calls [$50]
+** Dealing turn ** [ 7s ]
+phu5e checks
+Trebbor35 bets [$50]
+PapaShango19 calls [$50]
+phu5e calls [$50]
+** Dealing river ** [ Kh ]
+phu5e checks
+Trebbor35 bets [$50]
+PapaShango19 folds
+phu5e calls [$50]
+** Summary **
+Trebbor35 shows [ 6c, 8d ]
+phu5e mucks [ 6s, 5h ]
+Trebbor35 collected [ $575 ]
+
+
+
+#Game No : 486858952
+***** 888poker Hand History for Game 486858952 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:33:59
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,687 )
+Seat 2: sinisacelik ( $5,579 )
+Seat 3: jackmaca ( $2,862 )
+Seat 4: vlokez ( $3,000 )
+Seat 5: Trebbor35 ( $9,829 )
+Seat 6: PapaShango19 ( $6,898 )
+Seat 7: pastlife08 ( $2,570 )
+Seat 9: GolbergArt ( $2,780 )
+Seat 10: phu5e ( $2,705 )
+phu5e posts small blind [$25]
+Neverhood007 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Jc ]
+sinisacelik raises [$175]
+jackmaca folds
+vlokez folds
+Trebbor35 calls [$175]
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+** Dealing flop ** [ 9c, 5s, Ad ]
+sinisacelik checks
+Trebbor35 bets [$425]
+sinisacelik calls [$425]
+** Dealing turn ** [ Ac ]
+sinisacelik checks
+Trebbor35 checks
+** Dealing river ** [ Qh ]
+sinisacelik checks
+Trebbor35 checks
+** Summary **
+sinisacelik shows [ Th, Tc ]
+Trebbor35 shows [ Qs, 9h ]
+Trebbor35 collected [ $1,275 ]
+
+
+
+#Game No : 486859098
+***** 888poker Hand History for Game 486859098 *****
+$25/$50 Blinds No Limit Holdem - *** 03 12 2014 16:34:44
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,637 )
+Seat 2: sinisacelik ( $4,979 )
+Seat 3: jackmaca ( $2,862 )
+Seat 4: vlokez ( $3,000 )
+Seat 5: Trebbor35 ( $10,504 )
+Seat 6: PapaShango19 ( $6,898 )
+Seat 7: pastlife08 ( $2,570 )
+Seat 9: GolbergArt ( $2,780 )
+Seat 10: phu5e ( $2,680 )
+Neverhood007 posts small blind [$25]
+sinisacelik posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 8c ]
+jackmaca raises [$100]
+vlokez folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GolbergArt calls [$100]
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$50]
+** Dealing flop ** [ 6c, 7c, 5h ]
+sinisacelik bets [$50]
+jackmaca calls [$50]
+GolbergArt raises [$200]
+sinisacelik calls [$150]
+jackmaca folds
+** Dealing turn ** [ 9s ]
+sinisacelik checks
+GolbergArt bets [$500]
+sinisacelik folds
+** Summary **
+GolbergArt did not show his hand
+GolbergArt collected [ $775 ]
+
+
+
+#Game No : 486859225
+***** 888poker Hand History for Game 486859225 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:35:40
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $4,679 )
+Seat 3: jackmaca ( $2,712 )
+Seat 4: vlokez ( $3,000 )
+Seat 5: Trebbor35 ( $10,504 )
+Seat 6: PapaShango19 ( $6,898 )
+Seat 7: pastlife08 ( $2,570 )
+Seat 9: GolbergArt ( $3,255 )
+Seat 10: phu5e ( $2,680 )
+sinisacelik posts small blind [$50]
+jackmaca posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kd ]
+vlokez folds
+Trebbor35 calls [$100]
+PapaShango19 folds
+pastlife08 calls [$100]
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik raises [$450]
+jackmaca calls [$400]
+Trebbor35 calls [$400]
+pastlife08 folds
+** Dealing flop ** [ Js, Qd, 2d ]
+sinisacelik checks
+jackmaca checks
+Trebbor35 checks
+** Dealing turn ** [ 5c ]
+sinisacelik bets [$800]
+jackmaca raises [$2,212]
+Trebbor35 folds
+sinisacelik calls [$1,412]
+** Dealing river ** [ Ad ]
+** Summary **
+sinisacelik shows [ As, Qc ]
+jackmaca shows [ Ac, Jc ]
+sinisacelik collected [ $6,024 ]
+
+
+
+#Game No : 486859446
+***** 888poker Hand History for Game 486859446 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:36:55
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $7,991 )
+Seat 4: vlokez ( $3,000 )
+Seat 5: Trebbor35 ( $10,004 )
+Seat 6: PapaShango19 ( $6,898 )
+Seat 7: pastlife08 ( $2,470 )
+Seat 9: GolbergArt ( $3,255 )
+Seat 10: phu5e ( $2,680 )
+vlokez posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 7d ]
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$100]
+vlokez checks
+** Dealing flop ** [ Kc, 7s, Ks ]
+vlokez checks
+sinisacelik checks
+** Dealing turn ** [ 4c ]
+vlokez checks
+sinisacelik checks
+** Dealing river ** [ Tc ]
+vlokez checks
+sinisacelik checks
+** Summary **
+vlokez shows [ Qd, 2h ]
+sinisacelik shows [ 9d, Qc ]
+sinisacelik collected [ $200 ]
+
+
+
+#Game No : 486859533
+***** 888poker Hand History for Game 486859533 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:37:32
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $8,091 )
+Seat 4: vlokez ( $2,900 )
+Seat 5: Trebbor35 ( $10,004 )
+Seat 6: PapaShango19 ( $6,898 )
+Seat 7: pastlife08 ( $2,470 )
+Seat 9: GolbergArt ( $3,255 )
+Seat 10: phu5e ( $2,680 )
+vlokez posts small blind [$50]
+Trebbor35 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ac ]
+PapaShango19 folds
+pastlife08 calls [$100]
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+vlokez folds
+Trebbor35 checks
+** Dealing flop ** [ Jc, Ad, 2d ]
+Trebbor35 checks
+pastlife08 bets [$100]
+Trebbor35 folds
+** Summary **
+pastlife08 did not show his hand
+pastlife08 collected [ $250 ]
+
+
+
+#Game No : 486859620
+***** 888poker Hand History for Game 486859620 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:38:02
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $8,091 )
+Seat 4: vlokez ( $2,850 )
+Seat 5: Trebbor35 ( $9,904 )
+Seat 6: PapaShango19 ( $6,898 )
+Seat 7: pastlife08 ( $2,620 )
+Seat 9: GolbergArt ( $3,255 )
+Seat 10: phu5e ( $2,680 )
+Trebbor35 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 6d ]
+pastlife08 folds
+GolbergArt folds
+phu5e raises [$200]
+Neverhood007 folds
+sinisacelik folds
+vlokez folds
+Trebbor35 calls [$150]
+PapaShango19 calls [$100]
+** Dealing flop ** [ 3s, 9s, Jc ]
+Trebbor35 checks
+PapaShango19 checks
+phu5e checks
+** Dealing turn ** [ 7h ]
+Trebbor35 checks
+PapaShango19 checks
+phu5e checks
+** Dealing river ** [ 9h ]
+Trebbor35 checks
+PapaShango19 checks
+phu5e checks
+** Summary **
+Trebbor35 shows [ Qd, Kh ]
+PapaShango19 shows [ 7d, 6d ]
+phu5e mucks [ Td, As ]
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 486859740
+***** 888poker Hand History for Game 486859740 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:38:49
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $8,091 )
+Seat 4: vlokez ( $2,850 )
+Seat 5: Trebbor35 ( $9,704 )
+Seat 6: PapaShango19 ( $7,298 )
+Seat 7: pastlife08 ( $2,620 )
+Seat 9: GolbergArt ( $3,255 )
+Seat 10: phu5e ( $2,480 )
+PapaShango19 posts small blind [$50]
+pastlife08 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 5c ]
+GolbergArt folds
+phu5e raises [$200]
+Neverhood007 folds
+sinisacelik raises [$600]
+vlokez folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+phu5e raises [$2,280]
+sinisacelik calls [$1,880]
+** Dealing flop ** [ Kh, 6d, 6h ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Js ]
+** Summary **
+sinisacelik shows [ 9s, 9h ]
+phu5e shows [ Ks, Ah ]
+phu5e collected [ $5,110 ]
+
+
+
+#Game No : 486859900
+***** 888poker Hand History for Game 486859900 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:39:44
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $5,611 )
+Seat 4: vlokez ( $2,850 )
+Seat 5: Trebbor35 ( $9,704 )
+Seat 6: PapaShango19 ( $7,248 )
+Seat 7: pastlife08 ( $2,520 )
+Seat 9: GolbergArt ( $3,255 )
+Seat 10: phu5e ( $5,110 )
+pastlife08 posts small blind [$50]
+GolbergArt posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 9d ]
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+vlokez folds
+Trebbor35 calls [$100]
+PapaShango19 folds
+pastlife08 calls [$50]
+GolbergArt checks
+** Dealing flop ** [ Js, 6d, 5c ]
+pastlife08 checks
+GolbergArt bets [$200]
+Trebbor35 folds
+pastlife08 folds
+** Summary **
+GolbergArt did not show his hand
+GolbergArt collected [ $300 ]
+
+
+
+#Game No : 486860027
+***** 888poker Hand History for Game 486860027 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:40:40
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $5,611 )
+Seat 4: vlokez ( $2,850 )
+Seat 5: Trebbor35 ( $9,604 )
+Seat 6: PapaShango19 ( $7,248 )
+Seat 7: pastlife08 ( $2,420 )
+Seat 9: GolbergArt ( $3,455 )
+Seat 10: phu5e ( $5,110 )
+GolbergArt posts small blind [$50]
+phu5e posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 7s ]
+Neverhood007 folds
+sinisacelik raises [$200]
+vlokez folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+** Summary **
+sinisacelik collected [ $250 ]
+
+
+
+#Game No : 486860161
+***** 888poker Hand History for Game 486860161 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:41:16
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,612 )
+Seat 2: sinisacelik ( $5,761 )
+Seat 3: Lee_Fresh ( $18,865 )
+Seat 4: vlokez ( $2,850 )
+Seat 5: Trebbor35 ( $9,604 )
+Seat 6: PapaShango19 ( $7,248 )
+Seat 7: pastlife08 ( $2,420 )
+Seat 9: GolbergArt ( $3,405 )
+Seat 10: phu5e ( $5,010 )
+phu5e posts small blind [$50]
+Neverhood007 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Qs ]
+sinisacelik folds
+Lee_Fresh calls [$100]
+vlokez folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e calls [$50]
+Neverhood007 checks
+** Dealing flop ** [ Th, Kh, Jd ]
+phu5e checks
+Neverhood007 checks
+Lee_Fresh bets [$225]
+phu5e folds
+Neverhood007 folds
+** Summary **
+Lee_Fresh did not show his hand
+Lee_Fresh collected [ $300 ]
+
+
+
+#Game No : 486860301
+***** 888poker Hand History for Game 486860301 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:42:12
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,512 )
+Seat 2: sinisacelik ( $5,761 )
+Seat 3: Lee_Fresh ( $19,065 )
+Seat 4: vlokez ( $2,850 )
+Seat 5: Trebbor35 ( $9,604 )
+Seat 6: PapaShango19 ( $7,248 )
+Seat 7: pastlife08 ( $2,420 )
+Seat 9: GolbergArt ( $3,405 )
+Seat 10: phu5e ( $4,910 )
+Neverhood007 posts small blind [$50]
+sinisacelik posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 4c ]
+Lee_Fresh folds
+vlokez folds
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 raises [$150]
+sinisacelik calls [$100]
+** Dealing flop ** [ 9d, Jc, 4s ]
+Neverhood007 bets [$200]
+sinisacelik raises [$750]
+Neverhood007 folds
+** Summary **
+sinisacelik did not show his hand
+sinisacelik collected [ $800 ]
+
+
+
+#Game No : 486860442
+***** 888poker Hand History for Game 486860442 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:43:10
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,112 )
+Seat 2: sinisacelik ( $6,161 )
+Seat 3: Lee_Fresh ( $19,065 )
+Seat 4: vlokez ( $2,850 )
+Seat 5: Trebbor35 ( $9,604 )
+Seat 6: PapaShango19 ( $7,248 )
+Seat 7: pastlife08 ( $2,420 )
+Seat 9: GolbergArt ( $3,405 )
+Seat 10: phu5e ( $4,910 )
+sinisacelik posts small blind [$50]
+Lee_Fresh posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 6s ]
+vlokez calls [$100]
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 calls [$100]
+GolbergArt raises [$300]
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$250]
+Lee_Fresh calls [$200]
+vlokez calls [$200]
+pastlife08 calls [$200]
+** Dealing flop ** [ 8s, 2h, 2s ]
+sinisacelik bets [$5,861]
+Lee_Fresh folds
+vlokez folds
+pastlife08 folds
+GolbergArt folds
+** Summary **
+sinisacelik did not show his hand
+sinisacelik collected [ $1,500 ]
+
+
+
+#Game No : 486860626
+***** 888poker Hand History for Game 486860626 *****
+$50/$100 Blinds No Limit Holdem - *** 03 12 2014 16:44:22
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,112 )
+Seat 2: sinisacelik ( $7,361 )
+Seat 3: Lee_Fresh ( $18,765 )
+Seat 4: vlokez ( $2,550 )
+Seat 5: Trebbor35 ( $9,604 )
+Seat 6: PapaShango19 ( $7,248 )
+Seat 7: pastlife08 ( $2,120 )
+Seat 9: GolbergArt ( $3,105 )
+Seat 10: phu5e ( $4,910 )
+Lee_Fresh posts small blind [$50]
+vlokez posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 9s ]
+Trebbor35 folds
+PapaShango19 folds
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$100]
+Lee_Fresh calls [$50]
+vlokez checks
+** Dealing flop ** [ Qh, Jh, 9h ]
+Lee_Fresh bets [$225]
+vlokez folds
+sinisacelik folds
+** Summary **
+Lee_Fresh did not show his hand
+Lee_Fresh collected [ $300 ]
+
+
+
+#Game No : 486860739
+***** 888poker Hand History for Game 486860739 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:45:12
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,112 )
+Seat 2: sinisacelik ( $7,261 )
+Seat 3: Lee_Fresh ( $18,965 )
+Seat 4: vlokez ( $2,450 )
+Seat 6: PapaShango19 ( $7,248 )
+Seat 7: pastlife08 ( $2,120 )
+Seat 9: GolbergArt ( $3,105 )
+Seat 10: phu5e ( $4,910 )
+vlokez posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Js ]
+pastlife08 folds
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+Lee_Fresh calls [$150]
+vlokez folds
+PapaShango19 checks
+** Dealing flop ** [ 4c, Qd, Qh ]
+PapaShango19 checks
+Lee_Fresh bets [$281]
+PapaShango19 folds
+** Summary **
+Lee_Fresh did not show his hand
+Lee_Fresh collected [ $375 ]
+
+
+
+#Game No : 486860902
+***** 888poker Hand History for Game 486860902 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:46:16
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,112 )
+Seat 2: sinisacelik ( $7,261 )
+Seat 3: Lee_Fresh ( $19,190 )
+Seat 4: vlokez ( $2,375 )
+Seat 6: PapaShango19 ( $7,098 )
+Seat 7: pastlife08 ( $2,120 )
+Seat 9: GolbergArt ( $3,105 )
+Seat 10: phu5e ( $4,910 )
+PapaShango19 posts small blind [$75]
+pastlife08 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Kd ]
+GolbergArt folds
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+Lee_Fresh folds
+vlokez raises [$525]
+PapaShango19 folds
+pastlife08 folds
+** Summary **
+vlokez did not show his hand
+vlokez collected [ $375 ]
+
+
+
+#Game No : 486860992
+***** 888poker Hand History for Game 486860992 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:46:44
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,112 )
+Seat 2: sinisacelik ( $7,261 )
+Seat 3: Lee_Fresh ( $19,190 )
+Seat 4: vlokez ( $2,600 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,970 )
+Seat 9: GolbergArt ( $3,105 )
+Seat 10: phu5e ( $4,910 )
+pastlife08 posts small blind [$75]
+GolbergArt posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Ts ]
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+Lee_Fresh raises [$525]
+vlokez calls [$525]
+PapaShango19 folds
+pastlife08 folds
+GolbergArt calls [$375]
+** Dealing flop ** [ Jh, 7s, 8h ]
+GolbergArt checks
+Lee_Fresh bets [$18,665]
+vlokez calls [$2,075]
+GolbergArt folds
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 4h ]
+** Summary **
+Lee_Fresh shows [ Ks, Kd ]
+vlokez shows [ As, Js ]
+Lee_Fresh collected [ $5,800 ]
+
+
+
+#Game No : 486861124
+***** 888poker Hand History for Game 486861124 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:47:45
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,112 )
+Seat 2: sinisacelik ( $7,261 )
+Seat 3: Lee_Fresh ( $22,390 )
+Seat 5: ur_mafia ( $5,320 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 9: GolbergArt ( $2,580 )
+Seat 10: phu5e ( $4,910 )
+GolbergArt posts small blind [$75]
+phu5e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 3c ]
+Neverhood007 folds
+sinisacelik folds
+Lee_Fresh calls [$150]
+ur_mafia raises [$600]
+PapaShango19 folds
+pastlife08 folds
+GolbergArt raises [$2,505]
+phu5e folds
+Lee_Fresh folds
+ur_mafia calls [$1,980]
+** Dealing flop ** [ 9d, Qd, 6h ]
+** Dealing turn ** [ 4s ]
+** Dealing river ** [ 2h ]
+** Summary **
+ur_mafia shows [ Jc, Ad ]
+GolbergArt shows [ Th, Ks ]
+ur_mafia collected [ $5,460 ]
+
+
+
+#Game No : 486861239
+***** 888poker Hand History for Game 486861239 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:48:28
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Neverhood007 ( $2,112 )
+Seat 2: sinisacelik ( $7,261 )
+Seat 3: Lee_Fresh ( $22,240 )
+Seat 5: ur_mafia ( $8,200 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 10: phu5e ( $4,760 )
+phu5e posts small blind [$75]
+Neverhood007 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Qs ]
+sinisacelik calls [$150]
+Lee_Fresh folds
+ur_mafia calls [$150]
+PapaShango19 folds
+pastlife08 folds
+phu5e calls [$75]
+Neverhood007 checks
+** Dealing flop ** [ 2d, 9d, Jh ]
+phu5e checks
+Neverhood007 checks
+sinisacelik bets [$450]
+ur_mafia folds
+phu5e folds
+Neverhood007 folds
+** Summary **
+sinisacelik collected [ $600 ]
+
+
+
+#Game No : 486861411
+***** 888poker Hand History for Game 486861411 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:49:34
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $1,962 )
+Seat 2: sinisacelik ( $7,711 )
+Seat 3: Lee_Fresh ( $22,240 )
+Seat 4: Maykitus ( $3,000 )
+Seat 5: ur_mafia ( $8,050 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 9: belladonna66 ( $3,558 )
+Seat 10: phu5e ( $4,610 )
+Neverhood007 posts small blind [$75]
+sinisacelik posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 4h ]
+Lee_Fresh calls [$150]
+Maykitus folds
+ur_mafia folds
+PapaShango19 folds
+pastlife08 folds
+belladonna66 calls [$150]
+phu5e folds
+Neverhood007 raises [$1,887]
+sinisacelik folds
+Lee_Fresh folds
+belladonna66 folds
+** Summary **
+Neverhood007 did not show his hand
+Neverhood007 collected [ $600 ]
+
+
+
+#Game No : 486861581
+***** 888poker Hand History for Game 486861581 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:50:51
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,412 )
+Seat 2: sinisacelik ( $7,561 )
+Seat 3: Lee_Fresh ( $22,090 )
+Seat 4: Maykitus ( $3,000 )
+Seat 5: ur_mafia ( $8,050 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 9: belladonna66 ( $3,408 )
+Seat 10: phu5e ( $4,610 )
+sinisacelik posts small blind [$75]
+Lee_Fresh posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 8c ]
+Maykitus folds
+ur_mafia raises [$600]
+PapaShango19 folds
+pastlife08 folds
+belladonna66 folds
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+Lee_Fresh calls [$450]
+** Dealing flop ** [ 8h, Ac, Kc ]
+Lee_Fresh bets [$637]
+ur_mafia raises [$7,450]
+Lee_Fresh folds
+** Summary **
+ur_mafia did not show his hand
+ur_mafia collected [ $2,549 ]
+
+
+
+#Game No : 486861707
+***** 888poker Hand History for Game 486861707 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:51:39
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,412 )
+Seat 2: sinisacelik ( $7,486 )
+Seat 3: Lee_Fresh ( $20,853 )
+Seat 4: Maykitus ( $3,000 )
+Seat 5: ur_mafia ( $9,362 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 9: belladonna66 ( $3,408 )
+Seat 10: phu5e ( $4,610 )
+Lee_Fresh posts small blind [$75]
+Maykitus posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 5h ]
+ur_mafia calls [$150]
+PapaShango19 folds
+pastlife08 folds
+belladonna66 calls [$150]
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$150]
+Lee_Fresh calls [$75]
+Maykitus checks
+** Dealing flop ** [ 8d, Ac, 8s ]
+Lee_Fresh checks
+Maykitus checks
+ur_mafia checks
+belladonna66 bets [$750]
+sinisacelik folds
+Lee_Fresh folds
+Maykitus folds
+ur_mafia folds
+** Summary **
+belladonna66 did not show his hand
+belladonna66 collected [ $750 ]
+
+
+
+#Game No : 486861914
+***** 888poker Hand History for Game 486861914 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:53:04
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,412 )
+Seat 2: sinisacelik ( $7,336 )
+Seat 3: Lee_Fresh ( $20,703 )
+Seat 4: Maykitus ( $2,850 )
+Seat 5: ur_mafia ( $9,212 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 9: belladonna66 ( $4,008 )
+Seat 10: phu5e ( $4,610 )
+Maykitus posts small blind [$75]
+ur_mafia posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 2h ]
+PapaShango19 folds
+pastlife08 folds
+belladonna66 calls [$150]
+phu5e folds
+Neverhood007 folds
+sinisacelik folds
+Lee_Fresh folds
+Maykitus folds
+ur_mafia raises [$450]
+belladonna66 calls [$450]
+** Dealing flop ** [ 7h, Jd, Tc ]
+ur_mafia bets [$1,275]
+belladonna66 raises [$3,408]
+ur_mafia calls [$2,133]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 5d ]
+** Summary **
+ur_mafia shows [ Kc, Ah ]
+belladonna66 shows [ 6c, Jc ]
+belladonna66 collected [ $8,091 ]
+
+
+
+#Game No : 486862042
+***** 888poker Hand History for Game 486862042 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:53:58
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,412 )
+Seat 2: sinisacelik ( $7,336 )
+Seat 3: Lee_Fresh ( $20,703 )
+Seat 4: Maykitus ( $2,775 )
+Seat 5: ur_mafia ( $5,204 )
+Seat 6: PapaShango19 ( $7,023 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 9: belladonna66 ( $8,091 )
+Seat 10: phu5e ( $4,610 )
+ur_mafia posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, As ]
+pastlife08 folds
+belladonna66 folds
+phu5e folds
+Neverhood007 folds
+sinisacelik calls [$150]
+Lee_Fresh calls [$150]
+Maykitus folds
+ur_mafia calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ Tc, Ac, 4s ]
+ur_mafia checks
+PapaShango19 bets [$300]
+sinisacelik calls [$300]
+Lee_Fresh folds
+ur_mafia folds
+** Dealing turn ** [ Qd ]
+PapaShango19 bets [$600]
+sinisacelik calls [$600]
+** Dealing river ** [ 7d ]
+PapaShango19 bets [$450]
+sinisacelik calls [$450]
+** Summary **
+PapaShango19 shows [ 5s, As ]
+sinisacelik mucks [ Qs, Jd ]
+PapaShango19 collected [ $3,300 ]
+
+
+
+#Game No : 486862739
+***** 888poker Hand History for Game 486862739 *****
+$75/$150 Blinds No Limit Holdem - *** 03 12 2014 16:59:58
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,412 )
+Seat 2: pablogenaro ( $3,000 )
+Seat 3: Lee_Fresh ( $20,553 )
+Seat 4: Maykitus ( $2,775 )
+Seat 5: ur_mafia ( $5,054 )
+Seat 6: PapaShango19 ( $8,823 )
+Seat 7: pastlife08 ( $1,895 )
+Seat 9: belladonna66 ( $8,091 )
+Seat 10: phu5e ( $4,610 )
+PapaShango19 posts small blind [$75]
+pastlife08 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Tc ]
+belladonna66 folds
+phu5e folds
+Neverhood007 folds
+pablogenaro folds
+Lee_Fresh raises [$393]
+Maykitus folds
+ur_mafia calls [$393]
+PapaShango19 folds
+pastlife08 folds
+** Dealing flop ** [ 7h, Th, 9c ]
+Lee_Fresh bets [$758]
+ur_mafia raises [$4,661]
+Lee_Fresh folds
+** Summary **
+ur_mafia did not show his hand
+ur_mafia collected [ $2,527 ]
+
+
+
+#Game No : 486862925
+***** 888poker Hand History for Game 486862925 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:01:21
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Neverhood007 ( $2,412 )
+Seat 2: pablogenaro ( $3,000 )
+Seat 3: Lee_Fresh ( $19,402 )
+Seat 4: Maykitus ( $2,775 )
+Seat 5: ur_mafia ( $6,430 )
+Seat 6: PapaShango19 ( $8,748 )
+Seat 7: pastlife08 ( $1,745 )
+Seat 9: belladonna66 ( $8,091 )
+Seat 10: phu5e ( $4,610 )
+pastlife08 posts small blind [$100]
+belladonna66 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Td ]
+phu5e folds
+Neverhood007 folds
+pablogenaro calls [$200]
+Lee_Fresh calls [$200]
+Maykitus folds
+ur_mafia raises [$1,100]
+PapaShango19 folds
+pastlife08 folds
+belladonna66 folds
+pablogenaro folds
+Lee_Fresh calls [$900]
+** Dealing flop ** [ 6s, 2c, 8d ]
+Lee_Fresh bets [$2,700]
+ur_mafia raises [$5,330]
+Lee_Fresh calls [$2,630]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Ts ]
+** Summary **
+Lee_Fresh shows [ 8h, 5s ]
+ur_mafia shows [ Ks, Kd ]
+Lee_Fresh collected [ $13,360 ]
+
+
+
+#Game No : 486863067
+***** 888poker Hand History for Game 486863067 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:02:08
+Tournament #64032475 $1.10 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Neverhood007 ( $2,412 )
+Seat 2: pablogenaro ( $2,800 )
+Seat 3: Lee_Fresh ( $26,332 )
+Seat 4: Maykitus ( $2,775 )
+Seat 6: PapaShango19 ( $8,748 )
+Seat 7: pastlife08 ( $1,645 )
+Seat 9: belladonna66 ( $7,891 )
+Seat 10: phu5e ( $4,610 )
+belladonna66 posts small blind [$100]
+phu5e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 5h ]
+Neverhood007 folds
+pablogenaro folds
+Lee_Fresh calls [$200]
+Maykitus folds
+PapaShango19 folds
+pastlife08 folds
+belladonna66 calls [$100]
+phu5e checks
+** Dealing flop ** [ 5d, Kh, 6h ]
+belladonna66 checks
+phu5e checks
+Lee_Fresh checks
+** Dealing turn ** [ Js ]
+belladonna66 checks
+phu5e checks
+Lee_Fresh checks
+** Dealing river ** [ Ks ]
+belladonna66 checks
+phu5e checks
+Lee_Fresh checks
+** Summary **
+belladonna66 shows [ 7d, Qc ]
+phu5e mucks [ 4s, Qh ]
+Lee_Fresh mucks [ 3d, 8d ]
+belladonna66 collected [ $600 ]
+
+
+
+#Game No : 486863269
+***** 888poker Hand History for Game 486863269 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:03:34
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1:  ( $3,000 )
+Seat 2:  ( $22,278 )
+Seat 3:  ( $1,515 )
+Seat 4:  ( $10,852 )
+Seat 5:  ( $3,000 )
+Seat 6:  ( $8,748 )
+Seat 7:  ( $14,699 )
+Seat 10:  ( $3,000 )
+ posts small blind [$100]
+ posts big blind [$200]
+** Dealing down cards **
+Dealt to  [ 5s, 3s ]
+ calls [$200]
+ calls [$200]
+ folds
+ raises [$1,515]
+ calls [$1,515]
+ calls [$1,515]
+ folds
+ folds
+ folds
+ folds
+** Dealing flop ** [ Jc, 6d, Jh ]
+ bets [$200]
+ calls [$200]
+** Dealing turn ** [ 4c ]
+ bets [$200]
+ calls [$200]
+** Dealing river ** [ 7h ]
+ bets [$200]
+ calls [$200]
+** Summary **
+ shows [ 6c, As ]
+ shows [ Kc, Ks ]
+ mucks [ Th, Td ]
+ collected [ $5,245 ]
+ collected [ $1,200 ]
+
+
+
+#Game No : 486863424
+***** 888poker Hand History for Game 486863424 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:04:39
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: seandot22 ( $2,800 )
+Seat 2: manhunt56 ( $22,278 )
+Seat 3: candice92 ( $3,000 )
+Seat 4: seatris1 ( $8,737 )
+Seat 5: Yuliya1408 ( $7,330 )
+Seat 6: PapaShango19 ( $8,648 )
+Seat 7: pian76 ( $14,499 )
+Seat 9: Illumione ( $8,581 )
+Seat 10: amzeecook ( $2,800 )
+pian76 posts small blind [$100]
+Illumione posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 8d ]
+amzeecook folds
+seandot22 calls [$200]
+manhunt56 folds
+candice92 raises [$400]
+seatris1 calls [$400]
+Yuliya1408 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+seandot22 calls [$200]
+** Dealing flop ** [ 3d, 9s, As ]
+Illumione checks
+seandot22 checks
+candice92 checks
+seatris1 checks
+** Dealing turn ** [ 6d ]
+Illumione checks
+seandot22 checks
+candice92 checks
+seatris1 checks
+** Dealing river ** [ 8s ]
+Illumione checks
+seandot22 checks
+candice92 bets [$200]
+seatris1 folds
+Illumione raises [$8,181]
+seandot22 folds
+candice92 folds
+** Summary **
+Illumione did not show his hand
+Illumione collected [ $2,100 ]
+
+
+
+#Game No : 486863645
+***** 888poker Hand History for Game 486863645 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:06:09
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: seandot22 ( $2,400 )
+Seat 2: manhunt56 ( $22,278 )
+Seat 3: candice92 ( $2,400 )
+Seat 4: seatris1 ( $8,337 )
+Seat 5: Yuliya1408 ( $7,330 )
+Seat 6: PapaShango19 ( $8,648 )
+Seat 7: pian76 ( $14,399 )
+Seat 9: Illumione ( $10,081 )
+Seat 10: amzeecook ( $2,800 )
+Illumione posts small blind [$100]
+amzeecook posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 7h ]
+seandot22 raises [$400]
+manhunt56 folds
+candice92 folds
+seatris1 calls [$400]
+Yuliya1408 folds
+PapaShango19 calls [$400]
+pian76 folds
+Illumione calls [$300]
+amzeecook folds
+** Dealing flop ** [ 5s, 3c, Qc ]
+Illumione bets [$200]
+seandot22 raises [$400]
+seatris1 folds
+PapaShango19 folds
+Illumione calls [$200]
+** Dealing turn ** [ Tc ]
+Illumione bets [$1,600]
+seandot22 calls [$1,600]
+** Dealing river ** [ Th ]
+** Summary **
+seandot22 shows [ Kc, Kh ]
+Illumione shows [ Ts, Qd ]
+Illumione collected [ $5,800 ]
+
+
+
+#Game No : 486863806
+***** 888poker Hand History for Game 486863806 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:07:08
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: robert073 ( $9,682 )
+Seat 2: manhunt56 ( $22,278 )
+Seat 3: candice92 ( $2,400 )
+Seat 4: seatris1 ( $7,937 )
+Seat 5: Yuliya1408 ( $7,330 )
+Seat 6: PapaShango19 ( $8,248 )
+Seat 7: pian76 ( $14,399 )
+Seat 9: Illumione ( $13,481 )
+Seat 10: amzeecook ( $2,600 )
+amzeecook posts small blind [$100]
+robert073 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Qd ]
+manhunt56 folds
+candice92 folds
+seatris1 raises [$400]
+Yuliya1408 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$400]
+amzeecook raises [$2,500]
+robert073 folds
+seatris1 calls [$2,200]
+Illumione folds
+** Dealing flop ** [ 6h, Kh, 3s ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ Ks ]
+** Summary **
+seatris1 shows [ Th, Qc ]
+amzeecook shows [ Qh, Ah ]
+amzeecook collected [ $5,800 ]
+
+
+
+#Game No : 486863909
+***** 888poker Hand History for Game 486863909 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:07:53
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: robert073 ( $9,482 )
+Seat 2: manhunt56 ( $22,278 )
+Seat 3: candice92 ( $2,400 )
+Seat 4: seatris1 ( $5,337 )
+Seat 5: Yuliya1408 ( $7,330 )
+Seat 6: PapaShango19 ( $8,248 )
+Seat 7: pian76 ( $14,399 )
+Seat 9: Illumione ( $13,081 )
+Seat 10: amzeecook ( $5,800 )
+robert073 posts small blind [$100]
+manhunt56 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 7d ]
+candice92 folds
+seatris1 folds
+Yuliya1408 calls [$200]
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+amzeecook calls [$200]
+robert073 folds
+manhunt56 checks
+** Dealing flop ** [ Ac, 7c, Jd ]
+manhunt56 bets [$200]
+Yuliya1408 folds
+Illumione folds
+amzeecook folds
+** Summary **
+manhunt56 did not show his hand
+manhunt56 collected [ $900 ]
+
+
+
+#Game No : 486864033
+***** 888poker Hand History for Game 486864033 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:08:34
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: robert073 ( $9,382 )
+Seat 2: manhunt56 ( $22,978 )
+Seat 3: candice92 ( $2,400 )
+Seat 4: seatris1 ( $5,337 )
+Seat 5: Yuliya1408 ( $7,130 )
+Seat 6: PapaShango19 ( $8,248 )
+Seat 7: pian76 ( $14,399 )
+Seat 9: Illumione ( $12,881 )
+Seat 10: amzeecook ( $5,600 )
+manhunt56 posts small blind [$100]
+candice92 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Kd ]
+seatris1 calls [$200]
+Yuliya1408 calls [$200]
+PapaShango19 raises [$600]
+pian76 folds
+Illumione calls [$600]
+amzeecook calls [$600]
+robert073 folds
+manhunt56 folds
+candice92 folds
+seatris1 calls [$400]
+Yuliya1408 calls [$400]
+** Dealing flop ** [ Kh, 6d, 9d ]
+seatris1 checks
+Yuliya1408 checks
+PapaShango19 bets [$1,650]
+Illumione folds
+amzeecook calls [$1,650]
+seatris1 folds
+Yuliya1408 calls [$1,650]
+** Dealing turn ** [ 9c ]
+Yuliya1408 checks
+PapaShango19 bets [$5,998]
+amzeecook calls [$3,350]
+Yuliya1408 calls [$4,880]
+** Dealing river ** [ 8h ]
+** Summary **
+Yuliya1408 shows [ 6s, Kc ]
+PapaShango19 shows [ Qs, Kd ]
+amzeecook shows [ 6c, As ]
+PapaShango19 collected [ $18,300 ]
+PapaShango19 collected [ $3,060 ]
+
+
+
+#Game No : 486864215
+***** 888poker Hand History for Game 486864215 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:09:46
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: robert073 ( $9,382 )
+Seat 2: manhunt56 ( $22,878 )
+Seat 3: candice92 ( $2,200 )
+Seat 4: seatris1 ( $4,737 )
+Seat 5: avidosss ( $5,436 )
+Seat 6: PapaShango19 ( $22,478 )
+Seat 7: pian76 ( $14,399 )
+Seat 9: Illumione ( $12,281 )
+candice92 posts small blind [$100]
+seatris1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Qc ]
+avidosss folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+robert073 calls [$200]
+manhunt56 folds
+candice92 calls [$100]
+seatris1 checks
+** Dealing flop ** [ Js, 7h, Td ]
+candice92 checks
+seatris1 checks
+Illumione bets [$200]
+robert073 calls [$200]
+candice92 calls [$200]
+seatris1 calls [$200]
+** Dealing turn ** [ Qs ]
+candice92 checks
+seatris1 bets [$200]
+Illumione calls [$200]
+robert073 calls [$200]
+candice92 calls [$200]
+** Dealing river ** [ Kh ]
+candice92 bets [$400]
+seatris1 raises [$800]
+Illumione folds
+robert073 folds
+candice92 calls [$400]
+** Summary **
+seatris1 shows [ 4s, 9h ]
+candice92 shows [ 5h, 9c ]
+seatris1 collected [ $2,000 ]
+candice92 collected [ $2,000 ]
+
+
+
+#Game No : 486864400
+***** 888poker Hand History for Game 486864400 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:10:47
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,782 )
+Seat 2: manhunt56 ( $22,878 )
+Seat 3: candice92 ( $2,800 )
+Seat 4: seatris1 ( $5,337 )
+Seat 5: avidosss ( $5,436 )
+Seat 6: PapaShango19 ( $22,478 )
+Seat 7: pian76 ( $14,399 )
+Seat 9: Illumione ( $11,681 )
+Seat 10: goshaal ( $19,771 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+avidosss posts ante [$20]
+goshaal posts ante [$20]
+seatris1 posts small blind [$100]
+avidosss posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8c ]
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+goshaal calls [$200]
+robert073 folds
+manhunt56 folds
+candice92 raises [$400]
+seatris1 folds
+avidosss folds
+Illumione calls [$200]
+goshaal calls [$200]
+** Dealing flop ** [ 8h, 6d, Ks ]
+Illumione checks
+goshaal checks
+candice92 bets [$1,260]
+Illumione folds
+goshaal folds
+** Summary **
+candice92 did not show his hand
+candice92 collected [ $1,680 ]
+
+
+
+#Game No : 486864592
+***** 888poker Hand History for Game 486864592 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:11:51
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,762 )
+Seat 2: manhunt56 ( $22,858 )
+Seat 3: candice92 ( $4,060 )
+Seat 4: seatris1 ( $5,217 )
+Seat 5: avidosss ( $5,216 )
+Seat 6: PapaShango19 ( $22,458 )
+Seat 7: pian76 ( $14,379 )
+Seat 9: Illumione ( $11,261 )
+Seat 10: goshaal ( $19,351 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+avidosss posts ante [$20]
+goshaal posts ante [$20]
+avidosss posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 5d ]
+pian76 raises [$400]
+Illumione folds
+goshaal folds
+robert073 calls [$400]
+manhunt56 folds
+candice92 raises [$600]
+seatris1 folds
+avidosss folds
+PapaShango19 folds
+pian76 calls [$200]
+robert073 calls [$200]
+** Dealing flop ** [ 8c, Kd, 3h ]
+pian76 checks
+robert073 checks
+candice92 bets [$1,140]
+pian76 folds
+robert073 folds
+** Summary **
+candice92 did not show his hand
+candice92 collected [ $2,280 ]
+
+
+
+#Game No : 486864750
+***** 888poker Hand History for Game 486864750 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:12:53
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,142 )
+Seat 2: manhunt56 ( $22,838 )
+Seat 3: candice92 ( $5,720 )
+Seat 4: seatris1 ( $5,197 )
+Seat 5: avidosss ( $5,096 )
+Seat 6: PapaShango19 ( $22,238 )
+Seat 7: pian76 ( $13,759 )
+Seat 9: Illumione ( $11,241 )
+Seat 10: goshaal ( $19,331 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+avidosss posts ante [$20]
+goshaal posts ante [$20]
+PapaShango19 posts small blind [$100]
+pian76 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 2h ]
+Illumione calls [$200]
+goshaal folds
+robert073 folds
+manhunt56 raises [$1,080]
+candice92 folds
+seatris1 calls [$1,080]
+avidosss raises [$5,076]
+PapaShango19 folds
+pian76 folds
+Illumione folds
+manhunt56 raises [$11,931]
+seatris1 folds
+** Dealing flop ** [ 3h, 5c, Jc ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 6d ]
+** Summary **
+manhunt56 shows [ Ac, Ah ]
+avidosss shows [ As, Qc ]
+manhunt56 collected [ $11,912 ]
+
+
+
+#Game No : 486864926
+***** 888poker Hand History for Game 486864926 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:13:52
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: robert073 ( $8,122 )
+Seat 2: manhunt56 ( $29,654 )
+Seat 3: candice92 ( $5,700 )
+Seat 4: seatris1 ( $4,097 )
+Seat 6: PapaShango19 ( $22,118 )
+Seat 7: pian76 ( $13,539 )
+Seat 9: Illumione ( $11,021 )
+Seat 10: goshaal ( $19,311 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+goshaal posts ante [$20]
+pian76 posts small blind [$100]
+Illumione posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 4d ]
+goshaal folds
+robert073 folds
+manhunt56 raises [$400]
+candice92 raises [$1,660]
+seatris1 folds
+PapaShango19 folds
+pian76 folds
+Illumione folds
+manhunt56 calls [$1,260]
+** Dealing flop ** [ 8d, 7s, 6c ]
+manhunt56 checks
+candice92 bets [$4,020]
+manhunt56 folds
+** Summary **
+candice92 did not show his hand
+candice92 collected [ $3,780 ]
+
+
+
+#Game No : 486865074
+***** 888poker Hand History for Game 486865074 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:14:39
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: robert073 ( $8,102 )
+Seat 2: manhunt56 ( $27,974 )
+Seat 3: candice92 ( $7,800 )
+Seat 4: seatris1 ( $4,077 )
+Seat 6: PapaShango19 ( $22,098 )
+Seat 7: pian76 ( $13,419 )
+Seat 9: Illumione ( $10,801 )
+Seat 10: goshaal ( $19,291 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+goshaal posts ante [$20]
+Illumione posts small blind [$100]
+goshaal posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2d ]
+robert073 folds
+manhunt56 calls [$200]
+candice92 folds
+seatris1 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$100]
+goshaal checks
+** Dealing flop ** [ 9s, 3h, 9c ]
+Illumione bets [$200]
+goshaal folds
+manhunt56 calls [$200]
+** Dealing turn ** [ Qs ]
+Illumione checks
+manhunt56 checks
+** Dealing river ** [ Js ]
+Illumione checks
+manhunt56 bets [$580]
+Illumione folds
+** Summary **
+manhunt56 did not show his hand
+manhunt56 collected [ $1,160 ]
+
+
+
+#Game No : 486865302
+***** 888poker Hand History for Game 486865302 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:15:50
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: robert073 ( $8,082 )
+Seat 2: manhunt56 ( $28,714 )
+Seat 3: candice92 ( $7,780 )
+Seat 4: seatris1 ( $4,057 )
+Seat 6: PapaShango19 ( $22,078 )
+Seat 7: pian76 ( $13,399 )
+Seat 9: Illumione ( $10,381 )
+Seat 10: goshaal ( $19,071 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+goshaal posts ante [$20]
+goshaal posts small blind [$100]
+robert073 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9c ]
+manhunt56 folds
+candice92 calls [$200]
+seatris1 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+goshaal calls [$100]
+robert073 checks
+** Dealing flop ** [ 7h, 8s, 6s ]
+goshaal checks
+robert073 checks
+candice92 bets [$960]
+Illumione folds
+goshaal folds
+robert073 folds
+** Summary **
+candice92 did not show his hand
+candice92 collected [ $960 ]
+
+
+
+#Game No : 486865472
+***** 888poker Hand History for Game 486865472 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:16:47
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,862 )
+Seat 2: manhunt56 ( $28,694 )
+Seat 3: candice92 ( $8,520 )
+Seat 4: seatris1 ( $4,037 )
+Seat 6: PapaShango19 ( $22,058 )
+Seat 7: pian76 ( $13,379 )
+Seat 9: Illumione ( $10,161 )
+Seat 10: goshaal ( $18,851 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+goshaal posts ante [$20]
+robert073 posts small blind [$100]
+manhunt56 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Kd ]
+candice92 folds
+seatris1 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+goshaal raises [$1,000]
+robert073 folds
+manhunt56 calls [$800]
+Illumione calls [$800]
+** Dealing flop ** [ Ad, 9d, Tc ]
+manhunt56 bets [$1,630]
+Illumione calls [$1,630]
+goshaal calls [$1,630]
+** Dealing turn ** [ Jc ]
+manhunt56 checks
+Illumione checks
+goshaal checks
+** Dealing river ** [ 2h ]
+manhunt56 bets [$3,675]
+Illumione folds
+goshaal calls [$3,675]
+** Summary **
+manhunt56 shows [ 7h, As ]
+goshaal shows [ Qh, Ah ]
+goshaal collected [ $15,500 ]
+
+
+
+#Game No : 486865750
+***** 888poker Hand History for Game 486865750 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:18:03
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,742 )
+Seat 2: manhunt56 ( $22,369 )
+Seat 3: candice92 ( $8,500 )
+Seat 4: seatris1 ( $4,017 )
+Seat 6: PapaShango19 ( $22,038 )
+Seat 7: pian76 ( $13,359 )
+Seat 9: Illumione ( $7,511 )
+Seat 10: goshaal ( $28,026 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+goshaal posts ante [$20]
+manhunt56 posts small blind [$100]
+candice92 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 5d ]
+seatris1 calls [$200]
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+goshaal folds
+robert073 folds
+manhunt56 folds
+candice92 checks
+** Dealing flop ** [ Kc, Ks, 7d ]
+candice92 bets [$200]
+seatris1 calls [$200]
+Illumione calls [$200]
+** Dealing turn ** [ Qs ]
+candice92 bets [$200]
+seatris1 raises [$2,060]
+Illumione folds
+candice92 folds
+** Summary **
+seatris1 did not show his hand
+seatris1 collected [ $1,860 ]
+
+
+
+#Game No : 486865939
+***** 888poker Hand History for Game 486865939 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:18:55
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,722 )
+Seat 2: manhunt56 ( $22,249 )
+Seat 3: candice92 ( $7,880 )
+Seat 4: seatris1 ( $5,257 )
+Seat 6: PapaShango19 ( $22,018 )
+Seat 7: pian76 ( $13,339 )
+Seat 9: Illumione ( $7,091 )
+Seat 10: goshaal ( $28,006 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+goshaal posts ante [$20]
+candice92 posts small blind [$100]
+seatris1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Td ]
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal calls [$200]
+robert073 folds
+manhunt56 folds
+candice92 folds
+seatris1 checks
+** Dealing flop ** [ Ad, Qc, 5s ]
+seatris1 bets [$200]
+goshaal calls [$200]
+** Dealing turn ** [ 5d ]
+seatris1 bets [$200]
+goshaal calls [$200]
+** Dealing river ** [ 8c ]
+seatris1 bets [$200]
+goshaal calls [$200]
+** Summary **
+seatris1 shows [ 2c, Ah ]
+goshaal shows [ Ac, Ts ]
+seatris1 collected [ $930 ]
+goshaal collected [ $930 ]
+
+
+
+#Game No : 486866193
+***** 888poker Hand History for Game 486866193 *****
+$100/$200 Blinds No Limit Holdem - *** 03 12 2014 17:20:12
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: robert073 ( $7,702 )
+Seat 2: manhunt56 ( $22,229 )
+Seat 3: candice92 ( $7,760 )
+Seat 4: seatris1 ( $5,367 )
+Seat 5: babyface312 ( $5,512 )
+Seat 6: PapaShango19 ( $21,998 )
+Seat 7: pian76 ( $13,319 )
+Seat 9: Illumione ( $7,071 )
+Seat 10: goshaal ( $28,116 )
+PapaShango19 posts ante [$20]
+pian76 posts ante [$20]
+manhunt56 posts ante [$20]
+seatris1 posts ante [$20]
+Illumione posts ante [$20]
+candice92 posts ante [$20]
+robert073 posts ante [$20]
+goshaal posts ante [$20]
+babyface312 posts ante [$20]
+seatris1 posts small blind [$100]
+babyface312 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 9c ]
+PapaShango19 folds
+pian76 folds
+Illumione calls [$200]
+goshaal folds
+robert073 folds
+manhunt56 raises [$810]
+candice92 calls [$810]
+seatris1 calls [$710]
+babyface312 folds
+Illumione folds
+** Dealing flop ** [ 4c, Js, Tc ]
+seatris1 bets [$200]
+manhunt56 raises [$1,805]
+candice92 folds
+seatris1 folds
+** Summary **
+manhunt56 did not show his hand
+manhunt56 collected [ $3,410 ]
+
+
+
+#Game No : 486866369
+***** 888poker Hand History for Game 486866369 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:21:04
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: robert073 ( $7,682 )
+Seat 2: manhunt56 ( $24,609 )
+Seat 3: candice92 ( $6,930 )
+Seat 4: seatris1 ( $4,337 )
+Seat 5: babyface312 ( $5,292 )
+Seat 6: PapaShango19 ( $21,978 )
+Seat 7: pian76 ( $13,299 )
+Seat 9: Illumione ( $6,851 )
+Seat 10: goshaal ( $28,096 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+seatris1 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+babyface312 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 6s ]
+pian76 folds
+Illumione calls [$250]
+goshaal folds
+robert073 folds
+manhunt56 calls [$250]
+candice92 calls [$250]
+seatris1 calls [$250]
+babyface312 calls [$125]
+PapaShango19 raises [$1,000]
+Illumione folds
+manhunt56 folds
+candice92 calls [$1,000]
+seatris1 calls [$1,000]
+babyface312 folds
+** Dealing flop ** [ 9s, 4s, 9h ]
+PapaShango19 bets [$2,362]
+candice92 folds
+seatris1 raises [$3,062]
+PapaShango19 calls [$700]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 2s ]
+** Summary **
+seatris1 shows [ 5h, 5s ]
+PapaShango19 shows [ 6h, 6s ]
+PapaShango19 collected [ $10,849 ]
+
+
+
+#Game No : 486866570
+***** 888poker Hand History for Game 486866570 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:22:07
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,657 )
+Seat 2: manhunt56 ( $24,334 )
+Seat 3: candice92 ( $5,655 )
+Seat 5: babyface312 ( $5,017 )
+Seat 6: PapaShango19 ( $28,490 )
+Seat 7: pian76 ( $13,274 )
+Seat 9: Illumione ( $6,576 )
+Seat 10: goshaal ( $28,071 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+PapaShango19 posts small blind [$125]
+pian76 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Jh ]
+Illumione calls [$250]
+goshaal folds
+robert073 calls [$250]
+manhunt56 folds
+candice92 folds
+babyface312 folds
+PapaShango19 calls [$125]
+pian76 checks
+** Dealing flop ** [ 9d, Qh, 2h ]
+PapaShango19 checks
+pian76 checks
+Illumione checks
+robert073 checks
+** Dealing turn ** [ Jd ]
+PapaShango19 bets [$850]
+pian76 folds
+Illumione calls [$850]
+robert073 folds
+** Dealing river ** [ 8s ]
+PapaShango19 checks
+Illumione bets [$250]
+PapaShango19 calls [$250]
+** Summary **
+Illumione shows [ Ts, Js ]
+PapaShango19 mucks [ 2d, Jh ]
+Illumione collected [ $3,400 ]
+
+
+
+#Game No : 486866892
+***** 888poker Hand History for Game 486866892 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:23:30
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,382 )
+Seat 2: manhunt56 ( $24,309 )
+Seat 3: candice92 ( $5,630 )
+Seat 5: babyface312 ( $4,992 )
+Seat 6: PapaShango19 ( $27,115 )
+Seat 7: pian76 ( $12,999 )
+Seat 9: Illumione ( $8,601 )
+Seat 10: goshaal ( $28,046 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+pian76 posts small blind [$125]
+Illumione posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, As ]
+goshaal folds
+robert073 folds
+manhunt56 raises [$500]
+candice92 folds
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$250]
+** Dealing flop ** [ Ts, Kc, Kd ]
+Illumione checks
+manhunt56 checks
+** Dealing turn ** [ Jd ]
+Illumione bets [$8,076]
+manhunt56 folds
+** Summary **
+Illumione did not show his hand
+Illumione collected [ $1,325 ]
+
+
+
+#Game No : 486867048
+***** 888poker Hand History for Game 486867048 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:24:19
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,357 )
+Seat 2: manhunt56 ( $23,784 )
+Seat 3: candice92 ( $5,605 )
+Seat 5: babyface312 ( $4,967 )
+Seat 6: PapaShango19 ( $27,090 )
+Seat 7: pian76 ( $12,849 )
+Seat 9: Illumione ( $9,401 )
+Seat 10: goshaal ( $28,021 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+Illumione posts small blind [$125]
+goshaal posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Kc ]
+robert073 folds
+manhunt56 folds
+candice92 raises [$500]
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$375]
+goshaal calls [$250]
+** Dealing flop ** [ 8d, 9s, 7c ]
+Illumione bets [$8,876]
+goshaal folds
+candice92 folds
+** Summary **
+Illumione did not show his hand
+Illumione collected [ $1,700 ]
+
+
+
+#Game No : 486867235
+***** 888poker Hand History for Game 486867235 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:25:14
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,332 )
+Seat 2: manhunt56 ( $23,759 )
+Seat 3: candice92 ( $5,080 )
+Seat 5: babyface312 ( $4,942 )
+Seat 6: PapaShango19 ( $27,065 )
+Seat 7: pian76 ( $12,824 )
+Seat 9: Illumione ( $10,576 )
+Seat 10: goshaal ( $27,496 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+goshaal posts small blind [$125]
+robert073 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Jd ]
+manhunt56 folds
+candice92 folds
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$250]
+goshaal folds
+robert073 checks
+** Dealing flop ** [ 4s, 6h, 3h ]
+robert073 bets [$250]
+Illumione calls [$250]
+** Dealing turn ** [ Kd ]
+robert073 bets [$250]
+Illumione calls [$250]
+** Dealing river ** [ Ah ]
+robert073 bets [$6,557]
+Illumione folds
+** Summary **
+robert073 collected [ $1,825 ]
+
+
+
+#Game No : 486867453
+***** 888poker Hand History for Game 486867453 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:26:21
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,382 )
+Seat 2: manhunt56 ( $23,734 )
+Seat 3: candice92 ( $5,055 )
+Seat 4: Erdalalanya ( $14,753 )
+Seat 5: babyface312 ( $4,917 )
+Seat 6: PapaShango19 ( $27,040 )
+Seat 7: pian76 ( $12,799 )
+Seat 9: Illumione ( $9,801 )
+Seat 10: goshaal ( $27,346 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+Erdalalanya posts ante [$25]
+robert073 posts small blind [$125]
+manhunt56 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 2h ]
+candice92 folds
+Erdalalanya calls [$250]
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$250]
+goshaal folds
+robert073 calls [$125]
+manhunt56 checks
+** Dealing flop ** [ 2d, Ac, 8s ]
+robert073 bets [$1,225]
+manhunt56 folds
+Erdalalanya folds
+Illumione calls [$1,225]
+** Dealing turn ** [ Jh ]
+robert073 bets [$3,675]
+Illumione raises [$7,350]
+robert073 calls [$3,207]
+** Dealing river ** [ 7c ]
+** Summary **
+robert073 shows [ As, Jc ]
+Illumione shows [ Js, Ah ]
+Illumione collected [ $8,719 ]
+robert073 collected [ $8,720 ]
+
+
+
+#Game No : 486867632
+***** 888poker Hand History for Game 486867632 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:27:10
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,720 )
+Seat 2: manhunt56 ( $23,459 )
+Seat 3: candice92 ( $5,030 )
+Seat 4: Erdalalanya ( $14,478 )
+Seat 5: babyface312 ( $4,892 )
+Seat 6: PapaShango19 ( $27,015 )
+Seat 7: pian76 ( $12,774 )
+Seat 9: Illumione ( $10,138 )
+Seat 10: goshaal ( $27,321 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+Erdalalanya posts ante [$25]
+manhunt56 posts small blind [$125]
+candice92 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Jd ]
+Erdalalanya calls [$250]
+babyface312 calls [$250]
+PapaShango19 calls [$250]
+pian76 folds
+Illumione calls [$250]
+goshaal folds
+robert073 folds
+manhunt56 calls [$125]
+candice92 checks
+** Dealing flop ** [ 8h, 7c, 4d ]
+manhunt56 checks
+candice92 checks
+Erdalalanya checks
+babyface312 checks
+PapaShango19 checks
+Illumione checks
+** Dealing turn ** [ Ts ]
+manhunt56 checks
+candice92 bets [$862]
+Erdalalanya folds
+babyface312 folds
+PapaShango19 calls [$862]
+Illumione folds
+manhunt56 folds
+** Dealing river ** [ 7h ]
+candice92 checks
+PapaShango19 bets [$1,000]
+candice92 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $3,449 ]
+
+
+
+#Game No : 486867999
+***** 888poker Hand History for Game 486867999 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:28:53
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,695 )
+Seat 2: manhunt56 ( $23,184 )
+Seat 3: candice92 ( $3,893 )
+Seat 4: Erdalalanya ( $14,203 )
+Seat 5: babyface312 ( $4,617 )
+Seat 6: PapaShango19 ( $29,327 )
+Seat 7: pian76 ( $12,749 )
+Seat 9: Illumione ( $9,863 )
+Seat 10: goshaal ( $27,296 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+Erdalalanya posts ante [$25]
+candice92 posts small blind [$125]
+Erdalalanya posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ac ]
+babyface312 raises [$500]
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal folds
+robert073 folds
+manhunt56 folds
+candice92 folds
+Erdalalanya calls [$250]
+** Dealing flop ** [ 6d, Kd, 7c ]
+Erdalalanya checks
+babyface312 bets [$675]
+Erdalalanya calls [$675]
+** Dealing turn ** [ Qd ]
+Erdalalanya checks
+babyface312 checks
+** Dealing river ** [ 3c ]
+Erdalalanya checks
+babyface312 checks
+** Summary **
+Erdalalanya shows [ 7h, 9s ]
+babyface312 mucks [ 6h, Jh ]
+Erdalalanya collected [ $2,700 ]
+
+
+
+#Game No : 486868164
+***** 888poker Hand History for Game 486868164 *****
+$125/$250 Blinds No Limit Holdem - *** 03 12 2014 17:29:37
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,670 )
+Seat 2: manhunt56 ( $23,159 )
+Seat 3: candice92 ( $3,743 )
+Seat 4: Erdalalanya ( $15,703 )
+Seat 5: babyface312 ( $3,417 )
+Seat 6: PapaShango19 ( $29,302 )
+Seat 7: pian76 ( $12,724 )
+Seat 9: Illumione ( $9,838 )
+Seat 10: goshaal ( $27,271 )
+PapaShango19 posts ante [$25]
+pian76 posts ante [$25]
+manhunt56 posts ante [$25]
+Illumione posts ante [$25]
+candice92 posts ante [$25]
+robert073 posts ante [$25]
+goshaal posts ante [$25]
+babyface312 posts ante [$25]
+Erdalalanya posts ante [$25]
+Erdalalanya posts small blind [$125]
+babyface312 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Kc ]
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal folds
+robert073 folds
+manhunt56 raises [$825]
+candice92 folds
+Erdalalanya folds
+babyface312 calls [$575]
+** Dealing flop ** [ 3h, 6d, 7h ]
+babyface312 checks
+manhunt56 bets [$1,000]
+babyface312 calls [$1,000]
+** Dealing turn ** [ Qs ]
+babyface312 checks
+manhunt56 checks
+** Dealing river ** [ 4c ]
+babyface312 bets [$1,567]
+manhunt56 folds
+** Summary **
+babyface312 did not show his hand
+babyface312 collected [ $4,000 ]
+
+
+
+#Game No : 486868354
+***** 888poker Hand History for Game 486868354 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:30:31
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: robert073 ( $8,645 )
+Seat 2: manhunt56 ( $21,309 )
+Seat 3: candice92 ( $3,718 )
+Seat 4: Erdalalanya ( $15,553 )
+Seat 5: babyface312 ( $5,567 )
+Seat 6: PapaShango19 ( $29,277 )
+Seat 7: pian76 ( $12,699 )
+Seat 9: Illumione ( $9,813 )
+Seat 10: goshaal ( $27,246 )
+PapaShango19 posts ante [$30]
+pian76 posts ante [$30]
+manhunt56 posts ante [$30]
+Illumione posts ante [$30]
+candice92 posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+babyface312 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Js ]
+pian76 folds
+Illumione folds
+goshaal folds
+robert073 calls [$300]
+manhunt56 calls [$300]
+candice92 calls [$300]
+Erdalalanya calls [$300]
+babyface312 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ Kh, 8h, Ac ]
+babyface312 bets [$600]
+PapaShango19 folds
+robert073 folds
+manhunt56 folds
+candice92 folds
+Erdalalanya calls [$600]
+** Dealing turn ** [ 9d ]
+babyface312 bets [$900]
+Erdalalanya calls [$900]
+** Dealing river ** [ 3s ]
+babyface312 bets [$2,100]
+Erdalalanya folds
+** Summary **
+babyface312 did not show his hand
+babyface312 collected [ $5,070 ]
+
+
+
+#Game No : 486868617
+***** 888poker Hand History for Game 486868617 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:31:54
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: robert073 ( $8,315 )
+Seat 2: manhunt56 ( $20,979 )
+Seat 3: candice92 ( $3,388 )
+Seat 4: Erdalalanya ( $13,723 )
+Seat 5: babyface312 ( $8,807 )
+Seat 6: PapaShango19 ( $28,947 )
+Seat 9: Illumione ( $9,783 )
+Seat 10: goshaal ( $27,216 )
+PapaShango19 posts ante [$30]
+manhunt56 posts ante [$30]
+Illumione posts ante [$30]
+candice92 posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+PapaShango19 posts small blind [$150]
+Illumione posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 2s ]
+goshaal folds
+robert073 folds
+manhunt56 folds
+candice92 raises [$600]
+Erdalalanya calls [$600]
+babyface312 folds
+PapaShango19 calls [$450]
+Illumione folds
+** Dealing flop ** [ Qd, 6c, Ts ]
+PapaShango19 checks
+candice92 bets [$2,340]
+Erdalalanya folds
+PapaShango19 folds
+** Summary **
+candice92 did not show his hand
+candice92 collected [ $2,340 ]
+
+
+
+#Game No : 486868750
+***** 888poker Hand History for Game 486868750 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:32:34
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: robert073 ( $8,285 )
+Seat 2: manhunt56 ( $20,949 )
+Seat 3: candice92 ( $5,098 )
+Seat 4: Erdalalanya ( $13,093 )
+Seat 5: babyface312 ( $8,777 )
+Seat 6: PapaShango19 ( $28,317 )
+Seat 9: Illumione ( $9,453 )
+Seat 10: goshaal ( $27,186 )
+PapaShango19 posts ante [$30]
+manhunt56 posts ante [$30]
+Illumione posts ante [$30]
+candice92 posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+Illumione posts small blind [$150]
+goshaal posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Tc ]
+robert073 folds
+manhunt56 calls [$300]
+candice92 calls [$300]
+Erdalalanya calls [$300]
+babyface312 calls [$300]
+PapaShango19 folds
+Illumione folds
+goshaal checks
+** Dealing flop ** [ 7s, Jh, 6s ]
+goshaal checks
+manhunt56 checks
+candice92 bets [$945]
+Erdalalanya folds
+babyface312 calls [$945]
+goshaal folds
+manhunt56 folds
+** Dealing turn ** [ 2c ]
+candice92 bets [$1,890]
+babyface312 calls [$1,890]
+** Dealing river ** [ 8c ]
+candice92 bets [$1,933]
+babyface312 calls [$1,933]
+** Summary **
+candice92 shows [ Kd, Js ]
+babyface312 shows [ 9h, 8s ]
+candice92 collected [ $11,426 ]
+
+
+
+#Game No : 486869010
+***** 888poker Hand History for Game 486869010 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:34:02
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: robert073 ( $8,255 )
+Seat 2: manhunt56 ( $20,619 )
+Seat 3: candice92 ( $11,426 )
+Seat 4: Erdalalanya ( $12,763 )
+Seat 5: babyface312 ( $3,679 )
+Seat 6: PapaShango19 ( $28,287 )
+Seat 9: Illumione ( $9,273 )
+Seat 10: goshaal ( $26,856 )
+PapaShango19 posts ante [$30]
+manhunt56 posts ante [$30]
+Illumione posts ante [$30]
+candice92 posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+goshaal posts small blind [$150]
+robert073 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 5s ]
+manhunt56 folds
+candice92 folds
+Erdalalanya calls [$300]
+babyface312 folds
+PapaShango19 folds
+Illumione folds
+goshaal calls [$150]
+robert073 checks
+** Dealing flop ** [ 7s, 9d, Tc ]
+goshaal bets [$1,140]
+robert073 folds
+Erdalalanya folds
+** Summary **
+goshaal collected [ $1,140 ]
+
+
+
+#Game No : 486869147
+***** 888poker Hand History for Game 486869147 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:34:41
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: robert073 ( $7,925 )
+Seat 2: manhunt56 ( $20,589 )
+Seat 3: candice92 ( $11,396 )
+Seat 4: Erdalalanya ( $12,433 )
+Seat 5: babyface312 ( $3,649 )
+Seat 6: PapaShango19 ( $28,257 )
+Seat 7: pian76 ( $12,129 )
+Seat 9: Illumione ( $9,243 )
+Seat 10: goshaal ( $27,666 )
+PapaShango19 posts ante [$30]
+manhunt56 posts ante [$30]
+Illumione posts ante [$30]
+candice92 posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+pian76 posts ante [$30]
+robert073 posts small blind [$150]
+manhunt56 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Kd ]
+candice92 raises [$660]
+Erdalalanya folds
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal raises [$3,300]
+robert073 folds
+manhunt56 folds
+candice92 raises [$10,706]
+goshaal calls [$8,066]
+** Dealing flop ** [ Ts, 8h, Td ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 5s ]
+** Summary **
+candice92 shows [ Qh, Qd ]
+goshaal shows [ Kc, Ks ]
+goshaal collected [ $23,452 ]
+
+
+
+#Game No : 486869351
+***** 888poker Hand History for Game 486869351 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:35:39
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,745 )
+Seat 2: manhunt56 ( $20,259 )
+Seat 4: Erdalalanya ( $12,403 )
+Seat 5: babyface312 ( $3,619 )
+Seat 6: PapaShango19 ( $28,227 )
+Seat 7: pian76 ( $12,099 )
+Seat 9: Illumione ( $9,213 )
+Seat 10: goshaal ( $39,722 )
+PapaShango19 posts ante [$30]
+manhunt56 posts ante [$30]
+Illumione posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+pian76 posts ante [$30]
+manhunt56 posts small blind [$150]
+Erdalalanya posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 6s ]
+babyface312 raises [$3,589]
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal folds
+robert073 folds
+manhunt56 folds
+Erdalalanya folds
+** Summary **
+babyface312 did not show his hand
+babyface312 collected [ $990 ]
+
+
+
+#Game No : 486869446
+***** 888poker Hand History for Game 486869446 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:36:08
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,715 )
+Seat 2: manhunt56 ( $20,079 )
+Seat 4: Erdalalanya ( $12,073 )
+Seat 5: babyface312 ( $4,279 )
+Seat 6: PapaShango19 ( $28,197 )
+Seat 7: pian76 ( $12,069 )
+Seat 9: Illumione ( $9,183 )
+Seat 10: goshaal ( $39,692 )
+PapaShango19 posts ante [$30]
+manhunt56 posts ante [$30]
+Illumione posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+pian76 posts ante [$30]
+Erdalalanya posts small blind [$150]
+babyface312 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Kd ]
+PapaShango19 raises [$750]
+pian76 raises [$1,800]
+Illumione folds
+goshaal folds
+robert073 folds
+manhunt56 raises [$3,420]
+Erdalalanya folds
+babyface312 folds
+PapaShango19 calls [$2,670]
+pian76 calls [$1,620]
+** Dealing flop ** [ 7c, Jc, Ah ]
+PapaShango19 bets [$8,212]
+pian76 raises [$8,619]
+manhunt56 raises [$16,629]
+PapaShango19 calls [$8,417]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 2d ]
+** Summary **
+manhunt56 shows [ Qc, As ]
+PapaShango19 shows [ Ad, Kd ]
+pian76 shows [ Ac, Kh ]
+PapaShango19 collected [ $18,404 ]
+pian76 collected [ $18,403 ]
+PapaShango19 collected [ $16,020 ]
+
+
+
+#Game No : 486869674
+***** 888poker Hand History for Game 486869674 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:37:19
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: robert073 ( $7,685 )
+Seat 4: Erdalalanya ( $11,893 )
+Seat 5: babyface312 ( $3,949 )
+Seat 6: PapaShango19 ( $42,542 )
+Seat 7: pian76 ( $18,403 )
+Seat 9: Illumione ( $9,153 )
+Seat 10: goshaal ( $39,662 )
+PapaShango19 posts ante [$30]
+Illumione posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+pian76 posts ante [$30]
+babyface312 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 5s ]
+pian76 folds
+Illumione folds
+goshaal folds
+robert073 calls [$300]
+Erdalalanya calls [$300]
+babyface312 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ 2h, 8s, 9h ]
+babyface312 bets [$600]
+PapaShango19 calls [$600]
+robert073 folds
+Erdalalanya folds
+** Dealing turn ** [ 9c ]
+babyface312 bets [$600]
+PapaShango19 calls [$600]
+** Dealing river ** [ 8c ]
+babyface312 bets [$2,419]
+PapaShango19 calls [$2,419]
+** Summary **
+babyface312 shows [ 9d, 6h ]
+PapaShango19 shows [ 8d, 5s ]
+babyface312 collected [ $8,648 ]
+
+
+
+#Game No : 486869926
+***** 888poker Hand History for Game 486869926 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:38:28
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: robert073 ( $7,355 )
+Seat 4: Erdalalanya ( $11,563 )
+Seat 5: babyface312 ( $8,648 )
+Seat 6: PapaShango19 ( $38,593 )
+Seat 7: pian76 ( $18,373 )
+Seat 9: Illumione ( $9,123 )
+Seat 10: goshaal ( $39,632 )
+PapaShango19 posts ante [$30]
+Illumione posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+pian76 posts ante [$30]
+PapaShango19 posts small blind [$150]
+pian76 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 8h ]
+Illumione folds
+goshaal folds
+robert073 folds
+Erdalalanya calls [$300]
+babyface312 calls [$300]
+PapaShango19 raises [$1,050]
+pian76 calls [$900]
+Erdalalanya calls [$900]
+babyface312 calls [$900]
+** Dealing flop ** [ Ad, 7d, 5c ]
+PapaShango19 bets [$2,205]
+pian76 calls [$2,205]
+Erdalalanya folds
+babyface312 folds
+** Dealing turn ** [ 9s ]
+PapaShango19 checks
+pian76 bets [$4,800]
+PapaShango19 folds
+** Summary **
+pian76 collected [ $9,420 ]
+
+
+
+#Game No : 486870203
+***** 888poker Hand History for Game 486870203 *****
+$150/$300 Blinds No Limit Holdem - *** 03 12 2014 17:39:49
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,325 )
+Seat 2: lailai23love ( $13,912 )
+Seat 4: Erdalalanya ( $10,333 )
+Seat 5: babyface312 ( $7,418 )
+Seat 6: PapaShango19 ( $35,158 )
+Seat 7: pian76 ( $24,358 )
+Seat 9: Illumione ( $9,093 )
+Seat 10: goshaal ( $39,602 )
+PapaShango19 posts ante [$30]
+Illumione posts ante [$30]
+robert073 posts ante [$30]
+goshaal posts ante [$30]
+babyface312 posts ante [$30]
+Erdalalanya posts ante [$30]
+pian76 posts ante [$30]
+lailai23love posts ante [$30]
+pian76 posts small blind [$150]
+Illumione posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 8s ]
+goshaal folds
+robert073 folds
+lailai23love folds
+Erdalalanya folds
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+** Summary **
+Illumione did not show his hand
+Illumione collected [ $690 ]
+
+
+
+#Game No : 486870289
+***** 888poker Hand History for Game 486870289 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:40:19
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,295 )
+Seat 2: lailai23love ( $13,882 )
+Seat 4: Erdalalanya ( $10,303 )
+Seat 5: babyface312 ( $7,388 )
+Seat 6: PapaShango19 ( $35,128 )
+Seat 7: pian76 ( $24,178 )
+Seat 9: Illumione ( $9,453 )
+Seat 10: goshaal ( $39,572 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+Illumione posts small blind [$200]
+goshaal posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 4c ]
+robert073 folds
+lailai23love raises [$800]
+Erdalalanya folds
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal calls [$400]
+** Dealing flop ** [ Jd, 4s, 9c ]
+goshaal bets [$1,060]
+lailai23love folds
+** Summary **
+goshaal did not show his hand
+goshaal collected [ $2,120 ]
+
+
+
+#Game No : 486870402
+***** 888poker Hand History for Game 486870402 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:40:52
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: robert073 ( $7,255 )
+Seat 2: lailai23love ( $13,042 )
+Seat 4: Erdalalanya ( $10,263 )
+Seat 5: babyface312 ( $7,348 )
+Seat 6: PapaShango19 ( $35,088 )
+Seat 7: pian76 ( $24,138 )
+Seat 9: Illumione ( $9,213 )
+Seat 10: goshaal ( $40,852 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+goshaal posts small blind [$200]
+robert073 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 8d ]
+lailai23love folds
+Erdalalanya calls [$400]
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal calls [$200]
+robert073 checks
+** Dealing flop ** [ 8c, Qh, Td ]
+goshaal checks
+robert073 checks
+Erdalalanya checks
+** Dealing turn ** [ 7c ]
+goshaal bets [$400]
+robert073 folds
+Erdalalanya calls [$400]
+** Dealing river ** [ Ah ]
+goshaal checks
+Erdalalanya checks
+** Summary **
+goshaal shows [ Th, 4h ]
+Erdalalanya shows [ Jh, Qd ]
+Erdalalanya collected [ $2,320 ]
+
+
+
+#Game No : 486870634
+***** 888poker Hand History for Game 486870634 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:42:00
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: robert073 ( $6,815 )
+Seat 2: lailai23love ( $13,002 )
+Seat 4: Erdalalanya ( $11,743 )
+Seat 5: babyface312 ( $7,308 )
+Seat 6: PapaShango19 ( $35,048 )
+Seat 7: pian76 ( $24,098 )
+Seat 9: Illumione ( $9,173 )
+Seat 10: goshaal ( $40,012 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+robert073 posts small blind [$200]
+lailai23love posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Js ]
+Erdalalanya folds
+babyface312 folds
+PapaShango19 folds
+pian76 folds
+Illumione calls [$400]
+goshaal folds
+robert073 folds
+lailai23love checks
+** Dealing flop ** [ Qd, Td, Kh ]
+lailai23love checks
+Illumione bets [$1,600]
+lailai23love folds
+** Summary **
+Illumione collected [ $1,320 ]
+
+
+
+#Game No : 486870798
+***** 888poker Hand History for Game 486870798 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:42:47
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: robert073 ( $6,575 )
+Seat 2: lailai23love ( $12,562 )
+Seat 3: PokerNarbz ( $11,782 )
+Seat 4: Erdalalanya ( $11,703 )
+Seat 5: babyface312 ( $7,268 )
+Seat 6: PapaShango19 ( $35,008 )
+Seat 7: pian76 ( $24,058 )
+Seat 9: Illumione ( $10,053 )
+Seat 10: goshaal ( $39,972 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+PokerNarbz posts ante [$40]
+lailai23love posts small blind [$200]
+PokerNarbz posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ad ]
+Erdalalanya calls [$400]
+babyface312 folds
+PapaShango19 calls [$400]
+pian76 folds
+Illumione calls [$400]
+goshaal folds
+robert073 folds
+lailai23love raises [$12,322]
+PokerNarbz folds
+Erdalalanya folds
+PapaShango19 folds
+Illumione folds
+** Summary **
+lailai23love did not show his hand
+lailai23love collected [ $2,360 ]
+
+
+
+#Game No : 486870914
+***** 888poker Hand History for Game 486870914 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:43:28
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: robert073 ( $6,535 )
+Seat 2: lailai23love ( $14,482 )
+Seat 3: PokerNarbz ( $11,342 )
+Seat 4: Erdalalanya ( $11,263 )
+Seat 5: babyface312 ( $7,228 )
+Seat 6: PapaShango19 ( $34,568 )
+Seat 7: pian76 ( $24,018 )
+Seat 9: Illumione ( $9,613 )
+Seat 10: goshaal ( $39,932 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+PokerNarbz posts ante [$40]
+PokerNarbz posts small blind [$200]
+Erdalalanya posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 4s ]
+babyface312 calls [$400]
+PapaShango19 folds
+pian76 folds
+Illumione folds
+goshaal folds
+robert073 folds
+lailai23love folds
+PokerNarbz calls [$200]
+Erdalalanya checks
+** Dealing flop ** [ 5s, 2c, 2d ]
+PokerNarbz checks
+Erdalalanya checks
+babyface312 checks
+** Dealing turn ** [ 4d ]
+PokerNarbz bets [$1,170]
+Erdalalanya folds
+babyface312 folds
+** Summary **
+PokerNarbz did not show his hand
+PokerNarbz collected [ $1,560 ]
+
+
+
+#Game No : 486871102
+***** 888poker Hand History for Game 486871102 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:44:27
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: robert073 ( $6,495 )
+Seat 2: lailai23love ( $14,442 )
+Seat 3: PokerNarbz ( $12,462 )
+Seat 4: Erdalalanya ( $10,823 )
+Seat 5: babyface312 ( $6,788 )
+Seat 6: PapaShango19 ( $34,528 )
+Seat 7: pian76 ( $23,978 )
+Seat 9: Illumione ( $9,573 )
+Seat 10: goshaal ( $39,892 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+PokerNarbz posts ante [$40]
+Erdalalanya posts small blind [$200]
+babyface312 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5c ]
+PapaShango19 calls [$400]
+pian76 folds
+Illumione calls [$400]
+goshaal folds
+robert073 folds
+lailai23love folds
+PokerNarbz folds
+Erdalalanya calls [$200]
+babyface312 checks
+** Dealing flop ** [ 9d, 6s, 2h ]
+Erdalalanya checks
+babyface312 bets [$400]
+PapaShango19 folds
+Illumione folds
+Erdalalanya calls [$400]
+** Dealing turn ** [ 2c ]
+Erdalalanya checks
+babyface312 bets [$800]
+Erdalalanya calls [$800]
+** Dealing river ** [ 7c ]
+Erdalalanya checks
+babyface312 checks
+** Summary **
+Erdalalanya shows [ 6h, Th ]
+babyface312 mucks [ As, Qh ]
+Erdalalanya collected [ $4,360 ]
+
+
+
+#Game No : 486871259
+***** 888poker Hand History for Game 486871259 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:45:17
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: robert073 ( $6,455 )
+Seat 2: lailai23love ( $14,402 )
+Seat 3: PokerNarbz ( $12,422 )
+Seat 4: Erdalalanya ( $13,543 )
+Seat 5: babyface312 ( $5,148 )
+Seat 6: PapaShango19 ( $34,088 )
+Seat 7: pian76 ( $23,938 )
+Seat 9: Illumione ( $9,133 )
+Seat 10: goshaal ( $39,852 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+PokerNarbz posts ante [$40]
+babyface312 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Ad ]
+pian76 folds
+Illumione calls [$400]
+goshaal folds
+robert073 folds
+lailai23love raises [$1,289]
+PokerNarbz folds
+Erdalalanya folds
+babyface312 folds
+PapaShango19 calls [$889]
+Illumione folds
+** Dealing flop ** [ As, 4d, Ah ]
+PapaShango19 checks
+lailai23love bets [$1,769]
+PapaShango19 calls [$1,769]
+** Dealing turn ** [ 3c ]
+PapaShango19 bets [$1,200]
+lailai23love calls [$1,200]
+** Dealing river ** [ 5c ]
+PapaShango19 bets [$2,000]
+lailai23love calls [$2,000]
+** Summary **
+PapaShango19 shows [ Jh, Ad ]
+lailai23love mucks [ Jd, Js ]
+PapaShango19 collected [ $13,476 ]
+
+
+
+#Game No : 486871508
+***** 888poker Hand History for Game 486871508 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:46:28
+Tournament #64032475 $1.10 + $0.15 - Table #24 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: robert073 ( $6,415 )
+Seat 2: lailai23love ( $8,104 )
+Seat 3: PokerNarbz ( $12,382 )
+Seat 4: Erdalalanya ( $13,503 )
+Seat 5: babyface312 ( $4,908 )
+Seat 6: PapaShango19 ( $41,266 )
+Seat 7: pian76 ( $23,898 )
+Seat 9: Illumione ( $8,693 )
+Seat 10: goshaal ( $39,812 )
+PapaShango19 posts ante [$40]
+Illumione posts ante [$40]
+robert073 posts ante [$40]
+goshaal posts ante [$40]
+babyface312 posts ante [$40]
+Erdalalanya posts ante [$40]
+pian76 posts ante [$40]
+lailai23love posts ante [$40]
+PokerNarbz posts ante [$40]
+PapaShango19 posts small blind [$200]
+pian76 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 4s ]
+Illumione raises [$800]
+goshaal folds
+robert073 folds
+lailai23love folds
+PokerNarbz folds
+Erdalalanya calls [$800]
+babyface312 folds
+PapaShango19 calls [$600]
+pian76 folds
+** Dealing flop ** [ 9d, 9h, 5s ]
+PapaShango19 checks
+Illumione checks
+Erdalalanya checks
+** Dealing turn ** [ 5h ]
+PapaShango19 bets [$800]
+Illumione calls [$800]
+Erdalalanya calls [$800]
+** Dealing river ** [ Js ]
+PapaShango19 checks
+Illumione checks
+Erdalalanya checks
+** Summary **
+PapaShango19 shows [ 4c, 4s ]
+Illumione shows [ Qh, Ad ]
+Erdalalanya shows [ 7d, 7h ]
+Erdalalanya collected [ $5,560 ]
+
+
+
+#Game No : 486871792
+***** 888poker Hand History for Game 486871792 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:47:34
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $39,626 )
+Seat 3: ghostyrob15 ( $94,505 )
+Seat 4: Korporejszyn ( $5,270 )
+Seat 5: garyb9 ( $10,878 )
+Seat 6: MurXxer ( $53,683 )
+Seat 7: Foldperson22 ( $3,165 )
+Seat 9: pkg7777 ( $9,715 )
+Seat 10: toliy2255405 ( $32,051 )
+garyb9 posts ante [$40]
+toliy2255405 posts ante [$40]
+MurXxer posts ante [$40]
+Korporejszyn posts ante [$40]
+ghostyrob15 posts ante [$40]
+Foldperson22 posts ante [$40]
+pkg7777 posts ante [$40]
+PapaShango19 posts ante [$40]
+Korporejszyn posts small blind [$200]
+garyb9 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8h ]
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 calls [$400]
+PapaShango19 folds
+ghostyrob15 calls [$400]
+Korporejszyn calls [$200]
+garyb9 checks
+** Dealing flop ** [ Kh, 8s, 7d ]
+Korporejszyn checks
+garyb9 checks
+toliy2255405 checks
+ghostyrob15 bets [$1,920]
+Korporejszyn folds
+garyb9 folds
+toliy2255405 calls [$1,920]
+** Dealing turn ** [ As ]
+toliy2255405 checks
+ghostyrob15 bets [$2,880]
+toliy2255405 calls [$2,880]
+** Dealing river ** [ 2h ]
+toliy2255405 checks
+ghostyrob15 checks
+** Summary **
+toliy2255405 shows [ Kd, 5d ]
+ghostyrob15 shows [ Ks, Qd ]
+ghostyrob15 collected [ $11,520 ]
+
+
+
+#Game No : 486872046
+***** 888poker Hand History for Game 486872046 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:48:35
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $39,586 )
+Seat 3: ghostyrob15 ( $100,785 )
+Seat 4: Korporejszyn ( $4,830 )
+Seat 5: garyb9 ( $10,438 )
+Seat 6: MurXxer ( $53,643 )
+Seat 7: Foldperson22 ( $3,125 )
+Seat 9: pkg7777 ( $9,675 )
+Seat 10: toliy2255405 ( $26,811 )
+garyb9 posts ante [$40]
+toliy2255405 posts ante [$40]
+MurXxer posts ante [$40]
+Korporejszyn posts ante [$40]
+ghostyrob15 posts ante [$40]
+Foldperson22 posts ante [$40]
+pkg7777 posts ante [$40]
+PapaShango19 posts ante [$40]
+garyb9 posts small blind [$200]
+MurXxer posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 3s ]
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 calls [$400]
+PapaShango19 folds
+ghostyrob15 calls [$400]
+Korporejszyn folds
+garyb9 folds
+MurXxer checks
+** Dealing flop ** [ Ac, 7d, 5d ]
+MurXxer checks
+toliy2255405 bets [$400]
+ghostyrob15 calls [$400]
+MurXxer folds
+** Dealing turn ** [ 3h ]
+toliy2255405 checks
+ghostyrob15 bets [$400]
+toliy2255405 calls [$400]
+** Dealing river ** [ 4c ]
+toliy2255405 bets [$400]
+ghostyrob15 raises [$14,800]
+toliy2255405 calls [$14,400]
+** Summary **
+ghostyrob15 shows [ 7c, 6h ]
+toliy2255405 mucks [ As, 8c ]
+ghostyrob15 collected [ $32,920 ]
+
+
+
+#Game No : 486872332
+***** 888poker Hand History for Game 486872332 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:49:49
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $39,546 )
+Seat 3: ghostyrob15 ( $117,665 )
+Seat 4: Korporejszyn ( $4,790 )
+Seat 5: garyb9 ( $10,198 )
+Seat 6: MurXxer ( $53,203 )
+Seat 7: Foldperson22 ( $3,085 )
+Seat 9: pkg7777 ( $9,635 )
+Seat 10: toliy2255405 ( $10,771 )
+garyb9 posts ante [$40]
+toliy2255405 posts ante [$40]
+MurXxer posts ante [$40]
+Korporejszyn posts ante [$40]
+ghostyrob15 posts ante [$40]
+Foldperson22 posts ante [$40]
+pkg7777 posts ante [$40]
+PapaShango19 posts ante [$40]
+MurXxer posts small blind [$200]
+Foldperson22 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 6c ]
+pkg7777 raises [$800]
+toliy2255405 folds
+PapaShango19 folds
+ghostyrob15 folds
+Korporejszyn folds
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+** Summary **
+pkg7777 did not show his hand
+pkg7777 collected [ $1,320 ]
+
+
+
+#Game No : 486872425
+***** 888poker Hand History for Game 486872425 *****
+$200/$400 Blinds No Limit Holdem - *** 03 12 2014 17:50:08
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $39,506 )
+Seat 3: ghostyrob15 ( $117,625 )
+Seat 4: Korporejszyn ( $4,750 )
+Seat 5: garyb9 ( $10,158 )
+Seat 6: MurXxer ( $52,963 )
+Seat 7: Foldperson22 ( $2,645 )
+Seat 9: pkg7777 ( $10,515 )
+Seat 10: toliy2255405 ( $10,731 )
+garyb9 posts ante [$40]
+toliy2255405 posts ante [$40]
+MurXxer posts ante [$40]
+Korporejszyn posts ante [$40]
+ghostyrob15 posts ante [$40]
+Foldperson22 posts ante [$40]
+pkg7777 posts ante [$40]
+PapaShango19 posts ante [$40]
+Foldperson22 posts small blind [$200]
+pkg7777 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Qd ]
+toliy2255405 calls [$400]
+PapaShango19 folds
+ghostyrob15 raises [$800]
+Korporejszyn folds
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 calls [$400]
+** Dealing flop ** [ 5h, 4d, 4c ]
+toliy2255405 checks
+ghostyrob15 checks
+** Dealing turn ** [ Th ]
+toliy2255405 checks
+ghostyrob15 checks
+** Dealing river ** [ 5c ]
+toliy2255405 checks
+ghostyrob15 checks
+** Summary **
+toliy2255405 shows [ Qc, 7c ]
+ghostyrob15 shows [ Kc, Jc ]
+ghostyrob15 collected [ $2,520 ]
+
+
+
+#Game No : 486872592
+***** 888poker Hand History for Game 486872592 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 17:50:49
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $39,466 )
+Seat 3: ghostyrob15 ( $119,305 )
+Seat 4: Korporejszyn ( $4,710 )
+Seat 5: garyb9 ( $10,118 )
+Seat 6: MurXxer ( $52,923 )
+Seat 7: Foldperson22 ( $2,405 )
+Seat 9: pkg7777 ( $10,075 )
+Seat 10: toliy2255405 ( $9,891 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+Korporejszyn posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+pkg7777 posts small blind [$300]
+toliy2255405 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8h ]
+PapaShango19 folds
+ghostyrob15 calls [$600]
+Korporejszyn folds
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 checks
+** Dealing flop ** [ 3c, Js, Kc ]
+toliy2255405 checks
+ghostyrob15 bets [$1,980]
+toliy2255405 calls [$1,980]
+** Dealing turn ** [ 5c ]
+toliy2255405 checks
+ghostyrob15 bets [$5,940]
+toliy2255405 folds
+** Summary **
+ghostyrob15 did not show his hand
+ghostyrob15 collected [ $5,940 ]
+
+
+
+#Game No : 486872776
+***** 888poker Hand History for Game 486872776 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 17:51:34
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $39,406 )
+Seat 3: ghostyrob15 ( $122,605 )
+Seat 4: Korporejszyn ( $4,650 )
+Seat 5: garyb9 ( $10,058 )
+Seat 6: MurXxer ( $52,863 )
+Seat 7: Foldperson22 ( $2,345 )
+Seat 9: pkg7777 ( $9,715 )
+Seat 10: toliy2255405 ( $7,251 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+Korporejszyn posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+toliy2255405 posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 7s ]
+ghostyrob15 calls [$600]
+Korporejszyn folds
+garyb9 calls [$600]
+MurXxer calls [$600]
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 folds
+PapaShango19 checks
+** Dealing flop ** [ 8h, 6h, Qh ]
+PapaShango19 checks
+ghostyrob15 checks
+garyb9 checks
+MurXxer bets [$2,400]
+PapaShango19 folds
+ghostyrob15 folds
+garyb9 folds
+** Summary **
+MurXxer did not show his hand
+MurXxer collected [ $3,180 ]
+
+
+
+#Game No : 486872966
+***** 888poker Hand History for Game 486872966 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 17:52:18
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $38,746 )
+Seat 3: ghostyrob15 ( $121,945 )
+Seat 4: Korporejszyn ( $4,590 )
+Seat 5: garyb9 ( $9,398 )
+Seat 6: MurXxer ( $55,383 )
+Seat 7: Foldperson22 ( $2,285 )
+Seat 9: pkg7777 ( $9,655 )
+Seat 10: toliy2255405 ( $6,891 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+Korporejszyn posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+PapaShango19 posts small blind [$300]
+ghostyrob15 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5h ]
+Korporejszyn folds
+garyb9 calls [$600]
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 folds
+PapaShango19 calls [$300]
+ghostyrob15 checks
+** Dealing flop ** [ Jh, Ac, 2d ]
+PapaShango19 checks
+ghostyrob15 bets [$600]
+garyb9 raises [$8,738]
+PapaShango19 folds
+ghostyrob15 folds
+** Summary **
+garyb9 did not show his hand
+garyb9 collected [ $3,480 ]
+
+
+
+#Game No : 486873129
+***** 888poker Hand History for Game 486873129 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 17:52:57
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $38,086 )
+Seat 3: ghostyrob15 ( $120,685 )
+Seat 4: Korporejszyn ( $4,530 )
+Seat 5: garyb9 ( $11,618 )
+Seat 6: MurXxer ( $55,323 )
+Seat 7: Foldperson22 ( $2,225 )
+Seat 9: pkg7777 ( $9,595 )
+Seat 10: toliy2255405 ( $6,831 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+Korporejszyn posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+ghostyrob15 posts small blind [$300]
+Korporejszyn posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 6c ]
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 raises [$1,200]
+toliy2255405 folds
+PapaShango19 folds
+ghostyrob15 calls [$900]
+Korporejszyn raises [$3,870]
+pkg7777 folds
+ghostyrob15 calls [$3,270]
+** Dealing flop ** [ As, 6s, Ts ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ Qh ]
+** Summary **
+ghostyrob15 shows [ Kh, Js ]
+Korporejszyn shows [ Jc, Jh ]
+ghostyrob15 collected [ $10,620 ]
+
+
+
+#Game No : 486873287
+***** 888poker Hand History for Game 486873287 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 17:53:34
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $38,026 )
+Seat 3: ghostyrob15 ( $126,775 )
+Seat 5: garyb9 ( $11,558 )
+Seat 6: MurXxer ( $55,263 )
+Seat 7: Foldperson22 ( $2,165 )
+Seat 9: pkg7777 ( $8,335 )
+Seat 10: toliy2255405 ( $6,771 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+garyb9 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+MurXxer folds
+Foldperson22 raises [$2,105]
+pkg7777 folds
+toliy2255405 calls [$2,105]
+PapaShango19 folds
+ghostyrob15 calls [$2,105]
+garyb9 folds
+** Dealing flop ** [ 3s, 6s, 3c ]
+toliy2255405 checks
+ghostyrob15 checks
+** Dealing turn ** [ 6c ]
+toliy2255405 checks
+ghostyrob15 bets [$7,335]
+toliy2255405 folds
+** Dealing river ** [ 9s ]
+** Summary **
+ghostyrob15 shows [ Ad, Ts ]
+Foldperson22 shows [ 5c, Ac ]
+ghostyrob15 collected [ $3,667 ]
+Foldperson22 collected [ $3,668 ]
+
+
+
+#Game No : 486873544
+***** 888poker Hand History for Game 486873544 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 17:54:30
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $37,966 )
+Seat 3: ghostyrob15 ( $128,277 )
+Seat 5: garyb9 ( $10,898 )
+Seat 6: MurXxer ( $55,203 )
+Seat 7: Foldperson22 ( $3,668 )
+Seat 9: pkg7777 ( $8,275 )
+Seat 10: toliy2255405 ( $4,606 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+garyb9 posts small blind [$300]
+MurXxer posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 9d ]
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 folds
+PapaShango19 raises [$1,200]
+ghostyrob15 calls [$1,200]
+garyb9 folds
+MurXxer raises [$3,600]
+PapaShango19 calls [$3,000]
+ghostyrob15 folds
+** Dealing flop ** [ 3s, Td, 2h ]
+MurXxer bets [$6,200]
+PapaShango19 folds
+** Summary **
+MurXxer collected [ $10,320 ]
+
+
+
+#Game No : 486875093
+***** 888poker Hand History for Game 486875093 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 17:59:58
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $33,706 )
+Seat 2: Neverhood007 ( $14,421 )
+Seat 3: ghostyrob15 ( $127,017 )
+Seat 4: pkokofmalddy ( $6,740 )
+Seat 5: garyb9 ( $10,538 )
+Seat 6: MurXxer ( $61,263 )
+Seat 7: Foldperson22 ( $3,608 )
+Seat 9: pkg7777 ( $8,215 )
+Seat 10: toliy2255405 ( $4,546 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+MurXxer posts small blind [$300]
+Foldperson22 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 9c ]
+pkg7777 folds
+toliy2255405 calls [$600]
+PapaShango19 folds
+Neverhood007 raises [$1,620]
+ghostyrob15 folds
+pkokofmalddy folds
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+toliy2255405 calls [$1,020]
+** Dealing flop ** [ 6h, Js, 5d ]
+toliy2255405 checks
+Neverhood007 bets [$4,680]
+toliy2255405 calls [$2,866]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 3d ]
+** Summary **
+Neverhood007 shows [ As, Ac ]
+toliy2255405 shows [ Qd, Jd ]
+toliy2255405 collected [ $10,412 ]
+
+
+
+#Game No : 486875447
+***** 888poker Hand History for Game 486875447 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:01:00
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $33,646 )
+Seat 2: Neverhood007 ( $9,875 )
+Seat 3: ghostyrob15 ( $126,957 )
+Seat 4: pkokofmalddy ( $6,680 )
+Seat 5: garyb9 ( $10,478 )
+Seat 6: MurXxer ( $60,903 )
+Seat 7: Foldperson22 ( $2,948 )
+Seat 9: pkg7777 ( $8,155 )
+Seat 10: toliy2255405 ( $10,412 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+Foldperson22 posts small blind [$300]
+pkg7777 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 4s ]
+toliy2255405 folds
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 calls [$600]
+pkokofmalddy raises [$6,620]
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+ghostyrob15 folds
+** Summary **
+pkokofmalddy did not show his hand
+pkokofmalddy collected [ $2,640 ]
+
+
+
+#Game No : 486875609
+***** 888poker Hand History for Game 486875609 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:01:30
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $33,586 )
+Seat 2: Neverhood007 ( $9,815 )
+Seat 3: ghostyrob15 ( $126,297 )
+Seat 4: pkokofmalddy ( $8,660 )
+Seat 5: garyb9 ( $10,418 )
+Seat 6: MurXxer ( $60,843 )
+Seat 7: Foldperson22 ( $2,588 )
+Seat 9: pkg7777 ( $7,495 )
+Seat 10: toliy2255405 ( $10,352 )
+garyb9 posts ante [$60]
+toliy2255405 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+pkg7777 posts small blind [$300]
+toliy2255405 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Ad ]
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 raises [$1,200]
+pkokofmalddy folds
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+toliy2255405 calls [$600]
+** Dealing flop ** [ 3h, Kd, 5d ]
+toliy2255405 checks
+ghostyrob15 bets [$3,240]
+toliy2255405 calls [$3,240]
+** Dealing turn ** [ Ac ]
+toliy2255405 checks
+ghostyrob15 bets [$9,720]
+toliy2255405 calls [$5,852]
+** Dealing river ** [ 8c ]
+** Summary **
+ghostyrob15 shows [ Ah, Ts ]
+toliy2255405 shows [ 3d, Jd ]
+ghostyrob15 collected [ $21,424 ]
+
+
+
+#Game No : 486875839
+***** 888poker Hand History for Game 486875839 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:02:20
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $33,526 )
+Seat 2: Neverhood007 ( $9,755 )
+Seat 3: ghostyrob15 ( $137,369 )
+Seat 4: pkokofmalddy ( $8,600 )
+Seat 5: garyb9 ( $10,358 )
+Seat 6: MurXxer ( $60,783 )
+Seat 7: Foldperson22 ( $2,528 )
+Seat 9: pkg7777 ( $7,135 )
+garyb9 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 2d ]
+Neverhood007 folds
+ghostyrob15 folds
+pkokofmalddy folds
+garyb9 raises [$10,298]
+MurXxer folds
+Foldperson22 calls [$2,468]
+pkg7777 folds
+PapaShango19 folds
+** Dealing flop ** [ Qc, 4c, 6s ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Ks ]
+** Summary **
+garyb9 shows [ Ad, Qd ]
+Foldperson22 shows [ 4d, 4h ]
+Foldperson22 collected [ $6,016 ]
+
+
+
+#Game No : 486876031
+***** 888poker Hand History for Game 486876031 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:02:57
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $32,866 )
+Seat 2: Neverhood007 ( $9,695 )
+Seat 3: ghostyrob15 ( $137,309 )
+Seat 4: pkokofmalddy ( $8,540 )
+Seat 5: garyb9 ( $7,830 )
+Seat 6: MurXxer ( $60,723 )
+Seat 7: Foldperson22 ( $6,016 )
+Seat 9: pkg7777 ( $7,075 )
+garyb9 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+PapaShango19 posts small blind [$300]
+Neverhood007 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Kh ]
+ghostyrob15 folds
+pkokofmalddy folds
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 raises [$7,015]
+PapaShango19 folds
+Neverhood007 folds
+** Summary **
+pkg7777 did not show his hand
+pkg7777 collected [ $1,980 ]
+
+
+
+#Game No : 486876112
+***** 888poker Hand History for Game 486876112 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:03:16
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $32,506 )
+Seat 2: Neverhood007 ( $9,035 )
+Seat 3: ghostyrob15 ( $137,249 )
+Seat 4: pkokofmalddy ( $8,480 )
+Seat 5: garyb9 ( $7,770 )
+Seat 6: MurXxer ( $60,663 )
+Seat 7: Foldperson22 ( $5,956 )
+Seat 9: pkg7777 ( $8,395 )
+garyb9 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+Neverhood007 posts small blind [$300]
+ghostyrob15 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 4c ]
+pkokofmalddy raises [$1,200]
+garyb9 raises [$7,710]
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 folds
+pkokofmalddy folds
+** Summary **
+garyb9 did not show his hand
+garyb9 collected [ $3,780 ]
+
+
+
+#Game No : 486876268
+***** 888poker Hand History for Game 486876268 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:03:45
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $32,446 )
+Seat 2: Neverhood007 ( $8,675 )
+Seat 3: ghostyrob15 ( $136,589 )
+Seat 4: pkokofmalddy ( $7,220 )
+Seat 5: garyb9 ( $10,290 )
+Seat 6: MurXxer ( $60,603 )
+Seat 7: Foldperson22 ( $5,896 )
+Seat 9: pkg7777 ( $8,335 )
+garyb9 posts ante [$60]
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+ghostyrob15 posts small blind [$300]
+pkokofmalddy posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 5h ]
+garyb9 folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 raises [$1,200]
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 calls [$900]
+pkokofmalddy folds
+** Dealing flop ** [ Qs, Ts, 8c ]
+ghostyrob15 checks
+pkg7777 bets [$7,075]
+ghostyrob15 calls [$7,075]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 9c ]
+** Summary **
+ghostyrob15 shows [ Qc, Kh ]
+pkg7777 shows [ Ad, Qd ]
+pkg7777 collected [ $17,630 ]
+
+
+
+#Game No : 486876498
+***** 888poker Hand History for Game 486876498 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:04:28
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $32,386 )
+Seat 2: Neverhood007 ( $8,615 )
+Seat 3: ghostyrob15 ( $128,254 )
+Seat 4: pkokofmalddy ( $6,560 )
+Seat 6: MurXxer ( $60,543 )
+Seat 7: Foldperson22 ( $5,836 )
+Seat 9: pkg7777 ( $17,630 )
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+pkokofmalddy posts small blind [$300]
+MurXxer posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 3c ]
+Foldperson22 folds
+pkg7777 folds
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 raises [$1,200]
+pkokofmalddy raises [$6,200]
+MurXxer folds
+ghostyrob15 folds
+** Summary **
+pkokofmalddy did not show his hand
+pkokofmalddy collected [ $3,420 ]
+
+
+
+#Game No : 486876644
+***** 888poker Hand History for Game 486876644 *****
+$300/$600 Blinds No Limit Holdem - *** 03 12 2014 18:04:56
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $32,326 )
+Seat 2: Neverhood007 ( $8,555 )
+Seat 3: ghostyrob15 ( $126,994 )
+Seat 4: pkokofmalddy ( $8,720 )
+Seat 6: MurXxer ( $59,883 )
+Seat 7: Foldperson22 ( $5,776 )
+Seat 9: pkg7777 ( $17,570 )
+MurXxer posts ante [$60]
+ghostyrob15 posts ante [$60]
+Foldperson22 posts ante [$60]
+pkg7777 posts ante [$60]
+PapaShango19 posts ante [$60]
+Neverhood007 posts ante [$60]
+pkokofmalddy posts ante [$60]
+MurXxer posts small blind [$300]
+Foldperson22 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Js ]
+pkg7777 folds
+PapaShango19 raises [$1,300]
+Neverhood007 folds
+ghostyrob15 calls [$1,300]
+pkokofmalddy folds
+MurXxer folds
+Foldperson22 calls [$700]
+** Dealing flop ** [ Kd, 5c, 4c ]
+Foldperson22 checks
+PapaShango19 bets [$1,800]
+ghostyrob15 calls [$1,800]
+Foldperson22 folds
+** Dealing turn ** [ 5s ]
+PapaShango19 bets [$2,400]
+ghostyrob15 calls [$2,400]
+** Dealing river ** [ Ac ]
+PapaShango19 checks
+ghostyrob15 checks
+** Summary **
+PapaShango19 shows [ Jd, Js ]
+ghostyrob15 mucks [ 9c, 9s ]
+PapaShango19 collected [ $13,020 ]
+
+
+
+#Game No : 486876998
+***** 888poker Hand History for Game 486876998 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:05:59
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $39,786 )
+Seat 2: Neverhood007 ( $8,495 )
+Seat 3: ghostyrob15 ( $121,434 )
+Seat 4: pkokofmalddy ( $8,660 )
+Seat 6: MurXxer ( $59,523 )
+Seat 7: Foldperson22 ( $4,416 )
+Seat 9: pkg7777 ( $17,510 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+Foldperson22 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+Foldperson22 posts small blind [$400]
+pkg7777 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 3c ]
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 raises [$1,600]
+pkokofmalddy folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+** Summary **
+ghostyrob15 did not show his hand
+ghostyrob15 collected [ $2,560 ]
+
+
+
+#Game No : 486877210
+***** 888poker Hand History for Game 486877210 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:06:36
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $39,706 )
+Seat 2: Neverhood007 ( $8,415 )
+Seat 3: ghostyrob15 ( $123,114 )
+Seat 4: pkokofmalddy ( $8,580 )
+Seat 6: MurXxer ( $59,443 )
+Seat 7: Foldperson22 ( $3,936 )
+Seat 9: pkg7777 ( $16,630 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+Foldperson22 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+pkg7777 posts small blind [$400]
+PapaShango19 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2h ]
+Neverhood007 raises [$8,335]
+ghostyrob15 folds
+pkokofmalddy folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 folds
+PapaShango19 folds
+** Summary **
+Neverhood007 did not show his hand
+Neverhood007 collected [ $2,560 ]
+
+
+
+#Game No : 486877355
+***** 888poker Hand History for Game 486877355 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:07:06
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $38,826 )
+Seat 2: Neverhood007 ( $10,095 )
+Seat 3: ghostyrob15 ( $123,034 )
+Seat 4: pkokofmalddy ( $8,500 )
+Seat 6: MurXxer ( $59,363 )
+Seat 7: Foldperson22 ( $3,856 )
+Seat 9: pkg7777 ( $16,150 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+Foldperson22 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+PapaShango19 posts small blind [$400]
+Neverhood007 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2d ]
+ghostyrob15 folds
+pkokofmalddy folds
+MurXxer folds
+Foldperson22 folds
+pkg7777 raises [$1,600]
+PapaShango19 folds
+Neverhood007 folds
+** Summary **
+pkg7777 did not show his hand
+pkg7777 collected [ $2,560 ]
+
+
+
+#Game No : 486877565
+***** 888poker Hand History for Game 486877565 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:07:45
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $38,346 )
+Seat 2: Neverhood007 ( $9,215 )
+Seat 3: ghostyrob15 ( $122,954 )
+Seat 4: pkokofmalddy ( $8,420 )
+Seat 6: MurXxer ( $59,283 )
+Seat 7: Foldperson22 ( $3,776 )
+Seat 9: pkg7777 ( $17,830 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+Foldperson22 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+Neverhood007 posts small blind [$400]
+ghostyrob15 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 6h ]
+pkokofmalddy folds
+MurXxer folds
+Foldperson22 raises [$3,696]
+pkg7777 folds
+PapaShango19 folds
+Neverhood007 raises [$8,735]
+ghostyrob15 folds
+** Dealing flop ** [ 4c, 4h, Ah ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 9s ]
+** Summary **
+Neverhood007 shows [ As, Td ]
+Foldperson22 shows [ Ad, Th ]
+Foldperson22 collected [ $4,376 ]
+Neverhood007 collected [ $4,376 ]
+
+
+
+#Game No : 486877837
+***** 888poker Hand History for Game 486877837 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:08:34
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: PapaShango19 ( $38,266 )
+Seat 2: Neverhood007 ( $9,815 )
+Seat 3: ghostyrob15 ( $122,074 )
+Seat 4: pkokofmalddy ( $8,340 )
+Seat 6: MurXxer ( $59,203 )
+Seat 7: Foldperson22 ( $4,376 )
+Seat 9: pkg7777 ( $17,750 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+Foldperson22 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+ghostyrob15 posts small blind [$400]
+pkokofmalddy posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 6h ]
+MurXxer folds
+Foldperson22 raises [$4,296]
+pkg7777 raises [$10,352]
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 folds
+pkokofmalddy folds
+** Dealing flop ** [ Td, 2c, 5d ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 8s ]
+** Summary **
+Foldperson22 shows [ Ad, 7s ]
+pkg7777 shows [ Kd, Kc ]
+pkg7777 collected [ $10,352 ]
+
+
+
+#Game No : 486878065
+***** 888poker Hand History for Game 486878065 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:09:14
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $38,186 )
+Seat 2: Neverhood007 ( $9,735 )
+Seat 3: ghostyrob15 ( $121,594 )
+Seat 4: pkokofmalddy ( $7,460 )
+Seat 6: MurXxer ( $59,123 )
+Seat 9: pkg7777 ( $23,726 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+pkokofmalddy posts small blind [$400]
+MurXxer posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7h ]
+pkg7777 raises [$1,600]
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 folds
+pkokofmalddy folds
+MurXxer calls [$800]
+** Dealing flop ** [ 8c, 2s, 6c ]
+MurXxer checks
+pkg7777 bets [$2,692]
+MurXxer folds
+** Summary **
+pkg7777 did not show his hand
+pkg7777 collected [ $4,080 ]
+
+
+
+#Game No : 486878252
+***** 888poker Hand History for Game 486878252 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:09:51
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $38,106 )
+Seat 2: Neverhood007 ( $9,655 )
+Seat 3: ghostyrob15 ( $121,514 )
+Seat 4: pkokofmalddy ( $6,980 )
+Seat 6: MurXxer ( $57,443 )
+Seat 9: pkg7777 ( $26,126 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+MurXxer posts small blind [$400]
+pkg7777 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 6d ]
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 folds
+pkokofmalddy folds
+MurXxer folds
+** Summary **
+pkg7777 did not show his hand
+pkg7777 collected [ $1,680 ]
+
+
+
+#Game No : 486878375
+***** 888poker Hand History for Game 486878375 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:10:13
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $38,026 )
+Seat 2: Neverhood007 ( $9,575 )
+Seat 3: ghostyrob15 ( $121,434 )
+Seat 4: pkokofmalddy ( $6,900 )
+Seat 6: MurXxer ( $56,963 )
+Seat 9: pkg7777 ( $26,926 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+pkg7777 posts small blind [$400]
+PapaShango19 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Jd ]
+Neverhood007 folds
+ghostyrob15 calls [$800]
+pkokofmalddy folds
+MurXxer calls [$800]
+pkg7777 folds
+PapaShango19 checks
+** Dealing flop ** [ Ts, 7s, 5s ]
+PapaShango19 checks
+ghostyrob15 bets [$800]
+MurXxer folds
+PapaShango19 folds
+** Summary **
+ghostyrob15 did not show his hand
+ghostyrob15 collected [ $3,280 ]
+
+
+
+#Game No : 486878795
+***** 888poker Hand History for Game 486878795 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:11:34
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $37,146 )
+Seat 2: Neverhood007 ( $9,495 )
+Seat 3: ghostyrob15 ( $123,834 )
+Seat 4: pkokofmalddy ( $6,820 )
+Seat 6: MurXxer ( $56,083 )
+Seat 9: pkg7777 ( $26,446 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+PapaShango19 posts small blind [$400]
+Neverhood007 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Jc ]
+ghostyrob15 folds
+pkokofmalddy folds
+MurXxer folds
+pkg7777 folds
+PapaShango19 raises [$1,200]
+Neverhood007 raises [$8,615]
+PapaShango19 folds
+** Summary **
+Neverhood007 did not show his hand
+Neverhood007 collected [ $3,680 ]
+
+
+
+#Game No : 486879018
+***** 888poker Hand History for Game 486879018 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:12:17
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $35,466 )
+Seat 2: Neverhood007 ( $11,495 )
+Seat 3: ghostyrob15 ( $123,754 )
+Seat 4: pkokofmalddy ( $6,740 )
+Seat 6: MurXxer ( $56,003 )
+Seat 9: pkg7777 ( $26,366 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+Neverhood007 posts small blind [$400]
+ghostyrob15 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Ks ]
+pkokofmalddy raises [$6,660]
+MurXxer folds
+pkg7777 folds
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 folds
+** Summary **
+pkokofmalddy collected [ $2,480 ]
+
+
+
+#Game No : 486879113
+***** 888poker Hand History for Game 486879113 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:12:39
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $35,386 )
+Seat 2: Neverhood007 ( $11,015 )
+Seat 3: ghostyrob15 ( $122,874 )
+Seat 4: pkokofmalddy ( $8,340 )
+Seat 5: veinho68 ( $72,870 )
+Seat 6: MurXxer ( $55,923 )
+Seat 7: goshaal ( $39,032 )
+Seat 9: pkg7777 ( $26,286 )
+Seat 10: PokerNarbz ( $31,105 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+veinho68 posts ante [$80]
+goshaal posts ante [$80]
+PokerNarbz posts ante [$80]
+ghostyrob15 posts small blind [$400]
+pkokofmalddy posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 7s ]
+veinho68 folds
+MurXxer folds
+goshaal calls [$800]
+pkg7777 folds
+PokerNarbz calls [$800]
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 calls [$400]
+pkokofmalddy checks
+** Dealing flop ** [ 8s, 9h, 8d ]
+ghostyrob15 checks
+pkokofmalddy checks
+goshaal checks
+PokerNarbz checks
+** Dealing turn ** [ 9s ]
+ghostyrob15 checks
+pkokofmalddy checks
+goshaal bets [$800]
+PokerNarbz folds
+ghostyrob15 calls [$800]
+pkokofmalddy folds
+** Dealing river ** [ Td ]
+ghostyrob15 bets [$5,520]
+goshaal folds
+** Summary **
+ghostyrob15 did not show his hand
+ghostyrob15 collected [ $5,520 ]
+
+
+
+#Game No : 486879471
+***** 888poker Hand History for Game 486879471 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:13:59
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $35,306 )
+Seat 2: Neverhood007 ( $10,935 )
+Seat 3: ghostyrob15 ( $126,714 )
+Seat 4: pkokofmalddy ( $7,460 )
+Seat 5: veinho68 ( $72,790 )
+Seat 6: MurXxer ( $55,843 )
+Seat 7: goshaal ( $37,352 )
+Seat 9: pkg7777 ( $26,206 )
+Seat 10: PokerNarbz ( $30,225 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+veinho68 posts ante [$80]
+goshaal posts ante [$80]
+PokerNarbz posts ante [$80]
+pkokofmalddy posts small blind [$400]
+veinho68 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Jc ]
+MurXxer raises [$3,200]
+goshaal folds
+pkg7777 folds
+PokerNarbz folds
+PapaShango19 folds
+Neverhood007 folds
+ghostyrob15 folds
+pkokofmalddy folds
+veinho68 folds
+** Summary **
+MurXxer did not show his hand
+MurXxer collected [ $2,720 ]
+
+
+
+#Game No : 486879688
+***** 888poker Hand History for Game 486879688 *****
+$400/$800 Blinds No Limit Holdem - *** 03 12 2014 18:14:44
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $35,226 )
+Seat 2: Neverhood007 ( $10,855 )
+Seat 3: ghostyrob15 ( $126,634 )
+Seat 4: pkokofmalddy ( $6,980 )
+Seat 5: veinho68 ( $71,910 )
+Seat 6: MurXxer ( $57,683 )
+Seat 7: goshaal ( $37,272 )
+Seat 9: pkg7777 ( $26,126 )
+Seat 10: PokerNarbz ( $30,145 )
+MurXxer posts ante [$80]
+ghostyrob15 posts ante [$80]
+pkg7777 posts ante [$80]
+PapaShango19 posts ante [$80]
+Neverhood007 posts ante [$80]
+pkokofmalddy posts ante [$80]
+veinho68 posts ante [$80]
+goshaal posts ante [$80]
+PokerNarbz posts ante [$80]
+veinho68 posts small blind [$400]
+MurXxer posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Kh ]
+goshaal folds
+pkg7777 folds
+PokerNarbz folds
+PapaShango19 raises [$2,400]
+Neverhood007 folds
+ghostyrob15 folds
+pkokofmalddy folds
+veinho68 folds
+MurXxer calls [$1,600]
+** Dealing flop ** [ 3s, 7s, Qc ]
+MurXxer bets [$2,960]
+PapaShango19 raises [$7,520]
+MurXxer raises [$52,243]
+PapaShango19 calls [$25,226]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ Qd ]
+** Summary **
+PapaShango19 shows [ Kd, Kh ]
+MurXxer shows [ Qs, Jc ]
+MurXxer collected [ $71,412 ]
+
+
+
+#Game No : 486879991
+***** 888poker Hand History for Game 486879991 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:15:56
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $10,775 )
+Seat 4: pkokofmalddy ( $6,900 )
+Seat 5: veinho68 ( $71,430 )
+Seat 6: MurXxer ( $93,869 )
+Seat 7: goshaal ( $37,192 )
+Seat 9: pkg7777 ( $26,046 )
+Seat 10: PokerNarbz ( $30,065 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+MurXxer posts small blind [$500]
+goshaal posts big blind [$1,000]
+** Dealing down cards **
+pkg7777 folds
+PokerNarbz raises [$2,000]
+Neverhood007 folds
+pkokofmalddy folds
+veinho68 folds
+MurXxer folds
+goshaal folds
+** Summary **
+PokerNarbz did not show his hand
+PokerNarbz collected [ $3,200 ]
+
+
+
+#Game No : 486880126
+***** 888poker Hand History for Game 486880126 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:16:23
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $10,675 )
+Seat 4: pkokofmalddy ( $6,800 )
+Seat 5: veinho68 ( $71,330 )
+Seat 6: MurXxer ( $93,269 )
+Seat 7: goshaal ( $36,092 )
+Seat 9: pkg7777 ( $25,946 )
+Seat 10: PokerNarbz ( $32,165 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+goshaal posts small blind [$500]
+pkg7777 posts big blind [$1,000]
+** Dealing down cards **
+PokerNarbz folds
+Neverhood007 folds
+pkokofmalddy folds
+veinho68 raises [$4,200]
+MurXxer folds
+goshaal folds
+pkg7777 folds
+** Summary **
+veinho68 did not show his hand
+veinho68 collected [ $3,200 ]
+
+
+
+#Game No : 486880269
+***** 888poker Hand History for Game 486880269 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:16:56
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $10,575 )
+Seat 4: pkokofmalddy ( $6,700 )
+Seat 5: veinho68 ( $73,430 )
+Seat 6: MurXxer ( $93,169 )
+Seat 7: goshaal ( $35,492 )
+Seat 9: pkg7777 ( $24,846 )
+Seat 10: PokerNarbz ( $32,065 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+pkg7777 posts small blind [$500]
+PokerNarbz posts big blind [$1,000]
+** Dealing down cards **
+Neverhood007 folds
+pkokofmalddy folds
+veinho68 folds
+MurXxer folds
+goshaal folds
+pkg7777 folds
+** Summary **
+PokerNarbz did not show his hand
+PokerNarbz collected [ $2,200 ]
+
+
+
+#Game No : 486880393
+***** 888poker Hand History for Game 486880393 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:17:29
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $10,475 )
+Seat 4: pkokofmalddy ( $6,600 )
+Seat 5: veinho68 ( $73,330 )
+Seat 6: MurXxer ( $93,069 )
+Seat 7: goshaal ( $35,392 )
+Seat 9: pkg7777 ( $24,246 )
+Seat 10: PokerNarbz ( $33,165 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+PokerNarbz posts small blind [$500]
+Neverhood007 posts big blind [$1,000]
+** Dealing down cards **
+pkokofmalddy folds
+veinho68 folds
+MurXxer raises [$3,000]
+goshaal folds
+pkg7777 folds
+PokerNarbz folds
+Neverhood007 folds
+** Summary **
+MurXxer did not show his hand
+MurXxer collected [ $3,200 ]
+
+
+
+#Game No : 486880520
+***** 888poker Hand History for Game 486880520 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:18:02
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $9,375 )
+Seat 4: pkokofmalddy ( $6,500 )
+Seat 5: veinho68 ( $73,230 )
+Seat 6: MurXxer ( $95,169 )
+Seat 7: goshaal ( $35,292 )
+Seat 9: pkg7777 ( $24,146 )
+Seat 10: PokerNarbz ( $32,565 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+Neverhood007 posts small blind [$500]
+pkokofmalddy posts big blind [$1,000]
+** Dealing down cards **
+veinho68 folds
+MurXxer folds
+goshaal folds
+pkg7777 raises [$2,000]
+PokerNarbz raises [$7,000]
+Neverhood007 folds
+pkokofmalddy folds
+pkg7777 raises [$14,200]
+PokerNarbz folds
+** Summary **
+pkg7777 did not show his hand
+pkg7777 collected [ $16,200 ]
+
+
+
+#Game No : 486880687
+***** 888poker Hand History for Game 486880687 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:18:40
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $8,775 )
+Seat 4: pkokofmalddy ( $5,400 )
+Seat 5: veinho68 ( $73,130 )
+Seat 6: MurXxer ( $95,069 )
+Seat 7: goshaal ( $35,192 )
+Seat 9: pkg7777 ( $33,246 )
+Seat 10: PokerNarbz ( $25,465 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+pkokofmalddy posts small blind [$500]
+veinho68 posts big blind [$1,000]
+** Dealing down cards **
+MurXxer folds
+goshaal raises [$2,000]
+pkg7777 folds
+PokerNarbz folds
+Neverhood007 folds
+pkokofmalddy folds
+veinho68 folds
+** Summary **
+goshaal did not show his hand
+goshaal collected [ $3,200 ]
+
+
+
+#Game No : 486880854
+***** 888poker Hand History for Game 486880854 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:19:17
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $8,675 )
+Seat 4: pkokofmalddy ( $4,800 )
+Seat 5: veinho68 ( $72,030 )
+Seat 6: MurXxer ( $94,969 )
+Seat 7: goshaal ( $37,292 )
+Seat 9: pkg7777 ( $33,146 )
+Seat 10: PokerNarbz ( $25,365 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+veinho68 posts small blind [$500]
+MurXxer posts big blind [$1,000]
+** Dealing down cards **
+goshaal folds
+pkg7777 folds
+PokerNarbz folds
+Neverhood007 folds
+pkokofmalddy raises [$4,700]
+veinho68 folds
+MurXxer calls [$3,700]
+** Dealing flop ** [ 3h, 9h, Kd ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Qs ]
+** Summary **
+pkokofmalddy shows [ 9c, Jh ]
+MurXxer shows [ Ah, Tc ]
+pkokofmalddy collected [ $10,600 ]
+
+
+
+#Game No : 486881027
+***** 888poker Hand History for Game 486881027 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:19:54
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $8,575 )
+Seat 4: pkokofmalddy ( $10,600 )
+Seat 5: veinho68 ( $71,430 )
+Seat 6: MurXxer ( $90,169 )
+Seat 7: goshaal ( $37,192 )
+Seat 9: pkg7777 ( $33,046 )
+Seat 10: PokerNarbz ( $25,265 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+MurXxer posts small blind [$500]
+goshaal posts big blind [$1,000]
+** Dealing down cards **
+pkg7777 raises [$2,000]
+PokerNarbz calls [$2,000]
+Neverhood007 folds
+pkokofmalddy folds
+veinho68 folds
+MurXxer folds
+goshaal folds
+** Dealing flop ** [ 6s, 6d, 4s ]
+pkg7777 checks
+PokerNarbz checks
+** Dealing turn ** [ 5d ]
+pkg7777 checks
+PokerNarbz bets [$4,000]
+pkg7777 folds
+** Summary **
+PokerNarbz did not show his hand
+PokerNarbz collected [ $6,200 ]
+
+
+
+#Game No : 486881174
+***** 888poker Hand History for Game 486881174 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:20:30
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $8,475 )
+Seat 4: pkokofmalddy ( $10,500 )
+Seat 5: veinho68 ( $71,330 )
+Seat 6: MurXxer ( $89,569 )
+Seat 7: goshaal ( $36,092 )
+Seat 9: pkg7777 ( $30,946 )
+Seat 10: PokerNarbz ( $29,365 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+goshaal posts small blind [$500]
+pkg7777 posts big blind [$1,000]
+** Dealing down cards **
+PokerNarbz folds
+Neverhood007 folds
+pkokofmalddy raises [$10,400]
+veinho68 folds
+MurXxer calls [$10,400]
+goshaal folds
+pkg7777 folds
+** Dealing flop ** [ 3s, 7s, Tc ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Kc ]
+** Summary **
+pkokofmalddy shows [ Ac, Kh ]
+MurXxer shows [ Kd, Jd ]
+pkokofmalddy collected [ $23,000 ]
+
+
+
+#Game No : 486881356
+***** 888poker Hand History for Game 486881356 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:21:09
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $8,375 )
+Seat 4: pkokofmalddy ( $23,000 )
+Seat 5: veinho68 ( $71,230 )
+Seat 6: MurXxer ( $79,069 )
+Seat 7: goshaal ( $35,492 )
+Seat 9: pkg7777 ( $29,846 )
+Seat 10: PokerNarbz ( $29,265 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+pkg7777 posts small blind [$500]
+PokerNarbz posts big blind [$1,000]
+** Dealing down cards **
+Neverhood007 folds
+pkokofmalddy folds
+veinho68 folds
+MurXxer folds
+goshaal folds
+pkg7777 folds
+** Summary **
+PokerNarbz did not show his hand
+PokerNarbz collected [ $2,200 ]
+
+
+
+#Game No : 486881420
+***** 888poker Hand History for Game 486881420 *****
+$500/$1,000 Blinds No Limit Holdem - *** 03 12 2014 18:21:26
+Tournament #64032475 $1.10 + $0.15 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: Neverhood007 ( $8,275 )
+Seat 4: pkokofmalddy ( $22,900 )
+Seat 5: veinho68 ( $71,130 )
+Seat 6: MurXxer ( $78,969 )
+Seat 7: goshaal ( $35,392 )
+Seat 9: pkg7777 ( $29,246 )
+Seat 10: PokerNarbz ( $30,365 )
+MurXxer posts ante [$100]
+pkg7777 posts ante [$100]
+Neverhood007 posts ante [$100]
+pkokofmalddy posts ante [$100]
+veinho68 posts ante [$100]
+goshaal posts ante [$100]
+PokerNarbz posts ante [$100]
+PokerNarbz posts small blind [$500]
+Neverhood007 posts big blind [$1,000]
+** Dealing down cards **
+pkokofmalddy folds
+veinho68 raises [$2,000]
+MurXxer folds
+goshaal folds
+pkg7777 folds
+PokerNarbz folds
+Neverhood007 folds
+** Summary **
+veinho68 did not show his hand
+veinho68 collected [ $3,200 ]
+
+
+

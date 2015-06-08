@@ -1,0 +1,24 @@
+#Game No : 496268731
+***** 888poker Hand History for Game 496268731 *****
+$1,000,000/$2,000,000 Blinds No Limit Holdem - *** 16 12 2014 02:10:15
+Tournament #64367734 Free - Table #1102 (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: caioluk ( $500 )
+Seat 9: PapaShango19 ( $500 )
+PapaShango19 posts ante [$500]
+caioluk posts ante [$500]
+PapaShango19 posts small blind [$0]
+caioluk posts big blind [$0]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Jh ]
+** Dealing flop ** [ 4s, 9c, Ad ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 9h ]
+** Summary **
+caioluk shows [ Tc, 4d ]
+PapaShango19 shows [ Ks, Jh ]
+caioluk collected [ $1,000 ]
+
+
+

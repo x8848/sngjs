@@ -1,0 +1,423 @@
+#Game No : 638835295
+***** 888poker Hand History for Game 638835295 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 04:20:28
+Tournament #63737609 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: frederick01 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: nekaan1982 ( $1,000 )
+Seat 5: paulet44 ( $1,000 )
+Seat 6: Mr.Levex ( $1,000 )
+Seat 7: Lady_gooner ( $1,000 )
+Seat 8: WWizzard ( $1,000 )
+Seat 10: Mrgere ( $1,000 )
+WWizzard posts small blind [$10]
+Mrgere posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 5d ]
+frederick01 folds
+PapaShango19 folds
+nekaan1982 calls [$20]
+paulet44 folds
+Mr.Levex folds
+Lady_gooner calls [$20]
+WWizzard calls [$10]
+Mrgere checks
+** Dealing flop ** [ Ac, 2h, 5h ]
+WWizzard folds
+Mrgere checks
+nekaan1982 bets [$40]
+Lady_gooner folds
+Mrgere folds
+** Summary **
+nekaan1982 did not show his hand
+nekaan1982 collected [ $80 ]
+
+
+
+#Game No : 638835513
+***** 888poker Hand History for Game 638835513 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 04:21:34
+Tournament #63737609 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: frederick01 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: nekaan1982 ( $1,060 )
+Seat 5: paulet44 ( $1,000 )
+Seat 6: Mr.Levex ( $1,000 )
+Seat 7: Lady_gooner ( $980 )
+Seat 8: WWizzard ( $980 )
+Seat 10: Mrgere ( $980 )
+Mrgere posts small blind [$10]
+frederick01 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 3s ]
+PapaShango19 folds
+nekaan1982 folds
+paulet44 folds
+Mr.Levex folds
+Lady_gooner folds
+WWizzard calls [$20]
+Mrgere folds
+frederick01 checks
+** Dealing flop ** [ Qc, As, 5s ]
+frederick01 checks
+WWizzard checks
+** Dealing turn ** [ 6c ]
+frederick01 checks
+WWizzard bets [$20]
+frederick01 folds
+** Summary **
+WWizzard did not show his hand
+WWizzard collected [ $50 ]
+
+
+
+#Game No : 638835711
+***** 888poker Hand History for Game 638835711 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 04:22:41
+Tournament #63737609 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: frederick01 ( $980 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: nekaan1982 ( $1,060 )
+Seat 5: paulet44 ( $1,000 )
+Seat 6: Mr.Levex ( $1,000 )
+Seat 7: Lady_gooner ( $980 )
+Seat 8: WWizzard ( $1,010 )
+Seat 10: Mrgere ( $970 )
+frederick01 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ah ]
+nekaan1982 folds
+paulet44 folds
+Mr.Levex folds
+Lady_gooner calls [$20]
+WWizzard folds
+Mrgere folds
+frederick01 folds
+PapaShango19 checks
+** Dealing flop ** [ 4c, 7d, 6h ]
+PapaShango19 checks
+Lady_gooner checks
+** Dealing turn ** [ Jc ]
+PapaShango19 checks
+Lady_gooner bets [$50]
+PapaShango19 calls [$50]
+** Dealing river ** [ 5c ]
+PapaShango19 checks
+Lady_gooner bets [$150]
+PapaShango19 folds
+** Summary **
+Lady_gooner did not show his hand
+Lady_gooner collected [ $150 ]
+
+
+
+#Game No : 638835974
+***** 888poker Hand History for Game 638835974 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 04:24:11
+Tournament #63737609 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: frederick01 ( $970 )
+Seat 2: PapaShango19 ( $930 )
+Seat 3: nekaan1982 ( $1,060 )
+Seat 5: paulet44 ( $1,000 )
+Seat 6: Mr.Levex ( $1,000 )
+Seat 7: Lady_gooner ( $1,060 )
+Seat 8: WWizzard ( $1,010 )
+Seat 10: Mrgere ( $970 )
+PapaShango19 posts small blind [$10]
+nekaan1982 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 7d ]
+paulet44 raises [$40]
+Mr.Levex folds
+Lady_gooner folds
+WWizzard calls [$40]
+Mrgere folds
+frederick01 folds
+PapaShango19 folds
+nekaan1982 calls [$20]
+** Dealing flop ** [ 3h, 8h, Kc ]
+nekaan1982 bets [$40]
+paulet44 folds
+WWizzard calls [$40]
+** Dealing turn ** [ 8s ]
+nekaan1982 bets [$40]
+WWizzard calls [$40]
+** Dealing river ** [ 6s ]
+nekaan1982 bets [$40]
+WWizzard calls [$40]
+** Summary **
+nekaan1982 shows [ Qh, Qd ]
+WWizzard mucks [ 9s, 9d ]
+nekaan1982 collected [ $370 ]
+
+
+
+#Game No : 638836118
+***** 888poker Hand History for Game 638836118 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 04:25:04
+Tournament #63737609 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: frederick01 ( $970 )
+Seat 2: PapaShango19 ( $920 )
+Seat 3: nekaan1982 ( $1,270 )
+Seat 5: paulet44 ( $960 )
+Seat 6: Mr.Levex ( $1,000 )
+Seat 7: Lady_gooner ( $1,060 )
+Seat 8: WWizzard ( $850 )
+Seat 10: Mrgere ( $970 )
+nekaan1982 posts small blind [$10]
+paulet44 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 6h ]
+Mr.Levex raises [$100]
+Lady_gooner folds
+WWizzard calls [$100]
+Mrgere folds
+frederick01 folds
+PapaShango19 folds
+nekaan1982 calls [$90]
+paulet44 folds
+** Dealing flop ** [ Jc, Kh, 9c ]
+nekaan1982 checks
+Mr.Levex bets [$120]
+WWizzard folds
+nekaan1982 folds
+** Summary **
+Mr.Levex did not show his hand
+Mr.Levex collected [ $320 ]
+
+
+
+#Game No : 638836353
+***** 888poker Hand History for Game 638836353 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 04:26:27
+Tournament #63737609 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: frederick01 ( $970 )
+Seat 2: PapaShango19 ( $920 )
+Seat 3: nekaan1982 ( $1,170 )
+Seat 5: paulet44 ( $940 )
+Seat 6: Mr.Levex ( $1,220 )
+Seat 7: Lady_gooner ( $1,060 )
+Seat 8: WWizzard ( $750 )
+Seat 10: Mrgere ( $970 )
+paulet44 posts small blind [$10]
+Mr.Levex posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 3h ]
+Lady_gooner folds
+WWizzard calls [$20]
+Mrgere folds
+frederick01 folds
+PapaShango19 folds
+nekaan1982 calls [$20]
+paulet44 folds
+Mr.Levex checks
+** Dealing flop ** [ 6c, Ts, 6d ]
+Mr.Levex checks
+WWizzard checks
+nekaan1982 bets [$20]
+Mr.Levex folds
+WWizzard folds
+** Summary **
+nekaan1982 did not show his hand
+nekaan1982 collected [ $70 ]
+
+
+
+#Game No : 638836511
+***** 888poker Hand History for Game 638836511 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 04:27:18
+Tournament #63737609 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: frederick01 ( $970 )
+Seat 2: PapaShango19 ( $920 )
+Seat 3: nekaan1982 ( $1,220 )
+Seat 5: paulet44 ( $930 )
+Seat 6: Mr.Levex ( $1,200 )
+Seat 7: Lady_gooner ( $1,060 )
+Seat 8: WWizzard ( $730 )
+Seat 10: Mrgere ( $970 )
+Mr.Levex posts small blind [$10]
+Lady_gooner posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Kc ]
+WWizzard folds
+Mrgere folds
+frederick01 folds
+PapaShango19 folds
+nekaan1982 folds
+paulet44 folds
+Mr.Levex raises [$90]
+Lady_gooner folds
+** Summary **
+Mr.Levex did not show his hand
+Mr.Levex collected [ $40 ]
+
+
+
+#Game No : 638837018
+***** 888poker Hand History for Game 638837018 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 04:29:57
+Tournament #63737609 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1:  ( $1,010 )
+Seat 2:  ( $920 )
+Seat 3:  ( $1,795 )
+Seat 5:  ( $2,335 )
+Seat 7:  ( $110 )
+Seat 8:  ( $1,810 )
+Seat 10:  ( $940 )
+ posts small blind [$15]
+ posts big blind [$30]
+** Dealing down cards **
+Dealt to  [ Kc, 9d ]
+ folds
+ folds
+ folds
+ raises [$97]
+ calls [$97]
+ raises [$95]
+ calls [$80]
+ calls [$13]
+ calls [$13]
+** Dealing flop ** [ 9h, 3c, 6s ]
+ checks
+ bets [$220]
+ calls [$220]
+ folds
+** Dealing turn ** [ Ac ]
+ bets [$660]
+ folds
+** Dealing river ** [ 2s ]
+** Summary **
+ shows [ 9s, 9c ]
+ shows [ 8s, 3d ]
+ collected [ $440 ]
+ collected [ $440 ]
+
+
+
+#Game No : 638837207
+***** 888poker Hand History for Game 638837207 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 04:31:08
+Tournament #63737609 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: MartinAigner ( $1,010 )
+Seat 2: PapaShango19 ( $920 )
+Seat 3: Mort3n ( $2,345 )
+Seat 5: milec49 ( $2,005 )
+Seat 8: JefferyF7777 ( $1,700 )
+Seat 10: sunshine106 ( $940 )
+JefferyF7777 posts small blind [$15]
+sunshine106 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 8s ]
+MartinAigner folds
+PapaShango19 folds
+Mort3n folds
+milec49 raises [$60]
+JefferyF7777 calls [$45]
+sunshine106 folds
+** Dealing flop ** [ 8h, Td, 5s ]
+JefferyF7777 checks
+milec49 bets [$180]
+JefferyF7777 calls [$180]
+** Dealing turn ** [ Qh ]
+JefferyF7777 checks
+milec49 bets [$180]
+JefferyF7777 calls [$180]
+** Dealing river ** [ Tc ]
+JefferyF7777 checks
+milec49 bets [$180]
+JefferyF7777 calls [$180]
+** Summary **
+milec49 shows [ 9h, Ts ]
+JefferyF7777 mucks [ 9s, 5d ]
+milec49 collected [ $1,230 ]
+
+
+
+#Game No : 638837388
+***** 888poker Hand History for Game 638837388 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 04:32:12
+Tournament #63737609 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 1: MartinAigner ( $1,010 )
+Seat 2: PapaShango19 ( $920 )
+Seat 3: Mort3n ( $2,345 )
+Seat 5: milec49 ( $2,635 )
+Seat 8: JefferyF7777 ( $1,100 )
+Seat 10: sunshine106 ( $910 )
+sunshine106 posts small blind [$15]
+MartinAigner posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 9d ]
+PapaShango19 folds
+Mort3n folds
+milec49 calls [$30]
+JefferyF7777 calls [$30]
+sunshine106 calls [$15]
+MartinAigner checks
+** Dealing flop ** [ 3d, 7s, Tc ]
+sunshine106 checks
+MartinAigner checks
+milec49 bets [$90]
+JefferyF7777 folds
+sunshine106 folds
+MartinAigner folds
+** Summary **
+milec49 did not show his hand
+milec49 collected [ $120 ]
+
+
+
+#Game No : 638837550
+***** 888poker Hand History for Game 638837550 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 04:33:10
+Tournament #63737609 $0.90 + $0.10 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: MartinAigner ( $980 )
+Seat 2: PapaShango19 ( $920 )
+Seat 3: Mort3n ( $2,345 )
+Seat 5: milec49 ( $2,725 )
+Seat 8: JefferyF7777 ( $1,070 )
+Seat 10: sunshine106 ( $880 )
+MartinAigner posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Ad ]
+Mort3n folds
+milec49 folds
+JefferyF7777 calls [$30]
+sunshine106 calls [$30]
+MartinAigner folds
+PapaShango19 raises [$890]
+JefferyF7777 calls [$890]
+sunshine106 folds
+** Dealing flop ** [ 7h, 5c, Js ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 3d ]
+** Summary **
+PapaShango19 shows [ Qc, Ad ]
+JefferyF7777 shows [ Jc, Tc ]
+JefferyF7777 collected [ $1,885 ]
+
+
+

@@ -1,0 +1,295 @@
+#Game No : 703367951
+***** 888poker Hand History for Game 703367951 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 07:45:25
+Tournament #64464879 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: kathrinareil ( $2,500 )
+Seat 2: DombeyBlue ( $2,500 )
+Seat 3: myvks ( $2,500 )
+Seat 4: linas.d ( $2,500 )
+Seat 5: fuefue1973 ( $2,500 )
+Seat 6: ticasse14 ( $2,500 )
+Seat 7: rocketQC ( $2,500 )
+Seat 9: PapaShango19 ( $2,500 )
+Seat 10: g4sprokets ( $2,500 )
+kathrinareil posts small blind [$10]
+DombeyBlue posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Ks ]
+myvks folds
+linas.d folds
+fuefue1973 folds
+ticasse14 folds
+rocketQC folds
+PapaShango19 folds
+g4sprokets folds
+kathrinareil raises [$70]
+DombeyBlue folds
+** Summary **
+kathrinareil did not show his hand
+kathrinareil collected [ $40 ]
+
+
+
+#Game No : 703368035
+***** 888poker Hand History for Game 703368035 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 07:46:12
+Tournament #64464879 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: kathrinareil ( $2,520 )
+Seat 2: DombeyBlue ( $2,480 )
+Seat 3: myvks ( $2,500 )
+Seat 4: linas.d ( $2,500 )
+Seat 5: fuefue1973 ( $2,500 )
+Seat 6: ticasse14 ( $2,500 )
+Seat 7: rocketQC ( $2,500 )
+Seat 9: PapaShango19 ( $2,500 )
+Seat 10: g4sprokets ( $2,500 )
+DombeyBlue posts small blind [$10]
+myvks posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 6h ]
+linas.d folds
+fuefue1973 calls [$20]
+ticasse14 folds
+rocketQC calls [$20]
+PapaShango19 folds
+g4sprokets calls [$20]
+kathrinareil calls [$20]
+DombeyBlue folds
+myvks checks
+** Dealing flop ** [ Kd, 4c, Qs ]
+myvks checks
+fuefue1973 checks
+rocketQC checks
+g4sprokets checks
+kathrinareil bets [$100]
+myvks calls [$100]
+fuefue1973 calls [$100]
+rocketQC folds
+g4sprokets folds
+** Dealing turn ** [ Th ]
+myvks bets [$410]
+fuefue1973 folds
+kathrinareil folds
+** Summary **
+myvks did not show his hand
+myvks collected [ $410 ]
+
+
+
+#Game No : 703368209
+***** 888poker Hand History for Game 703368209 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 07:47:48
+Tournament #64464879 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: kathrinareil ( $2,400 )
+Seat 3: myvks ( $2,790 )
+Seat 4: linas.d ( $2,500 )
+Seat 5: fuefue1973 ( $2,380 )
+Seat 6: ticasse14 ( $2,500 )
+Seat 7: rocketQC ( $2,480 )
+Seat 9: PapaShango19 ( $2,500 )
+Seat 10: g4sprokets ( $2,480 )
+myvks posts small blind [$10]
+linas.d posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9s ]
+fuefue1973 calls [$20]
+ticasse14 folds
+rocketQC folds
+PapaShango19 folds
+g4sprokets calls [$20]
+kathrinareil folds
+myvks calls [$10]
+linas.d checks
+** Dealing flop ** [ Jh, 6c, Ks ]
+myvks checks
+linas.d checks
+fuefue1973 checks
+g4sprokets checks
+** Dealing turn ** [ 8h ]
+myvks checks
+linas.d checks
+fuefue1973 checks
+g4sprokets bets [$60]
+myvks folds
+linas.d folds
+fuefue1973 folds
+** Summary **
+g4sprokets collected [ $80 ]
+
+
+
+#Game No : 703368346
+***** 888poker Hand History for Game 703368346 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 07:49:09
+Tournament #64464879 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: kathrinareil ( $2,400 )
+Seat 2: Tempdump ( $2,500 )
+Seat 3: myvks ( $2,770 )
+Seat 4: linas.d ( $2,480 )
+Seat 5: fuefue1973 ( $2,360 )
+Seat 6: ticasse14 ( $2,500 )
+Seat 7: rocketQC ( $2,480 )
+Seat 9: PapaShango19 ( $2,500 )
+Seat 10: g4sprokets ( $2,540 )
+linas.d posts small blind [$10]
+fuefue1973 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ad ]
+ticasse14 raises [$40]
+rocketQC folds
+PapaShango19 folds
+g4sprokets folds
+kathrinareil calls [$40]
+Tempdump raises [$220]
+myvks folds
+linas.d folds
+fuefue1973 folds
+ticasse14 calls [$180]
+kathrinareil folds
+** Dealing flop ** [ 4h, 3d, 6s ]
+ticasse14 checks
+Tempdump bets [$510]
+ticasse14 folds
+** Summary **
+Tempdump did not show his hand
+Tempdump collected [ $510 ]
+
+
+
+#Game No : 703368452
+***** 888poker Hand History for Game 703368452 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 07:50:21
+Tournament #64464879 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: kathrinareil ( $2,360 )
+Seat 2: Tempdump ( $2,790 )
+Seat 3: myvks ( $2,770 )
+Seat 4: linas.d ( $2,470 )
+Seat 5: fuefue1973 ( $2,340 )
+Seat 6: ticasse14 ( $2,280 )
+Seat 7: rocketQC ( $2,480 )
+Seat 9: PapaShango19 ( $2,500 )
+Seat 10: g4sprokets ( $2,540 )
+fuefue1973 posts small blind [$10]
+ticasse14 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Ah ]
+rocketQC folds
+PapaShango19 calls [$20]
+g4sprokets raises [$80]
+kathrinareil folds
+Tempdump calls [$80]
+myvks folds
+linas.d folds
+fuefue1973 folds
+ticasse14 calls [$60]
+PapaShango19 calls [$60]
+** Dealing flop ** [ 8c, 7s, Kd ]
+ticasse14 checks
+PapaShango19 checks
+g4sprokets bets [$247]
+Tempdump calls [$247]
+ticasse14 folds
+PapaShango19 folds
+** Dealing turn ** [ 4s ]
+g4sprokets checks
+Tempdump bets [$412]
+g4sprokets folds
+** Summary **
+Tempdump did not show his hand
+Tempdump collected [ $824 ]
+
+
+
+#Game No : 703368536
+***** 888poker Hand History for Game 703368536 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 07:51:41
+Tournament #64464879 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: Tempdump ( $3,287 )
+Seat 3: myvks ( $2,770 )
+Seat 4: linas.d ( $2,470 )
+Seat 5: fuefue1973 ( $2,330 )
+Seat 6: ticasse14 ( $2,200 )
+Seat 7: rocketQC ( $2,480 )
+Seat 9: PapaShango19 ( $2,420 )
+Seat 10: g4sprokets ( $2,213 )
+ticasse14 posts small blind [$10]
+rocketQC posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Tc ]
+PapaShango19 folds
+g4sprokets raises [$60]
+Tempdump calls [$60]
+myvks folds
+linas.d folds
+fuefue1973 calls [$60]
+ticasse14 calls [$50]
+rocketQC calls [$40]
+** Dealing flop ** [ 3s, Jd, 7c ]
+ticasse14 bets [$80]
+rocketQC calls [$80]
+g4sprokets calls [$80]
+Tempdump calls [$80]
+fuefue1973 folds
+** Dealing turn ** [ 8h ]
+ticasse14 bets [$260]
+rocketQC folds
+g4sprokets folds
+Tempdump folds
+** Summary **
+ticasse14 did not show his hand
+ticasse14 collected [ $620 ]
+
+
+
+#Game No : 703368619
+***** 888poker Hand History for Game 703368619 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 07:53:01
+Tournament #64464879 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: Tempdump ( $3,147 )
+Seat 3: myvks ( $2,770 )
+Seat 4: linas.d ( $2,470 )
+Seat 5: fuefue1973 ( $2,270 )
+Seat 6: ticasse14 ( $2,680 )
+Seat 7: rocketQC ( $2,340 )
+Seat 9: PapaShango19 ( $2,420 )
+Seat 10: g4sprokets ( $2,073 )
+rocketQC posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ah ]
+g4sprokets folds
+Tempdump calls [$20]
+myvks calls [$20]
+linas.d folds
+fuefue1973 calls [$20]
+ticasse14 folds
+rocketQC folds
+PapaShango19 checks
+** Dealing flop ** [ Qd, 6d, 9h ]
+PapaShango19 checks
+Tempdump checks
+myvks checks
+fuefue1973 bets [$67]
+PapaShango19 folds
+Tempdump folds
+myvks folds
+** Summary **
+fuefue1973 did not show his hand
+fuefue1973 collected [ $90 ]
+
+
+

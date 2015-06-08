@@ -1,0 +1,2109 @@
+#Game No : 646370032
+***** 888poker Hand History for Game 646370032 *****
+$15/$30 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:22:10
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: AKN99 ( $2,680 )
+Seat 4: Baboshin ( $2,750 )
+Seat 6: mickrats ( $3,330 )
+Seat 7: V38196 ( $2,920 )
+Seat 9: firefly49 ( $3,360 )
+mickrats posts small blind [$15]
+V38196 posts big blind [$30]
+** Dealing down cards **
+firefly49 calls [$30]
+AKN99 folds
+Baboshin folds
+mickrats calls [$15]
+V38196 checks
+** Dealing flop ** [ 8h, 2s, Tc ]
+mickrats checks
+V38196 checks
+firefly49 checks
+** Dealing turn ** [ As ]
+mickrats bets [$90]
+V38196 folds
+firefly49 calls [$90]
+** Dealing river ** [ 7c ]
+mickrats checks
+firefly49 checks
+** Summary **
+mickrats shows [ Ah, 3c, 8s, 5d ]
+(Hi: Ah, As, 8s, 8h, Tc)
+(Lo: 2s, 3c, 5d, 7c, As)
+firefly49 mucks [ 8d, Qd, Jh, 4c ]
+mickrats collected [ $135 ]
+mickrats collected [ $135 ]
+
+
+
+#Game No : 646370112
+***** 888poker Hand History for Game 646370112 *****
+$15/$30 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:22:19
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $3,000 )
+Seat 2: AKN99 ( $2,680 )
+Seat 4: Baboshin ( $2,750 )
+Seat 6: mickrats ( $3,480 )
+Seat 7: V38196 ( $2,890 )
+Seat 9: firefly49 ( $3,240 )
+V38196 posts small blind [$15]
+firefly49 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Tc, 4c, Ks ]
+PapaShango19 folds
+AKN99 folds
+Baboshin folds
+mickrats folds
+V38196 calls [$15]
+firefly49 checks
+** Dealing flop ** [ 7s, 5h, Jd ]
+V38196 checks
+firefly49 bets [$30]
+V38196 calls [$30]
+** Dealing turn ** [ 6s ]
+V38196 checks
+firefly49 bets [$30]
+V38196 calls [$30]
+** Dealing river ** [ 3s ]
+V38196 checks
+firefly49 checks
+** Summary **
+V38196 shows [ Ah, Qc, 6d, 6h ]
+(Hi: 6d, 6h, 6s, 7s, Jd)
+(Lo: 3s, 5h, 6h, 7s, Ah)
+firefly49 shows [ Ac, 8h, Kd, 7c ]
+(Lo: 3s, 5h, 6s, 7c, Ac)
+V38196 collected [ $90 ]
+V38196 collected [ $45 ]
+firefly49 collected [ $45 ]
+
+
+
+#Game No : 646370173
+***** 888poker Hand History for Game 646370173 *****
+$15/$30 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:23:09
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $3,000 )
+Seat 2: AKN99 ( $2,680 )
+Seat 4: Baboshin ( $2,750 )
+Seat 6: mickrats ( $3,480 )
+Seat 7: V38196 ( $2,935 )
+Seat 9: firefly49 ( $3,195 )
+firefly49 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Th, Qh, Qd ]
+AKN99 folds
+Baboshin folds
+mickrats calls [$30]
+V38196 calls [$30]
+firefly49 calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 4h, Kd, 3d ]
+firefly49 checks
+PapaShango19 checks
+mickrats bets [$90]
+V38196 folds
+firefly49 calls [$90]
+PapaShango19 folds
+** Dealing turn ** [ 9d ]
+firefly49 checks
+mickrats checks
+** Dealing river ** [ 8c ]
+firefly49 checks
+mickrats bets [$225]
+firefly49 folds
+** Summary **
+mickrats did not show his hand
+mickrats collected [ $38 ]
+mickrats collected [ $37 ]
+
+
+
+#Game No : 646370298
+***** 888poker Hand History for Game 646370298 *****
+$15/$30 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:24:39
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,970 )
+Seat 2: AKN99 ( $2,680 )
+Seat 4: Baboshin ( $2,750 )
+Seat 6: mickrats ( $3,660 )
+Seat 9: firefly49 ( $3,075 )
+PapaShango19 posts small blind [$15]
+AKN99 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 8d, 3s, 2s ]
+Baboshin calls [$30]
+mickrats folds
+firefly49 calls [$30]
+PapaShango19 calls [$15]
+AKN99 checks
+** Dealing flop ** [ Kc, 6c, 3h ]
+PapaShango19 checks
+AKN99 bets [$120]
+Baboshin calls [$120]
+firefly49 folds
+PapaShango19 folds
+** Dealing turn ** [ Jc ]
+AKN99 bets [$360]
+Baboshin calls [$360]
+** Dealing river ** [ 8s ]
+AKN99 bets [$30]
+Baboshin raises [$585]
+AKN99 calls [$555]
+** Summary **
+Baboshin shows [ Kd, Ts, 5c, Ad ]
+(Hi: Kd, Kc, 8s, Jc, Ad)
+(Lo: 3h, 5c, 6c, 8s, Ad)
+AKN99 shows [ As, Kh, 9s, Qd ]
+(Hi: Kh, Kc, 8s, Jc, As)
+AKN99 collected [ $563 ]
+Baboshin collected [ $562 ]
+Baboshin collected [ $1,125 ]
+
+
+
+#Game No : 646370392
+***** 888poker Hand History for Game 646370392 *****
+$15/$30 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:25:56
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,940 )
+Seat 2: AKN99 ( $2,148 )
+Seat 4: Baboshin ( $3,342 )
+Seat 6: mickrats ( $3,660 )
+Seat 9: firefly49 ( $3,045 )
+AKN99 posts small blind [$15]
+Baboshin posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 4h, Tc, 8c ]
+mickrats calls [$30]
+firefly49 calls [$30]
+PapaShango19 folds
+AKN99 calls [$15]
+Baboshin checks
+** Dealing flop ** [ Qh, As, 7d ]
+AKN99 checks
+Baboshin checks
+mickrats checks
+firefly49 checks
+** Dealing turn ** [ Jc ]
+AKN99 bets [$120]
+Baboshin folds
+mickrats calls [$120]
+firefly49 folds
+** Dealing river ** [ Ah ]
+AKN99 bets [$270]
+mickrats folds
+** Summary **
+AKN99 collected [ $360 ]
+
+
+
+#Game No : 646370611
+***** 888poker Hand History for Game 646370611 *****
+$25/$50 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:28:19
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,940 )
+Seat 2: AKN99 ( $2,358 )
+Seat 4: Baboshin ( $3,312 )
+Seat 6: mickrats ( $3,510 )
+Seat 7: zebob1 ( $3,000 )
+Seat 9: firefly49 ( $3,015 )
+Baboshin posts small blind [$25]
+mickrats posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 8s, 8h, Ts ]
+zebob1 folds
+firefly49 folds
+PapaShango19 folds
+AKN99 folds
+Baboshin folds
+** Summary **
+mickrats did not show his hand
+mickrats collected [ $75 ]
+
+
+
+#Game No : 646370639
+***** 888poker Hand History for Game 646370639 *****
+$25/$50 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:28:37
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,940 )
+Seat 2: AKN99 ( $2,358 )
+Seat 4: Baboshin ( $3,287 )
+Seat 6: mickrats ( $3,535 )
+Seat 7: zebob1 ( $3,000 )
+Seat 9: firefly49 ( $3,015 )
+mickrats posts small blind [$25]
+zebob1 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 7c, 4c, Ac ]
+firefly49 folds
+PapaShango19 calls [$50]
+AKN99 folds
+Baboshin folds
+mickrats calls [$25]
+zebob1 checks
+** Dealing flop ** [ 3d, 4s, 3h ]
+mickrats checks
+zebob1 checks
+PapaShango19 checks
+** Dealing turn ** [ 2h ]
+mickrats checks
+zebob1 checks
+PapaShango19 checks
+** Dealing river ** [ Kd ]
+mickrats bets [$150]
+zebob1 folds
+PapaShango19 raises [$350]
+mickrats calls [$200]
+** Summary **
+PapaShango19 shows [ 5d, 7c, 4c, Ac ]
+(Lo: 2h, 3h, 4s, 5d, Ac)
+mickrats shows [ Kh, Tc, 5c, Kc ]
+(Hi: Kh, Kc, Kd, 3d, 3h)
+mickrats collected [ $425 ]
+PapaShango19 collected [ $425 ]
+
+
+
+#Game No : 646370767
+***** 888poker Hand History for Game 646370767 *****
+$25/$50 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:30:12
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,965 )
+Seat 2: AKN99 ( $2,358 )
+Seat 4: Baboshin ( $3,287 )
+Seat 6: mickrats ( $3,560 )
+Seat 7: zebob1 ( $2,950 )
+Seat 9: Sybeeria ( $3,000 )
+zebob1 posts small blind [$25]
+Sybeeria posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 3h, 7d, Ts ]
+PapaShango19 folds
+AKN99 calls [$50]
+Baboshin folds
+mickrats calls [$50]
+zebob1 calls [$25]
+Sybeeria checks
+** Dealing flop ** [ 2c, 3d, 6d ]
+zebob1 checks
+Sybeeria bets [$50]
+AKN99 folds
+mickrats calls [$50]
+zebob1 folds
+** Dealing turn ** [ Th ]
+Sybeeria bets [$50]
+mickrats calls [$50]
+** Dealing river ** [ 7s ]
+Sybeeria bets [$100]
+mickrats calls [$100]
+** Summary **
+Sybeeria shows [ Js, 2s, 9d, 4d ]
+(Hi: 2s, 2c, 7s, Th, Js)
+mickrats shows [ 5h, As, Jc, Kd ]
+(Lo: 2c, 3d, 5h, 6d, As)
+Sybeeria collected [ $300 ]
+mickrats collected [ $300 ]
+
+
+
+#Game No : 646370866
+***** 888poker Hand History for Game 646370866 *****
+$25/$50 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:31:26
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,965 )
+Seat 2: AKN99 ( $2,308 )
+Seat 4: Baboshin ( $3,287 )
+Seat 6: mickrats ( $3,610 )
+Seat 7: zebob1 ( $2,900 )
+Seat 9: Sybeeria ( $3,050 )
+Sybeeria posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 9c, 9s, 8h ]
+AKN99 folds
+Baboshin calls [$50]
+mickrats calls [$50]
+zebob1 folds
+Sybeeria calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ 5d, Kc, Jh ]
+Sybeeria checks
+PapaShango19 checks
+Baboshin checks
+mickrats checks
+** Dealing turn ** [ Ac ]
+Sybeeria bets [$50]
+PapaShango19 folds
+Baboshin calls [$50]
+mickrats calls [$50]
+** Dealing river ** [ 8d ]
+Sybeeria checks
+Baboshin bets [$100]
+mickrats folds
+Sybeeria folds
+** Summary **
+Baboshin did not show his hand
+Baboshin collected [ $125 ]
+Baboshin collected [ $125 ]
+
+
+
+#Game No : 646371023
+***** 888poker Hand History for Game 646371023 *****
+$25/$50 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:33:18
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,915 )
+Seat 2: AKN99 ( $2,308 )
+Seat 4: Baboshin ( $3,537 )
+Seat 6: mickrats ( $3,510 )
+Seat 7: zebob1 ( $2,900 )
+Seat 9: Sybeeria ( $2,950 )
+PapaShango19 posts small blind [$25]
+AKN99 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 3s, Ah, 9d ]
+Baboshin folds
+mickrats calls [$50]
+zebob1 calls [$50]
+Sybeeria raises [$100]
+PapaShango19 calls [$75]
+AKN99 calls [$50]
+mickrats calls [$50]
+zebob1 calls [$50]
+** Dealing flop ** [ 8d, 9c, Td ]
+PapaShango19 checks
+AKN99 checks
+mickrats checks
+zebob1 checks
+Sybeeria bets [$150]
+PapaShango19 folds
+AKN99 folds
+mickrats folds
+zebob1 calls [$150]
+** Dealing turn ** [ 9h ]
+zebob1 checks
+Sybeeria checks
+** Dealing river ** [ 6d ]
+zebob1 bets [$400]
+Sybeeria folds
+** Summary **
+zebob1 did not show his hand
+zebob1 collected [ $800 ]
+
+
+
+#Game No : 646371154
+***** 888poker Hand History for Game 646371154 *****
+$50/$100 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:34:54
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,815 )
+Seat 2: AKN99 ( $2,208 )
+Seat 4: Baboshin ( $3,537 )
+Seat 6: mickrats ( $3,410 )
+Seat 7: zebob1 ( $3,450 )
+Seat 9: Sybeeria ( $2,700 )
+AKN99 posts small blind [$50]
+Baboshin posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 7d, Jc, Ts ]
+mickrats folds
+zebob1 calls [$100]
+Sybeeria raises [$200]
+PapaShango19 folds
+AKN99 folds
+Baboshin folds
+zebob1 calls [$100]
+** Dealing flop ** [ Js, 9c, 6d ]
+zebob1 checks
+Sybeeria checks
+** Dealing turn ** [ Qs ]
+zebob1 checks
+Sybeeria checks
+** Dealing river ** [ Jh ]
+zebob1 checks
+Sybeeria checks
+** Summary **
+zebob1 shows [ 4d, Qh, Kh, 3c ]
+(Hi: Qh, Qs, Js, Jh, Kh)
+Sybeeria shows [ As, 6c, 2c, 7h ]
+zebob1 collected [ $550 ]
+
+
+
+#Game No : 646371254
+***** 888poker Hand History for Game 646371254 *****
+$50/$100 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:35:58
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,815 )
+Seat 2: AKN99 ( $2,158 )
+Seat 4: Baboshin ( $3,437 )
+Seat 6: mickrats ( $3,410 )
+Seat 7: zebob1 ( $3,800 )
+Seat 9: Sybeeria ( $2,500 )
+Baboshin posts small blind [$50]
+mickrats posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 4d, 4c, 6c ]
+zebob1 folds
+Sybeeria calls [$100]
+PapaShango19 folds
+AKN99 raises [$200]
+Baboshin folds
+mickrats calls [$100]
+Sybeeria calls [$100]
+** Dealing flop ** [ Js, 3h, 4h ]
+mickrats checks
+Sybeeria checks
+AKN99 bets [$100]
+mickrats folds
+Sybeeria calls [$100]
+** Dealing turn ** [ 9d ]
+Sybeeria checks
+AKN99 bets [$850]
+Sybeeria raises [$2,200]
+AKN99 calls [$1,008]
+** Dealing river ** [ 5h ]
+** Summary **
+AKN99 shows [ 8d, 8h, Ac, Ah ]
+(Hi: 3h, 4h, 5h, 8h, Ah)
+(Lo: 3h, 4h, 5h, 8h, Ah)
+Sybeeria shows [ 7c, 8s, 9s, 3c ]
+AKN99 collected [ $2,283 ]
+AKN99 collected [ $2,283 ]
+
+
+
+#Game No : 646371382
+***** 888poker Hand History for Game 646371382 *****
+$50/$100 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:37:19
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,815 )
+Seat 2: AKN99 ( $4,566 )
+Seat 4: Baboshin ( $3,387 )
+Seat 6: mickrats ( $3,210 )
+Seat 7: zebob1 ( $3,800 )
+Seat 9: Sybeeria ( $342 )
+mickrats posts small blind [$50]
+zebob1 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Jd, 4c, 9h ]
+Sybeeria folds
+PapaShango19 folds
+AKN99 raises [$200]
+Baboshin folds
+mickrats calls [$150]
+zebob1 calls [$100]
+** Dealing flop ** [ Ts, Td, Ks ]
+mickrats checks
+zebob1 checks
+AKN99 bets [$600]
+mickrats folds
+zebob1 folds
+** Summary **
+AKN99 did not show his hand
+AKN99 collected [ $600 ]
+
+
+
+#Game No : 646371473
+***** 888poker Hand History for Game 646371473 *****
+$50/$100 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:38:10
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,815 )
+Seat 2: AKN99 ( $4,966 )
+Seat 4: Baboshin ( $3,387 )
+Seat 6: mickrats ( $3,010 )
+Seat 7: zebob1 ( $3,600 )
+Seat 9: Sybeeria ( $342 )
+zebob1 posts small blind [$50]
+Sybeeria posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 8h, Td, 2d ]
+PapaShango19 folds
+AKN99 raises [$200]
+Baboshin calls [$200]
+mickrats calls [$200]
+zebob1 calls [$150]
+Sybeeria raises [$242]
+AKN99 calls [$142]
+Baboshin calls [$142]
+mickrats calls [$142]
+zebob1 calls [$142]
+** Dealing flop ** [ Ah, 2s, Tc ]
+zebob1 checks
+AKN99 bets [$100]
+Baboshin calls [$100]
+mickrats folds
+zebob1 calls [$100]
+** Dealing turn ** [ 5d ]
+zebob1 checks
+AKN99 bets [$100]
+Baboshin calls [$100]
+zebob1 calls [$100]
+** Dealing river ** [ 8s ]
+zebob1 checks
+AKN99 bets [$100]
+Baboshin calls [$100]
+zebob1 folds
+** Summary **
+AKN99 shows [ 9s, 3h, Jd, Js ]
+Baboshin shows [ Ad, Kc, 5h, 4c ]
+(Hi: Ad, Ah, 5h, 5d, Tc)
+(Lo: 2s, 4c, 5h, 8s, Ah)
+Sybeeria mucks [ 2h, 8d, Jh, 7h ]
+Baboshin collected [ $855 ]
+Baboshin collected [ $855 ]
+Baboshin collected [ $400 ]
+Baboshin collected [ $400 ]
+
+
+
+#Game No : 646371647
+***** 888poker Hand History for Game 646371647 *****
+$75/$150 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:39:39
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,815 )
+Seat 2: AKN99 ( $4,324 )
+Seat 4: Baboshin ( $5,255 )
+Seat 6: mickrats ( $2,668 )
+Seat 7: zebob1 ( $3,058 )
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Ks, 4s, 2h ]
+AKN99 raises [$300]
+Baboshin folds
+mickrats folds
+zebob1 folds
+PapaShango19 folds
+** Summary **
+AKN99 collected [ $300 ]
+
+
+
+#Game No : 646371703
+***** 888poker Hand History for Game 646371703 *****
+$75/$150 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:40:08
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,665 )
+Seat 2: AKN99 ( $4,474 )
+Seat 4: Baboshin ( $5,255 )
+Seat 6: mickrats ( $2,668 )
+Seat 7: zebob1 ( $3,058 )
+PapaShango19 posts small blind [$75]
+AKN99 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 8d, 9d, 7c ]
+Baboshin folds
+mickrats folds
+zebob1 folds
+PapaShango19 folds
+** Summary **
+AKN99 collected [ $225 ]
+
+
+
+#Game No : 646371770
+***** 888poker Hand History for Game 646371770 *****
+$75/$150 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:40:43
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,590 )
+Seat 2: AKN99 ( $4,549 )
+Seat 4: Baboshin ( $5,255 )
+Seat 6: mickrats ( $2,668 )
+Seat 7: zebob1 ( $3,058 )
+Seat 9: ItsLokiii ( $3,000 )
+AKN99 posts small blind [$75]
+Baboshin posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Ts, 4h, 5d ]
+mickrats calls [$150]
+zebob1 folds
+ItsLokiii calls [$150]
+PapaShango19 folds
+AKN99 calls [$75]
+Baboshin checks
+** Dealing flop ** [ Qd, 9d, 8s ]
+AKN99 checks
+Baboshin checks
+mickrats checks
+ItsLokiii bets [$150]
+AKN99 raises [$300]
+Baboshin folds
+mickrats folds
+ItsLokiii calls [$150]
+** Dealing turn ** [ Jh ]
+AKN99 checks
+ItsLokiii bets [$150]
+AKN99 raises [$1,650]
+ItsLokiii folds
+** Summary **
+AKN99 did not show his hand
+AKN99 collected [ $1,500 ]
+
+
+
+#Game No : 646371929
+***** 888poker Hand History for Game 646371929 *****
+$75/$150 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:42:06
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,590 )
+Seat 2: AKN99 ( $5,449 )
+Seat 4: Baboshin ( $5,105 )
+Seat 6: mickrats ( $2,518 )
+Seat 7: zebob1 ( $3,058 )
+Seat 9: ItsLokiii ( $2,400 )
+Baboshin posts small blind [$75]
+mickrats posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 7d, 4h, Ad ]
+zebob1 calls [$150]
+ItsLokiii calls [$150]
+PapaShango19 folds
+AKN99 folds
+Baboshin calls [$75]
+mickrats checks
+** Dealing flop ** [ 8h, Kc, As ]
+Baboshin checks
+mickrats checks
+zebob1 checks
+ItsLokiii checks
+** Dealing turn ** [ 3s ]
+Baboshin checks
+mickrats checks
+zebob1 checks
+ItsLokiii checks
+** Dealing river ** [ 8s ]
+Baboshin checks
+mickrats checks
+zebob1 checks
+ItsLokiii checks
+** Summary **
+Baboshin shows [ 2d, Th, Kh, 3d ]
+mickrats shows [ 9d, 5c, 9s, Ah ]
+zebob1 shows [ Td, 4c, 7h, Ac ]
+(Lo: 3s, 4c, 7h, 8s, As)
+ItsLokiii shows [ 4s, 8c, 7c, 9h ]
+(Hi: 8c, 8h, 8s, 9h, As)
+(Lo: 3s, 4s, 7c, 8s, As)
+ItsLokiii collected [ $300 ]
+zebob1 collected [ $150 ]
+ItsLokiii collected [ $150 ]
+
+
+
+#Game No : 646372066
+***** 888poker Hand History for Game 646372066 *****
+$75/$150 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:43:13
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,590 )
+Seat 2: AKN99 ( $5,449 )
+Seat 4: Baboshin ( $4,955 )
+Seat 6: mickrats ( $2,368 )
+Seat 7: zebob1 ( $3,058 )
+Seat 9: ItsLokiii ( $2,700 )
+mickrats posts small blind [$75]
+zebob1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5s, Jd, Kc ]
+ItsLokiii calls [$150]
+PapaShango19 folds
+AKN99 calls [$150]
+Baboshin folds
+mickrats folds
+zebob1 checks
+** Dealing flop ** [ Td, 6d, Ts ]
+zebob1 checks
+ItsLokiii checks
+AKN99 bets [$525]
+zebob1 folds
+ItsLokiii raises [$2,100]
+AKN99 calls [$1,575]
+** Dealing turn ** [ 9s ]
+ItsLokiii bets [$450]
+AKN99 calls [$450]
+** Dealing river ** [ Qs ]
+** Summary **
+AKN99 shows [ 4d, 7h, 2d, 4h ]
+ItsLokiii shows [ 3h, Th, Ks, 5c ]
+(Hi: Th, Td, Ts, Qs, Ks)
+ItsLokiii collected [ $5,625 ]
+
+
+
+#Game No : 646372204
+***** 888poker Hand History for Game 646372204 *****
+$75/$150 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:44:19
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,590 )
+Seat 2: AKN99 ( $2,749 )
+Seat 4: Baboshin ( $4,955 )
+Seat 6: mickrats ( $2,293 )
+Seat 7: zebob1 ( $2,908 )
+Seat 9: ItsLokiii ( $5,625 )
+zebob1 posts small blind [$75]
+ItsLokiii posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6d, 5s, Qs ]
+PapaShango19 folds
+AKN99 folds
+Baboshin raises [$450]
+mickrats calls [$450]
+zebob1 folds
+ItsLokiii folds
+** Dealing flop ** [ 2c, 4d, 2s ]
+Baboshin bets [$450]
+mickrats raises [$1,843]
+Baboshin calls [$1,393]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 6h ]
+** Summary **
+Baboshin shows [ 5h, 3s, Qh, As ]
+(Lo: 2s, 3s, 4d, 6h, As)
+mickrats shows [ 2d, Js, 7s, Ac ]
+(Hi: 2d, 2c, 2s, 7s, 7d)
+mickrats collected [ $2,406 ]
+Baboshin collected [ $2,405 ]
+
+
+
+#Game No : 646372317
+***** 888poker Hand History for Game 646372317 *****
+$75/$150 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:45:12
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,590 )
+Seat 4: Baboshin ( $5,067 )
+Seat 6: mickrats ( $2,406 )
+Seat 7: zebob1 ( $2,833 )
+Seat 9: ItsLokiii ( $5,475 )
+ItsLokiii posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Tc, 9d, 5c ]
+Baboshin calls [$150]
+mickrats folds
+zebob1 calls [$150]
+ItsLokiii calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ Ac, 8s, Qd ]
+ItsLokiii checks
+PapaShango19 checks
+Baboshin checks
+zebob1 bets [$300]
+ItsLokiii folds
+PapaShango19 folds
+Baboshin folds
+** Summary **
+zebob1 did not show his hand
+zebob1 collected [ $600 ]
+
+
+
+#Game No : 646372444
+***** 888poker Hand History for Game 646372444 *****
+$100/$200 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:46:05
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,440 )
+Seat 4: Baboshin ( $4,917 )
+Seat 6: mickrats ( $2,406 )
+Seat 7: zebob1 ( $3,283 )
+Seat 9: ItsLokiii ( $5,325 )
+PapaShango19 posts small blind [$100]
+Baboshin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 2c, 9c, 2s ]
+mickrats calls [$200]
+zebob1 calls [$200]
+ItsLokiii folds
+PapaShango19 folds
+Baboshin checks
+** Dealing flop ** [ 4s, 7c, Qd ]
+Baboshin checks
+mickrats checks
+zebob1 bets [$350]
+Baboshin folds
+mickrats calls [$350]
+** Dealing turn ** [ Ts ]
+mickrats checks
+zebob1 bets [$300]
+mickrats calls [$300]
+** Dealing river ** [ As ]
+mickrats checks
+zebob1 bets [$1,000]
+mickrats calls [$1,000]
+** Summary **
+zebob1 shows [ Kd, Qs, 9s, Jc ]
+(Hi: 4s, 9s, Ts, Qs, As)
+mickrats shows [ 8h, 8s, 3c, Ac ]
+(Lo: 3c, 4s, 7c, 8s, As)
+zebob1 collected [ $2,000 ]
+mickrats collected [ $2,000 ]
+
+
+
+#Game No : 646372622
+***** 888poker Hand History for Game 646372622 *****
+$100/$200 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:47:24
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,340 )
+Seat 4: Baboshin ( $4,717 )
+Seat 6: mickrats ( $2,556 )
+Seat 7: zebob1 ( $3,433 )
+Seat 9: ItsLokiii ( $5,325 )
+Baboshin posts small blind [$100]
+mickrats posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 5s, 8h, 4c ]
+zebob1 raises [$700]
+ItsLokiii folds
+PapaShango19 folds
+Baboshin folds
+mickrats folds
+** Summary **
+zebob1 collected [ $500 ]
+
+
+
+#Game No : 646372710
+***** 888poker Hand History for Game 646372710 *****
+$100/$200 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:48:03
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,340 )
+Seat 2: fosteris ( $3,000 )
+Seat 4: Baboshin ( $4,617 )
+Seat 6: mickrats ( $2,356 )
+Seat 7: zebob1 ( $3,733 )
+Seat 9: ItsLokiii ( $5,325 )
+mickrats posts small blind [$100]
+zebob1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 5d, 2d, 4h ]
+ItsLokiii folds
+PapaShango19 folds
+fosteris calls [$200]
+Baboshin folds
+mickrats calls [$100]
+zebob1 checks
+** Dealing flop ** [ Ks, 6h, 9d ]
+mickrats checks
+zebob1 checks
+fosteris checks
+** Dealing turn ** [ Qd ]
+mickrats checks
+zebob1 checks
+fosteris checks
+** Dealing river ** [ Jc ]
+mickrats bets [$600]
+zebob1 folds
+fosteris folds
+** Summary **
+mickrats did not show his hand
+mickrats collected [ $600 ]
+
+
+
+#Game No : 646372834
+***** 888poker Hand History for Game 646372834 *****
+$100/$200 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:48:58
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,340 )
+Seat 2: fosteris ( $2,800 )
+Seat 4: Baboshin ( $4,617 )
+Seat 6: mickrats ( $2,756 )
+Seat 7: zebob1 ( $3,533 )
+Seat 9: ItsLokiii ( $5,325 )
+zebob1 posts small blind [$100]
+ItsLokiii posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 4c, Ah, Jd ]
+PapaShango19 folds
+fosteris folds
+Baboshin folds
+mickrats calls [$200]
+zebob1 calls [$100]
+ItsLokiii checks
+** Dealing flop ** [ Td, 5h, 5s ]
+zebob1 bets [$200]
+ItsLokiii folds
+mickrats folds
+** Summary **
+zebob1 did not show his hand
+zebob1 collected [ $600 ]
+
+
+
+#Game No : 646372920
+***** 888poker Hand History for Game 646372920 *****
+$100/$200 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:49:40
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,340 )
+Seat 2: fosteris ( $2,800 )
+Seat 4: Baboshin ( $4,617 )
+Seat 6: mickrats ( $2,556 )
+Seat 7: zebob1 ( $3,933 )
+Seat 9: ItsLokiii ( $5,125 )
+ItsLokiii posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Tc, Th, Ac ]
+fosteris folds
+Baboshin folds
+mickrats folds
+zebob1 folds
+ItsLokiii calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Kd, 6c, Ks ]
+ItsLokiii checks
+PapaShango19 checks
+** Dealing turn ** [ 9s ]
+ItsLokiii checks
+PapaShango19 checks
+** Dealing river ** [ 9d ]
+ItsLokiii checks
+PapaShango19 checks
+** Summary **
+ItsLokiii shows [ 2h, Jc, Ad, Qd ]
+PapaShango19 shows [ 5h, Tc, Th, Ac ]
+(Hi: Kd, Ks, Tc, Th, 9d)
+PapaShango19 collected [ $400 ]
+
+
+
+#Game No : 646372995
+***** 888poker Hand History for Game 646372995 *****
+$100/$200 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:50:14
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,540 )
+Seat 2: fosteris ( $2,800 )
+Seat 4: Baboshin ( $4,617 )
+Seat 6: mickrats ( $2,556 )
+Seat 7: zebob1 ( $3,933 )
+Seat 9: ItsLokiii ( $4,925 )
+PapaShango19 posts small blind [$100]
+fosteris posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 4s, 7h, 3h ]
+Baboshin calls [$200]
+mickrats calls [$200]
+zebob1 calls [$200]
+ItsLokiii folds
+PapaShango19 folds
+fosteris checks
+** Dealing flop ** [ Kd, 2h, 9c ]
+fosteris checks
+Baboshin checks
+mickrats bets [$900]
+zebob1 folds
+fosteris folds
+Baboshin folds
+** Summary **
+mickrats did not show his hand
+mickrats collected [ $900 ]
+
+
+
+#Game No : 646373086
+***** 888poker Hand History for Game 646373086 *****
+$100/$200 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:50:57
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,440 )
+Seat 2: fosteris ( $2,600 )
+Seat 4: Baboshin ( $4,417 )
+Seat 6: mickrats ( $3,256 )
+Seat 7: zebob1 ( $3,733 )
+Seat 9: ItsLokiii ( $4,925 )
+fosteris posts small blind [$100]
+Baboshin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Qh, 2h, Qd ]
+mickrats folds
+zebob1 calls [$200]
+ItsLokiii folds
+PapaShango19 folds
+fosteris calls [$100]
+Baboshin checks
+** Dealing flop ** [ Jc, 9c, Qs ]
+fosteris bets [$200]
+Baboshin folds
+zebob1 calls [$200]
+** Dealing turn ** [ Ad ]
+fosteris bets [$200]
+zebob1 calls [$200]
+** Dealing river ** [ 3h ]
+fosteris bets [$200]
+zebob1 calls [$200]
+** Summary **
+fosteris shows [ Tc, Jh, 9d, 4c ]
+zebob1 shows [ Th, 4s, 8c, Ah ]
+(Hi: 8c, 9c, Th, Jc, Qs)
+zebob1 collected [ $1,800 ]
+
+
+
+#Game No : 646373199
+***** 888poker Hand History for Game 646373199 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:51:49
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,440 )
+Seat 2: fosteris ( $1,800 )
+Seat 4: Baboshin ( $4,217 )
+Seat 6: mickrats ( $3,256 )
+Seat 7: zebob1 ( $4,733 )
+Seat 9: ItsLokiii ( $4,925 )
+Baboshin posts small blind [$125]
+mickrats posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Qc, 9h, 2c ]
+zebob1 calls [$250]
+ItsLokiii folds
+PapaShango19 folds
+fosteris folds
+Baboshin folds
+mickrats checks
+** Dealing flop ** [ 4d, Ah, Jd ]
+mickrats checks
+zebob1 bets [$250]
+mickrats folds
+** Summary **
+zebob1 did not show his hand
+zebob1 collected [ $625 ]
+
+
+
+#Game No : 646373271
+***** 888poker Hand History for Game 646373271 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:52:23
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,440 )
+Seat 2: fosteris ( $1,800 )
+Seat 4: Baboshin ( $4,092 )
+Seat 6: mickrats ( $3,006 )
+Seat 7: zebob1 ( $5,108 )
+Seat 9: ItsLokiii ( $4,925 )
+mickrats posts small blind [$125]
+zebob1 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 2s, As, 8c ]
+ItsLokiii folds
+PapaShango19 folds
+fosteris raises [$875]
+Baboshin folds
+mickrats folds
+zebob1 folds
+** Summary **
+fosteris did not show his hand
+fosteris collected [ $625 ]
+
+
+
+#Game No : 646373363
+***** 888poker Hand History for Game 646373363 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:52:59
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,440 )
+Seat 2: fosteris ( $2,175 )
+Seat 4: Baboshin ( $4,092 )
+Seat 6: mickrats ( $2,881 )
+Seat 7: zebob1 ( $4,858 )
+Seat 9: ItsLokiii ( $4,925 )
+zebob1 posts small blind [$125]
+ItsLokiii posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 5c, 8d, 8c ]
+PapaShango19 folds
+fosteris folds
+Baboshin folds
+mickrats folds
+zebob1 calls [$125]
+ItsLokiii checks
+** Dealing flop ** [ 6s, Ks, Qs ]
+zebob1 bets [$250]
+ItsLokiii calls [$250]
+** Dealing turn ** [ 8h ]
+zebob1 bets [$750]
+ItsLokiii folds
+** Summary **
+zebob1 did not show his hand
+zebob1 collected [ $1,000 ]
+
+
+
+#Game No : 646373507
+***** 888poker Hand History for Game 646373507 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 13:54:02
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,440 )
+Seat 2: fosteris ( $2,175 )
+Seat 4: Baboshin ( $4,092 )
+Seat 6: mickrats ( $2,881 )
+Seat 7: zebob1 ( $5,358 )
+Seat 9: ItsLokiii ( $4,425 )
+ItsLokiii posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6h, 7h, 6c ]
+fosteris calls [$250]
+Baboshin folds
+mickrats folds
+zebob1 calls [$250]
+ItsLokiii calls [$125]
+PapaShango19 checks
+** Dealing flop ** [ 7d, 5h, Qs ]
+ItsLokiii checks
+PapaShango19 checks
+fosteris checks
+zebob1 bets [$500]
+ItsLokiii calls [$500]
+PapaShango19 folds
+fosteris folds
+** Dealing turn ** [ 3s ]
+ItsLokiii checks
+zebob1 bets [$500]
+ItsLokiii raises [$2,625]
+zebob1 calls [$2,125]
+** Dealing river ** [ 5d ]
+ItsLokiii bets [$750]
+zebob1 calls [$750]
+** Summary **
+ItsLokiii shows [ 6d, 2d, Ks, 4c ]
+(Hi: 3s, 4c, 5d, 6d, 7d)
+(Lo: 2d, 3s, 4c, 5d, 7d)
+zebob1 mucks [ 8s, 9d, Qc, Ac ]
+ItsLokiii collected [ $4,375 ]
+ItsLokiii collected [ $4,375 ]
+
+
+
+#Game No : 646374252
+***** 888poker Hand History for Game 646374252 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:00:01
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,190 )
+Seat 2: fosteris ( $1,925 )
+Seat 6: Cobalamine ( $11,511 )
+Seat 7: zebob1 ( $1,233 )
+Seat 9: ItsLokiii ( $9,050 )
+PapaShango19 posts small blind [$125]
+fosteris posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Th, 2d, 8s ]
+Cobalamine folds
+zebob1 folds
+ItsLokiii folds
+PapaShango19 calls [$125]
+fosteris checks
+** Dealing flop ** [ 8c, 4c, 2s ]
+PapaShango19 bets [$250]
+fosteris calls [$250]
+** Dealing turn ** [ Ah ]
+PapaShango19 checks
+fosteris checks
+** Dealing river ** [ 9h ]
+PapaShango19 checks
+fosteris checks
+** Summary **
+PapaShango19 shows [ 7s, Th, 2d, 8s ]
+(Hi: 8s, 8c, 2d, 2s, Ah)
+fosteris shows [ Kc, 8d, 2c, 3s ]
+(Hi: 8d, 8c, 2c, 2s, Ah)
+(Lo: 2c, 3s, 4c, 8c, Ah)
+PapaShango19 collected [ $250 ]
+fosteris collected [ $250 ]
+fosteris collected [ $500 ]
+
+
+
+#Game No : 646374395
+***** 888poker Hand History for Game 646374395 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:00:52
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,940 )
+Seat 2: fosteris ( $2,175 )
+Seat 4: BillyDane ( $3,000 )
+Seat 6: Cobalamine ( $11,511 )
+Seat 7: zebob1 ( $1,233 )
+Seat 9: ItsLokiii ( $9,050 )
+fosteris posts small blind [$125]
+BillyDane posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 6h, Kc, 9s ]
+Cobalamine folds
+zebob1 folds
+ItsLokiii folds
+PapaShango19 folds
+fosteris calls [$125]
+BillyDane checks
+** Dealing flop ** [ Td, 7s, Qs ]
+fosteris checks
+BillyDane bets [$250]
+fosteris calls [$250]
+** Dealing turn ** [ Qc ]
+fosteris checks
+BillyDane bets [$500]
+fosteris folds
+** Summary **
+BillyDane did not show his hand
+BillyDane collected [ $1,000 ]
+
+
+
+#Game No : 646374519
+***** 888poker Hand History for Game 646374519 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:01:37
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,940 )
+Seat 2: fosteris ( $1,675 )
+Seat 4: BillyDane ( $3,500 )
+Seat 6: Cobalamine ( $11,511 )
+Seat 7: zebob1 ( $1,233 )
+Seat 9: ItsLokiii ( $9,050 )
+BillyDane posts small blind [$125]
+Cobalamine posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Qc, Js, 4d ]
+zebob1 folds
+ItsLokiii folds
+PapaShango19 folds
+fosteris raises [$875]
+BillyDane folds
+Cobalamine folds
+** Summary **
+fosteris did not show his hand
+fosteris collected [ $625 ]
+
+
+
+#Game No : 646374589
+***** 888poker Hand History for Game 646374589 *****
+$125/$250 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:02:04
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,940 )
+Seat 2: fosteris ( $2,050 )
+Seat 4: BillyDane ( $3,375 )
+Seat 6: Cobalamine ( $11,261 )
+Seat 7: zebob1 ( $1,233 )
+Seat 9: ItsLokiii ( $9,050 )
+Cobalamine posts small blind [$125]
+zebob1 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Tc, Js, Ah ]
+ItsLokiii folds
+PapaShango19 folds
+fosteris folds
+BillyDane folds
+Cobalamine raises [$625]
+zebob1 folds
+** Summary **
+Cobalamine did not show his hand
+Cobalamine collected [ $500 ]
+
+
+
+#Game No : 646374650
+***** 888poker Hand History for Game 646374650 *****
+$150/$300 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:02:27
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,940 )
+Seat 2: fosteris ( $2,050 )
+Seat 4: BillyDane ( $3,375 )
+Seat 6: Cobalamine ( $11,511 )
+Seat 7: zebob1 ( $983 )
+Seat 9: ItsLokiii ( $9,050 )
+zebob1 posts small blind [$150]
+ItsLokiii posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Js, 4c, Jh ]
+PapaShango19 folds
+fosteris calls [$300]
+BillyDane folds
+Cobalamine raises [$1,350]
+zebob1 calls [$833]
+ItsLokiii folds
+fosteris calls [$1,050]
+** Dealing flop ** [ 6d, Ks, 5c ]
+fosteris checks
+Cobalamine bets [$3,983]
+fosteris calls [$700]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Qd ]
+** Summary **
+fosteris shows [ 3h, 3d, 7h, 7d ]
+(Hi: 3d, 6d, 7d, Td, Qd)
+Cobalamine shows [ 6s, Ah, 2h, Ad ]
+zebob1 shows [ 9c, Ts, 2d, 2s ]
+fosteris collected [ $3,249 ]
+fosteris collected [ $2,134 ]
+
+
+
+#Game No : 646374752
+***** 888poker Hand History for Game 646374752 *****
+$150/$300 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:03:09
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $1,940 )
+Seat 2: fosteris ( $5,383 )
+Seat 4: BillyDane ( $3,375 )
+Seat 6: Cobalamine ( $9,461 )
+Seat 9: ItsLokiii ( $8,750 )
+ItsLokiii posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4d, Jd, 6c ]
+fosteris calls [$300]
+BillyDane folds
+Cobalamine folds
+ItsLokiii calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ 7c, 5d, 9d ]
+ItsLokiii checks
+PapaShango19 checks
+fosteris checks
+** Dealing turn ** [ 4h ]
+ItsLokiii checks
+PapaShango19 checks
+fosteris bets [$300]
+ItsLokiii folds
+PapaShango19 folds
+** Summary **
+fosteris did not show his hand
+fosteris collected [ $900 ]
+
+
+
+#Game No : 646374848
+***** 888poker Hand History for Game 646374848 *****
+$150/$300 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:03:52
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $1,640 )
+Seat 2: fosteris ( $5,983 )
+Seat 4: BillyDane ( $3,375 )
+Seat 6: Cobalamine ( $9,461 )
+Seat 9: ItsLokiii ( $8,450 )
+PapaShango19 posts small blind [$150]
+fosteris posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 7h, Ac, 6s ]
+BillyDane folds
+Cobalamine folds
+ItsLokiii folds
+PapaShango19 folds
+** Summary **
+fosteris collected [ $450 ]
+
+
+
+#Game No : 646374897
+***** 888poker Hand History for Game 646374897 *****
+$150/$300 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:04:12
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,490 )
+Seat 2: fosteris ( $6,133 )
+Seat 4: BillyDane ( $3,375 )
+Seat 6: Cobalamine ( $9,461 )
+Seat 7: xiaozuotao ( $7,229 )
+Seat 9: ItsLokiii ( $8,450 )
+fosteris posts small blind [$150]
+BillyDane posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Jc, 7c, 9s ]
+Cobalamine raises [$600]
+xiaozuotao folds
+ItsLokiii folds
+PapaShango19 folds
+fosteris folds
+BillyDane calls [$300]
+** Dealing flop ** [ Kc, Qc, Kh ]
+BillyDane checks
+Cobalamine checks
+** Dealing turn ** [ Ac ]
+BillyDane bets [$300]
+Cobalamine calls [$300]
+** Dealing river ** [ 9h ]
+BillyDane checks
+Cobalamine bets [$600]
+BillyDane folds
+** Summary **
+Cobalamine did not show his hand
+Cobalamine collected [ $1,950 ]
+
+
+
+#Game No : 646375028
+***** 888poker Hand History for Game 646375028 *****
+$150/$300 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:05:06
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,490 )
+Seat 2: fosteris ( $5,983 )
+Seat 4: BillyDane ( $2,475 )
+Seat 6: Cobalamine ( $10,511 )
+Seat 7: xiaozuotao ( $7,229 )
+Seat 9: ItsLokiii ( $8,450 )
+BillyDane posts small blind [$150]
+Cobalamine posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Td, 2h, Jc ]
+xiaozuotao folds
+ItsLokiii folds
+PapaShango19 folds
+fosteris folds
+BillyDane folds
+** Summary **
+Cobalamine did not show his hand
+Cobalamine collected [ $450 ]
+
+
+
+#Game No : 646375074
+***** 888poker Hand History for Game 646375074 *****
+$150/$300 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:05:28
+Tournament #64446401 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,490 )
+Seat 2: fosteris ( $5,983 )
+Seat 4: BillyDane ( $2,325 )
+Seat 6: Cobalamine ( $10,661 )
+Seat 7: xiaozuotao ( $7,229 )
+Seat 9: ItsLokiii ( $8,450 )
+Cobalamine posts small blind [$150]
+xiaozuotao posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 2d, 4h, 4d ]
+ItsLokiii folds
+PapaShango19 calls [$300]
+fosteris calls [$300]
+BillyDane folds
+Cobalamine folds
+xiaozuotao checks
+** Dealing flop ** [ Jd, As, Td ]
+xiaozuotao checks
+PapaShango19 bets [$1,050]
+fosteris folds
+xiaozuotao folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,050 ]
+
+
+
+#Game No : 646375287
+***** 888poker Hand History for Game 646375287 *****
+$150/$300 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:07:03
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2:  ( $3,060 )
+Seat 4:  ( $2,240 )
+Seat 6:  ( $3,879 )
+Seat 7:  ( $3,074 )
+Seat 9:  ( $9,250 )
+ posts small blind [$150]
+ posts big blind [$300]
+** Dealing down cards **
+Dealt to  [ 4d, 2s, Th, 4h ]
+ calls [$300]
+ folds
+ raises [$600]
+ folds
+ folds
+ calls [$300]
+** Dealing flop ** [ Qc, Qs, 7h ]
+ checks
+ bets [$300]
+ calls [$300]
+** Dealing turn ** [ 5h ]
+ checks
+ bets [$600]
+ raises [$2,979]
+ calls [$2,379]
+** Dealing river ** [ 7d ]
+** Summary **
+ shows [ 6d, Ah, 8c, 6s ]
+ shows [ Kh, Qh, Qd, Kd ]
+(Hi: Qh, Qd, Qc, Qs, 7d)
+ collected [ $8,208 ]
+
+
+
+#Game No : 646375905
+***** 888poker Hand History for Game 646375905 *****
+$200/$400 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:08:20
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: ItsLokiii ( $8,000 )
+Seat 2: Jack731015 ( $2,910 )
+Seat 4: PapaShango19 ( $1,940 )
+Seat 7: ruslan1978rv ( $3,074 )
+Seat 9: aularvizquel ( $13,579 )
+PapaShango19 posts small blind [$200]
+ruslan1978rv posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 4h, Tc, 5s ]
+aularvizquel calls [$400]
+ItsLokiii folds
+Jack731015 folds
+PapaShango19 calls [$200]
+ruslan1978rv raises [$400]
+aularvizquel calls [$400]
+PapaShango19 calls [$400]
+** Dealing flop ** [ 7c, Td, Jc ]
+PapaShango19 checks
+ruslan1978rv checks
+aularvizquel bets [$400]
+PapaShango19 folds
+ruslan1978rv calls [$400]
+** Dealing turn ** [ 8h ]
+ruslan1978rv checks
+aularvizquel bets [$800]
+ruslan1978rv calls [$800]
+** Dealing river ** [ Qc ]
+ruslan1978rv checks
+aularvizquel bets [$4,800]
+ruslan1978rv calls [$1,074]
+** Summary **
+ruslan1978rv shows [ 7s, Ac, Ad, 8d ]
+(Hi: 8d, 8h, 7s, 7c, Qc)
+aularvizquel shows [ 4d, Jd, Kd, 2d ]
+ruslan1978rv collected [ $6,948 ]
+
+
+
+#Game No : 646376740
+***** 888poker Hand History for Game 646376740 *****
+$200/$400 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:09:35
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: ItsLokiii ( $8,000 )
+Seat 2: Jack731015 ( $2,910 )
+Seat 4: PapaShango19 ( $1,140 )
+Seat 7: ruslan1978rv ( $6,948 )
+Seat 9: aularvizquel ( $10,505 )
+ruslan1978rv posts small blind [$200]
+aularvizquel posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 8d, 7s, As ]
+ItsLokiii folds
+Jack731015 folds
+PapaShango19 raises [$1,140]
+ruslan1978rv folds
+aularvizquel calls [$740]
+** Dealing flop ** [ 4h, 2d, 3d ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Jh ]
+** Summary **
+PapaShango19 shows [ Tc, 8d, 7s, As ]
+(Hi: 8d, 8c, 4h, Jh, As)
+aularvizquel shows [ Td, 6d, Ah, 7c ]
+(Lo: 2d, 3d, 4h, 6d, Ah)
+PapaShango19 collected [ $1,240 ]
+aularvizquel collected [ $1,240 ]
+
+
+
+#Game No : 646377090
+***** 888poker Hand History for Game 646377090 *****
+$200/$400 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:10:07
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: ItsLokiii ( $8,000 )
+Seat 2: Jack731015 ( $2,910 )
+Seat 4: PapaShango19 ( $1,240 )
+Seat 7: ruslan1978rv ( $6,748 )
+Seat 9: aularvizquel ( $10,605 )
+aularvizquel posts small blind [$200]
+ItsLokiii posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3s, Kc, Ks ]
+Jack731015 folds
+PapaShango19 raises [$1,240]
+ruslan1978rv folds
+aularvizquel calls [$1,040]
+ItsLokiii folds
+** Dealing flop ** [ 2s, 9h, 4s ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 8h ]
+** Summary **
+PapaShango19 shows [ 5h, 3s, Kc, Ks ]
+(Hi: 2s, 3s, 4s, 7s, Ks)
+(Lo: 2s, 3s, 4s, 5h, 7s)
+aularvizquel shows [ 5s, 5d, 6d, 3h ]
+(Lo: 2s, 3h, 4s, 5d, 7s)
+PapaShango19 collected [ $1,440 ]
+aularvizquel collected [ $720 ]
+PapaShango19 collected [ $720 ]
+
+
+
+#Game No : 646377722
+***** 888poker Hand History for Game 646377722 *****
+$200/$400 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:11:00
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: ItsLokiii ( $7,600 )
+Seat 2: Jack731015 ( $2,910 )
+Seat 4: PapaShango19 ( $2,160 )
+Seat 7: ruslan1978rv ( $6,748 )
+Seat 9: aularvizquel ( $10,085 )
+ItsLokiii posts small blind [$200]
+Jack731015 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 9s, 9h, Kd ]
+PapaShango19 folds
+ruslan1978rv calls [$400]
+aularvizquel calls [$400]
+ItsLokiii calls [$200]
+Jack731015 checks
+** Dealing flop ** [ 6s, 7h, 3c ]
+ItsLokiii checks
+Jack731015 checks
+ruslan1978rv checks
+aularvizquel bets [$400]
+ItsLokiii folds
+Jack731015 folds
+ruslan1978rv folds
+** Summary **
+aularvizquel did not show his hand
+aularvizquel collected [ $1,600 ]
+
+
+
+#Game No : 646378261
+***** 888poker Hand History for Game 646378261 *****
+$200/$400 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:11:49
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: ItsLokiii ( $7,200 )
+Seat 2: Jack731015 ( $2,510 )
+Seat 4: PapaShango19 ( $2,160 )
+Seat 7: ruslan1978rv ( $6,348 )
+Seat 9: aularvizquel ( $11,285 )
+Jack731015 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3h, 4d, 4c ]
+ruslan1978rv folds
+aularvizquel calls [$400]
+ItsLokiii raises [$1,800]
+Jack731015 folds
+PapaShango19 folds
+aularvizquel folds
+** Summary **
+ItsLokiii did not show his hand
+ItsLokiii collected [ $1,400 ]
+
+
+
+#Game No : 646378663
+***** 888poker Hand History for Game 646378663 *****
+$200/$400 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:12:23
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: ItsLokiii ( $8,200 )
+Seat 2: Jack731015 ( $2,310 )
+Seat 4: PapaShango19 ( $1,760 )
+Seat 7: ruslan1978rv ( $6,348 )
+Seat 9: aularvizquel ( $10,885 )
+PapaShango19 posts small blind [$200]
+ruslan1978rv posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Qc, 2s, Td ]
+aularvizquel calls [$400]
+ItsLokiii folds
+Jack731015 folds
+PapaShango19 folds
+ruslan1978rv checks
+** Dealing flop ** [ Ks, 9c, 6c ]
+ruslan1978rv checks
+aularvizquel bets [$400]
+ruslan1978rv folds
+** Summary **
+aularvizquel collected [ $1,000 ]
+
+
+
+#Game No : 646379236
+***** 888poker Hand History for Game 646379236 *****
+$200/$400 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:13:14
+Tournament #64446401 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: ItsLokiii ( $8,200 )
+Seat 2: Jack731015 ( $2,310 )
+Seat 4: PapaShango19 ( $1,560 )
+Seat 7: ruslan1978rv ( $5,948 )
+Seat 9: aularvizquel ( $11,485 )
+ruslan1978rv posts small blind [$200]
+aularvizquel posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6d, Th, 4c ]
+ItsLokiii folds
+Jack731015 folds
+PapaShango19 folds
+ruslan1978rv calls [$200]
+aularvizquel checks
+** Dealing flop ** [ 4s, Ts, 9h ]
+ruslan1978rv checks
+aularvizquel bets [$400]
+ruslan1978rv calls [$400]
+** Dealing turn ** [ Jc ]
+ruslan1978rv checks
+aularvizquel bets [$400]
+ruslan1978rv raises [$1,400]
+aularvizquel folds
+** Summary **
+ruslan1978rv collected [ $2,400 ]
+
+
+
+#Game No : 646380131
+***** 888poker Hand History for Game 646380131 *****
+$300/$600 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:14:33
+Tournament #64446401 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1:  ( $7,279 )
+Seat 2:  ( $21,296 )
+Seat 4:  ( $4,700 )
+Seat 7:  ( $7,084 )
+Seat 9:  ( $1,560 )
+ posts small blind [$300]
+ posts big blind [$600]
+** Dealing down cards **
+Dealt to  [ Jc, Jh, Ac, Qs ]
+ folds
+ folds
+ folds
+ calls [$300]
+ raises [$960]
+ calls [$960]
+** Dealing flop ** [ 7s, 5h, 2s ]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 2h ]
+** Summary **
+ shows [ Ts, 3d, 3c, Ah ]
+(Lo: 2h, 3c, 5h, 7s, Ah)
+ shows [ Jc, Jh, Ac, Qs ]
+(Hi: Jc, Jh, 2s, 2h, 8d)
+ collected [ $1,560 ]
+ collected [ $1,560 ]
+
+
+
+#Game No : 646380577
+***** 888poker Hand History for Game 646380577 *****
+$300/$600 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:15:12
+Tournament #64446401 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: GavLAce ( $7,279 )
+Seat 2: KRUIM777 ( $21,296 )
+Seat 4: Kache6 ( $4,700 )
+Seat 7: Jijimarga ( $7,084 )
+Seat 9: PapaShango19 ( $1,560 )
+PapaShango19 posts small blind [$300]
+GavLAce posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Qh, Ah, 2s ]
+KRUIM777 calls [$600]
+Kache6 folds
+Jijimarga calls [$600]
+PapaShango19 raises [$1,260]
+GavLAce calls [$960]
+KRUIM777 calls [$960]
+Jijimarga calls [$960]
+** Dealing flop ** [ Ac, 4c, Td ]
+GavLAce checks
+KRUIM777 checks
+Jijimarga bets [$5,524]
+GavLAce folds
+KRUIM777 folds
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ Kh ]
+** Summary **
+Jijimarga shows [ 4h, 4d, 6s, Ad ]
+PapaShango19 shows [ As, Qh, Ah, 2s ]
+(Hi: As, Ah, Ac, Td, Kh)
+PapaShango19 collected [ $6,240 ]
+
+
+
+#Game No : 646380996
+***** 888poker Hand History for Game 646380996 *****
+$300/$600 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:15:50
+Tournament #64446401 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: GavLAce ( $5,719 )
+Seat 2: KRUIM777 ( $19,736 )
+Seat 4: Kache6 ( $4,700 )
+Seat 7: Jijimarga ( $5,524 )
+Seat 9: PapaShango19 ( $6,240 )
+GavLAce posts small blind [$300]
+KRUIM777 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 4h, Qc, 4s ]
+Kache6 calls [$600]
+Jijimarga folds
+PapaShango19 folds
+GavLAce calls [$300]
+KRUIM777 checks
+** Dealing flop ** [ Ts, 6d, Ad ]
+GavLAce checks
+KRUIM777 bets [$600]
+Kache6 calls [$600]
+GavLAce calls [$600]
+** Dealing turn ** [ 7s ]
+GavLAce checks
+KRUIM777 bets [$600]
+Kache6 calls [$600]
+GavLAce calls [$600]
+** Dealing river ** [ 9s ]
+GavLAce checks
+KRUIM777 bets [$600]
+Kache6 calls [$600]
+GavLAce folds
+** Summary **
+KRUIM777 shows [ Jc, Ac, Jh, Jd ]
+(Hi: Ac, Ad, 9s, Ts, Jd)
+Kache6 shows [ 4d, 9d, 2c, 2h ]
+(Lo: 2h, 4d, 6d, 7s, Ad)
+KRUIM777 collected [ $3,300 ]
+Kache6 collected [ $3,300 ]
+
+
+
+#Game No : 646381440
+***** 888poker Hand History for Game 646381440 *****
+$300/$600 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:16:32
+Tournament #64446401 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: GavLAce ( $3,919 )
+Seat 2: KRUIM777 ( $20,636 )
+Seat 4: Kache6 ( $5,600 )
+Seat 7: Jijimarga ( $5,524 )
+Seat 9: PapaShango19 ( $6,240 )
+KRUIM777 posts small blind [$300]
+Kache6 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Kh, 2s, 3s ]
+Jijimarga folds
+PapaShango19 raises [$1,200]
+GavLAce folds
+KRUIM777 folds
+Kache6 calls [$600]
+** Dealing flop ** [ Qc, 3h, 7s ]
+Kache6 checks
+PapaShango19 bets [$1,350]
+Kache6 calls [$1,350]
+** Dealing turn ** [ 9d ]
+Kache6 checks
+PapaShango19 bets [$3,690]
+Kache6 calls [$3,050]
+** Dealing river ** [ 9s ]
+** Summary **
+Kache6 shows [ 9h, 4h, 6s, 2c ]
+(Hi: 9h, 9d, 9s, 6s, Qc)
+PapaShango19 shows [ Kd, Kh, 2s, 3s ]
+Kache6 collected [ $11,500 ]
+
+
+
+#Game No : 646381915
+***** 888poker Hand History for Game 646381915 *****
+$300/$600 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:17:14
+Tournament #64446401 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: GavLAce ( $3,919 )
+Seat 2: KRUIM777 ( $20,336 )
+Seat 4: Kache6 ( $11,500 )
+Seat 7: Jijimarga ( $5,524 )
+Seat 9: PapaShango19 ( $640 )
+Kache6 posts small blind [$300]
+Jijimarga posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qc, Td, 3s ]
+PapaShango19 folds
+GavLAce folds
+KRUIM777 folds
+Kache6 calls [$300]
+Jijimarga raises [$1,200]
+Kache6 calls [$1,200]
+** Dealing flop ** [ Jh, 5h, Ks ]
+Kache6 checks
+Jijimarga bets [$3,600]
+Kache6 calls [$3,600]
+** Dealing turn ** [ Ad ]
+Kache6 checks
+Jijimarga bets [$124]
+Kache6 calls [$124]
+** Dealing river ** [ 9h ]
+** Summary **
+Kache6 shows [ 6d, 8h, 4h, 7h ]
+(Hi: 5h, 7h, 8h, 9h, Jh)
+Jijimarga shows [ Jc, Tc, Ac, As ]
+Kache6 collected [ $11,048 ]
+
+
+
+#Game No : 646382374
+***** 888poker Hand History for Game 646382374 *****
+$300/$600 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:17:52
+Tournament #64446401 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 1: GavLAce ( $3,919 )
+Seat 2: KRUIM777 ( $20,336 )
+Seat 4: Kache6 ( $17,024 )
+Seat 9: PapaShango19 ( $640 )
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Qh, Ts, Jh ]
+GavLAce folds
+KRUIM777 folds
+Kache6 calls [$600]
+PapaShango19 raises [$40]
+Kache6 calls [$40]
+** Dealing flop ** [ Js, Qc, 7h ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ Th ]
+** Summary **
+Kache6 shows [ As, 9d, Jd, 4s ]
+PapaShango19 shows [ Ac, Qh, Ts, Jh ]
+(Hi: 7h, Th, Jh, Qh, Ah)
+PapaShango19 collected [ $1,280 ]
+
+
+
+#Game No : 646382748
+***** 888poker Hand History for Game 646382748 *****
+$300/$600 Blinds Pot Limit OmahaHL - *** 17 12 2014 14:18:23
+Tournament #64446401 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: GavLAce ( $3,919 )
+Seat 2: KRUIM777 ( $20,336 )
+Seat 4: Kache6 ( $16,384 )
+Seat 6: mishkalogvi ( $12,579 )
+Seat 9: PapaShango19 ( $1,280 )
+PapaShango19 posts small blind [$300]
+GavLAce posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Qs, 8c, Ts ]
+KRUIM777 calls [$600]
+Kache6 folds
+mishkalogvi folds
+PapaShango19 raises [$980]
+GavLAce raises [$1,360]
+KRUIM777 calls [$1,360]
+** Dealing flop ** [ Ad, 2h, 2d ]
+GavLAce bets [$600]
+KRUIM777 calls [$600]
+** Dealing turn ** [ Js ]
+GavLAce bets [$600]
+KRUIM777 raises [$1,200]
+GavLAce calls [$600]
+** Dealing river ** [ Ah ]
+GavLAce bets [$159]
+KRUIM777 calls [$159]
+** Summary **
+GavLAce shows [ 4s, As, 3h, 3c ]
+(Hi: As, Ad, Ah, 4s, Js)
+KRUIM777 shows [ 6s, 4h, 7h, 5c ]
+PapaShango19 shows [ Tc, Qs, 8c, Ts ]
+GavLAce collected [ $3,840 ]
+GavLAce collected [ $5,278 ]
+
+
+

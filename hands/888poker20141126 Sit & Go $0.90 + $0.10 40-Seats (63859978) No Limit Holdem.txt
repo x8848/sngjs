@@ -1,0 +1,305 @@
+#Game No : 696787791
+***** 888poker Hand History for Game 696787791 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:31:17
+Tournament #63859978 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: SimStorm79 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: rubieslipper ( $1,000 )
+Seat 5: Cattastrofa ( $1,000 )
+Seat 6: fktrc777 ( $1,000 )
+Seat 7: bypoker15 ( $1,000 )
+Seat 8: mamalis33 ( $1,000 )
+Seat 10: Dumein7777 ( $1,000 )
+rubieslipper posts small blind [$10]
+Cattastrofa posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8d ]
+fktrc777 folds
+bypoker15 folds
+mamalis33 folds
+Dumein7777 folds
+SimStorm79 folds
+PapaShango19 folds
+rubieslipper raises [$50]
+Cattastrofa calls [$40]
+** Dealing flop ** [ 8h, Qd, 5h ]
+rubieslipper checks
+Cattastrofa checks
+** Dealing turn ** [ 2s ]
+rubieslipper checks
+Cattastrofa checks
+** Dealing river ** [ 5c ]
+rubieslipper bets [$60]
+Cattastrofa folds
+** Summary **
+rubieslipper did not show his hand
+rubieslipper collected [ $120 ]
+
+
+
+#Game No : 696787934
+***** 888poker Hand History for Game 696787934 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:32:36
+Tournament #63859978 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SimStorm79 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: rubieslipper ( $1,060 )
+Seat 5: Cattastrofa ( $940 )
+Seat 6: fktrc777 ( $1,000 )
+Seat 7: bypoker15 ( $1,000 )
+Seat 8: mamalis33 ( $1,000 )
+Seat 10: Dumein7777 ( $1,000 )
+Cattastrofa posts small blind [$10]
+fktrc777 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 9c ]
+bypoker15 folds
+mamalis33 calls [$20]
+Dumein7777 folds
+SimStorm79 folds
+PapaShango19 folds
+rubieslipper calls [$20]
+Cattastrofa calls [$10]
+fktrc777 checks
+** Dealing flop ** [ 4h, Ad, 4d ]
+Cattastrofa checks
+fktrc777 checks
+mamalis33 checks
+rubieslipper checks
+** Dealing turn ** [ Qh ]
+Cattastrofa checks
+fktrc777 checks
+mamalis33 checks
+rubieslipper checks
+** Dealing river ** [ 3s ]
+Cattastrofa checks
+fktrc777 checks
+mamalis33 bets [$20]
+rubieslipper calls [$20]
+Cattastrofa folds
+fktrc777 folds
+** Summary **
+mamalis33 shows [ Ah, 7h ]
+rubieslipper mucks [ 9h, 9s ]
+mamalis33 collected [ $120 ]
+
+
+
+#Game No : 696788047
+***** 888poker Hand History for Game 696788047 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:33:46
+Tournament #63859978 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: SimStorm79 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: rubieslipper ( $1,020 )
+Seat 5: Cattastrofa ( $920 )
+Seat 6: fktrc777 ( $980 )
+Seat 7: bypoker15 ( $1,000 )
+Seat 8: mamalis33 ( $1,080 )
+Seat 10: Dumein7777 ( $1,000 )
+fktrc777 posts small blind [$10]
+bypoker15 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7s ]
+mamalis33 folds
+Dumein7777 folds
+SimStorm79 folds
+PapaShango19 folds
+rubieslipper folds
+Cattastrofa calls [$20]
+fktrc777 calls [$10]
+bypoker15 checks
+** Dealing flop ** [ 6h, 5d, Ah ]
+fktrc777 checks
+bypoker15 checks
+Cattastrofa checks
+** Dealing turn ** [ Kd ]
+fktrc777 checks
+bypoker15 checks
+Cattastrofa checks
+** Dealing river ** [ 3d ]
+fktrc777 bets [$20]
+bypoker15 folds
+Cattastrofa folds
+** Summary **
+fktrc777 did not show his hand
+fktrc777 collected [ $60 ]
+
+
+
+#Game No : 696788135
+***** 888poker Hand History for Game 696788135 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:34:36
+Tournament #63859978 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: SimStorm79 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: rubieslipper ( $1,020 )
+Seat 5: Cattastrofa ( $900 )
+Seat 6: fktrc777 ( $1,020 )
+Seat 7: bypoker15 ( $980 )
+Seat 8: mamalis33 ( $1,080 )
+Seat 10: Dumein7777 ( $1,000 )
+bypoker15 posts small blind [$10]
+mamalis33 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 7d ]
+Dumein7777 raises [$40]
+SimStorm79 folds
+PapaShango19 folds
+rubieslipper folds
+Cattastrofa calls [$40]
+fktrc777 folds
+bypoker15 calls [$30]
+mamalis33 calls [$20]
+** Dealing flop ** [ Ts, 4s, 4c ]
+bypoker15 checks
+mamalis33 checks
+Dumein7777 bets [$40]
+Cattastrofa calls [$40]
+bypoker15 folds
+mamalis33 folds
+** Dealing turn ** [ 8d ]
+Dumein7777 bets [$20]
+Cattastrofa calls [$20]
+** Dealing river ** [ 4d ]
+Dumein7777 bets [$20]
+Cattastrofa calls [$20]
+** Summary **
+Dumein7777 shows [ Js, As ]
+Cattastrofa shows [ Kd, Kc ]
+Cattastrofa collected [ $320 ]
+
+
+
+#Game No : 696788240
+***** 888poker Hand History for Game 696788240 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:35:28
+Tournament #63859978 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: SimStorm79 ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: rubieslipper ( $1,020 )
+Seat 5: Cattastrofa ( $1,100 )
+Seat 6: fktrc777 ( $1,020 )
+Seat 7: bypoker15 ( $940 )
+Seat 8: mamalis33 ( $1,040 )
+Seat 10: Dumein7777 ( $880 )
+mamalis33 posts small blind [$10]
+Dumein7777 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Ks ]
+SimStorm79 calls [$20]
+PapaShango19 folds
+rubieslipper folds
+Cattastrofa folds
+fktrc777 calls [$20]
+bypoker15 folds
+mamalis33 calls [$10]
+Dumein7777 checks
+** Dealing flop ** [ 5s, Qh, 3h ]
+mamalis33 checks
+Dumein7777 checks
+SimStorm79 checks
+fktrc777 bets [$40]
+mamalis33 folds
+Dumein7777 calls [$40]
+SimStorm79 folds
+** Dealing turn ** [ 6d ]
+Dumein7777 checks
+fktrc777 bets [$80]
+Dumein7777 folds
+** Summary **
+fktrc777 did not show his hand
+fktrc777 collected [ $160 ]
+
+
+
+#Game No : 696788342
+***** 888poker Hand History for Game 696788342 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:36:25
+Tournament #63859978 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: SimStorm79 ( $980 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: rubieslipper ( $1,020 )
+Seat 5: Cattastrofa ( $1,100 )
+Seat 6: fktrc777 ( $1,120 )
+Seat 7: bypoker15 ( $940 )
+Seat 8: mamalis33 ( $1,020 )
+Seat 10: Dumein7777 ( $820 )
+Dumein7777 posts small blind [$10]
+SimStorm79 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Jd ]
+PapaShango19 raises [$40]
+rubieslipper folds
+Cattastrofa calls [$40]
+fktrc777 folds
+bypoker15 folds
+mamalis33 calls [$40]
+Dumein7777 folds
+SimStorm79 calls [$20]
+** Dealing flop ** [ Tc, Kc, 6h ]
+SimStorm79 bets [$170]
+PapaShango19 raises [$340]
+Cattastrofa folds
+mamalis33 calls [$340]
+SimStorm79 calls [$170]
+** Dealing turn ** [ 8c ]
+SimStorm79 bets [$600]
+PapaShango19 raises [$620]
+mamalis33 folds
+** Dealing river ** [ Jh ]
+** Summary **
+SimStorm79 shows [ Qc, 4c ]
+PapaShango19 shows [ Kh, Jd ]
+SimStorm79 collected [ $2,390 ]
+
+
+
+#Game No : 696788437
+***** 888poker Hand History for Game 696788437 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:37:28
+Tournament #63859978 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: SimStorm79 ( $2,390 )
+Seat 2: PapaShango19 ( $20 )
+Seat 3: rubieslipper ( $1,020 )
+Seat 5: Cattastrofa ( $1,060 )
+Seat 6: fktrc777 ( $1,120 )
+Seat 7: bypoker15 ( $940 )
+Seat 8: mamalis33 ( $640 )
+Seat 10: Dumein7777 ( $810 )
+SimStorm79 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 9s ]
+rubieslipper folds
+Cattastrofa folds
+fktrc777 raises [$40]
+bypoker15 folds
+mamalis33 folds
+Dumein7777 folds
+SimStorm79 folds
+** Dealing flop ** [ 3d, 9c, Ts ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ Ac ]
+** Summary **
+PapaShango19 shows [ Tc, 9s ]
+fktrc777 shows [ Qs, Ad ]
+fktrc777 collected [ $50 ]
+fktrc777 collected [ $20 ]
+
+
+

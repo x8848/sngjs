@@ -1,0 +1,950 @@
+#Game No : 696788758
+***** 888poker Hand History for Game 696788758 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:40:21
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,500 )
+Seat 2: narpok ( $1,500 )
+Seat 3: EricStevens ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,500 )
+Seat 7: barmbekm50 ( $1,500 )
+Seat 9: hsvdote ( $1,500 )
+Seat 10: adrian236ss ( $1,500 )
+NeoVigilante posts small blind [$10]
+barmbekm50 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2h ]
+hsvdote folds
+adrian236ss calls [$20]
+ericsen90 folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+barmbekm50 checks
+** Dealing flop ** [ 8h, Tc, As ]
+barmbekm50 checks
+adrian236ss checks
+** Dealing turn ** [ 9c ]
+barmbekm50 checks
+adrian236ss bets [$20]
+barmbekm50 calls [$20]
+** Dealing river ** [ 6c ]
+barmbekm50 checks
+adrian236ss checks
+** Summary **
+barmbekm50 shows [ Qd, Js ]
+adrian236ss mucks [ 9s, Qc ]
+barmbekm50 collected [ $90 ]
+
+
+
+#Game No : 696788876
+***** 888poker Hand History for Game 696788876 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:41:23
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,500 )
+Seat 2: narpok ( $1,500 )
+Seat 3: EricStevens ( $1,500 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,490 )
+Seat 7: barmbekm50 ( $1,550 )
+Seat 9: hsvdote ( $1,500 )
+Seat 10: adrian236ss ( $1,460 )
+barmbekm50 posts small blind [$10]
+hsvdote posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Kh ]
+adrian236ss calls [$20]
+ericsen90 folds
+narpok folds
+EricStevens raises [$50]
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+barmbekm50 folds
+hsvdote folds
+adrian236ss calls [$30]
+** Dealing flop ** [ 6d, As, 8d ]
+adrian236ss checks
+EricStevens bets [$65]
+adrian236ss folds
+** Summary **
+EricStevens did not show his hand
+EricStevens collected [ $130 ]
+
+
+
+#Game No : 696788948
+***** 888poker Hand History for Game 696788948 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:41:58
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,500 )
+Seat 2: narpok ( $1,500 )
+Seat 3: EricStevens ( $1,580 )
+Seat 4: PapaShango19 ( $1,500 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,490 )
+Seat 7: barmbekm50 ( $1,540 )
+Seat 9: hsvdote ( $1,480 )
+Seat 10: adrian236ss ( $1,410 )
+hsvdote posts small blind [$10]
+adrian236ss posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 2d ]
+ericsen90 folds
+narpok folds
+EricStevens raises [$40]
+PapaShango19 calls [$40]
+adelynochka folds
+NeoVigilante calls [$40]
+barmbekm50 folds
+hsvdote folds
+adrian236ss calls [$20]
+** Dealing flop ** [ Qc, 4s, 8s ]
+adrian236ss checks
+EricStevens bets [$90]
+PapaShango19 folds
+NeoVigilante folds
+adrian236ss calls [$90]
+** Dealing turn ** [ Js ]
+adrian236ss checks
+EricStevens bets [$100]
+adrian236ss raises [$200]
+EricStevens calls [$100]
+** Dealing river ** [ 3s ]
+adrian236ss bets [$220]
+EricStevens raises [$500]
+adrian236ss folds
+** Summary **
+EricStevens did not show his hand
+EricStevens collected [ $1,190 ]
+
+
+
+#Game No : 696789185
+***** 888poker Hand History for Game 696789185 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:44:13
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,500 )
+Seat 2: narpok ( $1,500 )
+Seat 3: EricStevens ( $2,220 )
+Seat 4: PapaShango19 ( $1,460 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,450 )
+Seat 7: barmbekm50 ( $1,540 )
+Seat 9: hsvdote ( $1,470 )
+Seat 10: adrian236ss ( $860 )
+adrian236ss posts small blind [$10]
+ericsen90 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Qc ]
+narpok folds
+EricStevens calls [$20]
+PapaShango19 calls [$20]
+adelynochka folds
+NeoVigilante folds
+barmbekm50 folds
+hsvdote folds
+adrian236ss calls [$10]
+ericsen90 checks
+** Dealing flop ** [ 7c, Qd, 6h ]
+adrian236ss checks
+ericsen90 checks
+EricStevens checks
+PapaShango19 bets [$60]
+adrian236ss calls [$60]
+ericsen90 folds
+EricStevens calls [$60]
+** Dealing turn ** [ 4c ]
+adrian236ss checks
+EricStevens checks
+PapaShango19 bets [$130]
+adrian236ss calls [$130]
+EricStevens folds
+** Dealing river ** [ 3d ]
+adrian236ss bets [$200]
+PapaShango19 folds
+** Summary **
+adrian236ss did not show his hand
+adrian236ss collected [ $520 ]
+
+
+
+#Game No : 696789390
+***** 888poker Hand History for Game 696789390 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:46:07
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,480 )
+Seat 2: narpok ( $1,500 )
+Seat 3: EricStevens ( $2,140 )
+Seat 4: PapaShango19 ( $1,250 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,450 )
+Seat 7: barmbekm50 ( $1,540 )
+Seat 9: hsvdote ( $1,470 )
+Seat 10: adrian236ss ( $1,170 )
+ericsen90 posts small blind [$10]
+narpok posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Jd ]
+EricStevens folds
+PapaShango19 raises [$60]
+adelynochka folds
+NeoVigilante folds
+barmbekm50 calls [$60]
+hsvdote folds
+adrian236ss folds
+ericsen90 folds
+narpok folds
+** Dealing flop ** [ 5d, 7d, 6s ]
+PapaShango19 checks
+barmbekm50 checks
+** Dealing turn ** [ 4h ]
+PapaShango19 checks
+barmbekm50 checks
+** Dealing river ** [ Ah ]
+PapaShango19 checks
+barmbekm50 checks
+** Summary **
+PapaShango19 shows [ As, Jd ]
+barmbekm50 shows [ Ad, Jc ]
+PapaShango19 collected [ $75 ]
+barmbekm50 collected [ $75 ]
+
+
+
+#Game No : 696789487
+***** 888poker Hand History for Game 696789487 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:47:00
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,480 )
+Seat 3: EricStevens ( $2,140 )
+Seat 4: PapaShango19 ( $1,265 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,450 )
+Seat 7: barmbekm50 ( $1,555 )
+Seat 9: hsvdote ( $1,470 )
+Seat 10: adrian236ss ( $1,170 )
+narpok posts small blind [$10]
+EricStevens posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Kc ]
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+barmbekm50 folds
+hsvdote folds
+adrian236ss raises [$70]
+ericsen90 folds
+narpok folds
+EricStevens folds
+** Summary **
+adrian236ss did not show his hand
+adrian236ss collected [ $50 ]
+
+
+
+#Game No : 696789528
+***** 888poker Hand History for Game 696789528 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:47:22
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,120 )
+Seat 4: PapaShango19 ( $1,265 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,450 )
+Seat 7: barmbekm50 ( $1,555 )
+Seat 9: hsvdote ( $1,470 )
+Seat 10: adrian236ss ( $1,200 )
+EricStevens posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 9s ]
+adelynochka folds
+NeoVigilante folds
+barmbekm50 calls [$20]
+hsvdote raises [$105]
+adrian236ss folds
+ericsen90 folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+barmbekm50 calls [$85]
+** Dealing flop ** [ 3c, 3d, Tc ]
+barmbekm50 checks
+hsvdote bets [$180]
+barmbekm50 folds
+** Summary **
+hsvdote did not show his hand
+hsvdote collected [ $240 ]
+
+
+
+#Game No : 696789616
+***** 888poker Hand History for Game 696789616 *****
+$10/$20 Blinds No Limit Holdem - *** 26 11 2014 09:48:07
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,110 )
+Seat 4: PapaShango19 ( $1,245 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: NeoVigilante ( $1,450 )
+Seat 7: barmbekm50 ( $1,450 )
+Seat 9: hsvdote ( $1,605 )
+Seat 10: adrian236ss ( $1,200 )
+PapaShango19 posts small blind [$10]
+adelynochka posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5d ]
+NeoVigilante folds
+barmbekm50 folds
+hsvdote folds
+adrian236ss raises [$52]
+ericsen90 folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+** Summary **
+adrian236ss did not show his hand
+adrian236ss collected [ $50 ]
+
+
+
+#Game No : 696789670
+***** 888poker Hand History for Game 696789670 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:48:33
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,110 )
+Seat 4: PapaShango19 ( $1,235 )
+Seat 5: adelynochka ( $1,480 )
+Seat 6: NeoVigilante ( $1,450 )
+Seat 7: barmbekm50 ( $1,450 )
+Seat 9: hsvdote ( $1,605 )
+Seat 10: adrian236ss ( $1,230 )
+adelynochka posts small blind [$15]
+NeoVigilante posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 9d ]
+barmbekm50 calls [$30]
+hsvdote folds
+adrian236ss calls [$30]
+ericsen90 folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante checks
+** Dealing flop ** [ 8s, 9s, 3d ]
+NeoVigilante checks
+barmbekm50 checks
+adrian236ss bets [$30]
+NeoVigilante folds
+barmbekm50 calls [$30]
+** Dealing turn ** [ 5d ]
+barmbekm50 checks
+adrian236ss bets [$30]
+barmbekm50 folds
+** Summary **
+adrian236ss did not show his hand
+adrian236ss collected [ $165 ]
+
+
+
+#Game No : 696789756
+***** 888poker Hand History for Game 696789756 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:49:25
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,110 )
+Seat 4: PapaShango19 ( $1,235 )
+Seat 5: adelynochka ( $1,465 )
+Seat 6: NeoVigilante ( $1,420 )
+Seat 7: barmbekm50 ( $1,390 )
+Seat 9: hsvdote ( $1,605 )
+Seat 10: adrian236ss ( $1,335 )
+NeoVigilante posts small blind [$15]
+barmbekm50 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 9s ]
+hsvdote folds
+adrian236ss folds
+ericsen90 folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+** Summary **
+barmbekm50 did not show his hand
+barmbekm50 collected [ $45 ]
+
+
+
+#Game No : 696789798
+***** 888poker Hand History for Game 696789798 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:49:44
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,110 )
+Seat 4: PapaShango19 ( $1,235 )
+Seat 5: adelynochka ( $1,465 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $1,405 )
+Seat 9: hsvdote ( $1,605 )
+Seat 10: adrian236ss ( $1,335 )
+barmbekm50 posts small blind [$15]
+hsvdote posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 3d ]
+adrian236ss raises [$78]
+ericsen90 folds
+narpok folds
+EricStevens calls [$78]
+PapaShango19 calls [$78]
+adelynochka folds
+NeoVigilante folds
+barmbekm50 calls [$63]
+hsvdote folds
+** Dealing flop ** [ Th, 6h, Kh ]
+barmbekm50 checks
+adrian236ss checks
+EricStevens bets [$256]
+PapaShango19 folds
+barmbekm50 folds
+adrian236ss folds
+** Summary **
+EricStevens did not show his hand
+EricStevens collected [ $342 ]
+
+
+
+#Game No : 696789925
+***** 888poker Hand History for Game 696789925 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:50:51
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,374 )
+Seat 4: PapaShango19 ( $1,157 )
+Seat 5: adelynochka ( $1,465 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $1,327 )
+Seat 9: hsvdote ( $1,575 )
+Seat 10: adrian236ss ( $1,257 )
+hsvdote posts small blind [$15]
+adrian236ss posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4h ]
+ericsen90 folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+barmbekm50 folds
+hsvdote raises [$45]
+adrian236ss folds
+** Summary **
+hsvdote did not show his hand
+hsvdote collected [ $60 ]
+
+
+
+#Game No : 696789990
+***** 888poker Hand History for Game 696789990 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:51:15
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,470 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,374 )
+Seat 4: PapaShango19 ( $1,157 )
+Seat 5: adelynochka ( $1,465 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $1,327 )
+Seat 9: hsvdote ( $1,605 )
+Seat 10: adrian236ss ( $1,227 )
+adrian236ss posts small blind [$15]
+ericsen90 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Ts ]
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+barmbekm50 calls [$30]
+hsvdote folds
+adrian236ss folds
+ericsen90 checks
+** Dealing flop ** [ Th, 6h, 4c ]
+ericsen90 checks
+barmbekm50 bets [$30]
+ericsen90 folds
+** Summary **
+barmbekm50 did not show his hand
+barmbekm50 collected [ $75 ]
+
+
+
+#Game No : 696790075
+***** 888poker Hand History for Game 696790075 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:51:53
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,440 )
+Seat 2: narpok ( $1,470 )
+Seat 3: EricStevens ( $2,374 )
+Seat 4: PapaShango19 ( $1,157 )
+Seat 5: adelynochka ( $1,465 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $1,372 )
+Seat 9: hsvdote ( $1,605 )
+Seat 10: adrian236ss ( $1,212 )
+ericsen90 posts small blind [$15]
+narpok posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 2c ]
+EricStevens calls [$30]
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+barmbekm50 calls [$30]
+hsvdote folds
+adrian236ss calls [$30]
+ericsen90 calls [$15]
+narpok raises [$90]
+EricStevens calls [$90]
+barmbekm50 calls [$90]
+adrian236ss calls [$90]
+ericsen90 calls [$90]
+** Dealing flop ** [ 8h, 4c, 5h ]
+ericsen90 checks
+narpok bets [$150]
+EricStevens folds
+barmbekm50 folds
+adrian236ss calls [$150]
+ericsen90 raises [$600]
+narpok calls [$450]
+adrian236ss folds
+** Dealing turn ** [ Ts ]
+ericsen90 bets [$720]
+narpok calls [$720]
+** Dealing river ** [ 2d ]
+** Summary **
+ericsen90 shows [ 5c, 5d ]
+narpok shows [ 7d, Ac ]
+ericsen90 collected [ $3,390 ]
+
+
+
+#Game No : 696790322
+***** 888poker Hand History for Game 696790322 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:53:41
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $3,390 )
+Seat 2: narpok ( $30 )
+Seat 3: EricStevens ( $2,254 )
+Seat 4: PapaShango19 ( $1,157 )
+Seat 5: adelynochka ( $1,465 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $1,252 )
+Seat 9: hsvdote ( $1,605 )
+Seat 10: adrian236ss ( $942 )
+narpok posts small blind [$15]
+EricStevens posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Kh ]
+PapaShango19 folds
+adelynochka calls [$30]
+NeoVigilante folds
+barmbekm50 calls [$30]
+hsvdote folds
+adrian236ss calls [$30]
+ericsen90 folds
+narpok folds
+EricStevens raises [$60]
+adelynochka calls [$60]
+barmbekm50 calls [$60]
+adrian236ss calls [$60]
+** Dealing flop ** [ 6s, Jd, 7h ]
+EricStevens bets [$100]
+adelynochka calls [$100]
+barmbekm50 folds
+adrian236ss raises [$852]
+EricStevens raises [$2,064]
+adelynochka calls [$1,275]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 6d ]
+** Summary **
+EricStevens shows [ Ac, Ah ]
+adelynochka shows [ 7s, 7c ]
+adrian236ss shows [ Jc, Kd ]
+adelynochka collected [ $2,931 ]
+adelynochka collected [ $1,046 ]
+
+
+
+#Game No : 696790476
+***** 888poker Hand History for Game 696790476 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:54:55
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: ericsen90 ( $3,390 )
+Seat 2: narpok ( $15 )
+Seat 3: EricStevens ( $789 )
+Seat 4: PapaShango19 ( $1,157 )
+Seat 5: adelynochka ( $3,977 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $1,162 )
+Seat 9: hsvdote ( $1,605 )
+EricStevens posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 9s ]
+adelynochka raises [$90]
+NeoVigilante folds
+barmbekm50 calls [$90]
+hsvdote folds
+ericsen90 raises [$292]
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka raises [$3,887]
+barmbekm50 folds
+ericsen90 calls [$3,098]
+** Dealing flop ** [ 7d, Kd, Kc ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 7h ]
+** Summary **
+ericsen90 shows [ Ac, Ah ]
+adelynochka shows [ Ks, Ad ]
+adelynochka collected [ $6,915 ]
+
+
+
+#Game No : 696790608
+***** 888poker Hand History for Game 696790608 *****
+$15/$30 Blinds No Limit Holdem - *** 26 11 2014 09:55:52
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: narpok ( $15 )
+Seat 3: EricStevens ( $774 )
+Seat 4: PapaShango19 ( $1,127 )
+Seat 5: adelynochka ( $7,502 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $1,072 )
+Seat 9: hsvdote ( $1,605 )
+PapaShango19 posts small blind [$15]
+adelynochka posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Td ]
+NeoVigilante folds
+barmbekm50 calls [$30]
+hsvdote folds
+narpok folds
+EricStevens calls [$30]
+PapaShango19 raises [$105]
+adelynochka folds
+barmbekm50 raises [$180]
+EricStevens folds
+PapaShango19 calls [$90]
+** Dealing flop ** [ 7h, 8d, 6h ]
+PapaShango19 checks
+barmbekm50 bets [$120]
+PapaShango19 calls [$120]
+** Dealing turn ** [ Jc ]
+PapaShango19 checks
+barmbekm50 bets [$150]
+PapaShango19 raises [$797]
+barmbekm50 calls [$592]
+** Dealing river ** [ 2d ]
+** Summary **
+PapaShango19 shows [ Ad, Td ]
+barmbekm50 shows [ Ac, Ah ]
+barmbekm50 collected [ $2,204 ]
+
+
+
+#Game No : 696790771
+***** 888poker Hand History for Game 696790771 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:57:19
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: narpok ( $15 )
+Seat 3: EricStevens ( $744 )
+Seat 4: PapaShango19 ( $55 )
+Seat 5: adelynochka ( $7,472 )
+Seat 6: NeoVigilante ( $1,405 )
+Seat 7: barmbekm50 ( $2,204 )
+Seat 9: hsvdote ( $1,605 )
+adelynochka posts small blind [$25]
+NeoVigilante posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2d ]
+barmbekm50 calls [$50]
+hsvdote folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante checks
+** Dealing flop ** [ Th, Jh, Ad ]
+NeoVigilante checks
+barmbekm50 bets [$50]
+NeoVigilante folds
+** Summary **
+barmbekm50 did not show his hand
+barmbekm50 collected [ $125 ]
+
+
+
+#Game No : 696790833
+***** 888poker Hand History for Game 696790833 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:57:53
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: narpok ( $15 )
+Seat 3: EricStevens ( $744 )
+Seat 4: PapaShango19 ( $55 )
+Seat 5: adelynochka ( $7,447 )
+Seat 6: NeoVigilante ( $1,355 )
+Seat 7: barmbekm50 ( $2,279 )
+Seat 9: hsvdote ( $1,605 )
+NeoVigilante posts small blind [$25]
+barmbekm50 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 5s ]
+hsvdote folds
+narpok folds
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante calls [$25]
+barmbekm50 checks
+** Dealing flop ** [ 6c, Ts, 9h ]
+NeoVigilante checks
+barmbekm50 checks
+** Dealing turn ** [ 7d ]
+NeoVigilante bets [$100]
+barmbekm50 calls [$100]
+** Dealing river ** [ 7c ]
+NeoVigilante bets [$200]
+barmbekm50 calls [$200]
+** Summary **
+NeoVigilante shows [ 8h, 8d ]
+barmbekm50 shows [ 8s, 2s ]
+barmbekm50 collected [ $350 ]
+NeoVigilante collected [ $350 ]
+
+
+
+#Game No : 696790925
+***** 888poker Hand History for Game 696790925 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 09:58:47
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: narpok ( $15 )
+Seat 3: EricStevens ( $744 )
+Seat 4: PapaShango19 ( $55 )
+Seat 5: adelynochka ( $7,447 )
+Seat 6: NeoVigilante ( $1,355 )
+Seat 7: barmbekm50 ( $2,279 )
+Seat 9: hsvdote ( $1,605 )
+barmbekm50 posts small blind [$25]
+hsvdote posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Qs ]
+narpok folds
+EricStevens calls [$50]
+PapaShango19 raises [$55]
+adelynochka folds
+NeoVigilante calls [$55]
+barmbekm50 calls [$30]
+hsvdote calls [$5]
+EricStevens calls [$5]
+** Dealing flop ** [ 7c, 2h, 6h ]
+barmbekm50 checks
+hsvdote checks
+EricStevens checks
+NeoVigilante checks
+** Dealing turn ** [ 3d ]
+barmbekm50 checks
+hsvdote bets [$137]
+EricStevens folds
+NeoVigilante folds
+barmbekm50 folds
+** Dealing river ** [ 3c ]
+** Summary **
+PapaShango19 shows [ Qd, Qs ]
+hsvdote shows [ 8c, 8h ]
+PapaShango19 collected [ $275 ]
+
+
+
+#Game No : 696791063
+***** 888poker Hand History for Game 696791063 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 10:00:04
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: narpok ( $15 )
+Seat 3: EricStevens ( $689 )
+Seat 4: PapaShango19 ( $275 )
+Seat 5: adelynochka ( $7,447 )
+Seat 6: NeoVigilante ( $1,300 )
+Seat 7: barmbekm50 ( $2,224 )
+Seat 9: hsvdote ( $1,550 )
+hsvdote posts small blind [$25]
+narpok posts big blind [$15]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 4d ]
+EricStevens folds
+PapaShango19 folds
+adelynochka folds
+NeoVigilante folds
+barmbekm50 calls [$50]
+hsvdote folds
+** Dealing flop ** [ Js, Ts, Qs ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ As ]
+** Summary **
+narpok shows [ 6s, 9c ]
+barmbekm50 shows [ 9d, 9s ]
+barmbekm50 collected [ $45 ]
+barmbekm50 collected [ $45 ]
+
+
+
+#Game No : 696791122
+***** 888poker Hand History for Game 696791122 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 10:00:41
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: EricStevens ( $689 )
+Seat 4: PapaShango19 ( $275 )
+Seat 5: adelynochka ( $7,447 )
+Seat 6: NeoVigilante ( $1,300 )
+Seat 7: barmbekm50 ( $2,264 )
+Seat 9: hsvdote ( $1,525 )
+EricStevens posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Kc ]
+PapaShango19 folds
+adelynochka raises [$150]
+NeoVigilante folds
+barmbekm50 folds
+hsvdote folds
+EricStevens folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $100 ]
+
+
+
+#Game No : 696791168
+***** 888poker Hand History for Game 696791168 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 10:01:04
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: EricStevens ( $639 )
+Seat 4: PapaShango19 ( $275 )
+Seat 5: adelynochka ( $7,497 )
+Seat 6: NeoVigilante ( $1,300 )
+Seat 7: barmbekm50 ( $2,264 )
+Seat 9: hsvdote ( $1,525 )
+EricStevens posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 7s ]
+adelynochka folds
+NeoVigilante raises [$250]
+barmbekm50 folds
+hsvdote folds
+EricStevens folds
+PapaShango19 folds
+** Summary **
+NeoVigilante did not show his hand
+NeoVigilante collected [ $125 ]
+
+
+
+#Game No : 696791226
+***** 888poker Hand History for Game 696791226 *****
+$25/$50 Blinds No Limit Holdem - *** 26 11 2014 10:01:30
+Tournament #63860193 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: EricStevens ( $614 )
+Seat 4: PapaShango19 ( $225 )
+Seat 5: adelynochka ( $7,497 )
+Seat 6: NeoVigilante ( $1,375 )
+Seat 7: barmbekm50 ( $2,264 )
+Seat 9: hsvdote ( $1,525 )
+PapaShango19 posts small blind [$25]
+adelynochka posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Jd ]
+NeoVigilante folds
+barmbekm50 folds
+hsvdote folds
+EricStevens folds
+PapaShango19 raises [$200]
+adelynochka calls [$175]
+** Dealing flop ** [ 3s, Ah, 6s ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ Kc ]
+** Summary **
+PapaShango19 shows [ 7c, Jd ]
+adelynochka shows [ Js, 3h ]
+adelynochka collected [ $450 ]
+
+
+

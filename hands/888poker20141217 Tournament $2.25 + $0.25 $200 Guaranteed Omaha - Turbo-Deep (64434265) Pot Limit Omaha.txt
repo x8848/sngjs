@@ -1,0 +1,2071 @@
+#Game No : 703134150
+***** 888poker Hand History for Game 703134150 *****
+$10/$20 Blinds Pot Limit Omaha - *** 17 12 2014 09:45:20
+Tournament #64434265 $2.25 + $0.25 - Table #2 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: koljac03 ( $5,000 )
+Seat 2: whyusobad ( $5,000 )
+Seat 3: lisalee1969 ( $5,000 )
+Seat 4: Alver60 ( $5,000 )
+Seat 5: mrxavito ( $5,000 )
+Seat 6: vbndabj ( $5,000 )
+Seat 9: wildmanwild ( $5,000 )
+Seat 10: PapaShango19 ( $5,000 )
+koljac03 posts small blind [$10]
+whyusobad posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 2c, 2d, 3c ]
+lisalee1969 folds
+Alver60 calls [$20]
+mrxavito calls [$20]
+vbndabj folds
+wildmanwild folds
+PapaShango19 calls [$20]
+koljac03 calls [$10]
+whyusobad checks
+** Dealing flop ** [ 5d, As, 3s ]
+koljac03 checks
+whyusobad bets [$20]
+Alver60 calls [$20]
+mrxavito calls [$20]
+PapaShango19 folds
+koljac03 calls [$20]
+** Dealing turn ** [ 4s ]
+koljac03 checks
+whyusobad checks
+Alver60 checks
+mrxavito checks
+** Dealing river ** [ 6d ]
+koljac03 checks
+whyusobad checks
+Alver60 checks
+mrxavito checks
+** Summary **
+koljac03 shows [ 6h, 6c, Kh, Jh ]
+whyusobad mucks [ Ts, Qc, Ah, 4h ]
+Alver60 mucks [ Jc, 3h, Qs, Qd ]
+mrxavito shows [ Tc, Jd, 7d, 5s ]
+mrxavito collected [ $180 ]
+
+
+
+#Game No : 703134310
+***** 888poker Hand History for Game 703134310 *****
+$10/$20 Blinds Pot Limit Omaha - *** 17 12 2014 09:46:50
+Tournament #64434265 $2.25 + $0.25 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: koljac03 ( $4,960 )
+Seat 2: whyusobad ( $4,960 )
+Seat 3: lisalee1969 ( $5,000 )
+Seat 4: Alver60 ( $4,960 )
+Seat 5: mrxavito ( $5,140 )
+Seat 6: vbndabj ( $5,000 )
+Seat 7: TakesNotes ( $5,000 )
+Seat 9: wildmanwild ( $5,000 )
+Seat 10: PapaShango19 ( $4,980 )
+whyusobad posts small blind [$10]
+lisalee1969 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Qc, Jh, Ts ]
+Alver60 calls [$20]
+mrxavito raises [$40]
+vbndabj folds
+TakesNotes folds
+wildmanwild folds
+PapaShango19 calls [$40]
+koljac03 folds
+whyusobad folds
+lisalee1969 folds
+Alver60 calls [$20]
+** Dealing flop ** [ Th, 4c, 9d ]
+Alver60 checks
+mrxavito bets [$60]
+PapaShango19 calls [$60]
+Alver60 folds
+** Dealing turn ** [ 7h ]
+mrxavito bets [$270]
+PapaShango19 calls [$270]
+** Dealing river ** [ 5d ]
+mrxavito bets [$810]
+PapaShango19 folds
+** Summary **
+mrxavito did not show his hand
+mrxavito collected [ $810 ]
+
+
+
+#Game No : 703134445
+***** 888poker Hand History for Game 703134445 *****
+$10/$20 Blinds Pot Limit Omaha - *** 17 12 2014 09:48:24
+Tournament #64434265 $2.25 + $0.25 - Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: whyusobad ( $4,950 )
+Seat 3: lisalee1969 ( $4,980 )
+Seat 4: Alver60 ( $4,920 )
+Seat 5: mrxavito ( $5,580 )
+Seat 6: vbndabj ( $5,000 )
+Seat 7: TakesNotes ( $5,000 )
+Seat 10: PapaShango19 ( $4,610 )
+lisalee1969 posts small blind [$10]
+Alver60 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Tc, 9d, Qd ]
+mrxavito calls [$20]
+vbndabj folds
+TakesNotes calls [$20]
+PapaShango19 calls [$20]
+whyusobad raises [$130]
+lisalee1969 calls [$120]
+Alver60 folds
+mrxavito calls [$110]
+TakesNotes calls [$110]
+PapaShango19 folds
+** Dealing flop ** [ 7h, 3s, 5c ]
+lisalee1969 checks
+mrxavito checks
+TakesNotes checks
+whyusobad checks
+** Dealing turn ** [ Ac ]
+lisalee1969 checks
+mrxavito checks
+TakesNotes checks
+whyusobad bets [$560]
+lisalee1969 folds
+mrxavito folds
+TakesNotes folds
+** Summary **
+whyusobad collected [ $560 ]
+
+
+
+#Game No : 703134647
+***** 888poker Hand History for Game 703134647 *****
+$15/$30 Blinds Pot Limit Omaha - *** 17 12 2014 09:50:33
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1:  ( $4,615 )
+Seat 2:  ( $4,850 )
+Seat 3:  ( $5,000 )
+Seat 4:  ( $5,210 )
+Seat 5:  ( $4,140 )
+Seat 6:  ( $11,020 )
+Seat 9:  ( $5,000 )
+Seat 10:  ( $4,590 )
+ posts small blind [$15]
+ posts big blind [$30]
+** Dealing down cards **
+Dealt to  [ 8d, 3s, Qs, 9h ]
+ folds
+ raises [$60]
+ calls [$60]
+ calls [$60]
+ calls [$60]
+ calls [$60]
+ calls [$45]
+ calls [$30]
+** Dealing flop ** [ 6d, Tc, 8c ]
+ checks
+ checks
+ bets [$420]
+ calls [$420]
+ folds
+ folds
+ calls [$420]
+ folds
+ folds
+** Dealing turn ** [ 2c ]
+ checks
+ bets [$150]
+ calls [$150]
+ calls [$150]
+** Dealing river ** [ 7d ]
+ checks
+ checks
+ checks
+** Summary **
+ shows [ Qh, Ac, Ah, Ad ]
+ shows [ 9c, 5s, 7c, Jd ]
+ mucks [ Th, 5c, 6h, 6c ]
+ collected [ $2,130 ]
+
+
+
+#Game No : 703134858
+***** 888poker Hand History for Game 703134858 *****
+$15/$30 Blinds Pot Limit Omaha - *** 17 12 2014 09:52:22
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: blafil ( $4,555 )
+Seat 2: lisalee1969 ( $4,850 )
+Seat 3: brownyjj ( $4,370 )
+Seat 4: johnx19 ( $6,710 )
+Seat 5: penpanth13 ( $4,080 )
+Seat 6: DodgeBullet ( $10,960 )
+Seat 7: Katuz71 ( $5,000 )
+Seat 9: meanmaree ( $4,370 )
+Seat 10: PapaShango19 ( $4,530 )
+blafil posts small blind [$15]
+lisalee1969 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Kd, Td, Th ]
+brownyjj calls [$30]
+johnx19 calls [$30]
+penpanth13 folds
+DodgeBullet calls [$30]
+Katuz71 folds
+meanmaree folds
+PapaShango19 calls [$30]
+blafil calls [$15]
+lisalee1969 checks
+** Dealing flop ** [ 7s, 6s, Jd ]
+blafil checks
+lisalee1969 bets [$180]
+brownyjj calls [$180]
+johnx19 calls [$180]
+DodgeBullet folds
+PapaShango19 folds
+blafil folds
+** Dealing turn ** [ 3s ]
+lisalee1969 bets [$540]
+brownyjj folds
+johnx19 calls [$540]
+** Dealing river ** [ Js ]
+lisalee1969 bets [$1,800]
+johnx19 folds
+** Summary **
+lisalee1969 did not show his hand
+lisalee1969 collected [ $1,800 ]
+
+
+
+#Game No : 703134992
+***** 888poker Hand History for Game 703134992 *****
+$15/$30 Blinds Pot Limit Omaha - *** 17 12 2014 09:54:03
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: blafil ( $4,525 )
+Seat 2: lisalee1969 ( $5,900 )
+Seat 3: brownyjj ( $4,160 )
+Seat 4: johnx19 ( $5,960 )
+Seat 5: penpanth13 ( $4,080 )
+Seat 6: DodgeBullet ( $10,930 )
+Seat 7: Katuz71 ( $5,000 )
+Seat 9: meanmaree ( $4,370 )
+Seat 10: PapaShango19 ( $4,500 )
+lisalee1969 posts small blind [$15]
+brownyjj posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Tc, 5d, 7c ]
+johnx19 calls [$30]
+penpanth13 folds
+DodgeBullet calls [$30]
+Katuz71 calls [$30]
+meanmaree folds
+PapaShango19 calls [$30]
+blafil calls [$30]
+lisalee1969 folds
+brownyjj raises [$97]
+johnx19 calls [$97]
+DodgeBullet calls [$97]
+Katuz71 calls [$97]
+PapaShango19 folds
+blafil calls [$97]
+** Dealing flop ** [ Th, 3h, Js ]
+brownyjj bets [$680]
+johnx19 calls [$680]
+DodgeBullet folds
+Katuz71 folds
+blafil folds
+** Dealing turn ** [ Qd ]
+brownyjj checks
+johnx19 bets [$2,040]
+brownyjj raises [$3,353]
+johnx19 calls [$1,313]
+** Dealing river ** [ 2h ]
+** Summary **
+brownyjj shows [ As, 7h, Ac, Ks ]
+johnx19 shows [ Kc, 4c, 5c, Ad ]
+brownyjj collected [ $4,373 ]
+johnx19 collected [ $4,373 ]
+
+
+
+#Game No : 703135419
+***** 888poker Hand History for Game 703135419 *****
+$15/$30 Blinds Pot Limit Omaha - *** 17 12 2014 10:00:00
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: blafil ( $4,398 )
+Seat 2: lisalee1969 ( $5,885 )
+Seat 3: brownyjj ( $4,373 )
+Seat 4: johnx19 ( $6,173 )
+Seat 5: penpanth13 ( $4,080 )
+Seat 6: DodgeBullet ( $10,803 )
+Seat 7: Katuz71 ( $4,873 )
+Seat 9: meanmaree ( $4,370 )
+Seat 10: PapaShango19 ( $4,470 )
+brownyjj posts small blind [$15]
+johnx19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Js, Ad, 7d ]
+penpanth13 folds
+DodgeBullet folds
+Katuz71 folds
+meanmaree calls [$30]
+PapaShango19 calls [$30]
+blafil calls [$30]
+lisalee1969 folds
+brownyjj folds
+johnx19 checks
+** Dealing flop ** [ 5h, Kc, 9d ]
+johnx19 checks
+meanmaree checks
+PapaShango19 checks
+blafil checks
+** Dealing turn ** [ Ac ]
+johnx19 checks
+meanmaree checks
+PapaShango19 bets [$101]
+blafil calls [$101]
+johnx19 calls [$101]
+meanmaree folds
+** Dealing river ** [ 2s ]
+johnx19 checks
+PapaShango19 checks
+blafil checks
+** Summary **
+johnx19 shows [ 9h, 4d, 7s, 4c ]
+PapaShango19 shows [ Ks, Js, Ad, 7d ]
+blafil mucks [ 6s, 5c, As, 3h ]
+PapaShango19 collected [ $438 ]
+
+
+
+#Game No : 703135563
+***** 888poker Hand History for Game 703135563 *****
+$25/$50 Blinds Pot Limit Omaha - *** 17 12 2014 10:01:50
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: blafil ( $4,267 )
+Seat 2: lisalee1969 ( $5,885 )
+Seat 3: brownyjj ( $4,358 )
+Seat 4: johnx19 ( $6,042 )
+Seat 5: penpanth13 ( $4,080 )
+Seat 6: DodgeBullet ( $10,803 )
+Seat 7: Katuz71 ( $4,873 )
+Seat 9: meanmaree ( $4,340 )
+Seat 10: PapaShango19 ( $4,777 )
+johnx19 posts small blind [$25]
+penpanth13 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Ad, 8c, Td ]
+DodgeBullet folds
+Katuz71 folds
+meanmaree folds
+PapaShango19 calls [$50]
+blafil calls [$50]
+lisalee1969 folds
+brownyjj folds
+johnx19 calls [$25]
+penpanth13 checks
+** Dealing flop ** [ Ah, Jc, 7h ]
+johnx19 checks
+penpanth13 checks
+PapaShango19 bets [$150]
+blafil calls [$150]
+johnx19 calls [$150]
+penpanth13 folds
+** Dealing turn ** [ Ts ]
+johnx19 checks
+PapaShango19 checks
+blafil bets [$650]
+johnx19 folds
+PapaShango19 calls [$650]
+** Dealing river ** [ 6c ]
+PapaShango19 checks
+blafil checks
+** Summary **
+PapaShango19 shows [ 7c, Ad, 8c, Td ]
+blafil shows [ 7s, 8d, Ac, Jd ]
+blafil collected [ $1,950 ]
+
+
+
+#Game No : 703135694
+***** 888poker Hand History for Game 703135694 *****
+$25/$50 Blinds Pot Limit Omaha - *** 17 12 2014 10:03:41
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: blafil ( $5,367 )
+Seat 2: lisalee1969 ( $5,885 )
+Seat 3: brownyjj ( $4,358 )
+Seat 4: johnx19 ( $5,842 )
+Seat 5: penpanth13 ( $4,030 )
+Seat 6: DodgeBullet ( $10,803 )
+Seat 7: Katuz71 ( $4,873 )
+Seat 9: meanmaree ( $4,340 )
+Seat 10: PapaShango19 ( $3,927 )
+penpanth13 posts small blind [$25]
+DodgeBullet posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7d, Td, 3h ]
+Katuz71 calls [$50]
+meanmaree folds
+PapaShango19 folds
+blafil calls [$50]
+lisalee1969 folds
+brownyjj folds
+johnx19 calls [$50]
+penpanth13 calls [$25]
+DodgeBullet checks
+** Dealing flop ** [ Th, Kh, 2c ]
+penpanth13 checks
+DodgeBullet bets [$150]
+Katuz71 folds
+blafil folds
+johnx19 calls [$150]
+penpanth13 folds
+** Dealing turn ** [ Ad ]
+DodgeBullet bets [$350]
+johnx19 calls [$350]
+** Dealing river ** [ Tc ]
+DodgeBullet bets [$300]
+johnx19 folds
+** Summary **
+DodgeBullet did not show his hand
+DodgeBullet collected [ $1,250 ]
+
+
+
+#Game No : 703135891
+***** 888poker Hand History for Game 703135891 *****
+$50/$100 Blinds Pot Limit Omaha - *** 17 12 2014 10:05:38
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: blafil ( $5,317 )
+Seat 2: lisalee1969 ( $5,885 )
+Seat 3: brownyjj ( $4,358 )
+Seat 4: johnx19 ( $5,292 )
+Seat 5: penpanth13 ( $3,980 )
+Seat 6: DodgeBullet ( $11,503 )
+Seat 7: Katuz71 ( $4,823 )
+Seat 9: meanmaree ( $4,340 )
+Seat 10: PapaShango19 ( $3,927 )
+DodgeBullet posts small blind [$50]
+Katuz71 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 7c, 8c, 6h ]
+meanmaree folds
+PapaShango19 raises [$200]
+blafil folds
+lisalee1969 folds
+brownyjj folds
+johnx19 calls [$200]
+penpanth13 folds
+DodgeBullet calls [$150]
+Katuz71 calls [$100]
+** Dealing flop ** [ 7h, Ad, Ts ]
+DodgeBullet checks
+Katuz71 checks
+PapaShango19 checks
+johnx19 bets [$200]
+DodgeBullet folds
+Katuz71 folds
+PapaShango19 calls [$200]
+** Dealing turn ** [ 5c ]
+PapaShango19 checks
+johnx19 bets [$200]
+PapaShango19 calls [$200]
+** Dealing river ** [ Qd ]
+PapaShango19 checks
+johnx19 checks
+** Summary **
+PapaShango19 shows [ 9s, 7c, 8c, 6h ]
+johnx19 shows [ 7d, Th, Jh, 3c ]
+johnx19 collected [ $1,600 ]
+
+
+
+#Game No : 703136066
+***** 888poker Hand History for Game 703136066 *****
+$50/$100 Blinds Pot Limit Omaha - *** 17 12 2014 10:07:27
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: blafil ( $5,317 )
+Seat 2: lisalee1969 ( $5,885 )
+Seat 3: brownyjj ( $4,358 )
+Seat 4: johnx19 ( $6,292 )
+Seat 5: penpanth13 ( $3,980 )
+Seat 6: DodgeBullet ( $11,303 )
+Seat 7: Katuz71 ( $4,623 )
+Seat 9: meanmaree ( $4,340 )
+Seat 10: PapaShango19 ( $3,327 )
+Katuz71 posts small blind [$50]
+meanmaree posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Jh, 9d, 4h ]
+PapaShango19 calls [$100]
+blafil calls [$100]
+lisalee1969 folds
+brownyjj calls [$100]
+johnx19 calls [$100]
+penpanth13 calls [$100]
+DodgeBullet calls [$100]
+Katuz71 calls [$50]
+meanmaree checks
+** Dealing flop ** [ Tc, Qh, As ]
+Katuz71 checks
+meanmaree bets [$800]
+PapaShango19 folds
+blafil folds
+brownyjj folds
+johnx19 folds
+penpanth13 calls [$800]
+DodgeBullet folds
+Katuz71 folds
+** Dealing turn ** [ 4s ]
+meanmaree bets [$2,400]
+penpanth13 calls [$2,400]
+** Dealing river ** [ 9c ]
+meanmaree bets [$1,040]
+penpanth13 calls [$680]
+** Summary **
+penpanth13 shows [ Kh, Ah, Qd, 8s ]
+meanmaree shows [ Js, Kd, Qs, Ad ]
+meanmaree collected [ $8,560 ]
+
+
+
+#Game No : 703136216
+***** 888poker Hand History for Game 703136216 *****
+$50/$100 Blinds Pot Limit Omaha - *** 17 12 2014 10:08:58
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: blafil ( $5,217 )
+Seat 2: lisalee1969 ( $5,885 )
+Seat 3: brownyjj ( $4,258 )
+Seat 4: johnx19 ( $6,192 )
+Seat 5: bth1951 ( $4,500 )
+Seat 6: DodgeBullet ( $11,203 )
+Seat 7: Katuz71 ( $4,523 )
+Seat 9: meanmaree ( $8,920 )
+Seat 10: PapaShango19 ( $3,227 )
+meanmaree posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 3s, 6s, 3d ]
+blafil calls [$100]
+lisalee1969 calls [$100]
+brownyjj folds
+johnx19 calls [$100]
+bth1951 calls [$100]
+DodgeBullet calls [$100]
+Katuz71 folds
+meanmaree calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ 8s, Jc, 2s ]
+meanmaree checks
+PapaShango19 checks
+blafil checks
+lisalee1969 checks
+johnx19 checks
+bth1951 checks
+DodgeBullet checks
+** Dealing turn ** [ As ]
+meanmaree checks
+PapaShango19 checks
+blafil checks
+lisalee1969 checks
+johnx19 checks
+bth1951 bets [$200]
+DodgeBullet folds
+meanmaree folds
+PapaShango19 folds
+blafil calls [$200]
+lisalee1969 folds
+johnx19 calls [$200]
+** Dealing river ** [ 2c ]
+blafil checks
+johnx19 checks
+bth1951 bets [$200]
+blafil folds
+johnx19 calls [$200]
+** Summary **
+bth1951 shows [ 9s, 7c, Kd, Ks ]
+johnx19 mucks [ 2h, 5s, 9c, 9h ]
+bth1951 collected [ $1,700 ]
+
+
+
+#Game No : 703136403
+***** 888poker Hand History for Game 703136403 *****
+$75/$150 Blinds Pot Limit Omaha - *** 17 12 2014 10:11:13
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: blafil ( $4,917 )
+Seat 2: lisalee1969 ( $5,785 )
+Seat 3: brownyjj ( $4,258 )
+Seat 4: johnx19 ( $5,692 )
+Seat 5: bth1951 ( $5,700 )
+Seat 6: DodgeBullet ( $11,103 )
+Seat 7: Katuz71 ( $4,523 )
+Seat 9: meanmaree ( $8,820 )
+Seat 10: PapaShango19 ( $3,127 )
+PapaShango19 posts small blind [$75]
+blafil posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ks, Tc, 8h ]
+lisalee1969 folds
+brownyjj calls [$150]
+johnx19 calls [$150]
+bth1951 folds
+DodgeBullet calls [$150]
+Katuz71 folds
+meanmaree folds
+PapaShango19 calls [$75]
+blafil checks
+** Dealing flop ** [ 8d, 7d, As ]
+PapaShango19 checks
+blafil checks
+brownyjj bets [$150]
+johnx19 calls [$150]
+DodgeBullet folds
+PapaShango19 folds
+blafil folds
+** Dealing turn ** [ Ah ]
+brownyjj checks
+johnx19 checks
+** Dealing river ** [ Jh ]
+brownyjj bets [$150]
+johnx19 calls [$150]
+** Summary **
+brownyjj shows [ Qc, Td, Kd, 4h ]
+johnx19 shows [ 5h, Th, Ad, Qh ]
+johnx19 collected [ $1,350 ]
+
+
+
+#Game No : 703136529
+***** 888poker Hand History for Game 703136529 *****
+$75/$150 Blinds Pot Limit Omaha - *** 17 12 2014 10:12:43
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: blafil ( $4,767 )
+Seat 2: lisalee1969 ( $5,785 )
+Seat 3: brownyjj ( $3,808 )
+Seat 4: johnx19 ( $6,592 )
+Seat 5: bth1951 ( $5,700 )
+Seat 6: DodgeBullet ( $10,953 )
+Seat 7: Katuz71 ( $4,523 )
+Seat 10: PapaShango19 ( $2,977 )
+blafil posts small blind [$75]
+lisalee1969 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 4h, Js, 9s ]
+brownyjj calls [$150]
+johnx19 calls [$150]
+bth1951 calls [$150]
+DodgeBullet folds
+Katuz71 folds
+PapaShango19 calls [$150]
+blafil calls [$75]
+lisalee1969 checks
+** Dealing flop ** [ 7d, Kh, Ad ]
+blafil checks
+lisalee1969 checks
+brownyjj checks
+johnx19 bets [$450]
+bth1951 folds
+PapaShango19 folds
+blafil folds
+lisalee1969 calls [$450]
+brownyjj folds
+** Dealing turn ** [ 4s ]
+lisalee1969 checks
+johnx19 bets [$300]
+lisalee1969 folds
+** Summary **
+johnx19 collected [ $1,800 ]
+
+
+
+#Game No : 703136682
+***** 888poker Hand History for Game 703136682 *****
+$75/$150 Blinds Pot Limit Omaha - *** 17 12 2014 10:14:19
+Tournament #64434265 $2.25 + $0.25 - Table #6 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: blafil ( $4,617 )
+Seat 2: lisalee1969 ( $5,185 )
+Seat 3: brownyjj ( $3,658 )
+Seat 4: johnx19 ( $7,792 )
+Seat 5: bth1951 ( $5,550 )
+Seat 6: DodgeBullet ( $10,953 )
+Seat 7: Katuz71 ( $4,523 )
+Seat 9: spiritsong1 ( $5,000 )
+Seat 10: PapaShango19 ( $2,827 )
+lisalee1969 posts small blind [$75]
+brownyjj posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 5s, Qd, Th ]
+johnx19 calls [$150]
+bth1951 calls [$150]
+DodgeBullet folds
+Katuz71 calls [$150]
+spiritsong1 calls [$150]
+PapaShango19 calls [$150]
+blafil calls [$150]
+lisalee1969 folds
+brownyjj checks
+** Dealing flop ** [ 3h, 5c, 8c ]
+brownyjj bets [$150]
+johnx19 calls [$150]
+bth1951 calls [$150]
+Katuz71 folds
+spiritsong1 calls [$150]
+PapaShango19 folds
+blafil calls [$150]
+** Dealing turn ** [ Js ]
+brownyjj bets [$150]
+johnx19 calls [$150]
+bth1951 calls [$150]
+spiritsong1 calls [$150]
+blafil calls [$150]
+** Dealing river ** [ 3c ]
+brownyjj bets [$2,625]
+johnx19 folds
+bth1951 folds
+spiritsong1 folds
+blafil folds
+** Summary **
+brownyjj did not show his hand
+brownyjj collected [ $2,625 ]
+
+
+
+#Game No : 703136925
+***** 888poker Hand History for Game 703136925 *****
+$100/$200 Blinds Pot Limit Omaha - *** 17 12 2014 10:16:46
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1:  ( $4,110 )
+Seat 2:  ( $22,855 )
+Seat 6:  ( $4,800 )
+Seat 7:  ( $8,165 )
+Seat 9:  ( $5,250 )
+Seat 10:  ( $4,945 )
+ posts small blind [$100]
+ posts big blind [$200]
+** Dealing down cards **
+ folds
+ calls [$200]
+ folds
+ folds
+ calls [$100]
+ checks
+** Dealing flop ** [ Qs, 5c, 3s ]
+ checks
+ checks
+ bets [$600]
+ folds
+ folds
+** Summary **
+ collected [ $600 ]
+
+
+
+#Game No : 703136988
+***** 888poker Hand History for Game 703136988 *****
+$100/$200 Blinds Pot Limit Omaha - *** 17 12 2014 10:17:28
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Chiposaurus ( $4,110 )
+Seat 2: thuongtran94 ( $22,855 )
+Seat 3: PapaShango19 ( $2,677 )
+Seat 4: blafil ( $4,167 )
+Seat 5: belotserkov ( $9,870 )
+Seat 6: nastya44 ( $4,600 )
+Seat 7: britaylans ( $7,965 )
+Seat 9: calipso123 ( $5,250 )
+Seat 10: sthsydrlz ( $5,345 )
+britaylans posts small blind [$100]
+calipso123 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 3s, 4s, Jc ]
+sthsydrlz folds
+Chiposaurus folds
+thuongtran94 folds
+PapaShango19 folds
+blafil calls [$200]
+belotserkov folds
+nastya44 calls [$200]
+britaylans folds
+calipso123 checks
+** Dealing flop ** [ 8d, 6d, 9h ]
+calipso123 checks
+blafil checks
+nastya44 bets [$200]
+calipso123 raises [$400]
+blafil folds
+nastya44 calls [$200]
+** Dealing turn ** [ Jh ]
+calipso123 bets [$750]
+nastya44 calls [$750]
+** Dealing river ** [ 2c ]
+calipso123 bets [$1,200]
+nastya44 folds
+** Summary **
+calipso123 collected [ $3,000 ]
+
+
+
+#Game No : 703137154
+***** 888poker Hand History for Game 703137154 *****
+$100/$200 Blinds Pot Limit Omaha - *** 17 12 2014 10:19:15
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Chiposaurus ( $4,110 )
+Seat 2: cence1500 ( $5,000 )
+Seat 3: PapaShango19 ( $2,677 )
+Seat 4: blafil ( $3,967 )
+Seat 5: belotserkov ( $9,870 )
+Seat 6: nastya44 ( $3,250 )
+Seat 9: calipso123 ( $6,900 )
+Seat 10: sthsydrlz ( $5,345 )
+calipso123 posts small blind [$100]
+sthsydrlz posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 7h, Qs, 6h ]
+Chiposaurus folds
+cence1500 folds
+PapaShango19 folds
+blafil folds
+belotserkov folds
+nastya44 calls [$200]
+calipso123 calls [$100]
+sthsydrlz checks
+** Dealing flop ** [ 4d, Kc, Kd ]
+calipso123 checks
+sthsydrlz checks
+nastya44 bets [$400]
+calipso123 folds
+sthsydrlz folds
+** Summary **
+nastya44 collected [ $600 ]
+
+
+
+#Game No : 703137222
+***** 888poker Hand History for Game 703137222 *****
+$100/$200 Blinds Pot Limit Omaha - *** 17 12 2014 10:19:57
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Chiposaurus ( $4,110 )
+Seat 2: cence1500 ( $5,000 )
+Seat 3: PapaShango19 ( $2,677 )
+Seat 4: blafil ( $3,967 )
+Seat 5: belotserkov ( $9,870 )
+Seat 6: nastya44 ( $3,650 )
+Seat 7: seannie123 ( $5,151 )
+Seat 9: calipso123 ( $6,700 )
+Seat 10: sthsydrlz ( $5,145 )
+sthsydrlz posts small blind [$100]
+Chiposaurus posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 4s, 4c, 4d ]
+cence1500 folds
+PapaShango19 folds
+blafil folds
+belotserkov folds
+nastya44 raises [$400]
+seannie123 calls [$400]
+calipso123 folds
+sthsydrlz calls [$300]
+Chiposaurus calls [$200]
+** Dealing flop ** [ Th, 9s, Kd ]
+sthsydrlz checks
+Chiposaurus checks
+nastya44 bets [$1,000]
+seannie123 folds
+sthsydrlz folds
+Chiposaurus folds
+** Summary **
+nastya44 did not show his hand
+nastya44 collected [ $1,600 ]
+
+
+
+#Game No : 703137283
+***** 888poker Hand History for Game 703137283 *****
+$125/$250 Blinds Pot Limit Omaha - *** 17 12 2014 10:20:40
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Chiposaurus ( $3,710 )
+Seat 2: cence1500 ( $5,000 )
+Seat 3: PapaShango19 ( $2,677 )
+Seat 4: blafil ( $3,967 )
+Seat 5: belotserkov ( $9,870 )
+Seat 6: nastya44 ( $4,850 )
+Seat 7: seannie123 ( $4,751 )
+Seat 9: calipso123 ( $6,700 )
+Seat 10: sthsydrlz ( $4,745 )
+Chiposaurus posts small blind [$125]
+cence1500 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 9d, Jh, 2s ]
+PapaShango19 folds
+blafil folds
+belotserkov folds
+nastya44 folds
+seannie123 calls [$250]
+calipso123 calls [$250]
+sthsydrlz folds
+Chiposaurus calls [$125]
+cence1500 checks
+** Dealing flop ** [ Kc, 5c, 7s ]
+Chiposaurus checks
+cence1500 checks
+seannie123 bets [$250]
+calipso123 folds
+Chiposaurus calls [$250]
+cence1500 calls [$250]
+** Dealing turn ** [ 3c ]
+Chiposaurus bets [$875]
+cence1500 folds
+seannie123 folds
+** Summary **
+Chiposaurus collected [ $1,750 ]
+
+
+
+#Game No : 703137393
+***** 888poker Hand History for Game 703137393 *****
+$125/$250 Blinds Pot Limit Omaha - *** 17 12 2014 10:21:46
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: cence1500 ( $4,500 )
+Seat 3: PapaShango19 ( $2,677 )
+Seat 4: blafil ( $3,967 )
+Seat 5: belotserkov ( $9,870 )
+Seat 6: jennys_mum ( $5,000 )
+Seat 7: seannie123 ( $4,251 )
+Seat 9: calipso123 ( $6,450 )
+cence1500 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8d, 5c, 9h ]
+blafil calls [$250]
+belotserkov folds
+jennys_mum folds
+seannie123 folds
+calipso123 folds
+cence1500 calls [$125]
+PapaShango19 checks
+** Dealing flop ** [ Jh, Jd, Tc ]
+cence1500 checks
+PapaShango19 checks
+blafil checks
+** Dealing turn ** [ 3c ]
+cence1500 checks
+PapaShango19 checks
+blafil checks
+** Dealing river ** [ 5s ]
+cence1500 checks
+PapaShango19 checks
+blafil checks
+** Summary **
+cence1500 shows [ 7s, 4c, 9s, Kc ]
+PapaShango19 shows [ As, 8d, 5c, 9h ]
+blafil shows [ Qh, Th, Ks, Qd ]
+blafil collected [ $750 ]
+
+
+
+#Game No : 703137485
+***** 888poker Hand History for Game 703137485 *****
+$125/$250 Blinds Pot Limit Omaha - *** 17 12 2014 10:22:48
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: cence1500 ( $4,250 )
+Seat 3: PapaShango19 ( $2,427 )
+Seat 4: blafil ( $4,467 )
+Seat 5: belotserkov ( $9,870 )
+Seat 6: jennys_mum ( $5,000 )
+Seat 7: seannie123 ( $4,251 )
+Seat 9: calipso123 ( $6,450 )
+Seat 10: LuckBox_24 ( $2,640 )
+PapaShango19 posts small blind [$125]
+blafil posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Ks, 2c, 8c ]
+belotserkov folds
+jennys_mum folds
+seannie123 folds
+calipso123 folds
+LuckBox_24 calls [$250]
+cence1500 folds
+PapaShango19 calls [$125]
+blafil checks
+** Dealing flop ** [ Ac, 7h, 3c ]
+PapaShango19 checks
+blafil checks
+LuckBox_24 checks
+** Dealing turn ** [ 4c ]
+PapaShango19 checks
+blafil checks
+LuckBox_24 checks
+** Dealing river ** [ 9s ]
+PapaShango19 checks
+blafil bets [$250]
+LuckBox_24 folds
+PapaShango19 calls [$250]
+** Summary **
+blafil shows [ Ts, 4h, 8s, Ah ]
+PapaShango19 shows [ Jd, Ks, 2c, 8c ]
+PapaShango19 collected [ $1,250 ]
+
+
+
+#Game No : 703137581
+***** 888poker Hand History for Game 703137581 *****
+$125/$250 Blinds Pot Limit Omaha - *** 17 12 2014 10:23:57
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $5,000 )
+Seat 2: cence1500 ( $4,250 )
+Seat 3: PapaShango19 ( $3,177 )
+Seat 4: blafil ( $3,967 )
+Seat 5: belotserkov ( $9,870 )
+Seat 6: jennys_mum ( $5,000 )
+Seat 7: seannie123 ( $4,251 )
+Seat 9: calipso123 ( $6,450 )
+Seat 10: LuckBox_24 ( $2,390 )
+blafil posts small blind [$125]
+belotserkov posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 8s, 8h, 6d ]
+jennys_mum folds
+seannie123 folds
+calipso123 calls [$250]
+LuckBox_24 folds
+dv20000 folds
+cence1500 folds
+PapaShango19 calls [$250]
+blafil calls [$125]
+belotserkov checks
+** Dealing flop ** [ 5d, 2s, Jc ]
+blafil checks
+belotserkov checks
+calipso123 bets [$250]
+PapaShango19 folds
+blafil calls [$250]
+belotserkov folds
+** Dealing turn ** [ 6c ]
+blafil checks
+calipso123 bets [$250]
+blafil calls [$250]
+** Dealing river ** [ 6h ]
+blafil checks
+calipso123 bets [$250]
+blafil calls [$250]
+** Summary **
+calipso123 shows [ Qd, 3d, Ks, Qh ]
+blafil mucks [ 3h, 8d, Jh, Kd ]
+calipso123 collected [ $2,500 ]
+
+
+
+#Game No : 703137765
+***** 888poker Hand History for Game 703137765 *****
+$150/$300 Blinds Pot Limit Omaha - *** 17 12 2014 10:25:59
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $5,000 )
+Seat 2: cence1500 ( $4,250 )
+Seat 3: PapaShango19 ( $2,927 )
+Seat 4: blafil ( $2,967 )
+Seat 5: belotserkov ( $9,620 )
+Seat 6: jennys_mum ( $5,000 )
+Seat 9: calipso123 ( $7,950 )
+Seat 10: LuckBox_24 ( $2,390 )
+belotserkov posts small blind [$150]
+jennys_mum posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Js, 2s, 8d ]
+calipso123 calls [$300]
+LuckBox_24 calls [$300]
+dv20000 calls [$300]
+cence1500 folds
+PapaShango19 folds
+blafil folds
+belotserkov calls [$150]
+jennys_mum checks
+** Dealing flop ** [ Tc, 8c, Jh ]
+belotserkov checks
+jennys_mum checks
+calipso123 checks
+LuckBox_24 checks
+dv20000 checks
+** Dealing turn ** [ 9c ]
+belotserkov bets [$300]
+jennys_mum folds
+calipso123 folds
+LuckBox_24 folds
+dv20000 folds
+** Summary **
+belotserkov collected [ $1,500 ]
+
+
+
+#Game No : 703137834
+***** 888poker Hand History for Game 703137834 *****
+$150/$300 Blinds Pot Limit Omaha - *** 17 12 2014 10:26:57
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $4,700 )
+Seat 2: cence1500 ( $4,250 )
+Seat 3: PapaShango19 ( $2,927 )
+Seat 4: blafil ( $2,967 )
+Seat 5: belotserkov ( $10,820 )
+Seat 6: jennys_mum ( $4,700 )
+Seat 7: wickster14 ( $5,000 )
+Seat 9: calipso123 ( $7,650 )
+Seat 10: LuckBox_24 ( $2,090 )
+jennys_mum posts small blind [$150]
+wickster14 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 3h, Jh, Jc ]
+calipso123 folds
+LuckBox_24 calls [$300]
+dv20000 calls [$300]
+cence1500 folds
+PapaShango19 folds
+blafil calls [$300]
+belotserkov calls [$300]
+jennys_mum folds
+wickster14 checks
+** Dealing flop ** [ Kd, Jd, 2s ]
+wickster14 checks
+LuckBox_24 bets [$1,650]
+dv20000 calls [$1,650]
+blafil folds
+belotserkov folds
+wickster14 folds
+** Dealing turn ** [ As ]
+LuckBox_24 bets [$140]
+dv20000 calls [$140]
+** Dealing river ** [ Ad ]
+** Summary **
+dv20000 shows [ 2d, Kc, Ks, 9s ]
+LuckBox_24 shows [ Kh, Ac, 7d, Qc ]
+LuckBox_24 collected [ $5,230 ]
+
+
+
+#Game No : 703137940
+***** 888poker Hand History for Game 703137940 *****
+$150/$300 Blinds Pot Limit Omaha - *** 17 12 2014 10:28:15
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $2,610 )
+Seat 2: cence1500 ( $4,250 )
+Seat 3: PapaShango19 ( $2,927 )
+Seat 4: blafil ( $2,667 )
+Seat 5: belotserkov ( $10,520 )
+Seat 6: jennys_mum ( $4,550 )
+Seat 7: wickster14 ( $4,700 )
+Seat 9: calipso123 ( $7,650 )
+Seat 10: LuckBox_24 ( $5,230 )
+wickster14 posts small blind [$150]
+calipso123 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3s, 7s, Kh ]
+LuckBox_24 folds
+dv20000 folds
+cence1500 folds
+PapaShango19 folds
+blafil calls [$300]
+belotserkov folds
+jennys_mum folds
+wickster14 calls [$150]
+calipso123 checks
+** Dealing flop ** [ Ks, As, Qd ]
+wickster14 checks
+calipso123 bets [$300]
+blafil folds
+wickster14 folds
+** Summary **
+calipso123 did not show his hand
+calipso123 collected [ $900 ]
+
+
+
+#Game No : 703137999
+***** 888poker Hand History for Game 703137999 *****
+$150/$300 Blinds Pot Limit Omaha - *** 17 12 2014 10:28:52
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $2,610 )
+Seat 2: cence1500 ( $4,250 )
+Seat 3: PapaShango19 ( $2,927 )
+Seat 4: blafil ( $2,367 )
+Seat 5: belotserkov ( $10,520 )
+Seat 6: jennys_mum ( $4,550 )
+Seat 7: wickster14 ( $4,400 )
+Seat 9: calipso123 ( $8,250 )
+Seat 10: LuckBox_24 ( $5,230 )
+calipso123 posts small blind [$150]
+LuckBox_24 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 5h, 6s, 2s ]
+dv20000 calls [$300]
+cence1500 folds
+PapaShango19 folds
+blafil folds
+belotserkov folds
+jennys_mum folds
+wickster14 calls [$300]
+calipso123 calls [$150]
+LuckBox_24 checks
+** Dealing flop ** [ Qd, Ac, 5c ]
+calipso123 checks
+LuckBox_24 checks
+dv20000 bets [$1,200]
+wickster14 folds
+calipso123 folds
+LuckBox_24 folds
+** Summary **
+dv20000 did not show his hand
+dv20000 collected [ $1,200 ]
+
+
+
+#Game No : 703138066
+***** 888poker Hand History for Game 703138066 *****
+$150/$300 Blinds Pot Limit Omaha - *** 17 12 2014 10:29:38
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $3,510 )
+Seat 3: PapaShango19 ( $2,927 )
+Seat 4: blafil ( $2,367 )
+Seat 5: belotserkov ( $10,520 )
+Seat 6: jennys_mum ( $4,550 )
+Seat 7: wickster14 ( $4,100 )
+Seat 9: calipso123 ( $7,950 )
+Seat 10: LuckBox_24 ( $4,930 )
+LuckBox_24 posts small blind [$150]
+dv20000 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 2h, 3c, 9h ]
+PapaShango19 folds
+blafil folds
+belotserkov folds
+jennys_mum folds
+wickster14 calls [$300]
+calipso123 folds
+LuckBox_24 folds
+dv20000 checks
+** Dealing flop ** [ Ks, 6c, 8s ]
+dv20000 checks
+wickster14 bets [$600]
+dv20000 folds
+** Summary **
+wickster14 did not show his hand
+wickster14 collected [ $750 ]
+
+
+
+#Game No : 703138115
+***** 888poker Hand History for Game 703138115 *****
+$200/$400 Blinds Pot Limit Omaha - *** 17 12 2014 10:30:15
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $3,210 )
+Seat 3: PapaShango19 ( $2,927 )
+Seat 4: blafil ( $2,367 )
+Seat 5: belotserkov ( $10,520 )
+Seat 6: jennys_mum ( $4,550 )
+Seat 7: wickster14 ( $4,550 )
+Seat 9: calipso123 ( $7,950 )
+Seat 10: LuckBox_24 ( $4,780 )
+dv20000 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Kd, Jd, 9d ]
+blafil folds
+belotserkov folds
+jennys_mum folds
+wickster14 calls [$400]
+calipso123 folds
+LuckBox_24 calls [$400]
+dv20000 folds
+PapaShango19 raises [$1,400]
+wickster14 calls [$1,400]
+LuckBox_24 calls [$1,400]
+** Dealing flop ** [ 5c, Ks, 6d ]
+PapaShango19 bets [$1,127]
+wickster14 calls [$1,127]
+LuckBox_24 folds
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 2d ]
+** Summary **
+PapaShango19 shows [ Ad, Kd, Jd, 9d ]
+wickster14 shows [ Jc, 8d, Ac, 8c ]
+PapaShango19 collected [ $7,854 ]
+
+
+
+#Game No : 703138189
+***** 888poker Hand History for Game 703138189 *****
+$200/$400 Blinds Pot Limit Omaha - *** 17 12 2014 10:31:18
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $3,010 )
+Seat 3: PapaShango19 ( $7,854 )
+Seat 4: blafil ( $2,367 )
+Seat 5: belotserkov ( $10,520 )
+Seat 6: jennys_mum ( $4,550 )
+Seat 7: wickster14 ( $1,623 )
+Seat 9: calipso123 ( $7,950 )
+Seat 10: LuckBox_24 ( $2,980 )
+PapaShango19 posts small blind [$200]
+blafil posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 3c, 4c, Jh ]
+belotserkov folds
+jennys_mum folds
+wickster14 calls [$400]
+calipso123 calls [$400]
+LuckBox_24 folds
+dv20000 calls [$400]
+PapaShango19 calls [$200]
+blafil checks
+** Dealing flop ** [ 3d, Td, 5h ]
+PapaShango19 checks
+blafil bets [$1,000]
+wickster14 raises [$1,223]
+calipso123 folds
+dv20000 calls [$1,223]
+PapaShango19 folds
+blafil calls [$223]
+** Dealing turn ** [ 6d ]
+blafil bets [$744]
+dv20000 calls [$744]
+** Dealing river ** [ 7c ]
+** Summary **
+dv20000 shows [ 2c, 2s, 4d, 4s ]
+blafil shows [ 5s, 5d, Kd, Qs ]
+wickster14 shows [ Tc, Ts, Th, 2h ]
+blafil collected [ $5,669 ]
+blafil collected [ $1,488 ]
+
+
+
+#Game No : 703138307
+***** 888poker Hand History for Game 703138307 *****
+$200/$400 Blinds Pot Limit Omaha - *** 17 12 2014 10:32:36
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $643 )
+Seat 2: spiritsong1 ( $6,150 )
+Seat 3: PapaShango19 ( $7,454 )
+Seat 4: blafil ( $7,157 )
+Seat 5: belotserkov ( $10,520 )
+Seat 6: jennys_mum ( $4,550 )
+Seat 9: calipso123 ( $7,550 )
+Seat 10: LuckBox_24 ( $2,980 )
+blafil posts small blind [$200]
+belotserkov posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 7c, 4h, Th ]
+jennys_mum calls [$400]
+calipso123 folds
+LuckBox_24 folds
+dv20000 raises [$643]
+spiritsong1 folds
+PapaShango19 folds
+blafil calls [$443]
+belotserkov raises [$2,572]
+jennys_mum calls [$2,572]
+blafil folds
+** Dealing flop ** [ Ts, 6d, 6c ]
+belotserkov bets [$7,230]
+jennys_mum calls [$1,578]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 7d ]
+** Summary **
+dv20000 shows [ Qs, Ad, 6s, 6h ]
+belotserkov shows [ Ac, 9c, 2d, Ah ]
+jennys_mum shows [ 8d, 9h, Js, Qc ]
+dv20000 collected [ $2,572 ]
+jennys_mum collected [ $7,814 ]
+
+
+
+#Game No : 703138371
+***** 888poker Hand History for Game 703138371 *****
+$200/$400 Blinds Pot Limit Omaha - *** 17 12 2014 10:33:28
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $2,572 )
+Seat 2: spiritsong1 ( $6,150 )
+Seat 3: PapaShango19 ( $7,454 )
+Seat 4: blafil ( $6,514 )
+Seat 5: belotserkov ( $5,970 )
+Seat 6: jennys_mum ( $7,814 )
+Seat 9: calipso123 ( $7,550 )
+Seat 10: LuckBox_24 ( $2,980 )
+belotserkov posts small blind [$200]
+jennys_mum posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Qd, 4c, 8h ]
+calipso123 folds
+LuckBox_24 folds
+dv20000 folds
+spiritsong1 calls [$400]
+PapaShango19 folds
+blafil folds
+belotserkov calls [$200]
+jennys_mum checks
+** Dealing flop ** [ 2c, 6c, Ks ]
+belotserkov checks
+jennys_mum checks
+spiritsong1 bets [$1,200]
+belotserkov folds
+jennys_mum folds
+** Summary **
+spiritsong1 did not show his hand
+spiritsong1 collected [ $1,200 ]
+
+
+
+#Game No : 703138440
+***** 888poker Hand History for Game 703138440 *****
+$200/$400 Blinds Pot Limit Omaha - *** 17 12 2014 10:34:11
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $2,572 )
+Seat 2: spiritsong1 ( $6,950 )
+Seat 3: PapaShango19 ( $7,454 )
+Seat 4: blafil ( $6,514 )
+Seat 5: belotserkov ( $5,570 )
+Seat 6: jennys_mum ( $7,414 )
+Seat 9: calipso123 ( $7,550 )
+Seat 10: LuckBox_24 ( $2,980 )
+jennys_mum posts small blind [$200]
+calipso123 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 8c, 6s, 8d ]
+LuckBox_24 folds
+dv20000 calls [$400]
+spiritsong1 folds
+PapaShango19 calls [$400]
+blafil calls [$400]
+belotserkov folds
+jennys_mum calls [$200]
+calipso123 checks
+** Dealing flop ** [ 6d, Qd, Kh ]
+jennys_mum checks
+calipso123 checks
+dv20000 checks
+PapaShango19 bets [$2,000]
+blafil folds
+jennys_mum folds
+calipso123 folds
+dv20000 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,000 ]
+
+
+
+#Game No : 703138528
+***** 888poker Hand History for Game 703138528 *****
+$200/$400 Blinds Pot Limit Omaha - *** 17 12 2014 10:35:12
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $2,172 )
+Seat 2: spiritsong1 ( $6,950 )
+Seat 3: PapaShango19 ( $9,054 )
+Seat 4: blafil ( $6,114 )
+Seat 5: belotserkov ( $5,570 )
+Seat 6: jennys_mum ( $7,014 )
+Seat 9: calipso123 ( $7,150 )
+Seat 10: LuckBox_24 ( $2,980 )
+calipso123 posts small blind [$200]
+LuckBox_24 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 4s, Qs, 6h ]
+dv20000 folds
+spiritsong1 folds
+PapaShango19 folds
+blafil folds
+belotserkov folds
+jennys_mum calls [$400]
+calipso123 calls [$200]
+LuckBox_24 checks
+** Dealing flop ** [ Qc, 5s, 7d ]
+calipso123 checks
+LuckBox_24 bets [$1,200]
+jennys_mum folds
+calipso123 folds
+** Summary **
+LuckBox_24 did not show his hand
+LuckBox_24 collected [ $1,200 ]
+
+
+
+#Game No : 703138601
+***** 888poker Hand History for Game 703138601 *****
+$300/$600 Blinds Pot Limit Omaha - *** 17 12 2014 10:35:59
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $2,172 )
+Seat 2: spiritsong1 ( $6,950 )
+Seat 3: PapaShango19 ( $9,054 )
+Seat 4: blafil ( $6,114 )
+Seat 5: belotserkov ( $5,570 )
+Seat 6: jennys_mum ( $6,614 )
+Seat 9: calipso123 ( $6,750 )
+Seat 10: LuckBox_24 ( $3,780 )
+LuckBox_24 posts small blind [$300]
+dv20000 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Ad, Js, 3d ]
+spiritsong1 folds
+PapaShango19 raises [$1,800]
+blafil folds
+belotserkov folds
+jennys_mum folds
+calipso123 folds
+LuckBox_24 folds
+dv20000 raises [$1,572]
+PapaShango19 calls [$372]
+** Dealing flop ** [ Td, 8h, 3s ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 2h ]
+** Summary **
+dv20000 shows [ 7d, 9s, As, Ks ]
+PapaShango19 shows [ Kd, Ad, Js, 3d ]
+dv20000 collected [ $4,644 ]
+
+
+
+#Game No : 703138684
+***** 888poker Hand History for Game 703138684 *****
+$300/$600 Blinds Pot Limit Omaha - *** 17 12 2014 10:36:54
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $4,644 )
+Seat 2: spiritsong1 ( $6,950 )
+Seat 3: PapaShango19 ( $6,882 )
+Seat 4: blafil ( $6,114 )
+Seat 5: belotserkov ( $5,570 )
+Seat 6: jennys_mum ( $6,614 )
+Seat 7: pietro778 ( $10,700 )
+Seat 9: calipso123 ( $6,750 )
+Seat 10: LuckBox_24 ( $3,480 )
+dv20000 posts small blind [$300]
+spiritsong1 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 3d, 8h, 9d ]
+PapaShango19 folds
+blafil folds
+belotserkov folds
+jennys_mum folds
+pietro778 calls [$600]
+calipso123 folds
+LuckBox_24 folds
+dv20000 calls [$300]
+spiritsong1 checks
+** Dealing flop ** [ 7d, Th, Jd ]
+dv20000 checks
+spiritsong1 checks
+pietro778 checks
+** Dealing turn ** [ 9s ]
+dv20000 checks
+spiritsong1 checks
+pietro778 bets [$600]
+dv20000 folds
+spiritsong1 folds
+** Summary **
+pietro778 did not show his hand
+pietro778 collected [ $1,800 ]
+
+
+
+#Game No : 703138788
+***** 888poker Hand History for Game 703138788 *****
+$300/$600 Blinds Pot Limit Omaha - *** 17 12 2014 10:37:49
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $4,044 )
+Seat 2: spiritsong1 ( $6,350 )
+Seat 3: PapaShango19 ( $6,882 )
+Seat 4: blafil ( $6,114 )
+Seat 5: belotserkov ( $5,570 )
+Seat 6: jennys_mum ( $6,614 )
+Seat 7: pietro778 ( $11,900 )
+Seat 9: calipso123 ( $6,750 )
+Seat 10: LuckBox_24 ( $3,480 )
+spiritsong1 posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 4s, 3d, Tc ]
+blafil folds
+belotserkov folds
+jennys_mum raises [$2,100]
+pietro778 folds
+calipso123 folds
+LuckBox_24 folds
+dv20000 folds
+spiritsong1 folds
+PapaShango19 folds
+** Summary **
+jennys_mum did not show his hand
+jennys_mum collected [ $1,500 ]
+
+
+
+#Game No : 703138820
+***** 888poker Hand History for Game 703138820 *****
+$300/$600 Blinds Pot Limit Omaha - *** 17 12 2014 10:38:17
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $4,044 )
+Seat 2: spiritsong1 ( $6,050 )
+Seat 3: PapaShango19 ( $6,282 )
+Seat 4: blafil ( $6,114 )
+Seat 5: belotserkov ( $5,570 )
+Seat 6: jennys_mum ( $7,514 )
+Seat 7: pietro778 ( $11,900 )
+Seat 9: calipso123 ( $6,750 )
+Seat 10: LuckBox_24 ( $3,480 )
+PapaShango19 posts small blind [$300]
+blafil posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Kh, 8c, 9s ]
+belotserkov folds
+jennys_mum folds
+pietro778 folds
+calipso123 folds
+LuckBox_24 folds
+dv20000 calls [$600]
+spiritsong1 folds
+PapaShango19 folds
+blafil checks
+** Dealing flop ** [ 3h, 3c, As ]
+blafil checks
+dv20000 checks
+** Dealing turn ** [ 4d ]
+blafil checks
+dv20000 checks
+** Dealing river ** [ 3s ]
+blafil bets [$1,500]
+dv20000 folds
+** Summary **
+blafil did not show his hand
+blafil collected [ $1,500 ]
+
+
+
+#Game No : 703138915
+***** 888poker Hand History for Game 703138915 *****
+$300/$600 Blinds Pot Limit Omaha - *** 17 12 2014 10:39:06
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $3,444 )
+Seat 2: spiritsong1 ( $6,050 )
+Seat 3: PapaShango19 ( $5,982 )
+Seat 4: blafil ( $7,014 )
+Seat 5: belotserkov ( $5,570 )
+Seat 6: jennys_mum ( $7,514 )
+Seat 7: pietro778 ( $11,900 )
+Seat 10: LuckBox_24 ( $3,480 )
+blafil posts small blind [$300]
+belotserkov posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Ac, 5d, 9s ]
+jennys_mum folds
+pietro778 folds
+LuckBox_24 folds
+dv20000 raises [$1,575]
+spiritsong1 folds
+PapaShango19 folds
+blafil folds
+belotserkov raises [$4,425]
+dv20000 calls [$1,869]
+** Dealing flop ** [ Js, 8h, Kc ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 9h ]
+** Summary **
+dv20000 shows [ Qc, 9d, Kd, Qd ]
+belotserkov shows [ Ad, Tc, 8d, Kh ]
+dv20000 collected [ $7,188 ]
+
+
+
+#Game No : 703138994
+***** 888poker Hand History for Game 703138994 *****
+$300/$600 Blinds Pot Limit Omaha - *** 17 12 2014 10:39:57
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $7,188 )
+Seat 2: spiritsong1 ( $6,050 )
+Seat 3: PapaShango19 ( $5,982 )
+Seat 4: blafil ( $6,714 )
+Seat 5: belotserkov ( $2,126 )
+Seat 6: jennys_mum ( $7,514 )
+Seat 7: pietro778 ( $11,900 )
+Seat 10: LuckBox_24 ( $3,480 )
+belotserkov posts small blind [$300]
+jennys_mum posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 2c, Qh, Ks ]
+pietro778 folds
+LuckBox_24 folds
+dv20000 folds
+spiritsong1 folds
+PapaShango19 folds
+blafil folds
+belotserkov calls [$300]
+jennys_mum checks
+** Dealing flop ** [ 6d, 3h, 2h ]
+belotserkov bets [$1,200]
+jennys_mum folds
+** Summary **
+belotserkov did not show his hand
+belotserkov collected [ $1,200 ]
+
+
+
+#Game No : 703139070
+***** 888poker Hand History for Game 703139070 *****
+$400/$800 Blinds Pot Limit Omaha - *** 17 12 2014 10:40:41
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $7,188 )
+Seat 2: spiritsong1 ( $6,050 )
+Seat 3: PapaShango19 ( $5,982 )
+Seat 4: blafil ( $6,714 )
+Seat 5: belotserkov ( $2,726 )
+Seat 6: jennys_mum ( $6,914 )
+Seat 7: pietro778 ( $11,900 )
+Seat 10: LuckBox_24 ( $3,480 )
+jennys_mum posts small blind [$400]
+pietro778 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ad, 7d, Qh ]
+LuckBox_24 folds
+dv20000 folds
+spiritsong1 folds
+PapaShango19 folds
+blafil folds
+belotserkov raises [$2,726]
+jennys_mum folds
+pietro778 calls [$1,926]
+** Dealing flop ** [ 2h, 5s, 6s ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 7c ]
+** Summary **
+belotserkov shows [ 5h, Kd, Td, Ah ]
+pietro778 shows [ Ac, Qs, Jd, 9s ]
+belotserkov collected [ $5,852 ]
+
+
+
+#Game No : 703139159
+***** 888poker Hand History for Game 703139159 *****
+$400/$800 Blinds Pot Limit Omaha - *** 17 12 2014 10:41:29
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $7,188 )
+Seat 2: spiritsong1 ( $6,050 )
+Seat 3: PapaShango19 ( $5,982 )
+Seat 4: blafil ( $6,714 )
+Seat 5: belotserkov ( $5,852 )
+Seat 6: jennys_mum ( $6,514 )
+Seat 7: pietro778 ( $9,174 )
+Seat 9: meanmaree ( $17,167 )
+Seat 10: LuckBox_24 ( $3,480 )
+pietro778 posts small blind [$400]
+meanmaree posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 8c, Qs, 3h ]
+LuckBox_24 folds
+dv20000 folds
+spiritsong1 folds
+PapaShango19 raises [$2,800]
+blafil folds
+belotserkov folds
+jennys_mum folds
+pietro778 folds
+meanmaree folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,000 ]
+
+
+
+#Game No : 703139197
+***** 888poker Hand History for Game 703139197 *****
+$400/$800 Blinds Pot Limit Omaha - *** 17 12 2014 10:41:55
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: dv20000 ( $7,188 )
+Seat 2: spiritsong1 ( $6,050 )
+Seat 3: PapaShango19 ( $7,182 )
+Seat 4: blafil ( $6,714 )
+Seat 5: belotserkov ( $5,852 )
+Seat 6: jennys_mum ( $6,514 )
+Seat 7: pietro778 ( $8,774 )
+Seat 9: meanmaree ( $16,367 )
+Seat 10: LuckBox_24 ( $3,480 )
+meanmaree posts small blind [$400]
+LuckBox_24 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 9h, 5s, Th ]
+dv20000 folds
+spiritsong1 calls [$800]
+PapaShango19 folds
+blafil folds
+belotserkov folds
+jennys_mum folds
+pietro778 calls [$800]
+meanmaree calls [$400]
+LuckBox_24 raises [$2,680]
+spiritsong1 calls [$2,680]
+pietro778 folds
+meanmaree folds
+** Dealing flop ** [ Td, Ad, 4s ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 2h ]
+** Summary **
+spiritsong1 shows [ Ac, 9s, 5c, Js ]
+LuckBox_24 shows [ Kh, 8s, 6h, Ks ]
+spiritsong1 collected [ $8,560 ]
+
+
+
+#Game No : 703139279
+***** 888poker Hand History for Game 703139279 *****
+$400/$800 Blinds Pot Limit Omaha - *** 17 12 2014 10:42:47
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $7,188 )
+Seat 2: spiritsong1 ( $11,130 )
+Seat 3: PapaShango19 ( $7,182 )
+Seat 4: blafil ( $6,714 )
+Seat 5: belotserkov ( $5,852 )
+Seat 6: jennys_mum ( $6,514 )
+Seat 7: pietro778 ( $7,974 )
+Seat 9: meanmaree ( $15,567 )
+dv20000 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 3s, 3d, 6d ]
+spiritsong1 folds
+PapaShango19 folds
+blafil calls [$800]
+belotserkov raises [$3,200]
+jennys_mum folds
+pietro778 folds
+meanmaree folds
+dv20000 folds
+blafil raises [$5,914]
+belotserkov calls [$2,652]
+** Dealing flop ** [ Ks, Th, Qs ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ Qd ]
+** Summary **
+blafil shows [ Ac, 7s, Ah, Kh ]
+belotserkov shows [ Jc, 8d, Qc, Td ]
+belotserkov collected [ $12,504 ]
+
+
+
+#Game No : 703139358
+***** 888poker Hand History for Game 703139358 *****
+$400/$800 Blinds Pot Limit Omaha - *** 17 12 2014 10:43:33
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $6,388 )
+Seat 2: spiritsong1 ( $11,130 )
+Seat 3: PapaShango19 ( $7,182 )
+Seat 4: blafil ( $862 )
+Seat 5: belotserkov ( $12,504 )
+Seat 6: jennys_mum ( $6,514 )
+Seat 7: pietro778 ( $7,974 )
+Seat 9: meanmaree ( $15,567 )
+dv20000 posts small blind [$400]
+spiritsong1 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Qh, Kc, Ks ]
+PapaShango19 raises [$2,800]
+blafil folds
+belotserkov folds
+jennys_mum raises [$6,514]
+pietro778 folds
+meanmaree folds
+dv20000 folds
+spiritsong1 folds
+PapaShango19 calls [$3,714]
+** Dealing flop ** [ Jh, 7d, 3s ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 9h ]
+** Summary **
+PapaShango19 shows [ 2s, Qh, Kc, Ks ]
+jennys_mum shows [ Ad, 9s, 5d, Js ]
+jennys_mum collected [ $14,228 ]
+
+
+
+#Game No : 703139415
+***** 888poker Hand History for Game 703139415 *****
+$400/$800 Blinds Pot Limit Omaha - *** 17 12 2014 10:44:16
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: dv20000 ( $5,988 )
+Seat 2: spiritsong1 ( $10,330 )
+Seat 3: PapaShango19 ( $668 )
+Seat 4: blafil ( $862 )
+Seat 5: belotserkov ( $12,504 )
+Seat 6: jennys_mum ( $14,228 )
+Seat 7: pietro778 ( $7,974 )
+Seat 9: meanmaree ( $15,567 )
+spiritsong1 posts small blind [$400]
+PapaShango19 posts big blind [$668]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Jh, 4s, 7c ]
+blafil folds
+belotserkov folds
+jennys_mum folds
+pietro778 calls [$800]
+meanmaree folds
+dv20000 folds
+spiritsong1 calls [$400]
+** Dealing flop ** [ 6s, As, Jc ]
+spiritsong1 checks
+pietro778 checks
+** Dealing turn ** [ Qs ]
+spiritsong1 bets [$800]
+pietro778 folds
+** Dealing river ** [ 5h ]
+** Summary **
+spiritsong1 shows [ 5c, 2s, Ts, 5s ]
+PapaShango19 shows [ 2h, Jh, 4s, 7c ]
+spiritsong1 collected [ $2,004 ]
+spiritsong1 collected [ $1,064 ]
+
+
+
+#Game No : 703139470
+***** 888poker Hand History for Game 703139470 *****
+$400/$800 Blinds Pot Limit Omaha - *** 17 12 2014 10:44:52
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: dv20000 ( $5,988 )
+Seat 2: spiritsong1 ( $11,798 )
+Seat 4: blafil ( $862 )
+Seat 5: belotserkov ( $12,504 )
+Seat 6: jennys_mum ( $14,228 )
+Seat 7: pietro778 ( $7,174 )
+Seat 9: meanmaree ( $15,567 )
+blafil posts big blind [$800]
+** Dealing down cards **
+belotserkov folds
+jennys_mum folds
+pietro778 folds
+meanmaree folds
+dv20000 raises [$1,600]
+spiritsong1 folds
+blafil calls [$62]
+** Dealing flop ** [ 3h, Ac, 9s ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ Ks ]
+** Summary **
+dv20000 shows [ Jh, Tc, Kd, Jd ]
+blafil shows [ Js, 6h, Jc, 4h ]
+dv20000 collected [ $1,724 ]
+
+
+
+#Game No : 703139518
+***** 888poker Hand History for Game 703139518 *****
+$500/$1,000 Blinds Pot Limit Omaha - *** 17 12 2014 10:45:25
+Tournament #64434265 $2.25 + $0.25 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: dv20000 ( $6,850 )
+Seat 2: spiritsong1 ( $11,798 )
+Seat 5: belotserkov ( $12,504 )
+Seat 6: jennys_mum ( $14,228 )
+Seat 7: pietro778 ( $7,174 )
+Seat 9: meanmaree ( $15,567 )
+Seat 10: nacnud5 ( $3,510 )
+belotserkov posts big blind [$1,000]
+** Dealing down cards **
+jennys_mum folds
+pietro778 folds
+meanmaree folds
+nacnud5 folds
+dv20000 folds
+spiritsong1 calls [$1,000]
+belotserkov checks
+** Dealing flop ** [ Ah, Kd, 6s ]
+belotserkov checks
+spiritsong1 checks
+** Dealing turn ** [ Ad ]
+belotserkov bets [$1,000]
+spiritsong1 folds
+** Summary **
+belotserkov did not show his hand
+belotserkov collected [ $2,000 ]
+
+
+

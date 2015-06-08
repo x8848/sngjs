@@ -1,0 +1,2443 @@
+#Game No : 646399380
+***** 888poker Hand History for Game 646399380 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:26:24
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: ericsen90 ( $1,500 )
+Seat 2: nonsenseo ( $1,500 )
+Seat 3: Anatoily_vrn ( $1,500 )
+Seat 4: pidori ( $1,500 )
+Seat 5: finlay_82 ( $1,500 )
+Seat 6: ada_e ( $1,500 )
+Seat 7: Hacke54 ( $1,500 )
+Seat 9: andrei959 ( $1,500 )
+Seat 10: PapaShango19 ( $1,500 )
+ericsen90 posts small blind [$10]
+nonsenseo posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 7s ]
+Anatoily_vrn calls [$20]
+pidori folds
+finlay_82 calls [$20]
+ada_e folds
+Hacke54 folds
+andrei959 calls [$20]
+PapaShango19 calls [$20]
+ericsen90 folds
+nonsenseo checks
+** Dealing flop ** [ 4d, Jd, Jh ]
+nonsenseo checks
+Anatoily_vrn bets [$80]
+finlay_82 calls [$80]
+andrei959 calls [$80]
+PapaShango19 folds
+nonsenseo raises [$255]
+Anatoily_vrn calls [$175]
+finlay_82 calls [$175]
+andrei959 folds
+** Dealing turn ** [ 8h ]
+nonsenseo bets [$1,225]
+Anatoily_vrn folds
+finlay_82 calls [$1,225]
+** Dealing river ** [ Qh ]
+** Summary **
+nonsenseo shows [ Td, Js ]
+finlay_82 shows [ Jc, 9h ]
+nonsenseo collected [ $3,405 ]
+
+
+
+#Game No : 646399795
+***** 888poker Hand History for Game 646399795 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:28:03
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ericsen90 ( $1,490 )
+Seat 2: nonsenseo ( $3,405 )
+Seat 3: Anatoily_vrn ( $1,225 )
+Seat 4: pidori ( $1,500 )
+Seat 6: ada_e ( $1,500 )
+Seat 7: Hacke54 ( $1,500 )
+Seat 9: andrei959 ( $1,400 )
+Seat 10: PapaShango19 ( $1,480 )
+nonsenseo posts small blind [$10]
+Anatoily_vrn posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 6h ]
+pidori calls [$20]
+ada_e folds
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+ericsen90 folds
+nonsenseo folds
+Anatoily_vrn checks
+** Dealing flop ** [ 8d, 4c, Kd ]
+Anatoily_vrn checks
+pidori checks
+** Dealing turn ** [ 5h ]
+Anatoily_vrn bets [$20]
+pidori folds
+** Summary **
+Anatoily_vrn did not show his hand
+Anatoily_vrn collected [ $50 ]
+
+
+
+#Game No : 646400041
+***** 888poker Hand History for Game 646400041 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:29:05
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: ericsen90 ( $1,490 )
+Seat 2: nonsenseo ( $3,395 )
+Seat 3: Anatoily_vrn ( $1,255 )
+Seat 4: pidori ( $1,480 )
+Seat 6: ada_e ( $1,500 )
+Seat 7: Hacke54 ( $1,500 )
+Seat 9: andrei959 ( $1,400 )
+Seat 10: PapaShango19 ( $1,480 )
+Anatoily_vrn posts small blind [$10]
+pidori posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+ada_e folds
+Hacke54 calls [$20]
+andrei959 folds
+PapaShango19 folds
+ericsen90 calls [$20]
+nonsenseo calls [$20]
+Anatoily_vrn calls [$10]
+pidori checks
+** Dealing flop ** [ 2c, 8c, 7s ]
+Anatoily_vrn bets [$60]
+pidori folds
+Hacke54 calls [$60]
+ericsen90 raises [$170]
+nonsenseo raises [$280]
+Anatoily_vrn folds
+Hacke54 calls [$220]
+ericsen90 raises [$1,300]
+nonsenseo raises [$2,380]
+Hacke54 folds
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ Ts ]
+** Summary **
+ericsen90 shows [ 2s, 2d ]
+nonsenseo shows [ 8h, 8d ]
+nonsenseo collected [ $3,380 ]
+
+
+
+#Game No : 646400438
+***** 888poker Hand History for Game 646400438 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:30:38
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,285 )
+Seat 3: Anatoily_vrn ( $1,175 )
+Seat 4: pidori ( $1,460 )
+Seat 6: ada_e ( $1,500 )
+Seat 7: Hacke54 ( $1,200 )
+Seat 9: andrei959 ( $1,400 )
+Seat 10: PapaShango19 ( $1,480 )
+pidori posts small blind [$10]
+ada_e posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Kh ]
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn folds
+pidori calls [$10]
+ada_e checks
+** Dealing flop ** [ 5d, 6s, Ac ]
+pidori checks
+ada_e bets [$26]
+pidori folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $40 ]
+
+
+
+#Game No : 646400595
+***** 888poker Hand History for Game 646400595 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:31:21
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,285 )
+Seat 3: Anatoily_vrn ( $1,175 )
+Seat 4: pidori ( $1,440 )
+Seat 6: ada_e ( $1,520 )
+Seat 7: Hacke54 ( $1,200 )
+Seat 9: andrei959 ( $1,400 )
+Seat 10: PapaShango19 ( $1,480 )
+ada_e posts small blind [$10]
+Hacke54 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Qc ]
+andrei959 calls [$20]
+PapaShango19 folds
+nonsenseo raises [$40]
+Anatoily_vrn calls [$40]
+pidori folds
+ada_e calls [$30]
+Hacke54 calls [$20]
+andrei959 calls [$20]
+** Dealing flop ** [ 7s, 7h, Kc ]
+ada_e checks
+Hacke54 checks
+andrei959 bets [$20]
+nonsenseo folds
+Anatoily_vrn calls [$20]
+ada_e folds
+Hacke54 calls [$20]
+** Dealing turn ** [ Td ]
+Hacke54 checks
+andrei959 bets [$20]
+Anatoily_vrn calls [$20]
+Hacke54 calls [$20]
+** Dealing river ** [ Qd ]
+Hacke54 checks
+andrei959 bets [$260]
+Anatoily_vrn calls [$260]
+Hacke54 folds
+** Summary **
+andrei959 shows [ Kd, 4h ]
+Anatoily_vrn shows [ Kh, 3h ]
+andrei959 collected [ $420 ]
+Anatoily_vrn collected [ $420 ]
+
+
+
+#Game No : 646400996
+***** 888poker Hand History for Game 646400996 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:32:53
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,245 )
+Seat 3: Anatoily_vrn ( $1,255 )
+Seat 4: pidori ( $1,440 )
+Seat 6: ada_e ( $1,480 )
+Seat 7: Hacke54 ( $1,120 )
+Seat 9: andrei959 ( $1,480 )
+Seat 10: PapaShango19 ( $1,480 )
+Hacke54 posts small blind [$10]
+andrei959 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Jh ]
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn raises [$100]
+pidori folds
+ada_e folds
+Hacke54 folds
+andrei959 folds
+** Summary **
+Anatoily_vrn did not show his hand
+Anatoily_vrn collected [ $50 ]
+
+
+
+#Game No : 646401120
+***** 888poker Hand History for Game 646401120 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:33:21
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,245 )
+Seat 3: Anatoily_vrn ( $1,285 )
+Seat 4: pidori ( $1,440 )
+Seat 6: ada_e ( $1,480 )
+Seat 7: Hacke54 ( $1,110 )
+Seat 9: andrei959 ( $1,460 )
+Seat 10: PapaShango19 ( $1,480 )
+andrei959 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Kh ]
+nonsenseo raises [$50]
+Anatoily_vrn folds
+pidori folds
+ada_e folds
+Hacke54 folds
+andrei959 folds
+PapaShango19 calls [$30]
+** Dealing flop ** [ Jh, Th, 6d ]
+PapaShango19 bets [$55]
+nonsenseo folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $110 ]
+
+
+
+#Game No : 646401292
+***** 888poker Hand History for Game 646401292 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:34:02
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,195 )
+Seat 3: Anatoily_vrn ( $1,285 )
+Seat 4: pidori ( $1,440 )
+Seat 6: ada_e ( $1,480 )
+Seat 7: Hacke54 ( $1,110 )
+Seat 9: andrei959 ( $1,450 )
+Seat 10: PapaShango19 ( $1,540 )
+PapaShango19 posts small blind [$10]
+nonsenseo posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 4c ]
+Anatoily_vrn folds
+pidori folds
+ada_e calls [$20]
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+nonsenseo checks
+** Dealing flop ** [ 9c, 3c, 5s ]
+nonsenseo checks
+ada_e bets [$32]
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $50 ]
+
+
+
+#Game No : 646401466
+***** 888poker Hand History for Game 646401466 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:34:43
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,175 )
+Seat 3: Anatoily_vrn ( $1,285 )
+Seat 4: pidori ( $1,440 )
+Seat 6: ada_e ( $1,510 )
+Seat 7: Hacke54 ( $1,110 )
+Seat 9: andrei959 ( $1,450 )
+Seat 10: PapaShango19 ( $1,530 )
+nonsenseo posts small blind [$15]
+Anatoily_vrn posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 2d ]
+pidori folds
+ada_e raises [$90]
+Hacke54 raises [$315]
+andrei959 folds
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn folds
+ada_e folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $225 ]
+
+
+
+#Game No : 646401595
+***** 888poker Hand History for Game 646401595 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:35:17
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,160 )
+Seat 3: Anatoily_vrn ( $1,255 )
+Seat 4: pidori ( $1,440 )
+Seat 6: ada_e ( $1,420 )
+Seat 7: Hacke54 ( $1,245 )
+Seat 9: andrei959 ( $1,450 )
+Seat 10: PapaShango19 ( $1,530 )
+Anatoily_vrn posts small blind [$15]
+pidori posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Qh ]
+ada_e folds
+Hacke54 calls [$30]
+andrei959 folds
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn folds
+pidori checks
+** Dealing flop ** [ Qc, Ah, 4d ]
+pidori checks
+Hacke54 bets [$30]
+pidori folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $75 ]
+
+
+
+#Game No : 646401776
+***** 888poker Hand History for Game 646401776 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:35:57
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,160 )
+Seat 3: Anatoily_vrn ( $1,240 )
+Seat 4: pidori ( $1,410 )
+Seat 6: ada_e ( $1,420 )
+Seat 7: Hacke54 ( $1,290 )
+Seat 9: andrei959 ( $1,450 )
+Seat 10: PapaShango19 ( $1,530 )
+pidori posts small blind [$15]
+ada_e posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 8h ]
+Hacke54 calls [$30]
+andrei959 folds
+PapaShango19 folds
+nonsenseo calls [$30]
+Anatoily_vrn folds
+pidori calls [$15]
+ada_e checks
+** Dealing flop ** [ 5s, 4s, 2d ]
+pidori checks
+ada_e checks
+Hacke54 bets [$30]
+nonsenseo calls [$30]
+pidori folds
+ada_e calls [$30]
+** Dealing turn ** [ 7d ]
+ada_e checks
+Hacke54 bets [$30]
+nonsenseo calls [$30]
+ada_e calls [$30]
+** Dealing river ** [ 3d ]
+ada_e checks
+Hacke54 bets [$300]
+nonsenseo folds
+ada_e folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $300 ]
+
+
+
+#Game No : 646402350
+***** 888poker Hand History for Game 646402350 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:38:09
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,070 )
+Seat 3: Anatoily_vrn ( $1,240 )
+Seat 4: pidori ( $1,380 )
+Seat 6: ada_e ( $1,330 )
+Seat 7: Hacke54 ( $1,500 )
+Seat 9: andrei959 ( $1,450 )
+Seat 10: PapaShango19 ( $1,530 )
+ada_e posts small blind [$15]
+Hacke54 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 8c ]
+andrei959 calls [$30]
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn folds
+pidori folds
+ada_e folds
+Hacke54 checks
+** Dealing flop ** [ Qc, 4s, 2c ]
+Hacke54 checks
+andrei959 checks
+** Dealing turn ** [ 7c ]
+Hacke54 checks
+andrei959 checks
+** Dealing river ** [ 9d ]
+Hacke54 checks
+andrei959 checks
+** Summary **
+Hacke54 shows [ 2d, Ah ]
+andrei959 mucks [ Ks, 8h ]
+Hacke54 collected [ $75 ]
+
+
+
+#Game No : 646402564
+***** 888poker Hand History for Game 646402564 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:39:04
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $5,070 )
+Seat 3: Anatoily_vrn ( $1,240 )
+Seat 4: pidori ( $1,380 )
+Seat 6: ada_e ( $1,315 )
+Seat 7: Hacke54 ( $1,545 )
+Seat 9: andrei959 ( $1,420 )
+Seat 10: PapaShango19 ( $1,530 )
+Hacke54 posts small blind [$15]
+andrei959 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6s ]
+PapaShango19 folds
+nonsenseo raises [$60]
+Anatoily_vrn raises [$120]
+pidori folds
+ada_e folds
+Hacke54 folds
+andrei959 folds
+nonsenseo calls [$60]
+** Dealing flop ** [ Tc, Kd, 2h ]
+nonsenseo checks
+Anatoily_vrn checks
+** Dealing turn ** [ 5s ]
+nonsenseo checks
+Anatoily_vrn checks
+** Dealing river ** [ 5c ]
+nonsenseo checks
+Anatoily_vrn checks
+** Summary **
+nonsenseo shows [ 9d, Jh ]
+Anatoily_vrn shows [ 8c, 8s ]
+Anatoily_vrn collected [ $285 ]
+
+
+
+#Game No : 646402885
+***** 888poker Hand History for Game 646402885 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:39:57
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $4,950 )
+Seat 3: Anatoily_vrn ( $1,405 )
+Seat 4: pidori ( $1,380 )
+Seat 6: ada_e ( $1,315 )
+Seat 7: Hacke54 ( $1,530 )
+Seat 9: andrei959 ( $1,390 )
+Seat 10: PapaShango19 ( $1,530 )
+andrei959 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Td ]
+nonsenseo folds
+Anatoily_vrn folds
+pidori folds
+ada_e folds
+Hacke54 calls [$30]
+andrei959 calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 2d, Js, Jc ]
+andrei959 checks
+PapaShango19 checks
+Hacke54 checks
+** Dealing turn ** [ 9h ]
+andrei959 checks
+PapaShango19 checks
+Hacke54 checks
+** Dealing river ** [ Jd ]
+andrei959 checks
+PapaShango19 checks
+Hacke54 checks
+** Summary **
+andrei959 shows [ 4h, Th ]
+PapaShango19 shows [ 9c, Td ]
+Hacke54 mucks [ 7c, Kc ]
+PapaShango19 collected [ $90 ]
+
+
+
+#Game No : 646403260
+***** 888poker Hand History for Game 646403260 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:41:29
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: nonsenseo ( $4,950 )
+Seat 3: Anatoily_vrn ( $1,405 )
+Seat 4: pidori ( $1,380 )
+Seat 6: ada_e ( $1,315 )
+Seat 7: Hacke54 ( $1,500 )
+Seat 9: andrei959 ( $1,360 )
+Seat 10: PapaShango19 ( $1,590 )
+PapaShango19 posts small blind [$15]
+nonsenseo posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9c ]
+Anatoily_vrn folds
+pidori calls [$30]
+ada_e folds
+Hacke54 calls [$30]
+andrei959 folds
+PapaShango19 calls [$15]
+nonsenseo checks
+** Dealing flop ** [ Jc, Kd, 2s ]
+PapaShango19 checks
+nonsenseo checks
+pidori bets [$60]
+Hacke54 calls [$60]
+PapaShango19 calls [$60]
+nonsenseo folds
+** Dealing turn ** [ Ts ]
+PapaShango19 checks
+pidori bets [$150]
+Hacke54 raises [$750]
+PapaShango19 folds
+pidori calls [$600]
+** Dealing river ** [ 7h ]
+pidori checks
+Hacke54 bets [$660]
+pidori calls [$540]
+** Summary **
+pidori shows [ Ac, Kh ]
+Hacke54 shows [ Qd, 9h ]
+Hacke54 collected [ $2,880 ]
+
+
+
+#Game No : 646403655
+***** 888poker Hand History for Game 646403655 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:43:03
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 2: nonsenseo ( $4,920 )
+Seat 3: Anatoily_vrn ( $1,405 )
+Seat 6: ada_e ( $1,315 )
+Seat 7: Hacke54 ( $3,000 )
+Seat 9: andrei959 ( $1,360 )
+Seat 10: PapaShango19 ( $1,500 )
+nonsenseo posts small blind [$25]
+Anatoily_vrn posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Ts ]
+ada_e calls [$50]
+Hacke54 folds
+andrei959 calls [$50]
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn checks
+** Dealing flop ** [ Ah, Js, Kh ]
+Anatoily_vrn bets [$50]
+ada_e calls [$50]
+andrei959 calls [$50]
+** Dealing turn ** [ 4d ]
+Anatoily_vrn bets [$50]
+ada_e raises [$411]
+andrei959 calls [$411]
+Anatoily_vrn calls [$361]
+** Dealing river ** [ 6d ]
+Anatoily_vrn checks
+ada_e checks
+andrei959 checks
+** Summary **
+Anatoily_vrn shows [ 9c, Th ]
+ada_e shows [ 3c, Ac ]
+andrei959 mucks [ Kd, 7s ]
+ada_e collected [ $1,558 ]
+
+
+
+#Game No : 646403970
+***** 888poker Hand History for Game 646403970 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:44:07
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: nonsenseo ( $4,895 )
+Seat 3: Anatoily_vrn ( $894 )
+Seat 6: ada_e ( $2,362 )
+Seat 7: Hacke54 ( $3,000 )
+Seat 9: andrei959 ( $849 )
+Seat 10: PapaShango19 ( $1,500 )
+Anatoily_vrn posts small blind [$25]
+ada_e posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 4c ]
+Hacke54 calls [$50]
+andrei959 calls [$50]
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn folds
+ada_e checks
+** Dealing flop ** [ Jh, 7d, 8h ]
+ada_e checks
+Hacke54 bets [$50]
+andrei959 calls [$50]
+ada_e folds
+** Dealing turn ** [ 6h ]
+Hacke54 bets [$50]
+andrei959 calls [$50]
+** Dealing river ** [ Qh ]
+Hacke54 bets [$50]
+andrei959 calls [$50]
+** Summary **
+Hacke54 shows [ Qd, Js ]
+andrei959 shows [ 8c, 9h ]
+andrei959 collected [ $475 ]
+
+
+
+#Game No : 646404259
+***** 888poker Hand History for Game 646404259 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:45:06
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 2: nonsenseo ( $4,895 )
+Seat 3: Anatoily_vrn ( $869 )
+Seat 6: ada_e ( $2,312 )
+Seat 7: Hacke54 ( $2,800 )
+Seat 9: andrei959 ( $1,124 )
+Seat 10: PapaShango19 ( $1,500 )
+ada_e posts small blind [$25]
+Hacke54 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 9d ]
+andrei959 calls [$50]
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn folds
+ada_e calls [$25]
+Hacke54 checks
+** Dealing flop ** [ 6d, 2h, 5d ]
+ada_e checks
+Hacke54 checks
+andrei959 checks
+** Dealing turn ** [ 8s ]
+ada_e checks
+Hacke54 bets [$150]
+andrei959 folds
+ada_e folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $150 ]
+
+
+
+#Game No : 646404591
+***** 888poker Hand History for Game 646404591 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:46:08
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: nonsenseo ( $4,895 )
+Seat 3: Anatoily_vrn ( $869 )
+Seat 6: ada_e ( $2,262 )
+Seat 7: Hacke54 ( $2,900 )
+Seat 9: andrei959 ( $1,074 )
+Seat 10: PapaShango19 ( $1,500 )
+Hacke54 posts small blind [$25]
+andrei959 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 9s ]
+PapaShango19 folds
+nonsenseo folds
+Anatoily_vrn folds
+ada_e raises [$125]
+Hacke54 folds
+andrei959 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $125 ]
+
+
+
+#Game No : 646404699
+***** 888poker Hand History for Game 646404699 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:46:30
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: nonsenseo ( $4,895 )
+Seat 3: Anatoily_vrn ( $869 )
+Seat 6: ada_e ( $2,337 )
+Seat 7: Hacke54 ( $2,875 )
+Seat 9: andrei959 ( $1,024 )
+Seat 10: PapaShango19 ( $1,500 )
+andrei959 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Jc ]
+nonsenseo folds
+Anatoily_vrn raises [$300]
+ada_e folds
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+** Summary **
+Anatoily_vrn did not show his hand
+Anatoily_vrn collected [ $125 ]
+
+
+
+#Game No : 646404834
+***** 888poker Hand History for Game 646404834 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:47:00
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 2: nonsenseo ( $4,895 )
+Seat 3: Anatoily_vrn ( $944 )
+Seat 6: ada_e ( $2,337 )
+Seat 7: Hacke54 ( $2,875 )
+Seat 9: andrei959 ( $999 )
+Seat 10: PapaShango19 ( $1,450 )
+PapaShango19 posts small blind [$25]
+nonsenseo posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 7h ]
+Anatoily_vrn folds
+ada_e folds
+Hacke54 calls [$50]
+andrei959 calls [$50]
+PapaShango19 calls [$25]
+nonsenseo checks
+** Dealing flop ** [ 3d, 7c, 7s ]
+PapaShango19 bets [$200]
+nonsenseo folds
+Hacke54 folds
+andrei959 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $200 ]
+
+
+
+#Game No : 646405006
+***** 888poker Hand History for Game 646405006 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:47:43
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 2: nonsenseo ( $4,845 )
+Seat 3: Anatoily_vrn ( $944 )
+Seat 6: ada_e ( $2,337 )
+Seat 7: Hacke54 ( $2,825 )
+Seat 9: andrei959 ( $949 )
+Seat 10: PapaShango19 ( $1,600 )
+nonsenseo posts small blind [$25]
+Anatoily_vrn posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 2d ]
+ada_e folds
+Hacke54 calls [$50]
+andrei959 folds
+PapaShango19 folds
+nonsenseo calls [$25]
+Anatoily_vrn checks
+** Dealing flop ** [ 6c, 2h, 4c ]
+nonsenseo checks
+Anatoily_vrn bets [$894]
+Hacke54 calls [$894]
+nonsenseo folds
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ Qd ]
+** Summary **
+Anatoily_vrn shows [ 6d, Kd ]
+Hacke54 shows [ Jc, Kc ]
+Hacke54 collected [ $1,938 ]
+
+
+
+#Game No : 646405234
+***** 888poker Hand History for Game 646405234 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:48:37
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,795 )
+Seat 6: ada_e ( $2,337 )
+Seat 7: Hacke54 ( $3,819 )
+Seat 9: andrei959 ( $949 )
+Seat 10: PapaShango19 ( $1,600 )
+ada_e posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6h ]
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+nonsenseo raises [$100]
+ada_e raises [$2,287]
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $200 ]
+
+
+
+#Game No : 646405371
+***** 888poker Hand History for Game 646405371 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:49:09
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,695 )
+Seat 6: ada_e ( $2,437 )
+Seat 7: Hacke54 ( $3,819 )
+Seat 9: andrei959 ( $949 )
+Seat 10: PapaShango19 ( $1,600 )
+ada_e posts small blind [$25]
+Hacke54 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 9h ]
+andrei959 calls [$50]
+PapaShango19 folds
+nonsenseo folds
+ada_e folds
+Hacke54 checks
+** Dealing flop ** [ Qs, 2s, Jh ]
+Hacke54 checks
+andrei959 checks
+** Dealing turn ** [ 7c ]
+Hacke54 checks
+andrei959 checks
+** Dealing river ** [ Jd ]
+Hacke54 checks
+andrei959 checks
+** Summary **
+Hacke54 shows [ 8h, Tc ]
+andrei959 shows [ Kc, 2c ]
+andrei959 collected [ $125 ]
+
+
+
+#Game No : 646405567
+***** 888poker Hand History for Game 646405567 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:49:53
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,695 )
+Seat 6: ada_e ( $2,412 )
+Seat 7: Hacke54 ( $3,769 )
+Seat 9: andrei959 ( $1,024 )
+Seat 10: PapaShango19 ( $1,600 )
+Hacke54 posts small blind [$25]
+andrei959 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 4s ]
+PapaShango19 folds
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$25]
+andrei959 checks
+** Dealing flop ** [ Jc, Th, Ah ]
+Hacke54 bets [$50]
+andrei959 calls [$50]
+** Dealing turn ** [ 6d ]
+Hacke54 bets [$200]
+andrei959 folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $200 ]
+
+
+
+#Game No : 646405770
+***** 888poker Hand History for Game 646405770 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:50:47
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,695 )
+Seat 6: ada_e ( $2,412 )
+Seat 7: Hacke54 ( $3,869 )
+Seat 9: andrei959 ( $924 )
+Seat 10: PapaShango19 ( $1,600 )
+andrei959 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 4h ]
+nonsenseo folds
+ada_e raises [$300]
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $250 ]
+
+
+
+#Game No : 646405830
+***** 888poker Hand History for Game 646405830 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:51:07
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,695 )
+Seat 6: ada_e ( $2,562 )
+Seat 7: Hacke54 ( $3,869 )
+Seat 9: andrei959 ( $874 )
+Seat 10: PapaShango19 ( $1,500 )
+PapaShango19 posts small blind [$50]
+nonsenseo posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Kd ]
+ada_e raises [$300]
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $250 ]
+
+
+
+#Game No : 646405934
+***** 888poker Hand History for Game 646405934 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:51:35
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,595 )
+Seat 6: ada_e ( $2,712 )
+Seat 7: Hacke54 ( $3,869 )
+Seat 9: andrei959 ( $874 )
+Seat 10: PapaShango19 ( $1,450 )
+nonsenseo posts small blind [$50]
+ada_e posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 2c ]
+Hacke54 folds
+andrei959 calls [$100]
+PapaShango19 folds
+nonsenseo folds
+ada_e checks
+** Dealing flop ** [ 3c, 3h, 8c ]
+ada_e checks
+andrei959 bets [$100]
+ada_e calls [$100]
+** Dealing turn ** [ Th ]
+ada_e checks
+andrei959 bets [$100]
+ada_e folds
+** Summary **
+andrei959 did not show his hand
+andrei959 collected [ $450 ]
+
+
+
+#Game No : 646406143
+***** 888poker Hand History for Game 646406143 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:52:34
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,545 )
+Seat 6: ada_e ( $2,512 )
+Seat 7: Hacke54 ( $3,869 )
+Seat 9: andrei959 ( $1,124 )
+Seat 10: PapaShango19 ( $1,450 )
+ada_e posts small blind [$50]
+Hacke54 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 5c ]
+andrei959 calls [$100]
+PapaShango19 folds
+nonsenseo folds
+ada_e calls [$50]
+Hacke54 checks
+** Dealing flop ** [ Ts, Qh, Qc ]
+ada_e checks
+Hacke54 checks
+andrei959 bets [$100]
+ada_e calls [$100]
+Hacke54 folds
+** Dealing turn ** [ 3c ]
+ada_e checks
+andrei959 bets [$300]
+ada_e folds
+** Summary **
+andrei959 did not show his hand
+andrei959 collected [ $500 ]
+
+
+
+#Game No : 646406347
+***** 888poker Hand History for Game 646406347 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:53:42
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,545 )
+Seat 6: ada_e ( $2,312 )
+Seat 7: Hacke54 ( $3,769 )
+Seat 9: andrei959 ( $1,424 )
+Seat 10: PapaShango19 ( $1,450 )
+Hacke54 posts small blind [$50]
+andrei959 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4c ]
+PapaShango19 folds
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$50]
+andrei959 checks
+** Dealing flop ** [ 8d, Ad, 5d ]
+Hacke54 bets [$100]
+andrei959 calls [$100]
+** Dealing turn ** [ Jd ]
+Hacke54 bets [$100]
+andrei959 calls [$100]
+** Dealing river ** [ 7s ]
+Hacke54 bets [$100]
+andrei959 folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $600 ]
+
+
+
+#Game No : 646406560
+***** 888poker Hand History for Game 646406560 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:54:43
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,545 )
+Seat 6: ada_e ( $2,312 )
+Seat 7: Hacke54 ( $4,069 )
+Seat 9: andrei959 ( $1,124 )
+Seat 10: PapaShango19 ( $1,450 )
+andrei959 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Jh ]
+nonsenseo folds
+ada_e folds
+Hacke54 folds
+andrei959 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ 4s, Qs, 6d ]
+andrei959 checks
+PapaShango19 checks
+** Dealing turn ** [ 8d ]
+andrei959 bets [$100]
+PapaShango19 folds
+** Summary **
+andrei959 did not show his hand
+andrei959 collected [ $200 ]
+
+
+
+#Game No : 646406720
+***** 888poker Hand History for Game 646406720 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:55:25
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,545 )
+Seat 6: ada_e ( $2,312 )
+Seat 7: Hacke54 ( $4,069 )
+Seat 9: andrei959 ( $1,224 )
+Seat 10: PapaShango19 ( $1,350 )
+PapaShango19 posts small blind [$50]
+nonsenseo posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 3c ]
+ada_e calls [$100]
+Hacke54 calls [$100]
+andrei959 folds
+PapaShango19 folds
+nonsenseo checks
+** Dealing flop ** [ 9s, 7s, 3h ]
+nonsenseo bets [$100]
+ada_e folds
+Hacke54 calls [$100]
+** Dealing turn ** [ Kh ]
+nonsenseo checks
+Hacke54 checks
+** Dealing river ** [ Kd ]
+nonsenseo checks
+Hacke54 checks
+** Summary **
+nonsenseo shows [ 3s, 9d ]
+Hacke54 mucks [ Jh, Qh ]
+nonsenseo collected [ $550 ]
+
+
+
+#Game No : 646406906
+***** 888poker Hand History for Game 646406906 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:56:20
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,895 )
+Seat 6: ada_e ( $2,212 )
+Seat 7: Hacke54 ( $3,869 )
+Seat 9: andrei959 ( $1,224 )
+Seat 10: PapaShango19 ( $1,300 )
+nonsenseo posts small blind [$50]
+ada_e posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 5h ]
+Hacke54 folds
+andrei959 calls [$100]
+PapaShango19 folds
+nonsenseo folds
+ada_e checks
+** Dealing flop ** [ 7d, Jh, 8h ]
+ada_e checks
+andrei959 bets [$100]
+ada_e calls [$100]
+** Dealing turn ** [ 6c ]
+ada_e checks
+andrei959 bets [$100]
+ada_e calls [$100]
+** Dealing river ** [ 3d ]
+ada_e checks
+andrei959 bets [$100]
+ada_e folds
+** Summary **
+andrei959 did not show his hand
+andrei959 collected [ $650 ]
+
+
+
+#Game No : 646407133
+***** 888poker Hand History for Game 646407133 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:57:43
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,845 )
+Seat 6: ada_e ( $1,912 )
+Seat 7: Hacke54 ( $3,869 )
+Seat 9: andrei959 ( $1,574 )
+Seat 10: PapaShango19 ( $1,300 )
+ada_e posts small blind [$50]
+Hacke54 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Qd ]
+andrei959 calls [$100]
+PapaShango19 folds
+nonsenseo calls [$100]
+ada_e calls [$50]
+Hacke54 checks
+** Dealing flop ** [ 2d, 9h, 6c ]
+ada_e checks
+Hacke54 checks
+andrei959 bets [$100]
+nonsenseo folds
+ada_e calls [$100]
+Hacke54 calls [$100]
+** Dealing turn ** [ 2h ]
+ada_e checks
+Hacke54 checks
+andrei959 checks
+** Dealing river ** [ 2c ]
+ada_e checks
+Hacke54 checks
+andrei959 bets [$100]
+ada_e folds
+Hacke54 calls [$100]
+** Summary **
+andrei959 shows [ Ks, 9c ]
+Hacke54 mucks [ 6s, Kd ]
+andrei959 collected [ $900 ]
+
+
+
+#Game No : 646407333
+***** 888poker Hand History for Game 646407333 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:59:03
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,745 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $3,569 )
+Seat 9: andrei959 ( $2,174 )
+Seat 10: PapaShango19 ( $1,300 )
+Hacke54 posts small blind [$75]
+andrei959 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Ts ]
+PapaShango19 folds
+nonsenseo raises [$300]
+ada_e folds
+Hacke54 calls [$225]
+andrei959 folds
+** Dealing flop ** [ 7h, 2s, 2c ]
+Hacke54 checks
+nonsenseo bets [$150]
+Hacke54 calls [$150]
+** Dealing turn ** [ Jc ]
+Hacke54 checks
+nonsenseo checks
+** Dealing river ** [ Ks ]
+Hacke54 checks
+nonsenseo checks
+** Summary **
+Hacke54 shows [ Ac, 7c ]
+nonsenseo mucks [ 4d, Ad ]
+Hacke54 collected [ $1,050 ]
+
+
+
+#Game No : 646407555
+***** 888poker Hand History for Game 646407555 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:00:07
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,295 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $4,169 )
+Seat 9: andrei959 ( $2,024 )
+Seat 10: PapaShango19 ( $1,300 )
+andrei959 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2s ]
+nonsenseo calls [$150]
+ada_e folds
+Hacke54 folds
+andrei959 folds
+PapaShango19 checks
+** Dealing flop ** [ 4d, 5s, Kd ]
+PapaShango19 checks
+nonsenseo checks
+** Dealing turn ** [ Ts ]
+PapaShango19 checks
+nonsenseo checks
+** Dealing river ** [ Qh ]
+PapaShango19 checks
+nonsenseo checks
+** Summary **
+PapaShango19 shows [ 8s, 2s ]
+nonsenseo shows [ Ac, 7c ]
+nonsenseo collected [ $375 ]
+
+
+
+#Game No : 646407684
+***** 888poker Hand History for Game 646407684 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:00:46
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $4,169 )
+Seat 9: andrei959 ( $1,949 )
+Seat 10: PapaShango19 ( $1,150 )
+PapaShango19 posts small blind [$75]
+nonsenseo posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8d ]
+ada_e folds
+Hacke54 calls [$150]
+andrei959 calls [$150]
+PapaShango19 raises [$1,075]
+nonsenseo folds
+Hacke54 calls [$1,000]
+andrei959 calls [$1,000]
+** Dealing flop ** [ 8h, 8s, 6s ]
+Hacke54 checks
+andrei959 checks
+** Dealing turn ** [ 3s ]
+Hacke54 checks
+andrei959 checks
+** Dealing river ** [ 7s ]
+Hacke54 checks
+andrei959 checks
+** Summary **
+Hacke54 shows [ 3c, Ac ]
+andrei959 mucks [ Ah, 4h ]
+PapaShango19 shows [ As, 8d ]
+PapaShango19 collected [ $3,600 ]
+
+
+
+#Game No : 646407905
+***** 888poker Hand History for Game 646407905 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:01:53
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,370 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $3,019 )
+Seat 9: andrei959 ( $799 )
+Seat 10: PapaShango19 ( $3,600 )
+nonsenseo posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7c ]
+Hacke54 folds
+andrei959 folds
+PapaShango19 folds
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $225 ]
+
+
+
+#Game No : 646407976
+***** 888poker Hand History for Game 646407976 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:02:15
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: nonsenseo ( $4,295 )
+Seat 6: ada_e ( $1,787 )
+Seat 7: Hacke54 ( $3,019 )
+Seat 9: andrei959 ( $799 )
+Seat 10: PapaShango19 ( $3,600 )
+ada_e posts small blind [$75]
+Hacke54 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ad ]
+andrei959 calls [$150]
+PapaShango19 raises [$3,600]
+nonsenseo folds
+ada_e folds
+Hacke54 folds
+andrei959 calls [$649]
+** Dealing flop ** [ Qh, Tc, 3d ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Qc ]
+** Summary **
+andrei959 shows [ 5d, Kd ]
+PapaShango19 shows [ Kh, Ad ]
+PapaShango19 collected [ $1,823 ]
+
+
+
+#Game No : 646408174
+***** 888poker Hand History for Game 646408174 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:03:03
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,295 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $2,869 )
+Seat 10: PapaShango19 ( $4,624 )
+Hacke54 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 6h ]
+nonsenseo folds
+ada_e folds
+Hacke54 raises [$2,794]
+PapaShango19 folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $300 ]
+
+
+
+#Game No : 646408264
+***** 888poker Hand History for Game 646408264 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:03:24
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,295 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $3,019 )
+Seat 10: PapaShango19 ( $4,474 )
+PapaShango19 posts small blind [$75]
+nonsenseo posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 3s ]
+ada_e folds
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $225 ]
+
+
+
+#Game No : 646408353
+***** 888poker Hand History for Game 646408353 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:03:46
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,370 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $3,019 )
+Seat 10: PapaShango19 ( $4,399 )
+nonsenseo posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 2d ]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo raises [$225]
+ada_e folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $300 ]
+
+
+
+#Game No : 646408431
+***** 888poker Hand History for Game 646408431 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:04:05
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $1,562 )
+Seat 7: Hacke54 ( $3,019 )
+Seat 10: PapaShango19 ( $4,399 )
+ada_e posts small blind [$75]
+Hacke54 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Ah ]
+PapaShango19 raises [$300]
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$150]
+** Dealing flop ** [ Td, 7s, 2h ]
+Hacke54 checks
+PapaShango19 bets [$337]
+Hacke54 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $675 ]
+
+
+
+#Game No : 646408537
+***** 888poker Hand History for Game 646408537 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:04:36
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $2,719 )
+Seat 10: PapaShango19 ( $4,774 )
+Hacke54 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 5c ]
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ 4h, Jh, 8s ]
+Hacke54 bets [$150]
+PapaShango19 calls [$150]
+** Dealing turn ** [ 6h ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing river ** [ 3c ]
+Hacke54 checks
+PapaShango19 checks
+** Summary **
+Hacke54 shows [ 9c, Ts ]
+PapaShango19 shows [ 4c, 5c ]
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646408695
+***** 888poker Hand History for Game 646408695 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:05:15
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $2,419 )
+Seat 10: PapaShango19 ( $5,074 )
+PapaShango19 posts small blind [$75]
+nonsenseo posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, As ]
+ada_e raises [$1,487]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $375 ]
+
+
+
+#Game No : 646408838
+***** 888poker Hand History for Game 646408838 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:05:51
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,370 )
+Seat 6: ada_e ( $1,712 )
+Seat 7: Hacke54 ( $2,419 )
+Seat 10: PapaShango19 ( $4,999 )
+nonsenseo posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6d ]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo calls [$75]
+ada_e checks
+** Dealing flop ** [ 4c, 9c, 2s ]
+nonsenseo bets [$150]
+ada_e folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $300 ]
+
+
+
+#Game No : 646408923
+***** 888poker Hand History for Game 646408923 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:06:17
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $1,562 )
+Seat 7: Hacke54 ( $2,419 )
+Seat 10: PapaShango19 ( $4,999 )
+ada_e posts small blind [$75]
+Hacke54 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 5h ]
+PapaShango19 folds
+nonsenseo folds
+ada_e folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $225 ]
+
+
+
+#Game No : 646409003
+***** 888poker Hand History for Game 646409003 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:06:35
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $2,494 )
+Seat 10: PapaShango19 ( $4,999 )
+Hacke54 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 4c ]
+nonsenseo calls [$200]
+ada_e folds
+Hacke54 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 3h, 5h, 7s ]
+Hacke54 checks
+PapaShango19 bets [$300]
+nonsenseo folds
+Hacke54 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646409147
+***** 888poker Hand History for Game 646409147 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:07:11
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,320 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $2,294 )
+Seat 10: PapaShango19 ( $5,399 )
+PapaShango19 posts small blind [$100]
+nonsenseo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 4s ]
+ada_e raises [$1,487]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $500 ]
+
+
+
+#Game No : 646409279
+***** 888poker Hand History for Game 646409279 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:07:44
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,120 )
+Seat 6: ada_e ( $1,787 )
+Seat 7: Hacke54 ( $2,294 )
+Seat 10: PapaShango19 ( $5,299 )
+nonsenseo posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 8h ]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $300 ]
+
+
+
+#Game No : 646409392
+***** 888poker Hand History for Game 646409392 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:08:08
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,020 )
+Seat 6: ada_e ( $1,887 )
+Seat 7: Hacke54 ( $2,294 )
+Seat 10: PapaShango19 ( $5,299 )
+ada_e posts small blind [$100]
+Hacke54 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Jh ]
+PapaShango19 raises [$400]
+nonsenseo raises [$600]
+ada_e folds
+Hacke54 raises [$2,094]
+PapaShango19 raises [$4,899]
+nonsenseo folds
+** Dealing flop ** [ 7s, 3c, 6s ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Ah ]
+** Summary **
+Hacke54 shows [ Kc, Kh ]
+PapaShango19 shows [ Jd, Jh ]
+Hacke54 collected [ $5,288 ]
+
+
+
+#Game No : 646409624
+***** 888poker Hand History for Game 646409624 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:09:02
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $3,420 )
+Seat 6: ada_e ( $1,787 )
+Seat 7: Hacke54 ( $5,288 )
+Seat 10: PapaShango19 ( $3,005 )
+Hacke54 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9c ]
+nonsenseo calls [$200]
+ada_e folds
+Hacke54 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 9s, Jh, Ts ]
+Hacke54 checks
+PapaShango19 checks
+nonsenseo bets [$200]
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $600 ]
+
+
+
+#Game No : 646409789
+***** 888poker Hand History for Game 646409789 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:09:43
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $3,820 )
+Seat 6: ada_e ( $1,787 )
+Seat 7: Hacke54 ( $5,088 )
+Seat 10: PapaShango19 ( $2,805 )
+PapaShango19 posts small blind [$100]
+nonsenseo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 6d ]
+ada_e folds
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $300 ]
+
+
+
+#Game No : 646409850
+***** 888poker Hand History for Game 646409850 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:10:00
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $3,920 )
+Seat 6: ada_e ( $1,787 )
+Seat 7: Hacke54 ( $5,088 )
+Seat 10: PapaShango19 ( $2,705 )
+nonsenseo posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Td ]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo raises [$300]
+ada_e folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $400 ]
+
+
+
+#Game No : 646409965
+***** 888poker Hand History for Game 646409965 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:10:24
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,120 )
+Seat 6: ada_e ( $1,587 )
+Seat 7: Hacke54 ( $5,088 )
+Seat 10: PapaShango19 ( $2,705 )
+ada_e posts small blind [$100]
+Hacke54 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ac ]
+PapaShango19 raises [$400]
+nonsenseo folds
+ada_e folds
+Hacke54 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 646410063
+***** 888poker Hand History for Game 646410063 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:10:44
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,120 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $4,888 )
+Seat 10: PapaShango19 ( $3,005 )
+Hacke54 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 9d ]
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Js, Kd, 9c ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing turn ** [ Jh ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing river ** [ 8c ]
+Hacke54 checks
+PapaShango19 checks
+** Summary **
+Hacke54 shows [ 2h, 7h ]
+PapaShango19 shows [ Ad, 9d ]
+PapaShango19 collected [ $400 ]
+
+
+
+#Game No : 646410234
+***** 888poker Hand History for Game 646410234 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:11:20
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,120 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $4,688 )
+Seat 10: PapaShango19 ( $3,205 )
+PapaShango19 posts small blind [$100]
+nonsenseo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Qc ]
+ada_e folds
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $300 ]
+
+
+
+#Game No : 646410289
+***** 888poker Hand History for Game 646410289 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:11:34
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,220 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $4,688 )
+Seat 10: PapaShango19 ( $3,105 )
+nonsenseo posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 7d ]
+Hacke54 folds
+PapaShango19 raises [$400]
+nonsenseo folds
+ada_e folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 646410355
+***** 888poker Hand History for Game 646410355 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:11:49
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,120 )
+Seat 6: ada_e ( $1,287 )
+Seat 7: Hacke54 ( $4,688 )
+Seat 10: PapaShango19 ( $3,405 )
+ada_e posts small blind [$100]
+Hacke54 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 7s ]
+PapaShango19 raises [$400]
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$200]
+** Dealing flop ** [ Qh, Jd, 8h ]
+Hacke54 checks
+PapaShango19 bets [$400]
+Hacke54 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $900 ]
+
+
+
+#Game No : 646410501
+***** 888poker Hand History for Game 646410501 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:12:23
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,120 )
+Seat 6: ada_e ( $1,187 )
+Seat 7: Hacke54 ( $4,288 )
+Seat 10: PapaShango19 ( $3,905 )
+Hacke54 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Qc ]
+nonsenseo raises [$400]
+ada_e folds
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $500 ]
+
+
+
+#Game No : 646410589
+***** 888poker Hand History for Game 646410589 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:12:42
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,420 )
+Seat 6: ada_e ( $1,187 )
+Seat 7: Hacke54 ( $4,188 )
+Seat 10: PapaShango19 ( $3,705 )
+PapaShango19 posts small blind [$100]
+nonsenseo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 3c ]
+ada_e raises [$1,187]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $500 ]
+
+
+
+#Game No : 646410661
+***** 888poker Hand History for Game 646410661 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:12:59
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,220 )
+Seat 6: ada_e ( $1,487 )
+Seat 7: Hacke54 ( $4,188 )
+Seat 10: PapaShango19 ( $3,605 )
+nonsenseo posts small blind [$100]
+ada_e posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 9d ]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo raises [$300]
+ada_e folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $400 ]
+
+
+
+#Game No : 646410784
+***** 888poker Hand History for Game 646410784 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:13:25
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,420 )
+Seat 6: ada_e ( $1,287 )
+Seat 7: Hacke54 ( $4,188 )
+Seat 10: PapaShango19 ( $3,605 )
+ada_e posts small blind [$100]
+Hacke54 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Kh ]
+PapaShango19 folds
+nonsenseo folds
+ada_e folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $300 ]
+
+
+
+#Game No : 646410865
+***** 888poker Hand History for Game 646410865 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:13:39
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,420 )
+Seat 6: ada_e ( $1,187 )
+Seat 7: Hacke54 ( $4,288 )
+Seat 10: PapaShango19 ( $3,605 )
+Hacke54 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Kd ]
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Th, 5c, Qc ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing turn ** [ As ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing river ** [ 6s ]
+Hacke54 checks
+PapaShango19 checks
+** Summary **
+Hacke54 shows [ 8d, 7c ]
+PapaShango19 shows [ 3s, Kd ]
+PapaShango19 collected [ $400 ]
+
+
+
+#Game No : 646411020
+***** 888poker Hand History for Game 646411020 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 11:14:13
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,420 )
+Seat 6: ada_e ( $1,187 )
+Seat 7: Hacke54 ( $4,088 )
+Seat 10: PapaShango19 ( $3,805 )
+PapaShango19 posts small blind [$100]
+nonsenseo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7c ]
+ada_e folds
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $300 ]
+
+
+
+#Game No : 646411087
+***** 888poker Hand History for Game 646411087 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:14:29
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $1,187 )
+Seat 7: Hacke54 ( $4,088 )
+Seat 10: PapaShango19 ( $3,705 )
+nonsenseo posts small blind [$150]
+ada_e posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 6h ]
+Hacke54 folds
+PapaShango19 raises [$600]
+nonsenseo folds
+ada_e folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $750 ]
+
+
+
+#Game No : 646411153
+***** 888poker Hand History for Game 646411153 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:14:45
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,370 )
+Seat 6: ada_e ( $887 )
+Seat 7: Hacke54 ( $4,088 )
+Seat 10: PapaShango19 ( $4,155 )
+ada_e posts small blind [$150]
+Hacke54 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 3c ]
+PapaShango19 folds
+nonsenseo folds
+ada_e folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $450 ]
+
+
+
+#Game No : 646411250
+***** 888poker Hand History for Game 646411250 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:15:07
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,370 )
+Seat 6: ada_e ( $737 )
+Seat 7: Hacke54 ( $4,238 )
+Seat 10: PapaShango19 ( $4,155 )
+Hacke54 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 9s ]
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ Qc, Tc, Ac ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing turn ** [ Qd ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing river ** [ 7c ]
+Hacke54 checks
+PapaShango19 bets [$300]
+Hacke54 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646411389
+***** 888poker Hand History for Game 646411389 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:15:46
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,370 )
+Seat 6: ada_e ( $737 )
+Seat 7: Hacke54 ( $3,938 )
+Seat 10: PapaShango19 ( $4,455 )
+PapaShango19 posts small blind [$150]
+nonsenseo posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Ks ]
+ada_e folds
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $450 ]
+
+
+
+#Game No : 646411442
+***** 888poker Hand History for Game 646411442 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:16:01
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,520 )
+Seat 6: ada_e ( $737 )
+Seat 7: Hacke54 ( $3,938 )
+Seat 10: PapaShango19 ( $4,305 )
+nonsenseo posts small blind [$150]
+ada_e posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 4c ]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo raises [$750]
+ada_e folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $600 ]
+
+
+
+#Game No : 646411534
+***** 888poker Hand History for Game 646411534 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:16:26
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,820 )
+Seat 6: ada_e ( $437 )
+Seat 7: Hacke54 ( $3,938 )
+Seat 10: PapaShango19 ( $4,305 )
+ada_e posts small blind [$150]
+Hacke54 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Ac ]
+PapaShango19 raises [$600]
+nonsenseo folds
+ada_e folds
+Hacke54 calls [$300]
+** Dealing flop ** [ 7s, 6c, 4d ]
+Hacke54 checks
+PapaShango19 bets [$675]
+Hacke54 calls [$675]
+** Dealing turn ** [ 5h ]
+Hacke54 checks
+PapaShango19 checks
+** Dealing river ** [ 3c ]
+Hacke54 bets [$300]
+PapaShango19 calls [$300]
+** Summary **
+Hacke54 shows [ 7d, Kh ]
+PapaShango19 shows [ Ah, Ac ]
+PapaShango19 collected [ $1,650 ]
+Hacke54 collected [ $1,650 ]
+
+
+
+#Game No : 646411741
+***** 888poker Hand History for Game 646411741 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:17:16
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,820 )
+Seat 6: ada_e ( $287 )
+Seat 7: Hacke54 ( $4,013 )
+Seat 10: PapaShango19 ( $4,380 )
+Hacke54 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 9d ]
+nonsenseo folds
+ada_e folds
+Hacke54 raises [$450]
+PapaShango19 folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $600 ]
+
+
+
+#Game No : 646411828
+***** 888poker Hand History for Game 646411828 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:17:36
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,820 )
+Seat 6: ada_e ( $287 )
+Seat 7: Hacke54 ( $4,313 )
+Seat 10: PapaShango19 ( $4,080 )
+PapaShango19 posts small blind [$150]
+nonsenseo posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 7s ]
+ada_e folds
+Hacke54 folds
+PapaShango19 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $450 ]
+
+
+
+#Game No : 646411899
+***** 888poker Hand History for Game 646411899 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:17:58
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: nonsenseo ( $4,970 )
+Seat 6: ada_e ( $287 )
+Seat 7: Hacke54 ( $4,313 )
+Seat 10: PapaShango19 ( $3,930 )
+nonsenseo posts small blind [$150]
+ada_e posts big blind [$287]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 9c ]
+Hacke54 folds
+PapaShango19 folds
+nonsenseo calls [$150]
+** Dealing flop ** [ Jc, 5s, 2d ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 8d ]
+** Summary **
+nonsenseo shows [ 7h, 8s ]
+ada_e shows [ 3s, 6h ]
+nonsenseo collected [ $574 ]
+nonsenseo collected [ $13 ]
+
+
+
+#Game No : 646411982
+***** 888poker Hand History for Game 646411982 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:18:21
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 2: nonsenseo ( $5,257 )
+Seat 7: Hacke54 ( $4,313 )
+Seat 10: PapaShango19 ( $3,930 )
+Hacke54 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Qd ]
+PapaShango19 folds
+nonsenseo raises [$600]
+Hacke54 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $600 ]
+
+
+
+#Game No : 646412032
+***** 888poker Hand History for Game 646412032 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:18:38
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 2: nonsenseo ( $5,557 )
+Seat 7: Hacke54 ( $4,013 )
+Seat 10: PapaShango19 ( $3,930 )
+Hacke54 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Td ]
+nonsenseo folds
+Hacke54 calls [$150]
+PapaShango19 raises [$600]
+Hacke54 calls [$600]
+** Dealing flop ** [ 7c, 8s, Ac ]
+Hacke54 checks
+PapaShango19 bets [$900]
+Hacke54 calls [$900]
+** Dealing turn ** [ Jh ]
+Hacke54 checks
+PapaShango19 bets [$2,130]
+Hacke54 calls [$2,130]
+** Dealing river ** [ Ts ]
+** Summary **
+Hacke54 shows [ As, 9d ]
+PapaShango19 shows [ Tc, Td ]
+Hacke54 collected [ $7,860 ]
+
+
+
+#Game No : 646412176
+***** 888poker Hand History for Game 646412176 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:19:26
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: nonsenseo ( $5,557 )
+Seat 7: Hacke54 ( $7,943 )
+Hacke54 posts small blind [$150]
+nonsenseo posts big blind [$300]
+** Dealing down cards **
+Hacke54 folds
+** Summary **
+nonsenseo did not show his hand
+nonsenseo collected [ $450 ]
+
+
+
+#Game No : 646412217
+***** 888poker Hand History for Game 646412217 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:19:35
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nonsenseo ( $5,707 )
+Seat 7: Hacke54 ( $7,793 )
+nonsenseo posts small blind [$150]
+Hacke54 posts big blind [$300]
+** Dealing down cards **
+nonsenseo folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $450 ]
+
+
+
+#Game No : 646412260
+***** 888poker Hand History for Game 646412260 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 11:19:50
+Tournament #63830795 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: nonsenseo ( $5,557 )
+Seat 7: Hacke54 ( $7,943 )
+Hacke54 posts small blind [$150]
+nonsenseo posts big blind [$300]
+** Dealing down cards **
+Hacke54 calls [$150]
+nonsenseo checks
+** Dealing flop ** [ 7s, Ah, 3c ]
+nonsenseo checks
+Hacke54 bets [$300]
+nonsenseo folds
+** Summary **
+Hacke54 did not show his hand
+Hacke54 collected [ $600 ]
+
+
+

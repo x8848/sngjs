@@ -1,0 +1,468 @@
+#Game No : 639682110
+***** 888poker Hand History for Game 639682110 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:11:18
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: etappkyle ( $1,500 )
+Seat 2: carrieB69 ( $1,500 )
+Seat 3: danraif ( $1,500 )
+Seat 4: Wbach90 ( $1,500 )
+Seat 5: PapaShango19 ( $1,500 )
+Seat 6: pkokofmalddy ( $1,500 )
+Seat 7: ohrid2911 ( $1,500 )
+Seat 9: RedMidas ( $1,500 )
+Seat 10: curcio14 ( $1,500 )
+carrieB69 posts small blind [$10]
+danraif posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 8d ]
+Wbach90 folds
+PapaShango19 folds
+pkokofmalddy folds
+ohrid2911 folds
+RedMidas folds
+curcio14 calls [$20]
+etappkyle calls [$20]
+carrieB69 calls [$10]
+danraif checks
+** Dealing flop ** [ Ts, 9d, Jc ]
+carrieB69 checks
+danraif checks
+curcio14 checks
+etappkyle checks
+** Dealing turn ** [ 7c ]
+carrieB69 checks
+danraif checks
+curcio14 checks
+etappkyle checks
+** Dealing river ** [ 6c ]
+carrieB69 bets [$120]
+danraif folds
+curcio14 folds
+etappkyle raises [$240]
+carrieB69 raises [$680]
+etappkyle raises [$1,120]
+carrieB69 folds
+** Summary **
+etappkyle did not show his hand
+etappkyle collected [ $1,680 ]
+
+
+
+#Game No : 639682547
+***** 888poker Hand History for Game 639682547 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:13:14
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: etappkyle ( $2,360 )
+Seat 2: carrieB69 ( $680 )
+Seat 3: danraif ( $1,480 )
+Seat 4: Wbach90 ( $1,500 )
+Seat 5: PapaShango19 ( $1,500 )
+Seat 6: pkokofmalddy ( $1,500 )
+Seat 7: ohrid2911 ( $1,500 )
+Seat 9: RedMidas ( $1,500 )
+Seat 10: curcio14 ( $1,480 )
+danraif posts small blind [$10]
+Wbach90 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 2s ]
+PapaShango19 folds
+pkokofmalddy folds
+ohrid2911 folds
+RedMidas calls [$20]
+curcio14 folds
+etappkyle folds
+carrieB69 calls [$20]
+danraif calls [$10]
+Wbach90 checks
+** Dealing flop ** [ Qc, 5s, 7s ]
+danraif bets [$20]
+Wbach90 folds
+RedMidas calls [$20]
+carrieB69 calls [$20]
+** Dealing turn ** [ 5d ]
+danraif bets [$148]
+RedMidas folds
+carrieB69 folds
+** Summary **
+danraif did not show his hand
+danraif collected [ $140 ]
+
+
+
+#Game No : 639682946
+***** 888poker Hand History for Game 639682946 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:14:58
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: etappkyle ( $2,360 )
+Seat 2: carrieB69 ( $640 )
+Seat 3: danraif ( $1,580 )
+Seat 4: Wbach90 ( $1,480 )
+Seat 5: PapaShango19 ( $1,500 )
+Seat 6: pkokofmalddy ( $1,500 )
+Seat 7: ohrid2911 ( $1,500 )
+Seat 9: RedMidas ( $1,460 )
+Seat 10: curcio14 ( $1,480 )
+Wbach90 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 7s ]
+pkokofmalddy folds
+ohrid2911 folds
+RedMidas calls [$20]
+curcio14 raises [$90]
+etappkyle folds
+carrieB69 calls [$90]
+danraif folds
+Wbach90 folds
+PapaShango19 folds
+RedMidas calls [$70]
+** Dealing flop ** [ Kd, 9c, 7h ]
+RedMidas checks
+curcio14 bets [$150]
+carrieB69 calls [$150]
+RedMidas folds
+** Dealing turn ** [ 3s ]
+curcio14 bets [$450]
+carrieB69 folds
+** Summary **
+curcio14 did not show his hand
+curcio14 collected [ $600 ]
+
+
+
+#Game No : 639683234
+***** 888poker Hand History for Game 639683234 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:16:20
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: etappkyle ( $2,360 )
+Seat 2: carrieB69 ( $400 )
+Seat 3: danraif ( $1,580 )
+Seat 4: Wbach90 ( $1,470 )
+Seat 5: PapaShango19 ( $1,480 )
+Seat 6: pkokofmalddy ( $1,500 )
+Seat 7: ohrid2911 ( $1,500 )
+Seat 9: RedMidas ( $1,370 )
+Seat 10: curcio14 ( $1,840 )
+PapaShango19 posts small blind [$10]
+pkokofmalddy posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9c ]
+ohrid2911 folds
+RedMidas calls [$20]
+curcio14 raises [$90]
+etappkyle folds
+carrieB69 calls [$90]
+danraif folds
+Wbach90 folds
+PapaShango19 folds
+pkokofmalddy folds
+RedMidas calls [$70]
+** Dealing flop ** [ 2s, Ad, 4c ]
+RedMidas checks
+curcio14 checks
+carrieB69 checks
+** Dealing turn ** [ 2d ]
+RedMidas bets [$300]
+curcio14 folds
+carrieB69 folds
+** Summary **
+RedMidas did not show his hand
+RedMidas collected [ $300 ]
+
+
+
+#Game No : 639683569
+***** 888poker Hand History for Game 639683569 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:17:53
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: etappkyle ( $2,360 )
+Seat 2: carrieB69 ( $310 )
+Seat 3: danraif ( $1,580 )
+Seat 4: Wbach90 ( $1,470 )
+Seat 5: PapaShango19 ( $1,470 )
+Seat 6: pkokofmalddy ( $1,480 )
+Seat 7: ohrid2911 ( $1,500 )
+Seat 9: RedMidas ( $1,580 )
+Seat 10: curcio14 ( $1,750 )
+pkokofmalddy posts small blind [$10]
+ohrid2911 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 5d ]
+RedMidas folds
+curcio14 raises [$52]
+etappkyle folds
+carrieB69 calls [$52]
+danraif calls [$52]
+Wbach90 folds
+PapaShango19 calls [$52]
+pkokofmalddy folds
+ohrid2911 folds
+** Dealing flop ** [ Qh, 2c, 4c ]
+curcio14 checks
+carrieB69 checks
+danraif checks
+PapaShango19 bets [$119]
+curcio14 folds
+carrieB69 folds
+danraif folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $238 ]
+
+
+
+#Game No : 639683869
+***** 888poker Hand History for Game 639683869 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:19:04
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: etappkyle ( $2,360 )
+Seat 2: carrieB69 ( $258 )
+Seat 3: danraif ( $1,528 )
+Seat 4: Wbach90 ( $1,470 )
+Seat 5: PapaShango19 ( $1,656 )
+Seat 6: pkokofmalddy ( $1,470 )
+Seat 7: ohrid2911 ( $1,480 )
+Seat 9: RedMidas ( $1,580 )
+Seat 10: curcio14 ( $1,698 )
+ohrid2911 posts small blind [$10]
+RedMidas posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6s ]
+curcio14 raises [$70]
+etappkyle folds
+carrieB69 calls [$70]
+danraif calls [$70]
+Wbach90 folds
+PapaShango19 folds
+pkokofmalddy folds
+ohrid2911 folds
+RedMidas raises [$100]
+curcio14 raises [$440]
+carrieB69 calls [$188]
+danraif folds
+RedMidas raises [$1,460]
+curcio14 calls [$1,070]
+** Dealing flop ** [ 3s, Td, 4c ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Kd ]
+** Summary **
+carrieB69 shows [ Jd, 6d ]
+RedMidas shows [ Kh, As ]
+curcio14 shows [ 8d, Ad ]
+RedMidas collected [ $854 ]
+RedMidas collected [ $2,644 ]
+
+
+
+#Game No : 639684120
+***** 888poker Hand History for Game 639684120 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:20:14
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: etappkyle ( $2,360 )
+Seat 3: danraif ( $1,458 )
+Seat 4: Wbach90 ( $1,470 )
+Seat 5: PapaShango19 ( $1,656 )
+Seat 6: pkokofmalddy ( $1,470 )
+Seat 7: ohrid2911 ( $1,470 )
+Seat 9: RedMidas ( $3,498 )
+Seat 10: curcio14 ( $118 )
+RedMidas posts small blind [$15]
+curcio14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ad ]
+etappkyle folds
+danraif calls [$30]
+Wbach90 folds
+PapaShango19 folds
+pkokofmalddy folds
+ohrid2911 raises [$90]
+RedMidas raises [$157]
+curcio14 calls [$88]
+danraif folds
+ohrid2911 calls [$82]
+** Dealing flop ** [ 7h, 2h, 4c ]
+RedMidas checks
+ohrid2911 bets [$180]
+RedMidas calls [$180]
+** Dealing turn ** [ 5c ]
+RedMidas checks
+ohrid2911 bets [$1,118]
+RedMidas folds
+** Dealing river ** [ Qd ]
+** Summary **
+ohrid2911 shows [ As, 9d ]
+curcio14 shows [ 2c, Kc ]
+curcio14 collected [ $384 ]
+ohrid2911 collected [ $468 ]
+
+
+
+#Game No : 639684446
+***** 888poker Hand History for Game 639684446 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:21:43
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: etappkyle ( $2,360 )
+Seat 3: danraif ( $1,428 )
+Seat 4: Wbach90 ( $1,470 )
+Seat 5: PapaShango19 ( $1,656 )
+Seat 6: pkokofmalddy ( $1,470 )
+Seat 7: ohrid2911 ( $1,586 )
+Seat 9: RedMidas ( $3,146 )
+Seat 10: curcio14 ( $384 )
+curcio14 posts small blind [$15]
+etappkyle posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Js ]
+danraif calls [$30]
+Wbach90 folds
+PapaShango19 raises [$120]
+pkokofmalddy folds
+ohrid2911 folds
+RedMidas folds
+curcio14 raises [$369]
+etappkyle folds
+danraif calls [$354]
+PapaShango19 raises [$1,536]
+danraif calls [$1,044]
+** Dealing flop ** [ 2h, 6s, Kh ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 9c ]
+** Summary **
+danraif shows [ Ts, Qc ]
+PapaShango19 shows [ Jh, Js ]
+curcio14 shows [ Ac, Th ]
+danraif collected [ $1,182 ]
+danraif collected [ $2,088 ]
+
+
+
+#Game No : 639684660
+***** 888poker Hand History for Game 639684660 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:22:43
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: etappkyle ( $2,330 )
+Seat 3: danraif ( $3,270 )
+Seat 4: Wbach90 ( $1,470 )
+Seat 5: PapaShango19 ( $228 )
+Seat 6: pkokofmalddy ( $1,470 )
+Seat 7: ohrid2911 ( $1,586 )
+Seat 9: RedMidas ( $3,146 )
+etappkyle posts small blind [$15]
+danraif posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Kh ]
+Wbach90 folds
+PapaShango19 folds
+pkokofmalddy folds
+ohrid2911 folds
+RedMidas folds
+etappkyle calls [$15]
+danraif raises [$62]
+etappkyle calls [$62]
+** Dealing flop ** [ Jd, 6c, Ks ]
+etappkyle checks
+danraif bets [$124]
+etappkyle calls [$124]
+** Dealing turn ** [ 4s ]
+etappkyle checks
+danraif bets [$181]
+etappkyle calls [$181]
+** Dealing river ** [ Jc ]
+etappkyle checks
+danraif checks
+** Summary **
+etappkyle shows [ Kd, 6h ]
+danraif mucks [ 4d, Ac ]
+etappkyle collected [ $794 ]
+
+
+
+#Game No : 639684874
+***** 888poker Hand History for Game 639684874 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:23:46
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: etappkyle ( $2,727 )
+Seat 3: danraif ( $2,873 )
+Seat 4: Wbach90 ( $1,470 )
+Seat 5: PapaShango19 ( $228 )
+Seat 6: pkokofmalddy ( $1,470 )
+Seat 7: ohrid2911 ( $1,586 )
+Seat 9: RedMidas ( $3,146 )
+danraif posts small blind [$15]
+Wbach90 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 4s ]
+PapaShango19 folds
+pkokofmalddy folds
+ohrid2911 raises [$60]
+RedMidas folds
+etappkyle folds
+danraif calls [$45]
+Wbach90 calls [$30]
+** Dealing flop ** [ As, 5h, 6d ]
+danraif checks
+Wbach90 checks
+ohrid2911 bets [$120]
+danraif folds
+Wbach90 folds
+** Summary **
+ohrid2911 did not show his hand
+ohrid2911 collected [ $180 ]
+
+
+
+#Game No : 639685037
+***** 888poker Hand History for Game 639685037 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:24:37
+Tournament #63805683 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: etappkyle ( $2,727 )
+Seat 3: danraif ( $2,813 )
+Seat 4: Wbach90 ( $1,410 )
+Seat 5: PapaShango19 ( $228 )
+Seat 6: pkokofmalddy ( $1,470 )
+Seat 7: ohrid2911 ( $1,706 )
+Seat 9: RedMidas ( $3,146 )
+Wbach90 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Jd ]
+pkokofmalddy folds
+ohrid2911 folds
+RedMidas folds
+etappkyle folds
+danraif raises [$60]
+Wbach90 folds
+PapaShango19 raises [$198]
+danraif calls [$168]
+** Dealing flop ** [ Ks, 9s, 5h ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ Kd ]
+** Summary **
+danraif shows [ Jc, Js ]
+PapaShango19 shows [ Ac, Jd ]
+danraif collected [ $471 ]
+
+
+

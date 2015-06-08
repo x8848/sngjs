@@ -1,0 +1,353 @@
+#Game No : 648281606
+***** 888poker Hand History for Game 648281606 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 09:27:24
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: dasssss9 ( $2,075 )
+Seat 4: 77jiakou ( $2,000 )
+Seat 6: NaGiBaLkO ( $2,000 )
+NaGiBaLkO posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 9h ]
+dasssss9 folds
+77jiakou folds
+NaGiBaLkO raises [$56]
+PapaShango19 folds
+** Summary **
+NaGiBaLkO collected [ $60 ]
+
+
+
+#Game No : 648281646
+***** 888poker Hand History for Game 648281646 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 09:27:47
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: PapaShango19 ( $1,970 )
+Seat 2: dasssss9 ( $2,075 )
+Seat 4: 77jiakou ( $2,000 )
+Seat 6: NaGiBaLkO ( $2,030 )
+PapaShango19 posts small blind [$15]
+dasssss9 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3d ]
+77jiakou folds
+NaGiBaLkO folds
+PapaShango19 raises [$45]
+dasssss9 calls [$30]
+** Dealing flop ** [ Ad, 7c, Td ]
+PapaShango19 bets [$90]
+dasssss9 calls [$90]
+** Dealing turn ** [ 5c ]
+PapaShango19 bets [$225]
+dasssss9 folds
+** Summary **
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 648281755
+***** 888poker Hand History for Game 648281755 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 09:28:35
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,120 )
+Seat 2: dasssss9 ( $1,925 )
+Seat 4: 77jiakou ( $2,000 )
+Seat 6: NaGiBaLkO ( $2,030 )
+Seat 7: imbasheng ( $2,000 )
+dasssss9 posts small blind [$15]
+77jiakou posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 7c ]
+NaGiBaLkO raises [$78]
+imbasheng folds
+PapaShango19 folds
+dasssss9 folds
+77jiakou calls [$48]
+** Dealing flop ** [ 2h, Ts, Th ]
+77jiakou checks
+NaGiBaLkO bets [$128]
+77jiakou calls [$128]
+** Dealing turn ** [ Ah ]
+77jiakou checks
+NaGiBaLkO checks
+** Dealing river ** [ Qc ]
+77jiakou bets [$180]
+NaGiBaLkO folds
+** Summary **
+77jiakou collected [ $427 ]
+
+
+
+#Game No : 648281879
+***** 888poker Hand History for Game 648281879 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 09:29:35
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,120 )
+Seat 2: dasssss9 ( $1,910 )
+Seat 4: 77jiakou ( $2,221 )
+Seat 6: NaGiBaLkO ( $1,824 )
+Seat 7: imbasheng ( $2,000 )
+Seat 9: Avoirien ( $2,000 )
+77jiakou posts small blind [$15]
+NaGiBaLkO posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Qc ]
+imbasheng folds
+Avoirien folds
+PapaShango19 folds
+dasssss9 raises [$60]
+77jiakou calls [$45]
+NaGiBaLkO folds
+** Dealing flop ** [ 4c, 5c, 7h ]
+77jiakou checks
+dasssss9 checks
+** Dealing turn ** [ 9c ]
+77jiakou bets [$75]
+dasssss9 calls [$75]
+** Dealing river ** [ 8c ]
+77jiakou checks
+dasssss9 checks
+** Summary **
+77jiakou shows [ 9d, 8s ]
+dasssss9 mucks [ Kh, Th ]
+77jiakou collected [ $300 ]
+
+
+
+#Game No : 648281993
+***** 888poker Hand History for Game 648281993 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 09:30:34
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,120 )
+Seat 2: dasssss9 ( $1,775 )
+Seat 4: 77jiakou ( $2,386 )
+Seat 6: NaGiBaLkO ( $1,794 )
+Seat 7: imbasheng ( $2,000 )
+Seat 9: Avoirien ( $2,000 )
+NaGiBaLkO posts small blind [$15]
+imbasheng posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Qc ]
+Avoirien folds
+PapaShango19 folds
+dasssss9 folds
+77jiakou folds
+NaGiBaLkO folds
+** Summary **
+imbasheng did not show his hand
+imbasheng collected [ $45 ]
+
+
+
+#Game No : 648282027
+***** 888poker Hand History for Game 648282027 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 09:30:54
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,120 )
+Seat 2: dasssss9 ( $1,775 )
+Seat 4: 77jiakou ( $2,386 )
+Seat 6: NaGiBaLkO ( $1,779 )
+Seat 7: imbasheng ( $2,015 )
+Seat 9: Avoirien ( $2,000 )
+imbasheng posts small blind [$15]
+Avoirien posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Tc ]
+PapaShango19 folds
+dasssss9 folds
+77jiakou raises [$78]
+NaGiBaLkO folds
+imbasheng calls [$63]
+Avoirien folds
+** Dealing flop ** [ 2d, 7d, Ts ]
+imbasheng checks
+77jiakou bets [$90]
+imbasheng raises [$228]
+77jiakou calls [$138]
+** Dealing turn ** [ Qd ]
+imbasheng bets [$481]
+77jiakou calls [$481]
+** Dealing river ** [ 9d ]
+imbasheng bets [$1,228]
+77jiakou folds
+** Summary **
+imbasheng did not show his hand
+imbasheng collected [ $1,604 ]
+
+
+
+#Game No : 648282162
+***** 888poker Hand History for Game 648282162 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 09:32:07
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,120 )
+Seat 2: dasssss9 ( $1,775 )
+Seat 4: 77jiakou ( $1,599 )
+Seat 6: NaGiBaLkO ( $1,779 )
+Seat 7: imbasheng ( $2,832 )
+Seat 9: Avoirien ( $1,970 )
+Avoirien posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Jd ]
+dasssss9 folds
+77jiakou folds
+NaGiBaLkO folds
+imbasheng raises [$131]
+Avoirien folds
+PapaShango19 folds
+** Summary **
+imbasheng did not show his hand
+imbasheng collected [ $125 ]
+
+
+
+#Game No : 648282225
+***** 888poker Hand History for Game 648282225 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 09:32:35
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,070 )
+Seat 2: dasssss9 ( $1,775 )
+Seat 4: 77jiakou ( $1,599 )
+Seat 6: NaGiBaLkO ( $1,779 )
+Seat 7: imbasheng ( $2,907 )
+Seat 9: Avoirien ( $1,945 )
+PapaShango19 posts small blind [$25]
+dasssss9 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Kd ]
+77jiakou calls [$50]
+NaGiBaLkO folds
+imbasheng raises [$168]
+Avoirien folds
+PapaShango19 raises [$2,045]
+dasssss9 folds
+77jiakou calls [$1,549]
+imbasheng folds
+** Dealing flop ** [ 7c, 5c, 2d ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 8s ]
+** Summary **
+PapaShango19 shows [ Ad, Kd ]
+77jiakou shows [ 7h, 9h ]
+77jiakou collected [ $3,416 ]
+
+
+
+#Game No : 648282339
+***** 888poker Hand History for Game 648282339 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 09:33:20
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $471 )
+Seat 2: dasssss9 ( $1,725 )
+Seat 4: 77jiakou ( $3,416 )
+Seat 6: NaGiBaLkO ( $1,779 )
+Seat 7: imbasheng ( $2,739 )
+Seat 9: Avoirien ( $1,945 )
+dasssss9 posts small blind [$25]
+77jiakou posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2c ]
+NaGiBaLkO folds
+imbasheng raises [$131]
+Avoirien folds
+PapaShango19 folds
+dasssss9 folds
+77jiakou folds
+** Summary **
+imbasheng did not show his hand
+imbasheng collected [ $125 ]
+
+
+
+#Game No : 648282386
+***** 888poker Hand History for Game 648282386 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 09:33:44
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $471 )
+Seat 2: dasssss9 ( $1,700 )
+Seat 4: 77jiakou ( $3,366 )
+Seat 6: NaGiBaLkO ( $1,779 )
+Seat 7: imbasheng ( $2,814 )
+Seat 9: Avoirien ( $1,945 )
+77jiakou posts small blind [$25]
+NaGiBaLkO posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qh ]
+imbasheng raises [$131]
+Avoirien raises [$234]
+PapaShango19 folds
+dasssss9 folds
+77jiakou folds
+NaGiBaLkO folds
+imbasheng calls [$103]
+** Dealing flop ** [ 6c, Ks, 3c ]
+imbasheng checks
+Avoirien bets [$271]
+imbasheng raises [$2,580]
+Avoirien calls [$1,440]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 7c ]
+** Summary **
+imbasheng shows [ Kc, Th ]
+Avoirien shows [ Ac, Kh ]
+Avoirien collected [ $3,965 ]
+
+
+
+#Game No : 648282517
+***** 888poker Hand History for Game 648282517 *****
+$25/$50 Blinds No Limit Holdem - *** 01 12 2014 09:34:36
+Tournament #63966180 $1.35 + $0.15 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $471 )
+Seat 2: dasssss9 ( $1,700 )
+Seat 4: 77jiakou ( $3,341 )
+Seat 6: NaGiBaLkO ( $1,729 )
+Seat 7: imbasheng ( $869 )
+Seat 9: Avoirien ( $3,965 )
+NaGiBaLkO posts small blind [$25]
+imbasheng posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, As ]
+Avoirien folds
+PapaShango19 raises [$100]
+dasssss9 folds
+77jiakou folds
+NaGiBaLkO folds
+imbasheng calls [$50]
+** Dealing flop ** [ Ac, 3c, 8h ]
+imbasheng checks
+PapaShango19 bets [$371]
+imbasheng calls [$371]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 4c ]
+** Summary **
+PapaShango19 shows [ Tc, As ]
+imbasheng shows [ Jc, Qc ]
+imbasheng collected [ $967 ]
+
+
+

@@ -1,0 +1,525 @@
+#Game No : 695386854
+***** 888poker Hand History for Game 695386854 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 05:40:15
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: m_a_g_i_c ( $5,000 )
+Seat 3: munted11 ( $5,000 )
+Seat 4: simpsonbr18 ( $5,000 )
+Seat 5: stbram ( $5,000 )
+Seat 6: 13CrAsH13 ( $5,000 )
+Seat 7: PapaShango19 ( $5,000 )
+Seat 9: DaJuRan ( $5,000 )
+Seat 10: kiiij ( $5,000 )
+PapaShango19 posts small blind [$10]
+DaJuRan posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Th ]
+kiiij folds
+m_a_g_i_c folds
+munted11 raises [$52]
+simpsonbr18 folds
+stbram folds
+13CrAsH13 calls [$52]
+PapaShango19 calls [$42]
+DaJuRan calls [$32]
+** Dealing flop ** [ Kc, Qs, Qc ]
+PapaShango19 checks
+DaJuRan checks
+munted11 bets [$104]
+13CrAsH13 folds
+PapaShango19 calls [$104]
+DaJuRan calls [$104]
+** Dealing turn ** [ 3d ]
+PapaShango19 checks
+DaJuRan checks
+munted11 bets [$260]
+PapaShango19 folds
+DaJuRan folds
+** Summary **
+munted11 collected [ $520 ]
+
+
+
+#Game No : 695387114
+***** 888poker Hand History for Game 695387114 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 05:42:01
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: m_a_g_i_c ( $5,000 )
+Seat 2: jagdish98500 ( $5,000 )
+Seat 3: munted11 ( $5,364 )
+Seat 4: keuer ( $4,980 )
+Seat 6: 13CrAsH13 ( $4,948 )
+Seat 7: PapaShango19 ( $4,844 )
+Seat 9: DaJuRan ( $4,844 )
+Seat 10: kiiij ( $5,000 )
+DaJuRan posts small blind [$10]
+kiiij posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Qh ]
+m_a_g_i_c calls [$20]
+jagdish98500 calls [$20]
+munted11 calls [$20]
+keuer calls [$20]
+13CrAsH13 folds
+PapaShango19 folds
+DaJuRan folds
+kiiij checks
+** Dealing flop ** [ 2c, 4c, Ac ]
+kiiij checks
+m_a_g_i_c checks
+jagdish98500 checks
+munted11 checks
+keuer checks
+** Dealing turn ** [ Qc ]
+kiiij checks
+m_a_g_i_c checks
+jagdish98500 checks
+munted11 bets [$82]
+keuer calls [$82]
+kiiij raises [$164]
+m_a_g_i_c folds
+jagdish98500 folds
+munted11 calls [$82]
+keuer calls [$82]
+** Dealing river ** [ 6c ]
+kiiij bets [$1,620]
+munted11 folds
+keuer folds
+** Summary **
+kiiij collected [ $602 ]
+
+
+
+#Game No : 695387378
+***** 888poker Hand History for Game 695387378 *****
+$10/$20 Blinds No Limit Holdem - *** 22 11 2014 05:44:03
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: m_a_g_i_c ( $4,980 )
+Seat 2: jagdish98500 ( $4,980 )
+Seat 3: munted11 ( $5,180 )
+Seat 4: keuer ( $4,796 )
+Seat 5: thomek47 ( $5,000 )
+Seat 6: 13CrAsH13 ( $4,948 )
+Seat 7: PapaShango19 ( $4,844 )
+Seat 9: DaJuRan ( $4,834 )
+Seat 10: kiiij ( $5,418 )
+kiiij posts small blind [$10]
+m_a_g_i_c posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3c ]
+jagdish98500 raises [$70]
+munted11 calls [$70]
+keuer folds
+thomek47 calls [$70]
+13CrAsH13 folds
+PapaShango19 calls [$70]
+DaJuRan folds
+kiiij calls [$60]
+m_a_g_i_c folds
+** Dealing flop ** [ 6h, 6s, Jh ]
+kiiij checks
+jagdish98500 checks
+munted11 bets [$185]
+thomek47 folds
+PapaShango19 folds
+kiiij folds
+jagdish98500 calls [$185]
+** Dealing turn ** [ 6d ]
+jagdish98500 checks
+munted11 bets [$555]
+jagdish98500 calls [$555]
+** Dealing river ** [ Ks ]
+jagdish98500 bets [$925]
+munted11 raises [$4,370]
+jagdish98500 calls [$3,245]
+** Summary **
+jagdish98500 shows [ Tc, Kh ]
+munted11 shows [ Jd, 8s ]
+jagdish98500 collected [ $10,190 ]
+
+
+
+#Game No : 695387602
+***** 888poker Hand History for Game 695387602 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 05:46:04
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: m_a_g_i_c ( $4,960 )
+Seat 2: jagdish98500 ( $10,190 )
+Seat 3: munted11 ( $200 )
+Seat 4: keuer ( $4,796 )
+Seat 5: thomek47 ( $4,930 )
+Seat 6: Flutterr ( $5,000 )
+Seat 7: PapaShango19 ( $4,774 )
+Seat 9: DaJuRan ( $4,834 )
+Seat 10: kiiij ( $5,348 )
+m_a_g_i_c posts small blind [$15]
+jagdish98500 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 7s ]
+munted11 folds
+keuer calls [$30]
+thomek47 folds
+Flutterr calls [$30]
+PapaShango19 folds
+DaJuRan folds
+kiiij folds
+m_a_g_i_c calls [$15]
+jagdish98500 checks
+** Dealing flop ** [ 2h, 4c, Qc ]
+m_a_g_i_c checks
+jagdish98500 bets [$120]
+keuer folds
+Flutterr calls [$120]
+m_a_g_i_c folds
+** Dealing turn ** [ 5d ]
+jagdish98500 checks
+Flutterr checks
+** Dealing river ** [ Kh ]
+jagdish98500 bets [$180]
+Flutterr folds
+** Summary **
+jagdish98500 did not show his hand
+jagdish98500 collected [ $360 ]
+
+
+
+#Game No : 695387752
+***** 888poker Hand History for Game 695387752 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 05:47:16
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: m_a_g_i_c ( $4,930 )
+Seat 2: jagdish98500 ( $10,400 )
+Seat 4: keuer ( $4,766 )
+Seat 5: thomek47 ( $4,930 )
+Seat 6: Flutterr ( $4,850 )
+Seat 7: PapaShango19 ( $4,774 )
+Seat 9: DaJuRan ( $4,834 )
+Seat 10: kiiij ( $5,348 )
+jagdish98500 posts small blind [$15]
+keuer posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Js ]
+thomek47 calls [$30]
+Flutterr calls [$30]
+PapaShango19 folds
+DaJuRan folds
+kiiij calls [$30]
+m_a_g_i_c folds
+jagdish98500 calls [$15]
+keuer checks
+** Dealing flop ** [ Ah, Ks, Qc ]
+jagdish98500 bets [$150]
+keuer folds
+thomek47 folds
+Flutterr calls [$150]
+kiiij folds
+** Dealing turn ** [ 5s ]
+jagdish98500 checks
+Flutterr checks
+** Dealing river ** [ Ts ]
+jagdish98500 bets [$225]
+Flutterr raises [$1,125]
+jagdish98500 folds
+** Summary **
+Flutterr did not show his hand
+Flutterr collected [ $900 ]
+
+
+
+#Game No : 695387843
+***** 888poker Hand History for Game 695387843 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 05:48:03
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: m_a_g_i_c ( $4,930 )
+Seat 2: jagdish98500 ( $9,995 )
+Seat 4: keuer ( $4,736 )
+Seat 5: thomek47 ( $4,900 )
+Seat 6: Flutterr ( $5,345 )
+Seat 7: PapaShango19 ( $4,774 )
+Seat 9: DaJuRan ( $4,834 )
+Seat 10: kiiij ( $5,318 )
+keuer posts small blind [$15]
+thomek47 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 7h ]
+Flutterr folds
+PapaShango19 calls [$30]
+DaJuRan raises [$120]
+kiiij folds
+m_a_g_i_c calls [$120]
+jagdish98500 calls [$120]
+keuer calls [$105]
+thomek47 folds
+PapaShango19 folds
+** Dealing flop ** [ Jc, 9s, 2d ]
+keuer checks
+DaJuRan bets [$296]
+m_a_g_i_c folds
+jagdish98500 folds
+keuer calls [$296]
+** Dealing turn ** [ Jd ]
+keuer checks
+DaJuRan checks
+** Dealing river ** [ 5d ]
+keuer checks
+DaJuRan checks
+** Summary **
+keuer shows [ Ts, As ]
+DaJuRan shows [ 3s, 3h ]
+DaJuRan collected [ $1,132 ]
+
+
+
+#Game No : 695388034
+***** 888poker Hand History for Game 695388034 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 05:49:35
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: m_a_g_i_c ( $4,810 )
+Seat 2: jagdish98500 ( $9,875 )
+Seat 3: krishna000 ( $5,000 )
+Seat 4: keuer ( $4,320 )
+Seat 5: thomek47 ( $4,870 )
+Seat 6: Flutterr ( $5,345 )
+Seat 7: PapaShango19 ( $4,744 )
+Seat 9: AllanCorns ( $9,970 )
+Seat 10: kiiij ( $5,318 )
+thomek47 posts small blind [$15]
+Flutterr posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7s ]
+PapaShango19 folds
+AllanCorns folds
+kiiij raises [$90]
+m_a_g_i_c calls [$90]
+jagdish98500 folds
+krishna000 folds
+keuer folds
+thomek47 calls [$75]
+Flutterr calls [$60]
+** Dealing flop ** [ 2d, 6d, Qc ]
+thomek47 checks
+Flutterr checks
+kiiij checks
+m_a_g_i_c checks
+** Dealing turn ** [ Ts ]
+thomek47 checks
+Flutterr checks
+kiiij checks
+m_a_g_i_c checks
+** Dealing river ** [ 9c ]
+thomek47 checks
+Flutterr bets [$360]
+kiiij folds
+m_a_g_i_c folds
+thomek47 folds
+** Summary **
+Flutterr did not show his hand
+Flutterr collected [ $360 ]
+
+
+
+#Game No : 695388162
+***** 888poker Hand History for Game 695388162 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 05:50:34
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: m_a_g_i_c ( $4,720 )
+Seat 2: jagdish98500 ( $9,875 )
+Seat 3: krishna000 ( $5,000 )
+Seat 4: keuer ( $4,320 )
+Seat 5: thomek47 ( $4,780 )
+Seat 6: Flutterr ( $5,615 )
+Seat 7: PapaShango19 ( $4,744 )
+Seat 9: AllanCorns ( $9,970 )
+Seat 10: kiiij ( $5,228 )
+Flutterr posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4c ]
+AllanCorns calls [$50]
+kiiij folds
+m_a_g_i_c calls [$50]
+jagdish98500 calls [$50]
+krishna000 folds
+keuer calls [$50]
+thomek47 calls [$50]
+Flutterr calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ 6h, Js, Td ]
+Flutterr checks
+PapaShango19 checks
+AllanCorns checks
+m_a_g_i_c bets [$350]
+jagdish98500 calls [$350]
+keuer folds
+thomek47 calls [$350]
+Flutterr folds
+PapaShango19 folds
+AllanCorns calls [$350]
+** Dealing turn ** [ 5h ]
+AllanCorns checks
+m_a_g_i_c bets [$1,750]
+jagdish98500 folds
+thomek47 folds
+AllanCorns calls [$1,750]
+** Dealing river ** [ Kh ]
+AllanCorns checks
+m_a_g_i_c checks
+** Summary **
+AllanCorns shows [ 7h, 8h ]
+m_a_g_i_c mucks [ Jh, Qc ]
+AllanCorns collected [ $5,250 ]
+
+
+
+#Game No : 695388302
+***** 888poker Hand History for Game 695388302 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 05:52:04
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: m_a_g_i_c ( $2,570 )
+Seat 2: jagdish98500 ( $9,475 )
+Seat 3: krishna000 ( $5,000 )
+Seat 4: keuer ( $4,270 )
+Seat 5: thomek47 ( $4,380 )
+Seat 6: Flutterr ( $5,565 )
+Seat 7: PapaShango19 ( $4,694 )
+Seat 9: AllanCorns ( $13,070 )
+PapaShango19 posts small blind [$25]
+AllanCorns posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3h ]
+m_a_g_i_c folds
+jagdish98500 calls [$50]
+krishna000 raises [$200]
+keuer folds
+thomek47 folds
+Flutterr folds
+PapaShango19 folds
+AllanCorns calls [$150]
+jagdish98500 calls [$150]
+** Dealing flop ** [ Qd, 3d, 9s ]
+AllanCorns checks
+jagdish98500 checks
+krishna000 bets [$200]
+AllanCorns folds
+jagdish98500 calls [$200]
+** Dealing turn ** [ 5c ]
+jagdish98500 checks
+krishna000 bets [$200]
+jagdish98500 calls [$200]
+** Dealing river ** [ 4h ]
+jagdish98500 bets [$350]
+krishna000 calls [$350]
+** Summary **
+jagdish98500 shows [ Ac, 7d ]
+krishna000 shows [ 8c, 8d ]
+krishna000 collected [ $2,125 ]
+
+
+
+#Game No : 695388436
+***** 888poker Hand History for Game 695388436 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 05:53:19
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: m_a_g_i_c ( $2,570 )
+Seat 2: jagdish98500 ( $8,525 )
+Seat 3: krishna000 ( $6,175 )
+Seat 4: keuer ( $4,270 )
+Seat 5: thomek47 ( $4,380 )
+Seat 6: Flutterr ( $5,565 )
+Seat 7: PapaShango19 ( $4,669 )
+Seat 9: AllanCorns ( $12,870 )
+Seat 10: fvdtgs ( $5,000 )
+AllanCorns posts small blind [$25]
+fvdtgs posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Ac ]
+m_a_g_i_c folds
+jagdish98500 calls [$50]
+krishna000 raises [$200]
+keuer folds
+thomek47 calls [$200]
+Flutterr folds
+PapaShango19 raises [$650]
+AllanCorns folds
+fvdtgs folds
+jagdish98500 folds
+krishna000 calls [$450]
+thomek47 calls [$450]
+** Dealing flop ** [ 3s, 3c, 7d ]
+krishna000 checks
+thomek47 checks
+PapaShango19 bets [$1,556]
+krishna000 folds
+thomek47 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,075 ]
+
+
+
+#Game No : 695388598
+***** 888poker Hand History for Game 695388598 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 05:54:41
+Tournament #63692073 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: jagdish98500 ( $8,475 )
+Seat 3: krishna000 ( $5,525 )
+Seat 4: keuer ( $4,270 )
+Seat 5: thomek47 ( $3,730 )
+Seat 6: Flutterr ( $5,565 )
+Seat 7: PapaShango19 ( $6,094 )
+Seat 9: AllanCorns ( $12,845 )
+Seat 10: fvdtgs ( $4,950 )
+fvdtgs posts small blind [$25]
+jagdish98500 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Qh ]
+krishna000 raises [$100]
+keuer folds
+thomek47 calls [$100]
+Flutterr folds
+PapaShango19 raises [$350]
+AllanCorns folds
+fvdtgs folds
+jagdish98500 calls [$300]
+krishna000 calls [$250]
+thomek47 calls [$250]
+** Dealing flop ** [ 7c, 7h, Ac ]
+jagdish98500 bets [$1,425]
+krishna000 calls [$1,425]
+thomek47 raises [$3,380]
+PapaShango19 raises [$5,744]
+jagdish98500 raises [$6,700]
+krishna000 folds
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 5s ]
+** Summary **
+jagdish98500 shows [ Kd, Ah ]
+thomek47 shows [ 9c, Qc ]
+PapaShango19 shows [ Ad, Qh ]
+thomek47 collected [ $12,990 ]
+jagdish98500 collected [ $4,728 ]
+
+
+

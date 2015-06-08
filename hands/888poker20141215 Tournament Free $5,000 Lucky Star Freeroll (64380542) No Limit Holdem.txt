@@ -1,0 +1,1134 @@
+#Game No : 608502480
+***** 888poker Hand History for Game 608502480 *****
+$10/$20 Blinds No Limit Holdem - *** 15 12 2014 23:10:23
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $2,000 )
+Seat 2: raczde77 ( $2,000 )
+Seat 3: johnbernie ( $2,000 )
+Seat 4: winforelose ( $2,000 )
+Seat 5: FPrzeliorz ( $2,000 )
+Seat 6: pampa59 ( $2,000 )
+Seat 7: MMaximoff ( $2,000 )
+Seat 9: PapaShango19 ( $2,000 )
+Seat 10: tyrion77 ( $2,000 )
+raczde77 posts small blind [$10]
+johnbernie posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Jc ]
+winforelose folds
+FPrzeliorz folds
+pampa59 folds
+MMaximoff folds
+PapaShango19 folds
+tyrion77 folds
+therocks27 calls [$20]
+raczde77 calls [$10]
+johnbernie checks
+** Dealing flop ** [ 3c, 2s, 5s ]
+raczde77 checks
+johnbernie checks
+therocks27 bets [$20]
+raczde77 calls [$20]
+johnbernie folds
+** Dealing turn ** [ Td ]
+raczde77 checks
+therocks27 bets [$20]
+raczde77 calls [$20]
+** Dealing river ** [ 4s ]
+raczde77 bets [$140]
+therocks27 folds
+** Summary **
+raczde77 did not show his hand
+raczde77 collected [ $140 ]
+
+
+
+#Game No : 608503442
+***** 888poker Hand History for Game 608503442 *****
+$10/$20 Blinds No Limit Holdem - *** 15 12 2014 23:11:33
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $1,940 )
+Seat 2: raczde77 ( $2,080 )
+Seat 3: johnbernie ( $1,980 )
+Seat 4: winforelose ( $2,000 )
+Seat 5: FPrzeliorz ( $2,000 )
+Seat 6: pampa59 ( $2,000 )
+Seat 7: MMaximoff ( $2,000 )
+Seat 9: PapaShango19 ( $2,000 )
+Seat 10: tyrion77 ( $2,000 )
+johnbernie posts small blind [$10]
+winforelose posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, As ]
+FPrzeliorz calls [$20]
+pampa59 folds
+MMaximoff folds
+PapaShango19 folds
+tyrion77 folds
+therocks27 raises [$60]
+raczde77 folds
+johnbernie folds
+winforelose folds
+FPrzeliorz calls [$40]
+** Dealing flop ** [ Ks, 5c, 6h ]
+FPrzeliorz checks
+therocks27 bets [$20]
+FPrzeliorz folds
+** Summary **
+therocks27 did not show his hand
+therocks27 collected [ $150 ]
+
+
+
+#Game No : 608504749
+***** 888poker Hand History for Game 608504749 *****
+$10/$20 Blinds No Limit Holdem - *** 15 12 2014 23:12:36
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $2,030 )
+Seat 2: raczde77 ( $2,080 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,980 )
+Seat 5: FPrzeliorz ( $1,940 )
+Seat 6: pampa59 ( $2,000 )
+Seat 7: MMaximoff ( $2,000 )
+Seat 9: PapaShango19 ( $2,000 )
+Seat 10: tyrion77 ( $2,000 )
+winforelose posts small blind [$10]
+FPrzeliorz posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Qc ]
+pampa59 folds
+MMaximoff raises [$40]
+PapaShango19 folds
+tyrion77 folds
+therocks27 calls [$40]
+raczde77 folds
+johnbernie folds
+winforelose folds
+FPrzeliorz calls [$20]
+** Dealing flop ** [ 3h, 3s, Js ]
+FPrzeliorz checks
+MMaximoff checks
+therocks27 bets [$20]
+FPrzeliorz calls [$20]
+MMaximoff calls [$20]
+** Dealing turn ** [ 4c ]
+FPrzeliorz checks
+MMaximoff checks
+therocks27 bets [$260]
+FPrzeliorz folds
+MMaximoff folds
+** Summary **
+therocks27 did not show his hand
+therocks27 collected [ $190 ]
+
+
+
+#Game No : 608506139
+***** 888poker Hand History for Game 608506139 *****
+$15/$30 Blinds No Limit Holdem - *** 15 12 2014 23:13:45
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $2,160 )
+Seat 2: raczde77 ( $2,080 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,970 )
+Seat 5: FPrzeliorz ( $1,880 )
+Seat 6: pampa59 ( $2,000 )
+Seat 7: MMaximoff ( $1,940 )
+Seat 9: PapaShango19 ( $2,000 )
+Seat 10: tyrion77 ( $2,000 )
+FPrzeliorz posts small blind [$15]
+pampa59 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 2d ]
+MMaximoff raises [$60]
+PapaShango19 folds
+tyrion77 raises [$225]
+therocks27 folds
+raczde77 folds
+johnbernie folds
+winforelose folds
+FPrzeliorz folds
+pampa59 folds
+MMaximoff calls [$165]
+** Dealing flop ** [ Qh, 3c, Jc ]
+MMaximoff checks
+tyrion77 bets [$495]
+MMaximoff calls [$495]
+** Dealing turn ** [ 4d ]
+MMaximoff checks
+tyrion77 bets [$1,280]
+MMaximoff folds
+** Summary **
+tyrion77 did not show his hand
+tyrion77 collected [ $1,485 ]
+
+
+
+#Game No : 608507029
+***** 888poker Hand History for Game 608507029 *****
+$15/$30 Blinds No Limit Holdem - *** 15 12 2014 23:14:29
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $2,160 )
+Seat 2: raczde77 ( $2,080 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,970 )
+Seat 5: FPrzeliorz ( $1,865 )
+Seat 6: pampa59 ( $1,970 )
+Seat 7: MMaximoff ( $1,220 )
+Seat 9: PapaShango19 ( $2,000 )
+Seat 10: tyrion77 ( $2,765 )
+pampa59 posts small blind [$15]
+MMaximoff posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 5h ]
+PapaShango19 folds
+tyrion77 folds
+therocks27 calls [$30]
+raczde77 folds
+johnbernie folds
+winforelose folds
+FPrzeliorz raises [$60]
+pampa59 folds
+MMaximoff calls [$30]
+therocks27 calls [$30]
+** Dealing flop ** [ Qs, Ad, 4s ]
+MMaximoff checks
+therocks27 checks
+FPrzeliorz bets [$90]
+MMaximoff folds
+therocks27 calls [$90]
+** Dealing turn ** [ 4h ]
+therocks27 checks
+FPrzeliorz bets [$120]
+therocks27 folds
+** Summary **
+FPrzeliorz did not show his hand
+FPrzeliorz collected [ $375 ]
+
+
+
+#Game No : 608507970
+***** 888poker Hand History for Game 608507970 *****
+$15/$30 Blinds No Limit Holdem - *** 15 12 2014 23:15:16
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $2,010 )
+Seat 2: raczde77 ( $2,080 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,970 )
+Seat 5: FPrzeliorz ( $2,090 )
+Seat 6: pampa59 ( $1,955 )
+Seat 7: MMaximoff ( $1,160 )
+Seat 9: PapaShango19 ( $2,000 )
+Seat 10: tyrion77 ( $2,765 )
+MMaximoff posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Jc ]
+tyrion77 folds
+therocks27 calls [$30]
+raczde77 folds
+johnbernie folds
+winforelose folds
+FPrzeliorz folds
+pampa59 folds
+MMaximoff raises [$1,145]
+PapaShango19 folds
+therocks27 folds
+** Summary **
+MMaximoff did not show his hand
+MMaximoff collected [ $90 ]
+
+
+
+#Game No : 608508515
+***** 888poker Hand History for Game 608508515 *****
+$15/$30 Blinds No Limit Holdem - *** 15 12 2014 23:15:45
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $1,980 )
+Seat 2: raczde77 ( $2,080 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,970 )
+Seat 5: FPrzeliorz ( $2,090 )
+Seat 6: pampa59 ( $1,955 )
+Seat 7: MMaximoff ( $1,220 )
+Seat 9: PapaShango19 ( $1,970 )
+Seat 10: tyrion77 ( $2,765 )
+PapaShango19 posts small blind [$15]
+tyrion77 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 4c ]
+therocks27 raises [$120]
+raczde77 calls [$120]
+johnbernie folds
+winforelose folds
+FPrzeliorz calls [$120]
+pampa59 folds
+MMaximoff folds
+PapaShango19 folds
+tyrion77 folds
+** Dealing flop ** [ 6c, 3d, Ad ]
+therocks27 bets [$150]
+raczde77 folds
+FPrzeliorz folds
+** Summary **
+therocks27 did not show his hand
+therocks27 collected [ $405 ]
+
+
+
+#Game No : 608509098
+***** 888poker Hand History for Game 608509098 *****
+$15/$30 Blinds No Limit Holdem - *** 15 12 2014 23:16:13
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $2,265 )
+Seat 2: raczde77 ( $1,960 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,970 )
+Seat 5: FPrzeliorz ( $1,970 )
+Seat 6: pampa59 ( $1,955 )
+Seat 7: MMaximoff ( $1,220 )
+Seat 9: PapaShango19 ( $1,955 )
+Seat 10: tyrion77 ( $2,735 )
+tyrion77 posts small blind [$15]
+therocks27 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 6d ]
+raczde77 folds
+johnbernie folds
+winforelose folds
+FPrzeliorz calls [$30]
+pampa59 folds
+MMaximoff raises [$135]
+PapaShango19 folds
+tyrion77 folds
+therocks27 calls [$105]
+FPrzeliorz calls [$105]
+** Dealing flop ** [ 2c, 5d, Kc ]
+therocks27 checks
+FPrzeliorz checks
+MMaximoff bets [$420]
+therocks27 folds
+FPrzeliorz folds
+** Summary **
+MMaximoff did not show his hand
+MMaximoff collected [ $420 ]
+
+
+
+#Game No : 608509738
+***** 888poker Hand History for Game 608509738 *****
+$25/$50 Blinds No Limit Holdem - *** 15 12 2014 23:16:44
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $2,130 )
+Seat 2: raczde77 ( $1,960 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,970 )
+Seat 5: FPrzeliorz ( $1,835 )
+Seat 6: pampa59 ( $1,955 )
+Seat 7: MMaximoff ( $1,505 )
+Seat 9: PapaShango19 ( $1,955 )
+Seat 10: tyrion77 ( $2,720 )
+therocks27 posts small blind [$25]
+raczde77 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 5c ]
+johnbernie folds
+winforelose folds
+FPrzeliorz folds
+pampa59 folds
+MMaximoff folds
+PapaShango19 folds
+tyrion77 folds
+therocks27 raises [$75]
+raczde77 calls [$50]
+** Dealing flop ** [ Js, 8h, 9s ]
+therocks27 bets [$50]
+raczde77 calls [$50]
+** Dealing turn ** [ Jc ]
+therocks27 bets [$50]
+raczde77 raises [$450]
+therocks27 calls [$400]
+** Dealing river ** [ 9c ]
+therocks27 checks
+raczde77 checks
+** Summary **
+therocks27 shows [ Td, Kd ]
+raczde77 shows [ Tc, 7h ]
+raczde77 collected [ $1,200 ]
+
+
+
+#Game No : 608510518
+***** 888poker Hand History for Game 608510518 *****
+$25/$50 Blinds No Limit Holdem - *** 15 12 2014 23:17:24
+Tournament #64380542 Free - Table #848 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: therocks27 ( $1,530 )
+Seat 2: raczde77 ( $2,560 )
+Seat 3: johnbernie ( $1,970 )
+Seat 4: winforelose ( $1,970 )
+Seat 5: FPrzeliorz ( $1,835 )
+Seat 6: pampa59 ( $1,955 )
+Seat 7: MMaximoff ( $1,505 )
+Seat 9: PapaShango19 ( $1,955 )
+Seat 10: tyrion77 ( $2,720 )
+raczde77 posts small blind [$25]
+johnbernie posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 5c ]
+winforelose folds
+FPrzeliorz raises [$1,835]
+pampa59 folds
+MMaximoff calls [$1,505]
+PapaShango19 folds
+tyrion77 folds
+therocks27 folds
+raczde77 raises [$2,535]
+johnbernie folds
+** Dealing flop ** [ Jh, 5s, 5h ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 3h ]
+** Summary **
+raczde77 shows [ 9s, Jd ]
+FPrzeliorz shows [ Ah, Qd ]
+MMaximoff shows [ 8d, 8h ]
+raczde77 collected [ $4,565 ]
+raczde77 collected [ $660 ]
+
+
+
+#Game No : 608511149
+***** 888poker Hand History for Game 608511149 *****
+$25/$50 Blinds No Limit Holdem - *** 15 12 2014 23:17:56
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,970 )
+Seat 2: 22116gra ( $1,965 )
+Seat 3: bevharvey ( $15 )
+Seat 4: decioboy ( $2,455 )
+Seat 5: DeeJennerIt ( $1,900 )
+Seat 6: mejiopd152 ( $1,950 )
+Seat 7: Lars232002 ( $1,980 )
+Seat 9: PapaShango19 ( $1,955 )
+Seat 10: Johmoraiz ( $5,765 )
+DeeJennerIt posts small blind [$25]
+mejiopd152 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 8c ]
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz folds
+SLSSV21 folds
+22116gra folds
+bevharvey folds
+decioboy folds
+DeeJennerIt calls [$25]
+mejiopd152 raises [$50]
+DeeJennerIt calls [$50]
+** Dealing flop ** [ 5h, Ac, 9h ]
+DeeJennerIt checks
+mejiopd152 checks
+** Dealing turn ** [ Ah ]
+DeeJennerIt bets [$50]
+mejiopd152 folds
+** Summary **
+DeeJennerIt did not show his hand
+DeeJennerIt collected [ $200 ]
+
+
+
+#Game No : 608512291
+***** 888poker Hand History for Game 608512291 *****
+$25/$50 Blinds No Limit Holdem - *** 15 12 2014 23:18:52
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,970 )
+Seat 2: 22116gra ( $1,965 )
+Seat 3: bevharvey ( $15 )
+Seat 4: decioboy ( $2,455 )
+Seat 5: DeeJennerIt ( $2,000 )
+Seat 6: mejiopd152 ( $1,850 )
+Seat 7: Lars232002 ( $1,980 )
+Seat 9: PapaShango19 ( $1,955 )
+Seat 10: Johmoraiz ( $5,765 )
+mejiopd152 posts small blind [$25]
+Lars232002 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4c ]
+PapaShango19 folds
+Johmoraiz raises [$100]
+SLSSV21 folds
+22116gra calls [$100]
+bevharvey folds
+decioboy raises [$475]
+DeeJennerIt folds
+mejiopd152 folds
+Lars232002 folds
+Johmoraiz folds
+22116gra calls [$375]
+** Dealing flop ** [ As, 9d, 7s ]
+22116gra checks
+decioboy bets [$1,980]
+22116gra calls [$1,490]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Qs ]
+** Summary **
+22116gra shows [ 7d, 7h ]
+decioboy shows [ Ah, Qh ]
+22116gra collected [ $4,105 ]
+
+
+
+#Game No : 608514124
+***** 888poker Hand History for Game 608514124 *****
+$50/$100 Blinds No Limit Holdem - *** 15 12 2014 23:20:24
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,970 )
+Seat 2: 22116gra ( $4,105 )
+Seat 3: bevharvey ( $15 )
+Seat 4: decioboy ( $490 )
+Seat 5: DeeJennerIt ( $2,000 )
+Seat 6: mejiopd152 ( $1,825 )
+Seat 7: Lars232002 ( $1,930 )
+Seat 9: PapaShango19 ( $1,955 )
+Seat 10: Johmoraiz ( $5,665 )
+Lars232002 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 5h ]
+Johmoraiz folds
+SLSSV21 folds
+22116gra folds
+bevharvey folds
+decioboy raises [$490]
+DeeJennerIt folds
+mejiopd152 folds
+Lars232002 folds
+PapaShango19 folds
+** Summary **
+decioboy did not show his hand
+decioboy collected [ $250 ]
+
+
+
+#Game No : 608514863
+***** 888poker Hand History for Game 608514863 *****
+$50/$100 Blinds No Limit Holdem - *** 15 12 2014 23:21:00
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,970 )
+Seat 2: 22116gra ( $4,105 )
+Seat 3: bevharvey ( $15 )
+Seat 4: decioboy ( $640 )
+Seat 5: DeeJennerIt ( $2,000 )
+Seat 6: mejiopd152 ( $1,825 )
+Seat 7: Lars232002 ( $1,880 )
+Seat 9: PapaShango19 ( $1,855 )
+Seat 10: Johmoraiz ( $5,665 )
+PapaShango19 posts small blind [$50]
+Johmoraiz posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Ks ]
+SLSSV21 folds
+22116gra folds
+bevharvey folds
+decioboy raises [$640]
+DeeJennerIt folds
+mejiopd152 folds
+Lars232002 raises [$1,880]
+PapaShango19 folds
+Johmoraiz folds
+** Dealing flop ** [ Qs, 4h, 7d ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 3s ]
+** Summary **
+decioboy shows [ 2d, Kd ]
+Lars232002 shows [ Ah, Qd ]
+Lars232002 collected [ $1,430 ]
+
+
+
+#Game No : 608515930
+***** 888poker Hand History for Game 608515930 *****
+$50/$100 Blinds No Limit Holdem - *** 15 12 2014 23:21:52
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,970 )
+Seat 2: 22116gra ( $4,105 )
+Seat 3: bevharvey ( $15 )
+Seat 4: ninabaks ( $1,955 )
+Seat 5: DeeJennerIt ( $2,000 )
+Seat 6: mejiopd152 ( $1,825 )
+Seat 7: Lars232002 ( $2,670 )
+Seat 9: PapaShango19 ( $1,805 )
+Seat 10: Johmoraiz ( $5,565 )
+Johmoraiz posts small blind [$50]
+SLSSV21 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Js ]
+22116gra folds
+bevharvey folds
+ninabaks folds
+DeeJennerIt folds
+mejiopd152 calls [$100]
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz calls [$50]
+SLSSV21 checks
+** Dealing flop ** [ 6s, 9h, 9d ]
+Johmoraiz checks
+SLSSV21 checks
+mejiopd152 bets [$100]
+Johmoraiz folds
+SLSSV21 folds
+** Summary **
+mejiopd152 did not show his hand
+mejiopd152 collected [ $300 ]
+
+
+
+#Game No : 608516742
+***** 888poker Hand History for Game 608516742 *****
+$75/$150 Blinds No Limit Holdem - *** 15 12 2014 23:22:31
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,870 )
+Seat 2: 22116gra ( $4,105 )
+Seat 3: bevharvey ( $15 )
+Seat 4: ninabaks ( $1,955 )
+Seat 5: DeeJennerIt ( $2,000 )
+Seat 6: mejiopd152 ( $2,025 )
+Seat 7: Lars232002 ( $2,670 )
+Seat 9: PapaShango19 ( $1,805 )
+Seat 10: Johmoraiz ( $5,465 )
+SLSSV21 posts small blind [$75]
+22116gra posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Qd ]
+bevharvey folds
+ninabaks folds
+DeeJennerIt calls [$150]
+mejiopd152 folds
+Lars232002 folds
+PapaShango19 raises [$300]
+Johmoraiz folds
+SLSSV21 folds
+22116gra raises [$1,500]
+DeeJennerIt folds
+PapaShango19 folds
+** Summary **
+22116gra did not show his hand
+22116gra collected [ $825 ]
+
+
+
+#Game No : 608517666
+***** 888poker Hand History for Game 608517666 *****
+$75/$150 Blinds No Limit Holdem - *** 15 12 2014 23:23:16
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,795 )
+Seat 2: 22116gra ( $4,630 )
+Seat 3: bevharvey ( $15 )
+Seat 4: ninabaks ( $1,955 )
+Seat 5: DeeJennerIt ( $1,850 )
+Seat 6: mejiopd152 ( $2,025 )
+Seat 7: Lars232002 ( $2,670 )
+Seat 9: PapaShango19 ( $1,505 )
+Seat 10: Johmoraiz ( $5,465 )
+22116gra posts small blind [$75]
+bevharvey posts big blind [$15]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 6h ]
+ninabaks folds
+DeeJennerIt calls [$150]
+mejiopd152 calls [$150]
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz folds
+SLSSV21 folds
+22116gra calls [$75]
+** Dealing flop ** [ 7h, 6d, 2c ]
+22116gra bets [$1,350]
+DeeJennerIt folds
+mejiopd152 raises [$1,875]
+22116gra calls [$525]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ Ad ]
+** Summary **
+22116gra shows [ 3c, 7d ]
+bevharvey shows [ Ah, 9h ]
+mejiopd152 shows [ 9c, 9s ]
+bevharvey collected [ $60 ]
+mejiopd152 collected [ $4,155 ]
+
+
+
+#Game No : 608519192
+***** 888poker Hand History for Game 608519192 *****
+$75/$150 Blinds No Limit Holdem - *** 15 12 2014 23:24:30
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,795 )
+Seat 2: 22116gra ( $2,605 )
+Seat 3: bevharvey ( $60 )
+Seat 4: ninabaks ( $1,955 )
+Seat 5: DeeJennerIt ( $1,700 )
+Seat 6: mejiopd152 ( $4,155 )
+Seat 7: Lars232002 ( $2,670 )
+Seat 9: PapaShango19 ( $1,505 )
+Seat 10: Johmoraiz ( $5,465 )
+bevharvey posts small blind [$60]
+ninabaks posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, As ]
+DeeJennerIt calls [$150]
+mejiopd152 folds
+Lars232002 folds
+PapaShango19 raises [$450]
+Johmoraiz folds
+SLSSV21 folds
+22116gra folds
+ninabaks folds
+DeeJennerIt folds
+** Dealing flop ** [ 4d, Js, 4c ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Td ]
+** Summary **
+bevharvey shows [ 9c, 5s ]
+PapaShango19 shows [ Ac, As ]
+PapaShango19 collected [ $240 ]
+PapaShango19 collected [ $270 ]
+
+
+
+#Game No : 608520224
+***** 888poker Hand History for Game 608520224 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:25:23
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SLSSV21 ( $1,795 )
+Seat 2: 22116gra ( $2,605 )
+Seat 4: ninabaks ( $1,805 )
+Seat 5: DeeJennerIt ( $1,550 )
+Seat 6: mejiopd152 ( $4,155 )
+Seat 7: Lars232002 ( $2,670 )
+Seat 9: PapaShango19 ( $1,865 )
+Seat 10: Johmoraiz ( $5,465 )
+ninabaks posts small blind [$100]
+DeeJennerIt posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Kc ]
+mejiopd152 folds
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz calls [$200]
+SLSSV21 folds
+22116gra folds
+ninabaks folds
+DeeJennerIt checks
+** Dealing flop ** [ Ts, 4c, 8h ]
+DeeJennerIt checks
+Johmoraiz bets [$250]
+DeeJennerIt calls [$250]
+** Dealing turn ** [ 2h ]
+DeeJennerIt checks
+Johmoraiz bets [$1,000]
+DeeJennerIt folds
+** Summary **
+Johmoraiz collected [ $1,000 ]
+
+
+
+#Game No : 608521304
+***** 888poker Hand History for Game 608521304 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:26:19
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,795 )
+Seat 2: 22116gra ( $2,605 )
+Seat 3: bigfellasafc ( $2,000 )
+Seat 4: ninabaks ( $1,705 )
+Seat 5: DeeJennerIt ( $1,100 )
+Seat 6: mejiopd152 ( $4,155 )
+Seat 7: Lars232002 ( $2,670 )
+Seat 9: PapaShango19 ( $1,865 )
+Seat 10: Johmoraiz ( $6,015 )
+DeeJennerIt posts small blind [$100]
+mejiopd152 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 7c ]
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz folds
+SLSSV21 folds
+22116gra folds
+bigfellasafc folds
+ninabaks folds
+DeeJennerIt raises [$1,000]
+mejiopd152 calls [$900]
+** Dealing flop ** [ 4d, Tc, Ad ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 8c ]
+** Summary **
+DeeJennerIt shows [ 5h, 5d ]
+mejiopd152 shows [ Kd, Jd ]
+DeeJennerIt collected [ $2,200 ]
+
+
+
+#Game No : 608522084
+***** 888poker Hand History for Game 608522084 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:26:59
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,795 )
+Seat 2: 22116gra ( $2,605 )
+Seat 3: bigfellasafc ( $2,000 )
+Seat 4: ninabaks ( $1,705 )
+Seat 5: DeeJennerIt ( $2,200 )
+Seat 6: mejiopd152 ( $3,055 )
+Seat 7: Lars232002 ( $2,670 )
+Seat 9: PapaShango19 ( $1,865 )
+Seat 10: Johmoraiz ( $6,015 )
+mejiopd152 posts small blind [$100]
+Lars232002 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Qs ]
+PapaShango19 folds
+Johmoraiz folds
+SLSSV21 folds
+22116gra raises [$2,605]
+bigfellasafc folds
+ninabaks folds
+DeeJennerIt folds
+mejiopd152 folds
+Lars232002 folds
+** Summary **
+22116gra did not show his hand
+22116gra collected [ $500 ]
+
+
+
+#Game No : 608522617
+***** 888poker Hand History for Game 608522617 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:27:25
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,795 )
+Seat 2: 22116gra ( $2,905 )
+Seat 3: bigfellasafc ( $2,000 )
+Seat 4: ninabaks ( $1,705 )
+Seat 5: DeeJennerIt ( $2,200 )
+Seat 6: mejiopd152 ( $2,955 )
+Seat 7: Lars232002 ( $2,470 )
+Seat 9: PapaShango19 ( $1,865 )
+Seat 10: Johmoraiz ( $6,015 )
+Lars232002 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 8h ]
+Johmoraiz folds
+SLSSV21 folds
+22116gra folds
+bigfellasafc calls [$200]
+ninabaks folds
+DeeJennerIt folds
+mejiopd152 calls [$200]
+Lars232002 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Ah, 9d, Ad ]
+Lars232002 bets [$400]
+PapaShango19 folds
+bigfellasafc calls [$400]
+mejiopd152 calls [$400]
+** Dealing turn ** [ Qs ]
+Lars232002 checks
+bigfellasafc bets [$1,400]
+mejiopd152 calls [$1,400]
+Lars232002 folds
+** Dealing river ** [ 6s ]
+** Summary **
+bigfellasafc shows [ Kc, 8c ]
+mejiopd152 shows [ 8d, Qd ]
+mejiopd152 collected [ $4,800 ]
+
+
+
+#Game No : 608523769
+***** 888poker Hand History for Game 608523769 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:28:25
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,795 )
+Seat 2: 22116gra ( $2,905 )
+Seat 3: Siltins ( $2,000 )
+Seat 4: ninabaks ( $1,705 )
+Seat 5: DeeJennerIt ( $2,200 )
+Seat 6: mejiopd152 ( $5,755 )
+Seat 7: Lars232002 ( $1,870 )
+Seat 9: PapaShango19 ( $1,665 )
+Seat 10: Johmoraiz ( $6,015 )
+DeeJennerIt posts ante [$25]
+mejiopd152 posts ante [$25]
+Lars232002 posts ante [$25]
+Johmoraiz posts ante [$25]
+SLSSV21 posts ante [$25]
+22116gra posts ante [$25]
+PapaShango19 posts ante [$25]
+ninabaks posts ante [$25]
+Siltins posts ante [$25]
+PapaShango19 posts small blind [$100]
+Johmoraiz posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Kh ]
+SLSSV21 folds
+22116gra raises [$2,880]
+Siltins calls [$1,975]
+ninabaks folds
+DeeJennerIt folds
+mejiopd152 folds
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz folds
+** Dealing flop ** [ Jc, 5d, Ks ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 4h ]
+** Summary **
+22116gra shows [ 2d, 2h ]
+Siltins shows [ Ad, Jd ]
+Siltins collected [ $4,475 ]
+
+
+
+#Game No : 608524617
+***** 888poker Hand History for Game 608524617 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:29:11
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,770 )
+Seat 2: 22116gra ( $905 )
+Seat 3: Siltins ( $4,475 )
+Seat 4: ninabaks ( $1,680 )
+Seat 5: DeeJennerIt ( $2,175 )
+Seat 6: mejiopd152 ( $5,730 )
+Seat 7: Lars232002 ( $1,845 )
+Seat 9: PapaShango19 ( $1,540 )
+Seat 10: Johmoraiz ( $5,790 )
+DeeJennerIt posts ante [$25]
+mejiopd152 posts ante [$25]
+Lars232002 posts ante [$25]
+Johmoraiz posts ante [$25]
+SLSSV21 posts ante [$25]
+22116gra posts ante [$25]
+PapaShango19 posts ante [$25]
+ninabaks posts ante [$25]
+Siltins posts ante [$25]
+Johmoraiz posts small blind [$100]
+SLSSV21 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Jc ]
+22116gra raises [$880]
+Siltins folds
+ninabaks folds
+DeeJennerIt folds
+mejiopd152 calls [$880]
+Lars232002 raises [$1,820]
+PapaShango19 folds
+Johmoraiz folds
+SLSSV21 folds
+mejiopd152 calls [$940]
+** Dealing flop ** [ 4d, 3s, 4s ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Ah ]
+** Summary **
+22116gra shows [ 2d, 4h ]
+mejiopd152 shows [ Qd, Js ]
+Lars232002 shows [ Ac, Th ]
+22116gra collected [ $3,165 ]
+Lars232002 collected [ $1,880 ]
+
+
+
+#Game No : 608525503
+***** 888poker Hand History for Game 608525503 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:30:02
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,545 )
+Seat 2: 22116gra ( $3,165 )
+Seat 3: Siltins ( $4,450 )
+Seat 4: ninabaks ( $1,655 )
+Seat 5: DeeJennerIt ( $2,150 )
+Seat 6: mejiopd152 ( $3,885 )
+Seat 7: Lars232002 ( $1,880 )
+Seat 9: PapaShango19 ( $1,515 )
+Seat 10: Johmoraiz ( $5,665 )
+DeeJennerIt posts ante [$25]
+mejiopd152 posts ante [$25]
+Lars232002 posts ante [$25]
+Johmoraiz posts ante [$25]
+SLSSV21 posts ante [$25]
+22116gra posts ante [$25]
+PapaShango19 posts ante [$25]
+ninabaks posts ante [$25]
+Siltins posts ante [$25]
+SLSSV21 posts small blind [$100]
+22116gra posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 6s ]
+Siltins folds
+ninabaks folds
+DeeJennerIt calls [$200]
+mejiopd152 folds
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz folds
+SLSSV21 folds
+22116gra checks
+** Dealing flop ** [ Qd, 2c, 2h ]
+22116gra checks
+DeeJennerIt checks
+** Dealing turn ** [ 6c ]
+22116gra checks
+DeeJennerIt bets [$200]
+22116gra calls [$200]
+** Dealing river ** [ Ac ]
+22116gra checks
+DeeJennerIt bets [$200]
+22116gra calls [$200]
+** Summary **
+DeeJennerIt shows [ Jd, Qc ]
+22116gra mucks [ Kh, 6d ]
+DeeJennerIt collected [ $1,525 ]
+
+
+
+#Game No : 608526590
+***** 888poker Hand History for Game 608526590 *****
+$100/$200 Blinds No Limit Holdem - *** 15 12 2014 23:31:06
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,420 )
+Seat 2: 22116gra ( $2,540 )
+Seat 3: Siltins ( $4,425 )
+Seat 4: ninabaks ( $1,630 )
+Seat 5: DeeJennerIt ( $3,050 )
+Seat 6: mejiopd152 ( $3,860 )
+Seat 7: Lars232002 ( $1,855 )
+Seat 9: PapaShango19 ( $1,490 )
+Seat 10: Johmoraiz ( $5,640 )
+DeeJennerIt posts ante [$25]
+mejiopd152 posts ante [$25]
+Lars232002 posts ante [$25]
+Johmoraiz posts ante [$25]
+SLSSV21 posts ante [$25]
+22116gra posts ante [$25]
+PapaShango19 posts ante [$25]
+ninabaks posts ante [$25]
+Siltins posts ante [$25]
+22116gra posts small blind [$100]
+Siltins posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 3s ]
+ninabaks folds
+DeeJennerIt folds
+mejiopd152 folds
+Lars232002 folds
+PapaShango19 folds
+Johmoraiz calls [$200]
+SLSSV21 folds
+22116gra raises [$2,415]
+Siltins folds
+Johmoraiz folds
+** Summary **
+22116gra did not show his hand
+22116gra collected [ $825 ]
+
+
+
+#Game No : 608527519
+***** 888poker Hand History for Game 608527519 *****
+$125/$250 Blinds No Limit Holdem - *** 15 12 2014 23:32:05
+Tournament #64380542 Free - Table #676 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SLSSV21 ( $1,395 )
+Seat 2: 22116gra ( $3,140 )
+Seat 3: Siltins ( $4,200 )
+Seat 4: ninabaks ( $1,605 )
+Seat 5: DeeJennerIt ( $3,025 )
+Seat 6: mejiopd152 ( $3,835 )
+Seat 7: Lars232002 ( $1,830 )
+Seat 9: PapaShango19 ( $1,465 )
+Seat 10: Johmoraiz ( $5,415 )
+DeeJennerIt posts ante [$30]
+mejiopd152 posts ante [$30]
+Lars232002 posts ante [$30]
+Johmoraiz posts ante [$30]
+SLSSV21 posts ante [$30]
+22116gra posts ante [$30]
+PapaShango19 posts ante [$30]
+ninabaks posts ante [$30]
+Siltins posts ante [$30]
+Siltins posts small blind [$125]
+ninabaks posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Qd ]
+DeeJennerIt calls [$250]
+mejiopd152 folds
+Lars232002 raises [$1,800]
+PapaShango19 calls [$1,435]
+Johmoraiz folds
+SLSSV21 folds
+22116gra folds
+Siltins folds
+ninabaks folds
+DeeJennerIt folds
+** Dealing flop ** [ Ks, 2s, Ac ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 7s ]
+** Summary **
+Lars232002 shows [ 2d, 2h ]
+PapaShango19 shows [ As, Qd ]
+Lars232002 collected [ $3,765 ]
+
+
+

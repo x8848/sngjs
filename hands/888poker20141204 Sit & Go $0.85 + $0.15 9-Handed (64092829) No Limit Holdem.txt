@@ -1,0 +1,698 @@
+#Game No : 699257471
+***** 888poker Hand History for Game 699257471 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:14:32
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,500 )
+Seat 3: Bababoo67 ( $1,500 )
+Seat 4: ALEXEY339 ( $1,500 )
+Seat 5: pysichka26 ( $1,500 )
+Seat 6: Tweedpete ( $1,500 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: Nothinglz ( $1,500 )
+Seat 10: oren56 ( $1,500 )
+sens_ey posts small blind [$10]
+Bababoo67 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Th ]
+ALEXEY339 folds
+pysichka26 folds
+Tweedpete folds
+PapaShango19 folds
+Nothinglz raises [$80]
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 folds
+** Summary **
+Nothinglz did not show his hand
+Nothinglz collected [ $50 ]
+
+
+
+#Game No : 699257608
+***** 888poker Hand History for Game 699257608 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:15:09
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,480 )
+Seat 4: ALEXEY339 ( $1,500 )
+Seat 5: pysichka26 ( $1,500 )
+Seat 6: Tweedpete ( $1,500 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: Nothinglz ( $1,530 )
+Seat 10: oren56 ( $1,500 )
+Bababoo67 posts small blind [$10]
+ALEXEY339 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 5h ]
+pysichka26 raises [$80]
+Tweedpete calls [$80]
+PapaShango19 folds
+Nothinglz calls [$80]
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 calls [$70]
+ALEXEY339 folds
+** Dealing flop ** [ Kd, 4c, 2d ]
+Bababoo67 checks
+pysichka26 checks
+Tweedpete checks
+Nothinglz bets [$100]
+Bababoo67 folds
+pysichka26 folds
+Tweedpete folds
+** Summary **
+Nothinglz did not show his hand
+Nothinglz collected [ $340 ]
+
+
+
+#Game No : 699257889
+***** 888poker Hand History for Game 699257889 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:16:36
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,400 )
+Seat 4: ALEXEY339 ( $1,480 )
+Seat 5: pysichka26 ( $1,420 )
+Seat 6: Tweedpete ( $1,420 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: Nothinglz ( $1,790 )
+Seat 10: oren56 ( $1,500 )
+ALEXEY339 posts small blind [$10]
+pysichka26 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2c ]
+Tweedpete raises [$40]
+PapaShango19 folds
+Nothinglz folds
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 calls [$40]
+ALEXEY339 calls [$30]
+pysichka26 calls [$20]
+** Dealing flop ** [ 5d, 4s, Jd ]
+ALEXEY339 bets [$20]
+pysichka26 calls [$20]
+Tweedpete calls [$20]
+Bababoo67 calls [$20]
+** Dealing turn ** [ Qd ]
+ALEXEY339 bets [$20]
+pysichka26 folds
+Tweedpete calls [$20]
+Bababoo67 calls [$20]
+** Dealing river ** [ Qc ]
+ALEXEY339 bets [$20]
+Tweedpete calls [$20]
+Bababoo67 folds
+** Summary **
+ALEXEY339 shows [ Ad, 7h ]
+Tweedpete shows [ Td, Ac ]
+Tweedpete collected [ $340 ]
+
+
+
+#Game No : 699258274
+***** 888poker Hand History for Game 699258274 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:18:52
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,320 )
+Seat 4: ALEXEY339 ( $1,380 )
+Seat 5: pysichka26 ( $1,360 )
+Seat 6: Tweedpete ( $1,660 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: Nothinglz ( $1,790 )
+Seat 10: oren56 ( $1,500 )
+pysichka26 posts small blind [$10]
+Tweedpete posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 9d ]
+PapaShango19 folds
+Nothinglz folds
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 folds
+ALEXEY339 raises [$40]
+pysichka26 folds
+Tweedpete calls [$20]
+** Dealing flop ** [ As, 4s, 9c ]
+Tweedpete bets [$20]
+ALEXEY339 calls [$20]
+** Dealing turn ** [ Ad ]
+Tweedpete bets [$80]
+ALEXEY339 folds
+** Summary **
+Tweedpete did not show his hand
+Tweedpete collected [ $130 ]
+
+
+
+#Game No : 699258395
+***** 888poker Hand History for Game 699258395 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:19:40
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,320 )
+Seat 4: ALEXEY339 ( $1,320 )
+Seat 5: pysichka26 ( $1,350 )
+Seat 6: Tweedpete ( $1,730 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: Nothinglz ( $1,790 )
+Seat 10: oren56 ( $1,500 )
+Tweedpete posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 5h ]
+Nothinglz raises [$60]
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 calls [$60]
+ALEXEY339 raises [$100]
+pysichka26 folds
+Tweedpete calls [$90]
+PapaShango19 folds
+Nothinglz calls [$40]
+Bababoo67 calls [$40]
+** Dealing flop ** [ 2d, Qs, 4s ]
+Tweedpete bets [$20]
+Nothinglz calls [$20]
+Bababoo67 folds
+ALEXEY339 calls [$20]
+** Dealing turn ** [ 3s ]
+Tweedpete checks
+Nothinglz bets [$480]
+ALEXEY339 folds
+Tweedpete calls [$480]
+** Dealing river ** [ Td ]
+Tweedpete checks
+Nothinglz checks
+** Summary **
+Tweedpete shows [ Ks, 4h ]
+Nothinglz shows [ As, 5c ]
+Nothinglz collected [ $1,440 ]
+
+
+
+#Game No : 699258639
+***** 888poker Hand History for Game 699258639 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:21:09
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,220 )
+Seat 4: ALEXEY339 ( $1,200 )
+Seat 5: pysichka26 ( $1,350 )
+Seat 6: Tweedpete ( $1,130 )
+Seat 7: PapaShango19 ( $1,480 )
+Seat 9: Nothinglz ( $2,630 )
+Seat 10: oren56 ( $1,500 )
+PapaShango19 posts small blind [$10]
+Nothinglz posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Kh ]
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 folds
+ALEXEY339 raises [$100]
+pysichka26 folds
+Tweedpete folds
+PapaShango19 folds
+Nothinglz calls [$80]
+** Dealing flop ** [ 7s, 6d, 4h ]
+Nothinglz checks
+ALEXEY339 bets [$120]
+Nothinglz folds
+** Summary **
+ALEXEY339 did not show his hand
+ALEXEY339 collected [ $210 ]
+
+
+
+#Game No : 699258811
+***** 888poker Hand History for Game 699258811 *****
+$10/$20 Blinds No Limit Holdem - *** 04 12 2014 12:22:03
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,220 )
+Seat 4: ALEXEY339 ( $1,310 )
+Seat 5: pysichka26 ( $1,350 )
+Seat 6: Tweedpete ( $1,130 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $2,530 )
+Seat 10: oren56 ( $1,500 )
+Nothinglz posts small blind [$10]
+oren56 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Ah ]
+retarusis14 folds
+sens_ey folds
+Bababoo67 folds
+ALEXEY339 raises [$100]
+pysichka26 folds
+Tweedpete folds
+PapaShango19 folds
+Nothinglz raises [$290]
+oren56 folds
+ALEXEY339 calls [$200]
+** Dealing flop ** [ 6h, Qd, 4s ]
+Nothinglz checks
+ALEXEY339 bets [$400]
+Nothinglz calls [$400]
+** Dealing turn ** [ Ks ]
+Nothinglz checks
+ALEXEY339 bets [$610]
+Nothinglz folds
+** Summary **
+ALEXEY339 did not show his hand
+ALEXEY339 collected [ $1,420 ]
+
+
+
+#Game No : 699259067
+***** 888poker Hand History for Game 699259067 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:23:27
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,500 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,220 )
+Seat 4: ALEXEY339 ( $2,030 )
+Seat 5: pysichka26 ( $1,350 )
+Seat 6: Tweedpete ( $1,130 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $1,830 )
+Seat 10: oren56 ( $1,480 )
+oren56 posts small blind [$15]
+retarusis14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 7d ]
+sens_ey folds
+Bababoo67 folds
+ALEXEY339 raises [$120]
+pysichka26 calls [$120]
+Tweedpete calls [$120]
+PapaShango19 folds
+Nothinglz folds
+oren56 calls [$105]
+retarusis14 folds
+** Dealing flop ** [ Kh, Ad, 6d ]
+oren56 checks
+ALEXEY339 bets [$90]
+pysichka26 calls [$90]
+Tweedpete calls [$90]
+oren56 calls [$90]
+** Dealing turn ** [ 5s ]
+oren56 checks
+ALEXEY339 bets [$90]
+pysichka26 raises [$1,140]
+Tweedpete folds
+oren56 folds
+ALEXEY339 calls [$1,050]
+** Dealing river ** [ 8c ]
+** Summary **
+ALEXEY339 shows [ Ts, Ac ]
+pysichka26 shows [ 5c, 6c ]
+pysichka26 collected [ $3,150 ]
+
+
+
+#Game No : 699259398
+***** 888poker Hand History for Game 699259398 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:25:17
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,470 )
+Seat 2: sens_ey ( $1,490 )
+Seat 3: Bababoo67 ( $1,220 )
+Seat 4: ALEXEY339 ( $680 )
+Seat 5: pysichka26 ( $3,150 )
+Seat 6: Tweedpete ( $920 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $1,830 )
+Seat 10: oren56 ( $1,270 )
+retarusis14 posts small blind [$15]
+sens_ey posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Td ]
+Bababoo67 folds
+ALEXEY339 calls [$30]
+pysichka26 folds
+Tweedpete folds
+PapaShango19 folds
+Nothinglz folds
+oren56 folds
+retarusis14 folds
+sens_ey checks
+** Dealing flop ** [ 4c, 6h, 6c ]
+sens_ey checks
+ALEXEY339 checks
+** Dealing turn ** [ 6d ]
+sens_ey checks
+ALEXEY339 checks
+** Dealing river ** [ 3h ]
+sens_ey checks
+ALEXEY339 bets [$630]
+sens_ey folds
+** Summary **
+ALEXEY339 did not show his hand
+ALEXEY339 collected [ $75 ]
+
+
+
+#Game No : 699259558
+***** 888poker Hand History for Game 699259558 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:26:06
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,455 )
+Seat 2: sens_ey ( $1,460 )
+Seat 3: Bababoo67 ( $1,220 )
+Seat 4: ALEXEY339 ( $725 )
+Seat 5: pysichka26 ( $3,150 )
+Seat 6: Tweedpete ( $920 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $1,830 )
+Seat 10: oren56 ( $1,270 )
+sens_ey posts small blind [$15]
+Bababoo67 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Ad ]
+ALEXEY339 calls [$30]
+pysichka26 folds
+Tweedpete calls [$30]
+PapaShango19 folds
+Nothinglz folds
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 checks
+** Dealing flop ** [ Js, Kc, 7h ]
+Bababoo67 checks
+ALEXEY339 bets [$695]
+Tweedpete raises [$890]
+Bababoo67 folds
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Qd ]
+** Summary **
+ALEXEY339 shows [ Qs, Tc ]
+Tweedpete shows [ Ks, 4s ]
+ALEXEY339 collected [ $1,495 ]
+
+
+
+#Game No : 699259698
+***** 888poker Hand History for Game 699259698 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:26:50
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,455 )
+Seat 2: sens_ey ( $1,445 )
+Seat 3: Bababoo67 ( $1,190 )
+Seat 4: ALEXEY339 ( $1,495 )
+Seat 5: pysichka26 ( $3,150 )
+Seat 6: Tweedpete ( $195 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $1,830 )
+Seat 10: oren56 ( $1,270 )
+Bababoo67 posts small blind [$15]
+ALEXEY339 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5d ]
+pysichka26 folds
+Tweedpete calls [$30]
+PapaShango19 folds
+Nothinglz calls [$30]
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 folds
+ALEXEY339 checks
+** Dealing flop ** [ 8c, Kc, 2d ]
+ALEXEY339 bets [$30]
+Tweedpete raises [$165]
+Nothinglz folds
+ALEXEY339 calls [$135]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 7h ]
+** Summary **
+ALEXEY339 shows [ Th, Qd ]
+Tweedpete shows [ Ks, 4d ]
+Tweedpete collected [ $435 ]
+
+
+
+#Game No : 699259851
+***** 888poker Hand History for Game 699259851 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:27:41
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,455 )
+Seat 2: sens_ey ( $1,445 )
+Seat 3: Bababoo67 ( $1,175 )
+Seat 4: ALEXEY339 ( $1,300 )
+Seat 5: pysichka26 ( $3,150 )
+Seat 6: Tweedpete ( $435 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $1,800 )
+Seat 10: oren56 ( $1,270 )
+ALEXEY339 posts small blind [$15]
+pysichka26 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6d ]
+Tweedpete calls [$30]
+PapaShango19 folds
+Nothinglz raises [$100]
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 calls [$100]
+ALEXEY339 calls [$85]
+pysichka26 calls [$70]
+Tweedpete calls [$70]
+** Dealing flop ** [ Td, 5h, Ts ]
+ALEXEY339 checks
+pysichka26 folds
+Tweedpete checks
+Nothinglz checks
+Bababoo67 checks
+** Dealing turn ** [ Ac ]
+ALEXEY339 checks
+Tweedpete checks
+Nothinglz bets [$50]
+Bababoo67 calls [$50]
+ALEXEY339 calls [$50]
+Tweedpete folds
+** Dealing river ** [ 8d ]
+ALEXEY339 bets [$30]
+Nothinglz calls [$30]
+Bababoo67 calls [$30]
+** Summary **
+ALEXEY339 shows [ Jc, 5s ]
+Nothinglz mucks [ 3d, 3s ]
+Bababoo67 mucks [ Qc, Kh ]
+ALEXEY339 collected [ $740 ]
+
+
+
+#Game No : 699260132
+***** 888poker Hand History for Game 699260132 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:29:25
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,455 )
+Seat 2: sens_ey ( $1,445 )
+Seat 3: Bababoo67 ( $995 )
+Seat 4: ALEXEY339 ( $1,860 )
+Seat 5: pysichka26 ( $3,050 )
+Seat 6: Tweedpete ( $335 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $1,620 )
+Seat 10: oren56 ( $1,270 )
+pysichka26 posts small blind [$15]
+Tweedpete posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Ts ]
+PapaShango19 folds
+Nothinglz folds
+oren56 folds
+retarusis14 raises [$90]
+sens_ey folds
+Bababoo67 folds
+ALEXEY339 calls [$90]
+pysichka26 folds
+Tweedpete folds
+** Dealing flop ** [ 9c, 8c, As ]
+retarusis14 bets [$120]
+ALEXEY339 calls [$120]
+** Dealing turn ** [ 2c ]
+retarusis14 checks
+ALEXEY339 checks
+** Dealing river ** [ 7h ]
+retarusis14 bets [$240]
+ALEXEY339 calls [$240]
+** Summary **
+retarusis14 shows [ Th, Ad ]
+ALEXEY339 mucks [ Ks, 8d ]
+retarusis14 collected [ $945 ]
+
+
+
+#Game No : 699260257
+***** 888poker Hand History for Game 699260257 *****
+$15/$30 Blinds No Limit Holdem - *** 04 12 2014 12:30:08
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,950 )
+Seat 2: sens_ey ( $1,445 )
+Seat 3: Bababoo67 ( $995 )
+Seat 4: ALEXEY339 ( $1,410 )
+Seat 5: pysichka26 ( $3,035 )
+Seat 6: Tweedpete ( $305 )
+Seat 7: PapaShango19 ( $1,470 )
+Seat 9: Nothinglz ( $1,620 )
+Seat 10: oren56 ( $1,270 )
+Tweedpete posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4c ]
+Nothinglz calls [$30]
+oren56 folds
+retarusis14 folds
+sens_ey folds
+Bababoo67 raises [$995]
+ALEXEY339 calls [$995]
+pysichka26 folds
+Tweedpete folds
+PapaShango19 folds
+Nothinglz folds
+** Dealing flop ** [ 5h, 6h, Tc ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 7c ]
+** Summary **
+Bababoo67 shows [ 5s, 5c ]
+ALEXEY339 shows [ Ks, Ac ]
+Bababoo67 collected [ $2,065 ]
+
+
+
+#Game No : 699260452
+***** 888poker Hand History for Game 699260452 *****
+$25/$50 Blinds No Limit Holdem - *** 04 12 2014 12:31:07
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: retarusis14 ( $1,950 )
+Seat 2: sens_ey ( $1,445 )
+Seat 3: Bababoo67 ( $2,065 )
+Seat 4: ALEXEY339 ( $415 )
+Seat 5: pysichka26 ( $3,035 )
+Seat 6: Tweedpete ( $290 )
+Seat 7: PapaShango19 ( $1,440 )
+Seat 9: Nothinglz ( $1,590 )
+Seat 10: oren56 ( $1,270 )
+PapaShango19 posts small blind [$25]
+Nothinglz posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6c ]
+oren56 calls [$50]
+retarusis14 folds
+sens_ey folds
+Bababoo67 folds
+ALEXEY339 calls [$50]
+pysichka26 folds
+Tweedpete folds
+PapaShango19 calls [$25]
+Nothinglz checks
+** Dealing flop ** [ Ad, Kd, 9c ]
+PapaShango19 checks
+Nothinglz checks
+oren56 bets [$100]
+ALEXEY339 raises [$365]
+PapaShango19 folds
+Nothinglz folds
+oren56 calls [$265]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 4c ]
+** Summary **
+ALEXEY339 shows [ 3d, Ks ]
+oren56 shows [ 9s, 9d ]
+oren56 collected [ $930 ]
+
+
+
+#Game No : 699260673
+***** 888poker Hand History for Game 699260673 *****
+$25/$50 Blinds No Limit Holdem - *** 04 12 2014 12:32:08
+Tournament #64092829 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: retarusis14 ( $1,950 )
+Seat 2: sens_ey ( $1,445 )
+Seat 3: Bababoo67 ( $2,065 )
+Seat 5: pysichka26 ( $3,035 )
+Seat 6: Tweedpete ( $290 )
+Seat 7: PapaShango19 ( $1,390 )
+Seat 9: Nothinglz ( $1,540 )
+Seat 10: oren56 ( $1,785 )
+Nothinglz posts small blind [$25]
+oren56 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Jd ]
+retarusis14 folds
+sens_ey folds
+Bababoo67 folds
+pysichka26 folds
+Tweedpete folds
+PapaShango19 raises [$150]
+Nothinglz calls [$125]
+oren56 calls [$100]
+** Dealing flop ** [ 2c, Js, 8s ]
+Nothinglz bets [$450]
+oren56 calls [$450]
+PapaShango19 raises [$1,240]
+Nothinglz raises [$940]
+oren56 calls [$940]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 3h ]
+** Summary **
+PapaShango19 shows [ Ah, Jd ]
+Nothinglz shows [ 8d, 8c ]
+oren56 shows [ 2h, 2s ]
+Nothinglz collected [ $4,170 ]
+Nothinglz collected [ $300 ]
+
+
+

@@ -1,0 +1,1226 @@
+#Game No : 486502483
+***** 888poker Hand History for Game 486502483 *****
+$10/$20 Blinds No Limit Holdem - *** 02 12 2014 17:45:18
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: Sugalsugador ( $4,000 )
+Seat 4: sergei010285 ( $2,000 )
+Seat 6: RogeerTaylor ( $4,000 )
+Seat 7: grlscantdriv ( $2,000 )
+Seat 9: Halikopter ( $2,000 )
+Halikopter posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 5c ]
+Sugalsugador raises [$52]
+sergei010285 folds
+RogeerTaylor calls [$52]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 calls [$32]
+** Dealing flop ** [ Ks, Th, Ah ]
+PapaShango19 checks
+Sugalsugador bets [$124]
+RogeerTaylor calls [$124]
+PapaShango19 folds
+** Dealing turn ** [ Ad ]
+Sugalsugador checks
+RogeerTaylor bets [$207]
+Sugalsugador folds
+** Summary **
+RogeerTaylor did not show his hand
+RogeerTaylor collected [ $414 ]
+
+
+
+#Game No : 486502738
+***** 888poker Hand History for Game 486502738 *****
+$10/$20 Blinds No Limit Holdem - *** 02 12 2014 17:46:19
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,948 )
+Seat 2: Sugalsugador ( $3,824 )
+Seat 4: sergei010285 ( $2,000 )
+Seat 6: RogeerTaylor ( $4,238 )
+Seat 7: grlscantdriv ( $2,000 )
+Seat 9: Halikopter ( $1,990 )
+PapaShango19 posts small blind [$10]
+Sugalsugador posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Jc ]
+sergei010285 folds
+RogeerTaylor calls [$20]
+grlscantdriv folds
+Halikopter calls [$20]
+PapaShango19 calls [$10]
+Sugalsugador checks
+** Dealing flop ** [ Qs, Qd, 4c ]
+PapaShango19 checks
+Sugalsugador checks
+RogeerTaylor checks
+Halikopter checks
+** Dealing turn ** [ 8d ]
+PapaShango19 checks
+Sugalsugador checks
+RogeerTaylor bets [$80]
+Halikopter calls [$80]
+PapaShango19 folds
+Sugalsugador folds
+** Dealing river ** [ Ad ]
+RogeerTaylor bets [$240]
+Halikopter calls [$240]
+** Summary **
+RogeerTaylor shows [ Jd, Td ]
+Halikopter mucks [ 8h, As ]
+RogeerTaylor collected [ $720 ]
+
+
+
+#Game No : 486503023
+***** 888poker Hand History for Game 486503023 *****
+$10/$20 Blinds No Limit Holdem - *** 02 12 2014 17:47:27
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,928 )
+Seat 2: Sugalsugador ( $3,804 )
+Seat 4: sergei010285 ( $2,000 )
+Seat 6: RogeerTaylor ( $4,618 )
+Seat 7: grlscantdriv ( $2,000 )
+Seat 9: Halikopter ( $1,650 )
+Sugalsugador posts small blind [$10]
+sergei010285 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Qh ]
+RogeerTaylor raises [$40]
+grlscantdriv folds
+Halikopter calls [$40]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$20]
+** Dealing flop ** [ 7s, 2c, 4h ]
+sergei010285 checks
+RogeerTaylor checks
+Halikopter checks
+** Dealing turn ** [ Tc ]
+sergei010285 checks
+RogeerTaylor checks
+Halikopter checks
+** Dealing river ** [ Kc ]
+sergei010285 checks
+RogeerTaylor checks
+Halikopter bets [$130]
+sergei010285 folds
+RogeerTaylor folds
+** Summary **
+Halikopter did not show his hand
+Halikopter collected [ $130 ]
+
+
+
+#Game No : 486503306
+***** 888poker Hand History for Game 486503306 *****
+$10/$20 Blinds No Limit Holdem - *** 02 12 2014 17:48:40
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,928 )
+Seat 2: Sugalsugador ( $3,794 )
+Seat 4: sergei010285 ( $1,960 )
+Seat 6: RogeerTaylor ( $4,578 )
+Seat 7: grlscantdriv ( $2,000 )
+Seat 9: Halikopter ( $1,740 )
+sergei010285 posts small blind [$10]
+RogeerTaylor posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Th ]
+grlscantdriv folds
+Halikopter calls [$20]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$10]
+RogeerTaylor checks
+** Dealing flop ** [ 2d, 5h, Td ]
+sergei010285 checks
+RogeerTaylor checks
+Halikopter checks
+** Dealing turn ** [ Js ]
+sergei010285 checks
+RogeerTaylor checks
+Halikopter checks
+** Dealing river ** [ Qc ]
+sergei010285 checks
+RogeerTaylor bets [$260]
+Halikopter folds
+sergei010285 folds
+** Summary **
+RogeerTaylor did not show his hand
+RogeerTaylor collected [ $60 ]
+
+
+
+#Game No : 486503585
+***** 888poker Hand History for Game 486503585 *****
+$10/$20 Blinds No Limit Holdem - *** 02 12 2014 17:49:44
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,928 )
+Seat 2: Sugalsugador ( $3,794 )
+Seat 4: sergei010285 ( $1,940 )
+Seat 6: RogeerTaylor ( $4,618 )
+Seat 7: grlscantdriv ( $2,000 )
+Seat 9: Halikopter ( $1,720 )
+RogeerTaylor posts small blind [$10]
+grlscantdriv posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Qs ]
+Halikopter folds
+PapaShango19 calls [$20]
+Sugalsugador folds
+sergei010285 calls [$20]
+RogeerTaylor raises [$4,608]
+grlscantdriv calls [$1,980]
+PapaShango19 folds
+sergei010285 folds
+** Dealing flop ** [ 5d, 4c, 5h ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ Kh ]
+** Summary **
+RogeerTaylor shows [ Ah, Th ]
+grlscantdriv shows [ Ac, Qc ]
+grlscantdriv collected [ $2,020 ]
+RogeerTaylor collected [ $2,020 ]
+
+
+
+#Game No : 486503766
+***** 888poker Hand History for Game 486503766 *****
+$10/$20 Blinds No Limit Holdem - *** 02 12 2014 17:50:27
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,908 )
+Seat 2: Sugalsugador ( $3,794 )
+Seat 4: sergei010285 ( $1,920 )
+Seat 6: RogeerTaylor ( $4,638 )
+Seat 7: grlscantdriv ( $2,020 )
+Seat 9: Halikopter ( $1,720 )
+grlscantdriv posts small blind [$10]
+Halikopter posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, As ]
+PapaShango19 calls [$20]
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor calls [$20]
+grlscantdriv folds
+Halikopter checks
+** Dealing flop ** [ Qc, Th, Qs ]
+Halikopter checks
+PapaShango19 checks
+RogeerTaylor checks
+** Dealing turn ** [ 8d ]
+Halikopter bets [$20]
+PapaShango19 folds
+RogeerTaylor folds
+** Summary **
+Halikopter did not show his hand
+Halikopter collected [ $70 ]
+
+
+
+#Game No : 486504003
+***** 888poker Hand History for Game 486504003 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 17:51:18
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,888 )
+Seat 2: Sugalsugador ( $3,794 )
+Seat 4: sergei010285 ( $1,920 )
+Seat 6: RogeerTaylor ( $4,618 )
+Seat 7: grlscantdriv ( $2,010 )
+Seat 9: Halikopter ( $1,770 )
+Halikopter posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Th ]
+Sugalsugador folds
+sergei010285 calls [$30]
+RogeerTaylor calls [$30]
+grlscantdriv folds
+Halikopter calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 8d, 7h, 4c ]
+Halikopter checks
+PapaShango19 checks
+sergei010285 checks
+RogeerTaylor checks
+** Dealing turn ** [ 3s ]
+Halikopter checks
+PapaShango19 checks
+sergei010285 checks
+RogeerTaylor checks
+** Dealing river ** [ Td ]
+Halikopter checks
+PapaShango19 checks
+sergei010285 checks
+RogeerTaylor bets [$120]
+Halikopter folds
+PapaShango19 calls [$120]
+sergei010285 folds
+** Summary **
+RogeerTaylor shows [ Tc, 9h ]
+PapaShango19 shows [ 4s, Th ]
+PapaShango19 collected [ $360 ]
+
+
+
+#Game No : 486504378
+***** 888poker Hand History for Game 486504378 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 17:52:40
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,098 )
+Seat 2: Sugalsugador ( $3,794 )
+Seat 4: sergei010285 ( $1,890 )
+Seat 6: RogeerTaylor ( $4,468 )
+Seat 7: grlscantdriv ( $2,010 )
+Seat 9: Halikopter ( $1,740 )
+PapaShango19 posts small blind [$15]
+Sugalsugador posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Kd ]
+sergei010285 calls [$30]
+RogeerTaylor folds
+grlscantdriv raises [$90]
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$60]
+** Dealing flop ** [ Jh, Qs, 9d ]
+sergei010285 checks
+grlscantdriv bets [$112]
+sergei010285 calls [$112]
+** Dealing turn ** [ Kc ]
+sergei010285 checks
+grlscantdriv checks
+** Dealing river ** [ As ]
+sergei010285 checks
+grlscantdriv bets [$449]
+sergei010285 folds
+** Summary **
+grlscantdriv did not show his hand
+grlscantdriv collected [ $449 ]
+
+
+
+#Game No : 486504720
+***** 888poker Hand History for Game 486504720 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 17:53:53
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,083 )
+Seat 2: Sugalsugador ( $3,764 )
+Seat 4: sergei010285 ( $1,688 )
+Seat 6: RogeerTaylor ( $4,468 )
+Seat 7: grlscantdriv ( $2,257 )
+Seat 9: Halikopter ( $1,740 )
+Sugalsugador posts small blind [$15]
+sergei010285 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Jh ]
+RogeerTaylor folds
+grlscantdriv folds
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+** Summary **
+sergei010285 did not show his hand
+sergei010285 collected [ $45 ]
+
+
+
+#Game No : 486504813
+***** 888poker Hand History for Game 486504813 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 17:54:10
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,083 )
+Seat 2: Sugalsugador ( $3,749 )
+Seat 4: sergei010285 ( $1,703 )
+Seat 6: RogeerTaylor ( $4,468 )
+Seat 7: grlscantdriv ( $2,257 )
+Seat 9: Halikopter ( $1,740 )
+sergei010285 posts small blind [$15]
+RogeerTaylor posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Qc ]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 raises [$90]
+Sugalsugador folds
+sergei010285 calls [$75]
+RogeerTaylor calls [$60]
+** Dealing flop ** [ 3c, 9h, 7d ]
+sergei010285 checks
+RogeerTaylor checks
+PapaShango19 bets [$270]
+sergei010285 folds
+RogeerTaylor folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $270 ]
+
+
+
+#Game No : 486504973
+***** 888poker Hand History for Game 486504973 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 17:54:51
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,263 )
+Seat 2: Sugalsugador ( $3,749 )
+Seat 4: sergei010285 ( $1,613 )
+Seat 6: RogeerTaylor ( $4,378 )
+Seat 7: grlscantdriv ( $2,257 )
+Seat 9: Halikopter ( $1,740 )
+RogeerTaylor posts small blind [$15]
+grlscantdriv posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ad ]
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$30]
+RogeerTaylor folds
+grlscantdriv checks
+** Dealing flop ** [ 9c, Jh, 7c ]
+grlscantdriv checks
+sergei010285 checks
+** Dealing turn ** [ 6c ]
+grlscantdriv checks
+sergei010285 bets [$30]
+grlscantdriv calls [$30]
+** Dealing river ** [ 8h ]
+grlscantdriv bets [$101]
+sergei010285 calls [$101]
+** Summary **
+grlscantdriv shows [ 5c, Th ]
+sergei010285 mucks [ Qc, 9d ]
+grlscantdriv collected [ $337 ]
+
+
+
+#Game No : 486505951
+***** 888poker Hand History for Game 486505951 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 17:59:59
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,263 )
+Seat 2: Sugalsugador ( $3,749 )
+Seat 4: sergei010285 ( $1,452 )
+Seat 6: RogeerTaylor ( $4,363 )
+Seat 7: grlscantdriv ( $2,433 )
+Seat 9: Halikopter ( $1,740 )
+grlscantdriv posts small blind [$15]
+Halikopter posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Kd ]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor folds
+grlscantdriv folds
+** Summary **
+Halikopter did not show his hand
+Halikopter collected [ $45 ]
+
+
+
+#Game No : 486506080
+***** 888poker Hand History for Game 486506080 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 18:00:31
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,263 )
+Seat 2: Sugalsugador ( $3,749 )
+Seat 4: sergei010285 ( $1,452 )
+Seat 6: RogeerTaylor ( $4,363 )
+Seat 7: grlscantdriv ( $2,418 )
+Seat 9: Halikopter ( $1,755 )
+Halikopter posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 9s ]
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor folds
+grlscantdriv raises [$90]
+Halikopter folds
+PapaShango19 folds
+** Summary **
+grlscantdriv did not show his hand
+grlscantdriv collected [ $75 ]
+
+
+
+#Game No : 486506198
+***** 888poker Hand History for Game 486506198 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 18:00:57
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,233 )
+Seat 2: Sugalsugador ( $3,749 )
+Seat 4: sergei010285 ( $1,452 )
+Seat 6: RogeerTaylor ( $4,363 )
+Seat 7: grlscantdriv ( $2,463 )
+Seat 9: Halikopter ( $1,740 )
+PapaShango19 posts small blind [$15]
+Sugalsugador posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 5d ]
+sergei010285 folds
+RogeerTaylor raises [$105]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 folds
+Sugalsugador calls [$75]
+** Dealing flop ** [ Ks, 5s, As ]
+Sugalsugador checks
+RogeerTaylor bets [$112]
+Sugalsugador raises [$224]
+RogeerTaylor calls [$112]
+** Dealing turn ** [ Kh ]
+Sugalsugador checks
+RogeerTaylor checks
+** Dealing river ** [ 2c ]
+Sugalsugador bets [$673]
+RogeerTaylor folds
+** Summary **
+Sugalsugador did not show his hand
+Sugalsugador collected [ $673 ]
+
+
+
+#Game No : 486506518
+***** 888poker Hand History for Game 486506518 *****
+$15/$30 Blinds No Limit Holdem - *** 02 12 2014 18:02:12
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,218 )
+Seat 2: Sugalsugador ( $4,093 )
+Seat 4: sergei010285 ( $1,452 )
+Seat 6: RogeerTaylor ( $4,034 )
+Seat 7: grlscantdriv ( $2,463 )
+Seat 9: Halikopter ( $1,740 )
+Sugalsugador posts small blind [$15]
+sergei010285 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 9c ]
+RogeerTaylor folds
+grlscantdriv raises [$90]
+Halikopter folds
+PapaShango19 calls [$90]
+Sugalsugador calls [$75]
+sergei010285 folds
+** Dealing flop ** [ 4d, Qc, Ts ]
+Sugalsugador bets [$225]
+grlscantdriv calls [$225]
+PapaShango19 folds
+** Dealing turn ** [ 2s ]
+Sugalsugador checks
+grlscantdriv checks
+** Dealing river ** [ 3d ]
+Sugalsugador bets [$750]
+grlscantdriv folds
+** Summary **
+Sugalsugador did not show his hand
+Sugalsugador collected [ $750 ]
+
+
+
+#Game No : 486506784
+***** 888poker Hand History for Game 486506784 *****
+$25/$50 Blinds No Limit Holdem - *** 02 12 2014 18:03:09
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,128 )
+Seat 2: Sugalsugador ( $4,528 )
+Seat 4: sergei010285 ( $1,422 )
+Seat 6: RogeerTaylor ( $4,034 )
+Seat 7: grlscantdriv ( $2,148 )
+Seat 9: Halikopter ( $1,740 )
+sergei010285 posts small blind [$25]
+RogeerTaylor posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 5c ]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$25]
+RogeerTaylor checks
+** Dealing flop ** [ 6d, Jh, Ad ]
+sergei010285 checks
+RogeerTaylor bets [$50]
+sergei010285 folds
+** Summary **
+RogeerTaylor did not show his hand
+RogeerTaylor collected [ $100 ]
+
+
+
+#Game No : 486506981
+***** 888poker Hand History for Game 486506981 *****
+$25/$50 Blinds No Limit Holdem - *** 02 12 2014 18:03:56
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,128 )
+Seat 2: Sugalsugador ( $4,528 )
+Seat 4: sergei010285 ( $1,372 )
+Seat 6: RogeerTaylor ( $4,084 )
+Seat 7: grlscantdriv ( $2,148 )
+Seat 9: Halikopter ( $1,740 )
+RogeerTaylor posts small blind [$25]
+grlscantdriv posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 5h ]
+Halikopter raises [$100]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor folds
+grlscantdriv calls [$50]
+** Dealing flop ** [ 6d, 4c, 6c ]
+grlscantdriv checks
+Halikopter bets [$225]
+grlscantdriv folds
+** Summary **
+Halikopter did not show his hand
+Halikopter collected [ $225 ]
+
+
+
+#Game No : 486507176
+***** 888poker Hand History for Game 486507176 *****
+$25/$50 Blinds No Limit Holdem - *** 02 12 2014 18:04:31
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,128 )
+Seat 2: Sugalsugador ( $4,528 )
+Seat 4: sergei010285 ( $1,372 )
+Seat 6: RogeerTaylor ( $4,059 )
+Seat 7: grlscantdriv ( $2,048 )
+Seat 9: Halikopter ( $1,865 )
+grlscantdriv posts small blind [$25]
+Halikopter posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 8c ]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$50]
+RogeerTaylor folds
+grlscantdriv folds
+Halikopter checks
+** Dealing flop ** [ Kc, 5s, 3d ]
+Halikopter checks
+sergei010285 checks
+** Dealing turn ** [ Js ]
+Halikopter bets [$62]
+sergei010285 calls [$62]
+** Dealing river ** [ 7h ]
+Halikopter checks
+sergei010285 bets [$150]
+Halikopter folds
+** Summary **
+sergei010285 did not show his hand
+sergei010285 collected [ $249 ]
+
+
+
+#Game No : 486507411
+***** 888poker Hand History for Game 486507411 *****
+$25/$50 Blinds No Limit Holdem - *** 02 12 2014 18:05:21
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,128 )
+Seat 2: Sugalsugador ( $4,528 )
+Seat 4: sergei010285 ( $1,509 )
+Seat 6: RogeerTaylor ( $4,059 )
+Seat 7: grlscantdriv ( $2,023 )
+Seat 9: Halikopter ( $1,753 )
+Halikopter posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Js ]
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor calls [$50]
+grlscantdriv raises [$200]
+Halikopter folds
+PapaShango19 folds
+RogeerTaylor calls [$150]
+** Dealing flop ** [ 6d, Kc, 5d ]
+RogeerTaylor checks
+grlscantdriv checks
+** Dealing turn ** [ 7c ]
+RogeerTaylor checks
+grlscantdriv checks
+** Dealing river ** [ 2c ]
+RogeerTaylor checks
+grlscantdriv checks
+** Summary **
+RogeerTaylor shows [ Qd, 8d ]
+grlscantdriv shows [ 4s, 4h ]
+grlscantdriv collected [ $475 ]
+
+
+
+#Game No : 486507620
+***** 888poker Hand History for Game 486507620 *****
+$25/$50 Blinds No Limit Holdem - *** 02 12 2014 18:06:10
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,078 )
+Seat 2: Sugalsugador ( $4,528 )
+Seat 4: sergei010285 ( $1,509 )
+Seat 6: RogeerTaylor ( $3,859 )
+Seat 7: grlscantdriv ( $2,298 )
+Seat 9: Halikopter ( $1,728 )
+PapaShango19 posts small blind [$25]
+Sugalsugador posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 4c ]
+sergei010285 folds
+RogeerTaylor calls [$50]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 folds
+Sugalsugador checks
+** Dealing flop ** [ 8s, Ks, 9s ]
+Sugalsugador bets [$93]
+RogeerTaylor folds
+** Summary **
+Sugalsugador did not show his hand
+Sugalsugador collected [ $125 ]
+
+
+
+#Game No : 486507872
+***** 888poker Hand History for Game 486507872 *****
+$25/$50 Blinds No Limit Holdem - *** 02 12 2014 18:07:04
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,053 )
+Seat 2: Sugalsugador ( $4,603 )
+Seat 4: sergei010285 ( $1,509 )
+Seat 6: RogeerTaylor ( $3,809 )
+Seat 7: grlscantdriv ( $2,298 )
+Seat 9: Halikopter ( $1,728 )
+Sugalsugador posts small blind [$25]
+sergei010285 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Qc ]
+RogeerTaylor calls [$50]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 calls [$50]
+Sugalsugador folds
+sergei010285 checks
+** Dealing flop ** [ Td, 4s, 6d ]
+sergei010285 checks
+RogeerTaylor checks
+PapaShango19 bets [$100]
+sergei010285 calls [$100]
+RogeerTaylor calls [$100]
+** Dealing turn ** [ Jc ]
+sergei010285 checks
+RogeerTaylor checks
+PapaShango19 checks
+** Dealing river ** [ 3c ]
+sergei010285 checks
+RogeerTaylor checks
+PapaShango19 checks
+** Summary **
+sergei010285 shows [ 7c, 5h ]
+RogeerTaylor mucks [ 5s, As ]
+PapaShango19 mucks [ Ts, Qc ]
+sergei010285 collected [ $475 ]
+
+
+
+#Game No : 486508202
+***** 888poker Hand History for Game 486508202 *****
+$25/$50 Blinds No Limit Holdem - *** 02 12 2014 18:08:09
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,903 )
+Seat 2: Sugalsugador ( $4,578 )
+Seat 4: sergei010285 ( $1,834 )
+Seat 6: RogeerTaylor ( $3,659 )
+Seat 7: grlscantdriv ( $2,298 )
+Seat 9: Halikopter ( $1,728 )
+sergei010285 posts small blind [$25]
+RogeerTaylor posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Ad ]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$25]
+RogeerTaylor checks
+** Dealing flop ** [ 9d, 6s, 4s ]
+sergei010285 checks
+RogeerTaylor checks
+** Dealing turn ** [ Ah ]
+sergei010285 checks
+RogeerTaylor checks
+** Dealing river ** [ 7s ]
+sergei010285 checks
+RogeerTaylor bets [$3,609]
+sergei010285 folds
+** Summary **
+RogeerTaylor did not show his hand
+RogeerTaylor collected [ $100 ]
+
+
+
+#Game No : 486508413
+***** 888poker Hand History for Game 486508413 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:08:50
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,903 )
+Seat 2: Sugalsugador ( $4,578 )
+Seat 4: sergei010285 ( $1,784 )
+Seat 6: RogeerTaylor ( $3,709 )
+Seat 7: grlscantdriv ( $2,298 )
+Seat 9: Halikopter ( $1,728 )
+RogeerTaylor posts small blind [$50]
+grlscantdriv posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, As ]
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$100]
+RogeerTaylor calls [$50]
+grlscantdriv raises [$200]
+sergei010285 calls [$200]
+RogeerTaylor calls [$200]
+** Dealing flop ** [ 2c, 8c, 6h ]
+RogeerTaylor checks
+grlscantdriv bets [$675]
+sergei010285 folds
+RogeerTaylor folds
+** Summary **
+grlscantdriv did not show his hand
+grlscantdriv collected [ $900 ]
+
+
+
+#Game No : 486508641
+***** 888poker Hand History for Game 486508641 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:09:42
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,903 )
+Seat 2: Sugalsugador ( $4,578 )
+Seat 4: sergei010285 ( $1,484 )
+Seat 6: RogeerTaylor ( $3,409 )
+Seat 7: grlscantdriv ( $2,898 )
+Seat 9: Halikopter ( $1,728 )
+grlscantdriv posts small blind [$50]
+Halikopter posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Jd ]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor calls [$100]
+grlscantdriv folds
+Halikopter raises [$1,628]
+RogeerTaylor calls [$1,628]
+** Dealing flop ** [ 2s, 3s, Td ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 4h ]
+** Summary **
+RogeerTaylor shows [ Ts, Jh ]
+Halikopter shows [ 2h, 2c ]
+Halikopter collected [ $3,506 ]
+
+
+
+#Game No : 486508822
+***** 888poker Hand History for Game 486508822 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:10:19
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,903 )
+Seat 2: Sugalsugador ( $4,578 )
+Seat 4: sergei010285 ( $1,484 )
+Seat 6: RogeerTaylor ( $1,681 )
+Seat 7: grlscantdriv ( $2,848 )
+Seat 9: Halikopter ( $3,506 )
+Halikopter posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 9c ]
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor folds
+grlscantdriv folds
+Halikopter folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $150 ]
+
+
+
+#Game No : 486509097
+***** 888poker Hand History for Game 486509097 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:11:14
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,953 )
+Seat 2: Sugalsugador ( $4,578 )
+Seat 4: sergei010285 ( $1,484 )
+Seat 6: RogeerTaylor ( $1,681 )
+Seat 7: grlscantdriv ( $2,848 )
+Seat 9: Halikopter ( $3,456 )
+PapaShango19 posts small blind [$50]
+Sugalsugador posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 9h ]
+sergei010285 folds
+RogeerTaylor calls [$100]
+grlscantdriv folds
+Halikopter calls [$100]
+PapaShango19 calls [$50]
+Sugalsugador checks
+** Dealing flop ** [ Qc, 4d, 6h ]
+PapaShango19 checks
+Sugalsugador checks
+RogeerTaylor checks
+Halikopter checks
+** Dealing turn ** [ 3d ]
+PapaShango19 checks
+Sugalsugador checks
+RogeerTaylor checks
+Halikopter checks
+** Dealing river ** [ 5s ]
+PapaShango19 checks
+Sugalsugador checks
+RogeerTaylor checks
+Halikopter checks
+** Summary **
+PapaShango19 shows [ Jd, 9h ]
+Sugalsugador shows [ 2c, Js ]
+RogeerTaylor mucks [ 9s, Ah ]
+Halikopter mucks [ Ts, As ]
+Sugalsugador collected [ $400 ]
+
+
+
+#Game No : 486509462
+***** 888poker Hand History for Game 486509462 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:12:24
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,853 )
+Seat 2: Sugalsugador ( $4,878 )
+Seat 4: sergei010285 ( $1,484 )
+Seat 6: RogeerTaylor ( $1,581 )
+Seat 7: grlscantdriv ( $2,848 )
+Seat 9: Halikopter ( $3,356 )
+Sugalsugador posts small blind [$50]
+sergei010285 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 8c ]
+RogeerTaylor folds
+grlscantdriv raises [$300]
+Halikopter calls [$300]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 folds
+** Dealing flop ** [ 9d, 2c, 2d ]
+grlscantdriv bets [$375]
+Halikopter folds
+** Summary **
+grlscantdriv did not show his hand
+grlscantdriv collected [ $750 ]
+
+
+
+#Game No : 486509725
+***** 888poker Hand History for Game 486509725 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:13:19
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,853 )
+Seat 2: Sugalsugador ( $4,828 )
+Seat 4: sergei010285 ( $1,384 )
+Seat 6: RogeerTaylor ( $1,581 )
+Seat 7: grlscantdriv ( $3,298 )
+Seat 9: Halikopter ( $3,056 )
+sergei010285 posts small blind [$50]
+RogeerTaylor posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 9s ]
+grlscantdriv raises [$300]
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor folds
+** Summary **
+grlscantdriv did not show his hand
+grlscantdriv collected [ $250 ]
+
+
+
+#Game No : 486509841
+***** 888poker Hand History for Game 486509841 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:13:45
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,853 )
+Seat 2: Sugalsugador ( $4,828 )
+Seat 4: sergei010285 ( $1,334 )
+Seat 6: RogeerTaylor ( $1,481 )
+Seat 7: grlscantdriv ( $3,448 )
+Seat 9: Halikopter ( $3,056 )
+RogeerTaylor posts small blind [$50]
+grlscantdriv posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 2c ]
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor raises [$1,431]
+grlscantdriv folds
+** Summary **
+RogeerTaylor did not show his hand
+RogeerTaylor collected [ $200 ]
+
+
+
+#Game No : 486509963
+***** 888poker Hand History for Game 486509963 *****
+$50/$100 Blinds No Limit Holdem - *** 02 12 2014 18:14:08
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,853 )
+Seat 2: Sugalsugador ( $4,828 )
+Seat 4: sergei010285 ( $1,334 )
+Seat 6: RogeerTaylor ( $1,581 )
+Seat 7: grlscantdriv ( $3,348 )
+Seat 9: Halikopter ( $3,056 )
+grlscantdriv posts small blind [$50]
+Halikopter posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 2h ]
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$100]
+RogeerTaylor folds
+grlscantdriv folds
+Halikopter checks
+** Dealing flop ** [ Jh, 4h, 6c ]
+Halikopter checks
+sergei010285 checks
+** Dealing turn ** [ 9d ]
+Halikopter bets [$100]
+sergei010285 calls [$100]
+** Dealing river ** [ 7c ]
+Halikopter bets [$100]
+sergei010285 folds
+** Summary **
+Halikopter did not show his hand
+Halikopter collected [ $450 ]
+
+
+
+#Game No : 486510260
+***** 888poker Hand History for Game 486510260 *****
+$75/$150 Blinds No Limit Holdem - *** 02 12 2014 18:15:06
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,853 )
+Seat 2: Sugalsugador ( $4,828 )
+Seat 4: sergei010285 ( $1,134 )
+Seat 6: RogeerTaylor ( $1,581 )
+Seat 7: grlscantdriv ( $3,298 )
+Seat 9: Halikopter ( $3,306 )
+Halikopter posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ks ]
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor raises [$1,581]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 folds
+** Summary **
+RogeerTaylor did not show his hand
+RogeerTaylor collected [ $375 ]
+
+
+
+#Game No : 486510389
+***** 888poker Hand History for Game 486510389 *****
+$75/$150 Blinds No Limit Holdem - *** 02 12 2014 18:15:35
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,703 )
+Seat 2: Sugalsugador ( $4,828 )
+Seat 4: sergei010285 ( $1,134 )
+Seat 6: RogeerTaylor ( $1,806 )
+Seat 7: grlscantdriv ( $3,298 )
+Seat 9: Halikopter ( $3,231 )
+PapaShango19 posts small blind [$75]
+Sugalsugador posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Qh ]
+sergei010285 folds
+RogeerTaylor folds
+grlscantdriv folds
+Halikopter raises [$3,231]
+PapaShango19 folds
+Sugalsugador folds
+** Summary **
+Halikopter did not show his hand
+Halikopter collected [ $375 ]
+
+
+
+#Game No : 486510502
+***** 888poker Hand History for Game 486510502 *****
+$75/$150 Blinds No Limit Holdem - *** 02 12 2014 18:16:01
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,628 )
+Seat 2: Sugalsugador ( $4,678 )
+Seat 4: sergei010285 ( $1,134 )
+Seat 6: RogeerTaylor ( $1,806 )
+Seat 7: grlscantdriv ( $3,298 )
+Seat 9: Halikopter ( $3,456 )
+Sugalsugador posts small blind [$75]
+sergei010285 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Qd ]
+RogeerTaylor folds
+grlscantdriv folds
+Halikopter folds
+PapaShango19 raises [$300]
+Sugalsugador folds
+sergei010285 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 486510681
+***** 888poker Hand History for Game 486510681 *****
+$75/$150 Blinds No Limit Holdem - *** 02 12 2014 18:16:36
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,853 )
+Seat 2: Sugalsugador ( $4,603 )
+Seat 4: sergei010285 ( $984 )
+Seat 6: RogeerTaylor ( $1,806 )
+Seat 7: grlscantdriv ( $3,298 )
+Seat 9: Halikopter ( $3,456 )
+sergei010285 posts small blind [$75]
+RogeerTaylor posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 5h ]
+grlscantdriv folds
+Halikopter folds
+PapaShango19 folds
+Sugalsugador folds
+sergei010285 calls [$75]
+RogeerTaylor checks
+** Dealing flop ** [ 4c, 8s, Qs ]
+sergei010285 checks
+RogeerTaylor bets [$150]
+sergei010285 folds
+** Summary **
+RogeerTaylor did not show his hand
+RogeerTaylor collected [ $300 ]
+
+
+
+#Game No : 486510939
+***** 888poker Hand History for Game 486510939 *****
+$75/$150 Blinds No Limit Holdem - *** 02 12 2014 18:17:22
+Tournament #63991130 $0.90 + $0.10 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,853 )
+Seat 2: Sugalsugador ( $4,603 )
+Seat 4: sergei010285 ( $834 )
+Seat 6: RogeerTaylor ( $1,956 )
+Seat 7: grlscantdriv ( $3,298 )
+Seat 9: Halikopter ( $3,456 )
+RogeerTaylor posts small blind [$75]
+grlscantdriv posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Ad ]
+Halikopter calls [$150]
+PapaShango19 raises [$1,853]
+Sugalsugador folds
+sergei010285 folds
+RogeerTaylor calls [$1,778]
+grlscantdriv folds
+Halikopter calls [$1,703]
+** Dealing flop ** [ 9s, 3s, 5h ]
+RogeerTaylor bets [$103]
+Halikopter calls [$103]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 7h ]
+** Summary **
+PapaShango19 shows [ Jd, Ad ]
+RogeerTaylor shows [ 7d, 7c ]
+Halikopter shows [ Kc, Qd ]
+RogeerTaylor collected [ $5,709 ]
+RogeerTaylor collected [ $206 ]
+
+
+

@@ -1,0 +1,3718 @@
+#Game No : 645519822
+***** 888poker Hand History for Game 645519822 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:42:24
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: kaiser1804 ( $1,000 )
+Seat 2: Noddy777 ( $1,000 )
+Seat 3: JefferyF7777 ( $1,000 )
+Seat 5: BlakeRenaud ( $1,000 )
+Seat 6: PapaShango19 ( $1,000 )
+Seat 7: 00shady00 ( $1,000 )
+Seat 8: kalic_13 ( $1,000 )
+Seat 10: rauten14 ( $1,000 )
+PapaShango19 posts small blind [$10]
+00shady00 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 4s ]
+kalic_13 calls [$20]
+rauten14 folds
+kaiser1804 folds
+Noddy777 folds
+JefferyF7777 calls [$20]
+BlakeRenaud folds
+PapaShango19 folds
+00shady00 checks
+** Dealing flop ** [ Th, 5d, 6d ]
+00shady00 checks
+kalic_13 checks
+JefferyF7777 checks
+** Dealing turn ** [ 5s ]
+00shady00 checks
+kalic_13 checks
+JefferyF7777 checks
+** Dealing river ** [ 6s ]
+00shady00 checks
+kalic_13 bets [$20]
+JefferyF7777 folds
+00shady00 calls [$20]
+** Summary **
+kalic_13 shows [ Ac, Js ]
+00shady00 mucks [ 4d, Jd ]
+kalic_13 collected [ $110 ]
+
+
+
+#Game No : 645520082
+***** 888poker Hand History for Game 645520082 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:43:28
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: kaiser1804 ( $1,000 )
+Seat 2: Noddy777 ( $1,000 )
+Seat 3: JefferyF7777 ( $980 )
+Seat 5: BlakeRenaud ( $1,000 )
+Seat 6: PapaShango19 ( $990 )
+Seat 7: 00shady00 ( $960 )
+Seat 8: kalic_13 ( $1,070 )
+Seat 10: rauten14 ( $1,000 )
+00shady00 posts small blind [$10]
+kalic_13 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Ad ]
+rauten14 folds
+kaiser1804 folds
+Noddy777 calls [$20]
+JefferyF7777 folds
+BlakeRenaud calls [$20]
+PapaShango19 folds
+00shady00 raises [$45]
+kalic_13 folds
+Noddy777 calls [$35]
+BlakeRenaud calls [$35]
+** Dealing flop ** [ 9s, Ks, 5c ]
+00shady00 checks
+Noddy777 bets [$185]
+BlakeRenaud calls [$185]
+00shady00 folds
+** Dealing turn ** [ 8s ]
+Noddy777 bets [$760]
+BlakeRenaud folds
+** Summary **
+Noddy777 did not show his hand
+Noddy777 collected [ $555 ]
+
+
+
+#Game No : 645520397
+***** 888poker Hand History for Game 645520397 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:44:53
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: Noddy777 ( $1,315 )
+Seat 3: JefferyF7777 ( $980 )
+Seat 5: BlakeRenaud ( $760 )
+Seat 6: PapaShango19 ( $990 )
+Seat 7: 00shady00 ( $905 )
+Seat 8: kalic_13 ( $1,050 )
+Seat 10: rauten14 ( $1,000 )
+kalic_13 posts small blind [$10]
+rauten14 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 6h ]
+Noddy777 folds
+JefferyF7777 folds
+BlakeRenaud calls [$20]
+PapaShango19 calls [$20]
+00shady00 calls [$20]
+kalic_13 calls [$10]
+rauten14 checks
+** Dealing flop ** [ 9h, Jh, 3d ]
+kalic_13 checks
+rauten14 checks
+BlakeRenaud checks
+PapaShango19 checks
+00shady00 checks
+** Dealing turn ** [ Kd ]
+kalic_13 checks
+rauten14 checks
+BlakeRenaud checks
+PapaShango19 checks
+00shady00 checks
+** Dealing river ** [ Qc ]
+kalic_13 bets [$400]
+rauten14 folds
+BlakeRenaud folds
+PapaShango19 folds
+00shady00 folds
+** Summary **
+kalic_13 collected [ $100 ]
+
+
+
+#Game No : 645520973
+***** 888poker Hand History for Game 645520973 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:47:09
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: LibraTD ( $1,000 )
+Seat 2: Noddy777 ( $1,315 )
+Seat 3: JefferyF7777 ( $980 )
+Seat 5: BlakeRenaud ( $740 )
+Seat 6: PapaShango19 ( $970 )
+Seat 7: 00shady00 ( $885 )
+Seat 8: kalic_13 ( $1,130 )
+Seat 10: rauten14 ( $980 )
+rauten14 posts small blind [$10]
+LibraTD posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Jh ]
+Noddy777 calls [$20]
+JefferyF7777 folds
+BlakeRenaud calls [$20]
+PapaShango19 raises [$80]
+00shady00 raises [$885]
+kalic_13 folds
+rauten14 folds
+LibraTD folds
+Noddy777 calls [$865]
+BlakeRenaud calls [$720]
+PapaShango19 folds
+** Dealing flop ** [ 3c, Ks, 5s ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 5d ]
+** Summary **
+Noddy777 shows [ 7h, 7s ]
+BlakeRenaud shows [ As, Qh ]
+00shady00 shows [ 6s, 6d ]
+BlakeRenaud collected [ $2,330 ]
+Noddy777 collected [ $290 ]
+
+
+
+#Game No : 645521216
+***** 888poker Hand History for Game 645521216 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:48:18
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: LibraTD ( $980 )
+Seat 2: Noddy777 ( $720 )
+Seat 3: JefferyF7777 ( $980 )
+Seat 5: BlakeRenaud ( $2,330 )
+Seat 6: PapaShango19 ( $890 )
+Seat 8: kalic_13 ( $1,130 )
+Seat 10: rauten14 ( $970 )
+LibraTD posts small blind [$10]
+Noddy777 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Td ]
+JefferyF7777 folds
+BlakeRenaud folds
+PapaShango19 folds
+kalic_13 folds
+rauten14 folds
+LibraTD raises [$970]
+Noddy777 folds
+** Summary **
+LibraTD did not show his hand
+LibraTD collected [ $40 ]
+
+
+
+#Game No : 645521357
+***** 888poker Hand History for Game 645521357 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:48:57
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: LibraTD ( $1,000 )
+Seat 2: Noddy777 ( $700 )
+Seat 3: JefferyF7777 ( $980 )
+Seat 5: BlakeRenaud ( $2,330 )
+Seat 6: PapaShango19 ( $890 )
+Seat 8: kalic_13 ( $1,130 )
+Seat 10: rauten14 ( $970 )
+Noddy777 posts small blind [$10]
+JefferyF7777 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Kh ]
+BlakeRenaud calls [$20]
+PapaShango19 raises [$120]
+kalic_13 folds
+rauten14 folds
+LibraTD folds
+Noddy777 folds
+JefferyF7777 calls [$100]
+BlakeRenaud calls [$100]
+** Dealing flop ** [ Qd, 2d, 9c ]
+JefferyF7777 checks
+BlakeRenaud checks
+PapaShango19 bets [$410]
+JefferyF7777 calls [$410]
+BlakeRenaud folds
+** Dealing turn ** [ Qc ]
+JefferyF7777 checks
+PapaShango19 bets [$360]
+JefferyF7777 calls [$360]
+** Dealing river ** [ 8c ]
+** Summary **
+JefferyF7777 shows [ 9h, 6s ]
+PapaShango19 shows [ Kd, Kh ]
+PapaShango19 collected [ $1,910 ]
+
+
+
+#Game No : 645521591
+***** 888poker Hand History for Game 645521591 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:49:58
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: LibraTD ( $1,000 )
+Seat 2: Noddy777 ( $690 )
+Seat 3: JefferyF7777 ( $90 )
+Seat 5: BlakeRenaud ( $2,210 )
+Seat 6: PapaShango19 ( $1,910 )
+Seat 8: kalic_13 ( $1,130 )
+Seat 10: rauten14 ( $970 )
+JefferyF7777 posts small blind [$15]
+BlakeRenaud posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, As ]
+PapaShango19 raises [$90]
+kalic_13 calls [$90]
+rauten14 folds
+LibraTD folds
+Noddy777 folds
+JefferyF7777 calls [$75]
+BlakeRenaud folds
+** Dealing flop ** [ Jd, 9s, 3d ]
+PapaShango19 bets [$225]
+kalic_13 folds
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ Th ]
+** Summary **
+JefferyF7777 shows [ Ks, 8h ]
+PapaShango19 shows [ Js, As ]
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 645521824
+***** 888poker Hand History for Game 645521824 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:51:07
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: LibraTD ( $1,000 )
+Seat 2: Noddy777 ( $690 )
+Seat 5: BlakeRenaud ( $2,180 )
+Seat 6: PapaShango19 ( $2,120 )
+Seat 8: kalic_13 ( $1,040 )
+Seat 10: rauten14 ( $970 )
+BlakeRenaud posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 6d ]
+kalic_13 folds
+rauten14 folds
+LibraTD folds
+Noddy777 calls [$30]
+BlakeRenaud folds
+PapaShango19 checks
+** Dealing flop ** [ 7d, Tc, Th ]
+PapaShango19 checks
+Noddy777 bets [$30]
+PapaShango19 folds
+** Summary **
+Noddy777 did not show his hand
+Noddy777 collected [ $75 ]
+
+
+
+#Game No : 645521988
+***** 888poker Hand History for Game 645521988 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:51:50
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: LibraTD ( $1,000 )
+Seat 2: Noddy777 ( $735 )
+Seat 5: BlakeRenaud ( $2,165 )
+Seat 6: PapaShango19 ( $2,090 )
+Seat 8: kalic_13 ( $1,040 )
+Seat 10: rauten14 ( $970 )
+PapaShango19 posts small blind [$15]
+kalic_13 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 8h ]
+rauten14 folds
+LibraTD raises [$105]
+Noddy777 calls [$105]
+BlakeRenaud folds
+PapaShango19 folds
+kalic_13 folds
+** Dealing flop ** [ 2c, 4d, 6d ]
+LibraTD bets [$127]
+Noddy777 folds
+** Summary **
+LibraTD did not show his hand
+LibraTD collected [ $255 ]
+
+
+
+#Game No : 645522147
+***** 888poker Hand History for Game 645522147 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:52:42
+Tournament #63767367 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: LibraTD ( $1,150 )
+Seat 2: Noddy777 ( $630 )
+Seat 5: BlakeRenaud ( $2,165 )
+Seat 6: PapaShango19 ( $2,075 )
+Seat 8: kalic_13 ( $1,010 )
+Seat 10: rauten14 ( $970 )
+kalic_13 posts small blind [$15]
+rauten14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, As ]
+LibraTD folds
+Noddy777 calls [$30]
+BlakeRenaud folds
+PapaShango19 raises [$90]
+kalic_13 calls [$75]
+rauten14 folds
+Noddy777 calls [$60]
+** Dealing flop ** [ 8d, Jd, 7c ]
+kalic_13 checks
+Noddy777 checks
+PapaShango19 bets [$90]
+kalic_13 calls [$90]
+Noddy777 folds
+** Dealing turn ** [ Ah ]
+kalic_13 checks
+PapaShango19 bets [$270]
+kalic_13 calls [$270]
+** Dealing river ** [ 6d ]
+kalic_13 checks
+PapaShango19 bets [$600]
+kalic_13 calls [$560]
+** Summary **
+PapaShango19 shows [ 7h, As ]
+kalic_13 shows [ Qh, Qs ]
+PapaShango19 collected [ $2,140 ]
+
+
+
+#Game No : 645522203
+***** 888poker Hand History for Game 645522203 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:54:00
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Satan2013 ( $1,150 )
+Seat 2: diman270693 ( $920 )
+Seat 3: Smoke_Bellew ( $920 )
+Seat 5: Badpennycoop ( $1,210 )
+Seat 6: pasha309 ( $2,250 )
+Seat 8: drinkens86 ( $4,200 )
+diman270693 posts small blind [$15]
+Smoke_Bellew posts big blind [$30]
+** Dealing down cards **
+Badpennycoop folds
+pasha309 folds
+drinkens86 folds
+Satan2013 calls [$30]
+diman270693 folds
+Smoke_Bellew checks
+** Dealing flop ** [ 7c, Ts, Ac ]
+Smoke_Bellew checks
+Satan2013 checks
+** Dealing turn ** [ 9s ]
+Smoke_Bellew bets [$56]
+Satan2013 calls [$56]
+** Dealing river ** [ 6s ]
+Smoke_Bellew bets [$140]
+Satan2013 raises [$720]
+Smoke_Bellew calls [$580]
+** Summary **
+Satan2013 shows [ 7s, 3s ]
+Smoke_Bellew mucks [ Tc, 7d ]
+Satan2013 collected [ $1,627 ]
+
+
+
+#Game No : 645522573
+***** 888poker Hand History for Game 645522573 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:54:43
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Satan2013 ( $1,971 )
+Seat 2: diman270693 ( $905 )
+Seat 3: Smoke_Bellew ( $114 )
+Seat 5: Badpennycoop ( $1,210 )
+Seat 6: pasha309 ( $2,250 )
+Seat 7: Noddy777 ( $540 )
+Seat 8: drinkens86 ( $4,200 )
+Seat 10: PapaShango19 ( $3,205 )
+Smoke_Bellew posts small blind [$15]
+Badpennycoop posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 5h ]
+pasha309 calls [$30]
+Noddy777 folds
+drinkens86 folds
+PapaShango19 folds
+Satan2013 calls [$30]
+diman270693 calls [$30]
+Smoke_Bellew folds
+Badpennycoop checks
+** Dealing flop ** [ 7c, 3h, 8h ]
+Badpennycoop checks
+pasha309 checks
+Satan2013 checks
+diman270693 checks
+** Dealing turn ** [ 2h ]
+Badpennycoop checks
+pasha309 checks
+Satan2013 bets [$30]
+diman270693 folds
+Badpennycoop folds
+pasha309 folds
+** Summary **
+Satan2013 did not show his hand
+Satan2013 collected [ $135 ]
+
+
+
+#Game No : 645522733
+***** 888poker Hand History for Game 645522733 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:55:45
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Satan2013 ( $2,076 )
+Seat 2: diman270693 ( $875 )
+Seat 3: Smoke_Bellew ( $99 )
+Seat 5: Badpennycoop ( $1,180 )
+Seat 6: pasha309 ( $2,220 )
+Seat 7: Noddy777 ( $540 )
+Seat 8: drinkens86 ( $4,200 )
+Seat 10: PapaShango19 ( $3,205 )
+Badpennycoop posts small blind [$15]
+pasha309 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Ts ]
+Noddy777 calls [$30]
+drinkens86 folds
+PapaShango19 folds
+Satan2013 calls [$30]
+diman270693 folds
+Smoke_Bellew folds
+Badpennycoop calls [$15]
+pasha309 checks
+** Dealing flop ** [ 7s, 6c, 3d ]
+Badpennycoop checks
+pasha309 checks
+Noddy777 bets [$510]
+Satan2013 folds
+Badpennycoop folds
+pasha309 folds
+** Summary **
+Noddy777 did not show his hand
+Noddy777 collected [ $120 ]
+
+
+
+#Game No : 645522859
+***** 888poker Hand History for Game 645522859 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:56:33
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Satan2013 ( $2,046 )
+Seat 2: diman270693 ( $875 )
+Seat 3: Smoke_Bellew ( $99 )
+Seat 5: Badpennycoop ( $1,150 )
+Seat 6: pasha309 ( $2,190 )
+Seat 7: Noddy777 ( $630 )
+Seat 8: drinkens86 ( $4,200 )
+Seat 10: PapaShango19 ( $3,205 )
+pasha309 posts small blind [$25]
+Noddy777 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 6h ]
+drinkens86 raises [$150]
+PapaShango19 folds
+Satan2013 folds
+diman270693 folds
+Smoke_Bellew folds
+Badpennycoop folds
+pasha309 calls [$125]
+Noddy777 folds
+** Dealing flop ** [ Jh, Ks, 2h ]
+pasha309 checks
+drinkens86 bets [$262]
+pasha309 calls [$262]
+** Dealing turn ** [ 2s ]
+pasha309 checks
+drinkens86 bets [$655]
+pasha309 calls [$655]
+** Dealing river ** [ 4d ]
+pasha309 checks
+drinkens86 bets [$1,638]
+pasha309 calls [$1,123]
+** Summary **
+pasha309 shows [ Kh, Qh ]
+drinkens86 shows [ 9s, 8s ]
+pasha309 collected [ $4,430 ]
+
+
+
+#Game No : 645522976
+***** 888poker Hand History for Game 645522976 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:57:30
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Satan2013 ( $2,046 )
+Seat 2: diman270693 ( $875 )
+Seat 3: Smoke_Bellew ( $99 )
+Seat 5: Badpennycoop ( $1,150 )
+Seat 6: pasha309 ( $4,430 )
+Seat 7: Noddy777 ( $580 )
+Seat 8: drinkens86 ( $2,010 )
+Seat 10: PapaShango19 ( $3,205 )
+Noddy777 posts small blind [$25]
+drinkens86 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 2c ]
+PapaShango19 folds
+Satan2013 calls [$50]
+diman270693 folds
+Smoke_Bellew folds
+Badpennycoop folds
+pasha309 calls [$50]
+Noddy777 calls [$25]
+drinkens86 checks
+** Dealing flop ** [ 5h, Ac, 4c ]
+Noddy777 checks
+drinkens86 checks
+Satan2013 checks
+pasha309 checks
+** Dealing turn ** [ 4s ]
+Noddy777 bets [$50]
+drinkens86 calls [$50]
+Satan2013 calls [$50]
+pasha309 calls [$50]
+** Dealing river ** [ 9h ]
+Noddy777 checks
+drinkens86 checks
+Satan2013 bets [$50]
+pasha309 raises [$100]
+Noddy777 folds
+drinkens86 folds
+Satan2013 calls [$50]
+** Summary **
+pasha309 shows [ 3d, 9d ]
+Satan2013 shows [ Td, 9s ]
+pasha309 collected [ $300 ]
+Satan2013 collected [ $300 ]
+
+
+
+#Game No : 645523105
+***** 888poker Hand History for Game 645523105 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:58:34
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Satan2013 ( $2,146 )
+Seat 2: diman270693 ( $875 )
+Seat 3: Smoke_Bellew ( $99 )
+Seat 5: Badpennycoop ( $1,150 )
+Seat 6: pasha309 ( $4,530 )
+Seat 7: Noddy777 ( $480 )
+Seat 8: drinkens86 ( $1,910 )
+Seat 10: PapaShango19 ( $3,205 )
+drinkens86 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Qc ]
+Satan2013 calls [$50]
+diman270693 folds
+Smoke_Bellew folds
+Badpennycoop calls [$50]
+pasha309 calls [$50]
+Noddy777 folds
+drinkens86 calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ 7s, 5s, Ks ]
+drinkens86 checks
+PapaShango19 checks
+Satan2013 bets [$50]
+Badpennycoop folds
+pasha309 raises [$100]
+drinkens86 calls [$100]
+PapaShango19 folds
+Satan2013 calls [$50]
+** Dealing turn ** [ 2d ]
+drinkens86 checks
+Satan2013 checks
+pasha309 bets [$50]
+drinkens86 calls [$50]
+Satan2013 folds
+** Dealing river ** [ 7c ]
+drinkens86 bets [$1,710]
+pasha309 folds
+** Summary **
+drinkens86 did not show his hand
+drinkens86 collected [ $650 ]
+
+
+
+#Game No : 645523369
+***** 888poker Hand History for Game 645523369 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 03:00:18
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: Satan2013 ( $1,996 )
+Seat 2: diman270693 ( $875 )
+Seat 3: Smoke_Bellew ( $99 )
+Seat 5: Badpennycoop ( $1,100 )
+Seat 6: pasha309 ( $4,330 )
+Seat 7: Noddy777 ( $480 )
+Seat 8: drinkens86 ( $2,360 )
+Seat 10: PapaShango19 ( $3,155 )
+PapaShango19 posts small blind [$25]
+Satan2013 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 9d ]
+diman270693 folds
+Smoke_Bellew raises [$99]
+Badpennycoop folds
+pasha309 folds
+Noddy777 raises [$480]
+drinkens86 folds
+PapaShango19 folds
+Satan2013 calls [$430]
+** Dealing flop ** [ 7c, 5d, Jd ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ah ]
+** Summary **
+Satan2013 shows [ 5h, Ks ]
+Smoke_Bellew shows [ Kd, Kc ]
+Noddy777 shows [ Ac, Qs ]
+Noddy777 collected [ $322 ]
+Noddy777 collected [ $762 ]
+
+
+
+#Game No : 645523485
+***** 888poker Hand History for Game 645523485 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 03:01:00
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Satan2013 ( $1,516 )
+Seat 2: diman270693 ( $875 )
+Seat 5: Badpennycoop ( $1,100 )
+Seat 6: pasha309 ( $4,330 )
+Seat 7: Noddy777 ( $1,084 )
+Seat 8: drinkens86 ( $2,360 )
+Seat 10: PapaShango19 ( $3,130 )
+Satan2013 posts small blind [$25]
+diman270693 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 8c ]
+Badpennycoop raises [$131]
+pasha309 folds
+Noddy777 folds
+drinkens86 folds
+PapaShango19 folds
+Satan2013 calls [$106]
+diman270693 folds
+** Dealing flop ** [ 4c, 9d, 8s ]
+Satan2013 checks
+Badpennycoop bets [$156]
+Satan2013 calls [$156]
+** Dealing turn ** [ Qh ]
+Satan2013 checks
+Badpennycoop checks
+** Dealing river ** [ 3d ]
+Satan2013 checks
+Badpennycoop checks
+** Summary **
+Satan2013 shows [ Ks, Jc ]
+Badpennycoop shows [ As, Kc ]
+Badpennycoop collected [ $624 ]
+
+
+
+#Game No : 645523680
+***** 888poker Hand History for Game 645523680 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 03:02:00
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Satan2013 ( $1,229 )
+Seat 2: diman270693 ( $825 )
+Seat 5: Badpennycoop ( $1,437 )
+Seat 6: pasha309 ( $4,330 )
+Seat 7: Noddy777 ( $1,084 )
+Seat 8: drinkens86 ( $2,360 )
+Seat 10: PapaShango19 ( $3,130 )
+diman270693 posts small blind [$25]
+Badpennycoop posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 7s ]
+pasha309 calls [$50]
+Noddy777 folds
+drinkens86 folds
+PapaShango19 raises [$200]
+Satan2013 folds
+diman270693 folds
+Badpennycoop folds
+pasha309 calls [$150]
+** Dealing flop ** [ 4h, Js, 9d ]
+pasha309 checks
+PapaShango19 bets [$237]
+pasha309 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $475 ]
+
+
+
+#Game No : 645523813
+***** 888poker Hand History for Game 645523813 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 03:02:41
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Satan2013 ( $1,229 )
+Seat 2: diman270693 ( $800 )
+Seat 5: Badpennycoop ( $1,387 )
+Seat 6: pasha309 ( $4,130 )
+Seat 7: Noddy777 ( $1,084 )
+Seat 8: drinkens86 ( $2,360 )
+Seat 10: PapaShango19 ( $3,405 )
+Badpennycoop posts small blind [$25]
+pasha309 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Qd ]
+Noddy777 raises [$100]
+drinkens86 folds
+PapaShango19 folds
+Satan2013 calls [$100]
+diman270693 folds
+Badpennycoop folds
+pasha309 folds
+** Dealing flop ** [ 9h, Jh, Ad ]
+Noddy777 bets [$984]
+Satan2013 calls [$984]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ 8d ]
+** Summary **
+Satan2013 shows [ Ts, Ac ]
+Noddy777 shows [ As, Qh ]
+Noddy777 collected [ $2,243 ]
+
+
+
+#Game No : 645523922
+***** 888poker Hand History for Game 645523922 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 03:03:18
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Satan2013 ( $145 )
+Seat 2: diman270693 ( $800 )
+Seat 5: Badpennycoop ( $1,362 )
+Seat 6: pasha309 ( $4,080 )
+Seat 7: Noddy777 ( $2,243 )
+Seat 8: drinkens86 ( $2,360 )
+Seat 10: PapaShango19 ( $3,405 )
+pasha309 posts small blind [$25]
+Noddy777 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 8s ]
+drinkens86 raises [$100]
+PapaShango19 folds
+Satan2013 raises [$145]
+diman270693 folds
+Badpennycoop folds
+pasha309 folds
+Noddy777 folds
+drinkens86 calls [$45]
+** Dealing flop ** [ Tc, 2c, 2d ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 7d ]
+** Summary **
+Satan2013 shows [ 6c, Qc ]
+drinkens86 shows [ 9s, Th ]
+drinkens86 collected [ $365 ]
+
+
+
+#Game No : 645524061
+***** 888poker Hand History for Game 645524061 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:04:00
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: diman270693 ( $800 )
+Seat 5: Badpennycoop ( $1,362 )
+Seat 6: pasha309 ( $4,055 )
+Seat 7: Noddy777 ( $2,193 )
+Seat 8: drinkens86 ( $2,580 )
+Seat 10: PapaShango19 ( $3,405 )
+Noddy777 posts small blind [$50]
+drinkens86 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3d ]
+PapaShango19 folds
+diman270693 folds
+Badpennycoop folds
+pasha309 calls [$100]
+Noddy777 calls [$50]
+drinkens86 checks
+** Dealing flop ** [ Kd, 9c, 3s ]
+Noddy777 checks
+drinkens86 bets [$150]
+pasha309 calls [$150]
+Noddy777 folds
+** Dealing turn ** [ 8c ]
+drinkens86 bets [$450]
+pasha309 calls [$450]
+** Dealing river ** [ Qh ]
+drinkens86 checks
+pasha309 bets [$100]
+drinkens86 calls [$100]
+** Summary **
+pasha309 shows [ 7h, Kc ]
+drinkens86 mucks [ 6s, 9d ]
+pasha309 collected [ $1,700 ]
+
+
+
+#Game No : 645524241
+***** 888poker Hand History for Game 645524241 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:04:58
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: diman270693 ( $800 )
+Seat 5: Badpennycoop ( $1,362 )
+Seat 6: pasha309 ( $4,955 )
+Seat 7: Noddy777 ( $2,093 )
+Seat 8: drinkens86 ( $1,780 )
+Seat 10: PapaShango19 ( $3,405 )
+drinkens86 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 9s ]
+diman270693 folds
+Badpennycoop folds
+pasha309 calls [$100]
+Noddy777 folds
+drinkens86 raises [$150]
+PapaShango19 calls [$100]
+pasha309 calls [$100]
+** Dealing flop ** [ 6c, 2c, 6d ]
+drinkens86 bets [$300]
+PapaShango19 folds
+pasha309 calls [$300]
+** Dealing turn ** [ 2d ]
+drinkens86 bets [$600]
+pasha309 folds
+** Summary **
+drinkens86 did not show his hand
+drinkens86 collected [ $1,200 ]
+
+
+
+#Game No : 645524369
+***** 888poker Hand History for Game 645524369 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:05:39
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 2: diman270693 ( $800 )
+Seat 5: Badpennycoop ( $1,362 )
+Seat 6: pasha309 ( $4,455 )
+Seat 7: Noddy777 ( $2,093 )
+Seat 8: drinkens86 ( $2,480 )
+Seat 10: PapaShango19 ( $3,205 )
+PapaShango19 posts small blind [$50]
+diman270693 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 2d ]
+Badpennycoop folds
+pasha309 calls [$100]
+Noddy777 calls [$100]
+drinkens86 calls [$100]
+PapaShango19 calls [$50]
+diman270693 checks
+** Dealing flop ** [ Jh, Kh, 9d ]
+PapaShango19 checks
+diman270693 checks
+pasha309 checks
+Noddy777 checks
+drinkens86 checks
+** Dealing turn ** [ 9h ]
+PapaShango19 checks
+diman270693 checks
+pasha309 checks
+Noddy777 checks
+drinkens86 checks
+** Dealing river ** [ Kd ]
+PapaShango19 bets [$200]
+diman270693 folds
+pasha309 folds
+Noddy777 folds
+drinkens86 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 645524580
+***** 888poker Hand History for Game 645524580 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:06:40
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 2: diman270693 ( $700 )
+Seat 5: Badpennycoop ( $1,362 )
+Seat 6: pasha309 ( $4,355 )
+Seat 7: Noddy777 ( $1,993 )
+Seat 8: drinkens86 ( $2,380 )
+Seat 10: PapaShango19 ( $3,605 )
+diman270693 posts small blind [$50]
+Badpennycoop posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 5h ]
+pasha309 calls [$100]
+Noddy777 calls [$100]
+drinkens86 calls [$100]
+PapaShango19 folds
+diman270693 folds
+Badpennycoop checks
+** Dealing flop ** [ 8d, Ah, Qc ]
+Badpennycoop checks
+pasha309 bets [$100]
+Noddy777 folds
+drinkens86 calls [$100]
+Badpennycoop calls [$100]
+** Dealing turn ** [ Ad ]
+Badpennycoop checks
+pasha309 checks
+drinkens86 checks
+** Dealing river ** [ 7s ]
+Badpennycoop checks
+pasha309 checks
+drinkens86 checks
+** Summary **
+Badpennycoop shows [ Ks, Js ]
+pasha309 shows [ 8s, Qs ]
+drinkens86 mucks [ Jc, Kd ]
+pasha309 collected [ $750 ]
+
+
+
+#Game No : 645524853
+***** 888poker Hand History for Game 645524853 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:08:08
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: diman270693 ( $650 )
+Seat 5: Badpennycoop ( $1,162 )
+Seat 6: pasha309 ( $4,905 )
+Seat 7: Noddy777 ( $1,893 )
+Seat 8: drinkens86 ( $2,180 )
+Seat 10: PapaShango19 ( $3,605 )
+Badpennycoop posts small blind [$50]
+pasha309 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 6d ]
+Noddy777 raises [$200]
+drinkens86 folds
+PapaShango19 folds
+diman270693 raises [$650]
+Badpennycoop folds
+pasha309 folds
+Noddy777 calls [$450]
+** Dealing flop ** [ 7h, 2c, Th ]
+** Dealing turn ** [ 4s ]
+** Dealing river ** [ 4c ]
+** Summary **
+diman270693 shows [ 8s, Qs ]
+Noddy777 shows [ Ks, Kh ]
+Noddy777 collected [ $1,450 ]
+
+
+
+#Game No : 645524987
+***** 888poker Hand History for Game 645524987 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:08:48
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 5: Badpennycoop ( $1,112 )
+Seat 6: pasha309 ( $4,805 )
+Seat 7: Noddy777 ( $2,693 )
+Seat 8: drinkens86 ( $2,180 )
+Seat 10: PapaShango19 ( $3,605 )
+pasha309 posts small blind [$50]
+Noddy777 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9h ]
+drinkens86 folds
+PapaShango19 folds
+Badpennycoop raises [$200]
+pasha309 folds
+Noddy777 calls [$100]
+** Dealing flop ** [ 2s, Qc, 3c ]
+Noddy777 checks
+Badpennycoop bets [$200]
+Noddy777 folds
+** Summary **
+Badpennycoop did not show his hand
+Badpennycoop collected [ $450 ]
+
+
+
+#Game No : 645525092
+***** 888poker Hand History for Game 645525092 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:09:21
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 5: Badpennycoop ( $1,362 )
+Seat 6: pasha309 ( $4,755 )
+Seat 7: Noddy777 ( $2,493 )
+Seat 8: drinkens86 ( $2,180 )
+Seat 10: PapaShango19 ( $3,605 )
+Noddy777 posts small blind [$50]
+drinkens86 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 6d ]
+PapaShango19 folds
+Badpennycoop raises [$200]
+pasha309 calls [$200]
+Noddy777 folds
+drinkens86 calls [$100]
+** Dealing flop ** [ 3c, 7h, Kh ]
+drinkens86 checks
+Badpennycoop checks
+pasha309 checks
+** Dealing turn ** [ 7c ]
+drinkens86 checks
+Badpennycoop checks
+pasha309 checks
+** Dealing river ** [ 9d ]
+drinkens86 bets [$325]
+Badpennycoop folds
+pasha309 calls [$325]
+** Summary **
+drinkens86 shows [ 8d, Jd ]
+pasha309 shows [ Ad, 9h ]
+pasha309 collected [ $1,300 ]
+
+
+
+#Game No : 645525204
+***** 888poker Hand History for Game 645525204 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 03:10:05
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Paul_Burke ( $2,710 )
+Seat 2: LibraTD ( $1,015 )
+Seat 3: 3jacksmoore ( $1,845 )
+Seat 5: Badpennycoop ( $1,162 )
+Seat 6: pasha309 ( $5,530 )
+Seat 7: Noddy777 ( $2,443 )
+Seat 8: drinkens86 ( $1,655 )
+Seat 10: PapaShango19 ( $3,605 )
+drinkens86 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 9s ]
+Paul_Burke calls [$100]
+LibraTD folds
+3jacksmoore folds
+Badpennycoop folds
+pasha309 calls [$100]
+Noddy777 folds
+drinkens86 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ 3d, 6c, 4s ]
+drinkens86 checks
+PapaShango19 checks
+Paul_Burke bets [$200]
+pasha309 raises [$400]
+drinkens86 folds
+PapaShango19 folds
+Paul_Burke calls [$200]
+** Dealing turn ** [ 7d ]
+Paul_Burke checks
+pasha309 checks
+** Dealing river ** [ 3s ]
+Paul_Burke bets [$2,210]
+pasha309 folds
+** Summary **
+Paul_Burke did not show his hand
+Paul_Burke collected [ $1,200 ]
+
+
+
+#Game No : 645525397
+***** 888poker Hand History for Game 645525397 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 03:11:10
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: Paul_Burke ( $3,410 )
+Seat 2: LibraTD ( $1,015 )
+Seat 3: 3jacksmoore ( $1,845 )
+Seat 5: Badpennycoop ( $1,162 )
+Seat 6: pasha309 ( $5,030 )
+Seat 7: Noddy777 ( $2,443 )
+Seat 8: drinkens86 ( $1,555 )
+Seat 10: PapaShango19 ( $3,505 )
+PapaShango19 posts small blind [$75]
+Paul_Burke posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 4d ]
+LibraTD folds
+3jacksmoore folds
+Badpennycoop folds
+pasha309 calls [$150]
+Noddy777 folds
+drinkens86 raises [$300]
+PapaShango19 folds
+Paul_Burke calls [$150]
+pasha309 calls [$150]
+** Dealing flop ** [ Jd, Js, Qd ]
+Paul_Burke checks
+pasha309 bets [$150]
+drinkens86 calls [$150]
+Paul_Burke folds
+** Dealing turn ** [ 9d ]
+pasha309 bets [$150]
+drinkens86 calls [$150]
+** Dealing river ** [ Kd ]
+pasha309 checks
+drinkens86 checks
+** Summary **
+pasha309 shows [ Qc, Ac ]
+drinkens86 shows [ 8s, Jc ]
+drinkens86 collected [ $1,575 ]
+
+
+
+#Game No : 645525611
+***** 888poker Hand History for Game 645525611 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 03:12:35
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Paul_Burke ( $3,110 )
+Seat 2: LibraTD ( $1,015 )
+Seat 3: 3jacksmoore ( $1,845 )
+Seat 5: Badpennycoop ( $1,162 )
+Seat 6: pasha309 ( $4,430 )
+Seat 7: Noddy777 ( $2,443 )
+Seat 8: drinkens86 ( $2,530 )
+Seat 10: PapaShango19 ( $3,430 )
+Paul_Burke posts small blind [$75]
+LibraTD posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Kd ]
+3jacksmoore raises [$300]
+Badpennycoop folds
+pasha309 calls [$300]
+Noddy777 folds
+drinkens86 folds
+PapaShango19 folds
+Paul_Burke calls [$225]
+LibraTD folds
+** Dealing flop ** [ 5c, 6d, 8c ]
+Paul_Burke bets [$1,050]
+3jacksmoore calls [$1,050]
+pasha309 calls [$1,050]
+** Dealing turn ** [ Qh ]
+Paul_Burke bets [$1,760]
+3jacksmoore calls [$495]
+pasha309 calls [$1,760]
+** Dealing river ** [ 4d ]
+** Summary **
+Paul_Burke shows [ Jc, Tc ]
+3jacksmoore shows [ 9s, 9h ]
+pasha309 shows [ Qd, 7s ]
+pasha309 collected [ $5,685 ]
+pasha309 collected [ $2,530 ]
+
+
+
+#Game No : 645525793
+***** 888poker Hand History for Game 645525793 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 03:13:36
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: LibraTD ( $865 )
+Seat 3: i4mKing666 ( $1,545 )
+Seat 5: Badpennycoop ( $1,162 )
+Seat 6: pasha309 ( $9,535 )
+Seat 7: Noddy777 ( $2,443 )
+Seat 8: drinkens86 ( $2,530 )
+Seat 10: PapaShango19 ( $3,430 )
+LibraTD posts small blind [$75]
+i4mKing666 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 8c ]
+Badpennycoop raises [$300]
+pasha309 folds
+Noddy777 folds
+drinkens86 folds
+PapaShango19 folds
+LibraTD folds
+i4mKing666 raises [$1,395]
+Badpennycoop calls [$862]
+** Dealing flop ** [ Tc, 9d, 3h ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 4s ]
+** Summary **
+i4mKing666 shows [ Ks, Kh ]
+Badpennycoop shows [ 9h, 9c ]
+Badpennycoop collected [ $2,399 ]
+
+
+
+#Game No : 645525959
+***** 888poker Hand History for Game 645525959 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 03:14:44
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1:  ( $1,650 )
+Seat 2:  ( $3,430 )
+Seat 3:  ( $2,410 )
+Seat 5:  ( $4,155 )
+Seat 6:  ( $7,270 )
+Seat 10:  ( $3,005 )
+ posts big blind [$150]
+** Dealing down cards **
+Dealt to  [ 7h, Qh ]
+ folds
+ folds
+ folds
+ calls [$150]
+ calls [$150]
+ checks
+** Dealing flop ** [ 6c, 5s, As ]
+ checks
+ checks
+ bets [$450]
+ folds
+ calls [$450]
+** Dealing turn ** [ 4h ]
+ checks
+ bets [$1,350]
+ folds
+** Summary **
+ did not show his hand
+ collected [ $1,350 ]
+
+
+
+#Game No : 645526123
+***** 888poker Hand History for Game 645526123 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 03:15:54
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: buzzbasilio ( $1,650 )
+Seat 2: PapaShango19 ( $3,430 )
+Seat 3: rauten14 ( $2,410 )
+Seat 5: BlakeRenaud ( $3,555 )
+Seat 6: ilbriganti ( $8,020 )
+Seat 10: batareu ( $2,855 )
+batareu posts small blind [$75]
+buzzbasilio posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 4s ]
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud folds
+ilbriganti calls [$150]
+batareu raises [$2,780]
+buzzbasilio folds
+ilbriganti folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $450 ]
+
+
+
+#Game No : 645526209
+***** 888poker Hand History for Game 645526209 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 03:16:21
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: buzzbasilio ( $1,500 )
+Seat 2: PapaShango19 ( $3,430 )
+Seat 3: rauten14 ( $2,410 )
+Seat 5: BlakeRenaud ( $3,555 )
+Seat 6: ilbriganti ( $7,870 )
+Seat 10: batareu ( $3,155 )
+buzzbasilio posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Kh ]
+rauten14 calls [$150]
+BlakeRenaud calls [$150]
+ilbriganti calls [$150]
+batareu calls [$150]
+buzzbasilio folds
+PapaShango19 checks
+** Dealing flop ** [ Jh, 9c, 8h ]
+PapaShango19 checks
+rauten14 checks
+BlakeRenaud bets [$825]
+ilbriganti folds
+batareu calls [$825]
+PapaShango19 folds
+rauten14 folds
+** Dealing turn ** [ 7h ]
+BlakeRenaud checks
+batareu bets [$1,856]
+BlakeRenaud folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $2,475 ]
+
+
+
+#Game No : 645526429
+***** 888poker Hand History for Game 645526429 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:17:46
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $3,280 )
+Seat 3: rauten14 ( $2,260 )
+Seat 5: BlakeRenaud ( $2,580 )
+Seat 6: ilbriganti ( $7,720 )
+Seat 10: batareu ( $4,655 )
+PapaShango19 posts small blind [$100]
+rauten14 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qd ]
+BlakeRenaud calls [$200]
+ilbriganti calls [$200]
+batareu folds
+PapaShango19 calls [$100]
+rauten14 checks
+** Dealing flop ** [ 8s, 6h, 5h ]
+PapaShango19 bets [$200]
+rauten14 folds
+BlakeRenaud calls [$200]
+ilbriganti folds
+** Dealing turn ** [ Kd ]
+PapaShango19 checks
+BlakeRenaud checks
+** Dealing river ** [ 8c ]
+PapaShango19 bets [$300]
+BlakeRenaud folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,200 ]
+
+
+
+#Game No : 645526633
+***** 888poker Hand History for Game 645526633 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:19:06
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $4,080 )
+Seat 3: rauten14 ( $2,060 )
+Seat 5: BlakeRenaud ( $2,180 )
+Seat 6: ilbriganti ( $7,520 )
+Seat 10: batareu ( $4,655 )
+rauten14 posts small blind [$100]
+BlakeRenaud posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 8c ]
+ilbriganti raises [$700]
+batareu folds
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $500 ]
+
+
+
+#Game No : 645526721
+***** 888poker Hand History for Game 645526721 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:19:41
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $4,080 )
+Seat 3: rauten14 ( $1,960 )
+Seat 5: BlakeRenaud ( $1,980 )
+Seat 6: ilbriganti ( $7,820 )
+Seat 10: batareu ( $4,655 )
+BlakeRenaud posts small blind [$100]
+ilbriganti posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Qh ]
+batareu raises [$1,000]
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud folds
+ilbriganti folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $500 ]
+
+
+
+#Game No : 645526765
+***** 888poker Hand History for Game 645526765 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:20:01
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $4,080 )
+Seat 3: rauten14 ( $1,960 )
+Seat 5: BlakeRenaud ( $1,880 )
+Seat 6: ilbriganti ( $7,620 )
+Seat 10: batareu ( $4,955 )
+ilbriganti posts small blind [$100]
+batareu posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 8d ]
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud folds
+ilbriganti raises [$500]
+batareu folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $400 ]
+
+
+
+#Game No : 645526860
+***** 888poker Hand History for Game 645526860 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:20:39
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $4,080 )
+Seat 3: rauten14 ( $1,960 )
+Seat 5: BlakeRenaud ( $1,880 )
+Seat 6: ilbriganti ( $7,820 )
+Seat 10: batareu ( $4,755 )
+batareu posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Kd ]
+rauten14 folds
+BlakeRenaud calls [$200]
+ilbriganti folds
+batareu folds
+PapaShango19 raises [$575]
+BlakeRenaud raises [$1,680]
+PapaShango19 calls [$1,105]
+** Dealing flop ** [ 5d, Ah, 6s ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 8c ]
+** Summary **
+PapaShango19 shows [ Ac, Kd ]
+BlakeRenaud shows [ Qs, Qh ]
+BlakeRenaud collected [ $3,860 ]
+
+
+
+#Game No : 645527122
+***** 888poker Hand History for Game 645527122 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:22:18
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $2,200 )
+Seat 3: rauten14 ( $1,960 )
+Seat 5: BlakeRenaud ( $3,860 )
+Seat 6: ilbriganti ( $7,820 )
+Seat 10: batareu ( $4,655 )
+PapaShango19 posts small blind [$100]
+rauten14 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 5h ]
+BlakeRenaud folds
+ilbriganti folds
+batareu raises [$400]
+PapaShango19 folds
+rauten14 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $500 ]
+
+
+
+#Game No : 645527235
+***** 888poker Hand History for Game 645527235 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:23:02
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $2,100 )
+Seat 3: rauten14 ( $1,760 )
+Seat 5: BlakeRenaud ( $3,860 )
+Seat 6: ilbriganti ( $7,820 )
+Seat 10: batareu ( $4,955 )
+rauten14 posts small blind [$100]
+BlakeRenaud posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9c ]
+ilbriganti calls [$200]
+batareu folds
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud checks
+** Dealing flop ** [ 9s, 8d, Js ]
+BlakeRenaud checks
+ilbriganti checks
+** Dealing turn ** [ 5d ]
+BlakeRenaud checks
+ilbriganti bets [$200]
+BlakeRenaud folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $500 ]
+
+
+
+#Game No : 645527386
+***** 888poker Hand History for Game 645527386 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:24:11
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $2,100 )
+Seat 3: rauten14 ( $1,660 )
+Seat 5: BlakeRenaud ( $3,660 )
+Seat 6: ilbriganti ( $8,120 )
+Seat 10: batareu ( $4,955 )
+BlakeRenaud posts small blind [$100]
+ilbriganti posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Jc ]
+batareu folds
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $300 ]
+
+
+
+#Game No : 645527442
+***** 888poker Hand History for Game 645527442 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:24:35
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $2,100 )
+Seat 3: rauten14 ( $1,660 )
+Seat 5: BlakeRenaud ( $3,560 )
+Seat 6: ilbriganti ( $8,220 )
+Seat 10: batareu ( $4,955 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+ilbriganti posts small blind [$100]
+batareu posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 8c ]
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud folds
+ilbriganti raises [$300]
+batareu folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $550 ]
+
+
+
+#Game No : 645527521
+***** 888poker Hand History for Game 645527521 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:25:08
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $2,070 )
+Seat 3: rauten14 ( $1,630 )
+Seat 5: BlakeRenaud ( $3,530 )
+Seat 6: ilbriganti ( $8,540 )
+Seat 10: batareu ( $4,725 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+batareu posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5d ]
+rauten14 folds
+BlakeRenaud folds
+ilbriganti raises [$400]
+batareu calls [$300]
+PapaShango19 folds
+** Dealing flop ** [ Kc, 3h, 5s ]
+batareu checks
+ilbriganti checks
+** Dealing turn ** [ Qc ]
+batareu checks
+ilbriganti bets [$575]
+batareu calls [$575]
+** Dealing river ** [ 6c ]
+batareu bets [$1,150]
+ilbriganti folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $2,300 ]
+
+
+
+#Game No : 645527732
+***** 888poker Hand History for Game 645527732 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:26:32
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,840 )
+Seat 3: rauten14 ( $1,600 )
+Seat 5: BlakeRenaud ( $3,500 )
+Seat 6: ilbriganti ( $7,535 )
+Seat 10: batareu ( $6,020 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+PapaShango19 posts small blind [$100]
+rauten14 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Ac ]
+BlakeRenaud folds
+ilbriganti folds
+batareu raises [$2,050]
+PapaShango19 folds
+rauten14 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $650 ]
+
+
+
+#Game No : 645527804
+***** 888poker Hand History for Game 645527804 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:27:05
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,710 )
+Seat 3: rauten14 ( $1,370 )
+Seat 5: BlakeRenaud ( $3,470 )
+Seat 6: ilbriganti ( $7,505 )
+Seat 10: batareu ( $6,440 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+rauten14 posts small blind [$100]
+BlakeRenaud posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 8h ]
+ilbriganti raises [$850]
+batareu folds
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $650 ]
+
+
+
+#Game No : 645527897
+***** 888poker Hand History for Game 645527897 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:27:49
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,680 )
+Seat 3: rauten14 ( $1,240 )
+Seat 5: BlakeRenaud ( $3,240 )
+Seat 6: ilbriganti ( $7,925 )
+Seat 10: batareu ( $6,410 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+BlakeRenaud posts small blind [$100]
+ilbriganti posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 8c ]
+batareu folds
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud calls [$100]
+ilbriganti raises [$7,695]
+BlakeRenaud folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $550 ]
+
+
+
+#Game No : 645527984
+***** 888poker Hand History for Game 645527984 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:28:27
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,650 )
+Seat 3: rauten14 ( $1,210 )
+Seat 5: BlakeRenaud ( $3,010 )
+Seat 6: ilbriganti ( $8,245 )
+Seat 10: batareu ( $6,380 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+ilbriganti posts small blind [$100]
+batareu posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 3h ]
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud calls [$200]
+ilbriganti calls [$100]
+batareu checks
+** Dealing flop ** [ 4s, 6h, 4c ]
+ilbriganti checks
+batareu checks
+BlakeRenaud checks
+** Dealing turn ** [ Ts ]
+ilbriganti checks
+batareu checks
+BlakeRenaud checks
+** Dealing river ** [ Kd ]
+ilbriganti checks
+batareu checks
+BlakeRenaud checks
+** Summary **
+ilbriganti shows [ 2s, Jh ]
+batareu shows [ 9d, Jd ]
+BlakeRenaud shows [ 2d, Ah ]
+BlakeRenaud collected [ $750 ]
+
+
+
+#Game No : 645528097
+***** 888poker Hand History for Game 645528097 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:29:16
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,620 )
+Seat 3: rauten14 ( $1,180 )
+Seat 5: BlakeRenaud ( $3,530 )
+Seat 6: ilbriganti ( $8,015 )
+Seat 10: batareu ( $6,150 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+batareu posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5c ]
+rauten14 folds
+BlakeRenaud folds
+ilbriganti calls [$200]
+batareu folds
+PapaShango19 checks
+** Dealing flop ** [ 6h, Qh, 4h ]
+PapaShango19 checks
+ilbriganti bets [$200]
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $650 ]
+
+
+
+#Game No : 645528179
+***** 888poker Hand History for Game 645528179 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:29:49
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,390 )
+Seat 3: rauten14 ( $1,150 )
+Seat 5: BlakeRenaud ( $3,500 )
+Seat 6: ilbriganti ( $8,435 )
+Seat 10: batareu ( $6,020 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+PapaShango19 posts small blind [$100]
+rauten14 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 9d ]
+BlakeRenaud folds
+ilbriganti folds
+batareu folds
+PapaShango19 calls [$100]
+rauten14 checks
+** Dealing flop ** [ Qs, 4c, 9s ]
+PapaShango19 bets [$275]
+rauten14 calls [$275]
+** Dealing turn ** [ 5h ]
+PapaShango19 bets [$550]
+rauten14 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,100 ]
+
+
+
+#Game No : 645528380
+***** 888poker Hand History for Game 645528380 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 03:31:05
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,985 )
+Seat 3: rauten14 ( $645 )
+Seat 5: BlakeRenaud ( $3,470 )
+Seat 6: ilbriganti ( $8,405 )
+Seat 10: batareu ( $5,990 )
+batareu posts ante [$30]
+BlakeRenaud posts ante [$30]
+rauten14 posts ante [$30]
+ilbriganti posts ante [$30]
+PapaShango19 posts ante [$30]
+rauten14 posts small blind [$100]
+BlakeRenaud posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9s ]
+ilbriganti raises [$850]
+batareu folds
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud calls [$650]
+** Dealing flop ** [ Ts, Ah, Ac ]
+BlakeRenaud checks
+ilbriganti checks
+** Dealing turn ** [ 5s ]
+BlakeRenaud checks
+ilbriganti checks
+** Dealing river ** [ 8s ]
+BlakeRenaud checks
+ilbriganti checks
+** Summary **
+BlakeRenaud shows [ 9d, 8c ]
+ilbriganti mucks [ Kd, Qh ]
+BlakeRenaud collected [ $1,950 ]
+
+
+
+#Game No : 645528475
+***** 888poker Hand History for Game 645528475 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:31:36
+Tournament #63767367 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,955 )
+Seat 3: rauten14 ( $515 )
+Seat 5: BlakeRenaud ( $4,540 )
+Seat 6: ilbriganti ( $7,525 )
+Seat 10: batareu ( $5,960 )
+batareu posts ante [$40]
+BlakeRenaud posts ante [$40]
+rauten14 posts ante [$40]
+ilbriganti posts ante [$40]
+PapaShango19 posts ante [$40]
+BlakeRenaud posts small blind [$125]
+ilbriganti posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Kd ]
+batareu folds
+PapaShango19 folds
+rauten14 folds
+BlakeRenaud calls [$125]
+ilbriganti raises [$7,235]
+BlakeRenaud calls [$4,250]
+** Dealing flop ** [ 9s, 3s, 3c ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ Jc ]
+** Summary **
+BlakeRenaud shows [ Ks, Ad ]
+ilbriganti shows [ Td, Ts ]
+ilbriganti collected [ $9,200 ]
+
+
+
+#Game No : 645528569
+***** 888poker Hand History for Game 645528569 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:32:17
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: ilbriganti ( $12,185 )
+Seat 2: LibraTD ( $1,247 )
+Seat 5: Badpennycoop ( $1,244 )
+Seat 6: pasha309 ( $14,218 )
+Seat 7: Noddy777 ( $2,796 )
+Seat 8: batareu ( $5,920 )
+Seat 10: PapaShango19 ( $1,915 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+LibraTD posts ante [$40]
+ilbriganti posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+Badpennycoop posts small blind [$125]
+pasha309 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Ac ]
+Noddy777 folds
+batareu folds
+PapaShango19 raises [$1,875]
+ilbriganti folds
+LibraTD folds
+Badpennycoop folds
+pasha309 folds
+** Summary **
+PapaShango19 collected [ $905 ]
+
+
+
+#Game No : 645528646
+***** 888poker Hand History for Game 645528646 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:32:46
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ilbriganti ( $12,145 )
+Seat 2: LibraTD ( $1,207 )
+Seat 3: rauten14 ( $475 )
+Seat 5: Badpennycoop ( $1,079 )
+Seat 6: pasha309 ( $13,928 )
+Seat 7: Noddy777 ( $2,756 )
+Seat 8: batareu ( $5,880 )
+Seat 10: PapaShango19 ( $2,530 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+LibraTD posts ante [$40]
+ilbriganti posts ante [$40]
+rauten14 posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+pasha309 posts small blind [$125]
+Noddy777 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Td ]
+batareu calls [$250]
+PapaShango19 raises [$2,490]
+ilbriganti folds
+LibraTD folds
+rauten14 folds
+Badpennycoop folds
+pasha309 calls [$2,365]
+Noddy777 folds
+batareu folds
+** Dealing flop ** [ 2h, 8s, 3s ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Jd ]
+** Summary **
+pasha309 shows [ Ad, 7h ]
+PapaShango19 shows [ Tc, Td ]
+PapaShango19 collected [ $5,800 ]
+
+
+
+#Game No : 645528741
+***** 888poker Hand History for Game 645528741 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:33:25
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: ilbriganti ( $12,105 )
+Seat 2: LibraTD ( $1,167 )
+Seat 3: rauten14 ( $435 )
+Seat 5: Badpennycoop ( $1,039 )
+Seat 6: pasha309 ( $11,398 )
+Seat 7: Noddy777 ( $2,466 )
+Seat 8: batareu ( $5,590 )
+Seat 10: PapaShango19 ( $5,800 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+LibraTD posts ante [$40]
+ilbriganti posts ante [$40]
+rauten14 posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+Noddy777 posts small blind [$125]
+batareu posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 7s ]
+PapaShango19 folds
+ilbriganti folds
+LibraTD folds
+rauten14 raises [$395]
+Badpennycoop folds
+pasha309 folds
+Noddy777 folds
+batareu calls [$145]
+** Dealing flop ** [ 4s, Ks, 7h ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 4h ]
+** Summary **
+rauten14 shows [ 9c, Ah ]
+batareu shows [ Ac, Jh ]
+batareu collected [ $1,235 ]
+
+
+
+#Game No : 645528845
+***** 888poker Hand History for Game 645528845 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:34:05
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: ilbriganti ( $12,065 )
+Seat 2: LibraTD ( $1,127 )
+Seat 5: Badpennycoop ( $999 )
+Seat 6: pasha309 ( $11,358 )
+Seat 7: Noddy777 ( $2,301 )
+Seat 8: batareu ( $6,390 )
+Seat 10: PapaShango19 ( $5,760 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+LibraTD posts ante [$40]
+ilbriganti posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+batareu posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Qc ]
+ilbriganti raises [$1,155]
+LibraTD folds
+Badpennycoop folds
+pasha309 folds
+Noddy777 folds
+batareu calls [$1,030]
+PapaShango19 raises [$5,470]
+ilbriganti folds
+batareu folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $3,745 ]
+
+
+
+#Game No : 645528927
+***** 888poker Hand History for Game 645528927 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:34:32
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 1: ilbriganti ( $10,870 )
+Seat 2: LibraTD ( $1,087 )
+Seat 5: Badpennycoop ( $959 )
+Seat 6: pasha309 ( $11,318 )
+Seat 7: Noddy777 ( $2,261 )
+Seat 8: batareu ( $5,195 )
+Seat 10: PapaShango19 ( $8,310 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+LibraTD posts ante [$40]
+ilbriganti posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+PapaShango19 posts small blind [$125]
+ilbriganti posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 7h ]
+LibraTD folds
+Badpennycoop folds
+pasha309 folds
+Noddy777 folds
+batareu folds
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $655 ]
+
+
+
+#Game No : 645528995
+***** 888poker Hand History for Game 645528995 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:34:49
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: ilbriganti ( $11,235 )
+Seat 2: LibraTD ( $1,047 )
+Seat 5: Badpennycoop ( $919 )
+Seat 6: pasha309 ( $11,278 )
+Seat 7: Noddy777 ( $2,221 )
+Seat 8: batareu ( $5,155 )
+Seat 10: PapaShango19 ( $8,145 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+LibraTD posts ante [$40]
+ilbriganti posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+ilbriganti posts small blind [$125]
+LibraTD posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 5s ]
+Badpennycoop folds
+pasha309 folds
+Noddy777 folds
+batareu folds
+PapaShango19 folds
+ilbriganti calls [$125]
+LibraTD checks
+** Dealing flop ** [ Qd, 7c, Ks ]
+ilbriganti checks
+LibraTD bets [$757]
+ilbriganti folds
+** Summary **
+LibraTD did not show his hand
+LibraTD collected [ $780 ]
+
+
+
+#Game No : 645529099
+***** 888poker Hand History for Game 645529099 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:35:22
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: ilbriganti ( $10,945 )
+Seat 2: LibraTD ( $1,537 )
+Seat 5: Badpennycoop ( $879 )
+Seat 6: pasha309 ( $11,238 )
+Seat 7: Noddy777 ( $2,181 )
+Seat 8: batareu ( $5,115 )
+Seat 10: PapaShango19 ( $8,105 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+LibraTD posts ante [$40]
+ilbriganti posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+LibraTD posts small blind [$125]
+Badpennycoop posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Th ]
+pasha309 calls [$250]
+Noddy777 folds
+batareu folds
+PapaShango19 raises [$1,250]
+ilbriganti folds
+LibraTD raises [$1,372]
+Badpennycoop folds
+pasha309 folds
+PapaShango19 calls [$247]
+** Dealing flop ** [ Ts, 5s, 4h ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 6h ]
+** Summary **
+LibraTD shows [ Qh, Kh ]
+PapaShango19 shows [ Tc, Th ]
+PapaShango19 collected [ $3,774 ]
+
+
+
+#Game No : 645529388
+***** 888poker Hand History for Game 645529388 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:36:56
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: ilbriganti ( $10,905 )
+Seat 5: Badpennycoop ( $589 )
+Seat 6: pasha309 ( $10,948 )
+Seat 7: Noddy777 ( $2,141 )
+Seat 8: batareu ( $5,075 )
+Seat 10: PapaShango19 ( $10,342 )
+Badpennycoop posts ante [$40]
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+ilbriganti posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+Badpennycoop posts small blind [$125]
+pasha309 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 9s ]
+Noddy777 folds
+batareu folds
+PapaShango19 folds
+ilbriganti folds
+Badpennycoop raises [$424]
+pasha309 calls [$299]
+** Dealing flop ** [ 5d, Qh, Ac ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 9d ]
+** Summary **
+Badpennycoop shows [ Ks, 4d ]
+pasha309 shows [ 3c, Ad ]
+pasha309 collected [ $1,338 ]
+
+
+
+#Game No : 645529542
+***** 888poker Hand History for Game 645529542 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:37:53
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $10,865 )
+Seat 6: pasha309 ( $11,697 )
+Seat 7: Noddy777 ( $2,101 )
+Seat 8: batareu ( $5,035 )
+Seat 10: PapaShango19 ( $10,302 )
+pasha309 posts ante [$40]
+Noddy777 posts ante [$40]
+ilbriganti posts ante [$40]
+batareu posts ante [$40]
+PapaShango19 posts ante [$40]
+pasha309 posts small blind [$125]
+Noddy777 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 2s ]
+batareu raises [$1,075]
+PapaShango19 folds
+ilbriganti folds
+pasha309 calls [$950]
+Noddy777 folds
+** Dealing flop ** [ 3c, 8h, Th ]
+pasha309 checks
+batareu checks
+** Dealing turn ** [ 6d ]
+pasha309 checks
+batareu bets [$2,600]
+pasha309 calls [$2,600]
+** Dealing river ** [ 8c ]
+pasha309 checks
+batareu checks
+** Summary **
+pasha309 shows [ Ts, 3s ]
+batareu mucks [ 9s, 9d ]
+pasha309 collected [ $7,800 ]
+
+
+
+#Game No : 645529663
+***** 888poker Hand History for Game 645529663 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:38:40
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $10,825 )
+Seat 6: pasha309 ( $15,782 )
+Seat 7: Noddy777 ( $1,811 )
+Seat 8: batareu ( $1,320 )
+Seat 10: PapaShango19 ( $10,262 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+Noddy777 posts small blind [$150]
+batareu posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Td ]
+PapaShango19 folds
+ilbriganti folds
+pasha309 calls [$300]
+Noddy777 folds
+batareu raises [$975]
+pasha309 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $975 ]
+
+
+
+#Game No : 645529731
+***** 888poker Hand History for Game 645529731 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:39:07
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $10,780 )
+Seat 6: pasha309 ( $15,437 )
+Seat 7: Noddy777 ( $1,616 )
+Seat 8: batareu ( $1,950 )
+Seat 10: PapaShango19 ( $10,217 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+batareu posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Ks ]
+ilbriganti raises [$1,275]
+pasha309 folds
+Noddy777 folds
+batareu folds
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $975 ]
+
+
+
+#Game No : 645529800
+***** 888poker Hand History for Game 645529800 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:39:25
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $11,410 )
+Seat 6: pasha309 ( $15,392 )
+Seat 7: Noddy777 ( $1,571 )
+Seat 8: batareu ( $1,755 )
+Seat 10: PapaShango19 ( $9,872 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+PapaShango19 posts small blind [$150]
+ilbriganti posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 9s ]
+pasha309 calls [$300]
+Noddy777 folds
+batareu raises [$600]
+PapaShango19 folds
+ilbriganti folds
+pasha309 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $1,275 ]
+
+
+
+#Game No : 645530067
+***** 888poker Hand History for Game 645530067 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:40:24
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $11,065 )
+Seat 6: pasha309 ( $15,047 )
+Seat 7: Noddy777 ( $1,526 )
+Seat 8: batareu ( $2,685 )
+Seat 10: PapaShango19 ( $9,677 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+ilbriganti posts small blind [$150]
+pasha309 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 3c ]
+Noddy777 folds
+batareu folds
+PapaShango19 raises [$600]
+ilbriganti calls [$450]
+pasha309 folds
+** Dealing flop ** [ Ts, Ah, Ks ]
+ilbriganti bets [$1,725]
+PapaShango19 raises [$3,750]
+ilbriganti calls [$2,025]
+** Dealing turn ** [ Th ]
+ilbriganti checks
+PapaShango19 checks
+** Dealing river ** [ 8d ]
+ilbriganti checks
+PapaShango19 checks
+** Summary **
+ilbriganti shows [ 8h, As ]
+PapaShango19 mucks [ Kh, 3c ]
+ilbriganti collected [ $9,225 ]
+
+
+
+#Game No : 645530173
+***** 888poker Hand History for Game 645530173 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:40:57
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $15,895 )
+Seat 6: pasha309 ( $14,702 )
+Seat 7: Noddy777 ( $1,481 )
+Seat 8: batareu ( $2,640 )
+Seat 10: PapaShango19 ( $5,282 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+pasha309 posts small blind [$150]
+Noddy777 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Qh ]
+batareu raises [$600]
+PapaShango19 folds
+ilbriganti folds
+pasha309 calls [$450]
+Noddy777 folds
+** Dealing flop ** [ 5s, Kd, 6c ]
+pasha309 checks
+batareu bets [$1,995]
+pasha309 calls [$1,995]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 8s ]
+** Summary **
+pasha309 shows [ Kc, 7d ]
+batareu shows [ 8h, Kh ]
+batareu collected [ $5,715 ]
+
+
+
+#Game No : 645530273
+***** 888poker Hand History for Game 645530273 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:41:33
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $15,850 )
+Seat 6: pasha309 ( $12,062 )
+Seat 7: Noddy777 ( $1,136 )
+Seat 8: batareu ( $5,715 )
+Seat 10: PapaShango19 ( $5,237 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+Noddy777 posts small blind [$150]
+batareu posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6d ]
+PapaShango19 folds
+ilbriganti raises [$600]
+pasha309 folds
+Noddy777 folds
+batareu folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $975 ]
+
+
+
+#Game No : 645530364
+***** 888poker Hand History for Game 645530364 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:42:02
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $16,480 )
+Seat 6: pasha309 ( $12,017 )
+Seat 7: Noddy777 ( $941 )
+Seat 8: batareu ( $5,370 )
+Seat 10: PapaShango19 ( $5,192 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+batareu posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 7c ]
+ilbriganti raises [$1,275]
+pasha309 folds
+Noddy777 folds
+batareu folds
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $975 ]
+
+
+
+#Game No : 645530493
+***** 888poker Hand History for Game 645530493 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:42:40
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 5
+Seat 1: ilbriganti ( $17,110 )
+Seat 6: pasha309 ( $11,972 )
+Seat 7: Noddy777 ( $896 )
+Seat 8: batareu ( $5,175 )
+Seat 10: PapaShango19 ( $4,847 )
+pasha309 posts ante [$45]
+Noddy777 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+PapaShango19 posts small blind [$150]
+ilbriganti posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 7c ]
+pasha309 folds
+Noddy777 raises [$851]
+batareu folds
+PapaShango19 calls [$701]
+ilbriganti folds
+** Dealing flop ** [ 7h, 3d, 6h ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 5c ]
+** Summary **
+Noddy777 shows [ Ks, Ts ]
+PapaShango19 shows [ Ac, 7c ]
+PapaShango19 collected [ $2,227 ]
+
+
+
+#Game No : 645530684
+***** 888poker Hand History for Game 645530684 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:43:26
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $16,765 )
+Seat 6: pasha309 ( $11,927 )
+Seat 8: batareu ( $5,130 )
+Seat 10: PapaShango19 ( $6,178 )
+pasha309 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+ilbriganti posts small blind [$150]
+pasha309 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2h ]
+batareu folds
+PapaShango19 folds
+ilbriganti raises [$930]
+pasha309 calls [$780]
+** Dealing flop ** [ 5h, 9h, Ac ]
+ilbriganti checks
+pasha309 checks
+** Dealing turn ** [ 9c ]
+ilbriganti bets [$2,340]
+pasha309 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $2,340 ]
+
+
+
+#Game No : 645530893
+***** 888poker Hand History for Game 645530893 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:44:27
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $17,980 )
+Seat 6: pasha309 ( $10,802 )
+Seat 8: batareu ( $5,085 )
+Seat 10: PapaShango19 ( $6,133 )
+pasha309 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+pasha309 posts small blind [$150]
+batareu posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Qd ]
+PapaShango19 raises [$600]
+ilbriganti folds
+pasha309 folds
+batareu calls [$300]
+** Dealing flop ** [ Jc, 2d, Ts ]
+batareu checks
+PapaShango19 bets [$1,147]
+batareu folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,530 ]
+
+
+
+#Game No : 645530972
+***** 888poker Hand History for Game 645530972 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:44:53
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $17,935 )
+Seat 6: pasha309 ( $10,607 )
+Seat 8: batareu ( $4,440 )
+Seat 10: PapaShango19 ( $7,018 )
+pasha309 posts ante [$45]
+ilbriganti posts ante [$45]
+batareu posts ante [$45]
+PapaShango19 posts ante [$45]
+batareu posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 2c ]
+ilbriganti folds
+pasha309 calls [$300]
+batareu calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ 3d, Jd, 3h ]
+batareu bets [$300]
+PapaShango19 folds
+pasha309 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $1,080 ]
+
+
+
+#Game No : 645531141
+***** 888poker Hand History for Game 645531141 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:45:44
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $17,890 )
+Seat 6: pasha309 ( $10,262 )
+Seat 8: batareu ( $5,175 )
+Seat 10: PapaShango19 ( $6,673 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+PapaShango19 posts small blind [$200]
+ilbriganti posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 2c ]
+pasha309 folds
+batareu folds
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $840 ]
+
+
+
+#Game No : 645531217
+***** 888poker Hand History for Game 645531217 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:46:04
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,270 )
+Seat 6: pasha309 ( $10,202 )
+Seat 8: batareu ( $5,115 )
+Seat 10: PapaShango19 ( $6,413 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+ilbriganti posts small blind [$200]
+pasha309 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 5c ]
+batareu raises [$800]
+PapaShango19 folds
+ilbriganti folds
+pasha309 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $1,240 ]
+
+
+
+#Game No : 645531348
+***** 888poker Hand History for Game 645531348 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:46:38
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,010 )
+Seat 6: pasha309 ( $9,742 )
+Seat 8: batareu ( $5,895 )
+Seat 10: PapaShango19 ( $6,353 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+pasha309 posts small blind [$200]
+batareu posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 4s ]
+PapaShango19 folds
+ilbriganti folds
+pasha309 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $840 ]
+
+
+
+#Game No : 645531383
+***** 888poker Hand History for Game 645531383 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:46:48
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $17,950 )
+Seat 6: pasha309 ( $9,482 )
+Seat 8: batareu ( $6,275 )
+Seat 10: PapaShango19 ( $6,293 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+batareu posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Kd ]
+ilbriganti folds
+pasha309 folds
+batareu calls [$200]
+PapaShango19 checks
+** Dealing flop ** [ 5h, 4s, 8d ]
+batareu checks
+PapaShango19 checks
+** Dealing turn ** [ 5d ]
+batareu checks
+PapaShango19 checks
+** Dealing river ** [ 8c ]
+batareu checks
+PapaShango19 checks
+** Summary **
+batareu shows [ Qc, Jh ]
+PapaShango19 shows [ 6h, Kd ]
+PapaShango19 collected [ $1,040 ]
+
+
+
+#Game No : 645531501
+***** 888poker Hand History for Game 645531501 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:47:24
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $17,890 )
+Seat 6: pasha309 ( $9,422 )
+Seat 8: batareu ( $5,815 )
+Seat 10: PapaShango19 ( $6,873 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+PapaShango19 posts small blind [$200]
+ilbriganti posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 2h ]
+pasha309 calls [$400]
+batareu calls [$400]
+PapaShango19 folds
+ilbriganti checks
+** Dealing flop ** [ Qs, 4s, Jd ]
+ilbriganti checks
+pasha309 checks
+batareu checks
+** Dealing turn ** [ 6s ]
+ilbriganti checks
+pasha309 bets [$400]
+batareu calls [$400]
+ilbriganti folds
+** Dealing river ** [ 8d ]
+pasha309 checks
+batareu bets [$2,440]
+pasha309 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $2,440 ]
+
+
+
+#Game No : 645531768
+***** 888poker Hand History for Game 645531768 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:48:36
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $17,430 )
+Seat 6: pasha309 ( $8,562 )
+Seat 8: batareu ( $7,395 )
+Seat 10: PapaShango19 ( $6,613 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+ilbriganti posts small blind [$200]
+pasha309 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Ac ]
+batareu folds
+PapaShango19 raises [$800]
+ilbriganti calls [$600]
+pasha309 calls [$400]
+** Dealing flop ** [ Td, As, Kh ]
+ilbriganti checks
+pasha309 checks
+PapaShango19 bets [$1,720]
+ilbriganti calls [$1,720]
+pasha309 folds
+** Dealing turn ** [ Kc ]
+ilbriganti checks
+PapaShango19 bets [$4,033]
+ilbriganti calls [$4,033]
+** Dealing river ** [ Jh ]
+** Summary **
+ilbriganti shows [ Ad, 6s ]
+PapaShango19 shows [ Ts, Ac ]
+ilbriganti collected [ $7,073 ]
+PapaShango19 collected [ $7,073 ]
+
+
+
+#Game No : 645531969
+***** 888poker Hand History for Game 645531969 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:49:28
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $17,890 )
+Seat 6: pasha309 ( $7,702 )
+Seat 8: batareu ( $7,335 )
+Seat 10: PapaShango19 ( $7,073 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+pasha309 posts small blind [$200]
+batareu posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 2c ]
+PapaShango19 folds
+ilbriganti raises [$1,640]
+pasha309 calls [$1,440]
+batareu folds
+** Dealing flop ** [ 6h, 8c, 9d ]
+pasha309 checks
+ilbriganti bets [$3,920]
+pasha309 calls [$3,920]
+** Dealing turn ** [ Jh ]
+pasha309 checks
+ilbriganti bets [$5,880]
+pasha309 calls [$2,082]
+** Dealing river ** [ Js ]
+** Summary **
+ilbriganti shows [ Ah, 4h ]
+pasha309 shows [ 7h, As ]
+pasha309 collected [ $7,962 ]
+ilbriganti collected [ $7,962 ]
+
+
+
+#Game No : 645532159
+***** 888poker Hand History for Game 645532159 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:50:16
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,150 )
+Seat 6: pasha309 ( $7,962 )
+Seat 8: batareu ( $6,875 )
+Seat 10: PapaShango19 ( $7,013 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+batareu posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 7c ]
+ilbriganti folds
+pasha309 calls [$400]
+batareu calls [$200]
+PapaShango19 checks
+** Dealing flop ** [ Tc, Ah, 4h ]
+batareu checks
+PapaShango19 checks
+pasha309 bets [$400]
+batareu calls [$400]
+PapaShango19 folds
+** Dealing turn ** [ Kh ]
+batareu checks
+pasha309 bets [$400]
+batareu raises [$1,720]
+pasha309 calls [$1,320]
+** Dealing river ** [ 5h ]
+batareu bets [$4,295]
+pasha309 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $5,680 ]
+
+
+
+#Game No : 645532379
+***** 888poker Hand History for Game 645532379 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:51:24
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,090 )
+Seat 6: pasha309 ( $5,382 )
+Seat 8: batareu ( $9,975 )
+Seat 10: PapaShango19 ( $6,553 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+PapaShango19 posts small blind [$200]
+ilbriganti posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3d ]
+pasha309 folds
+batareu folds
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $840 ]
+
+
+
+#Game No : 645532460
+***** 888poker Hand History for Game 645532460 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:51:44
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,470 )
+Seat 6: pasha309 ( $5,322 )
+Seat 8: batareu ( $9,915 )
+Seat 10: PapaShango19 ( $6,293 )
+pasha309 posts ante [$60]
+ilbriganti posts ante [$60]
+batareu posts ante [$60]
+PapaShango19 posts ante [$60]
+ilbriganti posts small blind [$200]
+pasha309 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 9s ]
+batareu folds
+PapaShango19 folds
+ilbriganti calls [$200]
+pasha309 checks
+** Dealing flop ** [ Qh, 5c, 9h ]
+ilbriganti bets [$400]
+pasha309 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,040 ]
+
+
+
+#Game No : 645532628
+***** 888poker Hand History for Game 645532628 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:52:26
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $19,050 )
+Seat 6: pasha309 ( $4,862 )
+Seat 8: batareu ( $9,855 )
+Seat 10: PapaShango19 ( $6,233 )
+pasha309 posts ante [$90]
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+pasha309 posts small blind [$300]
+batareu posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8h ]
+PapaShango19 raises [$6,143]
+ilbriganti folds
+pasha309 folds
+batareu folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,860 ]
+
+
+
+#Game No : 645532726
+***** 888poker Hand History for Game 645532726 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:52:53
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,960 )
+Seat 6: pasha309 ( $4,472 )
+Seat 8: batareu ( $9,165 )
+Seat 10: PapaShango19 ( $7,403 )
+pasha309 posts ante [$90]
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+batareu posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 4d ]
+ilbriganti folds
+pasha309 calls [$600]
+batareu calls [$300]
+PapaShango19 checks
+** Dealing flop ** [ 3s, Ks, Qh ]
+batareu checks
+PapaShango19 checks
+pasha309 bets [$600]
+batareu folds
+PapaShango19 folds
+** Summary **
+pasha309 did not show his hand
+pasha309 collected [ $2,160 ]
+
+
+
+#Game No : 645532856
+***** 888poker Hand History for Game 645532856 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:53:26
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,870 )
+Seat 6: pasha309 ( $5,942 )
+Seat 8: batareu ( $8,475 )
+Seat 10: PapaShango19 ( $6,713 )
+pasha309 posts ante [$90]
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+PapaShango19 posts small blind [$300]
+ilbriganti posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 8d ]
+pasha309 calls [$600]
+batareu folds
+PapaShango19 folds
+ilbriganti checks
+** Dealing flop ** [ 4d, Jc, 5s ]
+ilbriganti checks
+pasha309 checks
+** Dealing turn ** [ 5d ]
+ilbriganti checks
+pasha309 checks
+** Dealing river ** [ 8s ]
+ilbriganti checks
+pasha309 checks
+** Summary **
+ilbriganti shows [ 3c, 7s ]
+pasha309 shows [ Th, 6h ]
+pasha309 collected [ $1,860 ]
+
+
+
+#Game No : 645532973
+***** 888poker Hand History for Game 645532973 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:53:55
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $18,180 )
+Seat 6: pasha309 ( $7,112 )
+Seat 8: batareu ( $8,385 )
+Seat 10: PapaShango19 ( $6,323 )
+pasha309 posts ante [$90]
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+ilbriganti posts small blind [$300]
+pasha309 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 5d ]
+batareu folds
+PapaShango19 folds
+ilbriganti raises [$900]
+pasha309 calls [$600]
+** Dealing flop ** [ 5s, Kd, Qc ]
+ilbriganti bets [$600]
+pasha309 calls [$600]
+** Dealing turn ** [ 8d ]
+ilbriganti bets [$3,960]
+pasha309 calls [$3,960]
+** Dealing river ** [ Jd ]
+ilbriganti bets [$600]
+pasha309 calls [$600]
+** Summary **
+ilbriganti shows [ 5h, Qh ]
+pasha309 mucks [ As, Kc ]
+ilbriganti collected [ $13,080 ]
+
+
+
+#Game No : 645533076
+***** 888poker Hand History for Game 645533076 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:54:27
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $24,810 )
+Seat 6: pasha309 ( $662 )
+Seat 8: batareu ( $8,295 )
+Seat 10: PapaShango19 ( $6,233 )
+pasha309 posts ante [$90]
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+pasha309 posts small blind [$300]
+batareu posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 3c ]
+PapaShango19 folds
+ilbriganti calls [$600]
+pasha309 calls [$272]
+batareu checks
+** Dealing flop ** [ 4s, As, Kd ]
+batareu checks
+ilbriganti checks
+** Dealing turn ** [ Jh ]
+batareu checks
+ilbriganti checks
+** Dealing river ** [ 7s ]
+batareu checks
+ilbriganti checks
+** Summary **
+batareu shows [ Qc, Jd ]
+ilbriganti mucks [ 8c, Js ]
+pasha309 shows [ Kc, 4c ]
+pasha309 collected [ $2,076 ]
+batareu collected [ $56 ]
+
+
+
+#Game No : 645533162
+***** 888poker Hand History for Game 645533162 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:54:54
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: ilbriganti ( $24,120 )
+Seat 6: pasha309 ( $2,076 )
+Seat 8: batareu ( $7,661 )
+Seat 10: PapaShango19 ( $6,143 )
+pasha309 posts ante [$90]
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+batareu posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Jc ]
+ilbriganti raises [$2,460]
+pasha309 calls [$1,986]
+batareu folds
+PapaShango19 raises [$5,453]
+ilbriganti calls [$3,593]
+** Dealing flop ** [ 2c, Ks, 6h ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Kd ]
+** Summary **
+ilbriganti shows [ 9h, Ah ]
+pasha309 shows [ 9c, 5c ]
+PapaShango19 shows [ Jh, Jc ]
+PapaShango19 collected [ $6,618 ]
+PapaShango19 collected [ $8,134 ]
+
+
+
+#Game No : 645533377
+***** 888poker Hand History for Game 645533377 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:55:28
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 1: ilbriganti ( $17,977 )
+Seat 8: batareu ( $7,271 )
+Seat 10: PapaShango19 ( $14,752 )
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+PapaShango19 posts small blind [$300]
+ilbriganti posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 8h ]
+batareu folds
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,170 ]
+
+
+
+#Game No : 645533537
+***** 888poker Hand History for Game 645533537 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:56:02
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 1: ilbriganti ( $18,457 )
+Seat 8: batareu ( $7,181 )
+Seat 10: PapaShango19 ( $14,362 )
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+ilbriganti posts small blind [$300]
+batareu posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7c ]
+PapaShango19 folds
+ilbriganti raises [$900]
+batareu folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,470 ]
+
+
+
+#Game No : 645533566
+***** 888poker Hand History for Game 645533566 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:56:13
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: ilbriganti ( $19,237 )
+Seat 8: batareu ( $6,491 )
+Seat 10: PapaShango19 ( $14,272 )
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+batareu posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3h ]
+ilbriganti folds
+batareu raises [$1,770]
+PapaShango19 folds
+** Summary **
+batareu did not show his hand
+batareu collected [ $1,470 ]
+
+
+
+#Game No : 645533603
+***** 888poker Hand History for Game 645533603 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:56:29
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 1: ilbriganti ( $19,147 )
+Seat 8: batareu ( $7,271 )
+Seat 10: PapaShango19 ( $13,582 )
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+PapaShango19 posts small blind [$300]
+ilbriganti posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 9c ]
+batareu folds
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,170 ]
+
+
+
+#Game No : 645533636
+***** 888poker Hand History for Game 645533636 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:56:42
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 1: ilbriganti ( $19,627 )
+Seat 8: batareu ( $7,181 )
+Seat 10: PapaShango19 ( $13,192 )
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+ilbriganti posts small blind [$300]
+batareu posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 7s ]
+PapaShango19 raises [$1,200]
+ilbriganti folds
+batareu calls [$600]
+** Dealing flop ** [ 2s, Qs, Jd ]
+batareu checks
+PapaShango19 bets [$1,485]
+batareu folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,970 ]
+
+
+
+#Game No : 645533712
+***** 888poker Hand History for Game 645533712 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:57:14
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: ilbriganti ( $19,237 )
+Seat 8: batareu ( $5,891 )
+Seat 10: PapaShango19 ( $14,872 )
+ilbriganti posts ante [$90]
+batareu posts ante [$90]
+PapaShango19 posts ante [$90]
+batareu posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3h ]
+ilbriganti folds
+batareu raises [$900]
+PapaShango19 raises [$1,800]
+batareu calls [$1,200]
+** Dealing flop ** [ 5s, 3d, Kc ]
+batareu checks
+PapaShango19 bets [$2,535]
+batareu raises [$3,401]
+PapaShango19 calls [$866]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 3c ]
+** Summary **
+batareu shows [ 6h, Jd ]
+PapaShango19 shows [ Ac, 3h ]
+PapaShango19 collected [ $11,872 ]
+
+
+
+#Game No : 645533804
+***** 888poker Hand History for Game 645533804 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:58:01
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $19,147 )
+Seat 10: PapaShango19 ( $20,853 )
+ilbriganti posts ante [$90]
+PapaShango19 posts ante [$90]
+PapaShango19 posts small blind [$300]
+ilbriganti posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 6s ]
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,080 ]
+
+
+
+#Game No : 645533827
+***** 888poker Hand History for Game 645533827 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:58:10
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $19,537 )
+Seat 10: PapaShango19 ( $20,463 )
+ilbriganti posts ante [$90]
+PapaShango19 posts ante [$90]
+ilbriganti posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4h ]
+ilbriganti raises [$1,680]
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,380 ]
+
+
+
+#Game No : 645533854
+***** 888poker Hand History for Game 645533854 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:58:23
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $20,227 )
+Seat 10: PapaShango19 ( $19,773 )
+ilbriganti posts ante [$90]
+PapaShango19 posts ante [$90]
+PapaShango19 posts small blind [$300]
+ilbriganti posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 9c ]
+PapaShango19 raises [$900]
+ilbriganti folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,380 ]
+
+
+
+#Game No : 645533881
+***** 888poker Hand History for Game 645533881 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:58:34
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $19,537 )
+Seat 10: PapaShango19 ( $20,463 )
+ilbriganti posts ante [$90]
+PapaShango19 posts ante [$90]
+ilbriganti posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Jc ]
+ilbriganti calls [$300]
+PapaShango19 checks
+** Dealing flop ** [ Kc, 7h, 3c ]
+PapaShango19 checks
+ilbriganti bets [$600]
+PapaShango19 calls [$600]
+** Dealing turn ** [ 3s ]
+PapaShango19 checks
+ilbriganti checks
+** Dealing river ** [ 9s ]
+PapaShango19 checks
+ilbriganti bets [$2,580]
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $2,580 ]
+
+
+
+#Game No : 645533943
+***** 888poker Hand History for Game 645533943 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:59:07
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $20,827 )
+Seat 10: PapaShango19 ( $19,173 )
+ilbriganti posts ante [$90]
+PapaShango19 posts ante [$90]
+PapaShango19 posts small blind [$300]
+ilbriganti posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6h ]
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,080 ]
+
+
+
+#Game No : 645533956
+***** 888poker Hand History for Game 645533956 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:59:16
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $21,217 )
+Seat 10: PapaShango19 ( $18,783 )
+ilbriganti posts ante [$90]
+PapaShango19 posts ante [$90]
+ilbriganti posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 3d ]
+ilbriganti calls [$300]
+PapaShango19 checks
+** Dealing flop ** [ 2s, Jd, 6d ]
+PapaShango19 bets [$600]
+ilbriganti calls [$600]
+** Dealing turn ** [ Jh ]
+PapaShango19 bets [$1,200]
+ilbriganti calls [$1,200]
+** Dealing river ** [ Ah ]
+PapaShango19 bets [$1,200]
+ilbriganti calls [$1,200]
+** Summary **
+PapaShango19 shows [ 4h, 3d ]
+ilbriganti shows [ 4c, Jc ]
+ilbriganti collected [ $7,380 ]
+
+
+
+#Game No : 645534020
+***** 888poker Hand History for Game 645534020 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 03:59:52
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $24,907 )
+Seat 10: PapaShango19 ( $15,093 )
+ilbriganti posts ante [$120]
+PapaShango19 posts ante [$120]
+PapaShango19 posts small blind [$400]
+ilbriganti posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, As ]
+PapaShango19 raises [$1,200]
+ilbriganti calls [$800]
+** Dealing flop ** [ 6c, Kc, 9d ]
+ilbriganti checks
+PapaShango19 bets [$1,720]
+ilbriganti calls [$1,720]
+** Dealing turn ** [ Ah ]
+ilbriganti checks
+PapaShango19 bets [$3,440]
+ilbriganti calls [$3,440]
+** Dealing river ** [ Jc ]
+ilbriganti checks
+PapaShango19 checks
+** Summary **
+ilbriganti shows [ 2h, Kd ]
+PapaShango19 shows [ 2c, As ]
+PapaShango19 collected [ $13,760 ]
+
+
+
+#Game No : 645534131
+***** 888poker Hand History for Game 645534131 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 04:00:22
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $18,027 )
+Seat 10: PapaShango19 ( $21,973 )
+ilbriganti posts ante [$120]
+PapaShango19 posts ante [$120]
+ilbriganti posts small blind [$400]
+PapaShango19 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 5s ]
+ilbriganti calls [$400]
+PapaShango19 checks
+** Dealing flop ** [ 4d, 3c, Ks ]
+PapaShango19 checks
+ilbriganti checks
+** Dealing turn ** [ 2d ]
+PapaShango19 bets [$920]
+ilbriganti folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,840 ]
+
+
+
+#Game No : 645534190
+***** 888poker Hand History for Game 645534190 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 04:00:42
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $17,107 )
+Seat 10: PapaShango19 ( $22,893 )
+ilbriganti posts ante [$120]
+PapaShango19 posts ante [$120]
+PapaShango19 posts small blind [$400]
+ilbriganti posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 3h ]
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,440 ]
+
+
+
+#Game No : 645534211
+***** 888poker Hand History for Game 645534211 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 04:00:51
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $17,627 )
+Seat 10: PapaShango19 ( $22,373 )
+ilbriganti posts ante [$120]
+PapaShango19 posts ante [$120]
+ilbriganti posts small blind [$400]
+PapaShango19 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 3h ]
+ilbriganti raises [$2,240]
+PapaShango19 folds
+** Summary **
+ilbriganti did not show his hand
+ilbriganti collected [ $1,840 ]
+
+
+
+#Game No : 645534250
+***** 888poker Hand History for Game 645534250 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 04:01:02
+Tournament #63767367 $0.90 + $0.10 - Table #5 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: ilbriganti ( $18,547 )
+Seat 10: PapaShango19 ( $21,453 )
+ilbriganti posts ante [$120]
+PapaShango19 posts ante [$120]
+PapaShango19 posts small blind [$400]
+ilbriganti posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Js ]
+PapaShango19 raises [$1,200]
+ilbriganti calls [$800]
+** Dealing flop ** [ 6s, 9c, 7h ]
+ilbriganti bets [$3,440]
+PapaShango19 calls [$3,440]
+** Dealing turn ** [ 8c ]
+ilbriganti bets [$10,320]
+PapaShango19 calls [$10,320]
+** Dealing river ** [ 9s ]
+ilbriganti bets [$3,067]
+PapaShango19 calls [$3,067]
+** Summary **
+ilbriganti shows [ 8h, Ks ]
+PapaShango19 shows [ Th, Js ]
+PapaShango19 collected [ $37,094 ]
+
+
+

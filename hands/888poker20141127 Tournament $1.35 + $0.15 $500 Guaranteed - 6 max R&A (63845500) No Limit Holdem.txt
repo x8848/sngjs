@@ -1,0 +1,800 @@
+#Game No : 647059097
+***** 888poker Hand History for Game 647059097 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:15:24
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $2,000 )
+Seat 2: Sascha3 ( $2,000 )
+Seat 4: hensol888 ( $2,000 )
+Seat 6: dasssss9 ( $2,000 )
+Seat 7: Sup3r_She3p ( $4,000 )
+Seat 9: PapaShango19 ( $2,000 )
+Sup3r_She3p posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 5c ]
+NaGiBaLkO folds
+Sascha3 folds
+hensol888 folds
+dasssss9 raises [$40]
+Sup3r_She3p folds
+PapaShango19 calls [$20]
+** Dealing flop ** [ Js, Ah, 5s ]
+PapaShango19 checks
+dasssss9 checks
+** Dealing turn ** [ 2d ]
+PapaShango19 checks
+dasssss9 bets [$40]
+PapaShango19 folds
+** Summary **
+dasssss9 did not show his hand
+dasssss9 collected [ $90 ]
+
+
+
+#Game No : 647059159
+***** 888poker Hand History for Game 647059159 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:16:17
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $2,000 )
+Seat 2: Sascha3 ( $2,000 )
+Seat 4: hensol888 ( $2,000 )
+Seat 6: dasssss9 ( $2,050 )
+Seat 7: Sup3r_She3p ( $3,990 )
+Seat 9: PapaShango19 ( $1,960 )
+PapaShango19 posts small blind [$10]
+NaGiBaLkO posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 8s ]
+Sascha3 folds
+hensol888 folds
+dasssss9 folds
+Sup3r_She3p raises [$60]
+PapaShango19 folds
+NaGiBaLkO folds
+** Summary **
+Sup3r_She3p did not show his hand
+Sup3r_She3p collected [ $50 ]
+
+
+
+#Game No : 647059187
+***** 888poker Hand History for Game 647059187 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:16:36
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $1,980 )
+Seat 2: Sascha3 ( $2,000 )
+Seat 4: hensol888 ( $2,000 )
+Seat 6: dasssss9 ( $2,050 )
+Seat 7: Sup3r_She3p ( $4,020 )
+Seat 9: PapaShango19 ( $1,950 )
+NaGiBaLkO posts small blind [$10]
+Sascha3 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 6s ]
+hensol888 folds
+dasssss9 folds
+Sup3r_She3p folds
+PapaShango19 raises [$60]
+NaGiBaLkO folds
+Sascha3 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $50 ]
+
+
+
+#Game No : 647059209
+***** 888poker Hand History for Game 647059209 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:16:55
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $1,970 )
+Seat 2: Sascha3 ( $1,980 )
+Seat 4: hensol888 ( $2,000 )
+Seat 6: dasssss9 ( $2,050 )
+Seat 7: Sup3r_She3p ( $4,020 )
+Seat 9: PapaShango19 ( $1,980 )
+Sascha3 posts small blind [$10]
+hensol888 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Ts ]
+dasssss9 folds
+Sup3r_She3p folds
+PapaShango19 folds
+NaGiBaLkO folds
+Sascha3 raises [$30]
+hensol888 folds
+** Summary **
+Sascha3 did not show his hand
+Sascha3 collected [ $40 ]
+
+
+
+#Game No : 647059243
+***** 888poker Hand History for Game 647059243 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:17:27
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $1,970 )
+Seat 2: Sascha3 ( $2,000 )
+Seat 4: hensol888 ( $1,980 )
+Seat 6: dasssss9 ( $2,050 )
+Seat 7: Sup3r_She3p ( $4,020 )
+Seat 9: PapaShango19 ( $1,980 )
+hensol888 posts small blind [$10]
+dasssss9 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Ts ]
+Sup3r_She3p folds
+PapaShango19 folds
+NaGiBaLkO raises [$60]
+Sascha3 folds
+hensol888 folds
+dasssss9 calls [$40]
+** Dealing flop ** [ 7h, 5s, Kd ]
+dasssss9 checks
+NaGiBaLkO bets [$97]
+dasssss9 folds
+** Summary **
+NaGiBaLkO did not show his hand
+NaGiBaLkO collected [ $130 ]
+
+
+
+#Game No : 647059295
+***** 888poker Hand History for Game 647059295 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:17:59
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $2,040 )
+Seat 2: Sascha3 ( $2,000 )
+Seat 4: hensol888 ( $1,970 )
+Seat 6: dasssss9 ( $1,990 )
+Seat 7: Sup3r_She3p ( $4,020 )
+Seat 9: PapaShango19 ( $1,980 )
+dasssss9 posts small blind [$10]
+Sup3r_She3p posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Qh ]
+PapaShango19 folds
+NaGiBaLkO raises [$60]
+Sascha3 folds
+hensol888 folds
+dasssss9 folds
+Sup3r_She3p raises [$220]
+NaGiBaLkO folds
+** Summary **
+Sup3r_She3p did not show his hand
+Sup3r_She3p collected [ $130 ]
+
+
+
+#Game No : 647059333
+***** 888poker Hand History for Game 647059333 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:18:31
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $1,980 )
+Seat 2: Sascha3 ( $2,000 )
+Seat 4: hensol888 ( $1,970 )
+Seat 6: dasssss9 ( $1,980 )
+Seat 7: Sup3r_She3p ( $4,090 )
+Seat 9: PapaShango19 ( $1,980 )
+Sup3r_She3p posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Qc ]
+NaGiBaLkO folds
+Sascha3 folds
+hensol888 folds
+dasssss9 raises [$60]
+Sup3r_She3p folds
+PapaShango19 folds
+** Summary **
+dasssss9 did not show his hand
+dasssss9 collected [ $50 ]
+
+
+
+#Game No : 647059358
+***** 888poker Hand History for Game 647059358 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:18:50
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: NaGiBaLkO ( $1,980 )
+Seat 2: Sascha3 ( $2,000 )
+Seat 4: hensol888 ( $1,970 )
+Seat 6: dasssss9 ( $2,010 )
+Seat 7: Sup3r_She3p ( $4,080 )
+Seat 9: PapaShango19 ( $1,960 )
+PapaShango19 posts small blind [$10]
+NaGiBaLkO posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Qs ]
+Sascha3 calls [$20]
+hensol888 folds
+dasssss9 folds
+Sup3r_She3p folds
+PapaShango19 folds
+NaGiBaLkO checks
+** Dealing flop ** [ Ts, Ad, 2c ]
+NaGiBaLkO checks
+Sascha3 bets [$40]
+NaGiBaLkO calls [$40]
+** Dealing turn ** [ 6s ]
+NaGiBaLkO checks
+Sascha3 bets [$80]
+NaGiBaLkO calls [$80]
+** Dealing river ** [ 6c ]
+NaGiBaLkO checks
+Sascha3 bets [$120]
+NaGiBaLkO folds
+** Summary **
+Sascha3 did not show his hand
+Sascha3 collected [ $290 ]
+
+
+
+#Game No : 647059413
+***** 888poker Hand History for Game 647059413 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:19:39
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: NaGiBaLkO ( $1,840 )
+Seat 2: Sascha3 ( $2,150 )
+Seat 4: hensol888 ( $3,970 )
+Seat 7: Sup3r_She3p ( $4,080 )
+Seat 9: PapaShango19 ( $1,950 )
+NaGiBaLkO posts small blind [$10]
+Sascha3 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7s ]
+hensol888 raises [$40]
+Sup3r_She3p folds
+PapaShango19 folds
+NaGiBaLkO calls [$30]
+Sascha3 folds
+** Dealing flop ** [ Ks, 8h, 8c ]
+NaGiBaLkO checks
+hensol888 bets [$100]
+NaGiBaLkO folds
+** Summary **
+hensol888 did not show his hand
+hensol888 collected [ $100 ]
+
+
+
+#Game No : 647059449
+***** 888poker Hand History for Game 647059449 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:20:14
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: NaGiBaLkO ( $1,800 )
+Seat 2: Sascha3 ( $2,130 )
+Seat 4: hensol888 ( $4,030 )
+Seat 7: Sup3r_She3p ( $4,080 )
+Seat 9: PapaShango19 ( $1,950 )
+Sascha3 posts small blind [$10]
+hensol888 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 4c ]
+Sup3r_She3p folds
+PapaShango19 folds
+NaGiBaLkO folds
+Sascha3 calls [$10]
+hensol888 checks
+** Dealing flop ** [ As, 8d, Qc ]
+Sascha3 checks
+hensol888 bets [$20]
+Sascha3 raises [$80]
+hensol888 folds
+** Summary **
+Sascha3 did not show his hand
+Sascha3 collected [ $80 ]
+
+
+
+#Game No : 647059474
+***** 888poker Hand History for Game 647059474 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:20:44
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: NaGiBaLkO ( $1,800 )
+Seat 2: Sascha3 ( $2,170 )
+Seat 4: hensol888 ( $3,990 )
+Seat 7: Sup3r_She3p ( $4,080 )
+Seat 9: PapaShango19 ( $1,950 )
+hensol888 posts small blind [$10]
+Sup3r_She3p posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 3c ]
+PapaShango19 calls [$20]
+NaGiBaLkO folds
+Sascha3 folds
+hensol888 calls [$10]
+Sup3r_She3p checks
+** Dealing flop ** [ Kh, Jd, 5d ]
+hensol888 checks
+Sup3r_She3p checks
+PapaShango19 checks
+** Dealing turn ** [ 6h ]
+hensol888 checks
+Sup3r_She3p checks
+PapaShango19 checks
+** Dealing river ** [ Kd ]
+hensol888 checks
+Sup3r_She3p checks
+PapaShango19 checks
+** Summary **
+hensol888 shows [ 2h, Th ]
+Sup3r_She3p mucks [ 9s, 2d ]
+PapaShango19 shows [ 3h, 3c ]
+PapaShango19 collected [ $60 ]
+
+
+
+#Game No : 647059562
+***** 888poker Hand History for Game 647059562 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:21:49
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Eltico28 ( $2,000 )
+Seat 2: Sascha3 ( $2,170 )
+Seat 4: hensol888 ( $3,970 )
+Seat 7: Sup3r_She3p ( $4,060 )
+Seat 9: PapaShango19 ( $1,990 )
+Sup3r_She3p posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2s ]
+Eltico28 folds
+Sascha3 folds
+hensol888 calls [$20]
+Sup3r_She3p folds
+PapaShango19 checks
+** Dealing flop ** [ Qc, 7d, Qd ]
+PapaShango19 bets [$20]
+hensol888 folds
+** Summary **
+PapaShango19 collected [ $50 ]
+
+
+
+#Game No : 647059590
+***** 888poker Hand History for Game 647059590 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 09:22:10
+Tournament #63845500 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Eltico28 ( $2,000 )
+Seat 2: Sascha3 ( $2,170 )
+Seat 4: hensol888 ( $3,950 )
+Seat 6: mattdean16 ( $2,000 )
+Seat 7: Sup3r_She3p ( $4,050 )
+Seat 9: PapaShango19 ( $2,020 )
+PapaShango19 posts small blind [$10]
+Eltico28 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 7s ]
+Sascha3 folds
+hensol888 raises [$40]
+mattdean16 calls [$40]
+Sup3r_She3p folds
+PapaShango19 folds
+Eltico28 folds
+** Dealing flop ** [ Kd, 9d, Ah ]
+hensol888 checks
+mattdean16 checks
+** Dealing turn ** [ 9h ]
+hensol888 bets [$20]
+mattdean16 raises [$170]
+hensol888 calls [$150]
+** Dealing river ** [ Qc ]
+hensol888 checks
+mattdean16 bets [$450]
+hensol888 folds
+** Summary **
+mattdean16 did not show his hand
+mattdean16 collected [ $450 ]
+
+
+
+#Game No : 647059756
+***** 888poker Hand History for Game 647059756 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:24:30
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1:  ( $2,000 )
+Seat 2:  ( $2,010 )
+Seat 4:  ( $4,025 )
+Seat 6:  ( $2,000 )
+Seat 9:  ( $2,000 )
+ posts small blind [$15]
+ posts big blind [$30]
+** Dealing down cards **
+Dealt to  [ 2s, Js ]
+ folds
+ raises [$78]
+ folds
+ folds
+ raises [$300]
+ folds
+** Summary **
+ did not show his hand
+ collected [ $171 ]
+
+
+
+#Game No : 647059792
+***** 888poker Hand History for Game 647059792 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:25:00
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Joker.Man ( $2,093 )
+Seat 2: PapaShango19 ( $2,010 )
+Seat 4: _MoNgReGoN_ ( $3,947 )
+Seat 6: Serf18808 ( $2,000 )
+Seat 9: ShutkaUA ( $1,985 )
+Joker.Man posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, As ]
+_MoNgReGoN_ folds
+Serf18808 calls [$30]
+ShutkaUA folds
+Joker.Man raises [$105]
+PapaShango19 folds
+Serf18808 calls [$90]
+** Dealing flop ** [ Ad, 5d, 7s ]
+Joker.Man bets [$270]
+Serf18808 calls [$270]
+** Dealing turn ** [ 8c ]
+Joker.Man bets [$30]
+Serf18808 calls [$30]
+** Dealing river ** [ 2c ]
+Joker.Man bets [$435]
+Serf18808 calls [$435]
+** Summary **
+Joker.Man shows [ Qh, 4h ]
+Serf18808 shows [ Jd, 8d ]
+Serf18808 collected [ $1,740 ]
+
+
+
+#Game No : 647059856
+***** 888poker Hand History for Game 647059856 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:25:51
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Joker.Man ( $1,238 )
+Seat 2: PapaShango19 ( $1,980 )
+Seat 4: _MoNgReGoN_ ( $3,947 )
+Seat 6: Serf18808 ( $2,885 )
+Seat 7: satyaPRIME ( $2,000 )
+Seat 9: ShutkaUA ( $1,985 )
+PapaShango19 posts small blind [$15]
+_MoNgReGoN_ posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 6h ]
+Serf18808 calls [$30]
+satyaPRIME raises [$90]
+ShutkaUA folds
+Joker.Man calls [$90]
+PapaShango19 folds
+_MoNgReGoN_ folds
+Serf18808 calls [$60]
+** Dealing flop ** [ Ac, 2h, 9h ]
+Serf18808 checks
+satyaPRIME bets [$90]
+Joker.Man folds
+Serf18808 folds
+** Summary **
+satyaPRIME did not show his hand
+satyaPRIME collected [ $315 ]
+
+
+
+#Game No : 647059928
+***** 888poker Hand History for Game 647059928 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:26:37
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Joker.Man ( $1,148 )
+Seat 2: PapaShango19 ( $1,965 )
+Seat 4: _MoNgReGoN_ ( $3,917 )
+Seat 6: Serf18808 ( $2,795 )
+Seat 7: satyaPRIME ( $2,225 )
+Seat 9: ShutkaUA ( $1,985 )
+_MoNgReGoN_ posts small blind [$15]
+Serf18808 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8h ]
+satyaPRIME raises [$90]
+ShutkaUA folds
+Joker.Man calls [$90]
+PapaShango19 folds
+_MoNgReGoN_ folds
+Serf18808 calls [$60]
+** Dealing flop ** [ Kd, Qh, 4s ]
+Serf18808 bets [$285]
+satyaPRIME folds
+Joker.Man folds
+** Summary **
+Serf18808 did not show his hand
+Serf18808 collected [ $285 ]
+
+
+
+#Game No : 647059987
+***** 888poker Hand History for Game 647059987 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:27:27
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Joker.Man ( $1,058 )
+Seat 2: PapaShango19 ( $1,965 )
+Seat 4: _MoNgReGoN_ ( $3,902 )
+Seat 6: Serf18808 ( $2,990 )
+Seat 7: satyaPRIME ( $2,135 )
+Seat 9: ShutkaUA ( $1,985 )
+Serf18808 posts small blind [$15]
+satyaPRIME posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Qd ]
+ShutkaUA folds
+Joker.Man raises [$105]
+PapaShango19 raises [$270]
+_MoNgReGoN_ folds
+Serf18808 folds
+satyaPRIME calls [$240]
+Joker.Man raises [$953]
+PapaShango19 raises [$1,695]
+satyaPRIME folds
+** Dealing flop ** [ 8h, 3s, Qc ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 5h ]
+** Summary **
+Joker.Man shows [ Ts, Jd ]
+PapaShango19 shows [ Qh, Qd ]
+PapaShango19 collected [ $2,401 ]
+
+
+
+#Game No : 647060099
+***** 888poker Hand History for Game 647060099 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:28:39
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $3,308 )
+Seat 4: _MoNgReGoN_ ( $3,902 )
+Seat 6: Serf18808 ( $2,975 )
+Seat 7: satyaPRIME ( $1,865 )
+Seat 9: ShutkaUA ( $1,985 )
+satyaPRIME posts small blind [$15]
+ShutkaUA posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Tc ]
+PapaShango19 folds
+_MoNgReGoN_ folds
+Serf18808 calls [$30]
+satyaPRIME raises [$45]
+ShutkaUA calls [$30]
+Serf18808 calls [$30]
+** Dealing flop ** [ 5s, Kd, 9h ]
+satyaPRIME bets [$90]
+ShutkaUA calls [$90]
+Serf18808 calls [$90]
+** Dealing turn ** [ Qh ]
+satyaPRIME checks
+ShutkaUA checks
+Serf18808 checks
+** Dealing river ** [ 2c ]
+satyaPRIME checks
+ShutkaUA checks
+Serf18808 checks
+** Summary **
+satyaPRIME shows [ 2h, 4h ]
+ShutkaUA shows [ 7c, 9d ]
+Serf18808 shows [ 9c, Jh ]
+Serf18808 collected [ $450 ]
+
+
+
+#Game No : 647060160
+***** 888poker Hand History for Game 647060160 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:29:23
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: 9StarK9 ( $2,000 )
+Seat 2: PapaShango19 ( $3,308 )
+Seat 4: _MoNgReGoN_ ( $3,902 )
+Seat 6: Serf18808 ( $3,275 )
+Seat 7: satyaPRIME ( $1,715 )
+Seat 9: ShutkaUA ( $1,835 )
+ShutkaUA posts small blind [$15]
+9StarK9 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Th ]
+PapaShango19 calls [$30]
+_MoNgReGoN_ raises [$3,902]
+Serf18808 folds
+satyaPRIME calls [$1,715]
+ShutkaUA folds
+9StarK9 calls [$1,970]
+PapaShango19 folds
+** Dealing flop ** [ 3h, 7s, 7d ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 6s ]
+** Summary **
+9StarK9 shows [ 5s, 5d ]
+_MoNgReGoN_ shows [ Ac, Ah ]
+satyaPRIME shows [ 6d, 6c ]
+satyaPRIME collected [ $5,190 ]
+_MoNgReGoN_ collected [ $570 ]
+
+
+
+#Game No : 647060221
+***** 888poker Hand History for Game 647060221 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 09:30:09
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: 9StarK9 ( $2,000 )
+Seat 2: PapaShango19 ( $3,278 )
+Seat 4: _MoNgReGoN_ ( $2,472 )
+Seat 6: Serf18808 ( $3,275 )
+Seat 7: satyaPRIME ( $5,190 )
+Seat 9: ShutkaUA ( $1,820 )
+9StarK9 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Ad ]
+_MoNgReGoN_ folds
+Serf18808 calls [$30]
+satyaPRIME calls [$30]
+ShutkaUA calls [$30]
+9StarK9 calls [$15]
+PapaShango19 raises [$90]
+Serf18808 calls [$90]
+satyaPRIME calls [$90]
+ShutkaUA calls [$90]
+9StarK9 calls [$90]
+** Dealing flop ** [ 9s, 2s, Js ]
+9StarK9 checks
+PapaShango19 bets [$330]
+Serf18808 calls [$330]
+satyaPRIME calls [$330]
+ShutkaUA folds
+9StarK9 folds
+** Dealing turn ** [ Jd ]
+PapaShango19 bets [$1,620]
+Serf18808 folds
+satyaPRIME calls [$1,620]
+** Dealing river ** [ Kh ]
+PapaShango19 bets [$1,208]
+satyaPRIME calls [$1,208]
+** Summary **
+PapaShango19 shows [ Jc, Ad ]
+satyaPRIME shows [ Tc, Qs ]
+satyaPRIME collected [ $7,246 ]
+
+
+
+#Game No : 647060392
+***** 888poker Hand History for Game 647060392 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 09:32:12
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: 9StarK9 ( $1,880 )
+Seat 4: _MoNgReGoN_ ( $2,472 )
+Seat 6: Serf18808 ( $2,825 )
+Seat 7: satyaPRIME ( $9,158 )
+Seat 9: ShutkaUA ( $1,700 )
+_MoNgReGoN_ posts big blind [$50]
+** Dealing down cards **
+Serf18808 calls [$50]
+satyaPRIME calls [$50]
+ShutkaUA folds
+9StarK9 raises [$250]
+_MoNgReGoN_ folds
+Serf18808 folds
+satyaPRIME calls [$200]
+** Dealing flop ** [ 4s, 5d, Kc ]
+satyaPRIME checks
+9StarK9 bets [$300]
+satyaPRIME folds
+** Summary **
+9StarK9 did not show his hand
+9StarK9 collected [ $600 ]
+
+
+
+#Game No : 647060439
+***** 888poker Hand History for Game 647060439 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 09:32:49
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: 9StarK9 ( $2,230 )
+Seat 4: _MoNgReGoN_ ( $2,422 )
+Seat 6: Serf18808 ( $2,775 )
+Seat 7: satyaPRIME ( $8,908 )
+Seat 9: ShutkaUA ( $1,700 )
+_MoNgReGoN_ posts small blind [$25]
+Serf18808 posts big blind [$50]
+** Dealing down cards **
+satyaPRIME calls [$50]
+ShutkaUA folds
+9StarK9 raises [$225]
+_MoNgReGoN_ raises [$2,397]
+Serf18808 folds
+satyaPRIME folds
+9StarK9 calls [$2,005]
+** Dealing flop ** [ 7s, 6c, 4d ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ Jh ]
+** Summary **
+9StarK9 shows [ Ah, As ]
+_MoNgReGoN_ shows [ Kc, Kd ]
+_MoNgReGoN_ collected [ $4,560 ]
+
+
+
+#Game No : 647060498
+***** 888poker Hand History for Game 647060498 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 09:33:32
+Tournament #63845500 $1.35 + $0.15 - Table #12 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: 9StarK9 ( $2,000 )
+Seat 2: kmaki1978 ( $2,000 )
+Seat 4: _MoNgReGoN_ ( $4,752 )
+Seat 6: Serf18808 ( $2,725 )
+Seat 7: satyaPRIME ( $8,858 )
+Seat 9: ShutkaUA ( $1,700 )
+Serf18808 posts small blind [$25]
+satyaPRIME posts big blind [$50]
+** Dealing down cards **
+ShutkaUA folds
+9StarK9 folds
+kmaki1978 raises [$175]
+_MoNgReGoN_ folds
+Serf18808 calls [$150]
+satyaPRIME raises [$300]
+kmaki1978 raises [$1,825]
+Serf18808 folds
+satyaPRIME calls [$1,650]
+** Dealing flop ** [ Ad, 9c, Qd ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ Qc ]
+** Summary **
+kmaki1978 shows [ Kh, Tc ]
+satyaPRIME shows [ 6d, 6h ]
+satyaPRIME collected [ $2,088 ]
+kmaki1978 collected [ $2,087 ]
+
+
+

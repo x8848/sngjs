@@ -1,0 +1,4014 @@
+#Game No : 642881808
+***** 888poker Hand History for Game 642881808 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:20:38
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ibraimi84 ( $1,980 )
+Seat 3: Power779 ( $2,000 )
+Seat 4: pass140 ( $3,940 )
+Seat 5: kimik2008 ( $2,030 )
+Seat 6: sawczyk ( $1,703 )
+Seat 7: Stallberger ( $2,000 )
+Seat 9: Elzocko1983 ( $17,700 )
+Seat 10: GaloDoido87 ( $1,970 )
+ibraimi84 posts small blind [$15]
+Power779 posts big blind [$30]
+** Dealing down cards **
+pass140 folds
+kimik2008 folds
+sawczyk folds
+Stallberger folds
+Elzocko1983 raises [$90]
+GaloDoido87 folds
+ibraimi84 folds
+Power779 calls [$60]
+** Dealing flop ** [ 6s, Qs, Tc ]
+Power779 checks
+Elzocko1983 checks
+** Dealing turn ** [ 8s ]
+Power779 bets [$150]
+Elzocko1983 folds
+** Summary **
+Power779 collected [ $195 ]
+
+
+
+#Game No : 642882073
+***** 888poker Hand History for Game 642882073 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:21:29
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: ibraimi84 ( $1,965 )
+Seat 3: Power779 ( $2,105 )
+Seat 5: kimik2008 ( $2,030 )
+Seat 6: sawczyk ( $1,703 )
+Seat 7: Stallberger ( $2,000 )
+Seat 9: Elzocko1983 ( $17,610 )
+Seat 10: GaloDoido87 ( $1,970 )
+Power779 posts small blind [$15]
+kimik2008 posts big blind [$30]
+** Dealing down cards **
+sawczyk folds
+Stallberger calls [$30]
+Elzocko1983 folds
+GaloDoido87 folds
+ibraimi84 calls [$30]
+Power779 calls [$15]
+kimik2008 checks
+** Dealing flop ** [ 9c, 8h, Ah ]
+Power779 checks
+kimik2008 bets [$30]
+Stallberger raises [$60]
+ibraimi84 calls [$60]
+Power779 folds
+kimik2008 calls [$30]
+** Dealing turn ** [ Qd ]
+kimik2008 checks
+Stallberger bets [$60]
+ibraimi84 calls [$60]
+kimik2008 calls [$60]
+** Dealing river ** [ Kc ]
+kimik2008 checks
+Stallberger checks
+ibraimi84 bets [$330]
+kimik2008 folds
+Stallberger calls [$330]
+** Summary **
+ibraimi84 shows [ 7h, 6d ]
+Stallberger shows [ As, Jc ]
+Stallberger collected [ $1,140 ]
+
+
+
+#Game No : 642882473
+***** 888poker Hand History for Game 642882473 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:23:14
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: ibraimi84 ( $1,485 )
+Seat 2: PapaShango19 ( $2,000 )
+Seat 3: Power779 ( $2,075 )
+Seat 5: kimik2008 ( $1,880 )
+Seat 6: sawczyk ( $1,703 )
+Seat 7: Stallberger ( $2,660 )
+Seat 10: StingRay20 ( $4,000 )
+kimik2008 posts small blind [$15]
+sawczyk posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, As ]
+Stallberger folds
+StingRay20 raises [$4,000]
+ibraimi84 folds
+PapaShango19 calls [$2,000]
+Power779 folds
+kimik2008 folds
+sawczyk folds
+** Dealing flop ** [ Tc, Ah, 6c ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 7d ]
+** Summary **
+PapaShango19 shows [ Qh, As ]
+StingRay20 shows [ Kh, 9h ]
+PapaShango19 collected [ $4,045 ]
+
+
+
+#Game No : 642882622
+***** 888poker Hand History for Game 642882622 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:23:50
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: PapaShango19 ( $4,045 )
+Seat 3: Power779 ( $2,075 )
+Seat 4: dragonchan12 ( $2,000 )
+Seat 5: kimik2008 ( $1,865 )
+Seat 6: sawczyk ( $1,673 )
+Seat 7: Stallberger ( $2,660 )
+Seat 9: bennyhill05 ( $2,000 )
+Seat 10: StingRay20 ( $2,000 )
+sawczyk posts small blind [$15]
+Stallberger posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 3d ]
+bennyhill05 folds
+StingRay20 folds
+PapaShango19 folds
+Power779 folds
+dragonchan12 calls [$30]
+kimik2008 folds
+sawczyk folds
+Stallberger checks
+** Dealing flop ** [ Kh, Qh, 5d ]
+Stallberger checks
+dragonchan12 checks
+** Dealing turn ** [ 6h ]
+Stallberger checks
+dragonchan12 bets [$75]
+Stallberger calls [$75]
+** Dealing river ** [ Td ]
+Stallberger checks
+dragonchan12 checks
+** Summary **
+Stallberger shows [ 5h, Ad ]
+dragonchan12 shows [ 6c, 3c ]
+dragonchan12 collected [ $225 ]
+
+
+
+#Game No : 642882788
+***** 888poker Hand History for Game 642882788 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:24:30
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Chippy_B ( $2,000 )
+Seat 2: PapaShango19 ( $4,045 )
+Seat 3: Power779 ( $2,075 )
+Seat 4: dragonchan12 ( $2,120 )
+Seat 5: kimik2008 ( $1,865 )
+Seat 6: sawczyk ( $1,658 )
+Seat 7: Stallberger ( $2,555 )
+Seat 9: bennyhill05 ( $2,000 )
+Seat 10: StingRay20 ( $2,000 )
+Stallberger posts small blind [$15]
+bennyhill05 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 5c ]
+StingRay20 raises [$2,000]
+Chippy_B folds
+PapaShango19 folds
+Power779 folds
+dragonchan12 folds
+kimik2008 calls [$1,865]
+sawczyk folds
+Stallberger folds
+bennyhill05 folds
+** Dealing flop ** [ Qd, 3h, 7s ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 2h ]
+** Summary **
+kimik2008 shows [ Jh, 8h ]
+StingRay20 shows [ Kd, 9h ]
+StingRay20 collected [ $3,775 ]
+
+
+
+#Game No : 642883031
+***** 888poker Hand History for Game 642883031 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:25:28
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Chippy_B ( $2,000 )
+Seat 2: PapaShango19 ( $4,045 )
+Seat 3: Power779 ( $2,075 )
+Seat 4: dragonchan12 ( $2,120 )
+Seat 5: kimik2008 ( $2,000 )
+Seat 7: Stallberger ( $2,540 )
+Seat 9: bennyhill05 ( $1,970 )
+Seat 10: StingRay20 ( $3,910 )
+bennyhill05 posts small blind [$25]
+StingRay20 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Th ]
+Chippy_B calls [$50]
+PapaShango19 folds
+Power779 raises [$150]
+dragonchan12 folds
+kimik2008 folds
+Stallberger folds
+bennyhill05 folds
+StingRay20 calls [$100]
+Chippy_B calls [$100]
+** Dealing flop ** [ Kc, 9s, Js ]
+StingRay20 checks
+Chippy_B checks
+Power779 bets [$300]
+StingRay20 calls [$300]
+Chippy_B folds
+** Dealing turn ** [ 9c ]
+StingRay20 checks
+Power779 bets [$625]
+StingRay20 calls [$625]
+** Dealing river ** [ 5h ]
+StingRay20 bets [$2,835]
+Power779 folds
+** Summary **
+StingRay20 collected [ $2,325 ]
+
+
+
+#Game No : 642883577
+***** 888poker Hand History for Game 642883577 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:27:30
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Chippy_B ( $1,850 )
+Seat 2: PapaShango19 ( $4,045 )
+Seat 3: Power779 ( $1,000 )
+Seat 4: dragonchan12 ( $2,120 )
+Seat 5: bdd233 ( $2,000 )
+Seat 6: RobinB1989 ( $2,000 )
+Seat 7: Stallberger ( $2,540 )
+Seat 9: bennyhill05 ( $1,945 )
+Seat 10: StingRay20 ( $5,160 )
+StingRay20 posts small blind [$25]
+Chippy_B posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 9s ]
+PapaShango19 folds
+Power779 folds
+dragonchan12 calls [$50]
+bdd233 folds
+RobinB1989 calls [$50]
+Stallberger calls [$50]
+bennyhill05 folds
+StingRay20 calls [$25]
+Chippy_B checks
+** Dealing flop ** [ Jd, 8s, 2c ]
+StingRay20 bets [$125]
+Chippy_B folds
+dragonchan12 folds
+RobinB1989 calls [$125]
+Stallberger calls [$125]
+** Dealing turn ** [ 4d ]
+StingRay20 bets [$150]
+RobinB1989 raises [$450]
+Stallberger folds
+StingRay20 calls [$300]
+** Dealing river ** [ 8d ]
+StingRay20 checks
+RobinB1989 bets [$762]
+StingRay20 folds
+** Summary **
+RobinB1989 did not show his hand
+RobinB1989 collected [ $1,525 ]
+
+
+
+#Game No : 642883991
+***** 888poker Hand History for Game 642883991 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:29:13
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Chippy_B ( $1,800 )
+Seat 2: PapaShango19 ( $4,045 )
+Seat 3: Power779 ( $1,000 )
+Seat 4: dragonchan12 ( $2,070 )
+Seat 5: bdd233 ( $2,000 )
+Seat 6: RobinB1989 ( $2,900 )
+Seat 7: Stallberger ( $2,365 )
+Seat 9: bennyhill05 ( $1,945 )
+Seat 10: StingRay20 ( $4,535 )
+Chippy_B posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 4d ]
+Power779 raises [$200]
+dragonchan12 folds
+bdd233 folds
+RobinB1989 folds
+Stallberger folds
+bennyhill05 calls [$200]
+StingRay20 calls [$200]
+Chippy_B folds
+PapaShango19 folds
+** Dealing flop ** [ 6s, Ac, Qd ]
+Power779 checks
+bennyhill05 checks
+StingRay20 checks
+** Dealing turn ** [ 7c ]
+Power779 bets [$250]
+bennyhill05 calls [$250]
+StingRay20 raises [$500]
+Power779 calls [$250]
+bennyhill05 raises [$1,495]
+StingRay20 folds
+Power779 calls [$300]
+** Dealing river ** [ As ]
+** Summary **
+Power779 shows [ 8c, Kc ]
+bennyhill05 shows [ Qc, Ah ]
+bennyhill05 collected [ $2,775 ]
+
+
+
+#Game No : 642884316
+***** 888poker Hand History for Game 642884316 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 02:30:50
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Chippy_B ( $1,775 )
+Seat 2: PapaShango19 ( $3,995 )
+Seat 3: misterbonobo ( $2,000 )
+Seat 4: dragonchan12 ( $2,070 )
+Seat 5: bdd233 ( $2,000 )
+Seat 6: RobinB1989 ( $2,900 )
+Seat 7: jutaaaaaa ( $2,000 )
+Seat 9: bennyhill05 ( $3,720 )
+Seat 10: StingRay20 ( $3,835 )
+PapaShango19 posts small blind [$50]
+misterbonobo posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Jd ]
+dragonchan12 folds
+bdd233 folds
+RobinB1989 folds
+jutaaaaaa calls [$100]
+bennyhill05 raises [$450]
+StingRay20 folds
+Chippy_B raises [$1,775]
+PapaShango19 folds
+misterbonobo folds
+jutaaaaaa folds
+bennyhill05 calls [$1,325]
+** Dealing flop ** [ 6c, 6h, 5h ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 8h ]
+** Summary **
+Chippy_B shows [ Ts, As ]
+bennyhill05 shows [ 8c, 8d ]
+bennyhill05 collected [ $3,800 ]
+
+
+
+#Game No : 642884552
+***** 888poker Hand History for Game 642884552 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 02:31:58
+Tournament #63723717 $1.15 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Chippy_B ( $2,000 )
+Seat 2: PapaShango19 ( $3,945 )
+Seat 3: misterbonobo ( $1,900 )
+Seat 4: LIESDEK10 ( $2,000 )
+Seat 5: bdd233 ( $2,000 )
+Seat 6: RobinB1989 ( $2,900 )
+Seat 7: jutaaaaaa ( $1,900 )
+Seat 9: bennyhill05 ( $5,745 )
+Seat 10: StingRay20 ( $3,835 )
+misterbonobo posts small blind [$50]
+LIESDEK10 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 5d ]
+bdd233 folds
+RobinB1989 folds
+jutaaaaaa raises [$200]
+bennyhill05 folds
+StingRay20 raises [$750]
+Chippy_B calls [$750]
+PapaShango19 folds
+misterbonobo folds
+LIESDEK10 folds
+jutaaaaaa raises [$1,700]
+StingRay20 calls [$1,150]
+Chippy_B calls [$1,150]
+** Dealing flop ** [ 4c, 2h, 4h ]
+StingRay20 bets [$100]
+Chippy_B calls [$100]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 6d ]
+** Summary **
+Chippy_B shows [ As, 8s ]
+jutaaaaaa shows [ Jc, Jh ]
+StingRay20 shows [ Ts, Ah ]
+jutaaaaaa collected [ $5,850 ]
+StingRay20 collected [ $200 ]
+
+
+
+#Game No : 642885106
+***** 888poker Hand History for Game 642885106 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 02:34:42
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1:  ( $2,000 )
+Seat 2:  ( $2,000 )
+Seat 3:  ( $2,000 )
+Seat 4:  ( $6,342 )
+Seat 5:  ( $3,600 )
+Seat 6:  ( $4,968 )
+Seat 7:  ( $3,945 )
+Seat 9:  ( $9,678 )
+ posts small blind [$50]
+ posts big blind [$100]
+** Dealing down cards **
+Dealt to  [ 8d, 6s ]
+ raises [$200]
+ calls [$200]
+ folds
+ folds
+ folds
+ calls [$200]
+ calls [$150]
+ folds
+** Dealing flop ** [ Tc, 5s, Jh ]
+ checks
+ checks
+ checks
+ checks
+** Dealing turn ** [ 9h ]
+ checks
+ bets [$900]
+ folds
+ folds
+ folds
+** Summary **
+ collected [ $900 ]
+
+
+
+#Game No : 642885300
+***** 888poker Hand History for Game 642885300 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 02:35:44
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $1,800 )
+Seat 2: DrAvalanche ( $1,800 )
+Seat 3: noullis ( $1,900 )
+Seat 4: prk85 ( $7,042 )
+Seat 5: toimonostie ( $3,400 )
+Seat 6: TheKingee ( $4,968 )
+Seat 7: PapaShango19 ( $3,945 )
+Seat 9: queenofpkr09 ( $9,678 )
+Seat 10: j_division ( $2,000 )
+noullis posts small blind [$75]
+prk85 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 2h ]
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+topsie30 folds
+DrAvalanche folds
+noullis raises [$1,825]
+prk85 calls [$1,750]
+** Dealing flop ** [ Js, 4c, 3c ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Ad ]
+** Summary **
+noullis shows [ Ah, 4s ]
+prk85 shows [ 5c, Tc ]
+noullis collected [ $3,800 ]
+
+
+
+#Game No : 642885438
+***** 888poker Hand History for Game 642885438 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 02:36:21
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $1,800 )
+Seat 2: DrAvalanche ( $1,800 )
+Seat 3: noullis ( $3,800 )
+Seat 4: prk85 ( $5,142 )
+Seat 5: toimonostie ( $3,400 )
+Seat 6: TheKingee ( $4,968 )
+Seat 7: PapaShango19 ( $3,945 )
+Seat 9: queenofpkr09 ( $9,678 )
+Seat 10: j_division ( $2,000 )
+prk85 posts small blind [$75]
+toimonostie posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3s ]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 raises [$393]
+j_division folds
+topsie30 folds
+DrAvalanche calls [$393]
+noullis calls [$393]
+prk85 calls [$318]
+toimonostie calls [$243]
+** Dealing flop ** [ Jh, 8h, 9d ]
+prk85 checks
+toimonostie checks
+queenofpkr09 checks
+DrAvalanche checks
+noullis checks
+** Dealing turn ** [ 9h ]
+prk85 bets [$150]
+toimonostie folds
+queenofpkr09 calls [$150]
+DrAvalanche folds
+noullis calls [$150]
+** Dealing river ** [ Ad ]
+prk85 bets [$150]
+queenofpkr09 folds
+noullis calls [$150]
+** Summary **
+prk85 shows [ Tc, Jc ]
+noullis mucks [ 8c, Kc ]
+prk85 collected [ $2,715 ]
+
+
+
+#Game No : 642885664
+***** 888poker Hand History for Game 642885664 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 02:37:31
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $1,800 )
+Seat 2: DrAvalanche ( $1,407 )
+Seat 3: noullis ( $3,107 )
+Seat 4: prk85 ( $7,164 )
+Seat 5: toimonostie ( $3,007 )
+Seat 6: TheKingee ( $4,968 )
+Seat 7: PapaShango19 ( $3,945 )
+Seat 9: queenofpkr09 ( $9,135 )
+Seat 10: j_division ( $2,000 )
+toimonostie posts small blind [$75]
+TheKingee posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 5s ]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+topsie30 calls [$150]
+DrAvalanche calls [$150]
+noullis folds
+prk85 calls [$150]
+toimonostie calls [$75]
+TheKingee checks
+** Dealing flop ** [ Qc, 8d, Tc ]
+toimonostie checks
+TheKingee checks
+topsie30 checks
+DrAvalanche checks
+prk85 bets [$750]
+toimonostie folds
+TheKingee calls [$750]
+topsie30 raises [$1,500]
+DrAvalanche folds
+prk85 calls [$750]
+TheKingee calls [$750]
+** Dealing turn ** [ Ad ]
+TheKingee checks
+topsie30 bets [$150]
+prk85 raises [$5,514]
+TheKingee folds
+** Dealing river ** [ Js ]
+** Summary **
+topsie30 shows [ Qd, 6c ]
+prk85 shows [ 3h, As ]
+prk85 collected [ $5,550 ]
+
+
+
+#Game No : 642885906
+***** 888poker Hand History for Game 642885906 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 02:38:44
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $2,000 )
+Seat 2: DrAvalanche ( $3,257 )
+Seat 3: noullis ( $3,107 )
+Seat 4: prk85 ( $10,914 )
+Seat 5: toimonostie ( $2,857 )
+Seat 6: TheKingee ( $3,318 )
+Seat 7: PapaShango19 ( $3,945 )
+Seat 9: queenofpkr09 ( $9,135 )
+Seat 10: j_division ( $2,000 )
+TheKingee posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Qh ]
+queenofpkr09 folds
+j_division calls [$150]
+topsie30 calls [$150]
+DrAvalanche folds
+noullis folds
+prk85 calls [$150]
+toimonostie folds
+TheKingee raises [$3,243]
+PapaShango19 folds
+j_division folds
+topsie30 folds
+prk85 calls [$3,168]
+** Dealing flop ** [ Ad, 4h, 4d ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Kd ]
+** Summary **
+prk85 shows [ Ac, Jh ]
+TheKingee shows [ 9s, Ah ]
+prk85 collected [ $3,543 ]
+TheKingee collected [ $3,543 ]
+
+
+
+#Game No : 642886210
+***** 888poker Hand History for Game 642886210 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:40:23
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $1,850 )
+Seat 2: DrAvalanche ( $3,257 )
+Seat 3: noullis ( $3,107 )
+Seat 4: prk85 ( $11,139 )
+Seat 5: toimonostie ( $2,857 )
+Seat 6: TheKingee ( $3,543 )
+Seat 7: PapaShango19 ( $3,795 )
+Seat 9: queenofpkr09 ( $9,135 )
+Seat 10: j_division ( $3,850 )
+PapaShango19 posts small blind [$100]
+queenofpkr09 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6c ]
+j_division folds
+topsie30 calls [$200]
+DrAvalanche folds
+noullis folds
+prk85 calls [$200]
+toimonostie calls [$200]
+TheKingee raises [$3,543]
+PapaShango19 folds
+queenofpkr09 folds
+topsie30 folds
+prk85 folds
+toimonostie folds
+** Summary **
+TheKingee did not show his hand
+TheKingee collected [ $1,100 ]
+
+
+
+#Game No : 642886316
+***** 888poker Hand History for Game 642886316 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:41:01
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $1,650 )
+Seat 2: DrAvalanche ( $3,257 )
+Seat 3: noullis ( $3,107 )
+Seat 4: prk85 ( $10,939 )
+Seat 5: toimonostie ( $2,657 )
+Seat 6: TheKingee ( $4,443 )
+Seat 7: PapaShango19 ( $3,695 )
+Seat 9: queenofpkr09 ( $8,935 )
+Seat 10: j_division ( $3,850 )
+queenofpkr09 posts small blind [$100]
+j_division posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4d ]
+topsie30 calls [$200]
+DrAvalanche folds
+noullis calls [$200]
+prk85 calls [$200]
+toimonostie folds
+TheKingee raises [$4,443]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+topsie30 folds
+noullis folds
+prk85 calls [$4,243]
+** Dealing flop ** [ 7h, 6s, Kd ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 8d ]
+** Summary **
+prk85 shows [ As, Qs ]
+TheKingee shows [ Jd, Kc ]
+TheKingee collected [ $9,586 ]
+
+
+
+#Game No : 642886531
+***** 888poker Hand History for Game 642886531 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:42:16
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $1,450 )
+Seat 2: DrAvalanche ( $3,257 )
+Seat 3: noullis ( $2,907 )
+Seat 4: prk85 ( $6,496 )
+Seat 5: toimonostie ( $2,657 )
+Seat 6: TheKingee ( $9,586 )
+Seat 7: PapaShango19 ( $3,695 )
+Seat 9: queenofpkr09 ( $8,835 )
+Seat 10: j_division ( $3,650 )
+j_division posts small blind [$100]
+topsie30 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4d ]
+DrAvalanche folds
+noullis folds
+prk85 raises [$400]
+toimonostie folds
+TheKingee calls [$400]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+topsie30 folds
+** Dealing flop ** [ 6d, 6h, 6c ]
+prk85 bets [$1,100]
+TheKingee folds
+** Summary **
+prk85 did not show his hand
+prk85 collected [ $1,100 ]
+
+
+
+#Game No : 642886682
+***** 888poker Hand History for Game 642886682 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:43:07
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: topsie30 ( $1,250 )
+Seat 2: DrAvalanche ( $3,257 )
+Seat 3: noullis ( $2,907 )
+Seat 4: prk85 ( $7,196 )
+Seat 5: toimonostie ( $2,657 )
+Seat 6: TheKingee ( $9,186 )
+Seat 7: PapaShango19 ( $3,695 )
+Seat 9: queenofpkr09 ( $8,835 )
+Seat 10: j_division ( $3,550 )
+topsie30 posts small blind [$100]
+DrAvalanche posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Ts ]
+noullis folds
+prk85 raises [$400]
+toimonostie folds
+TheKingee raises [$9,186]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+topsie30 folds
+DrAvalanche folds
+prk85 calls [$6,796]
+** Dealing flop ** [ 4h, 8d, 8c ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ 3s ]
+** Summary **
+prk85 shows [ Jd, 2d ]
+TheKingee shows [ 9d, 9h ]
+TheKingee collected [ $14,692 ]
+
+
+
+#Game No : 642886794
+***** 888poker Hand History for Game 642886794 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:43:48
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: topsie30 ( $1,150 )
+Seat 2: DrAvalanche ( $3,057 )
+Seat 3: noullis ( $2,907 )
+Seat 5: toimonostie ( $2,657 )
+Seat 6: TheKingee ( $16,682 )
+Seat 7: PapaShango19 ( $3,695 )
+Seat 9: queenofpkr09 ( $8,835 )
+Seat 10: j_division ( $3,550 )
+DrAvalanche posts small blind [$100]
+noullis posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8d ]
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+topsie30 calls [$200]
+DrAvalanche folds
+noullis checks
+** Dealing flop ** [ 6s, Ts, 2h ]
+noullis checks
+topsie30 checks
+** Dealing turn ** [ 5d ]
+noullis bets [$200]
+topsie30 calls [$200]
+** Dealing river ** [ Ah ]
+noullis bets [$2,507]
+topsie30 calls [$750]
+** Summary **
+topsie30 shows [ 5s, Kd ]
+noullis shows [ Tc, 6c ]
+noullis collected [ $2,400 ]
+
+
+
+#Game No : 642887004
+***** 888poker Hand History for Game 642887004 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:44:53
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: topsie30 ( $2,000 )
+Seat 2: DrAvalanche ( $2,957 )
+Seat 3: noullis ( $4,157 )
+Seat 5: toimonostie ( $2,657 )
+Seat 6: TheKingee ( $16,682 )
+Seat 7: PapaShango19 ( $3,695 )
+Seat 9: queenofpkr09 ( $8,835 )
+Seat 10: j_division ( $3,550 )
+noullis posts small blind [$100]
+toimonostie posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 5c ]
+TheKingee folds
+PapaShango19 calls [$200]
+queenofpkr09 folds
+j_division folds
+topsie30 raises [$800]
+DrAvalanche folds
+noullis calls [$700]
+toimonostie folds
+PapaShango19 folds
+** Dealing flop ** [ 4d, 3c, Qs ]
+noullis checks
+topsie30 bets [$1,200]
+noullis calls [$1,200]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ Kc ]
+** Summary **
+topsie30 shows [ Js, Jh ]
+noullis shows [ 9s, Ks ]
+noullis collected [ $4,400 ]
+
+
+
+#Game No : 642887129
+***** 888poker Hand History for Game 642887129 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:45:37
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: DrAvalanche ( $2,957 )
+Seat 3: noullis ( $6,557 )
+Seat 5: toimonostie ( $2,457 )
+Seat 6: TheKingee ( $16,682 )
+Seat 7: PapaShango19 ( $3,495 )
+Seat 9: queenofpkr09 ( $8,835 )
+Seat 10: j_division ( $3,550 )
+DrAvalanche posts ante [$25]
+noullis posts ante [$25]
+toimonostie posts ante [$25]
+TheKingee posts ante [$25]
+PapaShango19 posts ante [$25]
+queenofpkr09 posts ante [$25]
+j_division posts ante [$25]
+toimonostie posts small blind [$100]
+TheKingee posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Jd ]
+PapaShango19 raises [$450]
+queenofpkr09 folds
+j_division folds
+DrAvalanche folds
+noullis folds
+toimonostie folds
+TheKingee calls [$250]
+** Dealing flop ** [ Jc, Tc, Jh ]
+TheKingee checks
+PapaShango19 bets [$881]
+TheKingee folds
+** Summary **
+PapaShango19 collected [ $1,175 ]
+
+
+
+#Game No : 642887363
+***** 888poker Hand History for Game 642887363 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:46:49
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $2,000 )
+Seat 2: DrAvalanche ( $2,932 )
+Seat 3: noullis ( $6,532 )
+Seat 4: MyTimeIsN0w ( $2,000 )
+Seat 5: toimonostie ( $2,332 )
+Seat 6: TheKingee ( $16,207 )
+Seat 7: PapaShango19 ( $4,195 )
+Seat 9: queenofpkr09 ( $8,810 )
+Seat 10: j_division ( $3,525 )
+DrAvalanche posts ante [$25]
+noullis posts ante [$25]
+toimonostie posts ante [$25]
+TheKingee posts ante [$25]
+PapaShango19 posts ante [$25]
+queenofpkr09 posts ante [$25]
+j_division posts ante [$25]
+MyTimeIsN0w posts ante [$25]
+yaki48 posts ante [$25]
+TheKingee posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3d ]
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche folds
+noullis raises [$400]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+** Summary **
+noullis did not show his hand
+noullis collected [ $725 ]
+
+
+
+#Game No : 642887457
+***** 888poker Hand History for Game 642887457 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:47:20
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,975 )
+Seat 2: DrAvalanche ( $2,907 )
+Seat 3: noullis ( $7,032 )
+Seat 4: MyTimeIsN0w ( $1,975 )
+Seat 5: toimonostie ( $2,307 )
+Seat 6: TheKingee ( $16,082 )
+Seat 7: PapaShango19 ( $3,970 )
+Seat 9: queenofpkr09 ( $8,785 )
+Seat 10: j_division ( $3,500 )
+DrAvalanche posts ante [$25]
+noullis posts ante [$25]
+toimonostie posts ante [$25]
+TheKingee posts ante [$25]
+PapaShango19 posts ante [$25]
+queenofpkr09 posts ante [$25]
+j_division posts ante [$25]
+MyTimeIsN0w posts ante [$25]
+yaki48 posts ante [$25]
+PapaShango19 posts small blind [$100]
+queenofpkr09 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 8c ]
+j_division folds
+yaki48 folds
+DrAvalanche calls [$200]
+noullis folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 calls [$100]
+queenofpkr09 checks
+** Dealing flop ** [ Jc, 8s, 3s ]
+PapaShango19 bets [$412]
+queenofpkr09 folds
+DrAvalanche folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $825 ]
+
+
+
+#Game No : 642887609
+***** 888poker Hand History for Game 642887609 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:48:10
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,950 )
+Seat 2: DrAvalanche ( $2,682 )
+Seat 3: noullis ( $7,007 )
+Seat 4: MyTimeIsN0w ( $1,950 )
+Seat 5: toimonostie ( $2,282 )
+Seat 6: TheKingee ( $16,057 )
+Seat 7: PapaShango19 ( $4,570 )
+Seat 9: queenofpkr09 ( $8,560 )
+Seat 10: j_division ( $3,475 )
+DrAvalanche posts ante [$25]
+noullis posts ante [$25]
+toimonostie posts ante [$25]
+TheKingee posts ante [$25]
+PapaShango19 posts ante [$25]
+queenofpkr09 posts ante [$25]
+j_division posts ante [$25]
+MyTimeIsN0w posts ante [$25]
+yaki48 posts ante [$25]
+queenofpkr09 posts small blind [$100]
+j_division posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 7c ]
+yaki48 folds
+DrAvalanche folds
+noullis folds
+MyTimeIsN0w raises [$1,925]
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+** Summary **
+MyTimeIsN0w did not show his hand
+MyTimeIsN0w collected [ $725 ]
+
+
+
+#Game No : 642887743
+***** 888poker Hand History for Game 642887743 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:48:51
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,925 )
+Seat 2: DrAvalanche ( $2,657 )
+Seat 3: noullis ( $6,982 )
+Seat 4: MyTimeIsN0w ( $2,450 )
+Seat 5: toimonostie ( $2,257 )
+Seat 6: TheKingee ( $16,032 )
+Seat 7: PapaShango19 ( $4,545 )
+Seat 9: queenofpkr09 ( $8,435 )
+Seat 10: j_division ( $3,250 )
+DrAvalanche posts ante [$25]
+noullis posts ante [$25]
+toimonostie posts ante [$25]
+TheKingee posts ante [$25]
+PapaShango19 posts ante [$25]
+queenofpkr09 posts ante [$25]
+j_division posts ante [$25]
+MyTimeIsN0w posts ante [$25]
+yaki48 posts ante [$25]
+j_division posts small blind [$100]
+yaki48 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Qs ]
+DrAvalanche calls [$200]
+noullis folds
+MyTimeIsN0w folds
+toimonostie calls [$200]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 checks
+** Dealing flop ** [ Th, 7s, 7c ]
+yaki48 checks
+DrAvalanche bets [$693]
+toimonostie folds
+yaki48 folds
+** Summary **
+DrAvalanche did not show his hand
+DrAvalanche collected [ $925 ]
+
+
+
+#Game No : 642887910
+***** 888poker Hand History for Game 642887910 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 02:49:49
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,700 )
+Seat 2: DrAvalanche ( $3,357 )
+Seat 3: noullis ( $6,957 )
+Seat 4: MyTimeIsN0w ( $2,425 )
+Seat 5: toimonostie ( $2,032 )
+Seat 6: TheKingee ( $16,007 )
+Seat 7: PapaShango19 ( $4,520 )
+Seat 9: queenofpkr09 ( $8,410 )
+Seat 10: j_division ( $3,125 )
+DrAvalanche posts ante [$25]
+noullis posts ante [$25]
+toimonostie posts ante [$25]
+TheKingee posts ante [$25]
+PapaShango19 posts ante [$25]
+queenofpkr09 posts ante [$25]
+j_division posts ante [$25]
+MyTimeIsN0w posts ante [$25]
+yaki48 posts ante [$25]
+yaki48 posts small blind [$100]
+DrAvalanche posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ac ]
+noullis folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee raises [$400]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche folds
+** Summary **
+TheKingee did not show his hand
+TheKingee collected [ $725 ]
+
+
+
+#Game No : 642888005
+***** 888poker Hand History for Game 642888005 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 02:50:25
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,575 )
+Seat 2: DrAvalanche ( $3,132 )
+Seat 3: noullis ( $6,932 )
+Seat 4: MyTimeIsN0w ( $2,400 )
+Seat 5: toimonostie ( $2,007 )
+Seat 6: TheKingee ( $16,507 )
+Seat 7: PapaShango19 ( $4,495 )
+Seat 9: queenofpkr09 ( $8,385 )
+Seat 10: j_division ( $3,100 )
+DrAvalanche posts ante [$30]
+noullis posts ante [$30]
+toimonostie posts ante [$30]
+TheKingee posts ante [$30]
+PapaShango19 posts ante [$30]
+queenofpkr09 posts ante [$30]
+j_division posts ante [$30]
+MyTimeIsN0w posts ante [$30]
+yaki48 posts ante [$30]
+DrAvalanche posts small blind [$125]
+noullis posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 8d ]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 raises [$500]
+queenofpkr09 folds
+j_division calls [$500]
+yaki48 folds
+DrAvalanche folds
+noullis calls [$250]
+** Dealing flop ** [ 6d, 3s, Kd ]
+noullis checks
+PapaShango19 bets [$947]
+j_division folds
+noullis calls [$947]
+** Dealing turn ** [ As ]
+noullis checks
+PapaShango19 checks
+** Dealing river ** [ 2d ]
+noullis checks
+PapaShango19 checks
+** Summary **
+noullis shows [ 6c, 4h ]
+PapaShango19 shows [ 8h, 8d ]
+PapaShango19 collected [ $3,789 ]
+
+
+
+#Game No : 642888177
+***** 888poker Hand History for Game 642888177 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 02:51:24
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,545 )
+Seat 2: DrAvalanche ( $2,977 )
+Seat 3: noullis ( $5,455 )
+Seat 4: MyTimeIsN0w ( $4,370 )
+Seat 5: toimonostie ( $1,977 )
+Seat 6: TheKingee ( $16,477 )
+Seat 7: PapaShango19 ( $6,807 )
+Seat 9: queenofpkr09 ( $8,355 )
+Seat 10: j_division ( $2,570 )
+DrAvalanche posts ante [$30]
+noullis posts ante [$30]
+toimonostie posts ante [$30]
+TheKingee posts ante [$30]
+PapaShango19 posts ante [$30]
+queenofpkr09 posts ante [$30]
+j_division posts ante [$30]
+MyTimeIsN0w posts ante [$30]
+yaki48 posts ante [$30]
+noullis posts small blind [$125]
+MyTimeIsN0w posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 8c ]
+toimonostie calls [$250]
+TheKingee folds
+PapaShango19 raises [$750]
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche folds
+noullis folds
+MyTimeIsN0w folds
+toimonostie raises [$1,697]
+PapaShango19 calls [$1,197]
+** Dealing flop ** [ 4h, 7c, 3c ]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ 9s ]
+** Summary **
+toimonostie shows [ As, Ac ]
+PapaShango19 shows [ 8d, 8c ]
+toimonostie collected [ $4,539 ]
+
+
+
+#Game No : 642888314
+***** 888poker Hand History for Game 642888314 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 02:52:14
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,515 )
+Seat 2: DrAvalanche ( $2,947 )
+Seat 3: noullis ( $5,300 )
+Seat 4: MyTimeIsN0w ( $4,090 )
+Seat 5: toimonostie ( $4,539 )
+Seat 6: TheKingee ( $16,447 )
+Seat 7: PapaShango19 ( $4,830 )
+Seat 9: queenofpkr09 ( $8,325 )
+Seat 10: j_division ( $4,540 )
+DrAvalanche posts ante [$30]
+noullis posts ante [$30]
+toimonostie posts ante [$30]
+TheKingee posts ante [$30]
+PapaShango19 posts ante [$30]
+queenofpkr09 posts ante [$30]
+j_division posts ante [$30]
+MyTimeIsN0w posts ante [$30]
+yaki48 posts ante [$30]
+MyTimeIsN0w posts small blind [$125]
+toimonostie posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 4h ]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche raises [$500]
+noullis folds
+MyTimeIsN0w folds
+toimonostie folds
+** Summary **
+DrAvalanche did not show his hand
+DrAvalanche collected [ $895 ]
+
+
+
+#Game No : 642888400
+***** 888poker Hand History for Game 642888400 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 02:52:45
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,485 )
+Seat 2: DrAvalanche ( $3,562 )
+Seat 3: noullis ( $5,270 )
+Seat 4: MyTimeIsN0w ( $3,935 )
+Seat 5: toimonostie ( $6,259 )
+Seat 6: TheKingee ( $16,417 )
+Seat 7: PapaShango19 ( $4,800 )
+Seat 9: queenofpkr09 ( $8,295 )
+Seat 10: j_division ( $4,510 )
+DrAvalanche posts ante [$30]
+noullis posts ante [$30]
+toimonostie posts ante [$30]
+TheKingee posts ante [$30]
+PapaShango19 posts ante [$30]
+queenofpkr09 posts ante [$30]
+j_division posts ante [$30]
+MyTimeIsN0w posts ante [$30]
+yaki48 posts ante [$30]
+toimonostie posts small blind [$125]
+TheKingee posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 6d ]
+PapaShango19 raises [$500]
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche calls [$500]
+noullis folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+** Dealing flop ** [ Kc, Jd, 4s ]
+PapaShango19 checks
+DrAvalanche checks
+** Dealing turn ** [ 5s ]
+PapaShango19 checks
+DrAvalanche bets [$733]
+PapaShango19 folds
+** Summary **
+DrAvalanche did not show his hand
+DrAvalanche collected [ $1,645 ]
+
+
+
+#Game No : 642888595
+***** 888poker Hand History for Game 642888595 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 02:53:50
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,455 )
+Seat 2: DrAvalanche ( $4,677 )
+Seat 3: noullis ( $5,240 )
+Seat 4: MyTimeIsN0w ( $3,905 )
+Seat 5: toimonostie ( $6,104 )
+Seat 6: TheKingee ( $16,137 )
+Seat 7: PapaShango19 ( $4,270 )
+Seat 9: queenofpkr09 ( $8,265 )
+Seat 10: j_division ( $4,480 )
+DrAvalanche posts ante [$30]
+noullis posts ante [$30]
+toimonostie posts ante [$30]
+TheKingee posts ante [$30]
+PapaShango19 posts ante [$30]
+queenofpkr09 posts ante [$30]
+j_division posts ante [$30]
+MyTimeIsN0w posts ante [$30]
+yaki48 posts ante [$30]
+TheKingee posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Jd ]
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche folds
+noullis raises [$500]
+MyTimeIsN0w folds
+toimonostie raises [$1,608]
+TheKingee folds
+PapaShango19 calls [$1,358]
+noullis calls [$1,108]
+** Dealing flop ** [ 5s, 8h, Ac ]
+PapaShango19 checks
+noullis checks
+toimonostie checks
+** Dealing turn ** [ 7c ]
+PapaShango19 checks
+noullis checks
+toimonostie checks
+** Dealing river ** [ Ah ]
+PapaShango19 checks
+noullis checks
+toimonostie bets [$2,609]
+PapaShango19 folds
+noullis folds
+** Summary **
+toimonostie did not show his hand
+toimonostie collected [ $5,219 ]
+
+
+
+#Game No : 642889412
+***** 888poker Hand History for Game 642889412 *****
+$125/$250 Blinds No Limit Holdem - *** 23 11 2014 03:00:01
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $10,425 )
+Seat 2: DrAvalanche ( $9,647 )
+Seat 3: noullis ( $8,602 )
+Seat 4: MyTimeIsN0w ( $8,875 )
+Seat 5: toimonostie ( $14,685 )
+Seat 6: TheKingee ( $20,982 )
+Seat 7: PapaShango19 ( $7,632 )
+Seat 9: queenofpkr09 ( $13,235 )
+Seat 10: j_division ( $9,450 )
+DrAvalanche posts ante [$30]
+noullis posts ante [$30]
+toimonostie posts ante [$30]
+TheKingee posts ante [$30]
+PapaShango19 posts ante [$30]
+queenofpkr09 posts ante [$30]
+j_division posts ante [$30]
+MyTimeIsN0w posts ante [$30]
+yaki48 posts ante [$30]
+PapaShango19 posts small blind [$125]
+queenofpkr09 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Kc ]
+j_division folds
+yaki48 folds
+DrAvalanche folds
+noullis folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee raises [$500]
+PapaShango19 folds
+queenofpkr09 calls [$250]
+** Dealing flop ** [ 3d, Ah, 9h ]
+queenofpkr09 checks
+TheKingee checks
+** Dealing turn ** [ 2s ]
+queenofpkr09 bets [$250]
+TheKingee calls [$250]
+** Dealing river ** [ Ad ]
+queenofpkr09 checks
+TheKingee bets [$875]
+queenofpkr09 calls [$875]
+** Summary **
+TheKingee shows [ 5s, As ]
+queenofpkr09 mucks [ Jc, 3c ]
+TheKingee collected [ $3,645 ]
+
+
+
+#Game No : 642889575
+***** 888poker Hand History for Game 642889575 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:01:20
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $10,395 )
+Seat 2: DrAvalanche ( $9,617 )
+Seat 3: noullis ( $8,572 )
+Seat 4: MyTimeIsN0w ( $8,845 )
+Seat 5: toimonostie ( $14,655 )
+Seat 6: TheKingee ( $22,972 )
+Seat 7: PapaShango19 ( $7,477 )
+Seat 9: queenofpkr09 ( $11,580 )
+Seat 10: j_division ( $9,420 )
+DrAvalanche posts ante [$40]
+noullis posts ante [$40]
+toimonostie posts ante [$40]
+TheKingee posts ante [$40]
+PapaShango19 posts ante [$40]
+queenofpkr09 posts ante [$40]
+j_division posts ante [$40]
+MyTimeIsN0w posts ante [$40]
+yaki48 posts ante [$40]
+queenofpkr09 posts small blind [$150]
+j_division posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Td ]
+yaki48 folds
+DrAvalanche folds
+noullis folds
+MyTimeIsN0w raises [$600]
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division calls [$300]
+** Dealing flop ** [ Tc, Kh, 7h ]
+j_division checks
+MyTimeIsN0w bets [$855]
+j_division calls [$855]
+** Dealing turn ** [ 3s ]
+j_division bets [$900]
+MyTimeIsN0w folds
+** Summary **
+j_division did not show his hand
+j_division collected [ $3,420 ]
+
+
+
+#Game No : 642889718
+***** 888poker Hand History for Game 642889718 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:02:21
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $10,355 )
+Seat 2: DrAvalanche ( $9,577 )
+Seat 3: noullis ( $8,532 )
+Seat 4: MyTimeIsN0w ( $7,350 )
+Seat 5: toimonostie ( $14,615 )
+Seat 6: TheKingee ( $22,932 )
+Seat 7: PapaShango19 ( $7,437 )
+Seat 9: queenofpkr09 ( $11,390 )
+Seat 10: j_division ( $11,345 )
+DrAvalanche posts ante [$40]
+noullis posts ante [$40]
+toimonostie posts ante [$40]
+TheKingee posts ante [$40]
+PapaShango19 posts ante [$40]
+queenofpkr09 posts ante [$40]
+j_division posts ante [$40]
+MyTimeIsN0w posts ante [$40]
+yaki48 posts ante [$40]
+j_division posts small blind [$150]
+yaki48 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Th ]
+DrAvalanche folds
+noullis raises [$8,492]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 calls [$8,192]
+** Dealing flop ** [ 7h, 8c, 4s ]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ 6h ]
+** Summary **
+yaki48 shows [ Td, Jd ]
+noullis shows [ As, Ks ]
+yaki48 collected [ $17,494 ]
+
+
+
+#Game No : 642889869
+***** 888poker Hand History for Game 642889869 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:03:15
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: yaki48 ( $19,317 )
+Seat 2: DrAvalanche ( $9,537 )
+Seat 4: MyTimeIsN0w ( $7,310 )
+Seat 5: toimonostie ( $14,575 )
+Seat 6: TheKingee ( $22,892 )
+Seat 7: PapaShango19 ( $7,397 )
+Seat 9: queenofpkr09 ( $11,350 )
+Seat 10: j_division ( $11,155 )
+DrAvalanche posts ante [$40]
+toimonostie posts ante [$40]
+TheKingee posts ante [$40]
+PapaShango19 posts ante [$40]
+queenofpkr09 posts ante [$40]
+j_division posts ante [$40]
+MyTimeIsN0w posts ante [$40]
+yaki48 posts ante [$40]
+yaki48 posts small blind [$150]
+DrAvalanche posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 3d ]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee raises [$600]
+PapaShango19 folds
+queenofpkr09 folds
+j_division calls [$600]
+yaki48 calls [$450]
+DrAvalanche calls [$300]
+** Dealing flop ** [ Qh, Qc, Jh ]
+yaki48 checks
+DrAvalanche checks
+TheKingee checks
+j_division bets [$600]
+yaki48 folds
+DrAvalanche folds
+TheKingee calls [$600]
+** Dealing turn ** [ 4s ]
+TheKingee checks
+j_division bets [$600]
+TheKingee calls [$600]
+** Dealing river ** [ 2c ]
+TheKingee checks
+j_division checks
+** Summary **
+TheKingee shows [ 9s, 8d ]
+j_division shows [ Ah, Ad ]
+j_division collected [ $5,120 ]
+
+
+
+#Game No : 642890054
+***** 888poker Hand History for Game 642890054 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 03:04:16
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $18,677 )
+Seat 2: DrAvalanche ( $8,897 )
+Seat 3: philippevp ( $4,332 )
+Seat 4: MyTimeIsN0w ( $7,270 )
+Seat 5: toimonostie ( $14,535 )
+Seat 6: TheKingee ( $21,052 )
+Seat 7: PapaShango19 ( $7,357 )
+Seat 9: queenofpkr09 ( $11,310 )
+Seat 10: j_division ( $14,435 )
+DrAvalanche posts ante [$40]
+toimonostie posts ante [$40]
+TheKingee posts ante [$40]
+PapaShango19 posts ante [$40]
+queenofpkr09 posts ante [$40]
+j_division posts ante [$40]
+MyTimeIsN0w posts ante [$40]
+yaki48 posts ante [$40]
+philippevp posts ante [$40]
+DrAvalanche posts small blind [$150]
+philippevp posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 4d ]
+MyTimeIsN0w raises [$600]
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 calls [$600]
+DrAvalanche folds
+philippevp folds
+** Dealing flop ** [ Jc, 4s, 5h ]
+MyTimeIsN0w bets [$1,005]
+yaki48 calls [$1,005]
+** Dealing turn ** [ Kd ]
+MyTimeIsN0w checks
+yaki48 checks
+** Dealing river ** [ 3c ]
+MyTimeIsN0w bets [$810]
+yaki48 folds
+** Summary **
+MyTimeIsN0w did not show his hand
+MyTimeIsN0w collected [ $4,020 ]
+
+
+
+#Game No : 642890271
+***** 888poker Hand History for Game 642890271 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:05:32
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $17,032 )
+Seat 2: DrAvalanche ( $8,707 )
+Seat 3: philippevp ( $3,992 )
+Seat 4: MyTimeIsN0w ( $9,645 )
+Seat 5: toimonostie ( $14,495 )
+Seat 6: TheKingee ( $21,012 )
+Seat 7: PapaShango19 ( $7,317 )
+Seat 9: queenofpkr09 ( $11,270 )
+Seat 10: j_division ( $14,395 )
+DrAvalanche posts ante [$50]
+toimonostie posts ante [$50]
+TheKingee posts ante [$50]
+PapaShango19 posts ante [$50]
+queenofpkr09 posts ante [$50]
+j_division posts ante [$50]
+MyTimeIsN0w posts ante [$50]
+yaki48 posts ante [$50]
+philippevp posts ante [$50]
+philippevp posts small blind [$200]
+MyTimeIsN0w posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Kc ]
+toimonostie folds
+TheKingee raises [$800]
+PapaShango19 calls [$800]
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche folds
+philippevp folds
+MyTimeIsN0w folds
+** Dealing flop ** [ 3h, 3d, 7s ]
+TheKingee checks
+PapaShango19 checks
+** Dealing turn ** [ 5s ]
+TheKingee bets [$1,155]
+PapaShango19 folds
+** Summary **
+TheKingee did not show his hand
+TheKingee collected [ $2,650 ]
+
+
+
+#Game No : 642890428
+***** 888poker Hand History for Game 642890428 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:06:31
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $16,982 )
+Seat 2: DrAvalanche ( $8,657 )
+Seat 3: philippevp ( $3,742 )
+Seat 4: MyTimeIsN0w ( $9,195 )
+Seat 5: toimonostie ( $14,445 )
+Seat 6: TheKingee ( $22,812 )
+Seat 7: PapaShango19 ( $6,467 )
+Seat 9: queenofpkr09 ( $11,220 )
+Seat 10: j_division ( $14,345 )
+DrAvalanche posts ante [$50]
+toimonostie posts ante [$50]
+TheKingee posts ante [$50]
+PapaShango19 posts ante [$50]
+queenofpkr09 posts ante [$50]
+j_division posts ante [$50]
+MyTimeIsN0w posts ante [$50]
+yaki48 posts ante [$50]
+philippevp posts ante [$50]
+MyTimeIsN0w posts small blind [$200]
+toimonostie posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Th ]
+TheKingee folds
+PapaShango19 raises [$800]
+queenofpkr09 folds
+j_division folds
+yaki48 calls [$800]
+DrAvalanche calls [$800]
+philippevp folds
+MyTimeIsN0w folds
+toimonostie folds
+** Dealing flop ** [ 4c, Jd, 7d ]
+PapaShango19 checks
+yaki48 bets [$400]
+DrAvalanche calls [$400]
+PapaShango19 folds
+** Dealing turn ** [ Kc ]
+yaki48 bets [$400]
+DrAvalanche calls [$400]
+** Dealing river ** [ 2c ]
+yaki48 bets [$2,525]
+DrAvalanche folds
+** Summary **
+yaki48 did not show his hand
+yaki48 collected [ $5,050 ]
+
+
+
+#Game No : 642890626
+***** 888poker Hand History for Game 642890626 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:07:42
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $20,382 )
+Seat 2: DrAvalanche ( $7,007 )
+Seat 3: philippevp ( $3,692 )
+Seat 4: MyTimeIsN0w ( $8,945 )
+Seat 5: toimonostie ( $13,995 )
+Seat 6: TheKingee ( $22,762 )
+Seat 7: PapaShango19 ( $5,617 )
+Seat 9: queenofpkr09 ( $11,170 )
+Seat 10: j_division ( $14,295 )
+DrAvalanche posts ante [$50]
+toimonostie posts ante [$50]
+TheKingee posts ante [$50]
+PapaShango19 posts ante [$50]
+queenofpkr09 posts ante [$50]
+j_division posts ante [$50]
+MyTimeIsN0w posts ante [$50]
+yaki48 posts ante [$50]
+philippevp posts ante [$50]
+toimonostie posts small blind [$200]
+TheKingee posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Kd ]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+DrAvalanche folds
+philippevp raises [$3,642]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+** Summary **
+philippevp did not show his hand
+philippevp collected [ $1,450 ]
+
+
+
+#Game No : 642890684
+***** 888poker Hand History for Game 642890684 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:08:01
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $20,332 )
+Seat 2: DrAvalanche ( $6,957 )
+Seat 3: philippevp ( $4,692 )
+Seat 4: MyTimeIsN0w ( $8,895 )
+Seat 5: toimonostie ( $13,745 )
+Seat 6: TheKingee ( $22,312 )
+Seat 7: PapaShango19 ( $5,567 )
+Seat 9: queenofpkr09 ( $11,120 )
+Seat 10: j_division ( $14,245 )
+DrAvalanche posts ante [$50]
+toimonostie posts ante [$50]
+TheKingee posts ante [$50]
+PapaShango19 posts ante [$50]
+queenofpkr09 posts ante [$50]
+j_division posts ante [$50]
+MyTimeIsN0w posts ante [$50]
+yaki48 posts ante [$50]
+philippevp posts ante [$50]
+TheKingee posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8d ]
+queenofpkr09 folds
+j_division folds
+yaki48 calls [$400]
+DrAvalanche raises [$1,200]
+philippevp raises [$4,642]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+yaki48 folds
+DrAvalanche calls [$3,442]
+** Dealing flop ** [ 8h, Tc, 9d ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ 9s ]
+** Summary **
+DrAvalanche shows [ Kd, Ks ]
+philippevp shows [ Qs, As ]
+philippevp collected [ $10,734 ]
+
+
+
+#Game No : 642890820
+***** 888poker Hand History for Game 642890820 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:08:51
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $19,882 )
+Seat 2: DrAvalanche ( $2,265 )
+Seat 3: philippevp ( $10,734 )
+Seat 4: MyTimeIsN0w ( $8,845 )
+Seat 5: toimonostie ( $13,695 )
+Seat 6: TheKingee ( $22,062 )
+Seat 7: PapaShango19 ( $5,117 )
+Seat 9: queenofpkr09 ( $11,070 )
+Seat 10: j_division ( $14,195 )
+DrAvalanche posts ante [$50]
+toimonostie posts ante [$50]
+TheKingee posts ante [$50]
+PapaShango19 posts ante [$50]
+queenofpkr09 posts ante [$50]
+j_division posts ante [$50]
+MyTimeIsN0w posts ante [$50]
+yaki48 posts ante [$50]
+philippevp posts ante [$50]
+PapaShango19 posts small blind [$200]
+queenofpkr09 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Jd ]
+j_division raises [$1,200]
+yaki48 folds
+DrAvalanche folds
+philippevp folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+** Summary **
+j_division did not show his hand
+j_division collected [ $1,450 ]
+
+
+
+#Game No : 642890888
+***** 888poker Hand History for Game 642890888 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:09:20
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $19,832 )
+Seat 2: DrAvalanche ( $2,215 )
+Seat 3: philippevp ( $10,684 )
+Seat 4: MyTimeIsN0w ( $8,795 )
+Seat 5: toimonostie ( $13,645 )
+Seat 6: TheKingee ( $22,012 )
+Seat 7: PapaShango19 ( $4,867 )
+Seat 9: queenofpkr09 ( $10,620 )
+Seat 10: j_division ( $15,195 )
+DrAvalanche posts ante [$50]
+toimonostie posts ante [$50]
+TheKingee posts ante [$50]
+PapaShango19 posts ante [$50]
+queenofpkr09 posts ante [$50]
+j_division posts ante [$50]
+MyTimeIsN0w posts ante [$50]
+yaki48 posts ante [$50]
+philippevp posts ante [$50]
+queenofpkr09 posts small blind [$200]
+j_division posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Tc ]
+yaki48 raises [$800]
+DrAvalanche raises [$2,165]
+philippevp folds
+MyTimeIsN0w calls [$2,165]
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 raises [$18,982]
+MyTimeIsN0w folds
+** Dealing flop ** [ Th, 4d, Qc ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 4h ]
+** Summary **
+yaki48 shows [ Qh, Qd ]
+DrAvalanche shows [ 6h, 7h ]
+yaki48 collected [ $7,545 ]
+
+
+
+#Game No : 642891029
+***** 888poker Hand History for Game 642891029 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 03:10:10
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: yaki48 ( $25,162 )
+Seat 3: philippevp ( $10,634 )
+Seat 4: MyTimeIsN0w ( $6,580 )
+Seat 5: toimonostie ( $13,595 )
+Seat 6: TheKingee ( $21,962 )
+Seat 7: PapaShango19 ( $4,817 )
+Seat 9: queenofpkr09 ( $10,370 )
+Seat 10: j_division ( $14,745 )
+toimonostie posts ante [$50]
+TheKingee posts ante [$50]
+PapaShango19 posts ante [$50]
+queenofpkr09 posts ante [$50]
+j_division posts ante [$50]
+MyTimeIsN0w posts ante [$50]
+yaki48 posts ante [$50]
+philippevp posts ante [$50]
+j_division posts small blind [$200]
+yaki48 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 9h ]
+philippevp folds
+MyTimeIsN0w folds
+toimonostie calls [$400]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division calls [$200]
+yaki48 checks
+** Dealing flop ** [ Ks, 4c, Th ]
+j_division checks
+yaki48 checks
+toimonostie bets [$1,600]
+j_division folds
+yaki48 folds
+** Summary **
+toimonostie collected [ $1,600 ]
+
+
+
+#Game No : 642891198
+***** 888poker Hand History for Game 642891198 *****
+$250/$500 Blinds No Limit Holdem - *** 23 11 2014 03:11:07
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $24,712 )
+Seat 2: IGGS12345 ( $18,837 )
+Seat 3: philippevp ( $10,584 )
+Seat 4: MyTimeIsN0w ( $6,530 )
+Seat 5: toimonostie ( $14,745 )
+Seat 6: TheKingee ( $21,912 )
+Seat 7: PapaShango19 ( $4,767 )
+Seat 9: queenofpkr09 ( $10,320 )
+Seat 10: j_division ( $14,295 )
+toimonostie posts ante [$60]
+TheKingee posts ante [$60]
+PapaShango19 posts ante [$60]
+queenofpkr09 posts ante [$60]
+j_division posts ante [$60]
+MyTimeIsN0w posts ante [$60]
+yaki48 posts ante [$60]
+philippevp posts ante [$60]
+IGGS12345 posts ante [$60]
+yaki48 posts small blind [$250]
+IGGS12345 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 9c ]
+philippevp raises [$1,500]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+IGGS12345 folds
+** Summary **
+philippevp did not show his hand
+philippevp collected [ $1,790 ]
+
+
+
+#Game No : 642891310
+***** 888poker Hand History for Game 642891310 *****
+$250/$500 Blinds No Limit Holdem - *** 23 11 2014 03:11:44
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $24,402 )
+Seat 2: IGGS12345 ( $18,277 )
+Seat 3: philippevp ( $11,814 )
+Seat 4: MyTimeIsN0w ( $6,470 )
+Seat 5: toimonostie ( $14,685 )
+Seat 6: TheKingee ( $21,852 )
+Seat 7: PapaShango19 ( $4,707 )
+Seat 9: queenofpkr09 ( $10,260 )
+Seat 10: j_division ( $14,235 )
+toimonostie posts ante [$60]
+TheKingee posts ante [$60]
+PapaShango19 posts ante [$60]
+queenofpkr09 posts ante [$60]
+j_division posts ante [$60]
+MyTimeIsN0w posts ante [$60]
+yaki48 posts ante [$60]
+philippevp posts ante [$60]
+IGGS12345 posts ante [$60]
+IGGS12345 posts small blind [$250]
+philippevp posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Kh ]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+IGGS12345 folds
+** Summary **
+philippevp did not show his hand
+philippevp collected [ $1,290 ]
+
+
+
+#Game No : 642891437
+***** 888poker Hand History for Game 642891437 *****
+$250/$500 Blinds No Limit Holdem - *** 23 11 2014 03:12:27
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $24,342 )
+Seat 2: IGGS12345 ( $17,967 )
+Seat 3: philippevp ( $12,544 )
+Seat 4: MyTimeIsN0w ( $6,410 )
+Seat 5: toimonostie ( $14,625 )
+Seat 6: TheKingee ( $21,792 )
+Seat 7: PapaShango19 ( $4,647 )
+Seat 9: queenofpkr09 ( $10,200 )
+Seat 10: j_division ( $14,175 )
+toimonostie posts ante [$60]
+TheKingee posts ante [$60]
+PapaShango19 posts ante [$60]
+queenofpkr09 posts ante [$60]
+j_division posts ante [$60]
+MyTimeIsN0w posts ante [$60]
+yaki48 posts ante [$60]
+philippevp posts ante [$60]
+IGGS12345 posts ante [$60]
+philippevp posts small blind [$250]
+MyTimeIsN0w posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 6h ]
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division calls [$500]
+yaki48 calls [$500]
+IGGS12345 folds
+philippevp raises [$1,750]
+MyTimeIsN0w raises [$5,850]
+j_division folds
+yaki48 calls [$5,850]
+philippevp folds
+** Dealing flop ** [ 5s, Qh, 2c ]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ 5d ]
+** Summary **
+yaki48 shows [ Ac, Jd ]
+MyTimeIsN0w shows [ Js, Jc ]
+MyTimeIsN0w collected [ $15,740 ]
+
+
+
+#Game No : 642891566
+***** 888poker Hand History for Game 642891566 *****
+$250/$500 Blinds No Limit Holdem - *** 23 11 2014 03:13:15
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $17,932 )
+Seat 2: IGGS12345 ( $17,907 )
+Seat 3: philippevp ( $10,484 )
+Seat 4: MyTimeIsN0w ( $15,740 )
+Seat 5: toimonostie ( $14,565 )
+Seat 6: TheKingee ( $21,732 )
+Seat 7: PapaShango19 ( $4,587 )
+Seat 9: queenofpkr09 ( $10,140 )
+Seat 10: j_division ( $13,615 )
+toimonostie posts ante [$60]
+TheKingee posts ante [$60]
+PapaShango19 posts ante [$60]
+queenofpkr09 posts ante [$60]
+j_division posts ante [$60]
+MyTimeIsN0w posts ante [$60]
+yaki48 posts ante [$60]
+philippevp posts ante [$60]
+IGGS12345 posts ante [$60]
+MyTimeIsN0w posts small blind [$250]
+toimonostie posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4d ]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+IGGS12345 folds
+philippevp raises [$1,000]
+MyTimeIsN0w folds
+toimonostie calls [$500]
+** Dealing flop ** [ 8d, 9c, Qc ]
+toimonostie checks
+philippevp checks
+** Dealing turn ** [ Ad ]
+toimonostie checks
+philippevp bets [$2,000]
+toimonostie folds
+** Summary **
+philippevp did not show his hand
+philippevp collected [ $2,790 ]
+
+
+
+#Game No : 642891751
+***** 888poker Hand History for Game 642891751 *****
+$250/$500 Blinds No Limit Holdem - *** 23 11 2014 03:14:28
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $17,872 )
+Seat 2: IGGS12345 ( $17,847 )
+Seat 3: philippevp ( $12,214 )
+Seat 4: MyTimeIsN0w ( $15,430 )
+Seat 5: toimonostie ( $13,505 )
+Seat 6: TheKingee ( $21,672 )
+Seat 7: PapaShango19 ( $4,527 )
+Seat 9: queenofpkr09 ( $10,080 )
+Seat 10: j_division ( $13,555 )
+toimonostie posts ante [$60]
+TheKingee posts ante [$60]
+PapaShango19 posts ante [$60]
+queenofpkr09 posts ante [$60]
+j_division posts ante [$60]
+MyTimeIsN0w posts ante [$60]
+yaki48 posts ante [$60]
+philippevp posts ante [$60]
+IGGS12345 posts ante [$60]
+toimonostie posts small blind [$250]
+TheKingee posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 6c ]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+IGGS12345 folds
+philippevp raises [$1,000]
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+** Summary **
+philippevp did not show his hand
+philippevp collected [ $1,790 ]
+
+
+
+#Game No : 642891813
+***** 888poker Hand History for Game 642891813 *****
+$250/$500 Blinds No Limit Holdem - *** 23 11 2014 03:14:51
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $17,812 )
+Seat 2: IGGS12345 ( $17,787 )
+Seat 3: philippevp ( $13,444 )
+Seat 4: MyTimeIsN0w ( $15,370 )
+Seat 5: toimonostie ( $13,195 )
+Seat 6: TheKingee ( $21,112 )
+Seat 7: PapaShango19 ( $4,467 )
+Seat 9: queenofpkr09 ( $10,020 )
+Seat 10: j_division ( $13,495 )
+toimonostie posts ante [$60]
+TheKingee posts ante [$60]
+PapaShango19 posts ante [$60]
+queenofpkr09 posts ante [$60]
+j_division posts ante [$60]
+MyTimeIsN0w posts ante [$60]
+yaki48 posts ante [$60]
+philippevp posts ante [$60]
+IGGS12345 posts ante [$60]
+TheKingee posts small blind [$250]
+PapaShango19 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9s ]
+queenofpkr09 folds
+j_division folds
+yaki48 calls [$500]
+IGGS12345 folds
+philippevp calls [$500]
+MyTimeIsN0w folds
+toimonostie calls [$500]
+TheKingee calls [$250]
+PapaShango19 raises [$3,907]
+yaki48 calls [$3,907]
+philippevp folds
+toimonostie folds
+TheKingee folds
+** Dealing flop ** [ Kc, Qs, 3c ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 3s ]
+** Summary **
+yaki48 shows [ 4d, 2d ]
+PapaShango19 shows [ As, 9s ]
+PapaShango19 collected [ $10,854 ]
+
+
+
+#Game No : 642892040
+***** 888poker Hand History for Game 642892040 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:16:14
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $13,345 )
+Seat 2: IGGS12345 ( $17,727 )
+Seat 3: philippevp ( $12,884 )
+Seat 4: MyTimeIsN0w ( $15,310 )
+Seat 5: toimonostie ( $12,635 )
+Seat 6: TheKingee ( $20,552 )
+Seat 7: PapaShango19 ( $10,854 )
+Seat 9: queenofpkr09 ( $9,960 )
+Seat 10: j_division ( $13,435 )
+toimonostie posts ante [$70]
+TheKingee posts ante [$70]
+PapaShango19 posts ante [$70]
+queenofpkr09 posts ante [$70]
+j_division posts ante [$70]
+MyTimeIsN0w posts ante [$70]
+yaki48 posts ante [$70]
+philippevp posts ante [$70]
+IGGS12345 posts ante [$70]
+PapaShango19 posts small blind [$300]
+queenofpkr09 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 8s ]
+j_division folds
+yaki48 raises [$1,200]
+IGGS12345 folds
+philippevp folds
+MyTimeIsN0w folds
+toimonostie raises [$12,565]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+yaki48 calls [$11,365]
+** Dealing flop ** [ 7d, As, 7c ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 9c ]
+** Summary **
+yaki48 shows [ Ks, Kh ]
+toimonostie shows [ 9h, 9s ]
+toimonostie collected [ $26,660 ]
+
+
+
+#Game No : 642892192
+***** 888poker Hand History for Game 642892192 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:17:04
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $710 )
+Seat 2: IGGS12345 ( $17,657 )
+Seat 3: philippevp ( $12,814 )
+Seat 4: MyTimeIsN0w ( $15,240 )
+Seat 5: toimonostie ( $26,660 )
+Seat 6: TheKingee ( $20,482 )
+Seat 7: PapaShango19 ( $10,484 )
+Seat 9: queenofpkr09 ( $9,290 )
+Seat 10: j_division ( $13,365 )
+toimonostie posts ante [$70]
+TheKingee posts ante [$70]
+PapaShango19 posts ante [$70]
+queenofpkr09 posts ante [$70]
+j_division posts ante [$70]
+MyTimeIsN0w posts ante [$70]
+yaki48 posts ante [$70]
+philippevp posts ante [$70]
+IGGS12345 posts ante [$70]
+queenofpkr09 posts small blind [$300]
+j_division posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 4s ]
+yaki48 raises [$640]
+IGGS12345 folds
+philippevp folds
+MyTimeIsN0w folds
+toimonostie calls [$640]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division calls [$40]
+** Dealing flop ** [ Jh, Qc, 2h ]
+j_division checks
+toimonostie checks
+** Dealing turn ** [ 8s ]
+j_division checks
+toimonostie checks
+** Dealing river ** [ Qd ]
+j_division checks
+toimonostie checks
+** Summary **
+j_division shows [ 6s, Kh ]
+yaki48 shows [ 2c, 2s ]
+toimonostie mucks [ As, Ts ]
+yaki48 collected [ $2,850 ]
+
+
+
+#Game No : 642892320
+***** 888poker Hand History for Game 642892320 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:17:50
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $2,850 )
+Seat 2: IGGS12345 ( $17,587 )
+Seat 3: philippevp ( $12,744 )
+Seat 4: MyTimeIsN0w ( $15,170 )
+Seat 5: toimonostie ( $25,950 )
+Seat 6: TheKingee ( $20,412 )
+Seat 7: PapaShango19 ( $10,414 )
+Seat 9: queenofpkr09 ( $8,920 )
+Seat 10: j_division ( $12,655 )
+toimonostie posts ante [$70]
+TheKingee posts ante [$70]
+PapaShango19 posts ante [$70]
+queenofpkr09 posts ante [$70]
+j_division posts ante [$70]
+MyTimeIsN0w posts ante [$70]
+yaki48 posts ante [$70]
+philippevp posts ante [$70]
+IGGS12345 posts ante [$70]
+j_division posts small blind [$300]
+yaki48 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ah ]
+IGGS12345 folds
+philippevp folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 raises [$10,344]
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,130 ]
+
+
+
+#Game No : 642892420
+***** 888poker Hand History for Game 642892420 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:18:24
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $2,180 )
+Seat 2: IGGS12345 ( $17,517 )
+Seat 3: philippevp ( $12,674 )
+Seat 4: MyTimeIsN0w ( $15,100 )
+Seat 5: toimonostie ( $25,880 )
+Seat 6: TheKingee ( $20,342 )
+Seat 7: PapaShango19 ( $11,874 )
+Seat 9: queenofpkr09 ( $8,850 )
+Seat 10: j_division ( $12,285 )
+toimonostie posts ante [$70]
+TheKingee posts ante [$70]
+PapaShango19 posts ante [$70]
+queenofpkr09 posts ante [$70]
+j_division posts ante [$70]
+MyTimeIsN0w posts ante [$70]
+yaki48 posts ante [$70]
+philippevp posts ante [$70]
+IGGS12345 posts ante [$70]
+yaki48 posts small blind [$300]
+IGGS12345 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Kd ]
+philippevp folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 raises [$1,365]
+j_division raises [$12,215]
+yaki48 folds
+IGGS12345 folds
+queenofpkr09 calls [$7,415]
+** Dealing flop ** [ 4s, 4d, 2s ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 7d ]
+** Summary **
+queenofpkr09 shows [ 4c, 4h ]
+j_division shows [ Ad, Ah ]
+queenofpkr09 collected [ $19,090 ]
+
+
+
+#Game No : 642892536
+***** 888poker Hand History for Game 642892536 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:19:08
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,810 )
+Seat 2: IGGS12345 ( $16,847 )
+Seat 3: philippevp ( $12,604 )
+Seat 4: MyTimeIsN0w ( $15,030 )
+Seat 5: toimonostie ( $25,810 )
+Seat 6: TheKingee ( $20,272 )
+Seat 7: PapaShango19 ( $11,804 )
+Seat 9: queenofpkr09 ( $19,090 )
+Seat 10: j_division ( $3,435 )
+toimonostie posts ante [$70]
+TheKingee posts ante [$70]
+PapaShango19 posts ante [$70]
+queenofpkr09 posts ante [$70]
+j_division posts ante [$70]
+MyTimeIsN0w posts ante [$70]
+yaki48 posts ante [$70]
+philippevp posts ante [$70]
+IGGS12345 posts ante [$70]
+IGGS12345 posts small blind [$300]
+philippevp posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 8h ]
+MyTimeIsN0w raises [$1,200]
+toimonostie folds
+TheKingee calls [$1,200]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+IGGS12345 folds
+philippevp calls [$600]
+** Dealing flop ** [ Jd, Tc, 9h ]
+philippevp checks
+MyTimeIsN0w bets [$2,265]
+TheKingee folds
+philippevp calls [$2,265]
+** Dealing turn ** [ Ac ]
+philippevp checks
+MyTimeIsN0w bets [$4,530]
+philippevp folds
+** Summary **
+MyTimeIsN0w did not show his hand
+MyTimeIsN0w collected [ $9,060 ]
+
+
+
+#Game No : 642892666
+***** 888poker Hand History for Game 642892666 *****
+$300/$600 Blinds No Limit Holdem - *** 23 11 2014 03:19:58
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $1,740 )
+Seat 2: IGGS12345 ( $16,477 )
+Seat 3: philippevp ( $9,069 )
+Seat 4: MyTimeIsN0w ( $20,555 )
+Seat 5: toimonostie ( $25,740 )
+Seat 6: TheKingee ( $19,002 )
+Seat 7: PapaShango19 ( $11,734 )
+Seat 9: queenofpkr09 ( $19,020 )
+Seat 10: j_division ( $3,365 )
+toimonostie posts ante [$70]
+TheKingee posts ante [$70]
+PapaShango19 posts ante [$70]
+queenofpkr09 posts ante [$70]
+j_division posts ante [$70]
+MyTimeIsN0w posts ante [$70]
+yaki48 posts ante [$70]
+philippevp posts ante [$70]
+IGGS12345 posts ante [$70]
+philippevp posts small blind [$300]
+MyTimeIsN0w posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 8h ]
+toimonostie raises [$1,200]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 raises [$1,670]
+IGGS12345 calls [$1,670]
+philippevp raises [$8,699]
+MyTimeIsN0w folds
+toimonostie calls [$7,799]
+IGGS12345 calls [$7,329]
+** Dealing flop ** [ As, 3d, 4h ]
+toimonostie checks
+IGGS12345 bets [$600]
+toimonostie calls [$600]
+** Dealing turn ** [ 6h ]
+toimonostie checks
+IGGS12345 bets [$600]
+toimonostie calls [$600]
+** Dealing river ** [ 7d ]
+toimonostie checks
+IGGS12345 bets [$1,800]
+toimonostie calls [$1,800]
+** Summary **
+IGGS12345 shows [ Jd, 9d ]
+philippevp shows [ Tc, Th ]
+toimonostie shows [ Qd, Qs ]
+yaki48 shows [ 5c, Ah ]
+yaki48 collected [ $7,910 ]
+toimonostie collected [ $21,987 ]
+toimonostie collected [ $6,000 ]
+
+
+
+#Game No : 642892853
+***** 888poker Hand History for Game 642892853 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 03:21:07
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: yaki48 ( $7,910 )
+Seat 2: IGGS12345 ( $4,408 )
+Seat 4: MyTimeIsN0w ( $19,885 )
+Seat 5: toimonostie ( $41,658 )
+Seat 6: TheKingee ( $18,932 )
+Seat 7: PapaShango19 ( $11,664 )
+Seat 9: queenofpkr09 ( $18,950 )
+Seat 10: j_division ( $3,295 )
+toimonostie posts ante [$100]
+TheKingee posts ante [$100]
+PapaShango19 posts ante [$100]
+queenofpkr09 posts ante [$100]
+j_division posts ante [$100]
+MyTimeIsN0w posts ante [$100]
+yaki48 posts ante [$100]
+IGGS12345 posts ante [$100]
+MyTimeIsN0w posts small blind [$400]
+toimonostie posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 8s ]
+TheKingee folds
+PapaShango19 folds
+queenofpkr09 calls [$800]
+j_division folds
+yaki48 folds
+IGGS12345 folds
+MyTimeIsN0w folds
+toimonostie checks
+** Dealing flop ** [ 9c, 9h, Th ]
+toimonostie checks
+queenofpkr09 bets [$800]
+toimonostie folds
+** Summary **
+queenofpkr09 did not show his hand
+queenofpkr09 collected [ $2,800 ]
+
+
+
+#Game No : 642893015
+***** 888poker Hand History for Game 642893015 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 03:21:53
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: yaki48 ( $7,810 )
+Seat 2: IGGS12345 ( $4,308 )
+Seat 4: MyTimeIsN0w ( $19,385 )
+Seat 5: toimonostie ( $40,758 )
+Seat 6: TheKingee ( $18,832 )
+Seat 7: PapaShango19 ( $11,564 )
+Seat 9: queenofpkr09 ( $20,850 )
+Seat 10: j_division ( $3,195 )
+toimonostie posts ante [$100]
+TheKingee posts ante [$100]
+PapaShango19 posts ante [$100]
+queenofpkr09 posts ante [$100]
+j_division posts ante [$100]
+MyTimeIsN0w posts ante [$100]
+yaki48 posts ante [$100]
+IGGS12345 posts ante [$100]
+toimonostie posts small blind [$400]
+TheKingee posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Qd ]
+PapaShango19 raises [$1,600]
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+IGGS12345 folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee calls [$800]
+** Dealing flop ** [ Th, Js, 8d ]
+TheKingee checks
+PapaShango19 bets [$2,200]
+TheKingee calls [$2,200]
+** Dealing turn ** [ 6d ]
+TheKingee checks
+PapaShango19 bets [$7,664]
+TheKingee calls [$7,664]
+** Dealing river ** [ Ac ]
+** Summary **
+TheKingee shows [ 7h, 8h ]
+PapaShango19 shows [ Kc, Qd ]
+PapaShango19 collected [ $24,128 ]
+
+
+
+#Game No : 642893187
+***** 888poker Hand History for Game 642893187 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 03:22:46
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $7,710 )
+Seat 2: IGGS12345 ( $4,208 )
+Seat 3: ADaMiLkMaNA ( $44,886 )
+Seat 4: MyTimeIsN0w ( $19,285 )
+Seat 5: toimonostie ( $40,258 )
+Seat 6: TheKingee ( $7,268 )
+Seat 7: PapaShango19 ( $24,128 )
+Seat 9: queenofpkr09 ( $20,750 )
+Seat 10: j_division ( $3,095 )
+toimonostie posts ante [$100]
+TheKingee posts ante [$100]
+PapaShango19 posts ante [$100]
+queenofpkr09 posts ante [$100]
+j_division posts ante [$100]
+MyTimeIsN0w posts ante [$100]
+yaki48 posts ante [$100]
+IGGS12345 posts ante [$100]
+ADaMiLkMaNA posts ante [$100]
+TheKingee posts small blind [$400]
+PapaShango19 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Ac ]
+queenofpkr09 folds
+j_division folds
+yaki48 calls [$800]
+IGGS12345 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee calls [$400]
+PapaShango19 raises [$2,400]
+yaki48 calls [$2,400]
+TheKingee folds
+** Dealing flop ** [ Qh, 3c, 4d ]
+PapaShango19 bets [$3,250]
+yaki48 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $8,100 ]
+
+
+
+#Game No : 642893399
+***** 888poker Hand History for Game 642893399 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 03:23:54
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $4,410 )
+Seat 2: IGGS12345 ( $4,108 )
+Seat 3: ADaMiLkMaNA ( $44,786 )
+Seat 4: MyTimeIsN0w ( $19,185 )
+Seat 5: toimonostie ( $40,158 )
+Seat 6: TheKingee ( $6,368 )
+Seat 7: PapaShango19 ( $28,928 )
+Seat 9: queenofpkr09 ( $20,650 )
+Seat 10: j_division ( $2,995 )
+toimonostie posts ante [$100]
+TheKingee posts ante [$100]
+PapaShango19 posts ante [$100]
+queenofpkr09 posts ante [$100]
+j_division posts ante [$100]
+MyTimeIsN0w posts ante [$100]
+yaki48 posts ante [$100]
+IGGS12345 posts ante [$100]
+ADaMiLkMaNA posts ante [$100]
+PapaShango19 posts small blind [$400]
+queenofpkr09 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 5d ]
+j_division folds
+yaki48 calls [$800]
+IGGS12345 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+TheKingee folds
+PapaShango19 calls [$400]
+queenofpkr09 checks
+** Dealing flop ** [ Ac, 4s, 8h ]
+PapaShango19 bets [$800]
+queenofpkr09 folds
+yaki48 raises [$1,600]
+PapaShango19 calls [$800]
+** Dealing turn ** [ Kh ]
+PapaShango19 bets [$2,400]
+yaki48 calls [$1,910]
+** Dealing river ** [ 6s ]
+** Summary **
+yaki48 shows [ Ah, 2s ]
+PapaShango19 shows [ 8c, 5d ]
+yaki48 collected [ $10,320 ]
+
+
+
+#Game No : 642893615
+***** 888poker Hand History for Game 642893615 *****
+$400/$800 Blinds No Limit Holdem - *** 23 11 2014 03:25:04
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $10,320 )
+Seat 2: IGGS12345 ( $4,008 )
+Seat 3: ADaMiLkMaNA ( $44,686 )
+Seat 4: MyTimeIsN0w ( $19,085 )
+Seat 5: toimonostie ( $40,058 )
+Seat 6: TheKingee ( $6,268 )
+Seat 7: PapaShango19 ( $24,518 )
+Seat 9: queenofpkr09 ( $19,750 )
+Seat 10: j_division ( $2,895 )
+toimonostie posts ante [$100]
+TheKingee posts ante [$100]
+PapaShango19 posts ante [$100]
+queenofpkr09 posts ante [$100]
+j_division posts ante [$100]
+MyTimeIsN0w posts ante [$100]
+yaki48 posts ante [$100]
+IGGS12345 posts ante [$100]
+ADaMiLkMaNA posts ante [$100]
+queenofpkr09 posts small blind [$400]
+j_division posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Kd ]
+yaki48 folds
+IGGS12345 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie raises [$1,600]
+TheKingee raises [$6,168]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+toimonostie calls [$4,568]
+** Dealing flop ** [ 3c, Js, 9s ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ Ah ]
+** Summary **
+toimonostie shows [ Ac, 5s ]
+TheKingee shows [ As, 6d ]
+toimonostie collected [ $7,218 ]
+TheKingee collected [ $7,218 ]
+
+
+
+#Game No : 642893735
+***** 888poker Hand History for Game 642893735 *****
+$500/$1,000 Blinds No Limit Holdem - *** 23 11 2014 03:25:39
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $10,220 )
+Seat 2: IGGS12345 ( $3,908 )
+Seat 3: ADaMiLkMaNA ( $44,586 )
+Seat 4: MyTimeIsN0w ( $18,985 )
+Seat 5: toimonostie ( $41,008 )
+Seat 6: TheKingee ( $7,218 )
+Seat 7: PapaShango19 ( $24,418 )
+Seat 9: queenofpkr09 ( $19,250 )
+Seat 10: j_division ( $1,995 )
+toimonostie posts ante [$125]
+TheKingee posts ante [$125]
+PapaShango19 posts ante [$125]
+queenofpkr09 posts ante [$125]
+j_division posts ante [$125]
+MyTimeIsN0w posts ante [$125]
+yaki48 posts ante [$125]
+IGGS12345 posts ante [$125]
+ADaMiLkMaNA posts ante [$125]
+j_division posts small blind [$500]
+yaki48 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 3s ]
+IGGS12345 raises [$3,783]
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie calls [$3,783]
+TheKingee raises [$7,093]
+PapaShango19 folds
+queenofpkr09 folds
+j_division folds
+yaki48 folds
+toimonostie calls [$3,310]
+** Dealing flop ** [ Ks, 2s, Jd ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 4h ]
+** Summary **
+IGGS12345 shows [ 8d, Ac ]
+toimonostie shows [ Jh, Jc ]
+TheKingee shows [ 7s, 7h ]
+toimonostie collected [ $13,974 ]
+toimonostie collected [ $6,620 ]
+
+
+
+#Game No : 642893887
+***** 888poker Hand History for Game 642893887 *****
+$500/$1,000 Blinds No Limit Holdem - *** 23 11 2014 03:26:31
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: yaki48 ( $9,095 )
+Seat 2: 7everton7 ( $25,347 )
+Seat 3: ADaMiLkMaNA ( $44,461 )
+Seat 4: MyTimeIsN0w ( $18,860 )
+Seat 5: toimonostie ( $54,384 )
+Seat 7: PapaShango19 ( $24,293 )
+Seat 9: queenofpkr09 ( $19,125 )
+Seat 10: j_division ( $1,370 )
+toimonostie posts ante [$125]
+PapaShango19 posts ante [$125]
+queenofpkr09 posts ante [$125]
+j_division posts ante [$125]
+MyTimeIsN0w posts ante [$125]
+yaki48 posts ante [$125]
+ADaMiLkMaNA posts ante [$125]
+7everton7 posts ante [$125]
+yaki48 posts small blind [$500]
+7everton7 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Ad ]
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+PapaShango19 raises [$2,000]
+queenofpkr09 folds
+j_division calls [$1,245]
+yaki48 calls [$1,500]
+7everton7 folds
+** Dealing flop ** [ 6c, 3h, 3s ]
+yaki48 checks
+PapaShango19 bets [$1,000]
+yaki48 raises [$6,970]
+PapaShango19 calls [$5,970]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ Qh ]
+** Summary **
+yaki48 shows [ Ks, 6d ]
+PapaShango19 shows [ 4s, Ad ]
+j_division shows [ Kh, 4c ]
+yaki48 collected [ $5,735 ]
+yaki48 collected [ $15,450 ]
+
+
+
+#Game No : 642894070
+***** 888poker Hand History for Game 642894070 *****
+$500/$1,000 Blinds No Limit Holdem - *** 23 11 2014 03:27:26
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: yaki48 ( $21,185 )
+Seat 2: 7everton7 ( $24,222 )
+Seat 3: ADaMiLkMaNA ( $44,336 )
+Seat 4: MyTimeIsN0w ( $18,735 )
+Seat 5: toimonostie ( $54,259 )
+Seat 6: tudor0991302 ( $11,195 )
+Seat 7: PapaShango19 ( $15,198 )
+Seat 9: queenofpkr09 ( $19,000 )
+toimonostie posts ante [$125]
+PapaShango19 posts ante [$125]
+queenofpkr09 posts ante [$125]
+MyTimeIsN0w posts ante [$125]
+yaki48 posts ante [$125]
+ADaMiLkMaNA posts ante [$125]
+7everton7 posts ante [$125]
+tudor0991302 posts ante [$125]
+7everton7 posts small blind [$500]
+ADaMiLkMaNA posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Kh ]
+MyTimeIsN0w folds
+toimonostie folds
+tudor0991302 raises [$11,070]
+PapaShango19 folds
+queenofpkr09 folds
+yaki48 folds
+7everton7 folds
+ADaMiLkMaNA folds
+** Summary **
+tudor0991302 did not show his hand
+tudor0991302 collected [ $3,500 ]
+
+
+
+#Game No : 642894180
+***** 888poker Hand History for Game 642894180 *****
+$500/$1,000 Blinds No Limit Holdem - *** 23 11 2014 03:27:50
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: yaki48 ( $21,060 )
+Seat 2: 7everton7 ( $23,597 )
+Seat 3: ADaMiLkMaNA ( $43,211 )
+Seat 4: MyTimeIsN0w ( $18,610 )
+Seat 5: toimonostie ( $54,134 )
+Seat 6: tudor0991302 ( $13,570 )
+Seat 7: PapaShango19 ( $15,073 )
+Seat 9: queenofpkr09 ( $18,875 )
+toimonostie posts ante [$125]
+PapaShango19 posts ante [$125]
+queenofpkr09 posts ante [$125]
+MyTimeIsN0w posts ante [$125]
+yaki48 posts ante [$125]
+ADaMiLkMaNA posts ante [$125]
+7everton7 posts ante [$125]
+tudor0991302 posts ante [$125]
+ADaMiLkMaNA posts small blind [$500]
+MyTimeIsN0w posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Ad ]
+toimonostie folds
+tudor0991302 folds
+PapaShango19 raises [$2,000]
+queenofpkr09 folds
+yaki48 folds
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+** Summary **
+PapaShango19 collected [ $3,500 ]
+
+
+
+#Game No : 642894265
+***** 888poker Hand History for Game 642894265 *****
+$500/$1,000 Blinds No Limit Holdem - *** 23 11 2014 03:28:18
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $20,935 )
+Seat 2: 7everton7 ( $23,472 )
+Seat 3: ADaMiLkMaNA ( $42,586 )
+Seat 4: MyTimeIsN0w ( $17,485 )
+Seat 5: toimonostie ( $54,009 )
+Seat 6: tudor0991302 ( $13,445 )
+Seat 7: PapaShango19 ( $17,448 )
+Seat 9: queenofpkr09 ( $18,750 )
+Seat 10: n1keeew0w ( $51,465 )
+toimonostie posts ante [$125]
+PapaShango19 posts ante [$125]
+queenofpkr09 posts ante [$125]
+MyTimeIsN0w posts ante [$125]
+yaki48 posts ante [$125]
+ADaMiLkMaNA posts ante [$125]
+7everton7 posts ante [$125]
+tudor0991302 posts ante [$125]
+n1keeew0w posts ante [$125]
+MyTimeIsN0w posts small blind [$500]
+toimonostie posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 8s ]
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w folds
+yaki48 calls [$1,000]
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie checks
+** Dealing flop ** [ 7h, 5s, 5c ]
+toimonostie checks
+yaki48 checks
+** Dealing turn ** [ Qs ]
+toimonostie bets [$1,812]
+yaki48 raises [$4,624]
+toimonostie folds
+** Summary **
+yaki48 did not show his hand
+yaki48 collected [ $7,249 ]
+
+
+
+#Game No : 642894457
+***** 888poker Hand History for Game 642894457 *****
+$500/$1,000 Blinds No Limit Holdem - *** 23 11 2014 03:29:16
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $25,247 )
+Seat 2: 7everton7 ( $23,347 )
+Seat 3: ADaMiLkMaNA ( $42,461 )
+Seat 4: MyTimeIsN0w ( $16,860 )
+Seat 5: toimonostie ( $51,072 )
+Seat 6: tudor0991302 ( $13,320 )
+Seat 7: PapaShango19 ( $17,323 )
+Seat 9: queenofpkr09 ( $18,625 )
+Seat 10: n1keeew0w ( $51,340 )
+toimonostie posts ante [$125]
+PapaShango19 posts ante [$125]
+queenofpkr09 posts ante [$125]
+MyTimeIsN0w posts ante [$125]
+yaki48 posts ante [$125]
+ADaMiLkMaNA posts ante [$125]
+7everton7 posts ante [$125]
+tudor0991302 posts ante [$125]
+n1keeew0w posts ante [$125]
+toimonostie posts small blind [$500]
+tudor0991302 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 5s ]
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w folds
+yaki48 folds
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+** Summary **
+tudor0991302 did not show his hand
+tudor0991302 collected [ $2,625 ]
+
+
+
+#Game No : 642894534
+***** 888poker Hand History for Game 642894534 *****
+$500/$1,000 Blinds No Limit Holdem - *** 23 11 2014 03:29:39
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $25,122 )
+Seat 2: 7everton7 ( $23,222 )
+Seat 3: ADaMiLkMaNA ( $42,336 )
+Seat 4: MyTimeIsN0w ( $16,735 )
+Seat 5: toimonostie ( $50,447 )
+Seat 6: tudor0991302 ( $14,820 )
+Seat 7: PapaShango19 ( $17,198 )
+Seat 9: queenofpkr09 ( $18,500 )
+Seat 10: n1keeew0w ( $51,215 )
+toimonostie posts ante [$125]
+PapaShango19 posts ante [$125]
+queenofpkr09 posts ante [$125]
+MyTimeIsN0w posts ante [$125]
+yaki48 posts ante [$125]
+ADaMiLkMaNA posts ante [$125]
+7everton7 posts ante [$125]
+tudor0991302 posts ante [$125]
+n1keeew0w posts ante [$125]
+tudor0991302 posts small blind [$500]
+PapaShango19 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Ah ]
+queenofpkr09 raises [$2,312]
+n1keeew0w folds
+yaki48 calls [$2,312]
+7everton7 calls [$2,312]
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 calls [$1,312]
+** Dealing flop ** [ 9d, 7h, 2d ]
+PapaShango19 checks
+queenofpkr09 checks
+yaki48 bets [$5,436]
+7everton7 folds
+PapaShango19 folds
+queenofpkr09 folds
+** Summary **
+yaki48 did not show his hand
+yaki48 collected [ $10,873 ]
+
+
+
+#Game No : 642894685
+***** 888poker Hand History for Game 642894685 *****
+$600/$1,200 Blinds No Limit Holdem - *** 23 11 2014 03:30:36
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $33,558 )
+Seat 2: 7everton7 ( $20,785 )
+Seat 3: ADaMiLkMaNA ( $42,211 )
+Seat 4: MyTimeIsN0w ( $16,610 )
+Seat 5: toimonostie ( $50,322 )
+Seat 6: tudor0991302 ( $14,195 )
+Seat 7: PapaShango19 ( $14,761 )
+Seat 9: queenofpkr09 ( $16,063 )
+Seat 10: n1keeew0w ( $51,090 )
+toimonostie posts ante [$150]
+PapaShango19 posts ante [$150]
+queenofpkr09 posts ante [$150]
+MyTimeIsN0w posts ante [$150]
+yaki48 posts ante [$150]
+ADaMiLkMaNA posts ante [$150]
+7everton7 posts ante [$150]
+tudor0991302 posts ante [$150]
+n1keeew0w posts ante [$150]
+PapaShango19 posts small blind [$600]
+queenofpkr09 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 6h ]
+n1keeew0w raises [$2,775]
+yaki48 calls [$2,775]
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+** Dealing flop ** [ 6s, 5c, Ad ]
+n1keeew0w bets [$3,150]
+yaki48 calls [$3,150]
+** Dealing turn ** [ 2d ]
+n1keeew0w checks
+yaki48 checks
+** Dealing river ** [ Qc ]
+n1keeew0w bets [$45,015]
+yaki48 folds
+** Summary **
+n1keeew0w did not show his hand
+n1keeew0w collected [ $15,000 ]
+
+
+
+#Game No : 642894811
+***** 888poker Hand History for Game 642894811 *****
+$600/$1,200 Blinds No Limit Holdem - *** 23 11 2014 03:31:24
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $27,483 )
+Seat 2: 7everton7 ( $20,635 )
+Seat 3: ADaMiLkMaNA ( $42,061 )
+Seat 4: MyTimeIsN0w ( $16,460 )
+Seat 5: toimonostie ( $50,172 )
+Seat 6: tudor0991302 ( $14,045 )
+Seat 7: PapaShango19 ( $14,011 )
+Seat 9: queenofpkr09 ( $14,713 )
+Seat 10: n1keeew0w ( $60,015 )
+toimonostie posts ante [$150]
+PapaShango19 posts ante [$150]
+queenofpkr09 posts ante [$150]
+MyTimeIsN0w posts ante [$150]
+yaki48 posts ante [$150]
+ADaMiLkMaNA posts ante [$150]
+7everton7 posts ante [$150]
+tudor0991302 posts ante [$150]
+n1keeew0w posts ante [$150]
+queenofpkr09 posts small blind [$600]
+n1keeew0w posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Td ]
+yaki48 folds
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+** Summary **
+n1keeew0w did not show his hand
+n1keeew0w collected [ $3,150 ]
+
+
+
+#Game No : 642894867
+***** 888poker Hand History for Game 642894867 *****
+$600/$1,200 Blinds No Limit Holdem - *** 23 11 2014 03:31:46
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $27,333 )
+Seat 2: 7everton7 ( $20,485 )
+Seat 3: ADaMiLkMaNA ( $41,911 )
+Seat 4: MyTimeIsN0w ( $16,310 )
+Seat 5: toimonostie ( $50,022 )
+Seat 6: tudor0991302 ( $13,895 )
+Seat 7: PapaShango19 ( $13,861 )
+Seat 9: queenofpkr09 ( $13,963 )
+Seat 10: n1keeew0w ( $61,815 )
+toimonostie posts ante [$150]
+PapaShango19 posts ante [$150]
+queenofpkr09 posts ante [$150]
+MyTimeIsN0w posts ante [$150]
+yaki48 posts ante [$150]
+ADaMiLkMaNA posts ante [$150]
+7everton7 posts ante [$150]
+tudor0991302 posts ante [$150]
+n1keeew0w posts ante [$150]
+n1keeew0w posts small blind [$600]
+yaki48 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 7c ]
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie raises [$2,400]
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w folds
+yaki48 calls [$1,200]
+** Dealing flop ** [ Qs, 8h, Ah ]
+yaki48 checks
+toimonostie checks
+** Dealing turn ** [ Qh ]
+yaki48 bets [$3,375]
+toimonostie calls [$3,375]
+** Dealing river ** [ Ts ]
+yaki48 checks
+toimonostie checks
+** Summary **
+yaki48 shows [ 4s, 5s ]
+toimonostie shows [ Jd, Jh ]
+toimonostie collected [ $13,500 ]
+
+
+
+#Game No : 642895005
+***** 888poker Hand History for Game 642895005 *****
+$600/$1,200 Blinds No Limit Holdem - *** 23 11 2014 03:32:32
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $21,408 )
+Seat 2: 7everton7 ( $20,335 )
+Seat 3: ADaMiLkMaNA ( $41,761 )
+Seat 4: MyTimeIsN0w ( $16,160 )
+Seat 5: toimonostie ( $57,597 )
+Seat 6: tudor0991302 ( $13,745 )
+Seat 7: PapaShango19 ( $13,711 )
+Seat 9: queenofpkr09 ( $13,813 )
+Seat 10: n1keeew0w ( $61,065 )
+toimonostie posts ante [$150]
+PapaShango19 posts ante [$150]
+queenofpkr09 posts ante [$150]
+MyTimeIsN0w posts ante [$150]
+yaki48 posts ante [$150]
+ADaMiLkMaNA posts ante [$150]
+7everton7 posts ante [$150]
+tudor0991302 posts ante [$150]
+n1keeew0w posts ante [$150]
+yaki48 posts small blind [$600]
+7everton7 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 9c ]
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 raises [$13,663]
+n1keeew0w folds
+yaki48 folds
+7everton7 folds
+** Summary **
+queenofpkr09 did not show his hand
+queenofpkr09 collected [ $4,350 ]
+
+
+
+#Game No : 642895076
+***** 888poker Hand History for Game 642895076 *****
+$600/$1,200 Blinds No Limit Holdem - *** 23 11 2014 03:32:55
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: yaki48 ( $20,658 )
+Seat 2: 7everton7 ( $18,985 )
+Seat 3: ADaMiLkMaNA ( $41,611 )
+Seat 4: MyTimeIsN0w ( $16,010 )
+Seat 5: toimonostie ( $57,447 )
+Seat 6: tudor0991302 ( $13,595 )
+Seat 7: PapaShango19 ( $13,561 )
+Seat 9: queenofpkr09 ( $16,813 )
+Seat 10: n1keeew0w ( $60,915 )
+toimonostie posts ante [$150]
+PapaShango19 posts ante [$150]
+queenofpkr09 posts ante [$150]
+MyTimeIsN0w posts ante [$150]
+yaki48 posts ante [$150]
+ADaMiLkMaNA posts ante [$150]
+7everton7 posts ante [$150]
+tudor0991302 posts ante [$150]
+n1keeew0w posts ante [$150]
+7everton7 posts small blind [$600]
+ADaMiLkMaNA posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 6h ]
+MyTimeIsN0w folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w raises [$2,775]
+yaki48 raises [$5,550]
+7everton7 folds
+ADaMiLkMaNA folds
+n1keeew0w calls [$2,775]
+** Dealing flop ** [ Jc, 3c, 2h ]
+n1keeew0w checks
+yaki48 bets [$1,200]
+n1keeew0w raises [$8,925]
+yaki48 raises [$13,758]
+n1keeew0w calls [$6,033]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ Ts ]
+** Summary **
+yaki48 shows [ Kh, Kc ]
+n1keeew0w shows [ 3d, 3h ]
+n1keeew0w collected [ $44,166 ]
+
+
+
+#Game No : 642895279
+***** 888poker Hand History for Game 642895279 *****
+$600/$1,200 Blinds No Limit Holdem - *** 23 11 2014 03:34:13
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: 7everton7 ( $18,235 )
+Seat 3: ADaMiLkMaNA ( $40,261 )
+Seat 4: MyTimeIsN0w ( $15,860 )
+Seat 5: toimonostie ( $57,297 )
+Seat 6: tudor0991302 ( $13,445 )
+Seat 7: PapaShango19 ( $13,411 )
+Seat 9: queenofpkr09 ( $16,663 )
+Seat 10: n1keeew0w ( $84,423 )
+toimonostie posts ante [$150]
+PapaShango19 posts ante [$150]
+queenofpkr09 posts ante [$150]
+MyTimeIsN0w posts ante [$150]
+ADaMiLkMaNA posts ante [$150]
+7everton7 posts ante [$150]
+tudor0991302 posts ante [$150]
+n1keeew0w posts ante [$150]
+ADaMiLkMaNA posts small blind [$600]
+MyTimeIsN0w posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9s ]
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 calls [$1,200]
+n1keeew0w raises [$3,300]
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w folds
+queenofpkr09 calls [$2,100]
+** Dealing flop ** [ Qh, Kd, 2h ]
+queenofpkr09 checks
+n1keeew0w checks
+** Dealing turn ** [ 9d ]
+queenofpkr09 checks
+n1keeew0w checks
+** Dealing river ** [ 5h ]
+queenofpkr09 checks
+n1keeew0w checks
+** Summary **
+queenofpkr09 shows [ 3h, 3c ]
+n1keeew0w mucks [ Jd, As ]
+queenofpkr09 collected [ $9,600 ]
+
+
+
+#Game No : 642895402
+***** 888poker Hand History for Game 642895402 *****
+$600/$1,200 Blinds No Limit Holdem - *** 23 11 2014 03:35:03
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: 7everton7 ( $18,085 )
+Seat 3: ADaMiLkMaNA ( $39,511 )
+Seat 4: MyTimeIsN0w ( $14,510 )
+Seat 5: toimonostie ( $57,147 )
+Seat 6: tudor0991302 ( $13,295 )
+Seat 7: PapaShango19 ( $13,261 )
+Seat 9: queenofpkr09 ( $22,813 )
+Seat 10: n1keeew0w ( $80,973 )
+toimonostie posts ante [$150]
+PapaShango19 posts ante [$150]
+queenofpkr09 posts ante [$150]
+MyTimeIsN0w posts ante [$150]
+ADaMiLkMaNA posts ante [$150]
+7everton7 posts ante [$150]
+tudor0991302 posts ante [$150]
+n1keeew0w posts ante [$150]
+MyTimeIsN0w posts small blind [$600]
+toimonostie posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 2c ]
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w folds
+7everton7 folds
+ADaMiLkMaNA folds
+MyTimeIsN0w raises [$13,760]
+toimonostie calls [$13,160]
+** Dealing flop ** [ 5c, Js, Kc ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 7h ]
+** Summary **
+MyTimeIsN0w shows [ Td, Jc ]
+toimonostie shows [ Ah, Qd ]
+toimonostie collected [ $29,920 ]
+
+
+
+#Game No : 642895487
+***** 888poker Hand History for Game 642895487 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:35:41
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Savin91 ( $11,456 )
+Seat 2: 7everton7 ( $17,935 )
+Seat 3: ADaMiLkMaNA ( $39,361 )
+Seat 5: toimonostie ( $72,557 )
+Seat 6: tudor0991302 ( $13,145 )
+Seat 7: PapaShango19 ( $13,111 )
+Seat 9: queenofpkr09 ( $22,663 )
+Seat 10: n1keeew0w ( $80,823 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+toimonostie posts small blind [$700]
+tudor0991302 posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 5s ]
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w raises [$3,150]
+Savin91 folds
+7everton7 folds
+ADaMiLkMaNA calls [$3,150]
+toimonostie folds
+tudor0991302 folds
+** Dealing flop ** [ 6d, 2d, 9d ]
+n1keeew0w bets [$4,900]
+ADaMiLkMaNA folds
+** Summary **
+n1keeew0w collected [ $9,800 ]
+
+
+
+#Game No : 642895598
+***** 888poker Hand History for Game 642895598 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:36:33
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $11,281 )
+Seat 2: 7everton7 ( $17,760 )
+Seat 3: ADaMiLkMaNA ( $36,036 )
+Seat 4: I_RAGE_quit ( $64,275 )
+Seat 5: toimonostie ( $71,682 )
+Seat 6: tudor0991302 ( $11,570 )
+Seat 7: PapaShango19 ( $12,936 )
+Seat 9: queenofpkr09 ( $22,488 )
+Seat 10: n1keeew0w ( $87,298 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+tudor0991302 posts small blind [$700]
+PapaShango19 posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 6s ]
+queenofpkr09 folds
+n1keeew0w folds
+Savin91 raises [$11,106]
+7everton7 folds
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+** Summary **
+Savin91 did not show his hand
+Savin91 collected [ $5,075 ]
+
+
+
+#Game No : 642895655
+***** 888poker Hand History for Game 642895655 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:37:00
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $14,781 )
+Seat 2: 7everton7 ( $17,585 )
+Seat 3: ADaMiLkMaNA ( $35,861 )
+Seat 4: I_RAGE_quit ( $64,100 )
+Seat 5: toimonostie ( $71,507 )
+Seat 6: tudor0991302 ( $10,695 )
+Seat 7: PapaShango19 ( $11,361 )
+Seat 9: queenofpkr09 ( $22,313 )
+Seat 10: n1keeew0w ( $87,123 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+PapaShango19 posts small blind [$700]
+queenofpkr09 posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 6s ]
+n1keeew0w raises [$3,237]
+Savin91 folds
+7everton7 folds
+ADaMiLkMaNA folds
+I_RAGE_quit calls [$3,237]
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 calls [$1,837]
+** Dealing flop ** [ Jh, Kd, 8s ]
+queenofpkr09 checks
+n1keeew0w bets [$2,800]
+I_RAGE_quit folds
+queenofpkr09 folds
+** Summary **
+n1keeew0w did not show his hand
+n1keeew0w collected [ $11,986 ]
+
+
+
+#Game No : 642895780
+***** 888poker Hand History for Game 642895780 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:37:58
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $14,606 )
+Seat 2: 7everton7 ( $17,410 )
+Seat 3: ADaMiLkMaNA ( $35,686 )
+Seat 4: I_RAGE_quit ( $60,688 )
+Seat 5: toimonostie ( $71,332 )
+Seat 6: tudor0991302 ( $10,520 )
+Seat 7: PapaShango19 ( $10,486 )
+Seat 9: queenofpkr09 ( $18,901 )
+Seat 10: n1keeew0w ( $95,697 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+queenofpkr09 posts small blind [$700]
+n1keeew0w posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Kh ]
+Savin91 folds
+7everton7 folds
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 raises [$10,311]
+queenofpkr09 folds
+n1keeew0w folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $5,075 ]
+
+
+
+#Game No : 642895812
+***** 888poker Hand History for Game 642895812 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:38:17
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $14,431 )
+Seat 2: 7everton7 ( $17,235 )
+Seat 3: ADaMiLkMaNA ( $35,511 )
+Seat 4: I_RAGE_quit ( $60,513 )
+Seat 5: toimonostie ( $71,157 )
+Seat 6: tudor0991302 ( $10,345 )
+Seat 7: PapaShango19 ( $13,986 )
+Seat 9: queenofpkr09 ( $18,026 )
+Seat 10: n1keeew0w ( $94,122 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+n1keeew0w posts small blind [$700]
+Savin91 posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Qs ]
+7everton7 folds
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w raises [$2,537]
+Savin91 folds
+** Summary **
+n1keeew0w did not show his hand
+n1keeew0w collected [ $4,375 ]
+
+
+
+#Game No : 642895857
+***** 888poker Hand History for Game 642895857 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:38:38
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $12,856 )
+Seat 2: 7everton7 ( $17,060 )
+Seat 3: ADaMiLkMaNA ( $35,336 )
+Seat 4: I_RAGE_quit ( $60,338 )
+Seat 5: toimonostie ( $70,982 )
+Seat 6: tudor0991302 ( $10,170 )
+Seat 7: PapaShango19 ( $13,811 )
+Seat 9: queenofpkr09 ( $17,851 )
+Seat 10: n1keeew0w ( $96,922 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+Savin91 posts small blind [$700]
+7everton7 posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Qd ]
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w folds
+Savin91 folds
+** Summary **
+7everton7 did not show his hand
+7everton7 collected [ $3,675 ]
+
+
+
+#Game No : 642895910
+***** 888poker Hand History for Game 642895910 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:39:03
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $11,981 )
+Seat 2: 7everton7 ( $19,160 )
+Seat 3: ADaMiLkMaNA ( $35,161 )
+Seat 4: I_RAGE_quit ( $60,163 )
+Seat 5: toimonostie ( $70,807 )
+Seat 6: tudor0991302 ( $9,995 )
+Seat 7: PapaShango19 ( $13,636 )
+Seat 9: queenofpkr09 ( $17,676 )
+Seat 10: n1keeew0w ( $96,747 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+7everton7 posts small blind [$700]
+ADaMiLkMaNA posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Tc ]
+I_RAGE_quit folds
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 raises [$3,237]
+n1keeew0w folds
+Savin91 folds
+7everton7 folds
+ADaMiLkMaNA folds
+** Summary **
+queenofpkr09 did not show his hand
+queenofpkr09 collected [ $5,075 ]
+
+
+
+#Game No : 642895963
+***** 888poker Hand History for Game 642895963 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:39:34
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $11,806 )
+Seat 2: 7everton7 ( $18,285 )
+Seat 3: ADaMiLkMaNA ( $33,586 )
+Seat 4: I_RAGE_quit ( $59,988 )
+Seat 5: toimonostie ( $70,632 )
+Seat 6: tudor0991302 ( $9,820 )
+Seat 7: PapaShango19 ( $13,461 )
+Seat 9: queenofpkr09 ( $21,176 )
+Seat 10: n1keeew0w ( $96,572 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+ADaMiLkMaNA posts small blind [$700]
+I_RAGE_quit posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 4d ]
+toimonostie folds
+tudor0991302 folds
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w folds
+Savin91 folds
+7everton7 folds
+ADaMiLkMaNA folds
+** Summary **
+I_RAGE_quit did not show his hand
+I_RAGE_quit collected [ $3,675 ]
+
+
+
+#Game No : 642896048
+***** 888poker Hand History for Game 642896048 *****
+$700/$1,400 Blinds No Limit Holdem - *** 23 11 2014 03:40:12
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Savin91 ( $11,631 )
+Seat 2: 7everton7 ( $18,110 )
+Seat 3: ADaMiLkMaNA ( $32,711 )
+Seat 4: I_RAGE_quit ( $62,088 )
+Seat 5: toimonostie ( $70,457 )
+Seat 6: tudor0991302 ( $9,645 )
+Seat 7: PapaShango19 ( $13,286 )
+Seat 9: queenofpkr09 ( $21,001 )
+Seat 10: n1keeew0w ( $96,397 )
+toimonostie posts ante [$175]
+PapaShango19 posts ante [$175]
+queenofpkr09 posts ante [$175]
+ADaMiLkMaNA posts ante [$175]
+7everton7 posts ante [$175]
+tudor0991302 posts ante [$175]
+n1keeew0w posts ante [$175]
+Savin91 posts ante [$175]
+I_RAGE_quit posts ante [$175]
+I_RAGE_quit posts small blind [$700]
+toimonostie posts big blind [$1,400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 2s ]
+tudor0991302 raises [$2,800]
+PapaShango19 folds
+queenofpkr09 folds
+n1keeew0w folds
+Savin91 folds
+7everton7 calls [$2,800]
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie folds
+** Dealing flop ** [ Ad, 8s, 7s ]
+tudor0991302 bets [$2,800]
+7everton7 raises [$5,600]
+tudor0991302 raises [$3,870]
+7everton7 calls [$1,070]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ Ks ]
+** Summary **
+7everton7 shows [ Th, As ]
+tudor0991302 shows [ Ah, Kd ]
+7everton7 collected [ $22,615 ]
+
+
+
+#Game No : 642896192
+***** 888poker Hand History for Game 642896192 *****
+$800/$1,600 Blinds No Limit Holdem - *** 23 11 2014 03:41:24
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Savin91 ( $11,456 )
+Seat 2: 7everton7 ( $31,080 )
+Seat 3: ADaMiLkMaNA ( $32,536 )
+Seat 4: I_RAGE_quit ( $61,213 )
+Seat 5: toimonostie ( $68,882 )
+Seat 7: PapaShango19 ( $13,111 )
+Seat 9: queenofpkr09 ( $20,826 )
+Seat 10: n1keeew0w ( $96,222 )
+toimonostie posts ante [$200]
+PapaShango19 posts ante [$200]
+queenofpkr09 posts ante [$200]
+ADaMiLkMaNA posts ante [$200]
+7everton7 posts ante [$200]
+n1keeew0w posts ante [$200]
+Savin91 posts ante [$200]
+I_RAGE_quit posts ante [$200]
+toimonostie posts small blind [$800]
+PapaShango19 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4c ]
+queenofpkr09 folds
+n1keeew0w folds
+Savin91 raises [$11,256]
+7everton7 folds
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie folds
+PapaShango19 folds
+** Summary **
+Savin91 did not show his hand
+Savin91 collected [ $5,600 ]
+
+
+
+#Game No : 642896232
+***** 888poker Hand History for Game 642896232 *****
+$800/$1,600 Blinds No Limit Holdem - *** 23 11 2014 03:41:49
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Savin91 ( $15,256 )
+Seat 2: 7everton7 ( $30,880 )
+Seat 3: ADaMiLkMaNA ( $32,336 )
+Seat 4: I_RAGE_quit ( $61,013 )
+Seat 5: toimonostie ( $67,882 )
+Seat 7: PapaShango19 ( $11,311 )
+Seat 9: queenofpkr09 ( $20,626 )
+Seat 10: n1keeew0w ( $96,022 )
+toimonostie posts ante [$200]
+PapaShango19 posts ante [$200]
+queenofpkr09 posts ante [$200]
+ADaMiLkMaNA posts ante [$200]
+7everton7 posts ante [$200]
+n1keeew0w posts ante [$200]
+Savin91 posts ante [$200]
+I_RAGE_quit posts ante [$200]
+PapaShango19 posts small blind [$800]
+queenofpkr09 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 5d ]
+n1keeew0w folds
+Savin91 raises [$15,056]
+7everton7 folds
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie calls [$15,056]
+PapaShango19 folds
+queenofpkr09 folds
+** Dealing flop ** [ 2s, 8h, 7s ]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ 8d ]
+** Summary **
+Savin91 shows [ Th, Qs ]
+toimonostie shows [ Ks, As ]
+toimonostie collected [ $34,112 ]
+
+
+
+#Game No : 642896348
+***** 888poker Hand History for Game 642896348 *****
+$800/$1,600 Blinds No Limit Holdem - *** 23 11 2014 03:42:27
+Tournament #63723717 $1.15 + $0.15 - Table #34 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: 7everton7 ( $30,680 )
+Seat 3: ADaMiLkMaNA ( $32,136 )
+Seat 4: I_RAGE_quit ( $60,813 )
+Seat 5: toimonostie ( $86,738 )
+Seat 6: beckham_vn ( $76,003 )
+Seat 7: PapaShango19 ( $10,311 )
+Seat 9: queenofpkr09 ( $18,826 )
+Seat 10: n1keeew0w ( $95,822 )
+toimonostie posts ante [$200]
+PapaShango19 posts ante [$200]
+queenofpkr09 posts ante [$200]
+ADaMiLkMaNA posts ante [$200]
+7everton7 posts ante [$200]
+n1keeew0w posts ante [$200]
+I_RAGE_quit posts ante [$200]
+beckham_vn posts ante [$200]
+queenofpkr09 posts small blind [$800]
+n1keeew0w posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 8c ]
+7everton7 folds
+ADaMiLkMaNA folds
+I_RAGE_quit folds
+toimonostie folds
+beckham_vn folds
+PapaShango19 raises [$10,111]
+queenofpkr09 raises [$17,826]
+n1keeew0w calls [$17,026]
+** Dealing flop ** [ 3s, 2h, Ah ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ Ks ]
+** Summary **
+PapaShango19 shows [ 2c, 8c ]
+queenofpkr09 shows [ Qd, As ]
+n1keeew0w shows [ Js, Qs ]
+n1keeew0w collected [ $31,933 ]
+n1keeew0w collected [ $17,030 ]
+
+
+

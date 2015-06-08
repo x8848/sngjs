@@ -1,0 +1,4467 @@
+#Game No : 641983364
+***** 888poker Hand History for Game 641983364 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 05:40:16
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: thepooldon ( $5,000 )
+Seat 2: frederick30 ( $5,000 )
+Seat 4: PapaShango19 ( $5,000 )
+Seat 5: bullfrog22 ( $5,000 )
+Seat 6: ggtrojan ( $5,000 )
+Seat 7: lyfeguard ( $5,000 )
+Seat 9: Grower3d ( $5,000 )
+Seat 10: thedragon_32 ( $5,000 )
+thedragon_32 posts small blind [$10]
+thepooldon posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 5d ]
+frederick30 folds
+PapaShango19 folds
+bullfrog22 calls [$20]
+ggtrojan folds
+lyfeguard folds
+Grower3d folds
+thedragon_32 folds
+thepooldon raises [$70]
+bullfrog22 calls [$70]
+** Dealing flop ** [ 6c, Kd, Tc ]
+thepooldon bets [$142]
+bullfrog22 folds
+** Summary **
+thepooldon collected [ $190 ]
+
+
+
+#Game No : 641983490
+***** 888poker Hand History for Game 641983490 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 05:41:09
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,100 )
+Seat 2: frederick30 ( $5,000 )
+Seat 3: bobcanada ( $5,000 )
+Seat 4: PapaShango19 ( $5,000 )
+Seat 5: bullfrog22 ( $4,910 )
+Seat 6: ggtrojan ( $5,000 )
+Seat 7: lyfeguard ( $5,000 )
+Seat 9: Grower3d ( $5,000 )
+Seat 10: thedragon_32 ( $4,990 )
+thepooldon posts small blind [$10]
+frederick30 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Jc ]
+bobcanada folds
+PapaShango19 folds
+bullfrog22 raises [$40]
+ggtrojan folds
+lyfeguard folds
+Grower3d folds
+thedragon_32 folds
+thepooldon folds
+frederick30 calls [$20]
+** Dealing flop ** [ Ks, Ah, Kc ]
+frederick30 checks
+bullfrog22 bets [$40]
+frederick30 folds
+** Summary **
+bullfrog22 did not show his hand
+bullfrog22 collected [ $90 ]
+
+
+
+#Game No : 641983611
+***** 888poker Hand History for Game 641983611 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 05:41:56
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,090 )
+Seat 2: frederick30 ( $4,960 )
+Seat 3: bobcanada ( $5,000 )
+Seat 4: PapaShango19 ( $5,000 )
+Seat 5: bullfrog22 ( $4,960 )
+Seat 6: ggtrojan ( $5,000 )
+Seat 7: lyfeguard ( $5,000 )
+Seat 9: Grower3d ( $5,000 )
+Seat 10: thedragon_32 ( $4,990 )
+frederick30 posts small blind [$10]
+bobcanada posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6h ]
+PapaShango19 folds
+bullfrog22 folds
+ggtrojan folds
+lyfeguard folds
+Grower3d raises [$60]
+thedragon_32 calls [$60]
+thepooldon raises [$202]
+frederick30 folds
+bobcanada folds
+Grower3d folds
+thedragon_32 calls [$142]
+** Dealing flop ** [ 6c, 5d, 2d ]
+thedragon_32 checks
+thepooldon checks
+** Dealing turn ** [ Jc ]
+thedragon_32 checks
+thepooldon bets [$247]
+thedragon_32 folds
+** Summary **
+thepooldon did not show his hand
+thepooldon collected [ $494 ]
+
+
+
+#Game No : 641983828
+***** 888poker Hand History for Game 641983828 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 05:43:24
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,382 )
+Seat 2: frederick30 ( $4,950 )
+Seat 3: bobcanada ( $4,980 )
+Seat 4: PapaShango19 ( $5,000 )
+Seat 5: bullfrog22 ( $4,960 )
+Seat 6: ggtrojan ( $5,000 )
+Seat 7: lyfeguard ( $5,000 )
+Seat 9: Grower3d ( $4,940 )
+Seat 10: thedragon_32 ( $4,788 )
+bobcanada posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Js ]
+bullfrog22 calls [$20]
+ggtrojan folds
+lyfeguard calls [$20]
+Grower3d folds
+thedragon_32 folds
+thepooldon folds
+frederick30 calls [$20]
+bobcanada calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ 4s, 6c, Kh ]
+bobcanada checks
+PapaShango19 checks
+bullfrog22 bets [$220]
+lyfeguard calls [$220]
+frederick30 folds
+bobcanada folds
+PapaShango19 folds
+** Dealing turn ** [ 6d ]
+bullfrog22 bets [$160]
+lyfeguard raises [$320]
+bullfrog22 calls [$160]
+** Dealing river ** [ Tc ]
+bullfrog22 bets [$4,180]
+lyfeguard raises [$4,440]
+bullfrog22 calls [$220]
+** Summary **
+bullfrog22 shows [ Kc, Td ]
+lyfeguard shows [ As, Ah ]
+lyfeguard collected [ $9,980 ]
+
+
+
+#Game No : 641984067
+***** 888poker Hand History for Game 641984067 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 05:45:06
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: thepooldon ( $5,382 )
+Seat 2: frederick30 ( $4,930 )
+Seat 3: bobcanada ( $4,960 )
+Seat 4: PapaShango19 ( $4,980 )
+Seat 6: ggtrojan ( $5,000 )
+Seat 7: lyfeguard ( $10,020 )
+Seat 9: Grower3d ( $4,940 )
+Seat 10: thedragon_32 ( $4,788 )
+PapaShango19 posts small blind [$10]
+ggtrojan posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Kh ]
+lyfeguard calls [$20]
+Grower3d folds
+thedragon_32 calls [$20]
+thepooldon folds
+frederick30 folds
+bobcanada folds
+PapaShango19 calls [$10]
+ggtrojan checks
+** Dealing flop ** [ Jh, Td, 5d ]
+PapaShango19 checks
+ggtrojan checks
+lyfeguard bets [$100]
+thedragon_32 folds
+PapaShango19 folds
+ggtrojan folds
+** Summary **
+lyfeguard collected [ $80 ]
+
+
+
+#Game No : 641984166
+***** 888poker Hand History for Game 641984166 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 05:45:58
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: thepooldon ( $5,382 )
+Seat 2: frederick30 ( $4,930 )
+Seat 3: bobcanada ( $4,960 )
+Seat 4: PapaShango19 ( $4,960 )
+Seat 6: ggtrojan ( $4,980 )
+Seat 7: lyfeguard ( $10,080 )
+Seat 9: Grower3d ( $4,940 )
+Seat 10: thedragon_32 ( $4,768 )
+ggtrojan posts small blind [$15]
+lyfeguard posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 4d ]
+Grower3d raises [$90]
+thedragon_32 folds
+thepooldon folds
+frederick30 calls [$90]
+bobcanada folds
+PapaShango19 folds
+ggtrojan calls [$75]
+lyfeguard calls [$60]
+** Dealing flop ** [ Jd, Qc, 5h ]
+ggtrojan checks
+lyfeguard checks
+Grower3d checks
+frederick30 checks
+** Dealing turn ** [ 6s ]
+ggtrojan checks
+lyfeguard bets [$120]
+Grower3d folds
+frederick30 folds
+ggtrojan folds
+** Summary **
+lyfeguard collected [ $360 ]
+
+
+
+#Game No : 641984352
+***** 888poker Hand History for Game 641984352 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 05:47:19
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,382 )
+Seat 2: frederick30 ( $4,840 )
+Seat 3: bobcanada ( $4,960 )
+Seat 4: PapaShango19 ( $4,960 )
+Seat 5: jpjnash75 ( $5,000 )
+Seat 6: ggtrojan ( $4,890 )
+Seat 7: lyfeguard ( $10,350 )
+Seat 9: Grower3d ( $4,850 )
+Seat 10: thedragon_32 ( $4,768 )
+lyfeguard posts small blind [$15]
+Grower3d posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 9h ]
+thedragon_32 calls [$30]
+thepooldon folds
+frederick30 folds
+bobcanada folds
+PapaShango19 folds
+jpjnash75 calls [$30]
+ggtrojan calls [$30]
+lyfeguard folds
+Grower3d checks
+** Dealing flop ** [ Qc, Jc, Kd ]
+Grower3d checks
+thedragon_32 checks
+jpjnash75 checks
+ggtrojan bets [$90]
+Grower3d folds
+thedragon_32 folds
+jpjnash75 folds
+** Summary **
+ggtrojan did not show his hand
+ggtrojan collected [ $135 ]
+
+
+
+#Game No : 641984440
+***** 888poker Hand History for Game 641984440 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 05:48:10
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,382 )
+Seat 2: frederick30 ( $4,840 )
+Seat 3: bobcanada ( $4,960 )
+Seat 4: PapaShango19 ( $4,960 )
+Seat 5: jpjnash75 ( $4,970 )
+Seat 6: ggtrojan ( $4,995 )
+Seat 7: lyfeguard ( $10,335 )
+Seat 9: Grower3d ( $4,820 )
+Seat 10: thedragon_32 ( $4,738 )
+Grower3d posts small blind [$15]
+thedragon_32 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 5c ]
+thepooldon folds
+frederick30 folds
+bobcanada folds
+PapaShango19 folds
+jpjnash75 folds
+ggtrojan calls [$30]
+lyfeguard calls [$30]
+Grower3d folds
+thedragon_32 checks
+** Dealing flop ** [ Qh, Qd, 6h ]
+thedragon_32 checks
+ggtrojan checks
+lyfeguard bets [$30]
+thedragon_32 folds
+ggtrojan calls [$30]
+** Dealing turn ** [ 9c ]
+ggtrojan checks
+lyfeguard bets [$60]
+ggtrojan folds
+** Summary **
+lyfeguard did not show his hand
+lyfeguard collected [ $165 ]
+
+
+
+#Game No : 641984581
+***** 888poker Hand History for Game 641984581 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 05:49:13
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,382 )
+Seat 2: frederick30 ( $4,840 )
+Seat 3: bobcanada ( $4,960 )
+Seat 4: PapaShango19 ( $4,960 )
+Seat 5: jpjnash75 ( $4,970 )
+Seat 6: ggtrojan ( $4,935 )
+Seat 7: lyfeguard ( $10,440 )
+Seat 9: Grower3d ( $4,805 )
+Seat 10: thedragon_32 ( $4,708 )
+thedragon_32 posts small blind [$15]
+thepooldon posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 4h ]
+frederick30 calls [$30]
+bobcanada calls [$30]
+PapaShango19 calls [$30]
+jpjnash75 calls [$30]
+ggtrojan folds
+lyfeguard calls [$30]
+Grower3d folds
+thedragon_32 raises [$225]
+thepooldon folds
+frederick30 calls [$210]
+bobcanada folds
+PapaShango19 folds
+jpjnash75 calls [$210]
+lyfeguard calls [$210]
+** Dealing flop ** [ 4c, Qs, 2h ]
+thedragon_32 bets [$525]
+frederick30 folds
+jpjnash75 folds
+lyfeguard folds
+** Summary **
+thedragon_32 did not show his hand
+thedragon_32 collected [ $1,050 ]
+
+
+
+#Game No : 641984685
+***** 888poker Hand History for Game 641984685 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 05:50:09
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,352 )
+Seat 2: frederick30 ( $4,600 )
+Seat 3: bobcanada ( $4,930 )
+Seat 4: PapaShango19 ( $4,930 )
+Seat 5: jpjnash75 ( $4,730 )
+Seat 6: ggtrojan ( $4,935 )
+Seat 7: lyfeguard ( $10,200 )
+Seat 9: Grower3d ( $4,805 )
+Seat 10: thedragon_32 ( $5,518 )
+thepooldon posts small blind [$15]
+frederick30 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4d ]
+bobcanada folds
+PapaShango19 folds
+jpjnash75 calls [$30]
+ggtrojan calls [$30]
+lyfeguard calls [$30]
+Grower3d folds
+thedragon_32 calls [$30]
+thepooldon folds
+frederick30 checks
+** Dealing flop ** [ 8c, 2h, Js ]
+frederick30 checks
+jpjnash75 checks
+ggtrojan checks
+lyfeguard checks
+thedragon_32 checks
+** Dealing turn ** [ Qh ]
+frederick30 checks
+jpjnash75 checks
+ggtrojan checks
+lyfeguard checks
+thedragon_32 bets [$165]
+frederick30 calls [$165]
+jpjnash75 folds
+ggtrojan folds
+lyfeguard folds
+** Dealing river ** [ 2d ]
+frederick30 checks
+thedragon_32 bets [$495]
+frederick30 folds
+** Summary **
+thedragon_32 did not show his hand
+thedragon_32 collected [ $495 ]
+
+
+
+#Game No : 641984833
+***** 888poker Hand History for Game 641984833 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 05:51:33
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $5,337 )
+Seat 2: frederick30 ( $4,405 )
+Seat 3: bobcanada ( $4,930 )
+Seat 4: PapaShango19 ( $4,930 )
+Seat 5: jpjnash75 ( $4,700 )
+Seat 6: ggtrojan ( $4,905 )
+Seat 7: lyfeguard ( $10,170 )
+Seat 9: Grower3d ( $4,805 )
+Seat 10: thedragon_32 ( $5,818 )
+frederick30 posts small blind [$25]
+bobcanada posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3c ]
+PapaShango19 folds
+jpjnash75 calls [$50]
+ggtrojan folds
+lyfeguard folds
+Grower3d folds
+thedragon_32 folds
+thepooldon raises [$200]
+frederick30 calls [$175]
+bobcanada folds
+jpjnash75 calls [$150]
+** Dealing flop ** [ 9d, 2d, Qs ]
+frederick30 checks
+jpjnash75 checks
+thepooldon bets [$487]
+frederick30 calls [$487]
+jpjnash75 folds
+** Dealing turn ** [ 7d ]
+frederick30 checks
+thepooldon bets [$1,218]
+frederick30 folds
+** Summary **
+thepooldon did not show his hand
+thepooldon collected [ $1,624 ]
+
+
+
+#Game No : 641984952
+***** 888poker Hand History for Game 641984952 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 05:52:33
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $6,274 )
+Seat 2: frederick30 ( $3,718 )
+Seat 3: bobcanada ( $4,880 )
+Seat 4: PapaShango19 ( $4,930 )
+Seat 5: jpjnash75 ( $4,500 )
+Seat 6: ggtrojan ( $4,905 )
+Seat 7: lyfeguard ( $10,170 )
+Seat 9: Grower3d ( $4,805 )
+Seat 10: thedragon_32 ( $5,818 )
+bobcanada posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 6h ]
+jpjnash75 folds
+ggtrojan folds
+lyfeguard folds
+Grower3d folds
+thedragon_32 folds
+thepooldon folds
+frederick30 folds
+bobcanada calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ Kc, Ad, Jh ]
+bobcanada checks
+PapaShango19 checks
+** Dealing turn ** [ Qh ]
+bobcanada bets [$100]
+PapaShango19 folds
+** Summary **
+bobcanada did not show his hand
+bobcanada collected [ $100 ]
+
+
+
+#Game No : 641985039
+***** 888poker Hand History for Game 641985039 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 05:53:16
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: thepooldon ( $6,274 )
+Seat 2: frederick30 ( $3,718 )
+Seat 3: bobcanada ( $4,930 )
+Seat 4: PapaShango19 ( $4,880 )
+Seat 5: jpjnash75 ( $4,500 )
+Seat 6: ggtrojan ( $4,905 )
+Seat 7: lyfeguard ( $10,170 )
+Seat 9: Grower3d ( $4,805 )
+PapaShango19 posts small blind [$25]
+jpjnash75 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Js ]
+ggtrojan calls [$50]
+lyfeguard folds
+Grower3d folds
+thepooldon folds
+frederick30 folds
+bobcanada folds
+PapaShango19 folds
+jpjnash75 checks
+** Dealing flop ** [ Ah, Td, Ks ]
+jpjnash75 checks
+ggtrojan bets [$100]
+jpjnash75 folds
+** Summary **
+ggtrojan did not show his hand
+ggtrojan collected [ $125 ]
+
+
+
+#Game No : 641985101
+***** 888poker Hand History for Game 641985101 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 05:53:50
+Tournament #63631682 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: thepooldon ( $6,274 )
+Seat 2: frederick30 ( $3,718 )
+Seat 3: bobcanada ( $4,930 )
+Seat 4: PapaShango19 ( $4,855 )
+Seat 5: jpjnash75 ( $4,450 )
+Seat 6: ggtrojan ( $4,980 )
+Seat 7: lyfeguard ( $10,170 )
+Seat 9: Grower3d ( $4,805 )
+Seat 10: numbik ( $5,000 )
+jpjnash75 posts small blind [$25]
+ggtrojan posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 2c ]
+lyfeguard calls [$50]
+Grower3d folds
+numbik calls [$50]
+thepooldon folds
+frederick30 folds
+bobcanada folds
+PapaShango19 calls [$50]
+jpjnash75 calls [$25]
+ggtrojan checks
+** Dealing flop ** [ 8s, 4h, As ]
+jpjnash75 checks
+ggtrojan checks
+lyfeguard checks
+numbik bets [$200]
+PapaShango19 folds
+jpjnash75 folds
+ggtrojan folds
+lyfeguard calls [$200]
+** Dealing turn ** [ 9d ]
+lyfeguard checks
+numbik bets [$650]
+lyfeguard folds
+** Summary **
+numbik did not show his hand
+numbik collected [ $650 ]
+
+
+
+#Game No : 641985948
+***** 888poker Hand History for Game 641985948 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 06:01:13
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1:  ( $6,045 )
+Seat 2:  ( $6,932 )
+Seat 3:  ( $5,000 )
+Seat 5:  ( $5,000 )
+Seat 6:  ( $9,060 )
+Seat 7:  ( $5,653 )
+Seat 9:  ( $4,805 )
+Seat 10:  ( $13,540 )
+ posts small blind [$50]
+ posts big blind [$100]
+** Dealing down cards **
+Dealt to  [ 2c, Qh ]
+ folds
+ raises [$200]
+ folds
+ calls [$200]
+ folds
+ folds
+ folds
+ folds
+** Dealing flop ** [ Jc, 5c, 7c ]
+ bets [$100]
+ calls [$100]
+** Dealing turn ** [ Qd ]
+ bets [$100]
+ raises [$200]
+ raises [$400]
+ calls [$300]
+** Dealing river ** [ Js ]
+ bets [$1,300]
+ calls [$1,300]
+** Summary **
+ shows [ 8h, Jh ]
+ mucks [ Qs, Tc ]
+ collected [ $4,350 ]
+
+
+
+#Game No : 641986095
+***** 888poker Hand History for Game 641986095 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 06:02:21
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: terra077 ( $6,045 )
+Seat 2: foggyknight ( $4,832 )
+Seat 3: bob4turbo ( $5,000 )
+Seat 4: Davej88 ( $4,900 )
+Seat 5: SHOOT174 ( $5,000 )
+Seat 6: Munnerrick ( $9,010 )
+Seat 7: chinnyman4 ( $5,553 )
+Seat 9: PapaShango19 ( $4,805 )
+Seat 10: bur1079 ( $15,790 )
+chinnyman4 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 8s ]
+bur1079 folds
+terra077 folds
+foggyknight calls [$100]
+bob4turbo folds
+Davej88 folds
+SHOOT174 calls [$100]
+Munnerrick raises [$300]
+chinnyman4 calls [$250]
+PapaShango19 folds
+foggyknight calls [$200]
+SHOOT174 calls [$200]
+** Dealing flop ** [ Ad, Qd, Ac ]
+chinnyman4 checks
+foggyknight checks
+SHOOT174 bets [$100]
+Munnerrick raises [$1,600]
+chinnyman4 folds
+foggyknight folds
+SHOOT174 calls [$1,500]
+** Dealing turn ** [ 6d ]
+SHOOT174 checks
+Munnerrick bets [$4,500]
+SHOOT174 calls [$3,100]
+** Dealing river ** [ Td ]
+** Summary **
+SHOOT174 shows [ 4d, 2d ]
+Munnerrick shows [ Ks, As ]
+SHOOT174 collected [ $10,700 ]
+
+
+
+#Game No : 641986253
+***** 888poker Hand History for Game 641986253 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 06:03:29
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: terra077 ( $6,045 )
+Seat 2: foggyknight ( $4,532 )
+Seat 3: bob4turbo ( $5,000 )
+Seat 4: Davej88 ( $4,900 )
+Seat 5: SHOOT174 ( $10,700 )
+Seat 6: Munnerrick ( $4,010 )
+Seat 7: chinnyman4 ( $5,253 )
+Seat 9: PapaShango19 ( $4,705 )
+Seat 10: bur1079 ( $15,790 )
+PapaShango19 posts small blind [$50]
+bur1079 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Ac ]
+terra077 folds
+foggyknight calls [$100]
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 raises [$450]
+PapaShango19 folds
+bur1079 folds
+foggyknight calls [$350]
+** Dealing flop ** [ As, 6d, 4h ]
+foggyknight bets [$4,082]
+chinnyman4 calls [$4,082]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 7s ]
+** Summary **
+foggyknight shows [ Ts, 6s ]
+chinnyman4 shows [ 4s, Ah ]
+chinnyman4 collected [ $9,214 ]
+
+
+
+#Game No : 641986343
+***** 888poker Hand History for Game 641986343 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 06:04:12
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: terra077 ( $6,045 )
+Seat 3: bob4turbo ( $5,000 )
+Seat 4: Davej88 ( $4,900 )
+Seat 5: SHOOT174 ( $10,700 )
+Seat 6: Munnerrick ( $4,010 )
+Seat 7: chinnyman4 ( $9,935 )
+Seat 9: PapaShango19 ( $4,655 )
+Seat 10: bur1079 ( $15,690 )
+bur1079 posts small blind [$50]
+terra077 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 5h ]
+bob4turbo folds
+Davej88 calls [$100]
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 raises [$450]
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+Davej88 folds
+** Summary **
+chinnyman4 collected [ $350 ]
+
+
+
+#Game No : 641986399
+***** 888poker Hand History for Game 641986399 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 06:04:37
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,945 )
+Seat 2: X777AM27 ( $5,000 )
+Seat 3: bob4turbo ( $5,000 )
+Seat 4: Davej88 ( $4,800 )
+Seat 5: SHOOT174 ( $10,700 )
+Seat 6: Munnerrick ( $4,010 )
+Seat 7: chinnyman4 ( $10,185 )
+Seat 9: PapaShango19 ( $4,655 )
+Seat 10: bur1079 ( $15,640 )
+terra077 posts small blind [$50]
+X777AM27 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3h ]
+bob4turbo calls [$100]
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 calls [$100]
+bur1079 folds
+terra077 calls [$50]
+X777AM27 checks
+** Dealing flop ** [ 7d, 8c, 9c ]
+terra077 checks
+X777AM27 bets [$100]
+bob4turbo raises [$350]
+PapaShango19 folds
+terra077 folds
+X777AM27 calls [$250]
+** Dealing turn ** [ Js ]
+X777AM27 checks
+bob4turbo checks
+** Dealing river ** [ Td ]
+X777AM27 checks
+bob4turbo bets [$550]
+X777AM27 calls [$550]
+** Summary **
+bob4turbo shows [ Kd, Qd ]
+X777AM27 mucks [ 3s, 7s ]
+bob4turbo collected [ $2,200 ]
+
+
+
+#Game No : 641986572
+***** 888poker Hand History for Game 641986572 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 06:06:00
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,845 )
+Seat 2: X777AM27 ( $4,000 )
+Seat 3: bob4turbo ( $6,200 )
+Seat 4: Davej88 ( $4,800 )
+Seat 5: SHOOT174 ( $10,700 )
+Seat 6: Munnerrick ( $4,010 )
+Seat 7: chinnyman4 ( $10,185 )
+Seat 9: PapaShango19 ( $4,555 )
+Seat 10: bur1079 ( $15,640 )
+X777AM27 posts small blind [$75]
+bob4turbo posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, As ]
+Davej88 folds
+SHOOT174 raises [$525]
+Munnerrick folds
+chinnyman4 calls [$525]
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+X777AM27 raises [$3,925]
+bob4turbo folds
+SHOOT174 raises [$10,175]
+chinnyman4 folds
+** Dealing flop ** [ Qd, 7d, Ac ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 2s ]
+** Summary **
+X777AM27 shows [ 6h, 6d ]
+SHOOT174 shows [ 9s, 9h ]
+SHOOT174 collected [ $8,675 ]
+
+
+
+#Game No : 641986654
+***** 888poker Hand History for Game 641986654 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 06:06:49
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,845 )
+Seat 3: bob4turbo ( $6,050 )
+Seat 4: Davej88 ( $4,800 )
+Seat 5: SHOOT174 ( $15,375 )
+Seat 6: Munnerrick ( $4,010 )
+Seat 7: chinnyman4 ( $9,660 )
+Seat 9: PapaShango19 ( $4,555 )
+Seat 10: bur1079 ( $15,640 )
+bob4turbo posts small blind [$75]
+Davej88 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 7c ]
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 calls [$150]
+PapaShango19 folds
+bur1079 raises [$300]
+terra077 folds
+bob4turbo folds
+Davej88 folds
+chinnyman4 calls [$150]
+** Dealing flop ** [ 5d, 3s, 7d ]
+chinnyman4 checks
+bur1079 bets [$450]
+chinnyman4 folds
+** Summary **
+bur1079 collected [ $825 ]
+
+
+
+#Game No : 641986729
+***** 888poker Hand History for Game 641986729 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 06:07:32
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,845 )
+Seat 2: will_luck ( $5,000 )
+Seat 3: bob4turbo ( $5,975 )
+Seat 4: Davej88 ( $4,650 )
+Seat 5: SHOOT174 ( $15,375 )
+Seat 6: Munnerrick ( $4,010 )
+Seat 7: chinnyman4 ( $9,360 )
+Seat 9: PapaShango19 ( $4,555 )
+Seat 10: bur1079 ( $16,165 )
+Davej88 posts small blind [$75]
+SHOOT174 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Kh ]
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 folds
+bur1079 raises [$300]
+terra077 folds
+will_luck folds
+bob4turbo raises [$450]
+Davej88 folds
+SHOOT174 calls [$300]
+bur1079 calls [$150]
+** Dealing flop ** [ Qd, Qh, 6s ]
+SHOOT174 checks
+bur1079 checks
+bob4turbo checks
+** Dealing turn ** [ 2d ]
+SHOOT174 checks
+bur1079 bets [$450]
+bob4turbo folds
+SHOOT174 calls [$450]
+** Dealing river ** [ Jc ]
+SHOOT174 checks
+bur1079 checks
+** Summary **
+SHOOT174 shows [ 3h, Th ]
+bur1079 shows [ Td, Kc ]
+bur1079 collected [ $2,325 ]
+
+
+
+#Game No : 641986851
+***** 888poker Hand History for Game 641986851 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 06:08:50
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,845 )
+Seat 2: will_luck ( $5,000 )
+Seat 3: bob4turbo ( $5,525 )
+Seat 4: Davej88 ( $4,575 )
+Seat 5: SHOOT174 ( $14,475 )
+Seat 6: Munnerrick ( $4,010 )
+Seat 7: chinnyman4 ( $9,360 )
+Seat 9: PapaShango19 ( $4,555 )
+Seat 10: bur1079 ( $17,590 )
+SHOOT174 posts small blind [$75]
+Munnerrick posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, As ]
+chinnyman4 raises [$525]
+PapaShango19 folds
+bur1079 calls [$525]
+terra077 folds
+will_luck folds
+bob4turbo folds
+Davej88 folds
+SHOOT174 calls [$450]
+Munnerrick folds
+** Dealing flop ** [ Qd, 4c, Kd ]
+SHOOT174 bets [$150]
+chinnyman4 calls [$150]
+bur1079 folds
+** Dealing turn ** [ 7h ]
+SHOOT174 bets [$150]
+chinnyman4 raises [$1,087]
+SHOOT174 calls [$937]
+** Dealing river ** [ Js ]
+SHOOT174 checks
+chinnyman4 bets [$2,099]
+SHOOT174 folds
+** Summary **
+chinnyman4 did not show his hand
+chinnyman4 collected [ $4,199 ]
+
+
+
+#Game No : 641986931
+***** 888poker Hand History for Game 641986931 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 06:09:49
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,845 )
+Seat 2: will_luck ( $5,000 )
+Seat 3: bob4turbo ( $5,525 )
+Seat 4: Davej88 ( $4,575 )
+Seat 5: SHOOT174 ( $12,713 )
+Seat 6: Munnerrick ( $3,860 )
+Seat 7: chinnyman4 ( $11,797 )
+Seat 9: PapaShango19 ( $4,555 )
+Seat 10: bur1079 ( $17,065 )
+Munnerrick posts small blind [$75]
+chinnyman4 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 2d ]
+PapaShango19 folds
+bur1079 raises [$300]
+terra077 calls [$300]
+will_luck raises [$1,068]
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 folds
+bur1079 calls [$768]
+terra077 calls [$768]
+** Dealing flop ** [ 5d, 9c, 9s ]
+bur1079 bets [$1,350]
+terra077 raises [$4,777]
+will_luck calls [$3,932]
+bur1079 calls [$3,427]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Ac ]
+** Summary **
+terra077 shows [ 6c, 6s ]
+will_luck shows [ Ad, 8d ]
+bur1079 shows [ 3d, 3c ]
+will_luck collected [ $15,225 ]
+terra077 collected [ $1,690 ]
+
+
+
+#Game No : 641987019
+***** 888poker Hand History for Game 641987019 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:11:00
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: terra077 ( $1,690 )
+Seat 2: will_luck ( $15,225 )
+Seat 3: bob4turbo ( $5,525 )
+Seat 4: Davej88 ( $4,575 )
+Seat 5: SHOOT174 ( $12,713 )
+Seat 6: Munnerrick ( $3,785 )
+Seat 7: chinnyman4 ( $11,647 )
+Seat 9: PapaShango19 ( $4,555 )
+Seat 10: bur1079 ( $11,220 )
+chinnyman4 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 8h ]
+bur1079 calls [$200]
+terra077 folds
+will_luck folds
+bob4turbo folds
+Davej88 raises [$600]
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 folds
+bur1079 calls [$400]
+** Dealing flop ** [ Ks, As, 4d ]
+bur1079 bets [$400]
+Davej88 calls [$400]
+** Dealing turn ** [ 5d ]
+bur1079 bets [$800]
+Davej88 raises [$1,600]
+bur1079 calls [$800]
+** Dealing river ** [ 4s ]
+bur1079 bets [$1,000]
+Davej88 raises [$1,975]
+bur1079 calls [$975]
+** Summary **
+Davej88 shows [ Js, Ah ]
+bur1079 shows [ 6c, Kh ]
+Davej88 collected [ $9,450 ]
+
+
+
+#Game No : 641987094
+***** 888poker Hand History for Game 641987094 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:12:00
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: terra077 ( $1,690 )
+Seat 2: will_luck ( $15,225 )
+Seat 3: bob4turbo ( $5,525 )
+Seat 4: Davej88 ( $9,450 )
+Seat 5: SHOOT174 ( $12,713 )
+Seat 6: Munnerrick ( $3,785 )
+Seat 7: chinnyman4 ( $11,547 )
+Seat 9: PapaShango19 ( $4,355 )
+Seat 10: bur1079 ( $6,645 )
+PapaShango19 posts small blind [$100]
+bur1079 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Kc ]
+terra077 folds
+will_luck raises [$525]
+bob4turbo folds
+Davej88 folds
+SHOOT174 calls [$525]
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 raises [$4,255]
+bur1079 folds
+will_luck calls [$3,830]
+SHOOT174 folds
+** Dealing flop ** [ Kh, 7c, 6d ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 4c ]
+** Summary **
+will_luck shows [ Qh, Ad ]
+PapaShango19 shows [ As, Kc ]
+PapaShango19 collected [ $9,435 ]
+
+
+
+#Game No : 641987163
+***** 888poker Hand History for Game 641987163 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:12:50
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: terra077 ( $1,690 )
+Seat 2: will_luck ( $10,870 )
+Seat 3: bob4turbo ( $5,525 )
+Seat 4: Davej88 ( $9,450 )
+Seat 5: SHOOT174 ( $12,188 )
+Seat 6: Munnerrick ( $3,785 )
+Seat 7: chinnyman4 ( $11,547 )
+Seat 9: PapaShango19 ( $9,435 )
+Seat 10: bur1079 ( $6,445 )
+bur1079 posts small blind [$100]
+terra077 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2h ]
+will_luck folds
+bob4turbo folds
+Davej88 raises [$400]
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+** Summary **
+Davej88 did not show his hand
+Davej88 collected [ $500 ]
+
+
+
+#Game No : 641987261
+***** 888poker Hand History for Game 641987261 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:14:00
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: terra077 ( $1,490 )
+Seat 2: will_luck ( $10,870 )
+Seat 3: bob4turbo ( $5,525 )
+Seat 4: Davej88 ( $9,750 )
+Seat 5: SHOOT174 ( $12,188 )
+Seat 6: Munnerrick ( $3,785 )
+Seat 7: chinnyman4 ( $11,547 )
+Seat 9: PapaShango19 ( $9,435 )
+Seat 10: bur1079 ( $6,345 )
+terra077 posts small blind [$100]
+will_luck posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 5s ]
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 raises [$700]
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+will_luck folds
+** Summary **
+chinnyman4 did not show his hand
+chinnyman4 collected [ $500 ]
+
+
+
+#Game No : 641987303
+***** 888poker Hand History for Game 641987303 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:14:27
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: terra077 ( $1,390 )
+Seat 2: will_luck ( $10,670 )
+Seat 3: bob4turbo ( $5,525 )
+Seat 4: Davej88 ( $9,750 )
+Seat 5: SHOOT174 ( $12,188 )
+Seat 6: Munnerrick ( $3,785 )
+Seat 7: chinnyman4 ( $11,847 )
+Seat 9: PapaShango19 ( $9,435 )
+Seat 10: bur1079 ( $6,345 )
+will_luck posts small blind [$100]
+bob4turbo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 2d ]
+Davej88 folds
+SHOOT174 calls [$200]
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+will_luck calls [$100]
+bob4turbo checks
+** Dealing flop ** [ 4s, Ad, Qs ]
+will_luck checks
+bob4turbo folds
+SHOOT174 bets [$200]
+will_luck folds
+** Summary **
+SHOOT174 did not show his hand
+SHOOT174 collected [ $600 ]
+
+
+
+#Game No : 641987396
+***** 888poker Hand History for Game 641987396 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:15:37
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: terra077 ( $1,390 )
+Seat 2: will_luck ( $10,470 )
+Seat 3: bob4turbo ( $5,325 )
+Seat 4: Davej88 ( $9,750 )
+Seat 5: SHOOT174 ( $12,588 )
+Seat 6: Munnerrick ( $3,785 )
+Seat 7: chinnyman4 ( $11,847 )
+Seat 9: PapaShango19 ( $9,435 )
+Seat 10: bur1079 ( $6,345 )
+SHOOT174 posts ante [$20]
+Munnerrick posts ante [$20]
+chinnyman4 posts ante [$20]
+PapaShango19 posts ante [$20]
+bur1079 posts ante [$20]
+terra077 posts ante [$20]
+bob4turbo posts ante [$20]
+Davej88 posts ante [$20]
+will_luck posts ante [$20]
+bob4turbo posts small blind [$100]
+Davej88 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 8d ]
+SHOOT174 calls [$200]
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 folds
+bur1079 folds
+terra077 raises [$1,370]
+will_luck calls [$1,370]
+bob4turbo folds
+Davej88 calls [$1,170]
+SHOOT174 raises [$6,930]
+will_luck calls [$5,760]
+Davej88 folds
+** Dealing flop ** [ 4h, 9h, 5c ]
+SHOOT174 bets [$5,438]
+will_luck calls [$3,320]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ 5h ]
+** Summary **
+terra077 shows [ Td, Jd ]
+will_luck shows [ Tc, Kh ]
+SHOOT174 shows [ 6h, 6d ]
+terra077 collected [ $5,760 ]
+SHOOT174 collected [ $18,160 ]
+
+
+
+#Game No : 641987466
+***** 888poker Hand History for Game 641987466 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:16:30
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,760 )
+Seat 3: bob4turbo ( $5,205 )
+Seat 4: Davej88 ( $8,360 )
+Seat 5: SHOOT174 ( $20,278 )
+Seat 6: Munnerrick ( $3,765 )
+Seat 7: chinnyman4 ( $11,827 )
+Seat 9: PapaShango19 ( $9,415 )
+Seat 10: bur1079 ( $6,325 )
+SHOOT174 posts ante [$20]
+Munnerrick posts ante [$20]
+chinnyman4 posts ante [$20]
+PapaShango19 posts ante [$20]
+bur1079 posts ante [$20]
+terra077 posts ante [$20]
+bob4turbo posts ante [$20]
+Davej88 posts ante [$20]
+Davej88 posts small blind [$100]
+SHOOT174 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 8d ]
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 raises [$400]
+bur1079 raises [$600]
+terra077 folds
+bob4turbo folds
+Davej88 folds
+SHOOT174 calls [$400]
+PapaShango19 calls [$200]
+** Dealing flop ** [ 5h, Qh, 5c ]
+SHOOT174 bets [$200]
+PapaShango19 calls [$200]
+bur1079 folds
+** Dealing turn ** [ 4h ]
+SHOOT174 bets [$200]
+PapaShango19 calls [$200]
+** Dealing river ** [ 9h ]
+SHOOT174 bets [$200]
+PapaShango19 calls [$200]
+** Summary **
+SHOOT174 shows [ Kc, Ts ]
+PapaShango19 shows [ Qd, 8d ]
+PapaShango19 collected [ $3,260 ]
+
+
+
+#Game No : 641987547
+***** 888poker Hand History for Game 641987547 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:17:38
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,740 )
+Seat 3: bob4turbo ( $5,185 )
+Seat 4: Davej88 ( $8,240 )
+Seat 5: SHOOT174 ( $19,058 )
+Seat 6: Munnerrick ( $3,745 )
+Seat 7: chinnyman4 ( $11,807 )
+Seat 9: PapaShango19 ( $11,455 )
+Seat 10: bur1079 ( $5,705 )
+SHOOT174 posts ante [$20]
+Munnerrick posts ante [$20]
+chinnyman4 posts ante [$20]
+PapaShango19 posts ante [$20]
+bur1079 posts ante [$20]
+terra077 posts ante [$20]
+bob4turbo posts ante [$20]
+Davej88 posts ante [$20]
+SHOOT174 posts small blind [$100]
+Munnerrick posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, As ]
+chinnyman4 raises [$860]
+PapaShango19 folds
+bur1079 calls [$860]
+terra077 folds
+bob4turbo calls [$860]
+Davej88 folds
+SHOOT174 calls [$760]
+Munnerrick folds
+** Dealing flop ** [ Kc, Qd, Td ]
+SHOOT174 checks
+chinnyman4 checks
+bur1079 bets [$800]
+bob4turbo calls [$800]
+SHOOT174 folds
+chinnyman4 folds
+** Dealing turn ** [ 3h ]
+bur1079 bets [$800]
+bob4turbo calls [$800]
+** Dealing river ** [ 3s ]
+bur1079 bets [$1,800]
+bob4turbo raises [$2,705]
+bur1079 calls [$905]
+** Summary **
+bob4turbo shows [ Ts, Th ]
+bur1079 shows [ Jd, Ah ]
+bob4turbo collected [ $12,410 ]
+
+
+
+#Game No : 641987689
+***** 888poker Hand History for Game 641987689 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 06:19:08
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,720 )
+Seat 3: bob4turbo ( $12,410 )
+Seat 4: Davej88 ( $8,220 )
+Seat 5: SHOOT174 ( $18,178 )
+Seat 6: Munnerrick ( $3,525 )
+Seat 7: chinnyman4 ( $10,927 )
+Seat 9: PapaShango19 ( $11,435 )
+Seat 10: bur1079 ( $520 )
+SHOOT174 posts ante [$20]
+Munnerrick posts ante [$20]
+chinnyman4 posts ante [$20]
+PapaShango19 posts ante [$20]
+bur1079 posts ante [$20]
+terra077 posts ante [$20]
+bob4turbo posts ante [$20]
+Davej88 posts ante [$20]
+Munnerrick posts small blind [$100]
+chinnyman4 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9s ]
+PapaShango19 folds
+bur1079 raises [$500]
+terra077 folds
+bob4turbo folds
+Davej88 calls [$500]
+SHOOT174 raises [$800]
+Munnerrick folds
+chinnyman4 calls [$600]
+Davej88 calls [$300]
+** Dealing flop ** [ 6c, 5h, As ]
+chinnyman4 checks
+Davej88 checks
+SHOOT174 bets [$200]
+chinnyman4 raises [$1,880]
+Davej88 folds
+SHOOT174 folds
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 8s ]
+** Summary **
+chinnyman4 shows [ 4c, 4h ]
+bur1079 shows [ 4d, Ah ]
+bur1079 collected [ $2,260 ]
+chinnyman4 collected [ $1,300 ]
+
+
+
+#Game No : 641987767
+***** 888poker Hand History for Game 641987767 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 06:20:15
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,700 )
+Seat 2: kirito212 ( $5,000 )
+Seat 3: bob4turbo ( $12,390 )
+Seat 4: Davej88 ( $7,400 )
+Seat 5: SHOOT174 ( $17,158 )
+Seat 6: Munnerrick ( $3,405 )
+Seat 7: chinnyman4 ( $11,207 )
+Seat 9: PapaShango19 ( $11,415 )
+Seat 10: bur1079 ( $2,260 )
+SHOOT174 posts ante [$25]
+Munnerrick posts ante [$25]
+chinnyman4 posts ante [$25]
+PapaShango19 posts ante [$25]
+bur1079 posts ante [$25]
+terra077 posts ante [$25]
+bob4turbo posts ante [$25]
+Davej88 posts ante [$25]
+kirito212 posts ante [$25]
+chinnyman4 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 3c ]
+bur1079 calls [$250]
+terra077 folds
+kirito212 folds
+bob4turbo calls [$250]
+Davej88 folds
+SHOOT174 folds
+Munnerrick calls [$250]
+chinnyman4 calls [$125]
+PapaShango19 checks
+** Dealing flop ** [ 8c, 9d, As ]
+chinnyman4 checks
+PapaShango19 checks
+bur1079 checks
+bob4turbo checks
+Munnerrick checks
+** Dealing turn ** [ 8s ]
+chinnyman4 checks
+PapaShango19 checks
+bur1079 checks
+bob4turbo checks
+Munnerrick checks
+** Dealing river ** [ Ts ]
+chinnyman4 bets [$737]
+PapaShango19 folds
+bur1079 folds
+bob4turbo raises [$1,843]
+Munnerrick folds
+chinnyman4 calls [$1,106]
+** Summary **
+bob4turbo shows [ Jd, Qh ]
+chinnyman4 mucks [ 8d, 7s ]
+bob4turbo collected [ $5,161 ]
+
+
+
+#Game No : 641987928
+***** 888poker Hand History for Game 641987928 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 06:22:01
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,675 )
+Seat 2: kirito212 ( $4,975 )
+Seat 3: bob4turbo ( $15,433 )
+Seat 4: Davej88 ( $7,375 )
+Seat 5: SHOOT174 ( $17,133 )
+Seat 6: Munnerrick ( $3,130 )
+Seat 7: chinnyman4 ( $9,089 )
+Seat 9: PapaShango19 ( $11,140 )
+Seat 10: bur1079 ( $1,985 )
+SHOOT174 posts ante [$25]
+Munnerrick posts ante [$25]
+chinnyman4 posts ante [$25]
+PapaShango19 posts ante [$25]
+bur1079 posts ante [$25]
+terra077 posts ante [$25]
+bob4turbo posts ante [$25]
+Davej88 posts ante [$25]
+kirito212 posts ante [$25]
+PapaShango19 posts small blind [$125]
+bur1079 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, As ]
+terra077 folds
+kirito212 folds
+bob4turbo folds
+Davej88 calls [$250]
+SHOOT174 calls [$250]
+Munnerrick folds
+chinnyman4 raises [$1,600]
+PapaShango19 folds
+bur1079 folds
+Davej88 folds
+SHOOT174 calls [$1,350]
+** Dealing flop ** [ 8h, Qd, 2d ]
+SHOOT174 bets [$4,050]
+chinnyman4 folds
+** Summary **
+SHOOT174 did not show his hand
+SHOOT174 collected [ $4,050 ]
+
+
+
+#Game No : 641988020
+***** 888poker Hand History for Game 641988020 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 06:22:53
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,650 )
+Seat 2: kirito212 ( $4,950 )
+Seat 3: bob4turbo ( $15,408 )
+Seat 4: Davej88 ( $7,100 )
+Seat 5: SHOOT174 ( $19,558 )
+Seat 6: Munnerrick ( $3,105 )
+Seat 7: chinnyman4 ( $7,464 )
+Seat 9: PapaShango19 ( $10,990 )
+Seat 10: bur1079 ( $1,710 )
+SHOOT174 posts ante [$25]
+Munnerrick posts ante [$25]
+chinnyman4 posts ante [$25]
+PapaShango19 posts ante [$25]
+bur1079 posts ante [$25]
+terra077 posts ante [$25]
+bob4turbo posts ante [$25]
+Davej88 posts ante [$25]
+kirito212 posts ante [$25]
+bur1079 posts small blind [$125]
+terra077 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Qd ]
+kirito212 folds
+bob4turbo calls [$250]
+Davej88 folds
+SHOOT174 raises [$1,850]
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+bob4turbo folds
+** Summary **
+SHOOT174 did not show his hand
+SHOOT174 collected [ $1,100 ]
+
+
+
+#Game No : 641988084
+***** 888poker Hand History for Game 641988084 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 06:23:33
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,375 )
+Seat 2: kirito212 ( $4,925 )
+Seat 3: bob4turbo ( $15,133 )
+Seat 4: Davej88 ( $7,075 )
+Seat 5: SHOOT174 ( $20,383 )
+Seat 6: Munnerrick ( $3,080 )
+Seat 7: chinnyman4 ( $7,439 )
+Seat 9: PapaShango19 ( $10,965 )
+Seat 10: bur1079 ( $1,560 )
+SHOOT174 posts ante [$25]
+Munnerrick posts ante [$25]
+chinnyman4 posts ante [$25]
+PapaShango19 posts ante [$25]
+bur1079 posts ante [$25]
+terra077 posts ante [$25]
+bob4turbo posts ante [$25]
+Davej88 posts ante [$25]
+kirito212 posts ante [$25]
+terra077 posts small blind [$125]
+kirito212 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 4s ]
+bob4turbo raises [$500]
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+chinnyman4 folds
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+kirito212 raises [$4,650]
+bob4turbo calls [$4,400]
+** Dealing flop ** [ Jc, Jh, 4c ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ Qh ]
+** Summary **
+kirito212 shows [ 6d, 6h ]
+bob4turbo shows [ 7h, 8h ]
+kirito212 collected [ $10,150 ]
+
+
+
+#Game No : 641988155
+***** 888poker Hand History for Game 641988155 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 06:24:25
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,225 )
+Seat 2: kirito212 ( $10,150 )
+Seat 3: bob4turbo ( $10,208 )
+Seat 4: Davej88 ( $7,050 )
+Seat 5: SHOOT174 ( $20,358 )
+Seat 6: Munnerrick ( $3,055 )
+Seat 7: chinnyman4 ( $7,414 )
+Seat 9: PapaShango19 ( $10,940 )
+Seat 10: bur1079 ( $1,535 )
+SHOOT174 posts ante [$25]
+Munnerrick posts ante [$25]
+chinnyman4 posts ante [$25]
+PapaShango19 posts ante [$25]
+bur1079 posts ante [$25]
+terra077 posts ante [$25]
+bob4turbo posts ante [$25]
+Davej88 posts ante [$25]
+kirito212 posts ante [$25]
+kirito212 posts small blind [$125]
+bob4turbo posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2d ]
+Davej88 folds
+SHOOT174 folds
+Munnerrick calls [$250]
+chinnyman4 raises [$1,350]
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+kirito212 folds
+bob4turbo folds
+Munnerrick folds
+** Summary **
+chinnyman4 did not show his hand
+chinnyman4 collected [ $1,100 ]
+
+
+
+#Game No : 641988231
+***** 888poker Hand History for Game 641988231 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 06:25:08
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: terra077 ( $5,200 )
+Seat 2: kirito212 ( $10,000 )
+Seat 3: bob4turbo ( $9,933 )
+Seat 4: Davej88 ( $7,025 )
+Seat 5: SHOOT174 ( $20,333 )
+Seat 6: Munnerrick ( $2,780 )
+Seat 7: chinnyman4 ( $8,239 )
+Seat 9: PapaShango19 ( $10,915 )
+Seat 10: bur1079 ( $1,510 )
+SHOOT174 posts ante [$25]
+Munnerrick posts ante [$25]
+chinnyman4 posts ante [$25]
+PapaShango19 posts ante [$25]
+bur1079 posts ante [$25]
+terra077 posts ante [$25]
+bob4turbo posts ante [$25]
+Davej88 posts ante [$25]
+kirito212 posts ante [$25]
+bob4turbo posts small blind [$125]
+Davej88 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 5d ]
+SHOOT174 calls [$250]
+Munnerrick folds
+chinnyman4 raises [$1,012]
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+kirito212 raises [$9,975]
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+chinnyman4 calls [$7,202]
+** Dealing flop ** [ 3c, 8c, 2d ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ Ts ]
+** Summary **
+kirito212 shows [ Qc, Qs ]
+chinnyman4 shows [ 8d, Ad ]
+kirito212 collected [ $17,278 ]
+
+
+
+#Game No : 641988304
+***** 888poker Hand History for Game 641988304 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 06:26:01
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,175 )
+Seat 2: kirito212 ( $19,039 )
+Seat 3: bob4turbo ( $9,783 )
+Seat 4: Davej88 ( $6,750 )
+Seat 5: SHOOT174 ( $20,058 )
+Seat 6: Munnerrick ( $2,755 )
+Seat 9: PapaShango19 ( $10,890 )
+Seat 10: bur1079 ( $1,485 )
+SHOOT174 posts ante [$30]
+Munnerrick posts ante [$30]
+PapaShango19 posts ante [$30]
+bur1079 posts ante [$30]
+terra077 posts ante [$30]
+bob4turbo posts ante [$30]
+Davej88 posts ante [$30]
+kirito212 posts ante [$30]
+Davej88 posts small blind [$150]
+SHOOT174 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Qh ]
+Munnerrick folds
+PapaShango19 raises [$600]
+bur1079 folds
+terra077 folds
+kirito212 folds
+bob4turbo calls [$600]
+Davej88 folds
+SHOOT174 calls [$300]
+** Dealing flop ** [ 3c, Ts, 7s ]
+SHOOT174 checks
+PapaShango19 bets [$600]
+bob4turbo calls [$600]
+SHOOT174 calls [$600]
+** Dealing turn ** [ 8s ]
+SHOOT174 checks
+PapaShango19 checks
+bob4turbo bets [$600]
+SHOOT174 calls [$600]
+PapaShango19 folds
+** Dealing river ** [ 6h ]
+SHOOT174 checks
+bob4turbo checks
+** Summary **
+SHOOT174 shows [ 3d, 9h ]
+bob4turbo shows [ 9s, 8d ]
+SHOOT174 collected [ $2,595 ]
+bob4turbo collected [ $2,595 ]
+
+
+
+#Game No : 641988415
+***** 888poker Hand History for Game 641988415 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 06:27:13
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,145 )
+Seat 2: kirito212 ( $19,009 )
+Seat 3: bob4turbo ( $10,548 )
+Seat 4: Davej88 ( $6,570 )
+Seat 5: SHOOT174 ( $20,823 )
+Seat 6: Munnerrick ( $2,725 )
+Seat 9: PapaShango19 ( $9,660 )
+Seat 10: bur1079 ( $1,455 )
+SHOOT174 posts ante [$30]
+Munnerrick posts ante [$30]
+PapaShango19 posts ante [$30]
+bur1079 posts ante [$30]
+terra077 posts ante [$30]
+bob4turbo posts ante [$30]
+Davej88 posts ante [$30]
+kirito212 posts ante [$30]
+SHOOT174 posts small blind [$150]
+Munnerrick posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 2h ]
+PapaShango19 folds
+bur1079 folds
+terra077 folds
+kirito212 raises [$645]
+bob4turbo calls [$645]
+Davej88 folds
+SHOOT174 folds
+Munnerrick calls [$345]
+** Dealing flop ** [ 8d, Qh, 6c ]
+Munnerrick bets [$2,050]
+kirito212 folds
+bob4turbo calls [$2,050]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 5s ]
+** Summary **
+bob4turbo shows [ Js, Ad ]
+Munnerrick shows [ 4c, Qc ]
+Munnerrick collected [ $6,425 ]
+
+
+
+#Game No : 641988501
+***** 888poker Hand History for Game 641988501 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 06:28:10
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,115 )
+Seat 2: kirito212 ( $18,334 )
+Seat 3: bob4turbo ( $7,823 )
+Seat 4: Davej88 ( $6,540 )
+Seat 5: SHOOT174 ( $20,643 )
+Seat 6: Munnerrick ( $6,425 )
+Seat 9: PapaShango19 ( $9,630 )
+Seat 10: bur1079 ( $1,425 )
+SHOOT174 posts ante [$30]
+Munnerrick posts ante [$30]
+PapaShango19 posts ante [$30]
+bur1079 posts ante [$30]
+terra077 posts ante [$30]
+bob4turbo posts ante [$30]
+Davej88 posts ante [$30]
+kirito212 posts ante [$30]
+Munnerrick posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Kh ]
+bur1079 folds
+terra077 folds
+kirito212 calls [$300]
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+PapaShango19 checks
+** Dealing flop ** [ 2s, 9s, Kd ]
+PapaShango19 bets [$600]
+kirito212 calls [$600]
+** Dealing turn ** [ Ad ]
+PapaShango19 bets [$600]
+kirito212 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,190 ]
+
+
+
+#Game No : 641988549
+***** 888poker Hand History for Game 641988549 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 06:28:49
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: terra077 ( $5,085 )
+Seat 2: kirito212 ( $17,404 )
+Seat 3: bob4turbo ( $7,793 )
+Seat 4: Davej88 ( $6,510 )
+Seat 5: SHOOT174 ( $20,613 )
+Seat 6: Munnerrick ( $6,245 )
+Seat 9: PapaShango19 ( $10,890 )
+Seat 10: bur1079 ( $1,395 )
+SHOOT174 posts ante [$30]
+Munnerrick posts ante [$30]
+PapaShango19 posts ante [$30]
+bur1079 posts ante [$30]
+terra077 posts ante [$30]
+bob4turbo posts ante [$30]
+Davej88 posts ante [$30]
+kirito212 posts ante [$30]
+PapaShango19 posts small blind [$150]
+bur1079 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Ac ]
+terra077 calls [$300]
+kirito212 folds
+bob4turbo folds
+Davej88 calls [$300]
+SHOOT174 folds
+Munnerrick folds
+PapaShango19 raises [$1,050]
+bur1079 folds
+terra077 calls [$900]
+Davej88 calls [$900]
+** Dealing flop ** [ As, 5s, 8d ]
+PapaShango19 bets [$2,070]
+terra077 folds
+Davej88 folds
+** Summary **
+PapaShango19 collected [ $4,140 ]
+
+
+
+#Game No : 641988635
+***** 888poker Hand History for Game 641988635 *****
+$150/$300 Blinds No Limit Holdem - *** 20 11 2014 06:29:46
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: terra077 ( $3,855 )
+Seat 2: kirito212 ( $17,374 )
+Seat 3: bob4turbo ( $7,763 )
+Seat 4: Davej88 ( $5,280 )
+Seat 5: SHOOT174 ( $20,583 )
+Seat 6: Munnerrick ( $6,215 )
+Seat 7: stephan104 ( $5,000 )
+Seat 9: PapaShango19 ( $13,800 )
+Seat 10: bur1079 ( $1,065 )
+SHOOT174 posts ante [$30]
+Munnerrick posts ante [$30]
+PapaShango19 posts ante [$30]
+bur1079 posts ante [$30]
+terra077 posts ante [$30]
+bob4turbo posts ante [$30]
+Davej88 posts ante [$30]
+kirito212 posts ante [$30]
+stephan104 posts ante [$30]
+bur1079 posts small blind [$150]
+terra077 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Qh ]
+kirito212 calls [$300]
+bob4turbo folds
+Davej88 raises [$600]
+SHOOT174 folds
+Munnerrick folds
+stephan104 calls [$600]
+PapaShango19 raises [$13,770]
+bur1079 calls [$885]
+terra077 folds
+kirito212 folds
+Davej88 folds
+stephan104 folds
+** Dealing flop ** [ 3h, Ks, Th ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 4s ]
+** Summary **
+PapaShango19 shows [ Ad, Qh ]
+bur1079 shows [ 7d, Ac ]
+PapaShango19 collected [ $4,140 ]
+
+
+
+#Game No : 641988713
+***** 888poker Hand History for Game 641988713 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 06:30:35
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: terra077 ( $3,525 )
+Seat 2: kirito212 ( $17,044 )
+Seat 3: bob4turbo ( $7,733 )
+Seat 4: Davej88 ( $4,650 )
+Seat 5: SHOOT174 ( $20,553 )
+Seat 6: Munnerrick ( $6,185 )
+Seat 7: stephan104 ( $4,370 )
+Seat 9: PapaShango19 ( $16,875 )
+SHOOT174 posts ante [$40]
+Munnerrick posts ante [$40]
+PapaShango19 posts ante [$40]
+terra077 posts ante [$40]
+bob4turbo posts ante [$40]
+Davej88 posts ante [$40]
+kirito212 posts ante [$40]
+stephan104 posts ante [$40]
+terra077 posts small blind [$200]
+kirito212 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Ts ]
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+stephan104 calls [$400]
+PapaShango19 folds
+terra077 calls [$200]
+kirito212 checks
+** Dealing flop ** [ Ad, 9h, 6h ]
+terra077 checks
+kirito212 checks
+stephan104 checks
+** Dealing turn ** [ 6d ]
+terra077 checks
+kirito212 checks
+stephan104 bets [$760]
+terra077 folds
+kirito212 folds
+** Summary **
+stephan104 collected [ $1,520 ]
+
+
+
+#Game No : 641988778
+***** 888poker Hand History for Game 641988778 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 06:31:11
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: terra077 ( $3,085 )
+Seat 2: kirito212 ( $16,604 )
+Seat 3: bob4turbo ( $7,693 )
+Seat 4: Davej88 ( $4,610 )
+Seat 5: SHOOT174 ( $20,513 )
+Seat 6: Munnerrick ( $6,145 )
+Seat 7: stephan104 ( $5,450 )
+Seat 9: PapaShango19 ( $16,835 )
+Seat 10: NL212121 ( $5,000 )
+SHOOT174 posts ante [$40]
+Munnerrick posts ante [$40]
+PapaShango19 posts ante [$40]
+terra077 posts ante [$40]
+bob4turbo posts ante [$40]
+Davej88 posts ante [$40]
+kirito212 posts ante [$40]
+stephan104 posts ante [$40]
+NL212121 posts ante [$40]
+kirito212 posts small blind [$200]
+bob4turbo posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 5d ]
+Davej88 folds
+SHOOT174 calls [$400]
+Munnerrick folds
+stephan104 folds
+PapaShango19 folds
+NL212121 raises [$1,500]
+terra077 calls [$1,500]
+kirito212 calls [$1,300]
+bob4turbo folds
+SHOOT174 raises [$4,200]
+NL212121 raises [$3,460]
+terra077 calls [$1,545]
+kirito212 calls [$3,460]
+SHOOT174 calls [$360]
+** Dealing flop ** [ 2h, 9c, 4d ]
+kirito212 checks
+SHOOT174 bets [$15,513]
+kirito212 folds
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Kc ]
+** Summary **
+terra077 shows [ Td, 7d ]
+SHOOT174 shows [ Ac, Ts ]
+NL212121 shows [ 8c, 8d ]
+NL212121 collected [ $12,940 ]
+NL212121 collected [ $5,745 ]
+
+
+
+#Game No : 641988913
+***** 888poker Hand History for Game 641988913 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 06:32:22
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: kirito212 ( $11,604 )
+Seat 3: bob4turbo ( $7,253 )
+Seat 4: Davej88 ( $4,570 )
+Seat 5: SHOOT174 ( $15,513 )
+Seat 6: Munnerrick ( $6,105 )
+Seat 7: stephan104 ( $5,410 )
+Seat 9: PapaShango19 ( $16,795 )
+Seat 10: NL212121 ( $18,685 )
+SHOOT174 posts ante [$40]
+Munnerrick posts ante [$40]
+PapaShango19 posts ante [$40]
+bob4turbo posts ante [$40]
+Davej88 posts ante [$40]
+kirito212 posts ante [$40]
+stephan104 posts ante [$40]
+NL212121 posts ante [$40]
+bob4turbo posts small blind [$200]
+Davej88 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Ks ]
+SHOOT174 folds
+Munnerrick folds
+stephan104 raises [$1,200]
+PapaShango19 folds
+NL212121 calls [$1,200]
+kirito212 folds
+bob4turbo folds
+Davej88 folds
+** Dealing flop ** [ Qc, Td, 2s ]
+stephan104 checks
+NL212121 bets [$650]
+stephan104 calls [$650]
+** Dealing turn ** [ Jd ]
+stephan104 checks
+NL212121 bets [$1,200]
+stephan104 calls [$1,200]
+** Dealing river ** [ 9c ]
+stephan104 bets [$2,320]
+NL212121 calls [$2,320]
+** Summary **
+stephan104 shows [ Th, Tc ]
+NL212121 shows [ Qs, Kd ]
+NL212121 collected [ $11,660 ]
+
+
+
+#Game No : 641989017
+***** 888poker Hand History for Game 641989017 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 06:33:33
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: fishvictordd ( $15,722 )
+Seat 2: kirito212 ( $11,564 )
+Seat 3: bob4turbo ( $7,013 )
+Seat 4: Davej88 ( $4,130 )
+Seat 5: SHOOT174 ( $15,473 )
+Seat 6: Munnerrick ( $6,065 )
+Seat 9: PapaShango19 ( $16,755 )
+Seat 10: NL212121 ( $24,935 )
+SHOOT174 posts ante [$40]
+Munnerrick posts ante [$40]
+PapaShango19 posts ante [$40]
+bob4turbo posts ante [$40]
+Davej88 posts ante [$40]
+kirito212 posts ante [$40]
+NL212121 posts ante [$40]
+fishvictordd posts ante [$40]
+Davej88 posts small blind [$200]
+SHOOT174 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Tc ]
+Munnerrick folds
+PapaShango19 folds
+NL212121 raises [$1,200]
+fishvictordd folds
+kirito212 folds
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+** Summary **
+NL212121 did not show his hand
+NL212121 collected [ $1,320 ]
+
+
+
+#Game No : 641989085
+***** 888poker Hand History for Game 641989085 *****
+$200/$400 Blinds No Limit Holdem - *** 20 11 2014 06:34:02
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: fishvictordd ( $15,682 )
+Seat 2: kirito212 ( $11,524 )
+Seat 3: bob4turbo ( $6,973 )
+Seat 4: Davej88 ( $3,890 )
+Seat 5: SHOOT174 ( $15,033 )
+Seat 6: Munnerrick ( $6,025 )
+Seat 9: PapaShango19 ( $16,715 )
+Seat 10: NL212121 ( $25,815 )
+SHOOT174 posts ante [$40]
+Munnerrick posts ante [$40]
+PapaShango19 posts ante [$40]
+bob4turbo posts ante [$40]
+Davej88 posts ante [$40]
+kirito212 posts ante [$40]
+NL212121 posts ante [$40]
+fishvictordd posts ante [$40]
+SHOOT174 posts small blind [$200]
+Munnerrick posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 6h ]
+PapaShango19 folds
+NL212121 calls [$400]
+fishvictordd folds
+kirito212 folds
+bob4turbo folds
+Davej88 raises [$2,120]
+SHOOT174 calls [$1,920]
+Munnerrick folds
+NL212121 folds
+** Dealing flop ** [ 7s, 7d, Js ]
+SHOOT174 checks
+Davej88 bets [$1,730]
+SHOOT174 calls [$1,730]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ Qh ]
+** Summary **
+Davej88 shows [ 9d, 9c ]
+SHOOT174 shows [ 3d, Ac ]
+Davej88 collected [ $8,820 ]
+
+
+
+#Game No : 641989230
+***** 888poker Hand History for Game 641989230 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 06:35:26
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $15,642 )
+Seat 2: kirito212 ( $11,484 )
+Seat 3: bob4turbo ( $6,933 )
+Seat 4: Davej88 ( $8,820 )
+Seat 5: SHOOT174 ( $11,143 )
+Seat 6: Munnerrick ( $5,585 )
+Seat 7: Surlock ( $6,790 )
+Seat 9: PapaShango19 ( $16,675 )
+Seat 10: NL212121 ( $25,375 )
+SHOOT174 posts ante [$60]
+Munnerrick posts ante [$60]
+PapaShango19 posts ante [$60]
+bob4turbo posts ante [$60]
+Davej88 posts ante [$60]
+kirito212 posts ante [$60]
+NL212121 posts ante [$60]
+fishvictordd posts ante [$60]
+Surlock posts ante [$60]
+Munnerrick posts small blind [$300]
+Surlock posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6c ]
+PapaShango19 folds
+NL212121 raises [$1,200]
+fishvictordd folds
+kirito212 folds
+bob4turbo folds
+Davej88 folds
+SHOOT174 calls [$1,200]
+Munnerrick folds
+Surlock folds
+** Dealing flop ** [ 5h, 5c, 3h ]
+NL212121 checks
+SHOOT174 checks
+** Dealing turn ** [ Ac ]
+NL212121 checks
+SHOOT174 checks
+** Dealing river ** [ 8h ]
+NL212121 checks
+SHOOT174 checks
+** Summary **
+NL212121 shows [ Qh, Tc ]
+SHOOT174 mucks [ Js, 7d ]
+NL212121 collected [ $3,840 ]
+
+
+
+#Game No : 641989336
+***** 888poker Hand History for Game 641989336 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 06:36:13
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $15,582 )
+Seat 2: kirito212 ( $11,424 )
+Seat 3: bob4turbo ( $6,873 )
+Seat 4: Davej88 ( $8,760 )
+Seat 5: SHOOT174 ( $9,883 )
+Seat 6: Munnerrick ( $5,225 )
+Seat 7: Surlock ( $6,130 )
+Seat 9: PapaShango19 ( $16,615 )
+Seat 10: NL212121 ( $27,955 )
+SHOOT174 posts ante [$60]
+Munnerrick posts ante [$60]
+PapaShango19 posts ante [$60]
+bob4turbo posts ante [$60]
+Davej88 posts ante [$60]
+kirito212 posts ante [$60]
+NL212121 posts ante [$60]
+fishvictordd posts ante [$60]
+Surlock posts ante [$60]
+Surlock posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7d ]
+NL212121 folds
+fishvictordd folds
+kirito212 calls [$600]
+bob4turbo folds
+Davej88 folds
+SHOOT174 folds
+Munnerrick folds
+Surlock raises [$1,350]
+PapaShango19 folds
+kirito212 calls [$1,050]
+** Dealing flop ** [ 8d, 5h, 9s ]
+Surlock bets [$4,420]
+kirito212 calls [$4,420]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ Td ]
+** Summary **
+kirito212 shows [ 2c, 2s ]
+Surlock shows [ Ad, 6d ]
+kirito212 collected [ $13,280 ]
+
+
+
+#Game No : 641989464
+***** 888poker Hand History for Game 641989464 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 06:37:10
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: fishvictordd ( $15,522 )
+Seat 2: kirito212 ( $18,574 )
+Seat 3: bob4turbo ( $6,813 )
+Seat 4: Davej88 ( $8,700 )
+Seat 5: SHOOT174 ( $9,823 )
+Seat 6: Munnerrick ( $5,165 )
+Seat 9: PapaShango19 ( $15,955 )
+Seat 10: NL212121 ( $27,895 )
+SHOOT174 posts ante [$60]
+Munnerrick posts ante [$60]
+PapaShango19 posts ante [$60]
+bob4turbo posts ante [$60]
+Davej88 posts ante [$60]
+kirito212 posts ante [$60]
+NL212121 posts ante [$60]
+fishvictordd posts ante [$60]
+PapaShango19 posts small blind [$300]
+NL212121 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 4d ]
+fishvictordd folds
+kirito212 folds
+bob4turbo calls [$600]
+Davej88 folds
+SHOOT174 folds
+Munnerrick calls [$600]
+PapaShango19 calls [$300]
+NL212121 checks
+** Dealing flop ** [ Ah, 8d, 5s ]
+PapaShango19 checks
+NL212121 checks
+bob4turbo bets [$1,200]
+Munnerrick folds
+PapaShango19 folds
+NL212121 calls [$1,200]
+** Dealing turn ** [ Qd ]
+NL212121 checks
+bob4turbo bets [$4,953]
+NL212121 calls [$4,953]
+** Dealing river ** [ 5d ]
+** Summary **
+bob4turbo shows [ Kd, As ]
+NL212121 shows [ Qs, 8c ]
+bob4turbo collected [ $15,186 ]
+
+
+
+#Game No : 641989610
+***** 888poker Hand History for Game 641989610 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 06:38:25
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $15,462 )
+Seat 2: kirito212 ( $18,514 )
+Seat 3: bob4turbo ( $15,186 )
+Seat 4: Davej88 ( $8,640 )
+Seat 5: SHOOT174 ( $9,763 )
+Seat 6: Munnerrick ( $4,505 )
+Seat 7: x47594721 ( $29,990 )
+Seat 9: PapaShango19 ( $15,295 )
+Seat 10: NL212121 ( $21,082 )
+SHOOT174 posts ante [$60]
+Munnerrick posts ante [$60]
+PapaShango19 posts ante [$60]
+bob4turbo posts ante [$60]
+Davej88 posts ante [$60]
+kirito212 posts ante [$60]
+NL212121 posts ante [$60]
+fishvictordd posts ante [$60]
+x47594721 posts ante [$60]
+NL212121 posts small blind [$300]
+fishvictordd posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Ac ]
+kirito212 folds
+bob4turbo calls [$600]
+Davej88 folds
+SHOOT174 raises [$9,703]
+Munnerrick folds
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+fishvictordd folds
+bob4turbo calls [$9,103]
+** Dealing flop ** [ 3d, Qd, Qc ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 5h ]
+** Summary **
+bob4turbo shows [ Jh, Jd ]
+SHOOT174 shows [ 8d, Kd ]
+bob4turbo collected [ $20,846 ]
+
+
+
+#Game No : 641989703
+***** 888poker Hand History for Game 641989703 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 06:39:13
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $14,802 )
+Seat 2: kirito212 ( $18,454 )
+Seat 3: bob4turbo ( $26,269 )
+Seat 4: Davej88 ( $8,580 )
+Seat 5: webmeddoc ( $5,000 )
+Seat 6: Munnerrick ( $4,445 )
+Seat 7: x47594721 ( $29,930 )
+Seat 9: PapaShango19 ( $15,235 )
+Seat 10: NL212121 ( $20,722 )
+Munnerrick posts ante [$60]
+PapaShango19 posts ante [$60]
+bob4turbo posts ante [$60]
+Davej88 posts ante [$60]
+kirito212 posts ante [$60]
+NL212121 posts ante [$60]
+fishvictordd posts ante [$60]
+x47594721 posts ante [$60]
+webmeddoc posts ante [$60]
+fishvictordd posts small blind [$300]
+kirito212 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Qc ]
+bob4turbo folds
+Davej88 folds
+webmeddoc folds
+Munnerrick folds
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+fishvictordd folds
+** Summary **
+kirito212 did not show his hand
+kirito212 collected [ $1,440 ]
+
+
+
+#Game No : 641989770
+***** 888poker Hand History for Game 641989770 *****
+$300/$600 Blinds No Limit Holdem - *** 20 11 2014 06:39:48
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: fishvictordd ( $14,442 )
+Seat 2: kirito212 ( $19,234 )
+Seat 3: bob4turbo ( $26,209 )
+Seat 4: Davej88 ( $8,520 )
+Seat 5: webmeddoc ( $4,940 )
+Seat 7: x47594721 ( $29,870 )
+Seat 9: PapaShango19 ( $15,175 )
+Seat 10: NL212121 ( $20,662 )
+PapaShango19 posts ante [$60]
+bob4turbo posts ante [$60]
+Davej88 posts ante [$60]
+kirito212 posts ante [$60]
+NL212121 posts ante [$60]
+fishvictordd posts ante [$60]
+x47594721 posts ante [$60]
+webmeddoc posts ante [$60]
+kirito212 posts small blind [$300]
+bob4turbo posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 8s ]
+Davej88 calls [$600]
+webmeddoc folds
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+fishvictordd folds
+kirito212 calls [$300]
+bob4turbo checks
+** Dealing flop ** [ Ts, 2d, Td ]
+kirito212 checks
+bob4turbo checks
+Davej88 checks
+** Dealing turn ** [ Th ]
+kirito212 bets [$1,140]
+bob4turbo calls [$1,140]
+Davej88 folds
+** Dealing river ** [ As ]
+kirito212 bets [$2,280]
+bob4turbo raises [$4,560]
+kirito212 calls [$2,280]
+** Summary **
+bob4turbo shows [ Ad, Ac ]
+kirito212 mucks [ 6c, 6d ]
+bob4turbo collected [ $13,680 ]
+
+
+
+#Game No : 641989883
+***** 888poker Hand History for Game 641989883 *****
+$400/$800 Blinds No Limit Holdem - *** 20 11 2014 06:40:44
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $14,382 )
+Seat 2: kirito212 ( $12,874 )
+Seat 3: bob4turbo ( $33,529 )
+Seat 4: Davej88 ( $7,860 )
+Seat 5: webmeddoc ( $4,880 )
+Seat 6: philtrout ( $15,730 )
+Seat 7: x47594721 ( $29,810 )
+Seat 9: PapaShango19 ( $15,115 )
+Seat 10: NL212121 ( $20,602 )
+PapaShango19 posts ante [$80]
+bob4turbo posts ante [$80]
+Davej88 posts ante [$80]
+kirito212 posts ante [$80]
+NL212121 posts ante [$80]
+fishvictordd posts ante [$80]
+x47594721 posts ante [$80]
+webmeddoc posts ante [$80]
+philtrout posts ante [$80]
+bob4turbo posts small blind [$400]
+Davej88 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 9d ]
+webmeddoc raises [$3,520]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+fishvictordd folds
+kirito212 folds
+bob4turbo raises [$33,049]
+Davej88 folds
+webmeddoc calls [$1,280]
+** Dealing flop ** [ 7c, 8d, 3s ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Js ]
+** Summary **
+bob4turbo shows [ 5c, 5s ]
+webmeddoc shows [ Ah, 8h ]
+webmeddoc collected [ $11,120 ]
+
+
+
+#Game No : 641990050
+***** 888poker Hand History for Game 641990050 *****
+$400/$800 Blinds No Limit Holdem - *** 20 11 2014 06:42:00
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $14,302 )
+Seat 2: kirito212 ( $12,794 )
+Seat 3: bob4turbo ( $28,649 )
+Seat 4: Davej88 ( $6,980 )
+Seat 5: webmeddoc ( $11,120 )
+Seat 6: philtrout ( $15,650 )
+Seat 7: x47594721 ( $29,730 )
+Seat 9: PapaShango19 ( $15,035 )
+Seat 10: NL212121 ( $20,522 )
+PapaShango19 posts ante [$80]
+bob4turbo posts ante [$80]
+Davej88 posts ante [$80]
+kirito212 posts ante [$80]
+NL212121 posts ante [$80]
+fishvictordd posts ante [$80]
+x47594721 posts ante [$80]
+webmeddoc posts ante [$80]
+philtrout posts ante [$80]
+Davej88 posts small blind [$400]
+webmeddoc posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Js ]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+fishvictordd folds
+kirito212 raises [$1,600]
+bob4turbo folds
+Davej88 folds
+webmeddoc folds
+** Summary **
+kirito212 did not show his hand
+kirito212 collected [ $2,720 ]
+
+
+
+#Game No : 641990121
+***** 888poker Hand History for Game 641990121 *****
+$400/$800 Blinds No Limit Holdem - *** 20 11 2014 06:42:33
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $14,222 )
+Seat 2: kirito212 ( $14,634 )
+Seat 3: bob4turbo ( $28,569 )
+Seat 4: Davej88 ( $6,500 )
+Seat 5: webmeddoc ( $10,240 )
+Seat 6: philtrout ( $15,570 )
+Seat 7: x47594721 ( $29,650 )
+Seat 9: PapaShango19 ( $14,955 )
+Seat 10: NL212121 ( $20,442 )
+PapaShango19 posts ante [$80]
+bob4turbo posts ante [$80]
+Davej88 posts ante [$80]
+kirito212 posts ante [$80]
+NL212121 posts ante [$80]
+fishvictordd posts ante [$80]
+x47594721 posts ante [$80]
+webmeddoc posts ante [$80]
+philtrout posts ante [$80]
+webmeddoc posts small blind [$400]
+philtrout posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 8c ]
+x47594721 folds
+PapaShango19 folds
+NL212121 calls [$800]
+fishvictordd folds
+kirito212 folds
+bob4turbo raises [$1,600]
+Davej88 folds
+webmeddoc folds
+philtrout calls [$800]
+NL212121 folds
+** Dealing flop ** [ Qh, Td, 4c ]
+philtrout checks
+bob4turbo checks
+** Dealing turn ** [ Kh ]
+philtrout checks
+bob4turbo bets [$800]
+philtrout calls [$800]
+** Dealing river ** [ As ]
+philtrout bets [$2,400]
+bob4turbo calls [$2,400]
+** Summary **
+philtrout shows [ Jd, 8h ]
+bob4turbo mucks [ Ah, 2c ]
+philtrout collected [ $11,520 ]
+
+
+
+#Game No : 641990290
+***** 888poker Hand History for Game 641990290 *****
+$400/$800 Blinds No Limit Holdem - *** 20 11 2014 06:43:40
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $14,142 )
+Seat 2: kirito212 ( $14,554 )
+Seat 3: bob4turbo ( $23,689 )
+Seat 4: Davej88 ( $6,420 )
+Seat 5: webmeddoc ( $9,760 )
+Seat 6: philtrout ( $22,210 )
+Seat 7: x47594721 ( $29,570 )
+Seat 9: PapaShango19 ( $14,875 )
+Seat 10: NL212121 ( $19,562 )
+PapaShango19 posts ante [$80]
+bob4turbo posts ante [$80]
+Davej88 posts ante [$80]
+kirito212 posts ante [$80]
+NL212121 posts ante [$80]
+fishvictordd posts ante [$80]
+x47594721 posts ante [$80]
+webmeddoc posts ante [$80]
+philtrout posts ante [$80]
+philtrout posts small blind [$400]
+x47594721 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 3c ]
+PapaShango19 folds
+NL212121 folds
+fishvictordd folds
+kirito212 raises [$1,600]
+bob4turbo calls [$1,600]
+Davej88 folds
+webmeddoc raises [$9,680]
+philtrout folds
+x47594721 folds
+kirito212 raises [$12,874]
+bob4turbo calls [$12,874]
+** Dealing flop ** [ Td, 3h, Ts ]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ Qd ]
+** Summary **
+kirito212 shows [ Ks, Kc ]
+bob4turbo shows [ 7s, 7d ]
+webmeddoc shows [ Ac, Kd ]
+webmeddoc collected [ $30,960 ]
+kirito212 collected [ $9,588 ]
+
+
+
+#Game No : 641990395
+***** 888poker Hand History for Game 641990395 *****
+$400/$800 Blinds No Limit Holdem - *** 20 11 2014 06:44:28
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $14,062 )
+Seat 2: kirito212 ( $9,588 )
+Seat 3: bob4turbo ( $9,135 )
+Seat 4: Davej88 ( $6,340 )
+Seat 5: webmeddoc ( $30,960 )
+Seat 6: philtrout ( $21,730 )
+Seat 7: x47594721 ( $28,690 )
+Seat 9: PapaShango19 ( $14,795 )
+Seat 10: NL212121 ( $19,482 )
+PapaShango19 posts ante [$80]
+bob4turbo posts ante [$80]
+Davej88 posts ante [$80]
+kirito212 posts ante [$80]
+NL212121 posts ante [$80]
+fishvictordd posts ante [$80]
+x47594721 posts ante [$80]
+webmeddoc posts ante [$80]
+philtrout posts ante [$80]
+x47594721 posts small blind [$400]
+PapaShango19 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Qd ]
+NL212121 folds
+fishvictordd folds
+kirito212 raises [$9,508]
+bob4turbo folds
+Davej88 folds
+webmeddoc raises [$30,880]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+** Dealing flop ** [ Td, Ts, Ac ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 8c ]
+** Summary **
+kirito212 shows [ 6h, 6s ]
+webmeddoc shows [ Jh, Js ]
+webmeddoc collected [ $20,936 ]
+
+
+
+#Game No : 641990495
+***** 888poker Hand History for Game 641990495 *****
+$400/$800 Blinds No Limit Holdem - *** 20 11 2014 06:45:07
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: fishvictordd ( $13,982 )
+Seat 3: bob4turbo ( $9,055 )
+Seat 4: Davej88 ( $6,260 )
+Seat 5: webmeddoc ( $42,308 )
+Seat 6: philtrout ( $21,650 )
+Seat 7: x47594721 ( $28,210 )
+Seat 9: PapaShango19 ( $13,915 )
+Seat 10: NL212121 ( $19,402 )
+PapaShango19 posts ante [$80]
+bob4turbo posts ante [$80]
+Davej88 posts ante [$80]
+NL212121 posts ante [$80]
+fishvictordd posts ante [$80]
+x47594721 posts ante [$80]
+webmeddoc posts ante [$80]
+philtrout posts ante [$80]
+PapaShango19 posts small blind [$400]
+NL212121 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6s ]
+fishvictordd folds
+bob4turbo raises [$1,720]
+Davej88 folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+** Summary **
+bob4turbo did not show his hand
+bob4turbo collected [ $2,640 ]
+
+
+
+#Game No : 641990569
+***** 888poker Hand History for Game 641990569 *****
+$500/$1,000 Blinds No Limit Holdem - *** 20 11 2014 06:45:35
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: fishvictordd ( $13,902 )
+Seat 3: bob4turbo ( $10,815 )
+Seat 4: Davej88 ( $6,180 )
+Seat 5: webmeddoc ( $42,228 )
+Seat 6: philtrout ( $21,570 )
+Seat 7: x47594721 ( $28,130 )
+Seat 9: PapaShango19 ( $13,435 )
+Seat 10: NL212121 ( $18,522 )
+PapaShango19 posts ante [$100]
+bob4turbo posts ante [$100]
+Davej88 posts ante [$100]
+NL212121 posts ante [$100]
+fishvictordd posts ante [$100]
+x47594721 posts ante [$100]
+webmeddoc posts ante [$100]
+philtrout posts ante [$100]
+NL212121 posts small blind [$500]
+fishvictordd posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Th ]
+bob4turbo folds
+Davej88 calls [$1,000]
+webmeddoc calls [$1,000]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+NL212121 calls [$500]
+fishvictordd checks
+** Dealing flop ** [ 3d, Qs, 8s ]
+NL212121 checks
+fishvictordd checks
+Davej88 bets [$2,400]
+webmeddoc folds
+NL212121 folds
+fishvictordd folds
+** Summary **
+Davej88 collected [ $4,800 ]
+
+
+
+#Game No : 641990691
+***** 888poker Hand History for Game 641990691 *****
+$500/$1,000 Blinds No Limit Holdem - *** 20 11 2014 06:46:35
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: fishvictordd ( $12,802 )
+Seat 2: noMercyDave ( $10,880 )
+Seat 3: bob4turbo ( $10,715 )
+Seat 4: Davej88 ( $9,880 )
+Seat 5: webmeddoc ( $41,128 )
+Seat 6: philtrout ( $21,470 )
+Seat 7: x47594721 ( $28,030 )
+Seat 9: PapaShango19 ( $13,335 )
+Seat 10: NL212121 ( $17,422 )
+PapaShango19 posts ante [$100]
+bob4turbo posts ante [$100]
+Davej88 posts ante [$100]
+NL212121 posts ante [$100]
+fishvictordd posts ante [$100]
+x47594721 posts ante [$100]
+webmeddoc posts ante [$100]
+philtrout posts ante [$100]
+noMercyDave posts ante [$100]
+fishvictordd posts small blind [$500]
+noMercyDave posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ts ]
+bob4turbo folds
+Davej88 folds
+webmeddoc calls [$1,000]
+philtrout raises [$3,000]
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+fishvictordd raises [$12,202]
+noMercyDave folds
+webmeddoc folds
+philtrout calls [$9,702]
+** Dealing flop ** [ 6d, Tc, Ks ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 7d ]
+** Summary **
+fishvictordd shows [ Ac, Qh ]
+philtrout shows [ Kc, Jh ]
+philtrout collected [ $28,304 ]
+
+
+
+#Game No : 641990773
+***** 888poker Hand History for Game 641990773 *****
+$500/$1,000 Blinds No Limit Holdem - *** 20 11 2014 06:47:14
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: noMercyDave ( $9,780 )
+Seat 3: bob4turbo ( $10,615 )
+Seat 4: Davej88 ( $9,780 )
+Seat 5: webmeddoc ( $40,028 )
+Seat 6: philtrout ( $36,972 )
+Seat 7: x47594721 ( $27,930 )
+Seat 9: PapaShango19 ( $13,235 )
+Seat 10: NL212121 ( $17,322 )
+PapaShango19 posts ante [$100]
+bob4turbo posts ante [$100]
+Davej88 posts ante [$100]
+NL212121 posts ante [$100]
+x47594721 posts ante [$100]
+webmeddoc posts ante [$100]
+philtrout posts ante [$100]
+noMercyDave posts ante [$100]
+noMercyDave posts small blind [$500]
+bob4turbo posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Kc ]
+Davej88 folds
+webmeddoc folds
+philtrout raises [$2,000]
+x47594721 folds
+PapaShango19 folds
+NL212121 calls [$2,000]
+noMercyDave folds
+bob4turbo calls [$1,000]
+** Dealing flop ** [ 9s, 9c, 7h ]
+bob4turbo checks
+philtrout bets [$2,000]
+NL212121 calls [$2,000]
+bob4turbo calls [$2,000]
+** Dealing turn ** [ 2h ]
+bob4turbo bets [$1,000]
+philtrout folds
+NL212121 calls [$1,000]
+** Dealing river ** [ 6h ]
+bob4turbo bets [$1,000]
+NL212121 raises [$12,222]
+bob4turbo calls [$4,515]
+** Summary **
+bob4turbo shows [ 9d, Th ]
+NL212121 shows [ Ad, 8d ]
+bob4turbo collected [ $26,330 ]
+
+
+
+#Game No : 641991009
+***** 888poker Hand History for Game 641991009 *****
+$500/$1,000 Blinds No Limit Holdem - *** 20 11 2014 06:49:06
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: stisub ( $12,760 )
+Seat 2: noMercyDave ( $9,180 )
+Seat 3: bob4turbo ( $26,330 )
+Seat 4: Davej88 ( $9,680 )
+Seat 5: webmeddoc ( $39,928 )
+Seat 6: philtrout ( $32,872 )
+Seat 7: x47594721 ( $27,830 )
+Seat 9: PapaShango19 ( $13,135 )
+Seat 10: NL212121 ( $6,707 )
+PapaShango19 posts ante [$100]
+bob4turbo posts ante [$100]
+Davej88 posts ante [$100]
+NL212121 posts ante [$100]
+x47594721 posts ante [$100]
+webmeddoc posts ante [$100]
+philtrout posts ante [$100]
+noMercyDave posts ante [$100]
+stisub posts ante [$100]
+bob4turbo posts small blind [$500]
+Davej88 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 7s ]
+webmeddoc folds
+philtrout raises [$3,000]
+x47594721 folds
+PapaShango19 folds
+NL212121 raises [$6,607]
+stisub folds
+noMercyDave folds
+bob4turbo folds
+Davej88 folds
+philtrout calls [$3,607]
+** Dealing flop ** [ Qd, 7h, 2c ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ Jh ]
+** Summary **
+philtrout shows [ Th, Ac ]
+NL212121 shows [ Jd, Ah ]
+NL212121 collected [ $15,614 ]
+
+
+
+#Game No : 641991099
+***** 888poker Hand History for Game 641991099 *****
+$500/$1,000 Blinds No Limit Holdem - *** 20 11 2014 06:49:54
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: stisub ( $12,660 )
+Seat 2: noMercyDave ( $9,080 )
+Seat 3: bob4turbo ( $25,730 )
+Seat 4: Davej88 ( $8,580 )
+Seat 5: webmeddoc ( $39,828 )
+Seat 6: philtrout ( $26,165 )
+Seat 7: x47594721 ( $27,730 )
+Seat 9: PapaShango19 ( $13,035 )
+Seat 10: NL212121 ( $15,614 )
+PapaShango19 posts ante [$100]
+bob4turbo posts ante [$100]
+Davej88 posts ante [$100]
+NL212121 posts ante [$100]
+x47594721 posts ante [$100]
+webmeddoc posts ante [$100]
+philtrout posts ante [$100]
+noMercyDave posts ante [$100]
+stisub posts ante [$100]
+Davej88 posts small blind [$500]
+webmeddoc posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 2s ]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+NL212121 folds
+stisub folds
+noMercyDave folds
+bob4turbo folds
+Davej88 folds
+** Summary **
+webmeddoc did not show his hand
+webmeddoc collected [ $2,400 ]
+
+
+
+#Game No : 641991141
+***** 888poker Hand History for Game 641991141 *****
+$600/$1,200 Blinds No Limit Holdem - *** 20 11 2014 06:50:19
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: stisub ( $12,560 )
+Seat 2: noMercyDave ( $8,980 )
+Seat 3: bob4turbo ( $25,630 )
+Seat 4: Davej88 ( $7,980 )
+Seat 5: webmeddoc ( $41,128 )
+Seat 6: philtrout ( $26,065 )
+Seat 7: x47594721 ( $27,630 )
+Seat 9: PapaShango19 ( $12,935 )
+Seat 10: NL212121 ( $15,514 )
+PapaShango19 posts ante [$120]
+bob4turbo posts ante [$120]
+Davej88 posts ante [$120]
+NL212121 posts ante [$120]
+x47594721 posts ante [$120]
+webmeddoc posts ante [$120]
+philtrout posts ante [$120]
+noMercyDave posts ante [$120]
+stisub posts ante [$120]
+webmeddoc posts small blind [$600]
+philtrout posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Js ]
+x47594721 folds
+PapaShango19 folds
+NL212121 raises [$2,400]
+stisub folds
+noMercyDave folds
+bob4turbo calls [$2,400]
+Davej88 folds
+webmeddoc folds
+philtrout folds
+** Dealing flop ** [ 2h, 5c, 6h ]
+NL212121 checks
+bob4turbo checks
+** Dealing turn ** [ 8c ]
+NL212121 checks
+bob4turbo checks
+** Dealing river ** [ 3d ]
+NL212121 bets [$3,840]
+bob4turbo folds
+** Summary **
+NL212121 did not show his hand
+NL212121 collected [ $7,680 ]
+
+
+
+#Game No : 641991231
+***** 888poker Hand History for Game 641991231 *****
+$600/$1,200 Blinds No Limit Holdem - *** 20 11 2014 06:51:15
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: stisub ( $12,440 )
+Seat 2: noMercyDave ( $8,860 )
+Seat 3: bob4turbo ( $23,110 )
+Seat 4: Davej88 ( $7,860 )
+Seat 5: webmeddoc ( $40,408 )
+Seat 6: philtrout ( $24,745 )
+Seat 7: x47594721 ( $27,510 )
+Seat 9: PapaShango19 ( $12,815 )
+Seat 10: NL212121 ( $20,674 )
+PapaShango19 posts ante [$120]
+bob4turbo posts ante [$120]
+Davej88 posts ante [$120]
+NL212121 posts ante [$120]
+x47594721 posts ante [$120]
+webmeddoc posts ante [$120]
+philtrout posts ante [$120]
+noMercyDave posts ante [$120]
+stisub posts ante [$120]
+philtrout posts small blind [$600]
+x47594721 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Jd ]
+PapaShango19 folds
+NL212121 raises [$3,960]
+stisub calls [$3,960]
+noMercyDave folds
+bob4turbo calls [$3,960]
+Davej88 folds
+webmeddoc folds
+philtrout folds
+x47594721 raises [$26,190]
+NL212121 calls [$16,594]
+stisub folds
+bob4turbo folds
+** Dealing flop ** [ 5h, 3c, 3h ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Kh ]
+** Summary **
+x47594721 shows [ Kc, Kd ]
+NL212121 shows [ 2s, 2h ]
+x47594721 collected [ $50,708 ]
+
+
+
+#Game No : 641991310
+***** 888poker Hand History for Game 641991310 *****
+$600/$1,200 Blinds No Limit Holdem - *** 20 11 2014 06:52:06
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: stisub ( $8,360 )
+Seat 2: noMercyDave ( $8,740 )
+Seat 3: bob4turbo ( $19,030 )
+Seat 4: Davej88 ( $7,740 )
+Seat 5: webmeddoc ( $40,288 )
+Seat 6: philtrout ( $24,025 )
+Seat 7: x47594721 ( $57,544 )
+Seat 9: PapaShango19 ( $12,695 )
+PapaShango19 posts ante [$120]
+bob4turbo posts ante [$120]
+Davej88 posts ante [$120]
+x47594721 posts ante [$120]
+webmeddoc posts ante [$120]
+philtrout posts ante [$120]
+noMercyDave posts ante [$120]
+stisub posts ante [$120]
+x47594721 posts small blind [$600]
+PapaShango19 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 3h ]
+stisub folds
+noMercyDave folds
+bob4turbo folds
+Davej88 calls [$1,200]
+webmeddoc folds
+philtrout folds
+x47594721 calls [$600]
+PapaShango19 checks
+** Dealing flop ** [ Ac, Qd, 4c ]
+x47594721 checks
+PapaShango19 checks
+Davej88 checks
+** Dealing turn ** [ Td ]
+x47594721 checks
+PapaShango19 checks
+Davej88 bets [$2,400]
+x47594721 folds
+PapaShango19 folds
+** Summary **
+Davej88 did not show his hand
+Davej88 collected [ $4,560 ]
+
+
+
+#Game No : 641991399
+***** 888poker Hand History for Game 641991399 *****
+$600/$1,200 Blinds No Limit Holdem - *** 20 11 2014 06:52:43
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: stisub ( $8,240 )
+Seat 2: noMercyDave ( $8,620 )
+Seat 3: bob4turbo ( $18,910 )
+Seat 4: Davej88 ( $10,980 )
+Seat 5: webmeddoc ( $40,168 )
+Seat 6: philtrout ( $23,905 )
+Seat 7: x47594721 ( $56,224 )
+Seat 9: PapaShango19 ( $11,375 )
+PapaShango19 posts ante [$120]
+bob4turbo posts ante [$120]
+Davej88 posts ante [$120]
+x47594721 posts ante [$120]
+webmeddoc posts ante [$120]
+philtrout posts ante [$120]
+noMercyDave posts ante [$120]
+stisub posts ante [$120]
+PapaShango19 posts small blind [$600]
+stisub posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6h ]
+noMercyDave raises [$5,160]
+bob4turbo folds
+Davej88 folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+stisub folds
+** Summary **
+noMercyDave did not show his hand
+noMercyDave collected [ $3,960 ]
+
+
+
+#Game No : 641991430
+***** 888poker Hand History for Game 641991430 *****
+$600/$1,200 Blinds No Limit Holdem - *** 20 11 2014 06:53:03
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: stisub ( $6,920 )
+Seat 2: noMercyDave ( $11,260 )
+Seat 3: bob4turbo ( $18,790 )
+Seat 4: Davej88 ( $10,860 )
+Seat 5: webmeddoc ( $40,048 )
+Seat 6: philtrout ( $23,785 )
+Seat 7: x47594721 ( $56,104 )
+Seat 9: PapaShango19 ( $10,655 )
+PapaShango19 posts ante [$120]
+bob4turbo posts ante [$120]
+Davej88 posts ante [$120]
+x47594721 posts ante [$120]
+webmeddoc posts ante [$120]
+philtrout posts ante [$120]
+noMercyDave posts ante [$120]
+stisub posts ante [$120]
+stisub posts small blind [$600]
+noMercyDave posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 9d ]
+bob4turbo calls [$1,200]
+Davej88 raises [$6,360]
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+stisub folds
+noMercyDave folds
+bob4turbo calls [$5,160]
+** Dealing flop ** [ 7h, As, 3h ]
+bob4turbo bets [$1,200]
+Davej88 raises [$4,380]
+bob4turbo calls [$3,180]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ Td ]
+** Summary **
+bob4turbo shows [ 3s, 3d ]
+Davej88 shows [ Qc, Qh ]
+bob4turbo collected [ $24,240 ]
+
+
+
+#Game No : 641991543
+***** 888poker Hand History for Game 641991543 *****
+$600/$1,200 Blinds No Limit Holdem - *** 20 11 2014 06:54:09
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: stisub ( $6,200 )
+Seat 2: noMercyDave ( $9,940 )
+Seat 3: bob4turbo ( $32,170 )
+Seat 5: webmeddoc ( $39,928 )
+Seat 6: philtrout ( $23,665 )
+Seat 7: x47594721 ( $55,984 )
+Seat 9: PapaShango19 ( $10,535 )
+Seat 10: rosairedroui ( $36,110 )
+PapaShango19 posts ante [$120]
+bob4turbo posts ante [$120]
+x47594721 posts ante [$120]
+webmeddoc posts ante [$120]
+philtrout posts ante [$120]
+noMercyDave posts ante [$120]
+stisub posts ante [$120]
+rosairedroui posts ante [$120]
+noMercyDave posts small blind [$600]
+bob4turbo posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ah ]
+webmeddoc folds
+philtrout raises [$2,400]
+x47594721 folds
+PapaShango19 folds
+rosairedroui calls [$2,400]
+stisub folds
+noMercyDave folds
+bob4turbo folds
+** Dealing flop ** [ 8c, 4d, 7h ]
+philtrout bets [$3,600]
+rosairedroui raises [$33,590]
+philtrout calls [$17,545]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ Qh ]
+** Summary **
+philtrout shows [ Ad, 6h ]
+rosairedroui shows [ Kh, Jh ]
+philtrout collected [ $49,850 ]
+
+
+
+#Game No : 641991947
+***** 888poker Hand History for Game 641991947 *****
+$600/$1,200 Blinds No Limit Holdem - *** 20 11 2014 06:59:58
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: stisub ( $6,080 )
+Seat 2: noMercyDave ( $9,220 )
+Seat 3: bob4turbo ( $30,850 )
+Seat 5: webmeddoc ( $39,808 )
+Seat 6: philtrout ( $49,850 )
+Seat 7: x47594721 ( $55,864 )
+Seat 9: PapaShango19 ( $10,415 )
+Seat 10: rosairedroui ( $12,445 )
+PapaShango19 posts ante [$120]
+bob4turbo posts ante [$120]
+x47594721 posts ante [$120]
+webmeddoc posts ante [$120]
+philtrout posts ante [$120]
+noMercyDave posts ante [$120]
+stisub posts ante [$120]
+rosairedroui posts ante [$120]
+bob4turbo posts small blind [$600]
+webmeddoc posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 4h ]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui folds
+stisub folds
+noMercyDave calls [$1,200]
+bob4turbo raises [$1,800]
+webmeddoc raises [$8,160]
+noMercyDave folds
+bob4turbo folds
+** Summary **
+webmeddoc did not show his hand
+webmeddoc collected [ $6,960 ]
+
+
+
+#Game No : 641991998
+***** 888poker Hand History for Game 641991998 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:00:36
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: stisub ( $5,960 )
+Seat 2: noMercyDave ( $7,900 )
+Seat 3: bob4turbo ( $28,330 )
+Seat 5: webmeddoc ( $44,248 )
+Seat 6: philtrout ( $49,730 )
+Seat 7: x47594721 ( $55,744 )
+Seat 9: PapaShango19 ( $10,295 )
+Seat 10: rosairedroui ( $12,325 )
+PapaShango19 posts ante [$160]
+bob4turbo posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+stisub posts ante [$160]
+rosairedroui posts ante [$160]
+webmeddoc posts small blind [$800]
+philtrout posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 7h ]
+x47594721 folds
+PapaShango19 folds
+rosairedroui calls [$1,600]
+stisub folds
+noMercyDave folds
+bob4turbo raises [$4,240]
+webmeddoc folds
+philtrout folds
+rosairedroui calls [$2,640]
+** Dealing flop ** [ 5d, Js, 8c ]
+rosairedroui bets [$7,925]
+bob4turbo calls [$7,925]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ Kh ]
+** Summary **
+bob4turbo shows [ As, Jc ]
+rosairedroui shows [ 9d, Kc ]
+rosairedroui collected [ $28,010 ]
+
+
+
+#Game No : 641992066
+***** 888poker Hand History for Game 641992066 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:01:36
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: stisub ( $5,800 )
+Seat 2: noMercyDave ( $7,740 )
+Seat 3: bob4turbo ( $16,005 )
+Seat 5: webmeddoc ( $43,288 )
+Seat 6: philtrout ( $47,970 )
+Seat 7: x47594721 ( $55,584 )
+Seat 9: PapaShango19 ( $10,135 )
+Seat 10: rosairedroui ( $28,010 )
+PapaShango19 posts ante [$160]
+bob4turbo posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+stisub posts ante [$160]
+rosairedroui posts ante [$160]
+philtrout posts small blind [$800]
+x47594721 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 5s ]
+PapaShango19 folds
+rosairedroui calls [$1,600]
+stisub folds
+noMercyDave folds
+bob4turbo raises [$15,845]
+webmeddoc folds
+philtrout calls [$15,045]
+x47594721 folds
+rosairedroui folds
+** Dealing flop ** [ 3s, 6d, Jh ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 8c ]
+** Summary **
+bob4turbo shows [ 5h, Ac ]
+philtrout shows [ Js, Ts ]
+philtrout collected [ $36,170 ]
+
+
+
+#Game No : 641992133
+***** 888poker Hand History for Game 641992133 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:02:16
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: stisub ( $5,640 )
+Seat 2: noMercyDave ( $7,580 )
+Seat 3: numbik ( $29,076 )
+Seat 5: webmeddoc ( $43,128 )
+Seat 6: philtrout ( $68,135 )
+Seat 7: x47594721 ( $53,824 )
+Seat 9: PapaShango19 ( $9,975 )
+Seat 10: rosairedroui ( $26,250 )
+PapaShango19 posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+stisub posts ante [$160]
+rosairedroui posts ante [$160]
+numbik posts ante [$160]
+x47594721 posts small blind [$800]
+PapaShango19 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6h ]
+rosairedroui folds
+stisub folds
+noMercyDave folds
+numbik folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $3,680 ]
+
+
+
+#Game No : 641992169
+***** 888poker Hand History for Game 641992169 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:02:37
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: stisub ( $5,480 )
+Seat 2: noMercyDave ( $7,420 )
+Seat 3: numbik ( $28,916 )
+Seat 5: webmeddoc ( $42,968 )
+Seat 6: philtrout ( $67,975 )
+Seat 7: x47594721 ( $52,864 )
+Seat 9: PapaShango19 ( $11,895 )
+Seat 10: rosairedroui ( $26,090 )
+PapaShango19 posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+stisub posts ante [$160]
+rosairedroui posts ante [$160]
+numbik posts ante [$160]
+PapaShango19 posts small blind [$800]
+rosairedroui posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 3c ]
+stisub folds
+noMercyDave folds
+numbik folds
+webmeddoc raises [$6,880]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui folds
+** Summary **
+webmeddoc did not show his hand
+webmeddoc collected [ $5,280 ]
+
+
+
+#Game No : 641992217
+***** 888poker Hand History for Game 641992217 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:03:04
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: stisub ( $5,320 )
+Seat 2: noMercyDave ( $7,260 )
+Seat 3: numbik ( $28,756 )
+Seat 5: webmeddoc ( $46,488 )
+Seat 6: philtrout ( $67,815 )
+Seat 7: x47594721 ( $52,704 )
+Seat 9: PapaShango19 ( $10,935 )
+Seat 10: rosairedroui ( $24,330 )
+PapaShango19 posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+stisub posts ante [$160]
+rosairedroui posts ante [$160]
+numbik posts ante [$160]
+rosairedroui posts small blind [$800]
+stisub posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ts ]
+noMercyDave folds
+numbik folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui raises [$23,370]
+stisub folds
+** Summary **
+rosairedroui did not show his hand
+rosairedroui collected [ $4,480 ]
+
+
+
+#Game No : 641992265
+***** 888poker Hand History for Game 641992265 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:03:30
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: stisub ( $3,560 )
+Seat 2: noMercyDave ( $7,100 )
+Seat 3: numbik ( $28,596 )
+Seat 5: webmeddoc ( $46,328 )
+Seat 6: philtrout ( $67,655 )
+Seat 7: x47594721 ( $52,544 )
+Seat 9: PapaShango19 ( $10,775 )
+Seat 10: rosairedroui ( $27,050 )
+PapaShango19 posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+stisub posts ante [$160]
+rosairedroui posts ante [$160]
+numbik posts ante [$160]
+stisub posts small blind [$800]
+noMercyDave posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2d ]
+numbik folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui folds
+stisub raises [$2,600]
+noMercyDave calls [$1,800]
+** Dealing flop ** [ 6h, 8c, 9s ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 6d ]
+** Summary **
+stisub shows [ Js, 9h ]
+noMercyDave shows [ 8d, 8s ]
+noMercyDave collected [ $8,080 ]
+
+
+
+#Game No : 641992310
+***** 888poker Hand History for Game 641992310 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:04:05
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: noMercyDave ( $11,620 )
+Seat 3: numbik ( $28,436 )
+Seat 5: webmeddoc ( $46,168 )
+Seat 6: philtrout ( $67,495 )
+Seat 7: x47594721 ( $52,384 )
+Seat 9: PapaShango19 ( $10,615 )
+Seat 10: rosairedroui ( $26,890 )
+PapaShango19 posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+rosairedroui posts ante [$160]
+numbik posts ante [$160]
+noMercyDave posts small blind [$800]
+numbik posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Ah ]
+webmeddoc folds
+philtrout calls [$1,600]
+x47594721 folds
+PapaShango19 raises [$10,455]
+rosairedroui folds
+noMercyDave folds
+numbik calls [$8,855]
+philtrout folds
+** Dealing flop ** [ Jh, Qc, 8h ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 2d ]
+** Summary **
+numbik shows [ Th, Kd ]
+PapaShango19 shows [ Qh, Ah ]
+PapaShango19 collected [ $24,430 ]
+
+
+
+#Game No : 641992367
+***** 888poker Hand History for Game 641992367 *****
+$800/$1,600 Blinds No Limit Holdem - *** 20 11 2014 07:04:42
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: regua65 ( $52,876 )
+Seat 2: noMercyDave ( $10,660 )
+Seat 3: numbik ( $17,821 )
+Seat 4: Vanchope_78 ( $10,964 )
+Seat 5: webmeddoc ( $46,008 )
+Seat 6: philtrout ( $65,735 )
+Seat 7: x47594721 ( $52,224 )
+Seat 9: PapaShango19 ( $24,430 )
+Seat 10: rosairedroui ( $26,730 )
+PapaShango19 posts ante [$160]
+x47594721 posts ante [$160]
+webmeddoc posts ante [$160]
+philtrout posts ante [$160]
+noMercyDave posts ante [$160]
+rosairedroui posts ante [$160]
+numbik posts ante [$160]
+regua65 posts ante [$160]
+Vanchope_78 posts ante [$160]
+numbik posts small blind [$800]
+Vanchope_78 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Td ]
+webmeddoc folds
+philtrout folds
+x47594721 raises [$3,200]
+PapaShango19 folds
+rosairedroui folds
+regua65 folds
+noMercyDave folds
+numbik raises [$5,600]
+Vanchope_78 folds
+x47594721 calls [$3,200]
+** Dealing flop ** [ Qh, Qc, Ah ]
+numbik bets [$11,261]
+x47594721 folds
+** Summary **
+numbik did not show his hand
+numbik collected [ $15,840 ]
+
+
+
+#Game No : 641992444
+***** 888poker Hand History for Game 641992444 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 20 11 2014 07:05:53
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: regua65 ( $52,716 )
+Seat 2: noMercyDave ( $10,500 )
+Seat 3: numbik ( $27,101 )
+Seat 4: Vanchope_78 ( $9,204 )
+Seat 5: webmeddoc ( $45,848 )
+Seat 6: philtrout ( $65,575 )
+Seat 7: x47594721 ( $45,664 )
+Seat 9: PapaShango19 ( $24,270 )
+Seat 10: rosairedroui ( $26,570 )
+PapaShango19 posts ante [$200]
+x47594721 posts ante [$200]
+webmeddoc posts ante [$200]
+philtrout posts ante [$200]
+noMercyDave posts ante [$200]
+rosairedroui posts ante [$200]
+numbik posts ante [$200]
+regua65 posts ante [$200]
+Vanchope_78 posts ante [$200]
+Vanchope_78 posts small blind [$1,000]
+webmeddoc posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3c ]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui folds
+regua65 folds
+noMercyDave raises [$10,300]
+numbik folds
+Vanchope_78 folds
+webmeddoc folds
+** Summary **
+noMercyDave did not show his hand
+noMercyDave collected [ $6,800 ]
+
+
+
+#Game No : 641992552
+***** 888poker Hand History for Game 641992552 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 20 11 2014 07:07:06
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: regua65 ( $52,516 )
+Seat 2: noMercyDave ( $15,100 )
+Seat 3: numbik ( $26,901 )
+Seat 4: Vanchope_78 ( $8,004 )
+Seat 5: webmeddoc ( $43,648 )
+Seat 6: philtrout ( $65,375 )
+Seat 7: x47594721 ( $45,464 )
+Seat 9: PapaShango19 ( $24,070 )
+Seat 10: rosairedroui ( $26,370 )
+PapaShango19 posts ante [$200]
+x47594721 posts ante [$200]
+webmeddoc posts ante [$200]
+philtrout posts ante [$200]
+noMercyDave posts ante [$200]
+rosairedroui posts ante [$200]
+numbik posts ante [$200]
+regua65 posts ante [$200]
+Vanchope_78 posts ante [$200]
+webmeddoc posts small blind [$1,000]
+philtrout posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5d ]
+x47594721 folds
+PapaShango19 folds
+rosairedroui folds
+regua65 folds
+noMercyDave calls [$2,000]
+numbik folds
+Vanchope_78 folds
+webmeddoc raises [$8,800]
+philtrout folds
+noMercyDave folds
+** Summary **
+webmeddoc did not show his hand
+webmeddoc collected [ $7,800 ]
+
+
+
+#Game No : 641992591
+***** 888poker Hand History for Game 641992591 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 20 11 2014 07:07:45
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: regua65 ( $52,316 )
+Seat 2: noMercyDave ( $12,900 )
+Seat 3: numbik ( $26,701 )
+Seat 4: Vanchope_78 ( $7,804 )
+Seat 5: webmeddoc ( $49,248 )
+Seat 6: philtrout ( $63,175 )
+Seat 7: x47594721 ( $45,264 )
+Seat 9: PapaShango19 ( $23,870 )
+Seat 10: rosairedroui ( $26,170 )
+PapaShango19 posts ante [$200]
+x47594721 posts ante [$200]
+webmeddoc posts ante [$200]
+philtrout posts ante [$200]
+noMercyDave posts ante [$200]
+rosairedroui posts ante [$200]
+numbik posts ante [$200]
+regua65 posts ante [$200]
+Vanchope_78 posts ante [$200]
+philtrout posts small blind [$1,000]
+x47594721 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Kh ]
+PapaShango19 folds
+rosairedroui folds
+regua65 folds
+noMercyDave calls [$2,000]
+numbik folds
+Vanchope_78 raises [$7,604]
+webmeddoc folds
+philtrout folds
+x47594721 folds
+noMercyDave calls [$5,604]
+** Dealing flop ** [ 5s, Kd, 9c ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ Qs ]
+** Summary **
+noMercyDave shows [ As, 8s ]
+Vanchope_78 shows [ Ah, 7h ]
+noMercyDave collected [ $20,008 ]
+
+
+
+#Game No : 641992672
+***** 888poker Hand History for Game 641992672 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 20 11 2014 07:08:47
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: regua65 ( $52,116 )
+Seat 2: noMercyDave ( $25,104 )
+Seat 3: numbik ( $26,501 )
+Seat 5: webmeddoc ( $49,048 )
+Seat 6: philtrout ( $61,975 )
+Seat 7: x47594721 ( $43,064 )
+Seat 9: PapaShango19 ( $23,670 )
+Seat 10: rosairedroui ( $25,970 )
+PapaShango19 posts ante [$200]
+x47594721 posts ante [$200]
+webmeddoc posts ante [$200]
+philtrout posts ante [$200]
+noMercyDave posts ante [$200]
+rosairedroui posts ante [$200]
+numbik posts ante [$200]
+regua65 posts ante [$200]
+x47594721 posts small blind [$1,000]
+PapaShango19 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2s ]
+rosairedroui folds
+regua65 calls [$2,000]
+noMercyDave folds
+numbik folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 checks
+** Dealing flop ** [ Kd, 7c, 6d ]
+PapaShango19 checks
+regua65 bets [$2,000]
+PapaShango19 folds
+** Summary **
+regua65 did not show his hand
+regua65 collected [ $6,600 ]
+
+
+
+#Game No : 641992728
+***** 888poker Hand History for Game 641992728 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 20 11 2014 07:09:27
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: regua65 ( $56,516 )
+Seat 2: noMercyDave ( $24,904 )
+Seat 3: numbik ( $26,301 )
+Seat 5: webmeddoc ( $48,848 )
+Seat 6: philtrout ( $61,775 )
+Seat 7: x47594721 ( $41,864 )
+Seat 9: PapaShango19 ( $21,470 )
+Seat 10: rosairedroui ( $25,770 )
+PapaShango19 posts ante [$200]
+x47594721 posts ante [$200]
+webmeddoc posts ante [$200]
+philtrout posts ante [$200]
+noMercyDave posts ante [$200]
+rosairedroui posts ante [$200]
+numbik posts ante [$200]
+regua65 posts ante [$200]
+PapaShango19 posts small blind [$1,000]
+rosairedroui posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 9s ]
+regua65 calls [$2,000]
+noMercyDave folds
+numbik folds
+webmeddoc folds
+philtrout calls [$2,000]
+x47594721 folds
+PapaShango19 raises [$20,270]
+rosairedroui calls [$19,270]
+regua65 folds
+philtrout folds
+** Dealing flop ** [ Ah, Ad, 3h ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 3c ]
+** Summary **
+PapaShango19 shows [ 9d, 9s ]
+rosairedroui shows [ 6h, 6c ]
+PapaShango19 collected [ $48,140 ]
+
+
+
+#Game No : 641992780
+***** 888poker Hand History for Game 641992780 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 20 11 2014 07:10:11
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: regua65 ( $54,316 )
+Seat 2: noMercyDave ( $24,704 )
+Seat 3: numbik ( $26,101 )
+Seat 5: webmeddoc ( $48,648 )
+Seat 6: philtrout ( $59,575 )
+Seat 7: x47594721 ( $41,664 )
+Seat 9: PapaShango19 ( $48,140 )
+Seat 10: rosairedroui ( $4,300 )
+PapaShango19 posts ante [$200]
+x47594721 posts ante [$200]
+webmeddoc posts ante [$200]
+philtrout posts ante [$200]
+noMercyDave posts ante [$200]
+rosairedroui posts ante [$200]
+numbik posts ante [$200]
+regua65 posts ante [$200]
+rosairedroui posts small blind [$1,000]
+regua65 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Ks ]
+noMercyDave folds
+numbik folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 raises [$4,000]
+rosairedroui raises [$3,100]
+regua65 calls [$2,100]
+PapaShango19 calls [$100]
+** Dealing flop ** [ 4s, 6s, 8c ]
+regua65 bets [$2,000]
+PapaShango19 calls [$2,000]
+** Dealing turn ** [ 3h ]
+regua65 checks
+PapaShango19 checks
+** Dealing river ** [ Ac ]
+regua65 checks
+PapaShango19 bets [$4,000]
+regua65 folds
+** Summary **
+PapaShango19 shows [ 7s, Ks ]
+rosairedroui shows [ 7d, As ]
+rosairedroui collected [ $13,900 ]
+PapaShango19 collected [ $4,000 ]
+
+
+
+#Game No : 641992865
+***** 888poker Hand History for Game 641992865 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 20 11 2014 07:11:19
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: regua65 ( $48,016 )
+Seat 2: noMercyDave ( $24,504 )
+Seat 3: numbik ( $25,901 )
+Seat 5: webmeddoc ( $48,448 )
+Seat 6: philtrout ( $59,375 )
+Seat 7: x47594721 ( $41,464 )
+Seat 9: PapaShango19 ( $45,840 )
+Seat 10: rosairedroui ( $13,900 )
+PapaShango19 posts ante [$250]
+x47594721 posts ante [$250]
+webmeddoc posts ante [$250]
+philtrout posts ante [$250]
+noMercyDave posts ante [$250]
+rosairedroui posts ante [$250]
+numbik posts ante [$250]
+regua65 posts ante [$250]
+regua65 posts small blind [$1,250]
+noMercyDave posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Kc ]
+numbik folds
+webmeddoc folds
+philtrout folds
+x47594721 raises [$7,500]
+PapaShango19 folds
+rosairedroui raises [$13,650]
+regua65 raises [$38,775]
+noMercyDave folds
+x47594721 raises [$33,714]
+regua65 calls [$1,189]
+** Dealing flop ** [ 8s, 4h, 4d ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 7h ]
+** Summary **
+regua65 shows [ Ac, Ks ]
+x47594721 shows [ Th, Tc ]
+rosairedroui shows [ Js, Jh ]
+rosairedroui collected [ $45,450 ]
+x47594721 collected [ $55,128 ]
+
+
+
+#Game No : 641992982
+***** 888poker Hand History for Game 641992982 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 20 11 2014 07:12:50
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: regua65 ( $6,552 )
+Seat 2: noMercyDave ( $21,754 )
+Seat 3: numbik ( $25,651 )
+Seat 5: webmeddoc ( $48,198 )
+Seat 6: philtrout ( $59,125 )
+Seat 7: x47594721 ( $55,128 )
+Seat 9: PapaShango19 ( $45,590 )
+Seat 10: rosairedroui ( $45,450 )
+PapaShango19 posts ante [$250]
+x47594721 posts ante [$250]
+webmeddoc posts ante [$250]
+philtrout posts ante [$250]
+noMercyDave posts ante [$250]
+rosairedroui posts ante [$250]
+numbik posts ante [$250]
+regua65 posts ante [$250]
+noMercyDave posts small blind [$1,250]
+numbik posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 4s ]
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui calls [$2,500]
+regua65 raises [$6,302]
+noMercyDave folds
+numbik raises [$7,604]
+rosairedroui folds
+** Dealing flop ** [ 9s, 3c, 4h ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 6d ]
+** Summary **
+regua65 shows [ As, 3s ]
+numbik shows [ Kc, Jh ]
+regua65 collected [ $18,354 ]
+
+
+
+#Game No : 641993060
+***** 888poker Hand History for Game 641993060 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 20 11 2014 07:13:37
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: regua65 ( $18,354 )
+Seat 2: noMercyDave ( $20,254 )
+Seat 3: numbik ( $19,099 )
+Seat 4: luckytaotao ( $18,964 )
+Seat 5: webmeddoc ( $47,948 )
+Seat 6: philtrout ( $58,875 )
+Seat 7: x47594721 ( $54,878 )
+Seat 9: PapaShango19 ( $45,340 )
+Seat 10: rosairedroui ( $42,700 )
+PapaShango19 posts ante [$250]
+x47594721 posts ante [$250]
+webmeddoc posts ante [$250]
+philtrout posts ante [$250]
+noMercyDave posts ante [$250]
+rosairedroui posts ante [$250]
+numbik posts ante [$250]
+regua65 posts ante [$250]
+luckytaotao posts ante [$250]
+numbik posts small blind [$1,250]
+luckytaotao posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 5h ]
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui folds
+regua65 folds
+noMercyDave calls [$2,500]
+numbik raises [$17,599]
+luckytaotao folds
+noMercyDave folds
+** Summary **
+numbik did not show his hand
+numbik collected [ $9,750 ]
+
+
+
+#Game No : 641993117
+***** 888poker Hand History for Game 641993117 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 20 11 2014 07:14:19
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: regua65 ( $18,104 )
+Seat 2: noMercyDave ( $17,504 )
+Seat 3: numbik ( $26,099 )
+Seat 4: luckytaotao ( $16,214 )
+Seat 5: webmeddoc ( $47,698 )
+Seat 6: philtrout ( $58,625 )
+Seat 7: x47594721 ( $54,628 )
+Seat 9: PapaShango19 ( $45,090 )
+Seat 10: rosairedroui ( $42,450 )
+PapaShango19 posts ante [$250]
+x47594721 posts ante [$250]
+webmeddoc posts ante [$250]
+philtrout posts ante [$250]
+noMercyDave posts ante [$250]
+rosairedroui posts ante [$250]
+numbik posts ante [$250]
+regua65 posts ante [$250]
+luckytaotao posts ante [$250]
+luckytaotao posts small blind [$1,250]
+webmeddoc posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Kd ]
+philtrout folds
+x47594721 folds
+PapaShango19 folds
+rosairedroui calls [$2,500]
+regua65 folds
+noMercyDave folds
+numbik folds
+luckytaotao raises [$14,714]
+webmeddoc folds
+rosairedroui folds
+** Summary **
+luckytaotao did not show his hand
+luckytaotao collected [ $9,750 ]
+
+
+
+#Game No : 641993214
+***** 888poker Hand History for Game 641993214 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 20 11 2014 07:15:29
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: regua65 ( $17,854 )
+Seat 2: noMercyDave ( $17,254 )
+Seat 3: numbik ( $25,849 )
+Seat 4: luckytaotao ( $23,214 )
+Seat 5: webmeddoc ( $44,948 )
+Seat 6: philtrout ( $58,375 )
+Seat 7: x47594721 ( $54,378 )
+Seat 9: PapaShango19 ( $44,840 )
+Seat 10: rosairedroui ( $39,700 )
+PapaShango19 posts ante [$300]
+x47594721 posts ante [$300]
+webmeddoc posts ante [$300]
+philtrout posts ante [$300]
+noMercyDave posts ante [$300]
+rosairedroui posts ante [$300]
+numbik posts ante [$300]
+regua65 posts ante [$300]
+luckytaotao posts ante [$300]
+webmeddoc posts small blind [$1,500]
+philtrout posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Jd ]
+x47594721 folds
+PapaShango19 folds
+rosairedroui folds
+regua65 folds
+noMercyDave folds
+numbik folds
+luckytaotao folds
+webmeddoc folds
+** Summary **
+philtrout did not show his hand
+philtrout collected [ $7,200 ]
+
+
+
+#Game No : 641993251
+***** 888poker Hand History for Game 641993251 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 20 11 2014 07:16:05
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: regua65 ( $17,554 )
+Seat 2: noMercyDave ( $16,954 )
+Seat 3: numbik ( $25,549 )
+Seat 4: luckytaotao ( $22,914 )
+Seat 5: webmeddoc ( $43,148 )
+Seat 6: philtrout ( $62,275 )
+Seat 7: x47594721 ( $54,078 )
+Seat 9: PapaShango19 ( $44,540 )
+Seat 10: rosairedroui ( $39,400 )
+PapaShango19 posts ante [$300]
+x47594721 posts ante [$300]
+webmeddoc posts ante [$300]
+philtrout posts ante [$300]
+noMercyDave posts ante [$300]
+rosairedroui posts ante [$300]
+numbik posts ante [$300]
+regua65 posts ante [$300]
+luckytaotao posts ante [$300]
+philtrout posts small blind [$1,500]
+x47594721 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 7d ]
+PapaShango19 folds
+rosairedroui folds
+regua65 folds
+noMercyDave folds
+numbik folds
+luckytaotao folds
+webmeddoc folds
+philtrout folds
+** Summary **
+x47594721 did not show his hand
+x47594721 collected [ $7,200 ]
+
+
+
+#Game No : 641993330
+***** 888poker Hand History for Game 641993330 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 20 11 2014 07:16:43
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: regua65 ( $17,254 )
+Seat 2: noMercyDave ( $16,654 )
+Seat 3: numbik ( $25,249 )
+Seat 4: luckytaotao ( $22,614 )
+Seat 5: webmeddoc ( $42,848 )
+Seat 6: philtrout ( $60,475 )
+Seat 7: x47594721 ( $57,978 )
+Seat 9: PapaShango19 ( $44,240 )
+Seat 10: rosairedroui ( $39,100 )
+PapaShango19 posts ante [$300]
+x47594721 posts ante [$300]
+webmeddoc posts ante [$300]
+philtrout posts ante [$300]
+noMercyDave posts ante [$300]
+rosairedroui posts ante [$300]
+numbik posts ante [$300]
+regua65 posts ante [$300]
+luckytaotao posts ante [$300]
+x47594721 posts small blind [$1,500]
+PapaShango19 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Jc ]
+rosairedroui folds
+regua65 folds
+noMercyDave folds
+numbik raises [$9,000]
+luckytaotao folds
+webmeddoc folds
+philtrout folds
+x47594721 folds
+PapaShango19 calls [$6,000]
+** Dealing flop ** [ 4c, Ks, 7d ]
+PapaShango19 bets [$22,200]
+numbik calls [$15,949]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 8d ]
+** Summary **
+numbik shows [ Ad, Qd ]
+PapaShango19 shows [ Jh, Jc ]
+numbik collected [ $54,098 ]
+
+
+
+#Game No : 641993404
+***** 888poker Hand History for Game 641993404 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 20 11 2014 07:17:54
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: regua65 ( $16,954 )
+Seat 2: noMercyDave ( $16,354 )
+Seat 3: numbik ( $54,098 )
+Seat 4: luckytaotao ( $22,314 )
+Seat 6: philtrout ( $60,175 )
+Seat 7: x47594721 ( $56,178 )
+Seat 9: PapaShango19 ( $18,991 )
+Seat 10: rosairedroui ( $38,800 )
+PapaShango19 posts ante [$300]
+x47594721 posts ante [$300]
+philtrout posts ante [$300]
+noMercyDave posts ante [$300]
+rosairedroui posts ante [$300]
+numbik posts ante [$300]
+regua65 posts ante [$300]
+luckytaotao posts ante [$300]
+PapaShango19 posts small blind [$1,500]
+rosairedroui posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Qd ]
+regua65 folds
+noMercyDave folds
+numbik calls [$3,000]
+luckytaotao folds
+philtrout folds
+x47594721 folds
+PapaShango19 raises [$17,191]
+rosairedroui calls [$15,691]
+numbik folds
+** Dealing flop ** [ Jc, 9c, 3d ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 6c ]
+** Summary **
+PapaShango19 shows [ Qh, Qd ]
+rosairedroui shows [ Ac, Jd ]
+rosairedroui collected [ $42,782 ]
+
+
+
+#Game No : 641993481
+***** 888poker Hand History for Game 641993481 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 20 11 2014 07:18:58
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: regua65 ( $16,654 )
+Seat 2: noMercyDave ( $16,054 )
+Seat 3: numbik ( $50,798 )
+Seat 4: luckytaotao ( $22,014 )
+Seat 6: philtrout ( $59,875 )
+Seat 7: x47594721 ( $55,878 )
+Seat 10: rosairedroui ( $62,591 )
+x47594721 posts ante [$300]
+philtrout posts ante [$300]
+noMercyDave posts ante [$300]
+rosairedroui posts ante [$300]
+numbik posts ante [$300]
+regua65 posts ante [$300]
+luckytaotao posts ante [$300]
+rosairedroui posts small blind [$1,500]
+regua65 posts big blind [$3,000]
+** Dealing down cards **
+noMercyDave folds
+numbik folds
+luckytaotao folds
+philtrout folds
+x47594721 folds
+rosairedroui folds
+** Summary **
+regua65 collected [ $6,600 ]
+
+
+
+#Game No : 641993493
+***** 888poker Hand History for Game 641993493 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 20 11 2014 07:19:15
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: regua65 ( $19,954 )
+Seat 2: noMercyDave ( $15,754 )
+Seat 3: numbik ( $50,498 )
+Seat 4: luckytaotao ( $21,714 )
+Seat 5: RIV3R_SONG ( $11,957 )
+Seat 6: philtrout ( $59,575 )
+Seat 7: x47594721 ( $55,578 )
+Seat 10: rosairedroui ( $60,791 )
+x47594721 posts ante [$300]
+philtrout posts ante [$300]
+noMercyDave posts ante [$300]
+rosairedroui posts ante [$300]
+numbik posts ante [$300]
+regua65 posts ante [$300]
+luckytaotao posts ante [$300]
+RIV3R_SONG posts ante [$300]
+regua65 posts small blind [$1,500]
+noMercyDave posts big blind [$3,000]
+** Dealing down cards **
+numbik folds
+luckytaotao raises [$21,414]
+RIV3R_SONG folds
+philtrout folds
+x47594721 folds
+rosairedroui folds
+regua65 folds
+noMercyDave folds
+** Summary **
+luckytaotao did not show his hand
+luckytaotao collected [ $9,900 ]
+
+
+
+#Game No : 641993571
+***** 888poker Hand History for Game 641993571 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 20 11 2014 07:20:18
+Tournament #63631682 $1.35 + $0.15 - Table #14 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: regua65 ( $18,154 )
+Seat 2: noMercyDave ( $12,454 )
+Seat 3: numbik ( $50,198 )
+Seat 4: luckytaotao ( $28,314 )
+Seat 5: RIV3R_SONG ( $11,657 )
+Seat 6: philtrout ( $59,275 )
+Seat 7: x47594721 ( $55,278 )
+Seat 10: rosairedroui ( $60,491 )
+x47594721 posts ante [$400]
+philtrout posts ante [$400]
+noMercyDave posts ante [$400]
+rosairedroui posts ante [$400]
+numbik posts ante [$400]
+regua65 posts ante [$400]
+luckytaotao posts ante [$400]
+RIV3R_SONG posts ante [$400]
+noMercyDave posts small blind [$2,000]
+numbik posts big blind [$4,000]
+** Dealing down cards **
+luckytaotao folds
+RIV3R_SONG folds
+philtrout folds
+x47594721 folds
+rosairedroui folds
+regua65 folds
+noMercyDave folds
+** Summary **
+numbik did not show his hand
+numbik collected [ $9,200 ]
+
+
+

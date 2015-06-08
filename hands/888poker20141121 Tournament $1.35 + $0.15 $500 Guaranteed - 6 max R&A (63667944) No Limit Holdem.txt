@@ -1,0 +1,3272 @@
+#Game No : 642360372
+***** 888poker Hand History for Game 642360372 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:15:21
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $2,000 )
+Seat 2: PapaShango19 ( $2,000 )
+Seat 4: x47594721 ( $2,000 )
+Seat 6: mbelov13 ( $2,000 )
+Seat 7: andydc11 ( $2,000 )
+Seat 9: dosdos ( $2,000 )
+andydc11 posts small blind [$10]
+dosdos posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 8d ]
+WTCbart calls [$20]
+PapaShango19 folds
+x47594721 folds
+mbelov13 calls [$20]
+andydc11 folds
+dosdos checks
+** Dealing flop ** [ 6d, Kc, 7h ]
+dosdos checks
+WTCbart checks
+mbelov13 bets [$52]
+dosdos folds
+WTCbart folds
+** Summary **
+mbelov13 did not show his hand
+mbelov13 collected [ $70 ]
+
+
+
+#Game No : 642360452
+***** 888poker Hand History for Game 642360452 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:16:08
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $1,980 )
+Seat 2: PapaShango19 ( $2,000 )
+Seat 4: x47594721 ( $2,000 )
+Seat 6: mbelov13 ( $2,050 )
+Seat 7: andydc11 ( $1,990 )
+Seat 9: dosdos ( $1,980 )
+dosdos posts small blind [$10]
+WTCbart posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Ad ]
+PapaShango19 raises [$80]
+x47594721 folds
+mbelov13 folds
+andydc11 folds
+dosdos folds
+WTCbart calls [$60]
+** Dealing flop ** [ Tc, 8h, Qc ]
+WTCbart bets [$170]
+PapaShango19 calls [$170]
+** Dealing turn ** [ 8c ]
+WTCbart bets [$382]
+PapaShango19 folds
+** Summary **
+WTCbart did not show his hand
+WTCbart collected [ $510 ]
+
+
+
+#Game No : 642360518
+***** 888poker Hand History for Game 642360518 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:17:00
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $2,240 )
+Seat 2: PapaShango19 ( $1,750 )
+Seat 4: x47594721 ( $2,000 )
+Seat 6: mbelov13 ( $2,050 )
+Seat 7: andydc11 ( $1,990 )
+Seat 9: dosdos ( $1,970 )
+WTCbart posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 8s ]
+x47594721 folds
+mbelov13 raises [$40]
+andydc11 folds
+dosdos folds
+WTCbart calls [$30]
+PapaShango19 folds
+** Dealing flop ** [ 5s, Qd, 7h ]
+WTCbart checks
+mbelov13 bets [$50]
+WTCbart folds
+** Summary **
+mbelov13 did not show his hand
+mbelov13 collected [ $100 ]
+
+
+
+#Game No : 642360567
+***** 888poker Hand History for Game 642360567 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:17:34
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $2,200 )
+Seat 2: PapaShango19 ( $1,730 )
+Seat 4: x47594721 ( $2,000 )
+Seat 6: mbelov13 ( $2,110 )
+Seat 7: andydc11 ( $1,990 )
+Seat 9: dosdos ( $1,970 )
+PapaShango19 posts small blind [$10]
+x47594721 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7c ]
+mbelov13 folds
+andydc11 folds
+dosdos folds
+WTCbart raises [$70]
+PapaShango19 folds
+x47594721 folds
+** Summary **
+WTCbart did not show his hand
+WTCbart collected [ $50 ]
+
+
+
+#Game No : 642360606
+***** 888poker Hand History for Game 642360606 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:18:01
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $2,230 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: x47594721 ( $1,980 )
+Seat 6: mbelov13 ( $2,110 )
+Seat 7: andydc11 ( $1,990 )
+Seat 9: dosdos ( $1,970 )
+x47594721 posts small blind [$10]
+mbelov13 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Ac ]
+andydc11 folds
+dosdos folds
+WTCbart raises [$40]
+PapaShango19 folds
+x47594721 calls [$30]
+mbelov13 calls [$20]
+** Dealing flop ** [ Jd, Ah, 5c ]
+x47594721 checks
+mbelov13 checks
+WTCbart bets [$120]
+x47594721 folds
+mbelov13 folds
+** Summary **
+WTCbart did not show his hand
+WTCbart collected [ $120 ]
+
+
+
+#Game No : 642360664
+***** 888poker Hand History for Game 642360664 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:18:48
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $2,310 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: x47594721 ( $1,940 )
+Seat 6: mbelov13 ( $2,070 )
+Seat 7: andydc11 ( $1,990 )
+Seat 9: dosdos ( $1,970 )
+mbelov13 posts small blind [$10]
+andydc11 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Kc ]
+dosdos folds
+WTCbart folds
+PapaShango19 folds
+x47594721 raises [$70]
+mbelov13 folds
+andydc11 folds
+** Summary **
+x47594721 did not show his hand
+x47594721 collected [ $50 ]
+
+
+
+#Game No : 642360687
+***** 888poker Hand History for Game 642360687 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:19:09
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $2,310 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: x47594721 ( $1,970 )
+Seat 6: mbelov13 ( $2,060 )
+Seat 7: andydc11 ( $1,970 )
+Seat 9: dosdos ( $1,970 )
+andydc11 posts small blind [$10]
+dosdos posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Kd ]
+WTCbart raises [$70]
+PapaShango19 raises [$200]
+x47594721 calls [$200]
+mbelov13 folds
+andydc11 folds
+dosdos folds
+WTCbart calls [$130]
+** Dealing flop ** [ Ts, 7d, 9d ]
+WTCbart checks
+PapaShango19 bets [$630]
+x47594721 folds
+WTCbart folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $630 ]
+
+
+
+#Game No : 642360749
+***** 888poker Hand History for Game 642360749 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:19:48
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: WTCbart ( $2,110 )
+Seat 2: PapaShango19 ( $2,150 )
+Seat 4: x47594721 ( $1,770 )
+Seat 7: andydc11 ( $1,960 )
+Seat 9: dosdos ( $1,950 )
+dosdos posts small blind [$10]
+WTCbart posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2s ]
+PapaShango19 folds
+x47594721 raises [$40]
+andydc11 folds
+dosdos folds
+WTCbart calls [$20]
+** Dealing flop ** [ 2d, 9c, Ac ]
+WTCbart checks
+x47594721 checks
+** Dealing turn ** [ 2c ]
+WTCbart checks
+x47594721 bets [$45]
+WTCbart folds
+** Summary **
+x47594721 did not show his hand
+x47594721 collected [ $90 ]
+
+
+
+#Game No : 642360799
+***** 888poker Hand History for Game 642360799 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:20:42
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: WTCbart ( $2,070 )
+Seat 2: PapaShango19 ( $2,150 )
+Seat 4: x47594721 ( $1,820 )
+Seat 7: andydc11 ( $1,960 )
+Seat 9: dosdos ( $1,940 )
+WTCbart posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ah ]
+x47594721 raises [$60]
+andydc11 folds
+dosdos calls [$60]
+WTCbart raises [$250]
+PapaShango19 folds
+x47594721 raises [$1,760]
+dosdos folds
+WTCbart folds
+** Summary **
+x47594721 did not show his hand
+x47594721 collected [ $600 ]
+
+
+
+#Game No : 642360846
+***** 888poker Hand History for Game 642360846 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:21:28
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: WTCbart ( $1,810 )
+Seat 2: PapaShango19 ( $2,130 )
+Seat 4: x47594721 ( $2,160 )
+Seat 7: andydc11 ( $1,960 )
+Seat 9: dosdos ( $1,880 )
+PapaShango19 posts small blind [$10]
+x47594721 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Ks ]
+andydc11 folds
+dosdos calls [$20]
+WTCbart folds
+PapaShango19 raises [$70]
+x47594721 folds
+dosdos calls [$60]
+** Dealing flop ** [ 5h, 3d, 4d ]
+PapaShango19 bets [$90]
+dosdos folds
+** Summary **
+PapaShango19 collected [ $180 ]
+
+
+
+#Game No : 642360886
+***** 888poker Hand History for Game 642360886 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:22:06
+Tournament #63667944 $1.35 + $0.15 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: WTCbart ( $1,810 )
+Seat 2: PapaShango19 ( $2,230 )
+Seat 4: x47594721 ( $2,140 )
+Seat 6: HARJJ5 ( $2,000 )
+Seat 7: andydc11 ( $1,960 )
+Seat 9: dosdos ( $1,800 )
+x47594721 posts small blind [$10]
+HARJJ5 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Tc ]
+andydc11 folds
+dosdos folds
+WTCbart raises [$70]
+PapaShango19 calls [$70]
+x47594721 calls [$60]
+HARJJ5 folds
+** Dealing flop ** [ 9c, 7h, Jc ]
+x47594721 checks
+WTCbart bets [$230]
+PapaShango19 calls [$230]
+x47594721 folds
+** Dealing turn ** [ Jh ]
+WTCbart bets [$690]
+PapaShango19 folds
+** Summary **
+WTCbart did not show his hand
+WTCbart collected [ $690 ]
+
+
+
+#Game No : 642360962
+***** 888poker Hand History for Game 642360962 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 09:23:14
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1:  ( $4,000 )
+Seat 2:  ( $4,000 )
+Seat 4:  ( $1,960 )
+Seat 6:  ( $4,000 )
+Seat 7:  ( $1,930 )
+ posts small blind [$10]
+ posts big blind [$20]
+** Dealing down cards **
+Dealt to  [ 2c, 4s ]
+ folds
+ folds
+ raises [$60]
+ folds
+ raises [$127]
+ folds
+** Summary **
+ collected [ $130 ]
+
+
+
+#Game No : 642361012
+***** 888poker Hand History for Game 642361012 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:23:50
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,940 )
+Seat 2: abc73abc ( $3,990 )
+Seat 4: Moa_Hunter ( $2,030 )
+Seat 6: Paleto01 ( $4,000 )
+Seat 7: PapaShango19 ( $1,930 )
+Seat 9: hubinbin111 ( $2,000 )
+Moa_Hunter posts small blind [$15]
+Paleto01 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 5h ]
+PapaShango19 folds
+hubinbin111 folds
+A.Kirillov raises [$90]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 calls [$60]
+** Dealing flop ** [ 2c, Ah, 4c ]
+Paleto01 checks
+A.Kirillov bets [$120]
+Paleto01 calls [$120]
+** Dealing turn ** [ 3d ]
+Paleto01 checks
+A.Kirillov bets [$296]
+Paleto01 calls [$296]
+** Dealing river ** [ 2d ]
+Paleto01 checks
+A.Kirillov checks
+** Summary **
+Paleto01 shows [ Jc, Kc ]
+A.Kirillov mucks [ Qs, Jd ]
+Paleto01 collected [ $1,027 ]
+
+
+
+#Game No : 642361075
+***** 888poker Hand History for Game 642361075 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:24:41
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,434 )
+Seat 2: abc73abc ( $3,990 )
+Seat 4: Moa_Hunter ( $2,015 )
+Seat 6: Paleto01 ( $4,521 )
+Seat 7: PapaShango19 ( $1,930 )
+Seat 9: hubinbin111 ( $2,000 )
+Paleto01 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 2s ]
+hubinbin111 raises [$60]
+A.Kirillov folds
+abc73abc calls [$60]
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+** Dealing flop ** [ 8d, Jh, 7s ]
+hubinbin111 bets [$82]
+abc73abc calls [$82]
+** Dealing turn ** [ Ks ]
+hubinbin111 bets [$164]
+abc73abc calls [$164]
+** Dealing river ** [ 5c ]
+hubinbin111 bets [$492]
+abc73abc calls [$492]
+** Summary **
+hubinbin111 shows [ Kc, Jd ]
+abc73abc mucks [ Js, Qc ]
+hubinbin111 collected [ $1,641 ]
+
+
+
+#Game No : 642361167
+***** 888poker Hand History for Game 642361167 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:25:40
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,434 )
+Seat 2: abc73abc ( $3,192 )
+Seat 4: Moa_Hunter ( $2,015 )
+Seat 6: Paleto01 ( $4,506 )
+Seat 7: PapaShango19 ( $1,900 )
+Seat 9: hubinbin111 ( $2,843 )
+PapaShango19 posts small blind [$15]
+hubinbin111 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 3h ]
+A.Kirillov folds
+abc73abc raises [$90]
+Moa_Hunter folds
+Paleto01 calls [$90]
+PapaShango19 calls [$75]
+hubinbin111 folds
+** Dealing flop ** [ Td, 7s, 6d ]
+PapaShango19 checks
+abc73abc bets [$150]
+Paleto01 folds
+PapaShango19 folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $300 ]
+
+
+
+#Game No : 642361222
+***** 888poker Hand History for Game 642361222 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:26:27
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,434 )
+Seat 2: abc73abc ( $3,402 )
+Seat 4: Moa_Hunter ( $2,015 )
+Seat 6: Paleto01 ( $4,416 )
+Seat 7: PapaShango19 ( $1,810 )
+Seat 9: hubinbin111 ( $2,813 )
+hubinbin111 posts small blind [$15]
+A.Kirillov posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8c ]
+abc73abc folds
+Moa_Hunter calls [$30]
+Paleto01 folds
+PapaShango19 folds
+hubinbin111 folds
+A.Kirillov checks
+** Dealing flop ** [ 3d, Js, 7d ]
+A.Kirillov checks
+Moa_Hunter checks
+** Dealing turn ** [ 4c ]
+A.Kirillov checks
+Moa_Hunter bets [$90]
+A.Kirillov calls [$90]
+** Dealing river ** [ Ac ]
+A.Kirillov checks
+Moa_Hunter checks
+** Summary **
+A.Kirillov shows [ 9s, 4d ]
+Moa_Hunter mucks [ Qh, 3h ]
+A.Kirillov collected [ $255 ]
+
+
+
+#Game No : 642361292
+***** 888poker Hand History for Game 642361292 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:27:25
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,569 )
+Seat 2: abc73abc ( $3,402 )
+Seat 4: Moa_Hunter ( $1,895 )
+Seat 6: Paleto01 ( $4,416 )
+Seat 7: PapaShango19 ( $1,810 )
+Seat 9: hubinbin111 ( $2,798 )
+A.Kirillov posts small blind [$15]
+abc73abc posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Js ]
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+hubinbin111 raises [$78]
+A.Kirillov raises [$156]
+abc73abc calls [$141]
+hubinbin111 calls [$93]
+** Dealing flop ** [ 3c, As, 9s ]
+A.Kirillov bets [$270]
+abc73abc folds
+hubinbin111 folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $513 ]
+
+
+
+#Game No : 642361364
+***** 888poker Hand History for Game 642361364 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:28:22
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,911 )
+Seat 2: abc73abc ( $3,231 )
+Seat 4: Moa_Hunter ( $1,895 )
+Seat 6: Paleto01 ( $4,416 )
+Seat 7: PapaShango19 ( $1,810 )
+Seat 9: hubinbin111 ( $2,627 )
+abc73abc posts small blind [$15]
+Moa_Hunter posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8s ]
+Paleto01 folds
+PapaShango19 folds
+hubinbin111 folds
+A.Kirillov folds
+abc73abc raises [$75]
+Moa_Hunter folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $60 ]
+
+
+
+#Game No : 642361387
+***** 888poker Hand History for Game 642361387 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:28:41
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,911 )
+Seat 2: abc73abc ( $3,261 )
+Seat 4: Moa_Hunter ( $1,865 )
+Seat 6: Paleto01 ( $4,416 )
+Seat 7: PapaShango19 ( $1,810 )
+Seat 9: hubinbin111 ( $2,627 )
+Moa_Hunter posts small blind [$15]
+Paleto01 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 3d ]
+PapaShango19 folds
+hubinbin111 raises [$78]
+A.Kirillov folds
+abc73abc raises [$209]
+Moa_Hunter calls [$194]
+Paleto01 folds
+hubinbin111 calls [$131]
+** Dealing flop ** [ 3h, 5c, 9s ]
+Moa_Hunter bets [$328]
+hubinbin111 folds
+abc73abc calls [$328]
+** Dealing turn ** [ Qd ]
+Moa_Hunter checks
+abc73abc bets [$1,313]
+Moa_Hunter folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $1,313 ]
+
+
+
+#Game No : 642361472
+***** 888poker Hand History for Game 642361472 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:29:51
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,911 )
+Seat 2: abc73abc ( $4,037 )
+Seat 4: Moa_Hunter ( $1,328 )
+Seat 6: Paleto01 ( $4,386 )
+Seat 7: PapaShango19 ( $1,810 )
+Seat 9: hubinbin111 ( $2,418 )
+Paleto01 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 2d ]
+hubinbin111 folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$30]
+Paleto01 folds
+PapaShango19 checks
+** Dealing flop ** [ Js, Qh, 8d ]
+PapaShango19 checks
+Moa_Hunter bets [$60]
+PapaShango19 folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $75 ]
+
+
+
+#Game No : 642361537
+***** 888poker Hand History for Game 642361537 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 09:30:36
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,911 )
+Seat 2: abc73abc ( $4,037 )
+Seat 4: Moa_Hunter ( $1,373 )
+Seat 6: Paleto01 ( $4,371 )
+Seat 7: PapaShango19 ( $1,780 )
+Seat 9: hubinbin111 ( $2,418 )
+PapaShango19 posts small blind [$15]
+hubinbin111 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 4s ]
+A.Kirillov folds
+abc73abc raises [$90]
+Moa_Hunter calls [$90]
+Paleto01 folds
+PapaShango19 calls [$75]
+hubinbin111 folds
+** Dealing flop ** [ 7d, 2h, 4c ]
+PapaShango19 checks
+abc73abc bets [$225]
+Moa_Hunter folds
+PapaShango19 folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $300 ]
+
+
+
+#Game No : 642361577
+***** 888poker Hand History for Game 642361577 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:31:17
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $3,911 )
+Seat 2: abc73abc ( $4,247 )
+Seat 4: Moa_Hunter ( $1,283 )
+Seat 6: Paleto01 ( $4,371 )
+Seat 7: PapaShango19 ( $1,690 )
+Seat 9: hubinbin111 ( $2,388 )
+hubinbin111 posts small blind [$25]
+A.Kirillov posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 6d ]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+hubinbin111 raises [$93]
+A.Kirillov raises [$228]
+hubinbin111 raises [$537]
+A.Kirillov raises [$3,633]
+hubinbin111 calls [$1,733]
+** Dealing flop ** [ 8s, 8d, Tc ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 5s ]
+** Summary **
+A.Kirillov shows [ 3s, 3d ]
+hubinbin111 shows [ Js, Ks ]
+A.Kirillov collected [ $4,776 ]
+
+
+
+#Game No : 642361660
+***** 888poker Hand History for Game 642361660 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:32:15
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: A.Kirillov ( $6,299 )
+Seat 2: abc73abc ( $4,247 )
+Seat 4: Moa_Hunter ( $1,283 )
+Seat 6: Paleto01 ( $4,371 )
+Seat 7: PapaShango19 ( $1,690 )
+A.Kirillov posts small blind [$25]
+abc73abc posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4h ]
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+A.Kirillov raises [$75]
+abc73abc calls [$50]
+** Dealing flop ** [ 2c, Kc, Qd ]
+A.Kirillov bets [$150]
+abc73abc calls [$150]
+** Dealing turn ** [ Qh ]
+A.Kirillov checks
+abc73abc checks
+** Dealing river ** [ Qc ]
+A.Kirillov checks
+abc73abc bets [$500]
+A.Kirillov folds
+** Summary **
+abc73abc collected [ $500 ]
+
+
+
+#Game No : 642361739
+***** 888poker Hand History for Game 642361739 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:33:09
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,049 )
+Seat 2: abc73abc ( $4,497 )
+Seat 4: Moa_Hunter ( $1,283 )
+Seat 6: Paleto01 ( $4,371 )
+Seat 7: PapaShango19 ( $1,690 )
+Seat 9: MarkClyde ( $4,000 )
+abc73abc posts small blind [$25]
+Moa_Hunter posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Td ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc raises [$125]
+Moa_Hunter folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $100 ]
+
+
+
+#Game No : 642361772
+***** 888poker Hand History for Game 642361772 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:33:33
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,049 )
+Seat 2: abc73abc ( $4,547 )
+Seat 4: Moa_Hunter ( $1,233 )
+Seat 6: Paleto01 ( $4,371 )
+Seat 7: PapaShango19 ( $1,690 )
+Seat 9: MarkClyde ( $4,000 )
+Moa_Hunter posts small blind [$25]
+Paleto01 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 5c ]
+PapaShango19 calls [$50]
+MarkClyde calls [$50]
+A.Kirillov folds
+abc73abc calls [$50]
+Moa_Hunter folds
+Paleto01 checks
+** Dealing flop ** [ 8s, Jh, 9s ]
+Paleto01 checks
+PapaShango19 checks
+MarkClyde bets [$50]
+abc73abc calls [$50]
+Paleto01 folds
+PapaShango19 folds
+** Dealing turn ** [ 5h ]
+MarkClyde bets [$50]
+abc73abc calls [$50]
+** Dealing river ** [ Kc ]
+MarkClyde bets [$212]
+abc73abc folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $425 ]
+
+
+
+#Game No : 642361854
+***** 888poker Hand History for Game 642361854 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:34:43
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,049 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $1,208 )
+Seat 6: Paleto01 ( $4,321 )
+Seat 7: PapaShango19 ( $1,640 )
+Seat 9: MarkClyde ( $4,275 )
+Paleto01 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ac ]
+MarkClyde calls [$50]
+A.Kirillov raises [$168]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $175 ]
+
+
+
+#Game No : 642361883
+***** 888poker Hand History for Game 642361883 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:35:09
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,174 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $1,208 )
+Seat 6: Paleto01 ( $4,296 )
+Seat 7: PapaShango19 ( $1,590 )
+Seat 9: MarkClyde ( $4,225 )
+PapaShango19 posts small blind [$25]
+MarkClyde posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 2c ]
+A.Kirillov raises [$131]
+abc73abc folds
+Moa_Hunter calls [$131]
+Paleto01 calls [$131]
+PapaShango19 folds
+MarkClyde folds
+** Dealing flop ** [ 6c, Jc, 8d ]
+A.Kirillov checks
+Moa_Hunter checks
+Paleto01 bets [$234]
+A.Kirillov calls [$234]
+Moa_Hunter calls [$234]
+** Dealing turn ** [ 5h ]
+A.Kirillov checks
+Moa_Hunter checks
+Paleto01 bets [$877]
+A.Kirillov folds
+Moa_Hunter calls [$843]
+** Dealing river ** [ 6d ]
+** Summary **
+Moa_Hunter shows [ Qh, 7h ]
+Paleto01 shows [ Ks, Jd ]
+Paleto01 collected [ $2,856 ]
+
+
+
+#Game No : 642361971
+***** 888poker Hand History for Game 642361971 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:36:19
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,809 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $4,000 )
+Seat 6: Paleto01 ( $5,944 )
+Seat 7: PapaShango19 ( $1,565 )
+Seat 9: MarkClyde ( $4,175 )
+MarkClyde posts small blind [$25]
+A.Kirillov posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Tc ]
+abc73abc folds
+Moa_Hunter calls [$50]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$25]
+A.Kirillov checks
+** Dealing flop ** [ 5s, Kh, Jh ]
+MarkClyde checks
+A.Kirillov checks
+Moa_Hunter checks
+** Dealing turn ** [ Ah ]
+MarkClyde checks
+A.Kirillov checks
+Moa_Hunter bets [$112]
+MarkClyde folds
+A.Kirillov folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $150 ]
+
+
+
+#Game No : 642362021
+***** 888poker Hand History for Game 642362021 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:37:05
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,759 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $4,100 )
+Seat 6: Paleto01 ( $5,944 )
+Seat 7: PapaShango19 ( $1,565 )
+Seat 9: MarkClyde ( $4,125 )
+A.Kirillov posts small blind [$25]
+abc73abc posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Qc ]
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $75 ]
+
+
+
+#Game No : 642362041
+***** 888poker Hand History for Game 642362041 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:37:19
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,734 )
+Seat 2: abc73abc ( $4,422 )
+Seat 4: Moa_Hunter ( $4,100 )
+Seat 6: Paleto01 ( $5,944 )
+Seat 7: PapaShango19 ( $1,565 )
+Seat 9: MarkClyde ( $4,125 )
+abc73abc posts small blind [$25]
+Moa_Hunter posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 5c ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde raises [$175]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $125 ]
+
+
+
+#Game No : 642362069
+***** 888poker Hand History for Game 642362069 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:37:41
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,734 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $4,050 )
+Seat 6: Paleto01 ( $5,944 )
+Seat 7: PapaShango19 ( $1,565 )
+Seat 9: MarkClyde ( $4,200 )
+Moa_Hunter posts small blind [$25]
+Paleto01 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 8h ]
+PapaShango19 folds
+MarkClyde calls [$50]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$25]
+Paleto01 checks
+** Dealing flop ** [ Qh, Ac, Jh ]
+Moa_Hunter bets [$50]
+Paleto01 folds
+MarkClyde calls [$50]
+** Dealing turn ** [ 7s ]
+Moa_Hunter checks
+MarkClyde checks
+** Dealing river ** [ 9c ]
+Moa_Hunter checks
+MarkClyde bets [$125]
+Moa_Hunter folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $250 ]
+
+
+
+#Game No : 642362120
+***** 888poker Hand History for Game 642362120 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:38:30
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,734 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $3,950 )
+Seat 6: Paleto01 ( $5,894 )
+Seat 7: PapaShango19 ( $1,565 )
+Seat 9: MarkClyde ( $4,350 )
+Paleto01 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 4d ]
+MarkClyde calls [$50]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+Paleto01 calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ Th, Ks, Kh ]
+Paleto01 bets [$112]
+PapaShango19 folds
+MarkClyde folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $150 ]
+
+
+
+#Game No : 642362142
+***** 888poker Hand History for Game 642362142 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 09:38:52
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,734 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $3,950 )
+Seat 6: Paleto01 ( $5,994 )
+Seat 7: PapaShango19 ( $1,515 )
+Seat 9: MarkClyde ( $4,300 )
+PapaShango19 posts small blind [$25]
+MarkClyde posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 7c ]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$50]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde checks
+** Dealing flop ** [ 7d, 5s, Th ]
+MarkClyde checks
+Moa_Hunter bets [$62]
+MarkClyde calls [$62]
+** Dealing turn ** [ Td ]
+MarkClyde checks
+Moa_Hunter bets [$186]
+MarkClyde folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $249 ]
+
+
+
+#Game No : 642362183
+***** 888poker Hand History for Game 642362183 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:39:25
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,734 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $4,087 )
+Seat 6: Paleto01 ( $5,994 )
+Seat 7: PapaShango19 ( $1,490 )
+Seat 9: MarkClyde ( $4,188 )
+MarkClyde posts small blind [$50]
+A.Kirillov posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 7d ]
+abc73abc folds
+Moa_Hunter raises [$200]
+Paleto01 raises [$750]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+Moa_Hunter calls [$550]
+** Dealing flop ** [ 5s, Kd, 3d ]
+Moa_Hunter checks
+Paleto01 bets [$1,237]
+Moa_Hunter folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $1,650 ]
+
+
+
+#Game No : 642362229
+***** 888poker Hand History for Game 642362229 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:39:58
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,634 )
+Seat 2: abc73abc ( $4,397 )
+Seat 4: Moa_Hunter ( $3,337 )
+Seat 6: Paleto01 ( $6,894 )
+Seat 7: PapaShango19 ( $1,490 )
+Seat 9: MarkClyde ( $4,138 )
+A.Kirillov posts small blind [$50]
+abc73abc posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 8s ]
+Moa_Hunter folds
+Paleto01 raises [$200]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov raises [$487]
+abc73abc folds
+Paleto01 folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $500 ]
+
+
+
+#Game No : 642362259
+***** 888poker Hand History for Game 642362259 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:40:20
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $5,934 )
+Seat 2: abc73abc ( $4,297 )
+Seat 4: Moa_Hunter ( $3,337 )
+Seat 6: Paleto01 ( $6,694 )
+Seat 7: PapaShango19 ( $1,490 )
+Seat 9: MarkClyde ( $4,138 )
+abc73abc posts small blind [$50]
+Moa_Hunter posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Th ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$100]
+A.Kirillov calls [$100]
+abc73abc folds
+Moa_Hunter checks
+** Dealing flop ** [ Ah, 9s, 5h ]
+Moa_Hunter bets [$100]
+MarkClyde folds
+A.Kirillov calls [$100]
+** Dealing turn ** [ 3h ]
+Moa_Hunter bets [$100]
+A.Kirillov raises [$425]
+Moa_Hunter folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $750 ]
+
+
+
+#Game No : 642362307
+***** 888poker Hand History for Game 642362307 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:41:03
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,384 )
+Seat 2: abc73abc ( $4,247 )
+Seat 4: Moa_Hunter ( $3,037 )
+Seat 6: Paleto01 ( $6,694 )
+Seat 7: PapaShango19 ( $1,490 )
+Seat 9: MarkClyde ( $4,038 )
+Moa_Hunter posts small blind [$50]
+Paleto01 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5d ]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$50]
+Paleto01 checks
+** Dealing flop ** [ Kh, 7h, Qc ]
+Moa_Hunter bets [$100]
+Paleto01 folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $200 ]
+
+
+
+#Game No : 642362358
+***** 888poker Hand History for Game 642362358 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:41:44
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,384 )
+Seat 2: abc73abc ( $4,247 )
+Seat 4: Moa_Hunter ( $3,137 )
+Seat 6: Paleto01 ( $6,594 )
+Seat 7: PapaShango19 ( $1,490 )
+Seat 9: MarkClyde ( $4,038 )
+Paleto01 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Qh ]
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$100]
+Paleto01 folds
+PapaShango19 checks
+** Dealing flop ** [ 8h, Qd, 7s ]
+PapaShango19 checks
+Moa_Hunter bets [$125]
+PapaShango19 calls [$125]
+** Dealing turn ** [ 5d ]
+PapaShango19 checks
+Moa_Hunter checks
+** Dealing river ** [ 4d ]
+PapaShango19 bets [$200]
+Moa_Hunter folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 642362445
+***** 888poker Hand History for Game 642362445 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:42:51
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,384 )
+Seat 2: abc73abc ( $4,247 )
+Seat 4: Moa_Hunter ( $2,912 )
+Seat 6: Paleto01 ( $6,544 )
+Seat 7: PapaShango19 ( $1,765 )
+Seat 9: MarkClyde ( $4,038 )
+PapaShango19 posts small blind [$50]
+MarkClyde posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2h ]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$100]
+Paleto01 calls [$100]
+PapaShango19 folds
+MarkClyde checks
+** Dealing flop ** [ Ac, Jh, Kd ]
+MarkClyde checks
+Moa_Hunter bets [$175]
+Paleto01 folds
+MarkClyde calls [$175]
+** Dealing turn ** [ Js ]
+MarkClyde checks
+Moa_Hunter bets [$350]
+MarkClyde raises [$700]
+Moa_Hunter calls [$350]
+** Dealing river ** [ 5h ]
+MarkClyde bets [$2,100]
+Moa_Hunter folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $2,100 ]
+
+
+
+#Game No : 642362542
+***** 888poker Hand History for Game 642362542 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:44:02
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,384 )
+Seat 2: abc73abc ( $4,247 )
+Seat 4: Moa_Hunter ( $1,937 )
+Seat 6: Paleto01 ( $6,444 )
+Seat 7: PapaShango19 ( $1,715 )
+Seat 9: MarkClyde ( $5,163 )
+MarkClyde posts small blind [$50]
+A.Kirillov posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 3s ]
+abc73abc folds
+Moa_Hunter raises [$200]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$150]
+A.Kirillov folds
+** Dealing flop ** [ 9h, 9c, Ac ]
+MarkClyde bets [$100]
+Moa_Hunter calls [$100]
+** Dealing turn ** [ 3c ]
+MarkClyde checks
+Moa_Hunter bets [$100]
+MarkClyde calls [$100]
+** Dealing river ** [ Ts ]
+MarkClyde checks
+Moa_Hunter checks
+** Summary **
+MarkClyde shows [ Qc, Td ]
+Moa_Hunter mucks [ 5c, 5d ]
+MarkClyde collected [ $900 ]
+
+
+
+#Game No : 642362587
+***** 888poker Hand History for Game 642362587 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:45:31
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,284 )
+Seat 2: abc73abc ( $4,247 )
+Seat 4: Moa_Hunter ( $1,537 )
+Seat 6: Paleto01 ( $6,444 )
+Seat 7: PapaShango19 ( $1,715 )
+Seat 9: MarkClyde ( $5,663 )
+A.Kirillov posts small blind [$50]
+abc73abc posts big blind [$100]
+** Dealing down cards **
+Moa_Hunter folds
+Paleto01 raises [$300]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov calls [$250]
+abc73abc folds
+** Dealing flop ** [ Tc, 9h, As ]
+A.Kirillov checks
+Paleto01 bets [$525]
+A.Kirillov calls [$525]
+** Dealing turn ** [ Kc ]
+A.Kirillov checks
+Paleto01 checks
+** Dealing river ** [ 4h ]
+A.Kirillov bets [$875]
+Paleto01 raises [$1,750]
+A.Kirillov folds
+** Summary **
+Paleto01 collected [ $3,500 ]
+
+
+
+#Game No : 642362658
+***** 888poker Hand History for Game 642362658 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:45:51
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $4,584 )
+Seat 2: abc73abc ( $4,147 )
+Seat 4: Moa_Hunter ( $1,537 )
+Seat 6: Paleto01 ( $8,244 )
+Seat 7: PapaShango19 ( $1,715 )
+Seat 9: MarkClyde ( $5,663 )
+abc73abc posts small blind [$50]
+Moa_Hunter posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 4s ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$100]
+A.Kirillov folds
+abc73abc calls [$50]
+Moa_Hunter checks
+** Dealing flop ** [ Kd, Ts, 6h ]
+abc73abc checks
+Moa_Hunter bets [$200]
+MarkClyde folds
+abc73abc folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $300 ]
+
+
+
+#Game No : 642362683
+***** 888poker Hand History for Game 642362683 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:46:19
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $4,584 )
+Seat 2: abc73abc ( $4,047 )
+Seat 4: Moa_Hunter ( $1,737 )
+Seat 6: Paleto01 ( $8,244 )
+Seat 7: PapaShango19 ( $1,715 )
+Seat 9: MarkClyde ( $5,563 )
+Moa_Hunter posts small blind [$50]
+Paleto01 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ks ]
+PapaShango19 raises [$400]
+MarkClyde calls [$400]
+A.Kirillov raises [$1,750]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 calls [$1,315]
+MarkClyde folds
+** Dealing flop ** [ Js, 5h, Ac ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 2d ]
+** Summary **
+A.Kirillov shows [ 9s, As ]
+PapaShango19 shows [ Kh, Ks ]
+A.Kirillov collected [ $3,980 ]
+
+
+
+#Game No : 642362753
+***** 888poker Hand History for Game 642362753 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 09:47:14
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,849 )
+Seat 2: abc73abc ( $4,047 )
+Seat 4: Moa_Hunter ( $1,687 )
+Seat 6: Paleto01 ( $8,144 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: MarkClyde ( $5,163 )
+Paleto01 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 6s ]
+MarkClyde calls [$100]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$100]
+Paleto01 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ Qc, 5d, 9s ]
+Paleto01 checks
+PapaShango19 checks
+MarkClyde checks
+Moa_Hunter bets [$100]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $400 ]
+
+
+
+#Game No : 642362785
+***** 888poker Hand History for Game 642362785 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:47:43
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,849 )
+Seat 2: abc73abc ( $4,047 )
+Seat 4: Moa_Hunter ( $1,987 )
+Seat 6: Paleto01 ( $8,044 )
+Seat 7: PapaShango19 ( $1,900 )
+Seat 9: MarkClyde ( $5,063 )
+PapaShango19 posts small blind [$75]
+MarkClyde posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 6d ]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $225 ]
+
+
+
+#Game No : 642362798
+***** 888poker Hand History for Game 642362798 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:47:58
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,849 )
+Seat 2: abc73abc ( $4,047 )
+Seat 4: Moa_Hunter ( $1,987 )
+Seat 6: Paleto01 ( $8,044 )
+Seat 7: PapaShango19 ( $1,825 )
+Seat 9: MarkClyde ( $5,138 )
+MarkClyde posts small blind [$75]
+A.Kirillov posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 7s ]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$75]
+A.Kirillov checks
+** Dealing flop ** [ 3s, Qs, 3c ]
+MarkClyde bets [$150]
+A.Kirillov calls [$150]
+** Dealing turn ** [ 9h ]
+MarkClyde bets [$600]
+A.Kirillov folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $600 ]
+
+
+
+#Game No : 642362843
+***** 888poker Hand History for Game 642362843 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:48:30
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,549 )
+Seat 2: abc73abc ( $4,047 )
+Seat 4: Moa_Hunter ( $1,987 )
+Seat 6: Paleto01 ( $8,044 )
+Seat 7: PapaShango19 ( $1,825 )
+Seat 9: MarkClyde ( $5,438 )
+A.Kirillov posts small blind [$75]
+abc73abc posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4d ]
+Moa_Hunter raises [$300]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$300]
+A.Kirillov calls [$225]
+abc73abc folds
+** Dealing flop ** [ 6d, 5c, 6s ]
+A.Kirillov checks
+Moa_Hunter checks
+MarkClyde checks
+** Dealing turn ** [ 4c ]
+A.Kirillov checks
+Moa_Hunter checks
+MarkClyde checks
+** Dealing river ** [ 6c ]
+A.Kirillov checks
+Moa_Hunter checks
+MarkClyde checks
+** Summary **
+A.Kirillov shows [ As, 2c ]
+Moa_Hunter shows [ Ad, Js ]
+MarkClyde mucks [ Qh, Th ]
+Moa_Hunter collected [ $1,050 ]
+
+
+
+#Game No : 642362895
+***** 888poker Hand History for Game 642362895 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:49:16
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,249 )
+Seat 2: abc73abc ( $3,897 )
+Seat 4: Moa_Hunter ( $2,737 )
+Seat 6: Paleto01 ( $8,044 )
+Seat 7: PapaShango19 ( $1,825 )
+Seat 9: MarkClyde ( $5,138 )
+abc73abc posts small blind [$75]
+Moa_Hunter posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 6h ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$150]
+A.Kirillov raises [$506]
+abc73abc folds
+Moa_Hunter folds
+MarkClyde folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $525 ]
+
+
+
+#Game No : 642362923
+***** 888poker Hand History for Game 642362923 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:49:38
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,624 )
+Seat 2: abc73abc ( $3,822 )
+Seat 4: Moa_Hunter ( $2,587 )
+Seat 6: Paleto01 ( $8,044 )
+Seat 7: PapaShango19 ( $1,825 )
+Seat 9: MarkClyde ( $4,988 )
+Moa_Hunter posts small blind [$75]
+Paleto01 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Tc ]
+PapaShango19 folds
+MarkClyde calls [$150]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+Paleto01 checks
+** Dealing flop ** [ 8s, 6d, Jc ]
+Paleto01 bets [$300]
+MarkClyde calls [$300]
+** Dealing turn ** [ 4d ]
+Paleto01 bets [$450]
+MarkClyde folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $975 ]
+
+
+
+#Game No : 642362966
+***** 888poker Hand History for Game 642362966 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:50:18
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,624 )
+Seat 2: abc73abc ( $3,822 )
+Seat 4: Moa_Hunter ( $2,512 )
+Seat 6: Paleto01 ( $8,569 )
+Seat 7: PapaShango19 ( $1,825 )
+Seat 9: MarkClyde ( $4,538 )
+Paleto01 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Qh ]
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 642362996
+***** 888poker Hand History for Game 642362996 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:50:39
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,624 )
+Seat 2: abc73abc ( $3,822 )
+Seat 4: Moa_Hunter ( $2,512 )
+Seat 6: Paleto01 ( $8,494 )
+Seat 7: PapaShango19 ( $1,900 )
+Seat 9: MarkClyde ( $4,538 )
+PapaShango19 posts small blind [$75]
+MarkClyde posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Ac ]
+A.Kirillov calls [$150]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 calls [$150]
+PapaShango19 calls [$75]
+MarkClyde checks
+** Dealing flop ** [ Qd, 2c, 5c ]
+PapaShango19 checks
+MarkClyde checks
+A.Kirillov bets [$300]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $600 ]
+
+
+
+#Game No : 642363056
+***** 888poker Hand History for Game 642363056 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:51:24
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $7,074 )
+Seat 2: abc73abc ( $3,822 )
+Seat 4: Moa_Hunter ( $2,512 )
+Seat 6: Paleto01 ( $8,344 )
+Seat 7: PapaShango19 ( $1,750 )
+Seat 9: MarkClyde ( $4,388 )
+MarkClyde posts small blind [$75]
+A.Kirillov posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Ks ]
+abc73abc raises [$300]
+Moa_Hunter folds
+Paleto01 calls [$300]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+** Dealing flop ** [ Kd, Kh, 5h ]
+abc73abc checks
+Paleto01 checks
+** Dealing turn ** [ 9s ]
+abc73abc bets [$412]
+Paleto01 calls [$412]
+** Dealing river ** [ Jc ]
+abc73abc bets [$150]
+Paleto01 calls [$150]
+** Summary **
+abc73abc shows [ Qh, Ac ]
+Paleto01 shows [ Jh, Qd ]
+Paleto01 collected [ $1,949 ]
+
+
+
+#Game No : 642363110
+***** 888poker Hand History for Game 642363110 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:52:09
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $6,924 )
+Seat 2: abc73abc ( $2,960 )
+Seat 4: Moa_Hunter ( $2,512 )
+Seat 6: Paleto01 ( $9,431 )
+Seat 7: PapaShango19 ( $1,750 )
+Seat 9: MarkClyde ( $4,313 )
+A.Kirillov posts small blind [$75]
+abc73abc posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 7h ]
+Moa_Hunter folds
+Paleto01 raises [$300]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov calls [$225]
+abc73abc calls [$150]
+** Dealing flop ** [ 5d, 9c, 5s ]
+A.Kirillov checks
+abc73abc checks
+Paleto01 bets [$675]
+A.Kirillov calls [$675]
+abc73abc folds
+** Dealing turn ** [ 6s ]
+A.Kirillov checks
+Paleto01 checks
+** Dealing river ** [ Td ]
+A.Kirillov bets [$1,687]
+Paleto01 folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $2,250 ]
+
+
+
+#Game No : 642363180
+***** 888poker Hand History for Game 642363180 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:53:13
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,199 )
+Seat 2: abc73abc ( $2,660 )
+Seat 4: Moa_Hunter ( $2,512 )
+Seat 6: Paleto01 ( $8,456 )
+Seat 7: PapaShango19 ( $1,750 )
+Seat 9: MarkClyde ( $4,313 )
+abc73abc posts small blind [$75]
+Moa_Hunter posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Ks ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $225 ]
+
+
+
+#Game No : 642363210
+***** 888poker Hand History for Game 642363210 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:53:31
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,199 )
+Seat 2: abc73abc ( $2,585 )
+Seat 4: Moa_Hunter ( $2,587 )
+Seat 6: Paleto01 ( $8,456 )
+Seat 7: PapaShango19 ( $1,750 )
+Seat 9: MarkClyde ( $4,313 )
+Moa_Hunter posts small blind [$75]
+Paleto01 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3h ]
+PapaShango19 folds
+MarkClyde calls [$150]
+A.Kirillov calls [$150]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 checks
+** Dealing flop ** [ 4s, 9s, Qc ]
+Paleto01 checks
+MarkClyde bets [$525]
+A.Kirillov folds
+Paleto01 folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $525 ]
+
+
+
+#Game No : 642363281
+***** 888poker Hand History for Game 642363281 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:54:18
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,049 )
+Seat 2: abc73abc ( $2,585 )
+Seat 4: Moa_Hunter ( $2,512 )
+Seat 6: Paleto01 ( $8,306 )
+Seat 7: PapaShango19 ( $1,750 )
+Seat 9: MarkClyde ( $4,688 )
+Paleto01 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Qc ]
+MarkClyde folds
+A.Kirillov raises [$300]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $375 ]
+
+
+
+#Game No : 642363310
+***** 888poker Hand History for Game 642363310 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:54:39
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,274 )
+Seat 2: abc73abc ( $2,585 )
+Seat 4: Moa_Hunter ( $2,512 )
+Seat 6: Paleto01 ( $8,231 )
+Seat 7: PapaShango19 ( $1,600 )
+Seat 9: MarkClyde ( $4,688 )
+PapaShango19 posts small blind [$75]
+MarkClyde posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ah ]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$150]
+Paleto01 folds
+PapaShango19 calls [$75]
+MarkClyde checks
+** Dealing flop ** [ 3h, 3s, Jc ]
+PapaShango19 checks
+MarkClyde checks
+Moa_Hunter bets [$150]
+PapaShango19 folds
+MarkClyde folds
+** Summary **
+Moa_Hunter did not show his hand
+Moa_Hunter collected [ $450 ]
+
+
+
+#Game No : 642363474
+***** 888poker Hand History for Game 642363474 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 09:59:58
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,274 )
+Seat 2: abc73abc ( $2,585 )
+Seat 4: Moa_Hunter ( $2,812 )
+Seat 6: Paleto01 ( $8,231 )
+Seat 7: PapaShango19 ( $1,450 )
+Seat 9: MarkClyde ( $4,538 )
+MarkClyde posts small blind [$75]
+A.Kirillov posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5s ]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$75]
+A.Kirillov checks
+** Dealing flop ** [ Ks, 7h, 7s ]
+MarkClyde bets [$300]
+A.Kirillov folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $300 ]
+
+
+
+#Game No : 642363511
+***** 888poker Hand History for Game 642363511 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:00:32
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,124 )
+Seat 2: abc73abc ( $2,585 )
+Seat 4: Moa_Hunter ( $2,812 )
+Seat 6: Paleto01 ( $8,231 )
+Seat 7: PapaShango19 ( $1,450 )
+Seat 9: MarkClyde ( $4,688 )
+A.Kirillov posts small blind [$100]
+abc73abc posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 8s ]
+Moa_Hunter calls [$200]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov calls [$100]
+abc73abc checks
+** Dealing flop ** [ 4s, 7d, 7c ]
+A.Kirillov bets [$300]
+abc73abc folds
+Moa_Hunter folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $600 ]
+
+
+
+#Game No : 642363552
+***** 888poker Hand History for Game 642363552 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:01:12
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,524 )
+Seat 2: abc73abc ( $2,385 )
+Seat 4: Moa_Hunter ( $2,612 )
+Seat 6: Paleto01 ( $8,231 )
+Seat 7: PapaShango19 ( $1,450 )
+Seat 9: MarkClyde ( $4,688 )
+abc73abc posts small blind [$100]
+Moa_Hunter posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Kc ]
+Paleto01 folds
+PapaShango19 raises [$600]
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$400]
+** Dealing flop ** [ Td, Jd, 3h ]
+Moa_Hunter checks
+PapaShango19 bets [$600]
+Moa_Hunter folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,300 ]
+
+
+
+#Game No : 642363603
+***** 888poker Hand History for Game 642363603 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:01:50
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,524 )
+Seat 2: abc73abc ( $2,285 )
+Seat 4: Moa_Hunter ( $2,012 )
+Seat 6: Paleto01 ( $8,231 )
+Seat 7: PapaShango19 ( $2,150 )
+Seat 9: MarkClyde ( $4,688 )
+Moa_Hunter posts small blind [$100]
+Paleto01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 8c ]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$100]
+Paleto01 checks
+** Dealing flop ** [ 2d, Qd, 4s ]
+Moa_Hunter checks
+Paleto01 bets [$200]
+Moa_Hunter folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $400 ]
+
+
+
+#Game No : 642363646
+***** 888poker Hand History for Game 642363646 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:02:17
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,524 )
+Seat 2: abc73abc ( $2,285 )
+Seat 4: Moa_Hunter ( $1,812 )
+Seat 6: Paleto01 ( $8,431 )
+Seat 7: PapaShango19 ( $2,150 )
+Seat 9: MarkClyde ( $4,688 )
+Paleto01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 6h ]
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter calls [$200]
+Paleto01 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Qh, Js, 8h ]
+Paleto01 checks
+PapaShango19 checks
+Moa_Hunter checks
+** Dealing turn ** [ Kh ]
+Paleto01 bets [$200]
+PapaShango19 folds
+Moa_Hunter folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $600 ]
+
+
+
+#Game No : 642363746
+***** 888poker Hand History for Game 642363746 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:03:30
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,524 )
+Seat 2: abc73abc ( $2,285 )
+Seat 4: Moa_Hunter ( $1,612 )
+Seat 6: Paleto01 ( $8,831 )
+Seat 7: PapaShango19 ( $1,950 )
+Seat 9: MarkClyde ( $4,688 )
+PapaShango19 posts small blind [$100]
+MarkClyde posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4d ]
+A.Kirillov calls [$200]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 calls [$200]
+PapaShango19 folds
+MarkClyde checks
+** Dealing flop ** [ 9c, Kc, Ts ]
+MarkClyde checks
+A.Kirillov checks
+Paleto01 bets [$525]
+MarkClyde folds
+A.Kirillov folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $700 ]
+
+
+
+#Game No : 642363830
+***** 888poker Hand History for Game 642363830 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:04:26
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,324 )
+Seat 2: abc73abc ( $2,285 )
+Seat 4: Moa_Hunter ( $1,612 )
+Seat 6: Paleto01 ( $9,331 )
+Seat 7: PapaShango19 ( $1,850 )
+Seat 9: MarkClyde ( $4,488 )
+MarkClyde posts small blind [$100]
+A.Kirillov posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Kh ]
+abc73abc folds
+Moa_Hunter calls [$200]
+Paleto01 raises [$600]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+Moa_Hunter calls [$400]
+** Dealing flop ** [ Js, Ad, 5h ]
+Moa_Hunter checks
+Paleto01 bets [$1,125]
+Moa_Hunter folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $1,500 ]
+
+
+
+#Game No : 642363878
+***** 888poker Hand History for Game 642363878 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:05:03
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,124 )
+Seat 2: abc73abc ( $2,285 )
+Seat 4: Moa_Hunter ( $1,012 )
+Seat 6: Paleto01 ( $10,231 )
+Seat 7: PapaShango19 ( $1,850 )
+Seat 9: MarkClyde ( $4,388 )
+A.Kirillov posts small blind [$100]
+abc73abc posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 3d ]
+Moa_Hunter raises [$400]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc raises [$1,100]
+Moa_Hunter calls [$612]
+** Dealing flop ** [ 4d, 8h, Ac ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 8c ]
+** Summary **
+abc73abc shows [ Kh, Qh ]
+Moa_Hunter shows [ Ks, Ts ]
+abc73abc collected [ $1,062 ]
+Moa_Hunter collected [ $1,062 ]
+
+
+
+#Game No : 642363938
+***** 888poker Hand History for Game 642363938 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:05:39
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,024 )
+Seat 2: abc73abc ( $2,335 )
+Seat 4: Moa_Hunter ( $1,062 )
+Seat 6: Paleto01 ( $10,231 )
+Seat 7: PapaShango19 ( $1,850 )
+Seat 9: MarkClyde ( $4,388 )
+abc73abc posts small blind [$100]
+Moa_Hunter posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9d ]
+Paleto01 raises [$400]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $500 ]
+
+
+
+#Game No : 642363973
+***** 888poker Hand History for Game 642363973 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:05:58
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,024 )
+Seat 2: abc73abc ( $2,235 )
+Seat 4: Moa_Hunter ( $862 )
+Seat 6: Paleto01 ( $10,531 )
+Seat 7: PapaShango19 ( $1,850 )
+Seat 9: MarkClyde ( $4,388 )
+Moa_Hunter posts small blind [$100]
+Paleto01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Js ]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $300 ]
+
+
+
+#Game No : 642363993
+***** 888poker Hand History for Game 642363993 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:06:15
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,024 )
+Seat 2: abc73abc ( $2,235 )
+Seat 4: Moa_Hunter ( $762 )
+Seat 6: Paleto01 ( $10,631 )
+Seat 7: PapaShango19 ( $1,850 )
+Seat 9: MarkClyde ( $4,388 )
+Paleto01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 2c ]
+MarkClyde folds
+A.Kirillov folds
+abc73abc raises [$2,235]
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $500 ]
+
+
+
+#Game No : 642364037
+***** 888poker Hand History for Game 642364037 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:06:36
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,024 )
+Seat 2: abc73abc ( $2,535 )
+Seat 4: Moa_Hunter ( $762 )
+Seat 6: Paleto01 ( $10,531 )
+Seat 7: PapaShango19 ( $1,650 )
+Seat 9: MarkClyde ( $4,388 )
+PapaShango19 posts small blind [$100]
+MarkClyde posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 9h ]
+A.Kirillov folds
+abc73abc folds
+Moa_Hunter folds
+Paleto01 raises [$400]
+PapaShango19 folds
+MarkClyde calls [$200]
+** Dealing flop ** [ Kd, 8s, Th ]
+MarkClyde checks
+Paleto01 bets [$450]
+MarkClyde folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $900 ]
+
+
+
+#Game No : 642364076
+***** 888poker Hand History for Game 642364076 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:07:03
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,024 )
+Seat 2: abc73abc ( $2,535 )
+Seat 4: Moa_Hunter ( $762 )
+Seat 6: Paleto01 ( $11,031 )
+Seat 7: PapaShango19 ( $1,550 )
+Seat 9: MarkClyde ( $3,988 )
+MarkClyde posts small blind [$100]
+A.Kirillov posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Kc ]
+abc73abc folds
+Moa_Hunter folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $300 ]
+
+
+
+#Game No : 642364130
+***** 888poker Hand History for Game 642364130 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:07:31
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $8,124 )
+Seat 2: abc73abc ( $2,535 )
+Seat 4: Moa_Hunter ( $762 )
+Seat 6: Paleto01 ( $11,031 )
+Seat 7: PapaShango19 ( $1,550 )
+Seat 9: MarkClyde ( $3,888 )
+A.Kirillov posts small blind [$100]
+abc73abc posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 2d ]
+Moa_Hunter calls [$200]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov raises [$525]
+abc73abc raises [$2,335]
+Moa_Hunter calls [$562]
+A.Kirillov calls [$1,910]
+** Dealing flop ** [ Kc, 4h, 6d ]
+** Dealing turn ** [ 4s ]
+** Dealing river ** [ 9h ]
+** Summary **
+A.Kirillov shows [ Ah, Js ]
+abc73abc shows [ As, 5h ]
+Moa_Hunter shows [ Td, Ac ]
+A.Kirillov collected [ $2,286 ]
+A.Kirillov collected [ $3,546 ]
+
+
+
+#Game No : 642364190
+***** 888poker Hand History for Game 642364190 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:08:16
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: A.Kirillov ( $11,421 )
+Seat 2: abc73abc ( $4,000 )
+Seat 6: Paleto01 ( $11,031 )
+Seat 7: PapaShango19 ( $1,550 )
+Seat 9: MarkClyde ( $3,888 )
+abc73abc posts small blind [$100]
+Paleto01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8s ]
+PapaShango19 folds
+MarkClyde raises [$400]
+A.Kirillov raises [$1,300]
+abc73abc folds
+Paleto01 folds
+MarkClyde raises [$3,488]
+A.Kirillov calls [$2,588]
+** Dealing flop ** [ Kd, 9c, 7d ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 4s ]
+** Summary **
+A.Kirillov shows [ Kc, Ks ]
+MarkClyde shows [ Jd, Js ]
+A.Kirillov collected [ $8,076 ]
+
+
+
+#Game No : 642364242
+***** 888poker Hand History for Game 642364242 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:08:51
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: A.Kirillov ( $15,609 )
+Seat 2: abc73abc ( $3,900 )
+Seat 6: Paleto01 ( $10,831 )
+Seat 7: PapaShango19 ( $1,550 )
+Seat 9: MarkClyde ( $2,000 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+Paleto01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Th ]
+MarkClyde folds
+A.Kirillov folds
+abc73abc raises [$400]
+Paleto01 raises [$700]
+PapaShango19 folds
+abc73abc calls [$400]
+** Dealing flop ** [ Jd, 5s, 8h ]
+Paleto01 bets [$1,443]
+abc73abc folds
+** Summary **
+Paleto01 collected [ $1,925 ]
+
+
+
+#Game No : 642364298
+***** 888poker Hand History for Game 642364298 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:09:26
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $15,584 )
+Seat 2: abc73abc ( $3,075 )
+Seat 4: CaHbI4_15 ( $2,000 )
+Seat 6: Paleto01 ( $11,931 )
+Seat 7: PapaShango19 ( $1,325 )
+Seat 9: MarkClyde ( $3,975 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+CaHbI4_15 posts ante [$25]
+PapaShango19 posts small blind [$100]
+MarkClyde posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 9s ]
+A.Kirillov folds
+abc73abc raises [$3,050]
+CaHbI4_15 folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $650 ]
+
+
+
+#Game No : 642364332
+***** 888poker Hand History for Game 642364332 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:09:48
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $15,559 )
+Seat 2: abc73abc ( $3,500 )
+Seat 4: CaHbI4_15 ( $1,975 )
+Seat 6: Paleto01 ( $11,906 )
+Seat 7: PapaShango19 ( $1,200 )
+Seat 9: MarkClyde ( $3,750 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+CaHbI4_15 posts ante [$25]
+MarkClyde posts small blind [$100]
+A.Kirillov posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4c ]
+abc73abc folds
+CaHbI4_15 folds
+Paleto01 raises [$400]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov calls [$200]
+** Dealing flop ** [ Kc, Jd, 2h ]
+A.Kirillov checks
+Paleto01 bets [$525]
+A.Kirillov raises [$1,050]
+Paleto01 calls [$525]
+** Dealing turn ** [ 4s ]
+A.Kirillov checks
+Paleto01 checks
+** Dealing river ** [ 6c ]
+A.Kirillov checks
+Paleto01 checks
+** Summary **
+A.Kirillov shows [ Tc, Qh ]
+Paleto01 shows [ Ks, 9h ]
+Paleto01 collected [ $3,150 ]
+
+
+
+#Game No : 642364422
+***** 888poker Hand History for Game 642364422 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:10:57
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $14,084 )
+Seat 2: abc73abc ( $3,475 )
+Seat 4: CaHbI4_15 ( $1,950 )
+Seat 6: Paleto01 ( $13,581 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: MarkClyde ( $3,625 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+CaHbI4_15 posts ante [$25]
+A.Kirillov posts small blind [$100]
+abc73abc posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 7d ]
+CaHbI4_15 raises [$400]
+Paleto01 calls [$400]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov calls [$300]
+abc73abc folds
+** Dealing flop ** [ Kd, Js, Qs ]
+A.Kirillov checks
+CaHbI4_15 checks
+Paleto01 checks
+** Dealing turn ** [ 4s ]
+A.Kirillov bets [$775]
+CaHbI4_15 folds
+Paleto01 calls [$775]
+** Dealing river ** [ 5d ]
+A.Kirillov bets [$2,000]
+Paleto01 folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $3,100 ]
+
+
+
+#Game No : 642364524
+***** 888poker Hand History for Game 642364524 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:12:05
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $15,984 )
+Seat 2: abc73abc ( $3,250 )
+Seat 4: CaHbI4_15 ( $1,525 )
+Seat 6: Paleto01 ( $12,381 )
+Seat 7: PapaShango19 ( $1,150 )
+Seat 9: MarkClyde ( $3,600 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+CaHbI4_15 posts ante [$25]
+abc73abc posts small blind [$100]
+CaHbI4_15 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Qc ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov raises [$425]
+abc73abc folds
+CaHbI4_15 folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $650 ]
+
+
+
+#Game No : 642364586
+***** 888poker Hand History for Game 642364586 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:12:48
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $16,409 )
+Seat 2: abc73abc ( $3,125 )
+Seat 4: CaHbI4_15 ( $1,300 )
+Seat 6: Paleto01 ( $12,356 )
+Seat 7: PapaShango19 ( $1,125 )
+Seat 9: MarkClyde ( $3,575 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+CaHbI4_15 posts ante [$25]
+CaHbI4_15 posts small blind [$100]
+Paleto01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Th ]
+PapaShango19 folds
+MarkClyde calls [$200]
+A.Kirillov folds
+abc73abc folds
+CaHbI4_15 calls [$100]
+Paleto01 checks
+** Dealing flop ** [ 6s, Ah, Qc ]
+CaHbI4_15 checks
+Paleto01 checks
+MarkClyde bets [$750]
+CaHbI4_15 folds
+Paleto01 folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $750 ]
+
+
+
+#Game No : 642364782
+***** 888poker Hand History for Game 642364782 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:15:20
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $16,784 )
+Seat 2: abc73abc ( $6,475 )
+Seat 4: CaHbI4_15 ( $1,025 )
+Seat 6: Paleto01 ( $9,006 )
+Seat 7: PapaShango19 ( $750 )
+Seat 9: MarkClyde ( $3,850 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+CaHbI4_15 posts ante [$25]
+MarkClyde posts small blind [$100]
+A.Kirillov posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 9h ]
+abc73abc folds
+CaHbI4_15 folds
+Paleto01 raises [$850]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $650 ]
+
+
+
+#Game No : 642364900
+***** 888poker Hand History for Game 642364900 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 10:15:40
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $21,559 )
+Seat 2: abc73abc ( $11,450 )
+Seat 4: CaHbI4_15 ( $6,000 )
+Seat 6: Paleto01 ( $14,431 )
+Seat 7: PapaShango19 ( $725 )
+Seat 9: MarkClyde ( $8,725 )
+A.Kirillov posts ante [$25]
+abc73abc posts ante [$25]
+Paleto01 posts ante [$25]
+PapaShango19 posts ante [$25]
+MarkClyde posts ante [$25]
+CaHbI4_15 posts ante [$25]
+A.Kirillov posts small blind [$100]
+abc73abc posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ks ]
+CaHbI4_15 folds
+Paleto01 calls [$200]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov raises [$500]
+abc73abc folds
+Paleto01 calls [$400]
+** Dealing flop ** [ Kc, 4d, 2c ]
+A.Kirillov bets [$775]
+Paleto01 calls [$775]
+** Dealing turn ** [ 8c ]
+A.Kirillov checks
+Paleto01 checks
+** Dealing river ** [ Js ]
+A.Kirillov checks
+Paleto01 checks
+** Summary **
+A.Kirillov shows [ 7c, 7h ]
+Paleto01 mucks [ Ac, 2s ]
+A.Kirillov collected [ $3,100 ]
+
+
+
+#Game No : 642365011
+***** 888poker Hand History for Game 642365011 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:16:34
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $23,259 )
+Seat 2: abc73abc ( $11,225 )
+Seat 4: CaHbI4_15 ( $5,975 )
+Seat 6: Paleto01 ( $13,031 )
+Seat 7: PapaShango19 ( $5,700 )
+Seat 9: MarkClyde ( $8,700 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+abc73abc posts small blind [$125]
+CaHbI4_15 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Ts ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov calls [$250]
+abc73abc calls [$125]
+CaHbI4_15 checks
+** Dealing flop ** [ 2c, 6s, 6d ]
+abc73abc checks
+CaHbI4_15 checks
+A.Kirillov checks
+** Dealing turn ** [ 4h ]
+abc73abc bets [$465]
+CaHbI4_15 folds
+A.Kirillov folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $930 ]
+
+
+
+#Game No : 642365062
+***** 888poker Hand History for Game 642365062 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:17:14
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $22,979 )
+Seat 2: abc73abc ( $11,875 )
+Seat 4: CaHbI4_15 ( $5,695 )
+Seat 6: Paleto01 ( $13,001 )
+Seat 7: PapaShango19 ( $5,670 )
+Seat 9: MarkClyde ( $8,670 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+CaHbI4_15 posts small blind [$125]
+Paleto01 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 5c ]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+CaHbI4_15 calls [$125]
+Paleto01 checks
+** Dealing flop ** [ Ac, Th, 2c ]
+CaHbI4_15 checks
+Paleto01 checks
+** Dealing turn ** [ 8c ]
+CaHbI4_15 checks
+Paleto01 checks
+** Dealing river ** [ 4d ]
+CaHbI4_15 checks
+Paleto01 checks
+** Summary **
+CaHbI4_15 shows [ Qd, 9s ]
+Paleto01 mucks [ 7d, Js ]
+CaHbI4_15 collected [ $680 ]
+
+
+
+#Game No : 642365129
+***** 888poker Hand History for Game 642365129 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:18:11
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $22,949 )
+Seat 2: abc73abc ( $11,845 )
+Seat 4: CaHbI4_15 ( $6,095 )
+Seat 6: Paleto01 ( $12,721 )
+Seat 7: PapaShango19 ( $5,640 )
+Seat 9: MarkClyde ( $8,640 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+Paleto01 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 2s ]
+MarkClyde folds
+A.Kirillov raises [$500]
+abc73abc folds
+CaHbI4_15 folds
+Paleto01 calls [$375]
+PapaShango19 folds
+** Dealing flop ** [ 9c, 3d, 3s ]
+Paleto01 checks
+A.Kirillov bets [$1,072]
+Paleto01 folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $1,430 ]
+
+
+
+#Game No : 642365174
+***** 888poker Hand History for Game 642365174 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:18:41
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $23,849 )
+Seat 2: abc73abc ( $11,815 )
+Seat 4: CaHbI4_15 ( $6,065 )
+Seat 6: Paleto01 ( $12,191 )
+Seat 7: PapaShango19 ( $5,360 )
+Seat 9: MarkClyde ( $8,610 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+PapaShango19 posts small blind [$125]
+MarkClyde posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 5d ]
+A.Kirillov folds
+abc73abc folds
+CaHbI4_15 folds
+Paleto01 folds
+PapaShango19 folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $555 ]
+
+
+
+#Game No : 642365191
+***** 888poker Hand History for Game 642365191 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:18:59
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $23,819 )
+Seat 2: abc73abc ( $11,785 )
+Seat 4: CaHbI4_15 ( $6,035 )
+Seat 6: Paleto01 ( $12,161 )
+Seat 7: PapaShango19 ( $5,205 )
+Seat 9: MarkClyde ( $8,885 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+MarkClyde posts small blind [$125]
+A.Kirillov posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Ks ]
+abc73abc folds
+CaHbI4_15 folds
+Paleto01 raises [$1,055]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $805 ]
+
+
+
+#Game No : 642365251
+***** 888poker Hand History for Game 642365251 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:19:24
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $23,539 )
+Seat 2: abc73abc ( $11,755 )
+Seat 4: CaHbI4_15 ( $6,005 )
+Seat 6: Paleto01 ( $12,686 )
+Seat 7: PapaShango19 ( $5,175 )
+Seat 9: MarkClyde ( $8,730 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+A.Kirillov posts small blind [$125]
+abc73abc posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 7d ]
+CaHbI4_15 folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde raises [$500]
+A.Kirillov calls [$375]
+abc73abc folds
+** Dealing flop ** [ 6d, Ks, Ah ]
+A.Kirillov checks
+MarkClyde checks
+** Dealing turn ** [ Qh ]
+A.Kirillov bets [$715]
+MarkClyde folds
+** Summary **
+A.Kirillov did not show his hand
+A.Kirillov collected [ $1,430 ]
+
+
+
+#Game No : 642365334
+***** 888poker Hand History for Game 642365334 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:20:29
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $24,439 )
+Seat 2: abc73abc ( $11,475 )
+Seat 4: CaHbI4_15 ( $5,975 )
+Seat 6: Paleto01 ( $12,656 )
+Seat 7: PapaShango19 ( $5,145 )
+Seat 9: MarkClyde ( $8,200 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+abc73abc posts small blind [$125]
+CaHbI4_15 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6h ]
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$250]
+A.Kirillov folds
+abc73abc folds
+CaHbI4_15 checks
+** Dealing flop ** [ Tc, 7c, 8c ]
+CaHbI4_15 bets [$402]
+MarkClyde folds
+** Summary **
+CaHbI4_15 did not show his hand
+CaHbI4_15 collected [ $805 ]
+
+
+
+#Game No : 642365371
+***** 888poker Hand History for Game 642365371 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:20:54
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $24,409 )
+Seat 2: abc73abc ( $11,320 )
+Seat 4: CaHbI4_15 ( $6,500 )
+Seat 6: Paleto01 ( $12,626 )
+Seat 7: PapaShango19 ( $5,115 )
+Seat 9: MarkClyde ( $7,920 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+CaHbI4_15 posts small blind [$125]
+Paleto01 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Tc ]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc raises [$500]
+CaHbI4_15 folds
+Paleto01 folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $805 ]
+
+
+
+#Game No : 642365435
+***** 888poker Hand History for Game 642365435 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:21:37
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $24,379 )
+Seat 2: abc73abc ( $11,845 )
+Seat 4: CaHbI4_15 ( $6,345 )
+Seat 6: Paleto01 ( $12,346 )
+Seat 7: PapaShango19 ( $5,085 )
+Seat 9: MarkClyde ( $7,890 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+Paleto01 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Js ]
+MarkClyde folds
+A.Kirillov folds
+abc73abc raises [$500]
+CaHbI4_15 calls [$500]
+Paleto01 folds
+PapaShango19 folds
+** Dealing flop ** [ 9h, 3h, Qs ]
+abc73abc bets [$777]
+CaHbI4_15 folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $1,555 ]
+
+
+
+#Game No : 642365472
+***** 888poker Hand History for Game 642365472 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:22:08
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $24,349 )
+Seat 2: abc73abc ( $12,870 )
+Seat 4: CaHbI4_15 ( $5,815 )
+Seat 6: Paleto01 ( $12,191 )
+Seat 7: PapaShango19 ( $4,805 )
+Seat 9: MarkClyde ( $7,860 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+PapaShango19 posts small blind [$125]
+MarkClyde posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Tc ]
+A.Kirillov folds
+abc73abc raises [$500]
+CaHbI4_15 folds
+Paleto01 folds
+PapaShango19 folds
+MarkClyde calls [$250]
+** Dealing flop ** [ Ad, Ac, 7c ]
+MarkClyde checks
+abc73abc checks
+** Dealing turn ** [ 4c ]
+MarkClyde bets [$250]
+abc73abc raises [$1,000]
+MarkClyde folds
+** Summary **
+abc73abc did not show his hand
+abc73abc collected [ $1,805 ]
+
+
+
+#Game No : 642365524
+***** 888poker Hand History for Game 642365524 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:22:43
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $24,319 )
+Seat 2: abc73abc ( $13,895 )
+Seat 4: CaHbI4_15 ( $5,785 )
+Seat 6: Paleto01 ( $12,161 )
+Seat 7: PapaShango19 ( $4,650 )
+Seat 9: MarkClyde ( $7,080 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+MarkClyde posts small blind [$125]
+A.Kirillov posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 4d ]
+abc73abc folds
+CaHbI4_15 folds
+Paleto01 calls [$250]
+PapaShango19 folds
+MarkClyde calls [$125]
+A.Kirillov checks
+** Dealing flop ** [ Tc, Jd, 7s ]
+MarkClyde bets [$250]
+A.Kirillov calls [$250]
+Paleto01 folds
+** Dealing turn ** [ 6s ]
+MarkClyde bets [$715]
+A.Kirillov calls [$715]
+** Dealing river ** [ Kd ]
+MarkClyde bets [$1,430]
+A.Kirillov folds
+** Summary **
+MarkClyde did not show his hand
+MarkClyde collected [ $2,860 ]
+
+
+
+#Game No : 642365606
+***** 888poker Hand History for Game 642365606 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:23:45
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $23,074 )
+Seat 2: abc73abc ( $13,865 )
+Seat 4: CaHbI4_15 ( $5,755 )
+Seat 6: Paleto01 ( $11,881 )
+Seat 7: PapaShango19 ( $4,620 )
+Seat 9: MarkClyde ( $8,695 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+A.Kirillov posts small blind [$125]
+abc73abc posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 4c ]
+CaHbI4_15 folds
+Paleto01 raises [$750]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $805 ]
+
+
+
+#Game No : 642365642
+***** 888poker Hand History for Game 642365642 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 10:24:08
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $22,919 )
+Seat 2: abc73abc ( $13,585 )
+Seat 4: CaHbI4_15 ( $5,725 )
+Seat 6: Paleto01 ( $12,406 )
+Seat 7: PapaShango19 ( $4,590 )
+Seat 9: MarkClyde ( $8,665 )
+A.Kirillov posts ante [$30]
+abc73abc posts ante [$30]
+Paleto01 posts ante [$30]
+PapaShango19 posts ante [$30]
+MarkClyde posts ante [$30]
+CaHbI4_15 posts ante [$30]
+abc73abc posts small blind [$125]
+CaHbI4_15 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6d ]
+Paleto01 raises [$750]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+CaHbI4_15 folds
+** Summary **
+Paleto01 did not show his hand
+Paleto01 collected [ $805 ]
+
+
+
+#Game No : 642365700
+***** 888poker Hand History for Game 642365700 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 10:24:46
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $22,889 )
+Seat 2: abc73abc ( $13,430 )
+Seat 4: CaHbI4_15 ( $5,445 )
+Seat 6: Paleto01 ( $12,931 )
+Seat 7: PapaShango19 ( $4,560 )
+Seat 9: MarkClyde ( $8,635 )
+A.Kirillov posts ante [$40]
+abc73abc posts ante [$40]
+Paleto01 posts ante [$40]
+PapaShango19 posts ante [$40]
+MarkClyde posts ante [$40]
+CaHbI4_15 posts ante [$40]
+CaHbI4_15 posts small blind [$150]
+Paleto01 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2c ]
+PapaShango19 folds
+MarkClyde folds
+A.Kirillov folds
+abc73abc raises [$600]
+CaHbI4_15 raises [$5,255]
+Paleto01 folds
+abc73abc folds
+** Summary **
+CaHbI4_15 did not show his hand
+CaHbI4_15 collected [ $1,740 ]
+
+
+
+#Game No : 642365725
+***** 888poker Hand History for Game 642365725 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 10:25:02
+Tournament #63667944 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: A.Kirillov ( $22,849 )
+Seat 2: abc73abc ( $12,790 )
+Seat 4: CaHbI4_15 ( $6,545 )
+Seat 6: Paleto01 ( $12,591 )
+Seat 7: PapaShango19 ( $4,520 )
+Seat 9: MarkClyde ( $8,595 )
+A.Kirillov posts ante [$40]
+abc73abc posts ante [$40]
+Paleto01 posts ante [$40]
+PapaShango19 posts ante [$40]
+MarkClyde posts ante [$40]
+CaHbI4_15 posts ante [$40]
+Paleto01 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 6s ]
+MarkClyde folds
+A.Kirillov folds
+abc73abc folds
+CaHbI4_15 folds
+Paleto01 calls [$150]
+PapaShango19 raises [$600]
+Paleto01 calls [$600]
+** Dealing flop ** [ Td, 3c, Kh ]
+Paleto01 checks
+PapaShango19 bets [$900]
+Paleto01 raises [$1,800]
+PapaShango19 raises [$2,680]
+Paleto01 calls [$1,780]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ 2h ]
+** Summary **
+Paleto01 shows [ Kc, 7s ]
+PapaShango19 shows [ 6h, 6s ]
+Paleto01 collected [ $9,200 ]
+
+
+

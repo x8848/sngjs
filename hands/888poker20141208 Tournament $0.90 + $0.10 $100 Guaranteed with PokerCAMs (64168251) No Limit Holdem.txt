@@ -1,0 +1,147 @@
+#Game No : 650562397
+***** 888poker Hand History for Game 650562397 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 15:30:21
+Tournament #64168251 $0.90 + $0.10 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: DimHom ( $2,500 )
+Seat 2: QCdriftAE86 ( $2,500 )
+Seat 4: zuzteo82 ( $2,500 )
+Seat 6: jola1958 ( $2,500 )
+Seat 7: GUIDO1377 ( $2,500 )
+Seat 9: PapaShango19 ( $2,500 )
+zuzteo82 posts small blind [$10]
+jola1958 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ah ]
+GUIDO1377 folds
+PapaShango19 folds
+DimHom folds
+QCdriftAE86 calls [$20]
+zuzteo82 calls [$10]
+jola1958 checks
+** Dealing flop ** [ Tc, Js, 3d ]
+zuzteo82 checks
+jola1958 checks
+QCdriftAE86 bets [$45]
+zuzteo82 folds
+jola1958 folds
+** Summary **
+QCdriftAE86 did not show his hand
+QCdriftAE86 collected [ $60 ]
+
+
+
+#Game No : 650562556
+***** 888poker Hand History for Game 650562556 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 15:31:00
+Tournament #64168251 $0.90 + $0.10 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: DimHom ( $2,500 )
+Seat 2: QCdriftAE86 ( $2,540 )
+Seat 4: zuzteo82 ( $2,480 )
+Seat 6: jola1958 ( $2,480 )
+Seat 7: GUIDO1377 ( $2,500 )
+Seat 9: PapaShango19 ( $2,500 )
+jola1958 posts small blind [$10]
+GUIDO1377 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 9h ]
+PapaShango19 raises [$60]
+DimHom raises [$2,500]
+QCdriftAE86 folds
+zuzteo82 folds
+jola1958 folds
+GUIDO1377 folds
+PapaShango19 folds
+** Summary **
+DimHom did not show his hand
+DimHom collected [ $150 ]
+
+
+
+#Game No : 650562675
+***** 888poker Hand History for Game 650562675 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 15:31:33
+Tournament #64168251 $0.90 + $0.10 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: DimHom ( $2,590 )
+Seat 2: QCdriftAE86 ( $2,540 )
+Seat 4: zuzteo82 ( $2,480 )
+Seat 6: jola1958 ( $2,470 )
+Seat 7: GUIDO1377 ( $2,480 )
+Seat 9: PapaShango19 ( $2,440 )
+GUIDO1377 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 9h ]
+DimHom folds
+QCdriftAE86 folds
+zuzteo82 calls [$20]
+jola1958 folds
+GUIDO1377 calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ 9d, Kd, 6h ]
+GUIDO1377 checks
+PapaShango19 checks
+zuzteo82 checks
+** Dealing turn ** [ 6s ]
+GUIDO1377 checks
+PapaShango19 checks
+zuzteo82 checks
+** Dealing river ** [ 2d ]
+GUIDO1377 checks
+PapaShango19 checks
+zuzteo82 checks
+** Summary **
+GUIDO1377 shows [ Jh, 7h ]
+PapaShango19 shows [ Qh, 9h ]
+zuzteo82 mucks [ Th, 8s ]
+PapaShango19 collected [ $60 ]
+
+
+
+#Game No : 650562984
+***** 888poker Hand History for Game 650562984 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 15:33:14
+Tournament #64168251 $0.90 + $0.10 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: DimHom ( $2,590 )
+Seat 2: QCdriftAE86 ( $2,540 )
+Seat 4: zuzteo82 ( $2,460 )
+Seat 6: jola1958 ( $2,470 )
+Seat 7: GUIDO1377 ( $2,460 )
+Seat 9: PapaShango19 ( $2,480 )
+PapaShango19 posts small blind [$10]
+DimHom posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Ts ]
+QCdriftAE86 folds
+zuzteo82 calls [$20]
+jola1958 calls [$20]
+GUIDO1377 calls [$20]
+PapaShango19 calls [$10]
+DimHom checks
+** Dealing flop ** [ 9d, 8s, Js ]
+PapaShango19 bets [$55]
+DimHom calls [$55]
+zuzteo82 folds
+jola1958 folds
+GUIDO1377 folds
+** Dealing turn ** [ 5c ]
+PapaShango19 bets [$60]
+DimHom raises [$195]
+PapaShango19 raises [$330]
+DimHom raises [$2,320]
+PapaShango19 calls [$2,015]
+** Dealing river ** [ 8h ]
+** Summary **
+DimHom shows [ 5s, 8d ]
+PapaShango19 shows [ As, Ts ]
+DimHom collected [ $5,020 ]
+
+
+

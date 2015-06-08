@@ -1,0 +1,3178 @@
+#Game No : 639445006
+***** 888poker Hand History for Game 639445006 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:37:22
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $27.17 )
+Seat 2: Rangila36 ( $31.15 )
+Seat 4: kopfherbert ( $25.48 )
+Seat 7: Taly872 ( $53.86 )
+Sexpistols82 posts small blind [$0.12]
+Rangila36 posts big blind [$0.25]
+** Dealing down cards **
+kopfherbert folds
+Taly872 calls [$0.25]
+Sexpistols82 raises [$0.88]
+Rangila36 folds
+Taly872 calls [$0.75]
+** Dealing flop ** [ 6s, 6h, Qs ]
+Sexpistols82 bets [$1.25]
+Taly872 calls [$1.25]
+** Dealing turn ** [ Qh ]
+Sexpistols82 bets [$3.56]
+Taly872 folds
+** Summary **
+Sexpistols82 collected [ $4.52 ]
+
+
+
+#Game No : 639445204
+***** 888poker Hand History for Game 639445204 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:38:13
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $29.44 )
+Seat 2: Rangila36 ( $30.90 )
+Seat 4: kopfherbert ( $25.48 )
+Seat 7: Taly872 ( $51.61 )
+Seat 9: agibahi38 ( $15 )
+Rangila36 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Taly872 folds
+agibahi38 checks
+Sexpistols82 folds
+Rangila36 calls [$0.13]
+kopfherbert checks
+** Dealing flop ** [ 6s, 3c, Qs ]
+Rangila36 checks
+kopfherbert checks
+agibahi38 bets [$0.56]
+Rangila36 folds
+kopfherbert calls [$0.56]
+** Dealing turn ** [ Ts ]
+kopfherbert checks
+agibahi38 checks
+** Dealing river ** [ 8c ]
+kopfherbert bets [$0.93]
+agibahi38 calls [$0.93]
+** Summary **
+kopfherbert shows [ 9s, 2h, 7s, 3h ]
+agibahi38 mucks [ Qh, 7c, Jh, 3s ]
+kopfherbert collected [ $3.55 ]
+
+
+
+#Game No : 639445459
+***** 888poker Hand History for Game 639445459 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:39:11
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $29.44 )
+Seat 2: Rangila36 ( $30.65 )
+Seat 4: kopfherbert ( $27.29 )
+Seat 6: PapaShango19 ( $25 )
+Seat 7: Taly872 ( $51.61 )
+Seat 9: agibahi38 ( $15 )
+kopfherbert posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 4c, 2s, Qs ]
+Taly872 folds
+agibahi38 folds
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $0.37 ]
+
+
+
+#Game No : 639445606
+***** 888poker Hand History for Game 639445606 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:39:51
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $29.44 )
+Seat 2: Rangila36 ( $30.65 )
+Seat 4: kopfherbert ( $27.17 )
+Seat 6: PapaShango19 ( $25.12 )
+Seat 7: Taly872 ( $51.61 )
+Seat 9: agibahi38 ( $15 )
+PapaShango19 posts small blind [$0.12]
+Taly872 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9c, Kd, 6c ]
+agibahi38 folds
+Sexpistols82 raises [$0.87]
+Rangila36 calls [$0.87]
+kopfherbert folds
+PapaShango19 folds
+Taly872 calls [$0.62]
+** Dealing flop ** [ 3c, 4h, 5h ]
+Taly872 checks
+Sexpistols82 checks
+Rangila36 bets [$2.04]
+Taly872 folds
+Sexpistols82 folds
+** Summary **
+Rangila36 did not show his hand
+Rangila36 collected [ $2.60 ]
+
+
+
+#Game No : 639445893
+***** 888poker Hand History for Game 639445893 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:41:03
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $28.57 )
+Seat 2: Rangila36 ( $32.38 )
+Seat 4: kopfherbert ( $27.17 )
+Seat 6: PapaShango19 ( $25 )
+Seat 7: Taly872 ( $50.74 )
+Seat 9: agibahi38 ( $15 )
+Taly872 posts small blind [$0.12]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 7c, 5s, Ac ]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 calls [$0.25]
+Taly872 folds
+agibahi38 checks
+** Dealing flop ** [ Kh, Jd, 9d ]
+agibahi38 bets [$0.46]
+PapaShango19 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $0.59 ]
+
+
+
+#Game No : 639446030
+***** 888poker Hand History for Game 639446030 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:41:37
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $28.57 )
+Seat 2: Rangila36 ( $32.38 )
+Seat 4: kopfherbert ( $27.17 )
+Seat 6: PapaShango19 ( $24.75 )
+Seat 7: Taly872 ( $50.62 )
+Seat 9: agibahi38 ( $15.34 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Jd, Js, Tc ]
+Rangila36 folds
+kopfherbert folds
+PapaShango19 folds
+Taly872 calls [$0.25]
+agibahi38 raises [$0.88]
+Sexpistols82 folds
+Taly872 calls [$0.75]
+** Dealing flop ** [ 9d, Ah, 7s ]
+agibahi38 bets [$1.12]
+Taly872 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $2.14 ]
+
+
+
+#Game No : 639446310
+***** 888poker Hand History for Game 639446310 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:42:46
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $28.32 )
+Seat 2: Rangila36 ( $32.38 )
+Seat 4: kopfherbert ( $27.17 )
+Seat 6: PapaShango19 ( $24.75 )
+Seat 7: Taly872 ( $49.62 )
+Seat 9: agibahi38 ( $16.48 )
+Sexpistols82 posts small blind [$0.12]
+Rangila36 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 5s, 7s, 4h ]
+kopfherbert raises [$0.65]
+PapaShango19 calls [$0.65]
+Taly872 calls [$0.65]
+agibahi38 calls [$0.65]
+Sexpistols82 calls [$0.53]
+Rangila36 raises [$4.30]
+kopfherbert folds
+PapaShango19 calls [$3.90]
+Taly872 calls [$3.90]
+agibahi38 calls [$3.90]
+Sexpistols82 calls [$3.90]
+** Dealing flop ** [ Td, 4s, 3c ]
+Sexpistols82 checks
+Rangila36 checks
+PapaShango19 checks
+Taly872 checks
+agibahi38 checks
+** Dealing turn ** [ 2d ]
+Sexpistols82 checks
+Rangila36 checks
+PapaShango19 checks
+Taly872 checks
+agibahi38 checks
+** Dealing river ** [ 9s ]
+Sexpistols82 checks
+Rangila36 checks
+PapaShango19 checks
+Taly872 checks
+agibahi38 bets [$11.93]
+Sexpistols82 folds
+Rangila36 folds
+PapaShango19 folds
+Taly872 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $22.23 ]
+
+
+
+#Game No : 639446832
+***** 888poker Hand History for Game 639446832 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:44:55
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $27.83 )
+Seat 4: kopfherbert ( $26.52 )
+Seat 6: PapaShango19 ( $20.20 )
+Seat 7: Taly872 ( $45.07 )
+Seat 9: agibahi38 ( $34.16 )
+Rangila36 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Kc, 6c, Qd ]
+PapaShango19 folds
+Taly872 folds
+agibahi38 folds
+Sexpistols82 folds
+Rangila36 raises [$0.63]
+kopfherbert folds
+** Summary **
+Rangila36 did not show his hand
+Rangila36 collected [ $0.50 ]
+
+
+
+#Game No : 639446976
+***** 888poker Hand History for Game 639446976 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:45:31
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $28.08 )
+Seat 4: kopfherbert ( $26.27 )
+Seat 6: PapaShango19 ( $20.20 )
+Seat 7: Taly872 ( $45.07 )
+Seat 9: agibahi38 ( $34.16 )
+kopfherbert posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 4s, 5c, 5s ]
+Taly872 raises [$0.87]
+agibahi38 calls [$0.87]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 folds
+** Dealing flop ** [ 8h, Kc, 9d ]
+Taly872 bets [$1.58]
+agibahi38 calls [$1.58]
+** Dealing turn ** [ Qs ]
+Taly872 checks
+agibahi38 bets [$2.63]
+Taly872 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $5.01 ]
+
+
+
+#Game No : 639447143
+***** 888poker Hand History for Game 639447143 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:46:09
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $28.08 )
+Seat 4: kopfherbert ( $26.15 )
+Seat 6: PapaShango19 ( $19.95 )
+Seat 7: Taly872 ( $42.62 )
+Seat 9: agibahi38 ( $36.72 )
+PapaShango19 posts small blind [$0.12]
+Taly872 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, As, 3c, Jd ]
+agibahi38 raises [$0.65]
+Sexpistols82 folds
+Rangila36 calls [$0.65]
+kopfherbert folds
+PapaShango19 folds
+Taly872 folds
+** Dealing flop ** [ Jc, 9c, Qd ]
+agibahi38 bets [$1.25]
+Rangila36 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $1.59 ]
+
+
+
+#Game No : 639447256
+***** 888poker Hand History for Game 639447256 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:46:36
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $27.43 )
+Seat 4: kopfherbert ( $26.15 )
+Seat 6: PapaShango19 ( $19.83 )
+Seat 7: Taly872 ( $42.37 )
+Seat 9: agibahi38 ( $37.66 )
+Taly872 posts small blind [$0.12]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 8d, 2c, 2s ]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert raises [$0.65]
+PapaShango19 folds
+Taly872 calls [$0.53]
+agibahi38 calls [$0.40]
+** Dealing flop ** [ 6h, Jd, 6s ]
+Taly872 checks
+agibahi38 bets [$0.50]
+kopfherbert folds
+Taly872 calls [$0.50]
+** Dealing turn ** [ Tc ]
+Taly872 checks
+agibahi38 checks
+** Dealing river ** [ Ks ]
+Taly872 bets [$1.47]
+agibahi38 calls [$1.47]
+** Summary **
+Taly872 shows [ 6d, Ad, Td, 7c ]
+agibahi38 mucks [ Ac, 4s, Jc, Qh ]
+Taly872 collected [ $5.60 ]
+
+
+
+#Game No : 639447388
+***** 888poker Hand History for Game 639447388 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:47:11
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $27.43 )
+Seat 4: kopfherbert ( $25.50 )
+Seat 6: PapaShango19 ( $19.83 )
+Seat 7: Taly872 ( $45.35 )
+Seat 9: agibahi38 ( $35.04 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, As, 6h, 4h ]
+Rangila36 folds
+kopfherbert folds
+PapaShango19 calls [$0.25]
+Taly872 raises [$0.84]
+agibahi38 calls [$0.72]
+Sexpistols82 folds
+PapaShango19 calls [$0.59]
+** Dealing flop ** [ 2h, Kd, 2s ]
+agibahi38 checks
+PapaShango19 checks
+Taly872 checks
+** Dealing turn ** [ 9c ]
+agibahi38 checks
+PapaShango19 checks
+Taly872 checks
+** Dealing river ** [ Td ]
+agibahi38 bets [$1.38]
+PapaShango19 folds
+Taly872 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $2.64 ]
+
+
+
+#Game No : 639447683
+***** 888poker Hand History for Game 639447683 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:48:20
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $27.43 )
+Seat 4: kopfherbert ( $25.50 )
+Seat 6: PapaShango19 ( $18.99 )
+Seat 7: Taly872 ( $44.51 )
+Seat 9: agibahi38 ( $36.84 )
+Sexpistols82 posts small blind [$0.12]
+Rangila36 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 2s, 8s, Qh ]
+kopfherbert folds
+PapaShango19 folds
+Taly872 folds
+agibahi38 raises [$0.65]
+Sexpistols82 folds
+Rangila36 calls [$0.40]
+** Dealing flop ** [ 7h, 6s, 7c ]
+Rangila36 checks
+agibahi38 bets [$0.71]
+Rangila36 raises [$2.66]
+agibahi38 calls [$1.95]
+** Dealing turn ** [ 6d ]
+Rangila36 bets [$5.05]
+agibahi38 folds
+** Summary **
+Rangila36 did not show his hand
+Rangila36 collected [ $6.41 ]
+
+
+
+#Game No : 639447907
+***** 888poker Hand History for Game 639447907 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:49:16
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $30.53 )
+Seat 4: kopfherbert ( $25.50 )
+Seat 6: PapaShango19 ( $18.99 )
+Seat 7: Taly872 ( $44.51 )
+Seat 9: agibahi38 ( $33.53 )
+Rangila36 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 3d, 7h, Kc ]
+PapaShango19 folds
+Taly872 folds
+agibahi38 folds
+Sexpistols82 raises [$0.75]
+Rangila36 folds
+kopfherbert calls [$0.50]
+** Dealing flop ** [ 8c, 8d, 9h ]
+kopfherbert checks
+Sexpistols82 bets [$0.81]
+kopfherbert calls [$0.81]
+** Dealing turn ** [ Tc ]
+kopfherbert checks
+Sexpistols82 checks
+** Dealing river ** [ Qc ]
+kopfherbert bets [$1.62]
+Sexpistols82 raises [$6.07]
+kopfherbert calls [$4.45]
+** Summary **
+Sexpistols82 shows [ Ts, 9s, Qh, 7s ]
+kopfherbert shows [ Jc, 8h, Td, Jd ]
+kopfherbert collected [ $14.62 ]
+
+
+
+#Game No : 639448297
+***** 888poker Hand History for Game 639448297 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:50:52
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $30.41 )
+Seat 4: kopfherbert ( $32.49 )
+Seat 6: PapaShango19 ( $18.99 )
+Seat 7: Taly872 ( $44.51 )
+Seat 9: agibahi38 ( $33.53 )
+kopfherbert posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 3d, Kh, Qd ]
+Taly872 folds
+agibahi38 raises [$0.65]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 calls [$0.40]
+** Dealing flop ** [ 9d, 2d, 5d ]
+PapaShango19 checks
+agibahi38 bets [$0.71]
+PapaShango19 calls [$0.71]
+** Dealing turn ** [ 6h ]
+PapaShango19 checks
+agibahi38 bets [$1.42]
+PapaShango19 calls [$1.42]
+** Dealing river ** [ 7h ]
+PapaShango19 checks
+agibahi38 checks
+** Summary **
+PapaShango19 shows [ Jc, 3d, Kh, Qd ]
+agibahi38 mucks [ 9c, 9s, 8h, 8c ]
+PapaShango19 collected [ $5.40 ]
+
+
+
+#Game No : 639448469
+***** 888poker Hand History for Game 639448469 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:51:34
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $30.41 )
+Seat 4: kopfherbert ( $32.37 )
+Seat 6: PapaShango19 ( $21.61 )
+Seat 7: Taly872 ( $44.51 )
+Seat 9: agibahi38 ( $30.75 )
+PapaShango19 posts small blind [$0.12]
+Taly872 folds
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 3d, 8h, Kh ]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 calls [$0.13]
+agibahi38 raises [$0.50]
+PapaShango19 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $0.50 ]
+
+
+
+#Game No : 639448566
+***** 888poker Hand History for Game 639448566 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:51:56
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $30.41 )
+Seat 4: kopfherbert ( $32.37 )
+Seat 6: PapaShango19 ( $21.36 )
+Seat 9: agibahi38 ( $31 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Kc, 2d, Td ]
+Rangila36 folds
+kopfherbert raises [$0.87]
+PapaShango19 folds
+agibahi38 folds
+Sexpistols82 folds
+** Summary **
+kopfherbert collected [ $0.62 ]
+
+
+
+#Game No : 639448661
+***** 888poker Hand History for Game 639448661 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:52:19
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: Rangila36 ( $30.41 )
+Seat 4: kopfherbert ( $32.74 )
+Seat 6: PapaShango19 ( $21.36 )
+Seat 7: Albireo ( $25 )
+Seat 9: agibahi38 ( $30.88 )
+Sexpistols82 posts small blind [$0.12]
+Rangila36 posts big blind [$0.25]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 2s, Qh, 4c ]
+kopfherbert folds
+PapaShango19 folds
+Albireo checks
+agibahi38 calls [$0.25]
+Sexpistols82 raises [$1.13]
+Rangila36 folds
+Albireo folds
+agibahi38 calls [$1]
+** Dealing flop ** [ 6d, 5c, 8s ]
+Sexpistols82 checks
+agibahi38 checks
+** Dealing turn ** [ Qd ]
+Sexpistols82 checks
+agibahi38 checks
+** Dealing river ** [ 6c ]
+Sexpistols82 bets [$1.50]
+agibahi38 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $2.85 ]
+
+
+
+#Game No : 639448864
+***** 888poker Hand History for Game 639448864 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:53:13
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.60 )
+Seat 2: Rangila36 ( $30.16 )
+Seat 4: kopfherbert ( $32.74 )
+Seat 6: PapaShango19 ( $21.36 )
+Seat 7: Albireo ( $24.75 )
+Seat 9: agibahi38 ( $29.63 )
+Rangila36 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 2s, 5h, Th ]
+PapaShango19 folds
+Albireo folds
+agibahi38 raises [$0.50]
+Sexpistols82 folds
+Rangila36 raises [$1.63]
+kopfherbert folds
+agibahi38 calls [$1.25]
+** Dealing flop ** [ 8c, 8h, 2h ]
+Rangila36 bets [$2.81]
+agibahi38 calls [$2.81]
+** Dealing turn ** [ 9c ]
+Rangila36 checks
+agibahi38 checks
+** Dealing river ** [ 4d ]
+Rangila36 checks
+agibahi38 checks
+** Summary **
+Rangila36 shows [ Ts, Ah, 6c, Ad ]
+agibahi38 mucks [ 9d, Qc, 2c, Ac ]
+Rangila36 collected [ $8.91 ]
+
+
+
+#Game No : 639449055
+***** 888poker Hand History for Game 639449055 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:54:00
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.60 )
+Seat 2: Rangila36 ( $34.51 )
+Seat 4: kopfherbert ( $32.49 )
+Seat 6: PapaShango19 ( $21.36 )
+Seat 7: Albireo ( $24.75 )
+Seat 9: agibahi38 ( $25.07 )
+kopfherbert posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Qc, 9d, 4s ]
+Albireo calls [$0.25]
+agibahi38 raises [$1.12]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 folds
+Albireo calls [$0.87]
+** Dealing flop ** [ Js, 2h, 6d ]
+Albireo checks
+agibahi38 bets [$1.30]
+Albireo folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $2.48 ]
+
+
+
+#Game No : 639449215
+***** 888poker Hand History for Game 639449215 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:54:43
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.60 )
+Seat 2: Rangila36 ( $34.51 )
+Seat 4: kopfherbert ( $32.37 )
+Seat 6: PapaShango19 ( $21.11 )
+Seat 7: Albireo ( $23.63 )
+Seat 9: agibahi38 ( $26.43 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Jh, 4s, 4c ]
+agibahi38 folds
+Sexpistols82 folds
+Rangila36 raises [$0.87]
+kopfherbert calls [$0.87]
+PapaShango19 folds
+Albireo calls [$0.62]
+** Dealing flop ** [ Kd, 3d, 5d ]
+Albireo checks
+Rangila36 bets [$2.04]
+kopfherbert folds
+Albireo folds
+** Summary **
+Rangila36 did not show his hand
+Rangila36 collected [ $2.60 ]
+
+
+
+#Game No : 639449378
+***** 888poker Hand History for Game 639449378 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:55:25
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.60 )
+Seat 2: Rangila36 ( $36.24 )
+Seat 4: kopfherbert ( $31.50 )
+Seat 6: PapaShango19 ( $20.99 )
+Seat 7: Albireo ( $22.76 )
+Seat 9: agibahi38 ( $26.43 )
+Albireo posts small blind [$0.12]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 8d, 5c, Js ]
+Sexpistols82 folds
+Rangila36 raises [$0.87]
+kopfherbert folds
+PapaShango19 folds
+Albireo calls [$0.75]
+agibahi38 folds
+** Dealing flop ** [ 4c, 2d, Kh ]
+Albireo checks
+Rangila36 bets [$1.49]
+Albireo raises [$2.98]
+Rangila36 folds
+** Summary **
+Albireo did not show his hand
+Albireo collected [ $4.73 ]
+
+
+
+#Game No : 639449545
+***** 888poker Hand History for Game 639449545 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:56:05
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.60 )
+Seat 2: Rangila36 ( $33.88 )
+Seat 4: kopfherbert ( $31.50 )
+Seat 6: PapaShango19 ( $20.99 )
+Seat 7: Albireo ( $25.13 )
+Seat 9: agibahi38 ( $26.18 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Jd, 3s, 6s ]
+Rangila36 raises [$0.87]
+kopfherbert folds
+PapaShango19 folds
+Albireo folds
+agibahi38 folds
+Sexpistols82 folds
+** Summary **
+Rangila36 did not show his hand
+Rangila36 collected [ $0.62 ]
+
+
+
+#Game No : 639449652
+***** 888poker Hand History for Game 639449652 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:56:34
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.35 )
+Seat 2: Rangila36 ( $34.25 )
+Seat 4: kopfherbert ( $31.50 )
+Seat 6: PapaShango19 ( $20.99 )
+Seat 7: Albireo ( $25.13 )
+Seat 9: agibahi38 ( $26.06 )
+Sexpistols82 posts small blind [$0.12]
+Rangila36 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 5s, 4c, 5c ]
+kopfherbert folds
+PapaShango19 folds
+Albireo folds
+agibahi38 raises [$0.50]
+Sexpistols82 folds
+Rangila36 raises [$1.37]
+agibahi38 calls [$1.12]
+** Dealing flop ** [ 3s, Ah, Qc ]
+Rangila36 bets [$2.52]
+agibahi38 folds
+** Summary **
+Rangila36 did not show his hand
+Rangila36 collected [ $3.20 ]
+
+
+
+#Game No : 639449803
+***** 888poker Hand History for Game 639449803 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:57:14
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.23 )
+Seat 2: Rangila36 ( $35.83 )
+Seat 4: kopfherbert ( $31.50 )
+Seat 6: PapaShango19 ( $20.99 )
+Seat 7: Albireo ( $25.13 )
+Seat 9: agibahi38 ( $24.44 )
+Rangila36 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Ts, Jh, 6h ]
+PapaShango19 folds
+Albireo folds
+agibahi38 raises [$0.50]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $0.62 ]
+
+
+
+#Game No : 639449870
+***** 888poker Hand History for Game 639449870 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:57:32
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.23 )
+Seat 2: Rangila36 ( $35.71 )
+Seat 4: kopfherbert ( $31.25 )
+Seat 6: PapaShango19 ( $20.99 )
+Seat 7: Albireo ( $25.13 )
+Seat 9: agibahi38 ( $24.81 )
+kopfherbert posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 9s, 4d, 4h ]
+Albireo folds
+agibahi38 raises [$0.65]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $0.62 ]
+
+
+
+#Game No : 639449945
+***** 888poker Hand History for Game 639449945 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:57:52
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.23 )
+Seat 2: Rangila36 ( $35.71 )
+Seat 4: kopfherbert ( $31.13 )
+Seat 6: PapaShango19 ( $20.74 )
+Seat 7: Albireo ( $25.13 )
+Seat 9: agibahi38 ( $25.18 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 4d, Td, 5s ]
+agibahi38 folds
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 folds
+** Summary **
+Albireo did not show his hand
+Albireo collected [ $0.37 ]
+
+
+
+#Game No : 639450118
+***** 888poker Hand History for Game 639450118 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:58:39
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.23 )
+Seat 2: Rangila36 ( $35.71 )
+Seat 4: kopfherbert ( $31.13 )
+Seat 6: PapaShango19 ( $20.62 )
+Seat 7: Albireo ( $25.25 )
+Seat 9: agibahi38 ( $25.18 )
+Albireo posts small blind [$0.12]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 4d, 5h, Qs ]
+Sexpistols82 folds
+Rangila36 folds
+kopfherbert folds
+PapaShango19 calls [$0.25]
+Albireo calls [$0.13]
+agibahi38 checks
+** Dealing flop ** [ 9h, Kh, 3s ]
+Albireo checks
+agibahi38 checks
+PapaShango19 checks
+** Dealing turn ** [ 9s ]
+Albireo checks
+agibahi38 checks
+PapaShango19 checks
+** Dealing river ** [ 6s ]
+Albireo checks
+agibahi38 checks
+PapaShango19 checks
+** Summary **
+Albireo shows [ As, Td, Ts, 2d ]
+agibahi38 mucks [ 3h, 4c, Tc, Th ]
+PapaShango19 mucks [ Qh, 4d, 5h, Qs ]
+Albireo collected [ $0.72 ]
+
+
+
+#Game No : 639450333
+***** 888poker Hand History for Game 639450333 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 03:59:38
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $26.23 )
+Seat 2: Rangila36 ( $35.71 )
+Seat 4: kopfherbert ( $31.13 )
+Seat 6: PapaShango19 ( $20.37 )
+Seat 7: Albireo ( $25.72 )
+Seat 9: agibahi38 ( $24.93 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 3c, 6s, 8h ]
+Rangila36 folds
+kopfherbert folds
+PapaShango19 folds
+Albireo folds
+agibahi38 calls [$0.13]
+Sexpistols82 checks
+** Dealing flop ** [ 9c, 2h, As ]
+agibahi38 bets [$0.37]
+Sexpistols82 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $0.48 ]
+
+
+
+#Game No : 639450527
+***** 888poker Hand History for Game 639450527 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:00:29
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $25.98 )
+Seat 4: kopfherbert ( $31.13 )
+Seat 6: PapaShango19 ( $20.37 )
+Seat 7: Albireo ( $25.72 )
+Seat 9: agibahi38 ( $25.16 )
+Sexpistols82 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Jh, 6s, Tc ]
+PapaShango19 calls [$0.25]
+Albireo folds
+agibahi38 raises [$1.12]
+Sexpistols82 folds
+kopfherbert calls [$0.87]
+PapaShango19 calls [$0.87]
+** Dealing flop ** [ 5h, 6d, 4s ]
+kopfherbert checks
+PapaShango19 checks
+agibahi38 bets [$1.74]
+kopfherbert folds
+PapaShango19 folds
+** Summary **
+agibahi38 collected [ $3.31 ]
+
+
+
+#Game No : 639450758
+***** 888poker Hand History for Game 639450758 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:01:32
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $25.86 )
+Seat 4: kopfherbert ( $30.01 )
+Seat 6: PapaShango19 ( $19.25 )
+Seat 7: Albireo ( $25.72 )
+Seat 9: agibahi38 ( $27.35 )
+kopfherbert posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Jc, 5d, Kc ]
+Albireo folds
+agibahi38 folds
+Sexpistols82 raises [$0.75]
+kopfherbert folds
+PapaShango19 calls [$0.50]
+** Dealing flop ** [ 8s, 6h, Qc ]
+PapaShango19 checks
+Sexpistols82 checks
+** Dealing turn ** [ 7c ]
+PapaShango19 bets [$0.50]
+Sexpistols82 calls [$0.50]
+** Dealing river ** [ Js ]
+PapaShango19 checks
+Sexpistols82 checks
+** Summary **
+PapaShango19 shows [ 4d, Jc, 5d, Kc ]
+Sexpistols82 mucks [ Th, 8h, Kd, Jd ]
+PapaShango19 collected [ $2.49 ]
+
+
+
+#Game No : 639450943
+***** 888poker Hand History for Game 639450943 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:02:24
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: elvenking010 ( $15 )
+Seat 4: kopfherbert ( $29.89 )
+Seat 6: PapaShango19 ( $20.49 )
+Seat 7: Albireo ( $25.72 )
+Seat 9: agibahi38 ( $27.35 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+elvenking010 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Ac, Jd, 3d ]
+agibahi38 folds
+Sexpistols82 raises [$1.12]
+elvenking010 calls [$0.87]
+kopfherbert calls [$1.12]
+PapaShango19 calls [$1]
+Albireo calls [$0.87]
+** Dealing flop ** [ Ks, 4d, 9c ]
+PapaShango19 checks
+Albireo checks
+Sexpistols82 checks
+elvenking010 bets [$2.80]
+kopfherbert folds
+PapaShango19 folds
+Albireo folds
+Sexpistols82 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $5.32 ]
+
+
+
+#Game No : 639451220
+***** 888poker Hand History for Game 639451220 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:03:40
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: elvenking010 ( $19.20 )
+Seat 4: kopfherbert ( $28.77 )
+Seat 6: PapaShango19 ( $19.37 )
+Seat 7: Albireo ( $24.60 )
+Seat 9: agibahi38 ( $27.35 )
+Albireo posts small blind [$0.12]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 7s, Js, 3d ]
+Sexpistols82 folds
+elvenking010 calls [$0.25]
+kopfherbert folds
+PapaShango19 folds
+Albireo calls [$0.13]
+agibahi38 checks
+** Dealing flop ** [ Ad, Jc, Kc ]
+Albireo checks
+agibahi38 checks
+elvenking010 bets [$0.75]
+Albireo folds
+agibahi38 calls [$0.75]
+** Dealing turn ** [ Ac ]
+agibahi38 checks
+elvenking010 bets [$2.25]
+agibahi38 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $2.14 ]
+
+
+
+#Game No : 639451427
+***** 888poker Hand History for Game 639451427 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:04:33
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: elvenking010 ( $20.34 )
+Seat 4: kopfherbert ( $28.77 )
+Seat 6: PapaShango19 ( $19.37 )
+Seat 7: Albireo ( $24.35 )
+Seat 9: agibahi38 ( $26.35 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 5c, 4d, Ts ]
+elvenking010 calls [$0.25]
+kopfherbert folds
+PapaShango19 calls [$0.25]
+Albireo calls [$0.25]
+agibahi38 raises [$1.03]
+Sexpistols82 folds
+elvenking010 calls [$0.90]
+PapaShango19 calls [$0.90]
+Albireo folds
+** Dealing flop ** [ 8c, 4s, 9s ]
+agibahi38 bets [$1.97]
+elvenking010 calls [$1.97]
+PapaShango19 folds
+** Dealing turn ** [ 2s ]
+agibahi38 checks
+elvenking010 checks
+** Dealing river ** [ 7c ]
+agibahi38 bets [$3.94]
+elvenking010 calls [$3.94]
+** Summary **
+agibahi38 shows [ Tc, 9c, 6h, 6d ]
+elvenking010 shows [ Jc, 7s, 3s, 5d ]
+elvenking010 collected [ $14.99 ]
+
+
+
+#Game No : 639451695
+***** 888poker Hand History for Game 639451695 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:05:45
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $25 )
+Seat 2: elvenking010 ( $28.27 )
+Seat 4: kopfherbert ( $28.77 )
+Seat 6: PapaShango19 ( $18.22 )
+Seat 7: Albireo ( $24.10 )
+Seat 9: agibahi38 ( $19.29 )
+Sexpistols82 posts small blind [$0.12]
+elvenking010 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Th, 6s, 3d ]
+kopfherbert folds
+PapaShango19 folds
+Albireo raises [$0.87]
+agibahi38 raises [$2.98]
+Sexpistols82 raises [$9.94]
+elvenking010 folds
+Albireo folds
+agibahi38 calls [$7.08]
+** Dealing flop ** [ 9d, 4d, 2s ]
+Sexpistols82 bets [$14.94]
+agibahi38 calls [$9.23]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Ah ]
+** Summary **
+Sexpistols82 shows [ 9c, 8c, Ac, Ad ]
+agibahi38 shows [ 3c, 5d, 4h, Qc ]
+Sexpistols82 collected [ $37.72 ]
+
+
+
+#Game No : 639451924
+***** 888poker Hand History for Game 639451924 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:06:47
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $43.43 )
+Seat 2: elvenking010 ( $28.02 )
+Seat 4: kopfherbert ( $28.77 )
+Seat 6: PapaShango19 ( $18.22 )
+Seat 7: Albireo ( $23.23 )
+Seat 9: agibahi38 ( $15 )
+elvenking010 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Js, Qs, Kc ]
+PapaShango19 calls [$0.25]
+Albireo folds
+agibahi38 raises [$1.12]
+Sexpistols82 folds
+elvenking010 calls [$1]
+kopfherbert folds
+PapaShango19 calls [$0.87]
+** Dealing flop ** [ 8h, Jh, 9c ]
+elvenking010 bets [$1.80]
+PapaShango19 folds
+agibahi38 raises [$3.60]
+elvenking010 raises [$12.61]
+agibahi38 calls [$10.28]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ Qh ]
+** Summary **
+elvenking010 shows [ 9d, 4d, 9h, 2h ]
+agibahi38 shows [ Qd, 2s, Ts, Ks ]
+elvenking010 collected [ $29.81 ]
+
+
+
+#Game No : 639452099
+***** 888poker Hand History for Game 639452099 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:07:33
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $43.43 )
+Seat 2: elvenking010 ( $42.83 )
+Seat 4: kopfherbert ( $28.52 )
+Seat 6: PapaShango19 ( $17.10 )
+Seat 7: Albireo ( $23.23 )
+Seat 9: agibahi38 ( $15 )
+kopfherbert posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Tc, 3s, Ah ]
+Albireo folds
+agibahi38 raises [$0.87]
+Sexpistols82 folds
+elvenking010 folds
+kopfherbert folds
+PapaShango19 calls [$0.62]
+** Dealing flop ** [ 5d, 6h, 3h ]
+PapaShango19 checks
+agibahi38 checks
+** Dealing turn ** [ 5s ]
+PapaShango19 checks
+agibahi38 checks
+** Dealing river ** [ 6c ]
+PapaShango19 checks
+agibahi38 checks
+** Summary **
+PapaShango19 shows [ Qd, Tc, 3s, Ah ]
+agibahi38 shows [ 4c, 9s, 4s, Js ]
+agibahi38 collected [ $1.77 ]
+
+
+
+#Game No : 639452278
+***** 888poker Hand History for Game 639452278 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:08:23
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $43.43 )
+Seat 2: elvenking010 ( $42.83 )
+Seat 4: kopfherbert ( $28.40 )
+Seat 6: PapaShango19 ( $16.23 )
+Seat 7: Albireo ( $23.23 )
+Seat 9: agibahi38 ( $15.90 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Qh, 2s, Ah ]
+agibahi38 calls [$0.25]
+Sexpistols82 folds
+elvenking010 folds
+kopfherbert folds
+PapaShango19 calls [$0.13]
+Albireo checks
+** Dealing flop ** [ Kc, 7h, Tc ]
+PapaShango19 checks
+Albireo checks
+agibahi38 bets [$0.56]
+PapaShango19 folds
+Albireo folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $0.72 ]
+
+
+
+#Game No : 639452525
+***** 888poker Hand History for Game 639452525 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:09:22
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $43.43 )
+Seat 2: elvenking010 ( $42.83 )
+Seat 4: kopfherbert ( $28.40 )
+Seat 6: PapaShango19 ( $15.98 )
+Seat 7: Albireo ( $22.98 )
+Seat 9: agibahi38 ( $16.37 )
+Albireo posts small blind [$0.12]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Ac, 4c, 6s ]
+Sexpistols82 folds
+elvenking010 raises [$0.87]
+kopfherbert folds
+PapaShango19 folds
+Albireo folds
+agibahi38 calls [$0.62]
+** Dealing flop ** [ 2s, 7h, Qd ]
+agibahi38 checks
+elvenking010 bets [$1.86]
+agibahi38 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $1.77 ]
+
+
+
+#Game No : 639452682
+***** 888poker Hand History for Game 639452682 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:10:05
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $43.43 )
+Seat 2: elvenking010 ( $43.73 )
+Seat 4: kopfherbert ( $28.40 )
+Seat 6: PapaShango19 ( $15.98 )
+Seat 7: Albireo ( $22.86 )
+Seat 9: agibahi38 ( $15.50 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 6c, Td, 9c ]
+elvenking010 folds
+kopfherbert folds
+PapaShango19 folds
+Albireo calls [$0.25]
+agibahi38 raises [$0.88]
+Sexpistols82 folds
+Albireo folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $0.75 ]
+
+
+
+#Game No : 639452802
+***** 888poker Hand History for Game 639452802 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:10:40
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $43.18 )
+Seat 2: elvenking010 ( $43.73 )
+Seat 4: kopfherbert ( $28.40 )
+Seat 6: PapaShango19 ( $15.98 )
+Seat 7: Albireo ( $22.61 )
+Seat 9: agibahi38 ( $16 )
+Sexpistols82 posts small blind [$0.12]
+elvenking010 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6d, Ad, Js ]
+kopfherbert raises [$0.65]
+PapaShango19 folds
+Albireo folds
+agibahi38 raises [$1.05]
+Sexpistols82 folds
+elvenking010 calls [$0.80]
+kopfherbert calls [$0.40]
+** Dealing flop ** [ 8s, 2s, As ]
+elvenking010 checks
+kopfherbert checks
+agibahi38 checks
+** Dealing turn ** [ 5d ]
+elvenking010 checks
+kopfherbert checks
+agibahi38 checks
+** Dealing river ** [ Jd ]
+elvenking010 checks
+kopfherbert checks
+agibahi38 checks
+** Summary **
+elvenking010 shows [ 8d, 9d, 7s, Qh ]
+kopfherbert mucks [ 7h, 7c, 9h, 6c ]
+agibahi38 shows [ 5s, Kd, Kc, 3c ]
+agibahi38 collected [ $3.11 ]
+
+
+
+#Game No : 639453073
+***** 888poker Hand History for Game 639453073 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:11:55
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $43.06 )
+Seat 2: elvenking010 ( $42.68 )
+Seat 4: kopfherbert ( $27.35 )
+Seat 6: PapaShango19 ( $15.98 )
+Seat 7: Albireo ( $22.61 )
+Seat 9: agibahi38 ( $18.06 )
+elvenking010 posts small blind [$0.12]
+kopfherbert posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7d, 2d, Kd ]
+PapaShango19 folds
+Albireo folds
+agibahi38 raises [$0.50]
+Sexpistols82 folds
+elvenking010 calls [$0.38]
+kopfherbert folds
+** Dealing flop ** [ 8c, Ad, 6s ]
+elvenking010 checks
+agibahi38 bets [$0.62]
+elvenking010 folds
+** Summary **
+agibahi38 did not show his hand
+agibahi38 collected [ $1.19 ]
+
+
+
+#Game No : 639453303
+***** 888poker Hand History for Game 639453303 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:12:59
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $43.06 )
+Seat 2: elvenking010 ( $42.18 )
+Seat 6: PapaShango19 ( $15.98 )
+Seat 7: Albireo ( $22.61 )
+Seat 9: agibahi38 ( $18.75 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Kc, 2c, 2h ]
+agibahi38 raises [$0.50]
+Sexpistols82 folds
+elvenking010 calls [$0.50]
+PapaShango19 folds
+Albireo calls [$0.25]
+** Dealing flop ** [ 7c, Tc, 7s ]
+Albireo checks
+agibahi38 checks
+elvenking010 checks
+** Dealing turn ** [ 5d ]
+Albireo checks
+agibahi38 checks
+elvenking010 checks
+** Dealing river ** [ Kh ]
+Albireo checks
+agibahi38 checks
+elvenking010 checks
+** Summary **
+Albireo shows [ 6d, Ts, 8h, Jd ]
+agibahi38 shows [ Jh, Jc, 4h, As ]
+elvenking010 mucks [ 3d, Qd, Js, 3h ]
+agibahi38 collected [ $1.54 ]
+
+
+
+#Game No : 639453452
+***** 888poker Hand History for Game 639453452 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:13:39
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $43.06 )
+Seat 2: elvenking010 ( $41.68 )
+Seat 6: PapaShango19 ( $15.86 )
+Seat 7: Albireo ( $22.11 )
+Seat 9: agibahi38 ( $19.79 )
+Albireo posts small blind [$0.12]
+agibahi38 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 3h, 6c, Js ]
+Sexpistols82 folds
+elvenking010 raises [$0.87]
+PapaShango19 folds
+Albireo folds
+agibahi38 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $0.62 ]
+
+
+
+#Game No : 639453505
+***** 888poker Hand History for Game 639453505 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:13:55
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $43.06 )
+Seat 2: elvenking010 ( $42.05 )
+Seat 6: PapaShango19 ( $15.86 )
+Seat 7: Albireo ( $21.99 )
+Seat 9: agibahi38 ( $19.54 )
+agibahi38 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Jc, 6c, Ks ]
+elvenking010 folds
+PapaShango19 folds
+Albireo folds
+agibahi38 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $0.37 ]
+
+
+
+#Game No : 639453561
+***** 888poker Hand History for Game 639453561 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:14:09
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $43.18 )
+Seat 2: elvenking010 ( $42.05 )
+Seat 6: PapaShango19 ( $15.86 )
+Seat 7: Albireo ( $21.99 )
+Seat 9: agibahi38 ( $19.42 )
+Sexpistols82 posts small blind [$0.12]
+elvenking010 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 2h, Jd, Js ]
+PapaShango19 calls [$0.25]
+Albireo calls [$0.25]
+agibahi38 raises [$1.02]
+Sexpistols82 raises [$3.63]
+elvenking010 calls [$3.50]
+PapaShango19 folds
+Albireo folds
+agibahi38 calls [$2.73]
+** Dealing flop ** [ 3s, Jh, 7h ]
+Sexpistols82 checks
+elvenking010 checks
+agibahi38 checks
+** Dealing turn ** [ 9c ]
+Sexpistols82 bets [$11.75]
+elvenking010 folds
+agibahi38 raises [$15.67]
+Sexpistols82 calls [$3.92]
+** Dealing river ** [ 5s ]
+** Summary **
+Sexpistols82 shows [ 8c, Tc, 8s, Ts ]
+agibahi38 shows [ Td, Th, Qh, 5h ]
+Sexpistols82 collected [ $40.94 ]
+
+
+
+#Game No : 639453791
+***** 888poker Hand History for Game 639453791 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:15:13
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $64.70 )
+Seat 2: elvenking010 ( $38.30 )
+Seat 6: PapaShango19 ( $15.61 )
+Seat 7: Albireo ( $21.74 )
+elvenking010 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 6c, 9d, Ah ]
+Albireo folds
+Sexpistols82 folds
+elvenking010 calls [$0.13]
+PapaShango19 checks
+** Dealing flop ** [ 3d, 4h, 3s ]
+elvenking010 bets [$0.50]
+PapaShango19 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $0.48 ]
+
+
+
+#Game No : 639453906
+***** 888poker Hand History for Game 639453906 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:15:45
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $64.70 )
+Seat 2: elvenking010 ( $38.53 )
+Seat 6: PapaShango19 ( $15.36 )
+Seat 7: Albireo ( $21.74 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 8s, 3s, Kc ]
+Sexpistols82 folds
+elvenking010 calls [$0.25]
+PapaShango19 calls [$0.13]
+Albireo checks
+** Dealing flop ** [ Qs, Js, 5d ]
+PapaShango19 checks
+Albireo checks
+elvenking010 bets [$0.75]
+PapaShango19 folds
+Albireo folds
+** Summary **
+elvenking010 collected [ $0.72 ]
+
+
+
+#Game No : 639454057
+***** 888poker Hand History for Game 639454057 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:16:25
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $64.70 )
+Seat 2: elvenking010 ( $39 )
+Seat 6: PapaShango19 ( $15.11 )
+Seat 7: Albireo ( $21.49 )
+Seat 9: pudek357 ( $25 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 6s, Tc, Kc ]
+Sexpistols82 folds
+elvenking010 raises [$0.87]
+PapaShango19 calls [$0.87]
+Albireo folds
+pudek357 folds
+** Dealing flop ** [ 4d, Ah, 6d ]
+elvenking010 bets [$2.11]
+PapaShango19 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $2.01 ]
+
+
+
+#Game No : 639454172
+***** 888poker Hand History for Game 639454172 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:16:57
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $64.70 )
+Seat 2: elvenking010 ( $40.14 )
+Seat 6: PapaShango19 ( $14.24 )
+Seat 7: Albireo ( $21.37 )
+Seat 9: pudek357 ( $25 )
+pudek357 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Js, 8c, 8h ]
+elvenking010 raises [$0.50]
+PapaShango19 folds
+Albireo folds
+pudek357 calls [$0.38]
+Sexpistols82 folds
+** Dealing flop ** [ Qc, Jh, 5h ]
+pudek357 checks
+elvenking010 checks
+** Dealing turn ** [ Kh ]
+pudek357 bets [$0.62]
+elvenking010 folds
+** Summary **
+pudek357 did not show his hand
+pudek357 collected [ $1.19 ]
+
+
+
+#Game No : 639454313
+***** 888poker Hand History for Game 639454313 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:17:37
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $64.45 )
+Seat 2: elvenking010 ( $39.64 )
+Seat 6: PapaShango19 ( $14.24 )
+Seat 7: Albireo ( $21.37 )
+Seat 9: pudek357 ( $25.69 )
+Sexpistols82 posts small blind [$0.12]
+elvenking010 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ts, 9h, 3d ]
+PapaShango19 folds
+Albireo folds
+pudek357 raises [$0.87]
+Sexpistols82 folds
+elvenking010 calls [$0.62]
+** Dealing flop ** [ As, Td, 4s ]
+elvenking010 checks
+pudek357 bets [$1.39]
+elvenking010 folds
+** Summary **
+pudek357 did not show his hand
+pudek357 collected [ $1.77 ]
+
+
+
+#Game No : 639454427
+***** 888poker Hand History for Game 639454427 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:18:08
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $64.33 )
+Seat 2: elvenking010 ( $38.77 )
+Seat 6: PapaShango19 ( $14.24 )
+Seat 7: Albireo ( $21.37 )
+Seat 9: pudek357 ( $26.59 )
+elvenking010 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9h, As, 6s ]
+Albireo folds
+pudek357 folds
+Sexpistols82 folds
+elvenking010 raises [$0.63]
+PapaShango19 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $0.50 ]
+
+
+
+#Game No : 639454506
+***** 888poker Hand History for Game 639454506 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:18:32
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $64.33 )
+Seat 2: elvenking010 ( $39.02 )
+Seat 6: PapaShango19 ( $13.99 )
+Seat 7: Albireo ( $21.37 )
+Seat 9: pudek357 ( $26.59 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Js, 5s, Ah ]
+pudek357 folds
+Sexpistols82 folds
+elvenking010 raises [$0.87]
+PapaShango19 calls [$0.75]
+Albireo folds
+** Dealing flop ** [ 7d, 8c, Td ]
+PapaShango19 checks
+elvenking010 bets [$1.99]
+PapaShango19 folds
+** Summary **
+elvenking010 did not show his hand
+elvenking010 collected [ $1.90 ]
+
+
+
+#Game No : 639454627
+***** 888poker Hand History for Game 639454627 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:19:06
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $64.33 )
+Seat 2: elvenking010 ( $40.05 )
+Seat 6: PapaShango19 ( $13.12 )
+Seat 7: Albireo ( $21.12 )
+Seat 9: pudek357 ( $26.59 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Qc, 2s, 3h ]
+Sexpistols82 folds
+elvenking010 folds
+PapaShango19 folds
+Albireo calls [$0.13]
+pudek357 checks
+** Dealing flop ** [ 7c, Tc, 8h ]
+Albireo checks
+pudek357 checks
+** Dealing turn ** [ Ad ]
+Albireo bets [$0.50]
+pudek357 folds
+** Summary **
+Albireo did not show his hand
+Albireo collected [ $0.48 ]
+
+
+
+#Game No : 639454881
+***** 888poker Hand History for Game 639454881 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:20:15
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $64.33 )
+Seat 6: PapaShango19 ( $13.12 )
+Seat 7: Albireo ( $21.35 )
+Seat 9: pudek357 ( $26.34 )
+pudek357 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 8h, 3s, Ac ]
+PapaShango19 folds
+Albireo folds
+pudek357 raises [$0.63]
+Sexpistols82 calls [$0.50]
+** Dealing flop ** [ 6s, Ks, Js ]
+pudek357 bets [$0.75]
+Sexpistols82 calls [$0.75]
+** Dealing turn ** [ 8c ]
+pudek357 bets [$1.75]
+Sexpistols82 raises [$3.50]
+pudek357 calls [$1.75]
+** Dealing river ** [ 4d ]
+pudek357 checks
+Sexpistols82 checks
+** Summary **
+pudek357 shows [ 6d, 3c, Jd, Jc ]
+Sexpistols82 shows [ Qs, 9s, 2d, Th ]
+Sexpistols82 collected [ $9.50 ]
+
+
+
+#Game No : 639455155
+***** 888poker Hand History for Game 639455155 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:21:28
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $68.83 )
+Seat 6: PapaShango19 ( $13.12 )
+Seat 7: Albireo ( $21.35 )
+Seat 9: pudek357 ( $25 )
+Sexpistols82 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Qd, 6h, 2s ]
+Albireo folds
+pudek357 folds
+Sexpistols82 calls [$0.13]
+PapaShango19 checks
+** Dealing flop ** [ 6s, 4h, Jd ]
+Sexpistols82 checks
+PapaShango19 checks
+** Dealing turn ** [ Ac ]
+Sexpistols82 checks
+PapaShango19 checks
+** Dealing river ** [ Tc ]
+Sexpistols82 bets [$0.25]
+PapaShango19 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $0.48 ]
+
+
+
+#Game No : 639455295
+***** 888poker Hand History for Game 639455295 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:22:10
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $69.06 )
+Seat 6: PapaShango19 ( $12.87 )
+Seat 7: Albireo ( $21.35 )
+Seat 9: pudek357 ( $25 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Kc, 6c, 9c ]
+pudek357 raises [$0.87]
+Sexpistols82 calls [$0.87]
+PapaShango19 folds
+Albireo folds
+** Dealing flop ** [ Td, 4s, 6h ]
+pudek357 bets [$1.58]
+Sexpistols82 raises [$6.85]
+pudek357 folds
+** Summary **
+Sexpistols82 collected [ $5.01 ]
+
+
+
+#Game No : 639455469
+***** 888poker Hand History for Game 639455469 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:22:59
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $71.62 )
+Seat 6: PapaShango19 ( $12.75 )
+Seat 7: Albireo ( $21.10 )
+Seat 9: pudek357 ( $25 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ac, 5d, 6s ]
+Sexpistols82 folds
+PapaShango19 folds
+Albireo calls [$0.13]
+pudek357 checks
+** Dealing flop ** [ 9s, 6h, 4h ]
+Albireo checks
+pudek357 bets [$0.37]
+Albireo folds
+** Summary **
+pudek357 collected [ $0.48 ]
+
+
+
+#Game No : 639455574
+***** 888poker Hand History for Game 639455574 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:23:28
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 1: Sexpistols82 ( $71.62 )
+Seat 6: PapaShango19 ( $12.75 )
+Seat 7: Albireo ( $20.85 )
+Seat 9: pudek357 ( $25.23 )
+pudek357 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Jh, Tc, 4d ]
+PapaShango19 calls [$0.25]
+Albireo folds
+pudek357 raises [$0.88]
+Sexpistols82 folds
+PapaShango19 calls [$0.75]
+** Dealing flop ** [ 3d, Td, 7d ]
+pudek357 bets [$1.68]
+PapaShango19 folds
+** Summary **
+pudek357 collected [ $2.14 ]
+
+
+
+#Game No : 639455732
+***** 888poker Hand History for Game 639455732 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:24:09
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $71.37 )
+Seat 4: thevegan13 ( $25 )
+Seat 6: PapaShango19 ( $11.75 )
+Seat 7: Albireo ( $20.85 )
+Seat 9: pudek357 ( $26.37 )
+Sexpistols82 posts small blind [$0.12]
+thevegan13 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3h, 4s, Kd ]
+PapaShango19 folds
+Albireo folds
+pudek357 folds
+Sexpistols82 folds
+** Summary **
+thevegan13 did not show his hand
+thevegan13 collected [ $0.37 ]
+
+
+
+#Game No : 639455804
+***** 888poker Hand History for Game 639455804 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:24:28
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $71.25 )
+Seat 4: thevegan13 ( $25.12 )
+Seat 6: PapaShango19 ( $11.75 )
+Seat 7: Albireo ( $20.85 )
+Seat 9: pudek357 ( $26.37 )
+thevegan13 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 9d, 6d, 5d ]
+Albireo folds
+pudek357 raises [$0.87]
+Sexpistols82 calls [$0.87]
+thevegan13 folds
+PapaShango19 calls [$0.62]
+** Dealing flop ** [ 7d, Jh, 7s ]
+PapaShango19 checks
+pudek357 bets [$2.04]
+Sexpistols82 folds
+PapaShango19 folds
+** Summary **
+pudek357 collected [ $2.60 ]
+
+
+
+#Game No : 639455968
+***** 888poker Hand History for Game 639455968 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:25:16
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $70.38 )
+Seat 2: Dblgtsht ( $12 )
+Seat 4: thevegan13 ( $25 )
+Seat 6: PapaShango19 ( $10.88 )
+Seat 7: Albireo ( $20.85 )
+Seat 9: pudek357 ( $28.10 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+Dblgtsht posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Tc, 3s, Ah ]
+pudek357 folds
+Sexpistols82 folds
+Dblgtsht checks
+thevegan13 raises [$1.12]
+PapaShango19 folds
+Albireo calls [$0.87]
+Dblgtsht folds
+** Dealing flop ** [ 3d, 3h, 9d ]
+Albireo checks
+thevegan13 bets [$1.95]
+Albireo raises [$8.46]
+thevegan13 raises [$21.93]
+Albireo calls [$11.27]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ Jc ]
+** Summary **
+thevegan13 shows [ 6h, 3c, 6c, 5d ]
+Albireo shows [ Ac, As, 4h, Js ]
+thevegan13 collected [ $39.97 ]
+
+
+
+#Game No : 639456151
+***** 888poker Hand History for Game 639456151 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:26:12
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $70.38 )
+Seat 2: Dblgtsht ( $11.75 )
+Seat 4: thevegan13 ( $44.12 )
+Seat 6: PapaShango19 ( $10.76 )
+Seat 9: pudek357 ( $28.10 )
+pudek357 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 6c, Ad, 8h ]
+Dblgtsht folds
+thevegan13 folds
+PapaShango19 folds
+pudek357 raises [$0.63]
+Sexpistols82 calls [$0.50]
+** Dealing flop ** [ 3s, 4c, Jh ]
+pudek357 bets [$1.12]
+Sexpistols82 calls [$1.12]
+** Dealing turn ** [ Qs ]
+pudek357 checks
+Sexpistols82 bets [$2.80]
+pudek357 folds
+** Summary **
+Sexpistols82 collected [ $3.56 ]
+
+
+
+#Game No : 639456353
+***** 888poker Hand History for Game 639456353 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:27:09
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $72.07 )
+Seat 2: Dblgtsht ( $11.75 )
+Seat 4: thevegan13 ( $44.12 )
+Seat 6: PapaShango19 ( $10.76 )
+Seat 7: Albireo ( $25 )
+Seat 9: pudek357 ( $26.23 )
+Sexpistols82 posts small blind [$0.12]
+Dblgtsht posts big blind [$0.25]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9s, Qh, 9d ]
+thevegan13 raises [$1.12]
+PapaShango19 calls [$1.12]
+Albireo folds
+pudek357 folds
+Sexpistols82 folds
+Dblgtsht folds
+** Dealing flop ** [ 8c, Td, Kh ]
+thevegan13 bets [$1.43]
+PapaShango19 calls [$1.43]
+** Dealing turn ** [ Jd ]
+thevegan13 checks
+PapaShango19 checks
+** Dealing river ** [ 3c ]
+thevegan13 bets [$4.29]
+PapaShango19 raises [$8.21]
+thevegan13 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $13.59 ]
+
+
+
+#Game No : 639456513
+***** 888poker Hand History for Game 639456513 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:27:57
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $71.95 )
+Seat 2: Dblgtsht ( $11.50 )
+Seat 4: thevegan13 ( $37.28 )
+Seat 6: PapaShango19 ( $17.51 )
+Seat 7: Albireo ( $24.75 )
+Seat 9: pudek357 ( $26.23 )
+Dblgtsht posts small blind [$0.12]
+thevegan13 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 6h, Th, 3h ]
+PapaShango19 folds
+Albireo folds
+pudek357 folds
+Sexpistols82 raises [$0.75]
+Dblgtsht folds
+thevegan13 calls [$0.50]
+** Dealing flop ** [ 5h, 6d, 2h ]
+thevegan13 checks
+Sexpistols82 bets [$1.21]
+thevegan13 calls [$1.21]
+** Dealing turn ** [ Qs ]
+thevegan13 bets [$2.02]
+Sexpistols82 calls [$2.02]
+** Dealing river ** [ 5c ]
+thevegan13 checks
+Sexpistols82 bets [$4.04]
+thevegan13 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $7.68 ]
+
+
+
+#Game No : 639456717
+***** 888poker Hand History for Game 639456717 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:28:58
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $75.65 )
+Seat 2: Dblgtsht ( $11.38 )
+Seat 4: thevegan13 ( $33.30 )
+Seat 6: PapaShango19 ( $17.51 )
+Seat 7: Albireo ( $24.75 )
+Seat 9: pudek357 ( $26.23 )
+thevegan13 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 9c, Qc, 3c ]
+Albireo folds
+pudek357 folds
+Sexpistols82 raises [$0.75]
+Dblgtsht folds
+thevegan13 calls [$0.63]
+PapaShango19 folds
+** Dealing flop ** [ 4h, Qd, 8h ]
+thevegan13 checks
+Sexpistols82 checks
+** Dealing turn ** [ Th ]
+thevegan13 checks
+Sexpistols82 bets [$0.87]
+thevegan13 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $1.67 ]
+
+
+
+#Game No : 639456851
+***** 888poker Hand History for Game 639456851 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:29:38
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $76.57 )
+Seat 2: Dblgtsht ( $11.38 )
+Seat 4: thevegan13 ( $32.55 )
+Seat 6: PapaShango19 ( $17.26 )
+Seat 7: Albireo ( $24.75 )
+Seat 9: pudek357 ( $26.23 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Qh, 6c, 5c ]
+pudek357 folds
+Sexpistols82 folds
+Dblgtsht folds
+thevegan13 raises [$0.87]
+PapaShango19 folds
+Albireo folds
+** Summary **
+thevegan13 did not show his hand
+thevegan13 collected [ $0.62 ]
+
+
+
+#Game No : 639456939
+***** 888poker Hand History for Game 639456939 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:30:04
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $76.57 )
+Seat 2: Dblgtsht ( $11.38 )
+Seat 4: thevegan13 ( $32.92 )
+Seat 6: PapaShango19 ( $17.14 )
+Seat 7: Albireo ( $24.50 )
+Seat 9: pudek357 ( $26.23 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6d, 8c, Ks ]
+Sexpistols82 folds
+Dblgtsht folds
+thevegan13 folds
+PapaShango19 folds
+Albireo calls [$0.13]
+pudek357 checks
+** Dealing flop ** [ 3s, Td, 8d ]
+Albireo checks
+pudek357 checks
+** Dealing turn ** [ Ac ]
+Albireo bets [$0.50]
+pudek357 raises [$1.50]
+Albireo calls [$1]
+** Dealing river ** [ Ad ]
+Albireo bets [$3.50]
+pudek357 folds
+** Summary **
+Albireo collected [ $3.33 ]
+
+
+
+#Game No : 639457272
+***** 888poker Hand History for Game 639457272 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:31:42
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $76.57 )
+Seat 4: thevegan13 ( $32.92 )
+Seat 6: PapaShango19 ( $17.14 )
+Seat 7: Albireo ( $26.08 )
+Seat 9: pudek357 ( $25 )
+pudek357 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Qc, Jc, Qd ]
+thevegan13 raises [$0.87]
+PapaShango19 calls [$0.87]
+Albireo folds
+pudek357 folds
+Sexpistols82 folds
+** Dealing flop ** [ 6s, Ks, 9h ]
+thevegan13 bets [$1.58]
+PapaShango19 folds
+** Summary **
+thevegan13 collected [ $2.01 ]
+
+
+
+#Game No : 639457459
+***** 888poker Hand History for Game 639457459 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:32:37
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $76.32 )
+Seat 2: wishmast33 ( $25 )
+Seat 4: thevegan13 ( $34.06 )
+Seat 6: PapaShango19 ( $16.27 )
+Seat 7: Albireo ( $26.08 )
+Seat 9: pudek357 ( $25 )
+Sexpistols82 posts small blind [$0.12]
+wishmast33 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Jc, 2c, 2s ]
+thevegan13 folds
+PapaShango19 folds
+Albireo calls [$0.25]
+pudek357 folds
+Sexpistols82 calls [$0.13]
+wishmast33 checks
+** Dealing flop ** [ Jd, 8c, Td ]
+Sexpistols82 bets [$0.37]
+wishmast33 folds
+Albireo folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $0.72 ]
+
+
+
+#Game No : 639457612
+***** 888poker Hand History for Game 639457612 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:33:21
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $76.79 )
+Seat 2: wishmast33 ( $25 )
+Seat 4: thevegan13 ( $34.06 )
+Seat 6: PapaShango19 ( $16.27 )
+Seat 7: Albireo ( $25.83 )
+Seat 9: pudek357 ( $25 )
+wishmast33 posts small blind [$0.12]
+thevegan13 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 7s, 9s, Kh ]
+PapaShango19 folds
+Albireo folds
+pudek357 folds
+Sexpistols82 raises [$0.75]
+wishmast33 calls [$0.63]
+thevegan13 calls [$0.50]
+** Dealing flop ** [ 2c, 2h, 9h ]
+wishmast33 checks
+thevegan13 checks
+Sexpistols82 bets [$1.25]
+wishmast33 folds
+thevegan13 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $2.14 ]
+
+
+
+#Game No : 639457733
+***** 888poker Hand History for Game 639457733 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:33:58
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Sexpistols82 ( $78.18 )
+Seat 2: wishmast33 ( $25 )
+Seat 4: thevegan13 ( $33.31 )
+Seat 6: PapaShango19 ( $16.27 )
+Seat 7: Albireo ( $25.83 )
+Seat 9: pudek357 ( $25 )
+thevegan13 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 2d, 5d, Ks ]
+Albireo folds
+pudek357 folds
+Sexpistols82 folds
+wishmast33 folds
+thevegan13 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $0.37 ]
+
+
+
+#Game No : 639457815
+***** 888poker Hand History for Game 639457815 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:34:21
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $78.18 )
+Seat 2: wishmast33 ( $25 )
+Seat 6: PapaShango19 ( $16.39 )
+Seat 7: Albireo ( $25.83 )
+Seat 9: pudek357 ( $25 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 5c, Qh, 3s ]
+Sexpistols82 folds
+wishmast33 raises [$0.87]
+PapaShango19 folds
+Albireo folds
+pudek357 calls [$0.62]
+** Dealing flop ** [ 5s, 3c, Js ]
+pudek357 checks
+wishmast33 checks
+** Dealing turn ** [ 8s ]
+pudek357 checks
+wishmast33 bets [$1.39]
+pudek357 folds
+** Summary **
+wishmast33 did not show his hand
+wishmast33 collected [ $1.77 ]
+
+
+
+#Game No : 639457964
+***** 888poker Hand History for Game 639457964 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:35:07
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $78.18 )
+Seat 2: wishmast33 ( $25.90 )
+Seat 6: PapaShango19 ( $16.39 )
+Seat 7: Albireo ( $25.71 )
+Seat 9: pudek357 ( $25 )
+pudek357 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qh, Ad, 8d ]
+wishmast33 folds
+PapaShango19 folds
+Albireo folds
+pudek357 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $0.37 ]
+
+
+
+#Game No : 639458049
+***** 888poker Hand History for Game 639458049 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:35:33
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $78.30 )
+Seat 2: wishmast33 ( $25.90 )
+Seat 6: PapaShango19 ( $16.39 )
+Seat 7: Albireo ( $25.71 )
+Seat 9: pudek357 ( $25 )
+Sexpistols82 posts small blind [$0.12]
+wishmast33 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 3s, 3c, 6d ]
+PapaShango19 folds
+Albireo folds
+pudek357 raises [$0.87]
+Sexpistols82 folds
+wishmast33 folds
+** Summary **
+pudek357 did not show his hand
+pudek357 collected [ $0.62 ]
+
+
+
+#Game No : 639458106
+***** 888poker Hand History for Game 639458106 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:35:48
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $78.18 )
+Seat 2: wishmast33 ( $25.65 )
+Seat 6: PapaShango19 ( $16.39 )
+Seat 7: Albireo ( $25.71 )
+Seat 9: pudek357 ( $25.37 )
+wishmast33 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Ah, 3d, Ac ]
+Albireo folds
+pudek357 folds
+Sexpistols82 raises [$0.75]
+wishmast33 folds
+PapaShango19 raises [$1.75]
+Sexpistols82 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1.62 ]
+
+
+
+#Game No : 639458223
+***** 888poker Hand History for Game 639458223 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:36:25
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $77.43 )
+Seat 2: wishmast33 ( $25.53 )
+Seat 6: PapaShango19 ( $17.26 )
+Seat 7: Albireo ( $25.71 )
+Seat 9: pudek357 ( $25.37 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 6c, As, 9h ]
+pudek357 folds
+Sexpistols82 raises [$0.75]
+wishmast33 raises [$2.62]
+PapaShango19 folds
+Albireo folds
+Sexpistols82 calls [$1.87]
+** Dealing flop ** [ 4c, 5d, 7s ]
+Sexpistols82 checks
+wishmast33 checks
+** Dealing turn ** [ Qc ]
+Sexpistols82 bets [$4.75]
+wishmast33 folds
+** Summary **
+Sexpistols82 did not show his hand
+Sexpistols82 collected [ $5.33 ]
+
+
+
+#Game No : 639458445
+***** 888poker Hand History for Game 639458445 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:37:36
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $80.14 )
+Seat 2: wishmast33 ( $25 )
+Seat 6: PapaShango19 ( $17.14 )
+Seat 7: Albireo ( $25.46 )
+Seat 9: pudek357 ( $25.37 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 9s, 9d, Kc ]
+Sexpistols82 folds
+wishmast33 folds
+PapaShango19 calls [$0.25]
+Albireo folds
+pudek357 checks
+** Dealing flop ** [ 6c, 5d, 3h ]
+pudek357 bets [$0.46]
+PapaShango19 folds
+** Summary **
+pudek357 did not show his hand
+pudek357 collected [ $0.59 ]
+
+
+
+#Game No : 639458540
+***** 888poker Hand History for Game 639458540 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:38:05
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $80.14 )
+Seat 2: wishmast33 ( $25 )
+Seat 6: PapaShango19 ( $16.89 )
+Seat 7: Albireo ( $25.34 )
+Seat 9: pudek357 ( $25.71 )
+pudek357 posts small blind [$0.12]
+Sexpistols82 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 6h, 3s, 5h ]
+wishmast33 raises [$0.87]
+PapaShango19 folds
+Albireo folds
+pudek357 calls [$0.75]
+Sexpistols82 folds
+** Dealing flop ** [ 4c, 6s, 2h ]
+pudek357 checks
+wishmast33 bets [$1.49]
+pudek357 raises [$4.84]
+wishmast33 calls [$3.35]
+** Dealing turn ** [ Td ]
+pudek357 bets [$7.25]
+wishmast33 folds
+** Summary **
+pudek357 did not show his hand
+pudek357 collected [ $11.09 ]
+
+
+
+#Game No : 639458808
+***** 888poker Hand History for Game 639458808 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:39:26
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $79.89 )
+Seat 2: wishmast33 ( $25 )
+Seat 6: PapaShango19 ( $16.89 )
+Seat 7: Albireo ( $25.34 )
+Seat 9: pudek357 ( $31.09 )
+Sexpistols82 posts small blind [$0.12]
+wishmast33 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 7c, Ts, Jc ]
+PapaShango19 calls [$0.25]
+Albireo calls [$0.25]
+pudek357 folds
+Sexpistols82 calls [$0.13]
+wishmast33 checks
+** Dealing flop ** [ 6d, 3c, 7s ]
+Sexpistols82 bets [$0.50]
+wishmast33 folds
+PapaShango19 calls [$0.50]
+Albireo calls [$0.50]
+** Dealing turn ** [ 2c ]
+Sexpistols82 bets [$1.25]
+PapaShango19 folds
+Albireo calls [$1.25]
+** Dealing river ** [ 6h ]
+Sexpistols82 checks
+Albireo bets [$5]
+Sexpistols82 folds
+** Summary **
+Albireo did not show his hand
+Albireo collected [ $4.75 ]
+
+
+
+#Game No : 639459098
+***** 888poker Hand History for Game 639459098 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:41:00
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Sexpistols82 ( $77.89 )
+Seat 2: wishmast33 ( $25 )
+Seat 6: PapaShango19 ( $16.14 )
+Seat 7: Albireo ( $28.09 )
+Seat 9: pudek357 ( $31.09 )
+wishmast33 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 5h, Ks, 5d ]
+Albireo folds
+pudek357 folds
+Sexpistols82 folds
+wishmast33 raises [$0.63]
+PapaShango19 folds
+** Summary **
+wishmast33 did not show his hand
+wishmast33 collected [ $0.50 ]
+
+
+
+#Game No : 639459188
+***** 888poker Hand History for Game 639459188 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:41:27
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25.25 )
+Seat 6: PapaShango19 ( $15.89 )
+Seat 7: Albireo ( $28.09 )
+Seat 9: pudek357 ( $31.09 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 7c, Qs, Qd ]
+pudek357 folds
+wishmast33 raises [$0.87]
+PapaShango19 folds
+Albireo folds
+** Summary **
+wishmast33 did not show his hand
+wishmast33 collected [ $0.62 ]
+
+
+
+#Game No : 639459252
+***** 888poker Hand History for Game 639459252 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:41:48
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25.62 )
+Seat 6: PapaShango19 ( $15.77 )
+Seat 7: Albireo ( $27.84 )
+Seat 9: pudek357 ( $31.09 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Js, 8c, Ah ]
+wishmast33 folds
+PapaShango19 calls [$0.25]
+Albireo folds
+pudek357 checks
+** Dealing flop ** [ 8d, 8h, Ac ]
+pudek357 checks
+PapaShango19 checks
+** Dealing turn ** [ 9h ]
+pudek357 bets [$0.46]
+PapaShango19 calls [$0.46]
+** Dealing river ** [ 8s ]
+pudek357 checks
+PapaShango19 bets [$0.75]
+pudek357 calls [$0.75]
+** Summary **
+PapaShango19 shows [ Td, Js, 8c, Ah ]
+pudek357 mucks [ Ad, 6d, Jd, 5c ]
+PapaShango19 collected [ $2.89 ]
+
+
+
+#Game No : 639459418
+***** 888poker Hand History for Game 639459418 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:42:39
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25.62 )
+Seat 6: PapaShango19 ( $17.20 )
+Seat 7: Albireo ( $27.72 )
+Seat 9: pudek357 ( $29.63 )
+pudek357 posts small blind [$0.12]
+wishmast33 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Ad, 7d, 6s ]
+PapaShango19 calls [$0.25]
+Albireo calls [$0.25]
+pudek357 folds
+wishmast33 checks
+** Dealing flop ** [ Td, 3c, Ah ]
+wishmast33 checks
+PapaShango19 bets [$0.25]
+Albireo calls [$0.25]
+wishmast33 folds
+** Dealing turn ** [ Qs ]
+PapaShango19 checks
+Albireo bets [$1.37]
+PapaShango19 folds
+** Summary **
+Albireo did not show his hand
+Albireo collected [ $1.31 ]
+
+
+
+#Game No : 639459647
+***** 888poker Hand History for Game 639459647 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:43:48
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25.37 )
+Seat 6: PapaShango19 ( $16.70 )
+Seat 7: Albireo ( $28.53 )
+Seat 9: pudek357 ( $29.51 )
+wishmast33 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 4s, Jc, Kh ]
+Albireo folds
+pudek357 folds
+wishmast33 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $0.37 ]
+
+
+
+#Game No : 639459686
+***** 888poker Hand History for Game 639459686 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:43:59
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25.25 )
+Seat 6: PapaShango19 ( $16.82 )
+Seat 7: Albireo ( $28.53 )
+Seat 9: pudek357 ( $29.51 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8d, 8s, 2d ]
+pudek357 folds
+wishmast33 raises [$0.87]
+PapaShango19 folds
+Albireo folds
+** Summary **
+wishmast33 did not show his hand
+wishmast33 collected [ $0.62 ]
+
+
+
+#Game No : 639459741
+***** 888poker Hand History for Game 639459741 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:44:15
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25.62 )
+Seat 6: PapaShango19 ( $16.70 )
+Seat 7: Albireo ( $28.28 )
+Seat 9: pudek357 ( $29.51 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 4h, Jc, Qs ]
+wishmast33 folds
+PapaShango19 folds
+Albireo folds
+** Summary **
+pudek357 did not show his hand
+pudek357 collected [ $0.37 ]
+
+
+
+#Game No : 639459785
+***** 888poker Hand History for Game 639459785 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:44:26
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25.62 )
+Seat 6: PapaShango19 ( $16.70 )
+Seat 7: Albireo ( $28.16 )
+Seat 9: pudek357 ( $29.63 )
+pudek357 posts small blind [$0.12]
+wishmast33 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4s, Ah, 8h ]
+PapaShango19 folds
+Albireo folds
+pudek357 raises [$0.63]
+wishmast33 raises [$2]
+pudek357 folds
+** Summary **
+wishmast33 did not show his hand
+wishmast33 collected [ $1.50 ]
+
+
+
+#Game No : 639459873
+***** 888poker Hand History for Game 639459873 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:44:56
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $26.37 )
+Seat 6: PapaShango19 ( $16.70 )
+Seat 7: Albireo ( $28.16 )
+Seat 9: pudek357 ( $28.88 )
+wishmast33 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ac, Kh, 6d ]
+Albireo folds
+pudek357 raises [$0.87]
+wishmast33 folds
+PapaShango19 folds
+** Summary **
+pudek357 did not show his hand
+pudek357 collected [ $0.62 ]
+
+
+
+#Game No : 639459980
+***** 888poker Hand History for Game 639459980 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:45:28
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $26.25 )
+Seat 6: PapaShango19 ( $16.45 )
+Seat 7: Albireo ( $28.16 )
+Seat 9: pudek357 ( $29.25 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Qs, Ts, Td ]
+pudek357 folds
+wishmast33 raises [$0.65]
+PapaShango19 calls [$0.53]
+Albireo calls [$0.40]
+** Dealing flop ** [ 4s, 3h, 2s ]
+PapaShango19 checks
+Albireo bets [$1.95]
+wishmast33 raises [$7.80]
+PapaShango19 folds
+Albireo calls [$5.85]
+** Dealing turn ** [ 3c ]
+Albireo bets [$17.55]
+wishmast33 raises [$17.80]
+Albireo calls [$0.25]
+** Dealing river ** [ 7s ]
+** Summary **
+wishmast33 shows [ 6h, 5s, 8h, Ac ]
+Albireo shows [ 2d, 2h, Ks, 6s ]
+Albireo collected [ $50.65 ]
+
+
+
+#Game No : 639460181
+***** 888poker Hand History for Game 639460181 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:46:24
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $25 )
+Seat 6: PapaShango19 ( $15.80 )
+Seat 7: Albireo ( $52.56 )
+Seat 9: pudek357 ( $29.25 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 8c, Qc, 5d ]
+wishmast33 folds
+PapaShango19 folds
+Albireo folds
+** Summary **
+pudek357 collected [ $0.37 ]
+
+
+
+#Game No : 639460245
+***** 888poker Hand History for Game 639460245 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:46:45
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 2: wishmast33 ( $25 )
+Seat 4: diehard70 ( $5 )
+Seat 6: PapaShango19 ( $15.80 )
+Seat 7: Albireo ( $52.44 )
+Seat 9: pudek357 ( $29.37 )
+pudek357 posts small blind [$0.12]
+wishmast33 posts big blind [$0.25]
+diehard70 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 6c, 9c, Qc ]
+diehard70 checks
+PapaShango19 folds
+Albireo calls [$0.25]
+pudek357 folds
+wishmast33 checks
+** Dealing flop ** [ 7h, 6d, Th ]
+wishmast33 checks
+diehard70 bets [$0.65]
+Albireo folds
+wishmast33 folds
+** Summary **
+diehard70 did not show his hand
+diehard70 collected [ $0.83 ]
+
+
+
+#Game No : 639460397
+***** 888poker Hand History for Game 639460397 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:47:28
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 2: wishmast33 ( $25 )
+Seat 4: diehard70 ( $5.58 )
+Seat 6: PapaShango19 ( $15.80 )
+Seat 7: Albireo ( $52.19 )
+Seat 9: pudek357 ( $29.25 )
+wishmast33 posts small blind [$0.12]
+diehard70 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2s, Jh, 3d ]
+PapaShango19 folds
+Albireo folds
+pudek357 folds
+wishmast33 raises [$0.63]
+diehard70 calls [$0.50]
+** Dealing flop ** [ Kc, 9s, 6h ]
+wishmast33 checks
+diehard70 bets [$1.50]
+wishmast33 calls [$1.50]
+** Dealing turn ** [ 6s ]
+wishmast33 checks
+diehard70 checks
+** Dealing river ** [ 7s ]
+wishmast33 checks
+diehard70 bets [$3.33]
+wishmast33 folds
+** Summary **
+diehard70 did not show his hand
+diehard70 collected [ $4.28 ]
+
+
+
+#Game No : 639460603
+***** 888poker Hand History for Game 639460603 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:48:34
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: wishmast33 ( $25 )
+Seat 4: diehard70 ( $7.61 )
+Seat 6: PapaShango19 ( $15.80 )
+Seat 7: Albireo ( $52.19 )
+Seat 9: pudek357 ( $29.25 )
+diehard70 posts small blind [$0.12]
+PapaShango19 posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ad, 8c, Ts ]
+Albireo folds
+pudek357 raises [$0.87]
+wishmast33 calls [$0.87]
+diehard70 calls [$0.75]
+PapaShango19 calls [$0.62]
+** Dealing flop ** [ 4d, Th, Jd ]
+diehard70 checks
+PapaShango19 checks
+pudek357 bets [$2.61]
+wishmast33 calls [$2.61]
+diehard70 folds
+PapaShango19 folds
+** Dealing turn ** [ Kc ]
+pudek357 bets [$6.52]
+wishmast33 raises [$21.52]
+pudek357 calls [$15]
+** Dealing river ** [ 3h ]
+** Summary **
+wishmast33 shows [ Qh, Qs, 9c, 6s ]
+pudek357 shows [ 6d, Ks, Kd, Ah ]
+wishmast33 collected [ $49.16 ]
+
+
+
+#Game No : 639460876
+***** 888poker Hand History for Game 639460876 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:50:04
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: wishmast33 ( $49.16 )
+Seat 4: diehard70 ( $6.74 )
+Seat 6: PapaShango19 ( $14.93 )
+Seat 7: Albireo ( $52.19 )
+Seat 9: pudek357 ( $25 )
+PapaShango19 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 7d, Ad, 7c ]
+pudek357 raises [$0.87]
+wishmast33 folds
+diehard70 folds
+PapaShango19 calls [$0.75]
+Albireo folds
+** Dealing flop ** [ 9c, 7s, Kh ]
+PapaShango19 checks
+pudek357 bets [$1.49]
+PapaShango19 calls [$1.49]
+** Dealing turn ** [ 6h ]
+PapaShango19 checks
+pudek357 bets [$3.72]
+PapaShango19 raises [$7.69]
+pudek357 calls [$3.97]
+** Dealing river ** [ 9d ]
+PapaShango19 bets [$4.88]
+pudek357 calls [$4.88]
+** Summary **
+PapaShango19 shows [ 2c, 7d, Ad, 7c ]
+pudek357 shows [ Ks, Kd, 8s, 2d ]
+pudek357 collected [ $28.61 ]
+
+
+
+#Game No : 639461101
+***** 888poker Hand History for Game 639461101 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:51:19
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $49.16 )
+Seat 4: diehard70 ( $6.74 )
+Seat 7: Albireo ( $51.94 )
+Seat 9: pudek357 ( $38.68 )
+pudek357 posts small blind [$0.12]
+wishmast33 posts big blind [$0.25]
+** Dealing down cards **
+diehard70 calls [$0.25]
+Albireo folds
+pudek357 folds
+wishmast33 checks
+** Dealing flop ** [ Kc, 9c, 4c ]
+wishmast33 bets [$0.46]
+diehard70 folds
+** Summary **
+wishmast33 collected [ $0.59 ]
+
+
+
+#Game No : 639461167
+***** 888poker Hand History for Game 639461167 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:51:42
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $49.50 )
+Seat 4: diehard70 ( $6.49 )
+Seat 7: Albireo ( $51.94 )
+Seat 9: pudek357 ( $38.56 )
+wishmast33 posts small blind [$0.12]
+diehard70 posts big blind [$0.25]
+** Dealing down cards **
+Albireo folds
+pudek357 folds
+wishmast33 folds
+** Summary **
+diehard70 collected [ $0.37 ]
+
+
+
+#Game No : 639461206
+***** 888poker Hand History for Game 639461206 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:51:55
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $49.38 )
+Seat 4: diehard70 ( $6.61 )
+Seat 7: Albireo ( $51.94 )
+Seat 9: pudek357 ( $38.56 )
+diehard70 posts small blind [$0.12]
+Albireo posts big blind [$0.25]
+** Dealing down cards **
+pudek357 folds
+wishmast33 raises [$0.87]
+diehard70 calls [$0.75]
+Albireo folds
+** Dealing flop ** [ 4c, 8d, 7d ]
+diehard70 checks
+wishmast33 checks
+** Dealing turn ** [ 3d ]
+diehard70 bets [$0.99]
+wishmast33 folds
+** Summary **
+diehard70 collected [ $1.90 ]
+
+
+
+#Game No : 639461329
+***** 888poker Hand History for Game 639461329 *****
+$0.12/$0.25 Blinds Pot Limit Omaha - *** 17 12 2014 04:52:34
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 2: wishmast33 ( $48.51 )
+Seat 4: diehard70 ( $7.64 )
+Seat 7: Albireo ( $51.69 )
+Seat 9: pudek357 ( $38.56 )
+Albireo posts small blind [$0.12]
+pudek357 posts big blind [$0.25]
+** Dealing down cards **
+wishmast33 folds
+diehard70 raises [$0.65]
+Albireo folds
+pudek357 folds
+** Summary **
+diehard70 collected [ $0.62 ]
+
+
+

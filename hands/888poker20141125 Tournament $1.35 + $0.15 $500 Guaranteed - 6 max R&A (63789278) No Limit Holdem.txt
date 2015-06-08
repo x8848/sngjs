@@ -1,0 +1,2392 @@
+#Game No : 484277281
+***** 888poker Hand History for Game 484277281 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:15:22
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $2,000 )
+Seat 2: CMcCombe ( $4,000 )
+Seat 4: blackbeard27 ( $2,000 )
+Seat 6: dasssss9 ( $2,000 )
+Seat 7: PapaShango19 ( $2,000 )
+Seat 9: foss130 ( $2,000 )
+dasssss9 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8s ]
+foss130 calls [$20]
+Rebaymedonk calls [$20]
+CMcCombe calls [$20]
+blackbeard27 raises [$2,000]
+dasssss9 folds
+PapaShango19 folds
+foss130 folds
+Rebaymedonk folds
+CMcCombe calls [$1,980]
+** Dealing flop ** [ 9s, 4h, 8d ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ Js ]
+** Summary **
+CMcCombe shows [ Ts, Ks ]
+blackbeard27 shows [ 4d, 4s ]
+CMcCombe collected [ $4,070 ]
+
+
+
+#Game No : 484277455
+***** 888poker Hand History for Game 484277455 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:16:14
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,980 )
+Seat 2: CMcCombe ( $6,070 )
+Seat 4: blackbeard27 ( $2,000 )
+Seat 6: dasssss9 ( $1,990 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: foss130 ( $3,980 )
+PapaShango19 posts small blind [$10]
+foss130 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Ad ]
+Rebaymedonk raises [$40]
+CMcCombe folds
+blackbeard27 folds
+dasssss9 folds
+PapaShango19 folds
+foss130 calls [$20]
+** Dealing flop ** [ Js, 7d, 7c ]
+foss130 checks
+Rebaymedonk bets [$45]
+foss130 calls [$45]
+** Dealing turn ** [ Kc ]
+foss130 checks
+Rebaymedonk checks
+** Dealing river ** [ 5d ]
+foss130 checks
+Rebaymedonk checks
+** Summary **
+foss130 shows [ Ac, Th ]
+Rebaymedonk shows [ As, 4s ]
+Rebaymedonk collected [ $90 ]
+foss130 collected [ $90 ]
+
+
+
+#Game No : 484277591
+***** 888poker Hand History for Game 484277591 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:16:55
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Rebaymedonk ( $1,985 )
+Seat 2: CMcCombe ( $6,070 )
+Seat 6: dasssss9 ( $1,990 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,985 )
+foss130 posts small blind [$10]
+Rebaymedonk posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4h ]
+CMcCombe folds
+dasssss9 folds
+PapaShango19 folds
+foss130 calls [$10]
+Rebaymedonk checks
+** Dealing flop ** [ 5h, 3d, Th ]
+foss130 bets [$40]
+Rebaymedonk calls [$40]
+** Dealing turn ** [ Ad ]
+foss130 bets [$120]
+Rebaymedonk folds
+** Summary **
+foss130 collected [ $120 ]
+
+
+
+#Game No : 484277717
+***** 888poker Hand History for Game 484277717 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:17:41
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,925 )
+Seat 2: CMcCombe ( $6,070 )
+Seat 4: MilenkoK ( $2,000 )
+Seat 6: dasssss9 ( $1,990 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $4,045 )
+Rebaymedonk posts small blind [$10]
+CMcCombe posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2c ]
+MilenkoK calls [$20]
+dasssss9 folds
+PapaShango19 folds
+foss130 calls [$20]
+Rebaymedonk calls [$10]
+CMcCombe checks
+** Dealing flop ** [ 9s, As, Kd ]
+Rebaymedonk checks
+CMcCombe checks
+MilenkoK bets [$60]
+foss130 folds
+Rebaymedonk folds
+CMcCombe folds
+** Summary **
+MilenkoK did not show his hand
+MilenkoK collected [ $80 ]
+
+
+
+#Game No : 484277840
+***** 888poker Hand History for Game 484277840 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:18:20
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,905 )
+Seat 2: CMcCombe ( $6,050 )
+Seat 4: MilenkoK ( $2,060 )
+Seat 6: dasssss9 ( $1,990 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $4,025 )
+CMcCombe posts small blind [$10]
+MilenkoK posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+dasssss9 folds
+PapaShango19 folds
+foss130 calls [$20]
+Rebaymedonk folds
+CMcCombe folds
+MilenkoK checks
+** Dealing flop ** [ Kd, 6s, 7h ]
+MilenkoK checks
+foss130 checks
+** Dealing turn ** [ Kh ]
+MilenkoK bets [$20]
+foss130 calls [$20]
+** Dealing river ** [ 4d ]
+MilenkoK bets [$20]
+foss130 folds
+** Summary **
+MilenkoK did not show his hand
+MilenkoK collected [ $90 ]
+
+
+
+#Game No : 484278014
+***** 888poker Hand History for Game 484278014 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:19:11
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,905 )
+Seat 2: CMcCombe ( $6,040 )
+Seat 4: MilenkoK ( $2,110 )
+Seat 6: dasssss9 ( $1,990 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,985 )
+MilenkoK posts small blind [$10]
+dasssss9 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 5h ]
+PapaShango19 folds
+foss130 folds
+Rebaymedonk folds
+CMcCombe calls [$20]
+MilenkoK calls [$10]
+dasssss9 checks
+** Dealing flop ** [ 3h, 8h, 4c ]
+MilenkoK bets [$45]
+dasssss9 folds
+CMcCombe folds
+** Summary **
+MilenkoK did not show his hand
+MilenkoK collected [ $60 ]
+
+
+
+#Game No : 484278131
+***** 888poker Hand History for Game 484278131 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:19:57
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,905 )
+Seat 2: CMcCombe ( $6,020 )
+Seat 4: MilenkoK ( $2,150 )
+Seat 6: dasssss9 ( $1,970 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,985 )
+dasssss9 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Jd ]
+foss130 folds
+Rebaymedonk folds
+CMcCombe folds
+MilenkoK folds
+dasssss9 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $30 ]
+
+
+
+#Game No : 484278162
+***** 888poker Hand History for Game 484278162 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:20:11
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,905 )
+Seat 2: CMcCombe ( $6,020 )
+Seat 4: MilenkoK ( $2,150 )
+Seat 6: dasssss9 ( $1,960 )
+Seat 7: PapaShango19 ( $1,980 )
+Seat 9: foss130 ( $3,985 )
+PapaShango19 posts small blind [$10]
+foss130 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Jd ]
+Rebaymedonk raises [$52]
+CMcCombe calls [$52]
+MilenkoK folds
+dasssss9 folds
+PapaShango19 folds
+foss130 calls [$32]
+** Dealing flop ** [ Ad, 5d, 4h ]
+foss130 checks
+Rebaymedonk checks
+CMcCombe bets [$20]
+foss130 calls [$20]
+Rebaymedonk folds
+** Dealing turn ** [ 3s ]
+foss130 checks
+CMcCombe checks
+** Dealing river ** [ Kd ]
+foss130 checks
+CMcCombe bets [$20]
+foss130 folds
+** Summary **
+CMcCombe did not show his hand
+CMcCombe collected [ $206 ]
+
+
+
+#Game No : 484278410
+***** 888poker Hand History for Game 484278410 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:21:36
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,853 )
+Seat 2: CMcCombe ( $6,154 )
+Seat 4: MilenkoK ( $2,150 )
+Seat 6: dasssss9 ( $1,960 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,913 )
+foss130 posts small blind [$10]
+Rebaymedonk posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 3h ]
+CMcCombe calls [$20]
+MilenkoK folds
+dasssss9 folds
+PapaShango19 folds
+foss130 folds
+Rebaymedonk checks
+** Dealing flop ** [ 3c, 4h, 7s ]
+Rebaymedonk checks
+CMcCombe checks
+** Dealing turn ** [ 7d ]
+Rebaymedonk checks
+CMcCombe checks
+** Dealing river ** [ 4d ]
+Rebaymedonk checks
+CMcCombe checks
+** Summary **
+Rebaymedonk shows [ 8c, Qc ]
+CMcCombe mucks [ Js, 8s ]
+Rebaymedonk collected [ $50 ]
+
+
+
+#Game No : 484278549
+***** 888poker Hand History for Game 484278549 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 09:22:19
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,883 )
+Seat 2: CMcCombe ( $6,134 )
+Seat 4: MilenkoK ( $2,150 )
+Seat 6: dasssss9 ( $1,960 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,903 )
+Rebaymedonk posts small blind [$10]
+CMcCombe posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9d ]
+MilenkoK raises [$70]
+dasssss9 folds
+PapaShango19 folds
+foss130 calls [$70]
+Rebaymedonk folds
+CMcCombe calls [$50]
+** Dealing flop ** [ 9s, Qd, 7s ]
+CMcCombe bets [$20]
+MilenkoK raises [$60]
+foss130 folds
+CMcCombe calls [$40]
+** Dealing turn ** [ 2h ]
+CMcCombe checks
+MilenkoK bets [$170]
+CMcCombe calls [$170]
+** Dealing river ** [ 5h ]
+CMcCombe checks
+MilenkoK bets [$510]
+CMcCombe folds
+** Summary **
+MilenkoK did not show his hand
+MilenkoK collected [ $680 ]
+
+
+
+#Game No : 484278803
+***** 888poker Hand History for Game 484278803 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:23:41
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,873 )
+Seat 2: CMcCombe ( $5,834 )
+Seat 4: MilenkoK ( $2,530 )
+Seat 6: dasssss9 ( $1,960 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,833 )
+CMcCombe posts small blind [$15]
+MilenkoK posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 9h ]
+dasssss9 folds
+PapaShango19 folds
+foss130 folds
+Rebaymedonk folds
+CMcCombe calls [$15]
+MilenkoK checks
+** Dealing flop ** [ 3h, Qd, Kc ]
+CMcCombe checks
+MilenkoK checks
+** Dealing turn ** [ Jh ]
+CMcCombe checks
+MilenkoK checks
+** Dealing river ** [ 8d ]
+CMcCombe folds
+** Summary **
+MilenkoK did not show his hand
+MilenkoK collected [ $60 ]
+
+
+
+#Game No : 484278966
+***** 888poker Hand History for Game 484278966 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:24:32
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Rebaymedonk ( $1,873 )
+Seat 2: CMcCombe ( $5,804 )
+Seat 4: MilenkoK ( $2,560 )
+Seat 6: dasssss9 ( $1,960 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,833 )
+MilenkoK posts small blind [$15]
+dasssss9 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Td ]
+PapaShango19 folds
+foss130 raises [$105]
+Rebaymedonk folds
+CMcCombe calls [$105]
+MilenkoK folds
+dasssss9 folds
+** Dealing flop ** [ Ad, Js, Kh ]
+foss130 checks
+CMcCombe checks
+** Dealing turn ** [ 4h ]
+foss130 checks
+CMcCombe checks
+** Dealing river ** [ 7c ]
+foss130 checks
+CMcCombe checks
+** Summary **
+foss130 shows [ 3s, 3h ]
+CMcCombe mucks [ 9d, 8d ]
+foss130 collected [ $255 ]
+
+
+
+#Game No : 484279184
+***** 888poker Hand History for Game 484279184 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:25:42
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: CMcCombe ( $5,699 )
+Seat 4: MilenkoK ( $2,545 )
+Seat 6: dasssss9 ( $1,930 )
+Seat 7: PapaShango19 ( $1,970 )
+Seat 9: foss130 ( $3,983 )
+dasssss9 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Ad ]
+foss130 raises [$150]
+CMcCombe calls [$150]
+MilenkoK folds
+dasssss9 calls [$135]
+PapaShango19 folds
+** Dealing flop ** [ Kd, 4d, 2s ]
+dasssss9 checks
+foss130 bets [$270]
+CMcCombe calls [$270]
+dasssss9 folds
+** Dealing turn ** [ 3h ]
+foss130 bets [$3,563]
+CMcCombe calls [$3,563]
+** Dealing river ** [ Jd ]
+** Summary **
+CMcCombe shows [ Qs, Qh ]
+foss130 shows [ Kc, Kh ]
+foss130 collected [ $8,146 ]
+
+
+
+#Game No : 484279387
+***** 888poker Hand History for Game 484279387 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:26:44
+Tournament #63789278 $1.35 + $0.15 - Table #5 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 2: CMcCombe ( $3,716 )
+Seat 4: MilenkoK ( $2,545 )
+Seat 6: dasssss9 ( $1,780 )
+Seat 7: PapaShango19 ( $1,940 )
+Seat 9: foss130 ( $8,146 )
+PapaShango19 posts small blind [$15]
+foss130 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 3h ]
+CMcCombe folds
+MilenkoK folds
+dasssss9 raises [$90]
+PapaShango19 folds
+foss130 calls [$60]
+** Dealing flop ** [ 8s, 5d, 5c ]
+foss130 checks
+dasssss9 checks
+** Dealing turn ** [ 9h ]
+foss130 bets [$195]
+dasssss9 calls [$195]
+** Dealing river ** [ Js ]
+foss130 checks
+dasssss9 checks
+** Summary **
+foss130 shows [ 7h, 8d ]
+dasssss9 mucks [ Ad, Ks ]
+foss130 collected [ $585 ]
+
+
+
+#Game No : 484279802
+***** 888poker Hand History for Game 484279802 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:28:42
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1:  ( $2,173 )
+Seat 2:  ( $1,925 )
+Seat 6:  ( $4,000 )
+Seat 7:  ( $2,985 )
+Seat 9:  ( $3,635 )
+ posts small blind [$15]
+ posts big blind [$30]
+** Dealing down cards **
+Dealt to  [ Qc, 4h ]
+ folds
+ folds
+ folds
+ folds
+** Summary **
+ collected [ $45 ]
+
+
+
+#Game No : 484279878
+***** 888poker Hand History for Game 484279878 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:29:07
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,173 )
+Seat 2: PapaShango19 ( $1,925 )
+Seat 4: Pokeroid_KI ( $2,000 )
+Seat 6: Nikolas18RUS ( $4,000 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $3,650 )
+Doedet_mne posts small blind [$15]
+neonails14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Th ]
+PapaShango19 folds
+Pokeroid_KI raises [$60]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $75 ]
+
+
+
+#Game No : 484279953
+***** 888poker Hand History for Game 484279953 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:29:26
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,143 )
+Seat 2: PapaShango19 ( $1,925 )
+Seat 4: Pokeroid_KI ( $2,045 )
+Seat 6: Nikolas18RUS ( $4,000 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $3,635 )
+neonails14 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Kh ]
+Pokeroid_KI folds
+Nikolas18RUS raises [$60]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 raises [$230]
+Nikolas18RUS calls [$200]
+** Dealing flop ** [ 2h, Ac, 3d ]
+PapaShango19 bets [$267]
+Nikolas18RUS folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $535 ]
+
+
+
+#Game No : 484280072
+***** 888poker Hand History for Game 484280072 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:30:07
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,128 )
+Seat 2: PapaShango19 ( $2,200 )
+Seat 4: Pokeroid_KI ( $2,045 )
+Seat 6: Nikolas18RUS ( $3,740 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $3,635 )
+PapaShango19 posts small blind [$15]
+Pokeroid_KI posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 8h ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 calls [$15]
+Pokeroid_KI raises [$30]
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $60 ]
+
+
+
+#Game No : 484280165
+***** 888poker Hand History for Game 484280165 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:30:33
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,128 )
+Seat 2: PapaShango19 ( $2,170 )
+Seat 4: Pokeroid_KI ( $2,075 )
+Seat 6: Nikolas18RUS ( $3,740 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $3,635 )
+Pokeroid_KI posts small blind [$15]
+Nikolas18RUS posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6s ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $45 ]
+
+
+
+#Game No : 484280280
+***** 888poker Hand History for Game 484280280 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 09:31:06
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,128 )
+Seat 2: PapaShango19 ( $2,170 )
+Seat 4: Pokeroid_KI ( $2,060 )
+Seat 6: Nikolas18RUS ( $3,755 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $3,635 )
+Nikolas18RUS posts small blind [$15]
+ericxl14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 3c ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI raises [$60]
+Nikolas18RUS folds
+ericxl14 calls [$30]
+** Dealing flop ** [ Qc, 4c, Ad ]
+ericxl14 bets [$135]
+Pokeroid_KI folds
+** Summary **
+ericxl14 did not show his hand
+ericxl14 collected [ $135 ]
+
+
+
+#Game No : 484280394
+***** 888poker Hand History for Game 484280394 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:31:38
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,128 )
+Seat 2: PapaShango19 ( $2,170 )
+Seat 4: Pokeroid_KI ( $4,000 )
+Seat 6: Nikolas18RUS ( $3,740 )
+Seat 7: ericxl14 ( $3,045 )
+Seat 9: Doedet_mne ( $3,635 )
+ericxl14 posts small blind [$25]
+Doedet_mne posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 9c ]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS raises [$100]
+ericxl14 calls [$75]
+Doedet_mne folds
+** Dealing flop ** [ Jd, 9s, 9d ]
+ericxl14 checks
+Nikolas18RUS checks
+** Dealing turn ** [ 7c ]
+ericxl14 checks
+Nikolas18RUS bets [$125]
+ericxl14 calls [$125]
+** Dealing river ** [ 6h ]
+ericxl14 checks
+Nikolas18RUS bets [$250]
+ericxl14 folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $500 ]
+
+
+
+#Game No : 484280536
+***** 888poker Hand History for Game 484280536 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:32:24
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,128 )
+Seat 2: PapaShango19 ( $2,170 )
+Seat 4: Pokeroid_KI ( $4,000 )
+Seat 6: Nikolas18RUS ( $4,015 )
+Seat 7: ericxl14 ( $2,820 )
+Seat 9: Doedet_mne ( $3,585 )
+Doedet_mne posts small blind [$25]
+neonails14 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 3c ]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS raises [$100]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $125 ]
+
+
+
+#Game No : 484280598
+***** 888poker Hand History for Game 484280598 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:32:42
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,078 )
+Seat 2: PapaShango19 ( $2,170 )
+Seat 4: Pokeroid_KI ( $4,000 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $2,820 )
+Seat 9: Doedet_mne ( $3,560 )
+neonails14 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 9d ]
+Pokeroid_KI raises [$100]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $125 ]
+
+
+
+#Game No : 484280668
+***** 888poker Hand History for Game 484280668 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:33:01
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,053 )
+Seat 2: PapaShango19 ( $2,120 )
+Seat 4: Pokeroid_KI ( $4,075 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $2,820 )
+Seat 9: Doedet_mne ( $3,560 )
+PapaShango19 posts small blind [$25]
+Pokeroid_KI posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 9c ]
+Nikolas18RUS folds
+ericxl14 raises [$175]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI calls [$125]
+** Dealing flop ** [ 8s, Kd, 7c ]
+Pokeroid_KI checks
+ericxl14 bets [$375]
+Pokeroid_KI calls [$375]
+** Dealing turn ** [ 4d ]
+Pokeroid_KI checks
+ericxl14 bets [$1,125]
+Pokeroid_KI folds
+** Summary **
+ericxl14 did not show his hand
+ericxl14 collected [ $1,125 ]
+
+
+
+#Game No : 484280834
+***** 888poker Hand History for Game 484280834 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:33:43
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,053 )
+Seat 2: PapaShango19 ( $2,095 )
+Seat 4: Pokeroid_KI ( $3,525 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,395 )
+Seat 9: Doedet_mne ( $3,560 )
+Pokeroid_KI posts small blind [$25]
+Nikolas18RUS posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 4s ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $75 ]
+
+
+
+#Game No : 484280908
+***** 888poker Hand History for Game 484280908 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:34:02
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,053 )
+Seat 2: PapaShango19 ( $2,095 )
+Seat 4: Pokeroid_KI ( $3,500 )
+Seat 6: Nikolas18RUS ( $4,115 )
+Seat 7: ericxl14 ( $3,395 )
+Seat 9: Doedet_mne ( $3,560 )
+Nikolas18RUS posts small blind [$25]
+ericxl14 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 7h ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI raises [$100]
+Nikolas18RUS folds
+ericxl14 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $125 ]
+
+
+
+#Game No : 484280990
+***** 888poker Hand History for Game 484280990 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:34:23
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,053 )
+Seat 2: PapaShango19 ( $2,095 )
+Seat 4: Pokeroid_KI ( $3,575 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,345 )
+Seat 9: Doedet_mne ( $3,560 )
+ericxl14 posts small blind [$25]
+Doedet_mne posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 8c ]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI raises [$100]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne calls [$50]
+** Dealing flop ** [ Td, 2c, 7c ]
+Doedet_mne checks
+Pokeroid_KI bets [$112]
+Doedet_mne folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $225 ]
+
+
+
+#Game No : 484281089
+***** 888poker Hand History for Game 484281089 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:34:53
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,053 )
+Seat 2: PapaShango19 ( $2,095 )
+Seat 4: Pokeroid_KI ( $3,700 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,320 )
+Seat 9: Doedet_mne ( $3,460 )
+Doedet_mne posts small blind [$25]
+neonails14 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 9d ]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $75 ]
+
+
+
+#Game No : 484281137
+***** 888poker Hand History for Game 484281137 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:35:06
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,078 )
+Seat 2: PapaShango19 ( $2,095 )
+Seat 4: Pokeroid_KI ( $3,700 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,320 )
+Seat 9: Doedet_mne ( $3,435 )
+neonails14 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Qh ]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $75 ]
+
+
+
+#Game No : 484281180
+***** 888poker Hand History for Game 484281180 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:35:19
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,053 )
+Seat 2: PapaShango19 ( $2,120 )
+Seat 4: Pokeroid_KI ( $3,700 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,320 )
+Seat 9: Doedet_mne ( $3,435 )
+PapaShango19 posts small blind [$25]
+Pokeroid_KI posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 8h ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $75 ]
+
+
+
+#Game No : 484281263
+***** 888poker Hand History for Game 484281263 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:35:41
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $2,053 )
+Seat 2: PapaShango19 ( $2,095 )
+Seat 4: Pokeroid_KI ( $3,725 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,320 )
+Seat 9: Doedet_mne ( $3,435 )
+Pokeroid_KI posts small blind [$25]
+Nikolas18RUS posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 2s ]
+ericxl14 folds
+Doedet_mne raises [$131]
+neonails14 calls [$131]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+** Dealing flop ** [ Ad, Ts, 3c ]
+Doedet_mne bets [$252]
+neonails14 folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $337 ]
+
+
+
+#Game No : 484281392
+***** 888poker Hand History for Game 484281392 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:36:18
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,922 )
+Seat 2: PapaShango19 ( $2,095 )
+Seat 4: Pokeroid_KI ( $3,700 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $3,320 )
+Seat 9: Doedet_mne ( $3,641 )
+Nikolas18RUS posts small blind [$25]
+ericxl14 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Jc ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 calls [$50]
+Pokeroid_KI raises [$150]
+Nikolas18RUS folds
+ericxl14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $175 ]
+
+
+
+#Game No : 484281493
+***** 888poker Hand History for Game 484281493 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:36:43
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,922 )
+Seat 2: PapaShango19 ( $2,045 )
+Seat 4: Pokeroid_KI ( $3,825 )
+Seat 6: Nikolas18RUS ( $4,015 )
+Seat 7: ericxl14 ( $3,270 )
+Seat 9: Doedet_mne ( $3,641 )
+ericxl14 posts small blind [$25]
+Doedet_mne posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 3h ]
+neonails14 calls [$50]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 calls [$25]
+Doedet_mne checks
+** Dealing flop ** [ Jh, 6c, Th ]
+ericxl14 checks
+Doedet_mne bets [$100]
+neonails14 calls [$100]
+ericxl14 calls [$100]
+** Dealing turn ** [ Jc ]
+ericxl14 checks
+Doedet_mne bets [$337]
+neonails14 folds
+ericxl14 folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $450 ]
+
+
+
+#Game No : 484281691
+***** 888poker Hand History for Game 484281691 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:37:42
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,772 )
+Seat 2: PapaShango19 ( $2,045 )
+Seat 4: Pokeroid_KI ( $3,825 )
+Seat 6: Nikolas18RUS ( $4,015 )
+Seat 7: ericxl14 ( $3,120 )
+Seat 9: Doedet_mne ( $3,941 )
+Doedet_mne posts small blind [$25]
+neonails14 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 7c ]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS raises [$100]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $125 ]
+
+
+
+#Game No : 484281817
+***** 888poker Hand History for Game 484281817 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:38:11
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,722 )
+Seat 2: PapaShango19 ( $2,045 )
+Seat 4: Pokeroid_KI ( $3,825 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,120 )
+Seat 9: Doedet_mne ( $3,916 )
+neonails14 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4h ]
+Pokeroid_KI raises [$100]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne calls [$100]
+neonails14 folds
+PapaShango19 calls [$50]
+** Dealing flop ** [ 6c, Jd, 2s ]
+PapaShango19 checks
+Pokeroid_KI bets [$100]
+Doedet_mne calls [$100]
+PapaShango19 folds
+** Dealing turn ** [ 6h ]
+Pokeroid_KI checks
+Doedet_mne bets [$262]
+Pokeroid_KI folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $525 ]
+
+
+
+#Game No : 484282036
+***** 888poker Hand History for Game 484282036 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 09:39:07
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,697 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $3,625 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,120 )
+Seat 9: Doedet_mne ( $4,241 )
+PapaShango19 posts small blind [$25]
+Pokeroid_KI posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Qd ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 raises [$175]
+Pokeroid_KI folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $100 ]
+
+
+
+#Game No : 484282179
+***** 888poker Hand History for Game 484282179 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:39:41
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,697 )
+Seat 2: PapaShango19 ( $1,995 )
+Seat 4: Pokeroid_KI ( $3,575 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,120 )
+Seat 9: Doedet_mne ( $4,241 )
+Pokeroid_KI posts small blind [$50]
+Nikolas18RUS posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Ts ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $150 ]
+
+
+
+#Game No : 484282260
+***** 888poker Hand History for Game 484282260 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:40:02
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,697 )
+Seat 2: PapaShango19 ( $1,995 )
+Seat 4: Pokeroid_KI ( $3,525 )
+Seat 6: Nikolas18RUS ( $4,140 )
+Seat 7: ericxl14 ( $3,120 )
+Seat 9: Doedet_mne ( $4,241 )
+Nikolas18RUS posts small blind [$50]
+ericxl14 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Ah ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 raises [$200]
+Pokeroid_KI calls [$200]
+Nikolas18RUS folds
+ericxl14 folds
+** Dealing flop ** [ 7d, 4c, 3c ]
+PapaShango19 checks
+Pokeroid_KI bets [$275]
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $550 ]
+
+
+
+#Game No : 484282389
+***** 888poker Hand History for Game 484282389 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:40:37
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,697 )
+Seat 2: PapaShango19 ( $1,795 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $3,020 )
+Seat 9: Doedet_mne ( $4,241 )
+ericxl14 posts small blind [$50]
+Doedet_mne posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 7s ]
+neonails14 raises [$300]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $250 ]
+
+
+
+#Game No : 484282474
+***** 888poker Hand History for Game 484282474 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:40:57
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,847 )
+Seat 2: PapaShango19 ( $1,795 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $4,141 )
+Doedet_mne posts small blind [$50]
+neonails14 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Qc ]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS raises [$200]
+ericxl14 folds
+Doedet_mne folds
+neonails14 calls [$100]
+** Dealing flop ** [ 9c, 7s, 9s ]
+neonails14 checks
+Nikolas18RUS bets [$225]
+neonails14 folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $450 ]
+
+
+
+#Game No : 484282589
+***** 888poker Hand History for Game 484282589 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:41:26
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,647 )
+Seat 2: PapaShango19 ( $1,795 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,340 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $4,091 )
+neonails14 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 4h ]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ 6c, Kc, 2h ]
+neonails14 checks
+PapaShango19 bets [$100]
+neonails14 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $200 ]
+
+
+
+#Game No : 484282788
+***** 888poker Hand History for Game 484282788 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:42:15
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,547 )
+Seat 2: PapaShango19 ( $1,895 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,340 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $4,091 )
+PapaShango19 posts small blind [$50]
+Pokeroid_KI posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 7d ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne raises [$200]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI calls [$100]
+** Dealing flop ** [ Js, Th, 7h ]
+Pokeroid_KI checks
+Doedet_mne checks
+** Dealing turn ** [ 9s ]
+Pokeroid_KI bets [$225]
+Doedet_mne folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $450 ]
+
+
+
+#Game No : 484282965
+***** 888poker Hand History for Game 484282965 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:42:51
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,547 )
+Seat 2: PapaShango19 ( $1,845 )
+Seat 4: Pokeroid_KI ( $4,125 )
+Seat 6: Nikolas18RUS ( $4,340 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $3,891 )
+Pokeroid_KI posts small blind [$50]
+Nikolas18RUS posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 6h ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 raises [$300]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $250 ]
+
+
+
+#Game No : 484283075
+***** 888poker Hand History for Game 484283075 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:43:17
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,697 )
+Seat 2: PapaShango19 ( $1,845 )
+Seat 4: Pokeroid_KI ( $4,075 )
+Seat 6: Nikolas18RUS ( $4,240 )
+Seat 7: ericxl14 ( $2,970 )
+Seat 9: Doedet_mne ( $3,891 )
+Nikolas18RUS posts small blind [$50]
+ericxl14 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 2c ]
+Doedet_mne folds
+neonails14 calls [$100]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS calls [$50]
+ericxl14 checks
+** Dealing flop ** [ Ac, As, 3h ]
+Nikolas18RUS checks
+ericxl14 checks
+neonails14 checks
+** Dealing turn ** [ Ks ]
+Nikolas18RUS checks
+ericxl14 bets [$100]
+neonails14 calls [$100]
+Nikolas18RUS calls [$100]
+** Dealing river ** [ 4h ]
+Nikolas18RUS checks
+ericxl14 checks
+neonails14 bets [$300]
+Nikolas18RUS folds
+ericxl14 folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $600 ]
+
+
+
+#Game No : 484283284
+***** 888poker Hand History for Game 484283284 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:44:10
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,097 )
+Seat 2: PapaShango19 ( $1,845 )
+Seat 4: Pokeroid_KI ( $4,075 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,770 )
+Seat 9: Doedet_mne ( $3,891 )
+ericxl14 posts small blind [$50]
+Doedet_mne posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 8s ]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI raises [$200]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne calls [$100]
+** Dealing flop ** [ Js, 6s, Ks ]
+Doedet_mne checks
+Pokeroid_KI checks
+** Dealing turn ** [ 8h ]
+Doedet_mne checks
+Pokeroid_KI checks
+** Dealing river ** [ 4c ]
+Doedet_mne checks
+Pokeroid_KI checks
+** Summary **
+Doedet_mne shows [ 9c, 9h ]
+Pokeroid_KI mucks [ Th, Ac ]
+Doedet_mne collected [ $450 ]
+
+
+
+#Game No : 484283446
+***** 888poker Hand History for Game 484283446 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:44:49
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,097 )
+Seat 2: PapaShango19 ( $1,845 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,141 )
+Doedet_mne posts small blind [$50]
+neonails14 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 3d ]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $150 ]
+
+
+
+#Game No : 484283506
+***** 888poker Hand History for Game 484283506 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:45:05
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,147 )
+Seat 2: PapaShango19 ( $1,845 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+neonails14 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Ac ]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 calls [$50]
+PapaShango19 raises [$300]
+neonails14 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $200 ]
+
+
+
+#Game No : 484283646
+***** 888poker Hand History for Game 484283646 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:45:40
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+PapaShango19 posts small blind [$50]
+Pokeroid_KI posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3s ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $150 ]
+
+
+
+#Game No : 484283713
+***** 888poker Hand History for Game 484283713 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:45:57
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,895 )
+Seat 4: Pokeroid_KI ( $3,925 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+Pokeroid_KI posts small blind [$50]
+Nikolas18RUS posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 7d ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $150 ]
+
+
+
+#Game No : 484283806
+***** 888poker Hand History for Game 484283806 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:46:21
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,895 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,090 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+Nikolas18RUS posts small blind [$50]
+ericxl14 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 8s ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+** Summary **
+ericxl14 did not show his hand
+ericxl14 collected [ $150 ]
+
+
+
+#Game No : 484283879
+***** 888poker Hand History for Game 484283879 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:46:39
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,895 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,770 )
+Seat 9: Doedet_mne ( $4,091 )
+ericxl14 posts small blind [$50]
+Doedet_mne posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 2s ]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $150 ]
+
+
+
+#Game No : 484283916
+***** 888poker Hand History for Game 484283916 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:46:50
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,895 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,141 )
+Doedet_mne posts small blind [$50]
+neonails14 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2s ]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $150 ]
+
+
+
+#Game No : 484284004
+***** 888poker Hand History for Game 484284004 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 09:47:15
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,097 )
+Seat 2: PapaShango19 ( $1,895 )
+Seat 4: Pokeroid_KI ( $3,875 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+neonails14 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Kd ]
+Pokeroid_KI raises [$200]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $250 ]
+
+
+
+#Game No : 484284087
+***** 888poker Hand History for Game 484284087 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:47:37
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,795 )
+Seat 4: Pokeroid_KI ( $4,025 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+PapaShango19 posts small blind [$75]
+Pokeroid_KI posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 2h ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $225 ]
+
+
+
+#Game No : 484284163
+***** 888poker Hand History for Game 484284163 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:47:55
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $4,100 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+Pokeroid_KI posts small blind [$75]
+Nikolas18RUS posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 2c ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $225 ]
+
+
+
+#Game No : 484284248
+***** 888poker Hand History for Game 484284248 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:48:19
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $4,025 )
+Seat 6: Nikolas18RUS ( $4,115 )
+Seat 7: ericxl14 ( $2,720 )
+Seat 9: Doedet_mne ( $4,091 )
+Nikolas18RUS posts small blind [$75]
+ericxl14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Qh ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI raises [$300]
+Nikolas18RUS folds
+ericxl14 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $375 ]
+
+
+
+#Game No : 484284317
+***** 888poker Hand History for Game 484284317 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:48:38
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $4,250 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,570 )
+Seat 9: Doedet_mne ( $4,091 )
+ericxl14 posts small blind [$75]
+Doedet_mne posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Ks ]
+neonails14 folds
+PapaShango19 raises [$1,720]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 484284390
+***** 888poker Hand History for Game 484284390 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:48:57
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $4,047 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $4,250 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $2,495 )
+Seat 9: Doedet_mne ( $3,941 )
+Doedet_mne posts small blind [$75]
+neonails14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ts ]
+PapaShango19 folds
+Pokeroid_KI raises [$300]
+Nikolas18RUS folds
+ericxl14 calls [$300]
+Doedet_mne folds
+neonails14 calls [$150]
+** Dealing flop ** [ 2c, Th, Qs ]
+neonails14 checks
+Pokeroid_KI bets [$300]
+ericxl14 calls [$300]
+neonails14 folds
+** Dealing turn ** [ 3h ]
+Pokeroid_KI bets [$450]
+ericxl14 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $1,575 ]
+
+
+
+#Game No : 484284616
+***** 888poker Hand History for Game 484284616 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:49:52
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,747 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $5,225 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $3,895 )
+Seat 9: Doedet_mne ( $3,866 )
+neonails14 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 3c ]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 484284690
+***** 888poker Hand History for Game 484284690 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:50:13
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $2,020 )
+Seat 4: Pokeroid_KI ( $5,225 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $3,895 )
+Seat 9: Doedet_mne ( $3,866 )
+PapaShango19 posts small blind [$75]
+Pokeroid_KI posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Qh ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $225 ]
+
+
+
+#Game No : 484284754
+***** 888poker Hand History for Game 484284754 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:50:30
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $5,300 )
+Seat 6: Nikolas18RUS ( $4,040 )
+Seat 7: ericxl14 ( $3,895 )
+Seat 9: Doedet_mne ( $3,866 )
+Pokeroid_KI posts small blind [$75]
+Nikolas18RUS posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Ts ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI calls [$75]
+Nikolas18RUS checks
+** Dealing flop ** [ 6s, 2d, Kh ]
+Pokeroid_KI checks
+Nikolas18RUS bets [$225]
+Pokeroid_KI folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $300 ]
+
+
+
+#Game No : 484284880
+***** 888poker Hand History for Game 484284880 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:51:04
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,190 )
+Seat 7: ericxl14 ( $3,895 )
+Seat 9: Doedet_mne ( $3,866 )
+Nikolas18RUS posts small blind [$75]
+ericxl14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 6d ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS raises [$225]
+ericxl14 folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $300 ]
+
+
+
+#Game No : 484284977
+***** 888poker Hand History for Game 484284977 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:51:26
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,340 )
+Seat 7: ericxl14 ( $3,745 )
+Seat 9: Doedet_mne ( $3,866 )
+ericxl14 posts small blind [$75]
+Doedet_mne posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 6s ]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $225 ]
+
+
+
+#Game No : 484285036
+***** 888poker Hand History for Game 484285036 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:51:41
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,340 )
+Seat 7: ericxl14 ( $3,670 )
+Seat 9: Doedet_mne ( $3,941 )
+Doedet_mne posts small blind [$75]
+neonails14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 8s ]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $225 ]
+
+
+
+#Game No : 484285086
+***** 888poker Hand History for Game 484285086 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:51:54
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,747 )
+Seat 2: PapaShango19 ( $1,945 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,340 )
+Seat 7: ericxl14 ( $3,670 )
+Seat 9: Doedet_mne ( $3,866 )
+neonails14 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 9h ]
+Pokeroid_KI folds
+Nikolas18RUS raises [$300]
+ericxl14 folds
+Doedet_mne calls [$300]
+neonails14 folds
+PapaShango19 folds
+** Dealing flop ** [ 9c, Qc, 5s ]
+Nikolas18RUS bets [$412]
+Doedet_mne folds
+** Summary **
+Nikolas18RUS did not show his hand
+Nikolas18RUS collected [ $825 ]
+
+
+
+#Game No : 484285181
+***** 888poker Hand History for Game 484285181 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:52:22
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,795 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,865 )
+Seat 7: ericxl14 ( $3,670 )
+Seat 9: Doedet_mne ( $3,566 )
+PapaShango19 posts small blind [$75]
+Pokeroid_KI posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Kh ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Pokeroid_KI did not show his hand
+Pokeroid_KI collected [ $225 ]
+
+
+
+#Game No : 484285231
+***** 888poker Hand History for Game 484285231 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:52:36
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $5,225 )
+Seat 6: Nikolas18RUS ( $4,865 )
+Seat 7: ericxl14 ( $3,670 )
+Seat 9: Doedet_mne ( $3,566 )
+Pokeroid_KI posts small blind [$75]
+Nikolas18RUS posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 8d ]
+ericxl14 folds
+Doedet_mne folds
+neonails14 raises [$450]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $375 ]
+
+
+
+#Game No : 484285351
+***** 888poker Hand History for Game 484285351 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:53:05
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,897 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,715 )
+Seat 7: ericxl14 ( $3,670 )
+Seat 9: Doedet_mne ( $3,566 )
+Nikolas18RUS posts small blind [$75]
+ericxl14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 5c ]
+Doedet_mne folds
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS raises [$225]
+ericxl14 calls [$150]
+** Dealing flop ** [ 6c, Kc, 4h ]
+Nikolas18RUS bets [$300]
+ericxl14 calls [$300]
+** Dealing turn ** [ 6h ]
+Nikolas18RUS checks
+ericxl14 bets [$600]
+Nikolas18RUS folds
+** Summary **
+ericxl14 did not show his hand
+ericxl14 collected [ $1,200 ]
+
+
+
+#Game No : 484285520
+***** 888poker Hand History for Game 484285520 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:53:51
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,897 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,115 )
+Seat 7: ericxl14 ( $4,270 )
+Seat 9: Doedet_mne ( $3,566 )
+ericxl14 posts small blind [$75]
+Doedet_mne posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 3c ]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $225 ]
+
+
+
+#Game No : 484285590
+***** 888poker Hand History for Game 484285590 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:54:10
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,897 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $5,150 )
+Seat 6: Nikolas18RUS ( $4,115 )
+Seat 7: ericxl14 ( $4,195 )
+Seat 9: Doedet_mne ( $3,641 )
+Doedet_mne posts small blind [$75]
+neonails14 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 7d ]
+PapaShango19 folds
+Pokeroid_KI raises [$300]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne calls [$225]
+neonails14 folds
+** Dealing flop ** [ Jc, 3d, Ad ]
+Doedet_mne checks
+Pokeroid_KI bets [$300]
+Doedet_mne calls [$300]
+** Dealing turn ** [ Th ]
+Doedet_mne checks
+Pokeroid_KI bets [$450]
+Doedet_mne calls [$450]
+** Dealing river ** [ Ts ]
+Doedet_mne checks
+Pokeroid_KI bets [$600]
+Doedet_mne calls [$600]
+** Summary **
+Pokeroid_KI shows [ Qd, Kd ]
+Doedet_mne mucks [ 8c, Ah ]
+Pokeroid_KI collected [ $3,450 ]
+
+
+
+#Game No : 484285753
+***** 888poker Hand History for Game 484285753 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:54:59
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,747 )
+Seat 2: PapaShango19 ( $1,720 )
+Seat 4: Pokeroid_KI ( $6,950 )
+Seat 6: Nikolas18RUS ( $4,115 )
+Seat 7: ericxl14 ( $4,195 )
+Seat 9: Doedet_mne ( $3,991 )
+neonails14 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Jc ]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne raises [$300]
+neonails14 folds
+PapaShango19 folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $375 ]
+
+
+
+#Game No : 484286633
+***** 888poker Hand History for Game 484286633 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 09:59:59
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,570 )
+Seat 4: Pokeroid_KI ( $6,950 )
+Seat 6: Nikolas18RUS ( $4,115 )
+Seat 7: ericxl14 ( $4,195 )
+Seat 9: Doedet_mne ( $4,216 )
+PapaShango19 posts small blind [$75]
+Pokeroid_KI posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 8d ]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne raises [$300]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+** Summary **
+Doedet_mne did not show his hand
+Doedet_mne collected [ $375 ]
+
+
+
+#Game No : 484286713
+***** 888poker Hand History for Game 484286713 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:00:25
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,495 )
+Seat 4: Pokeroid_KI ( $6,800 )
+Seat 6: Nikolas18RUS ( $4,115 )
+Seat 7: ericxl14 ( $4,195 )
+Seat 9: Doedet_mne ( $4,441 )
+Pokeroid_KI posts small blind [$100]
+Nikolas18RUS posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 3d ]
+ericxl14 folds
+Doedet_mne raises [$400]
+neonails14 folds
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS raises [$825]
+Doedet_mne calls [$625]
+** Dealing flop ** [ 5d, 4d, 6d ]
+Nikolas18RUS bets [$1,075]
+Doedet_mne raises [$3,416]
+Nikolas18RUS calls [$2,015]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ Ts ]
+** Summary **
+Nikolas18RUS shows [ Jc, Js ]
+Doedet_mne shows [ Qs, Kd ]
+Doedet_mne collected [ $8,330 ]
+
+
+
+#Game No : 484286855
+***** 888poker Hand History for Game 484286855 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:01:11
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,672 )
+Seat 2: PapaShango19 ( $1,495 )
+Seat 4: Pokeroid_KI ( $6,700 )
+Seat 6: Nikolas18RUS ( $2,000 )
+Seat 7: ericxl14 ( $4,195 )
+Seat 9: Doedet_mne ( $8,656 )
+Nikolas18RUS posts small blind [$100]
+ericxl14 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 8c ]
+Doedet_mne folds
+neonails14 raises [$3,672]
+PapaShango19 folds
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+** Summary **
+neonails14 did not show his hand
+neonails14 collected [ $500 ]
+
+
+
+#Game No : 484286903
+***** 888poker Hand History for Game 484286903 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:01:25
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,972 )
+Seat 2: PapaShango19 ( $1,495 )
+Seat 4: Pokeroid_KI ( $6,700 )
+Seat 6: Nikolas18RUS ( $3,900 )
+Seat 7: ericxl14 ( $3,995 )
+Seat 9: Doedet_mne ( $8,656 )
+ericxl14 posts small blind [$100]
+Doedet_mne posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 6h ]
+neonails14 folds
+PapaShango19 raises [$1,495]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 484286964
+***** 888poker Hand History for Game 484286964 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:01:39
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: neonails14 ( $3,972 )
+Seat 2: PapaShango19 ( $1,795 )
+Seat 4: Pokeroid_KI ( $6,700 )
+Seat 6: Nikolas18RUS ( $3,900 )
+Seat 7: ericxl14 ( $3,895 )
+Seat 9: Doedet_mne ( $8,456 )
+Doedet_mne posts small blind [$100]
+neonails14 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 9d ]
+PapaShango19 folds
+Pokeroid_KI raises [$400]
+Nikolas18RUS folds
+ericxl14 folds
+Doedet_mne folds
+neonails14 calls [$200]
+** Dealing flop ** [ 4c, Tc, 3h ]
+neonails14 bets [$3,572]
+Pokeroid_KI calls [$3,572]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ 7c ]
+** Summary **
+neonails14 shows [ 5s, 5h ]
+Pokeroid_KI shows [ 2c, Ac ]
+Pokeroid_KI collected [ $8,044 ]
+
+
+
+#Game No : 484287180
+***** 888poker Hand History for Game 484287180 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:02:43
+Tournament #63789278 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 2: PapaShango19 ( $1,795 )
+Seat 4: Pokeroid_KI ( $10,772 )
+Seat 6: Nikolas18RUS ( $3,900 )
+Seat 7: ericxl14 ( $3,895 )
+Seat 9: Doedet_mne ( $8,356 )
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Kd ]
+Pokeroid_KI folds
+Nikolas18RUS folds
+ericxl14 calls [$200]
+Doedet_mne folds
+PapaShango19 raises [$1,595]
+ericxl14 calls [$1,595]
+** Dealing flop ** [ 7d, 5c, 8s ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ Ad ]
+** Summary **
+PapaShango19 shows [ Qc, Kd ]
+ericxl14 shows [ 7h, As ]
+ericxl14 collected [ $3,590 ]
+
+
+

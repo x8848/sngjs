@@ -1,0 +1,2305 @@
+#Game No : 638834283
+***** 888poker Hand History for Game 638834283 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 04:15:25
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: hubinbin111 ( $1,452 )
+Seat 2: dasssss9 ( $1,526 )
+Seat 3: simpsonbr18 ( $1,155 )
+Seat 4: Chippy_B ( $1,715 )
+Seat 5: yomacha ( $3,575 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 9: deClev ( $1,410 )
+Seat 10: NaturalOne92 ( $2,850 )
+hubinbin111 posts small blind [$15]
+dasssss9 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Ts ]
+simpsonbr18 folds
+Chippy_B folds
+yomacha folds
+PapaShango19 folds
+deClev raises [$60]
+NaturalOne92 calls [$60]
+hubinbin111 folds
+dasssss9 calls [$30]
+** Dealing flop ** [ Ks, Td, 3c ]
+dasssss9 checks
+deClev checks
+NaturalOne92 bets [$240]
+dasssss9 folds
+deClev calls [$240]
+** Dealing turn ** [ 9c ]
+deClev checks
+NaturalOne92 bets [$300]
+deClev raises [$1,110]
+NaturalOne92 calls [$810]
+** Dealing river ** [ Qs ]
+** Summary **
+deClev shows [ Ad, Tc ]
+NaturalOne92 shows [ Qc, Th ]
+NaturalOne92 collected [ $2,895 ]
+
+
+
+#Game No : 638834596
+***** 888poker Hand History for Game 638834596 *****
+$15/$30 Blinds No Limit Holdem - *** 22 11 2014 04:16:59
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: hubinbin111 ( $1,437 )
+Seat 2: dasssss9 ( $1,466 )
+Seat 3: simpsonbr18 ( $1,155 )
+Seat 4: Chippy_B ( $1,715 )
+Seat 5: yomacha ( $3,575 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $4,335 )
+dasssss9 posts small blind [$15]
+simpsonbr18 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Ks ]
+Chippy_B folds
+yomacha folds
+PapaShango19 raises [$60]
+deClev folds
+NaturalOne92 folds
+hubinbin111 calls [$60]
+dasssss9 folds
+simpsonbr18 folds
+** Dealing flop ** [ 9h, 5c, 6c ]
+PapaShango19 checks
+hubinbin111 bets [$82]
+PapaShango19 folds
+** Summary **
+hubinbin111 collected [ $165 ]
+
+
+
+#Game No : 638834809
+***** 888poker Hand History for Game 638834809 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 04:18:02
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,542 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $1,125 )
+Seat 4: Chippy_B ( $1,715 )
+Seat 5: yomacha ( $3,575 )
+Seat 6: PapaShango19 ( $1,440 )
+Seat 7: Power915 ( $1,500 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $4,335 )
+simpsonbr18 posts small blind [$25]
+Chippy_B posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 4h ]
+yomacha calls [$50]
+PapaShango19 folds
+Power915 raises [$100]
+deClev folds
+NaturalOne92 folds
+hubinbin111 calls [$100]
+dasssss9 folds
+simpsonbr18 folds
+Chippy_B folds
+yomacha calls [$50]
+** Dealing flop ** [ 8d, Jd, 2c ]
+yomacha checks
+Power915 bets [$50]
+hubinbin111 raises [$262]
+yomacha folds
+Power915 folds
+** Summary **
+hubinbin111 did not show his hand
+hubinbin111 collected [ $475 ]
+
+
+
+#Game No : 638834996
+***** 888poker Hand History for Game 638834996 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 04:18:56
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,867 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $1,100 )
+Seat 4: Chippy_B ( $1,665 )
+Seat 5: yomacha ( $3,475 )
+Seat 6: PapaShango19 ( $1,440 )
+Seat 7: Power915 ( $1,350 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $4,335 )
+Chippy_B posts small blind [$25]
+yomacha posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 8h ]
+PapaShango19 raises [$150]
+Power915 folds
+deClev folds
+NaturalOne92 calls [$150]
+hubinbin111 calls [$150]
+dasssss9 folds
+simpsonbr18 folds
+Chippy_B calls [$125]
+yomacha calls [$100]
+** Dealing flop ** [ 4c, Th, 2d ]
+Chippy_B checks
+yomacha checks
+PapaShango19 bets [$375]
+NaturalOne92 calls [$375]
+hubinbin111 folds
+Chippy_B folds
+yomacha calls [$375]
+** Dealing turn ** [ Jd ]
+yomacha checks
+PapaShango19 checks
+NaturalOne92 checks
+** Dealing river ** [ Kh ]
+yomacha checks
+PapaShango19 checks
+NaturalOne92 checks
+** Summary **
+yomacha shows [ 9h, 9c ]
+PapaShango19 mucks [ 8c, 8h ]
+NaturalOne92 mucks [ 3s, Ac ]
+yomacha collected [ $1,875 ]
+
+
+
+#Game No : 638835207
+***** 888poker Hand History for Game 638835207 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 04:20:01
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,717 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $1,100 )
+Seat 4: Chippy_B ( $1,515 )
+Seat 5: yomacha ( $4,825 )
+Seat 6: PapaShango19 ( $915 )
+Seat 7: Power915 ( $1,350 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $3,810 )
+yomacha posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 9h ]
+Power915 calls [$50]
+deClev folds
+NaturalOne92 raises [$3,810]
+hubinbin111 folds
+dasssss9 folds
+simpsonbr18 folds
+Chippy_B calls [$1,515]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+** Dealing flop ** [ Kc, 5c, 6c ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Ac ]
+** Summary **
+Chippy_B shows [ 8d, 9s ]
+NaturalOne92 shows [ 6h, Kh ]
+NaturalOne92 collected [ $3,155 ]
+
+
+
+#Game No : 638835389
+***** 888poker Hand History for Game 638835389 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 04:20:51
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,717 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $1,100 )
+Seat 4: Chippy_B ( $1,500 )
+Seat 5: yomacha ( $4,800 )
+Seat 6: PapaShango19 ( $865 )
+Seat 7: Power915 ( $1,300 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $5,450 )
+PapaShango19 posts small blind [$25]
+Power915 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 8h ]
+deClev folds
+NaturalOne92 folds
+hubinbin111 folds
+dasssss9 folds
+simpsonbr18 raises [$100]
+Chippy_B folds
+yomacha calls [$100]
+PapaShango19 folds
+Power915 calls [$50]
+** Dealing flop ** [ 3h, 9h, Jc ]
+Power915 checks
+simpsonbr18 checks
+yomacha checks
+** Dealing turn ** [ 3c ]
+Power915 checks
+simpsonbr18 bets [$150]
+yomacha calls [$150]
+Power915 folds
+** Dealing river ** [ 7s ]
+simpsonbr18 checks
+yomacha checks
+** Summary **
+simpsonbr18 shows [ 8d, Ah ]
+yomacha shows [ As, 9c ]
+yomacha collected [ $625 ]
+
+
+
+#Game No : 638835585
+***** 888poker Hand History for Game 638835585 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 04:22:00
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,717 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $850 )
+Seat 4: Chippy_B ( $1,500 )
+Seat 5: yomacha ( $5,175 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $1,200 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $5,450 )
+Power915 posts small blind [$25]
+deClev posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 9s ]
+NaturalOne92 raises [$100]
+hubinbin111 folds
+dasssss9 folds
+simpsonbr18 folds
+Chippy_B raises [$1,500]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev folds
+NaturalOne92 calls [$1,400]
+** Dealing flop ** [ 2s, 2d, Jh ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 6c ]
+** Summary **
+Chippy_B shows [ Ac, 8d ]
+NaturalOne92 shows [ Jc, As ]
+NaturalOne92 collected [ $3,075 ]
+
+
+
+#Game No : 638835776
+***** 888poker Hand History for Game 638835776 *****
+$25/$50 Blinds No Limit Holdem - *** 22 11 2014 04:23:03
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: hubinbin111 ( $1,717 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $850 )
+Seat 5: yomacha ( $5,175 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $1,175 )
+Seat 9: deClev ( $2,950 )
+Seat 10: NaturalOne92 ( $7,025 )
+deClev posts small blind [$25]
+NaturalOne92 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Qh ]
+hubinbin111 folds
+dasssss9 folds
+simpsonbr18 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev raises [$75]
+NaturalOne92 calls [$50]
+** Dealing flop ** [ 7h, Ts, As ]
+deClev checks
+NaturalOne92 checks
+** Dealing turn ** [ 4d ]
+deClev checks
+NaturalOne92 checks
+** Dealing river ** [ 5s ]
+deClev checks
+NaturalOne92 checks
+** Summary **
+deClev shows [ Kd, 2d ]
+NaturalOne92 shows [ 6h, 7d ]
+NaturalOne92 collected [ $200 ]
+
+
+
+#Game No : 638835964
+***** 888poker Hand History for Game 638835964 *****
+$50/$100 Blinds No Limit Holdem - *** 22 11 2014 04:24:08
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,717 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $850 )
+Seat 4: Lucyan23 ( $1,500 )
+Seat 5: yomacha ( $5,175 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $1,175 )
+Seat 9: deClev ( $2,850 )
+Seat 10: NaturalOne92 ( $7,125 )
+NaturalOne92 posts small blind [$50]
+hubinbin111 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 3d ]
+dasssss9 folds
+simpsonbr18 raises [$850]
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev folds
+NaturalOne92 folds
+hubinbin111 folds
+** Summary **
+simpsonbr18 did not show his hand
+simpsonbr18 collected [ $250 ]
+
+
+
+#Game No : 638836045
+***** 888poker Hand History for Game 638836045 *****
+$50/$100 Blinds No Limit Holdem - *** 22 11 2014 04:24:40
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,617 )
+Seat 2: dasssss9 ( $1,451 )
+Seat 3: simpsonbr18 ( $1,000 )
+Seat 4: Lucyan23 ( $1,500 )
+Seat 5: yomacha ( $5,175 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $1,175 )
+Seat 9: deClev ( $2,850 )
+Seat 10: NaturalOne92 ( $7,075 )
+hubinbin111 posts small blind [$50]
+dasssss9 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 3c ]
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev raises [$200]
+NaturalOne92 folds
+hubinbin111 folds
+dasssss9 folds
+** Summary **
+deClev did not show his hand
+deClev collected [ $250 ]
+
+
+
+#Game No : 638836143
+***** 888poker Hand History for Game 638836143 *****
+$50/$100 Blinds No Limit Holdem - *** 22 11 2014 04:25:13
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $1,567 )
+Seat 2: dasssss9 ( $1,351 )
+Seat 3: simpsonbr18 ( $1,000 )
+Seat 4: Lucyan23 ( $1,500 )
+Seat 5: yomacha ( $5,175 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $1,175 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $7,075 )
+dasssss9 posts small blind [$50]
+simpsonbr18 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 8s ]
+Lucyan23 calls [$100]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev folds
+NaturalOne92 folds
+hubinbin111 raises [$337]
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 raises [$1,400]
+hubinbin111 calls [$1,163]
+** Dealing flop ** [ 8c, 2s, 4s ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 2h ]
+** Summary **
+hubinbin111 shows [ 9d, Ah ]
+Lucyan23 shows [ Js, As ]
+Lucyan23 collected [ $3,150 ]
+
+
+
+#Game No : 638836299
+***** 888poker Hand History for Game 638836299 *****
+$50/$100 Blinds No Limit Holdem - *** 22 11 2014 04:26:11
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $67 )
+Seat 2: dasssss9 ( $1,301 )
+Seat 3: simpsonbr18 ( $900 )
+Seat 4: Lucyan23 ( $3,150 )
+Seat 5: yomacha ( $5,175 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $1,175 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $7,075 )
+simpsonbr18 posts small blind [$50]
+Lucyan23 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Js ]
+yomacha calls [$100]
+PapaShango19 folds
+Power915 raises [$300]
+deClev folds
+NaturalOne92 folds
+hubinbin111 folds
+dasssss9 folds
+simpsonbr18 raises [$850]
+Lucyan23 calls [$800]
+yomacha folds
+Power915 raises [$875]
+Lucyan23 calls [$275]
+** Dealing flop ** [ 8c, Jh, 7c ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ As ]
+** Summary **
+simpsonbr18 shows [ Ac, Ks ]
+Lucyan23 shows [ Ah, 2h ]
+Power915 shows [ Qd, Kc ]
+simpsonbr18 collected [ $2,800 ]
+Lucyan23 collected [ $550 ]
+
+
+
+#Game No : 638836517
+***** 888poker Hand History for Game 638836517 *****
+$50/$100 Blinds No Limit Holdem - *** 22 11 2014 04:27:20
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $67 )
+Seat 2: dasssss9 ( $1,301 )
+Seat 3: simpsonbr18 ( $2,800 )
+Seat 4: Lucyan23 ( $2,525 )
+Seat 5: yomacha ( $5,075 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $3,000 )
+Seat 9: deClev ( $3,000 )
+Seat 10: NaturalOne92 ( $7,075 )
+Lucyan23 posts small blind [$50]
+yomacha posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Jc ]
+PapaShango19 folds
+Power915 folds
+deClev raises [$200]
+NaturalOne92 folds
+hubinbin111 folds
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 calls [$150]
+yomacha calls [$100]
+** Dealing flop ** [ 6h, 4s, As ]
+Lucyan23 checks
+yomacha checks
+deClev bets [$400]
+Lucyan23 folds
+yomacha folds
+** Summary **
+deClev did not show his hand
+deClev collected [ $600 ]
+
+
+
+#Game No : 638836798
+***** 888poker Hand History for Game 638836798 *****
+$50/$100 Blinds No Limit Holdem - *** 22 11 2014 04:28:42
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: hubinbin111 ( $67 )
+Seat 2: dasssss9 ( $1,301 )
+Seat 3: simpsonbr18 ( $2,800 )
+Seat 4: Lucyan23 ( $2,325 )
+Seat 5: yomacha ( $4,875 )
+Seat 6: PapaShango19 ( $840 )
+Seat 7: Power915 ( $3,000 )
+Seat 9: deClev ( $3,400 )
+Seat 10: NaturalOne92 ( $7,075 )
+yomacha posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 8d ]
+Power915 calls [$100]
+deClev folds
+NaturalOne92 folds
+hubinbin111 calls [$67]
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 checks
+** Dealing flop ** [ 7d, 5c, Qc ]
+PapaShango19 checks
+Power915 checks
+** Dealing turn ** [ Qs ]
+PapaShango19 bets [$100]
+Power915 folds
+** Dealing river ** [ Jh ]
+** Summary **
+hubinbin111 shows [ 8h, 9h ]
+PapaShango19 shows [ 7c, 8d ]
+PapaShango19 collected [ $251 ]
+PapaShango19 collected [ $66 ]
+
+
+
+#Game No : 638836944
+***** 888poker Hand History for Game 638836944 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:29:34
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: dasssss9 ( $1,301 )
+Seat 3: simpsonbr18 ( $2,800 )
+Seat 4: Lucyan23 ( $2,325 )
+Seat 5: yomacha ( $4,825 )
+Seat 6: PapaShango19 ( $1,057 )
+Seat 7: Power915 ( $2,900 )
+Seat 9: deClev ( $3,400 )
+Seat 10: NaturalOne92 ( $7,075 )
+PapaShango19 posts small blind [$75]
+Power915 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Js ]
+deClev folds
+NaturalOne92 calls [$150]
+dasssss9 calls [$150]
+simpsonbr18 folds
+Lucyan23 folds
+yomacha calls [$150]
+PapaShango19 folds
+Power915 checks
+** Dealing flop ** [ Jc, Jd, Tc ]
+Power915 checks
+NaturalOne92 checks
+dasssss9 checks
+yomacha bets [$337]
+Power915 folds
+NaturalOne92 folds
+dasssss9 folds
+** Summary **
+yomacha collected [ $675 ]
+
+
+
+#Game No : 638837076
+***** 888poker Hand History for Game 638837076 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:30:18
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: mak.de1963 ( $1,500 )
+Seat 2: dasssss9 ( $1,151 )
+Seat 3: simpsonbr18 ( $2,800 )
+Seat 4: Lucyan23 ( $2,325 )
+Seat 5: yomacha ( $5,350 )
+Seat 6: PapaShango19 ( $982 )
+Seat 7: Power915 ( $2,750 )
+Seat 9: deClev ( $3,400 )
+Seat 10: NaturalOne92 ( $6,925 )
+Power915 posts small blind [$75]
+deClev posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Jc ]
+NaturalOne92 folds
+mak.de1963 folds
+dasssss9 folds
+simpsonbr18 calls [$150]
+Lucyan23 calls [$150]
+yomacha calls [$150]
+PapaShango19 folds
+Power915 raises [$2,675]
+deClev folds
+simpsonbr18 folds
+Lucyan23 calls [$2,175]
+yomacha folds
+** Dealing flop ** [ 3s, 2c, 2s ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 7d ]
+** Summary **
+Lucyan23 shows [ Qh, 9h ]
+Power915 shows [ 9d, Ah ]
+Power915 collected [ $5,100 ]
+
+
+
+#Game No : 638837220
+***** 888poker Hand History for Game 638837220 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:31:13
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: mak.de1963 ( $1,500 )
+Seat 2: dasssss9 ( $1,151 )
+Seat 3: simpsonbr18 ( $2,650 )
+Seat 4: Lucyan23 ( $1,500 )
+Seat 5: yomacha ( $5,200 )
+Seat 6: PapaShango19 ( $982 )
+Seat 7: Power915 ( $5,525 )
+Seat 9: deClev ( $3,250 )
+Seat 10: NaturalOne92 ( $6,925 )
+deClev posts small blind [$75]
+NaturalOne92 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2h ]
+mak.de1963 calls [$150]
+dasssss9 raises [$1,151]
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev folds
+NaturalOne92 folds
+mak.de1963 calls [$1,001]
+** Dealing flop ** [ 4s, 5c, 8h ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 3h ]
+** Summary **
+mak.de1963 shows [ Qd, Th ]
+dasssss9 shows [ Ac, Jh ]
+dasssss9 collected [ $2,527 ]
+
+
+
+#Game No : 638837328
+***** 888poker Hand History for Game 638837328 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:31:51
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: mak.de1963 ( $349 )
+Seat 2: dasssss9 ( $2,527 )
+Seat 3: simpsonbr18 ( $2,650 )
+Seat 4: Lucyan23 ( $1,500 )
+Seat 5: yomacha ( $5,200 )
+Seat 6: PapaShango19 ( $982 )
+Seat 7: Power915 ( $5,525 )
+Seat 9: deClev ( $3,175 )
+Seat 10: NaturalOne92 ( $6,775 )
+NaturalOne92 posts small blind [$75]
+mak.de1963 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Qd ]
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 folds
+yomacha calls [$150]
+PapaShango19 raises [$982]
+Power915 folds
+deClev folds
+NaturalOne92 folds
+mak.de1963 calls [$199]
+yomacha folds
+** Dealing flop ** [ Kc, Ad, 8d ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Qh ]
+** Summary **
+mak.de1963 shows [ 4s, 8c ]
+PapaShango19 shows [ Ah, Qd ]
+PapaShango19 collected [ $923 ]
+
+
+
+#Game No : 638837456
+***** 888poker Hand History for Game 638837456 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:32:37
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: dasssss9 ( $2,527 )
+Seat 3: simpsonbr18 ( $2,650 )
+Seat 4: Lucyan23 ( $1,500 )
+Seat 5: yomacha ( $5,050 )
+Seat 6: PapaShango19 ( $1,556 )
+Seat 7: Power915 ( $5,525 )
+Seat 9: deClev ( $3,175 )
+Seat 10: NaturalOne92 ( $6,700 )
+dasssss9 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 4c ]
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev raises [$300]
+NaturalOne92 folds
+dasssss9 folds
+** Summary **
+deClev did not show his hand
+deClev collected [ $300 ]
+
+
+
+#Game No : 638837538
+***** 888poker Hand History for Game 638837538 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:33:04
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: dasssss9 ( $2,377 )
+Seat 3: simpsonbr18 ( $2,650 )
+Seat 4: Lucyan23 ( $1,500 )
+Seat 5: yomacha ( $5,050 )
+Seat 6: PapaShango19 ( $1,556 )
+Seat 7: Power915 ( $5,525 )
+Seat 9: deClev ( $3,325 )
+Seat 10: NaturalOne92 ( $6,700 )
+dasssss9 posts small blind [$75]
+simpsonbr18 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Jh ]
+Lucyan23 calls [$150]
+yomacha folds
+PapaShango19 raises [$1,556]
+Power915 folds
+deClev folds
+NaturalOne92 folds
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 calls [$1,350]
+** Dealing flop ** [ 7h, 5d, Td ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Ah ]
+** Summary **
+Lucyan23 shows [ Tc, Qc ]
+PapaShango19 shows [ Jc, Jh ]
+PapaShango19 collected [ $3,225 ]
+
+
+
+#Game No : 638837629
+***** 888poker Hand History for Game 638837629 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:33:44
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $1,500 )
+Seat 2: dasssss9 ( $2,302 )
+Seat 3: simpsonbr18 ( $2,500 )
+Seat 4: Lucyan23 ( $3,000 )
+Seat 5: yomacha ( $5,050 )
+Seat 6: PapaShango19 ( $3,281 )
+Seat 7: Power915 ( $5,525 )
+Seat 9: deClev ( $3,325 )
+Seat 10: NaturalOne92 ( $6,700 )
+simpsonbr18 posts small blind [$75]
+Lucyan23 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 2s ]
+yomacha folds
+PapaShango19 folds
+Power915 raises [$675]
+deClev folds
+NaturalOne92 folds
+DrillNBlast folds
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 calls [$525]
+** Dealing flop ** [ 8d, 7h, 4h ]
+Lucyan23 bets [$450]
+Power915 folds
+** Summary **
+Lucyan23 did not show his hand
+Lucyan23 collected [ $1,425 ]
+
+
+
+#Game No : 638837762
+***** 888poker Hand History for Game 638837762 *****
+$75/$150 Blinds No Limit Holdem - *** 22 11 2014 04:34:34
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $1,500 )
+Seat 2: dasssss9 ( $2,302 )
+Seat 3: simpsonbr18 ( $2,425 )
+Seat 4: Lucyan23 ( $3,750 )
+Seat 5: yomacha ( $5,050 )
+Seat 6: PapaShango19 ( $3,281 )
+Seat 7: Power915 ( $4,850 )
+Seat 9: deClev ( $3,325 )
+Seat 10: NaturalOne92 ( $6,700 )
+Lucyan23 posts small blind [$75]
+yomacha posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 4s ]
+PapaShango19 folds
+Power915 folds
+deClev folds
+NaturalOne92 folds
+DrillNBlast calls [$150]
+dasssss9 folds
+simpsonbr18 calls [$150]
+Lucyan23 raises [$225]
+yomacha calls [$150]
+DrillNBlast calls [$150]
+simpsonbr18 calls [$150]
+** Dealing flop ** [ Qs, 5c, 9s ]
+Lucyan23 bets [$150]
+yomacha calls [$150]
+DrillNBlast calls [$150]
+simpsonbr18 calls [$150]
+** Dealing turn ** [ 6d ]
+Lucyan23 bets [$150]
+yomacha calls [$150]
+DrillNBlast calls [$150]
+simpsonbr18 folds
+** Dealing river ** [ 6c ]
+Lucyan23 bets [$600]
+yomacha folds
+DrillNBlast raises [$900]
+Lucyan23 folds
+** Summary **
+DrillNBlast did not show his hand
+DrillNBlast collected [ $3,450 ]
+
+
+
+#Game No : 638838024
+***** 888poker Hand History for Game 638838024 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:36:07
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,750 )
+Seat 2: dasssss9 ( $2,302 )
+Seat 3: simpsonbr18 ( $1,975 )
+Seat 4: Lucyan23 ( $2,550 )
+Seat 5: yomacha ( $4,450 )
+Seat 6: PapaShango19 ( $3,281 )
+Seat 7: Power915 ( $4,850 )
+Seat 9: deClev ( $3,325 )
+Seat 10: NaturalOne92 ( $6,700 )
+yomacha posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 9s ]
+Power915 folds
+deClev folds
+NaturalOne92 folds
+DrillNBlast folds
+dasssss9 raises [$2,302]
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+** Summary **
+dasssss9 did not show his hand
+dasssss9 collected [ $500 ]
+
+
+
+#Game No : 638838097
+***** 888poker Hand History for Game 638838097 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:36:34
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,750 )
+Seat 2: dasssss9 ( $2,602 )
+Seat 3: simpsonbr18 ( $1,975 )
+Seat 4: Lucyan23 ( $2,550 )
+Seat 5: yomacha ( $4,350 )
+Seat 6: PapaShango19 ( $3,081 )
+Seat 7: Power915 ( $4,850 )
+Seat 9: deClev ( $3,325 )
+Seat 10: NaturalOne92 ( $6,700 )
+PapaShango19 posts small blind [$100]
+Power915 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Kh ]
+deClev folds
+NaturalOne92 raises [$6,700]
+DrillNBlast folds
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+** Summary **
+NaturalOne92 did not show his hand
+NaturalOne92 collected [ $500 ]
+
+
+
+#Game No : 638838198
+***** 888poker Hand History for Game 638838198 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:37:14
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,750 )
+Seat 2: dasssss9 ( $2,602 )
+Seat 3: simpsonbr18 ( $1,975 )
+Seat 4: Lucyan23 ( $2,550 )
+Seat 5: yomacha ( $4,350 )
+Seat 6: PapaShango19 ( $2,981 )
+Seat 7: Power915 ( $4,650 )
+Seat 9: deClev ( $3,325 )
+Seat 10: NaturalOne92 ( $7,000 )
+Power915 posts small blind [$100]
+deClev posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 7s ]
+NaturalOne92 folds
+DrillNBlast folds
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 calls [$200]
+yomacha calls [$200]
+PapaShango19 folds
+Power915 calls [$100]
+deClev checks
+** Dealing flop ** [ Qs, 2h, 6d ]
+Power915 bets [$4,450]
+deClev folds
+Lucyan23 folds
+yomacha folds
+** Summary **
+Power915 did not show his hand
+Power915 collected [ $800 ]
+
+
+
+#Game No : 638838334
+***** 888poker Hand History for Game 638838334 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:38:04
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,750 )
+Seat 2: dasssss9 ( $2,602 )
+Seat 3: simpsonbr18 ( $1,975 )
+Seat 4: Lucyan23 ( $2,350 )
+Seat 5: yomacha ( $4,150 )
+Seat 6: PapaShango19 ( $2,981 )
+Seat 7: Power915 ( $5,250 )
+Seat 9: deClev ( $3,125 )
+Seat 10: NaturalOne92 ( $7,000 )
+deClev posts small blind [$100]
+NaturalOne92 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 9s ]
+DrillNBlast folds
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 calls [$200]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+deClev calls [$100]
+NaturalOne92 checks
+** Dealing flop ** [ 8s, 9c, Th ]
+deClev checks
+NaturalOne92 bets [$400]
+Lucyan23 raises [$2,150]
+deClev raises [$2,925]
+NaturalOne92 folds
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 4d ]
+** Summary **
+Lucyan23 shows [ Qd, Ks ]
+deClev shows [ 7c, 4c ]
+deClev collected [ $5,300 ]
+
+
+
+#Game No : 638838585
+***** 888poker Hand History for Game 638838585 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:39:25
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: DrillNBlast ( $3,750 )
+Seat 2: dasssss9 ( $2,602 )
+Seat 3: simpsonbr18 ( $1,975 )
+Seat 4: Lucyan23 ( $3,000 )
+Seat 5: yomacha ( $4,150 )
+Seat 6: PapaShango19 ( $2,981 )
+Seat 7: Power915 ( $5,250 )
+Seat 10: NaturalOne92 ( $6,400 )
+NaturalOne92 posts small blind [$100]
+DrillNBlast posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Qh ]
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+NaturalOne92 raises [$300]
+DrillNBlast calls [$200]
+** Dealing flop ** [ 7d, 9c, 8s ]
+NaturalOne92 bets [$600]
+DrillNBlast raises [$1,200]
+NaturalOne92 raises [$5,400]
+DrillNBlast calls [$2,150]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Qc ]
+** Summary **
+DrillNBlast shows [ 9d, Kc ]
+NaturalOne92 shows [ 8d, 8h ]
+NaturalOne92 collected [ $7,500 ]
+
+
+
+#Game No : 638838753
+***** 888poker Hand History for Game 638838753 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:40:24
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,000 )
+Seat 2: dasssss9 ( $2,602 )
+Seat 3: simpsonbr18 ( $1,975 )
+Seat 4: Lucyan23 ( $3,000 )
+Seat 5: yomacha ( $4,150 )
+Seat 6: PapaShango19 ( $2,981 )
+Seat 7: Power915 ( $5,250 )
+Seat 9: CamelTo5 ( $1,500 )
+Seat 10: NaturalOne92 ( $10,150 )
+DrillNBlast posts small blind [$100]
+dasssss9 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Qh ]
+simpsonbr18 folds
+Lucyan23 raises [$3,000]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 folds
+NaturalOne92 folds
+DrillNBlast calls [$2,900]
+dasssss9 folds
+** Dealing flop ** [ 6c, Tc, Td ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 7c ]
+** Summary **
+DrillNBlast shows [ As, Kc ]
+Lucyan23 shows [ 5s, 5h ]
+DrillNBlast collected [ $6,200 ]
+
+
+
+#Game No : 638838875
+***** 888poker Hand History for Game 638838875 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:41:07
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $6,200 )
+Seat 2: dasssss9 ( $2,402 )
+Seat 3: simpsonbr18 ( $1,975 )
+Seat 4: Lucyan23 ( $3,000 )
+Seat 5: yomacha ( $4,150 )
+Seat 6: PapaShango19 ( $2,981 )
+Seat 7: Power915 ( $5,250 )
+Seat 9: CamelTo5 ( $1,500 )
+Seat 10: NaturalOne92 ( $10,150 )
+dasssss9 posts small blind [$100]
+simpsonbr18 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 9s ]
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 calls [$200]
+NaturalOne92 folds
+DrillNBlast calls [$200]
+dasssss9 folds
+simpsonbr18 checks
+** Dealing flop ** [ Th, 4c, Jd ]
+simpsonbr18 checks
+CamelTo5 bets [$700]
+DrillNBlast calls [$700]
+simpsonbr18 folds
+** Dealing turn ** [ 8d ]
+CamelTo5 bets [$600]
+DrillNBlast calls [$600]
+** Dealing river ** [ Kc ]
+** Summary **
+DrillNBlast shows [ 9d, 3d ]
+CamelTo5 shows [ Qh, Tc ]
+CamelTo5 collected [ $3,300 ]
+
+
+
+#Game No : 638839051
+***** 888poker Hand History for Game 638839051 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:42:09
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $4,700 )
+Seat 2: dasssss9 ( $2,302 )
+Seat 3: simpsonbr18 ( $1,775 )
+Seat 4: Lucyan23 ( $3,000 )
+Seat 5: yomacha ( $4,150 )
+Seat 6: PapaShango19 ( $2,981 )
+Seat 7: Power915 ( $5,250 )
+Seat 9: CamelTo5 ( $3,300 )
+Seat 10: NaturalOne92 ( $10,150 )
+NaturalOne92 posts ante [$20]
+dasssss9 posts ante [$20]
+simpsonbr18 posts ante [$20]
+yomacha posts ante [$20]
+PapaShango19 posts ante [$20]
+Power915 posts ante [$20]
+Lucyan23 posts ante [$20]
+DrillNBlast posts ante [$20]
+CamelTo5 posts ante [$20]
+simpsonbr18 posts small blind [$100]
+Lucyan23 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 4s ]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 raises [$880]
+NaturalOne92 calls [$880]
+DrillNBlast calls [$880]
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 raises [$2,780]
+CamelTo5 raises [$2,400]
+NaturalOne92 folds
+DrillNBlast folds
+** Dealing flop ** [ Ts, 5h, Ks ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ 2c ]
+** Summary **
+Lucyan23 shows [ 7h, 7d ]
+CamelTo5 shows [ Qd, Ac ]
+Lucyan23 collected [ $8,000 ]
+
+
+
+#Game No : 638839193
+***** 888poker Hand History for Game 638839193 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:43:07
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,800 )
+Seat 2: dasssss9 ( $2,282 )
+Seat 3: simpsonbr18 ( $1,655 )
+Seat 4: Lucyan23 ( $8,000 )
+Seat 5: yomacha ( $4,130 )
+Seat 6: PapaShango19 ( $2,961 )
+Seat 7: Power915 ( $5,230 )
+Seat 9: CamelTo5 ( $300 )
+Seat 10: NaturalOne92 ( $9,250 )
+NaturalOne92 posts ante [$20]
+dasssss9 posts ante [$20]
+simpsonbr18 posts ante [$20]
+yomacha posts ante [$20]
+PapaShango19 posts ante [$20]
+Power915 posts ante [$20]
+Lucyan23 posts ante [$20]
+DrillNBlast posts ante [$20]
+CamelTo5 posts ante [$20]
+Lucyan23 posts small blind [$100]
+yomacha posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 9c ]
+PapaShango19 folds
+Power915 folds
+CamelTo5 calls [$200]
+NaturalOne92 folds
+DrillNBlast folds
+dasssss9 raises [$2,262]
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+CamelTo5 calls [$80]
+** Dealing flop ** [ 6h, Ts, 9d ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Qc ]
+** Summary **
+dasssss9 shows [ Js, Ad ]
+CamelTo5 shows [ 8c, 4d ]
+dasssss9 collected [ $1,040 ]
+
+
+
+#Game No : 638839332
+***** 888poker Hand History for Game 638839332 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:44:02
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,780 )
+Seat 2: dasssss9 ( $3,022 )
+Seat 3: simpsonbr18 ( $1,635 )
+Seat 4: Lucyan23 ( $7,880 )
+Seat 5: yomacha ( $3,910 )
+Seat 6: PapaShango19 ( $2,941 )
+Seat 7: Power915 ( $5,210 )
+Seat 9: CamelTo5 ( $1,500 )
+Seat 10: NaturalOne92 ( $9,230 )
+NaturalOne92 posts ante [$20]
+dasssss9 posts ante [$20]
+simpsonbr18 posts ante [$20]
+yomacha posts ante [$20]
+PapaShango19 posts ante [$20]
+Power915 posts ante [$20]
+Lucyan23 posts ante [$20]
+DrillNBlast posts ante [$20]
+CamelTo5 posts ante [$20]
+yomacha posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 6c ]
+Power915 folds
+CamelTo5 folds
+NaturalOne92 calls [$200]
+DrillNBlast raises [$400]
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 calls [$400]
+yomacha folds
+PapaShango19 calls [$200]
+NaturalOne92 calls [$200]
+** Dealing flop ** [ 4c, Qh, 2c ]
+PapaShango19 checks
+NaturalOne92 checks
+DrillNBlast bets [$1,410]
+Lucyan23 folds
+PapaShango19 folds
+NaturalOne92 folds
+** Summary **
+DrillNBlast did not show his hand
+DrillNBlast collected [ $1,880 ]
+
+
+
+#Game No : 638839482
+***** 888poker Hand History for Game 638839482 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:44:54
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $5,240 )
+Seat 2: dasssss9 ( $3,002 )
+Seat 3: simpsonbr18 ( $1,615 )
+Seat 4: Lucyan23 ( $7,460 )
+Seat 5: yomacha ( $3,790 )
+Seat 6: PapaShango19 ( $2,521 )
+Seat 7: Power915 ( $5,190 )
+Seat 9: CamelTo5 ( $1,480 )
+Seat 10: NaturalOne92 ( $8,810 )
+NaturalOne92 posts ante [$20]
+dasssss9 posts ante [$20]
+simpsonbr18 posts ante [$20]
+yomacha posts ante [$20]
+PapaShango19 posts ante [$20]
+Power915 posts ante [$20]
+Lucyan23 posts ante [$20]
+DrillNBlast posts ante [$20]
+CamelTo5 posts ante [$20]
+PapaShango19 posts small blind [$100]
+Power915 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 4c ]
+CamelTo5 folds
+NaturalOne92 folds
+DrillNBlast calls [$200]
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 folds
+yomacha calls [$200]
+PapaShango19 calls [$100]
+Power915 checks
+** Dealing flop ** [ Kh, Qh, Ad ]
+PapaShango19 checks
+Power915 checks
+DrillNBlast bets [$490]
+yomacha calls [$490]
+PapaShango19 folds
+Power915 folds
+** Dealing turn ** [ 6c ]
+DrillNBlast bets [$980]
+yomacha calls [$980]
+** Dealing river ** [ 3s ]
+DrillNBlast checks
+yomacha checks
+** Summary **
+DrillNBlast shows [ 4h, 6d ]
+yomacha shows [ Js, As ]
+yomacha collected [ $3,920 ]
+
+
+
+#Game No : 638839662
+***** 888poker Hand History for Game 638839662 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:45:59
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: DrillNBlast ( $3,550 )
+Seat 2: dasssss9 ( $2,982 )
+Seat 3: simpsonbr18 ( $1,595 )
+Seat 4: Lucyan23 ( $7,440 )
+Seat 5: yomacha ( $6,020 )
+Seat 6: PapaShango19 ( $2,301 )
+Seat 7: Power915 ( $4,970 )
+Seat 9: CamelTo5 ( $1,460 )
+Seat 10: natttas ( $3,380 )
+dasssss9 posts ante [$20]
+simpsonbr18 posts ante [$20]
+yomacha posts ante [$20]
+PapaShango19 posts ante [$20]
+Power915 posts ante [$20]
+Lucyan23 posts ante [$20]
+DrillNBlast posts ante [$20]
+CamelTo5 posts ante [$20]
+natttas posts ante [$20]
+Power915 posts small blind [$100]
+CamelTo5 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ah ]
+natttas raises [$880]
+DrillNBlast folds
+dasssss9 raises [$2,962]
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 calls [$1,240]
+natttas calls [$2,082]
+** Dealing flop ** [ 8h, 2d, 6c ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 5h ]
+** Summary **
+dasssss9 shows [ Jh, Jc ]
+CamelTo5 shows [ Qc, Ac ]
+natttas shows [ Td, Th ]
+dasssss9 collected [ $4,600 ]
+dasssss9 collected [ $3,044 ]
+
+
+
+#Game No : 638839847
+***** 888poker Hand History for Game 638839847 *****
+$100/$200 Blinds No Limit Holdem - *** 22 11 2014 04:47:03
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: dasssss9 ( $7,644 )
+Seat 3: simpsonbr18 ( $1,575 )
+Seat 4: Lucyan23 ( $7,420 )
+Seat 5: yomacha ( $6,000 )
+Seat 6: PapaShango19 ( $2,281 )
+Seat 7: Power915 ( $4,850 )
+Seat 9: CamelTo5 ( $1,500 )
+Seat 10: natttas ( $398 )
+dasssss9 posts ante [$20]
+simpsonbr18 posts ante [$20]
+yomacha posts ante [$20]
+PapaShango19 posts ante [$20]
+Power915 posts ante [$20]
+Lucyan23 posts ante [$20]
+CamelTo5 posts ante [$20]
+natttas posts ante [$20]
+CamelTo5 posts small blind [$100]
+natttas posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 2c ]
+dasssss9 raises [$600]
+simpsonbr18 folds
+Lucyan23 calls [$600]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 folds
+natttas calls [$178]
+** Dealing flop ** [ 7s, 2s, Td ]
+dasssss9 bets [$200]
+Lucyan23 raises [$400]
+dasssss9 raises [$2,128]
+Lucyan23 folds
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ Qd ]
+** Summary **
+dasssss9 shows [ Jc, Jd ]
+natttas shows [ 3s, Kh ]
+dasssss9 collected [ $1,394 ]
+dasssss9 collected [ $1,244 ]
+
+
+
+#Game No : 638840074
+***** 888poker Hand History for Game 638840074 *****
+$125/$250 Blinds No Limit Holdem - *** 22 11 2014 04:48:30
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: dasssss9 ( $9,262 )
+Seat 3: simpsonbr18 ( $1,555 )
+Seat 4: Lucyan23 ( $6,400 )
+Seat 5: yomacha ( $5,980 )
+Seat 6: PapaShango19 ( $2,261 )
+Seat 7: Power915 ( $4,830 )
+Seat 9: CamelTo5 ( $1,380 )
+dasssss9 posts ante [$25]
+simpsonbr18 posts ante [$25]
+yomacha posts ante [$25]
+PapaShango19 posts ante [$25]
+Power915 posts ante [$25]
+Lucyan23 posts ante [$25]
+CamelTo5 posts ante [$25]
+dasssss9 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 6h ]
+simpsonbr18 folds
+Lucyan23 calls [$250]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 folds
+dasssss9 checks
+** Dealing flop ** [ 9d, Ah, 9s ]
+dasssss9 checks
+Lucyan23 bets [$250]
+dasssss9 folds
+** Summary **
+Lucyan23 did not show his hand
+Lucyan23 collected [ $675 ]
+
+
+
+#Game No : 638840149
+***** 888poker Hand History for Game 638840149 *****
+$125/$250 Blinds No Limit Holdem - *** 22 11 2014 04:48:56
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: dasssss9 ( $8,987 )
+Seat 3: simpsonbr18 ( $1,530 )
+Seat 4: Lucyan23 ( $6,800 )
+Seat 5: yomacha ( $5,955 )
+Seat 6: PapaShango19 ( $2,236 )
+Seat 7: Power915 ( $4,805 )
+Seat 9: CamelTo5 ( $1,355 )
+dasssss9 posts ante [$25]
+simpsonbr18 posts ante [$25]
+yomacha posts ante [$25]
+PapaShango19 posts ante [$25]
+Power915 posts ante [$25]
+Lucyan23 posts ante [$25]
+CamelTo5 posts ante [$25]
+dasssss9 posts small blind [$125]
+simpsonbr18 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 7h ]
+Lucyan23 calls [$250]
+yomacha calls [$250]
+PapaShango19 folds
+Power915 folds
+CamelTo5 calls [$250]
+dasssss9 folds
+simpsonbr18 checks
+** Dealing flop ** [ 7d, 5s, Jc ]
+simpsonbr18 checks
+Lucyan23 bets [$500]
+yomacha calls [$500]
+CamelTo5 calls [$500]
+simpsonbr18 folds
+** Dealing turn ** [ Qs ]
+Lucyan23 folds
+yomacha bets [$2,800]
+CamelTo5 folds
+** Summary **
+yomacha collected [ $2,800 ]
+
+
+
+#Game No : 638840351
+***** 888poker Hand History for Game 638840351 *****
+$125/$250 Blinds No Limit Holdem - *** 22 11 2014 04:50:15
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $1,500 )
+Seat 2: dasssss9 ( $8,837 )
+Seat 3: simpsonbr18 ( $1,255 )
+Seat 4: Lucyan23 ( $6,025 )
+Seat 5: yomacha ( $7,980 )
+Seat 6: PapaShango19 ( $2,211 )
+Seat 7: Power915 ( $4,780 )
+Seat 9: CamelTo5 ( $580 )
+Seat 10: Boobietrap ( $1,500 )
+dasssss9 posts ante [$25]
+simpsonbr18 posts ante [$25]
+yomacha posts ante [$25]
+PapaShango19 posts ante [$25]
+Power915 posts ante [$25]
+Lucyan23 posts ante [$25]
+CamelTo5 posts ante [$25]
+Boobietrap posts ante [$25]
+1durrrboi posts ante [$25]
+simpsonbr18 posts small blind [$125]
+Lucyan23 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 7c ]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 folds
+Boobietrap calls [$250]
+1durrrboi calls [$250]
+dasssss9 folds
+simpsonbr18 raises [$1,105]
+Lucyan23 folds
+Boobietrap folds
+1durrrboi calls [$980]
+** Dealing flop ** [ 7d, 2s, Th ]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 6s ]
+** Summary **
+1durrrboi shows [ 4h, 7h ]
+simpsonbr18 shows [ Ac, Kh ]
+1durrrboi collected [ $3,185 ]
+
+
+
+#Game No : 638840511
+***** 888poker Hand History for Game 638840511 *****
+$125/$250 Blinds No Limit Holdem - *** 22 11 2014 04:51:11
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $3,430 )
+Seat 2: dasssss9 ( $8,812 )
+Seat 3: simpsonbr18 ( $1,500 )
+Seat 4: Lucyan23 ( $5,750 )
+Seat 5: yomacha ( $7,955 )
+Seat 6: PapaShango19 ( $2,186 )
+Seat 7: Power915 ( $4,755 )
+Seat 9: CamelTo5 ( $555 )
+Seat 10: Boobietrap ( $1,225 )
+dasssss9 posts ante [$25]
+simpsonbr18 posts ante [$25]
+yomacha posts ante [$25]
+PapaShango19 posts ante [$25]
+Power915 posts ante [$25]
+Lucyan23 posts ante [$25]
+CamelTo5 posts ante [$25]
+Boobietrap posts ante [$25]
+1durrrboi posts ante [$25]
+Lucyan23 posts small blind [$125]
+yomacha posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Ac ]
+PapaShango19 raises [$2,161]
+Power915 folds
+CamelTo5 calls [$530]
+Boobietrap folds
+1durrrboi folds
+dasssss9 folds
+simpsonbr18 folds
+Lucyan23 folds
+yomacha folds
+** Dealing flop ** [ 4d, Ah, 3d ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ Th ]
+** Summary **
+PapaShango19 shows [ Qd, Ac ]
+CamelTo5 shows [ Ks, 3s ]
+PapaShango19 collected [ $1,660 ]
+
+
+
+#Game No : 638840626
+***** 888poker Hand History for Game 638840626 *****
+$125/$250 Blinds No Limit Holdem - *** 22 11 2014 04:51:50
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $3,405 )
+Seat 2: dasssss9 ( $8,787 )
+Seat 3: simpsonbr18 ( $1,475 )
+Seat 4: Lucyan23 ( $5,600 )
+Seat 5: yomacha ( $7,680 )
+Seat 6: PapaShango19 ( $3,291 )
+Seat 7: Power915 ( $4,730 )
+Seat 9: CamelTo5 ( $1,500 )
+Seat 10: Boobietrap ( $1,200 )
+dasssss9 posts ante [$25]
+simpsonbr18 posts ante [$25]
+yomacha posts ante [$25]
+PapaShango19 posts ante [$25]
+Power915 posts ante [$25]
+Lucyan23 posts ante [$25]
+CamelTo5 posts ante [$25]
+Boobietrap posts ante [$25]
+1durrrboi posts ante [$25]
+yomacha posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Kd ]
+Power915 folds
+CamelTo5 folds
+Boobietrap folds
+1durrrboi folds
+dasssss9 folds
+simpsonbr18 calls [$250]
+Lucyan23 calls [$250]
+yomacha raises [$7,530]
+PapaShango19 folds
+simpsonbr18 calls [$1,200]
+Lucyan23 folds
+** Dealing flop ** [ 3h, 6d, 9d ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ Td ]
+** Summary **
+simpsonbr18 shows [ 6s, 4s ]
+yomacha shows [ As, Kc ]
+yomacha collected [ $3,625 ]
+
+
+
+#Game No : 638840811
+***** 888poker Hand History for Game 638840811 *****
+$125/$250 Blinds No Limit Holdem - *** 22 11 2014 04:52:50
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: 1durrrboi ( $3,380 )
+Seat 2: dasssss9 ( $8,762 )
+Seat 4: Lucyan23 ( $5,325 )
+Seat 5: yomacha ( $9,830 )
+Seat 6: PapaShango19 ( $3,016 )
+Seat 7: Power915 ( $4,705 )
+Seat 9: CamelTo5 ( $1,475 )
+Seat 10: Boobietrap ( $1,175 )
+dasssss9 posts ante [$25]
+yomacha posts ante [$25]
+PapaShango19 posts ante [$25]
+Power915 posts ante [$25]
+Lucyan23 posts ante [$25]
+CamelTo5 posts ante [$25]
+Boobietrap posts ante [$25]
+1durrrboi posts ante [$25]
+PapaShango19 posts small blind [$125]
+Power915 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 8s ]
+CamelTo5 folds
+Boobietrap calls [$250]
+1durrrboi raises [$3,355]
+dasssss9 folds
+Lucyan23 folds
+yomacha calls [$3,355]
+PapaShango19 folds
+Power915 folds
+Boobietrap calls [$900]
+** Dealing flop ** [ 4h, 4c, Th ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ac ]
+** Summary **
+1durrrboi shows [ Qs, Ad ]
+yomacha shows [ Jd, Jh ]
+Boobietrap shows [ Kd, 6d ]
+1durrrboi collected [ $4,025 ]
+1durrrboi collected [ $4,410 ]
+
+
+
+#Game No : 638840939
+***** 888poker Hand History for Game 638840939 *****
+$150/$300 Blinds No Limit Holdem - *** 22 11 2014 04:53:40
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $8,435 )
+Seat 2: dasssss9 ( $8,737 )
+Seat 3: gohughes2000 ( $1,500 )
+Seat 4: Lucyan23 ( $5,300 )
+Seat 5: yomacha ( $6,450 )
+Seat 6: PapaShango19 ( $2,866 )
+Seat 7: Power915 ( $4,430 )
+Seat 9: CamelTo5 ( $1,450 )
+Seat 10: Boobietrap ( $1,500 )
+dasssss9 posts ante [$30]
+yomacha posts ante [$30]
+PapaShango19 posts ante [$30]
+Power915 posts ante [$30]
+Lucyan23 posts ante [$30]
+CamelTo5 posts ante [$30]
+Boobietrap posts ante [$30]
+1durrrboi posts ante [$30]
+gohughes2000 posts ante [$30]
+Power915 posts small blind [$150]
+CamelTo5 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Kh ]
+Boobietrap folds
+1durrrboi folds
+dasssss9 folds
+gohughes2000 calls [$300]
+Lucyan23 calls [$300]
+yomacha folds
+PapaShango19 raises [$2,836]
+Power915 folds
+CamelTo5 folds
+gohughes2000 folds
+Lucyan23 calls [$2,536]
+** Dealing flop ** [ Td, 8d, Ac ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 2c ]
+** Summary **
+Lucyan23 shows [ Qd, 7d ]
+PapaShango19 shows [ Kc, Kh ]
+PapaShango19 collected [ $6,692 ]
+
+
+
+#Game No : 638841075
+***** 888poker Hand History for Game 638841075 *****
+$150/$300 Blinds No Limit Holdem - *** 22 11 2014 04:54:29
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $8,405 )
+Seat 2: dasssss9 ( $8,707 )
+Seat 3: gohughes2000 ( $1,170 )
+Seat 4: Lucyan23 ( $2,434 )
+Seat 5: yomacha ( $6,420 )
+Seat 6: PapaShango19 ( $6,692 )
+Seat 7: Power915 ( $4,250 )
+Seat 9: CamelTo5 ( $1,120 )
+Seat 10: Boobietrap ( $1,470 )
+dasssss9 posts ante [$30]
+yomacha posts ante [$30]
+PapaShango19 posts ante [$30]
+Power915 posts ante [$30]
+Lucyan23 posts ante [$30]
+CamelTo5 posts ante [$30]
+Boobietrap posts ante [$30]
+1durrrboi posts ante [$30]
+gohughes2000 posts ante [$30]
+CamelTo5 posts small blind [$150]
+Boobietrap posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Qc ]
+1durrrboi folds
+dasssss9 folds
+gohughes2000 folds
+Lucyan23 raises [$2,404]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 folds
+Boobietrap folds
+** Summary **
+Lucyan23 did not show his hand
+Lucyan23 collected [ $1,020 ]
+
+
+
+#Game No : 638841136
+***** 888poker Hand History for Game 638841136 *****
+$150/$300 Blinds No Limit Holdem - *** 22 11 2014 04:54:53
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $8,375 )
+Seat 2: dasssss9 ( $8,677 )
+Seat 3: gohughes2000 ( $1,140 )
+Seat 4: Lucyan23 ( $3,124 )
+Seat 5: yomacha ( $6,390 )
+Seat 6: PapaShango19 ( $6,662 )
+Seat 7: Power915 ( $4,220 )
+Seat 9: CamelTo5 ( $940 )
+Seat 10: Boobietrap ( $1,140 )
+dasssss9 posts ante [$30]
+yomacha posts ante [$30]
+PapaShango19 posts ante [$30]
+Power915 posts ante [$30]
+Lucyan23 posts ante [$30]
+CamelTo5 posts ante [$30]
+Boobietrap posts ante [$30]
+1durrrboi posts ante [$30]
+gohughes2000 posts ante [$30]
+Boobietrap posts small blind [$150]
+1durrrboi posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 8d ]
+dasssss9 folds
+gohughes2000 folds
+Lucyan23 raises [$3,094]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 folds
+Boobietrap folds
+1durrrboi folds
+** Summary **
+Lucyan23 did not show his hand
+Lucyan23 collected [ $1,020 ]
+
+
+
+#Game No : 638841917
+***** 888poker Hand History for Game 638841917 *****
+$150/$300 Blinds No Limit Holdem - *** 22 11 2014 04:59:57
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $8,045 )
+Seat 2: dasssss9 ( $13,147 )
+Seat 3: gohughes2000 ( $5,610 )
+Seat 4: Lucyan23 ( $8,314 )
+Seat 5: yomacha ( $10,860 )
+Seat 6: PapaShango19 ( $11,132 )
+Seat 7: Power915 ( $8,690 )
+Seat 9: CamelTo5 ( $5,410 )
+Seat 10: Boobietrap ( $5,460 )
+dasssss9 posts ante [$30]
+yomacha posts ante [$30]
+PapaShango19 posts ante [$30]
+Power915 posts ante [$30]
+Lucyan23 posts ante [$30]
+CamelTo5 posts ante [$30]
+Boobietrap posts ante [$30]
+1durrrboi posts ante [$30]
+gohughes2000 posts ante [$30]
+1durrrboi posts small blind [$150]
+dasssss9 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4s ]
+gohughes2000 folds
+Lucyan23 raises [$1,320]
+yomacha folds
+PapaShango19 folds
+Power915 folds
+CamelTo5 folds
+Boobietrap folds
+1durrrboi folds
+dasssss9 folds
+** Summary **
+Lucyan23 did not show his hand
+Lucyan23 collected [ $1,020 ]
+
+
+
+#Game No : 638842073
+***** 888poker Hand History for Game 638842073 *****
+$150/$300 Blinds No Limit Holdem - *** 22 11 2014 05:00:57
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $7,865 )
+Seat 2: dasssss9 ( $12,817 )
+Seat 3: gohughes2000 ( $5,580 )
+Seat 4: Lucyan23 ( $9,004 )
+Seat 5: yomacha ( $10,830 )
+Seat 6: PapaShango19 ( $11,102 )
+Seat 7: Power915 ( $8,660 )
+Seat 9: CamelTo5 ( $5,380 )
+Seat 10: Boobietrap ( $5,430 )
+dasssss9 posts ante [$30]
+yomacha posts ante [$30]
+PapaShango19 posts ante [$30]
+Power915 posts ante [$30]
+Lucyan23 posts ante [$30]
+CamelTo5 posts ante [$30]
+Boobietrap posts ante [$30]
+1durrrboi posts ante [$30]
+gohughes2000 posts ante [$30]
+dasssss9 posts small blind [$150]
+gohughes2000 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 9h ]
+Lucyan23 calls [$300]
+yomacha folds
+PapaShango19 folds
+Power915 raises [$8,630]
+CamelTo5 folds
+Boobietrap folds
+1durrrboi folds
+dasssss9 folds
+gohughes2000 folds
+Lucyan23 folds
+** Summary **
+Power915 did not show his hand
+Power915 collected [ $1,320 ]
+
+
+
+#Game No : 638842213
+***** 888poker Hand History for Game 638842213 *****
+$150/$300 Blinds No Limit Holdem - *** 22 11 2014 05:01:47
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $7,835 )
+Seat 2: dasssss9 ( $12,637 )
+Seat 3: gohughes2000 ( $5,250 )
+Seat 4: Lucyan23 ( $8,674 )
+Seat 5: yomacha ( $10,800 )
+Seat 6: PapaShango19 ( $11,072 )
+Seat 7: Power915 ( $9,650 )
+Seat 9: CamelTo5 ( $5,350 )
+Seat 10: Boobietrap ( $5,400 )
+dasssss9 posts ante [$30]
+yomacha posts ante [$30]
+PapaShango19 posts ante [$30]
+Power915 posts ante [$30]
+Lucyan23 posts ante [$30]
+CamelTo5 posts ante [$30]
+Boobietrap posts ante [$30]
+1durrrboi posts ante [$30]
+gohughes2000 posts ante [$30]
+gohughes2000 posts small blind [$150]
+Lucyan23 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 3d ]
+yomacha folds
+PapaShango19 calls [$300]
+Power915 raises [$1,800]
+CamelTo5 folds
+Boobietrap folds
+1durrrboi folds
+dasssss9 folds
+gohughes2000 folds
+Lucyan23 calls [$1,500]
+PapaShango19 folds
+** Dealing flop ** [ Ts, 7c, Jh ]
+Lucyan23 bets [$300]
+Power915 calls [$300]
+** Dealing turn ** [ 4d ]
+Lucyan23 bets [$600]
+Power915 calls [$600]
+** Dealing river ** [ Kh ]
+Lucyan23 bets [$900]
+Power915 calls [$900]
+** Summary **
+Lucyan23 shows [ 3h, Ah ]
+Power915 shows [ Kc, Qh ]
+Power915 collected [ $7,920 ]
+
+
+
+#Game No : 638842434
+***** 888poker Hand History for Game 638842434 *****
+$150/$300 Blinds No Limit Holdem - *** 22 11 2014 05:03:16
+Tournament #63692861 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: 1durrrboi ( $7,805 )
+Seat 2: dasssss9 ( $12,607 )
+Seat 3: gohughes2000 ( $5,070 )
+Seat 4: Lucyan23 ( $5,044 )
+Seat 5: yomacha ( $10,770 )
+Seat 6: PapaShango19 ( $10,742 )
+Seat 7: Power915 ( $13,940 )
+Seat 9: CamelTo5 ( $5,320 )
+Seat 10: Boobietrap ( $5,370 )
+dasssss9 posts ante [$30]
+yomacha posts ante [$30]
+PapaShango19 posts ante [$30]
+Power915 posts ante [$30]
+Lucyan23 posts ante [$30]
+CamelTo5 posts ante [$30]
+Boobietrap posts ante [$30]
+1durrrboi posts ante [$30]
+gohughes2000 posts ante [$30]
+Lucyan23 posts small blind [$150]
+yomacha posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ad ]
+PapaShango19 folds
+Power915 folds
+CamelTo5 calls [$300]
+Boobietrap folds
+1durrrboi folds
+dasssss9 folds
+gohughes2000 folds
+Lucyan23 raises [$4,864]
+yomacha calls [$4,714]
+CamelTo5 calls [$4,714]
+** Dealing flop ** [ 8h, As, Tc ]
+yomacha bets [$300]
+CamelTo5 calls [$276]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 6d ]
+** Summary **
+Lucyan23 shows [ Qh, Js ]
+yomacha shows [ Ah, Qd ]
+CamelTo5 shows [ 5h, 5s ]
+yomacha collected [ $15,312 ]
+yomacha collected [ $552 ]
+
+
+
+#Game No : 638842504
+***** 888poker Hand History for Game 638842504 *****
+$200/$400 Blinds No Limit Holdem - *** 22 11 2014 05:04:10
+Tournament #63692861 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: bourkie2 ( $18,228 )
+Seat 2: guccihu999 ( $8,055 )
+Seat 5: BBelanger069 ( $11,240 )
+Seat 6: Lukks ( $9,070 )
+Seat 7: jfjb3 ( $4,630 )
+Seat 9: NaturalOne92 ( $23,911 )
+Seat 10: sarna11 ( $11,570 )
+BBelanger069 posts ante [$30]
+bourkie2 posts ante [$30]
+guccihu999 posts ante [$30]
+Lukks posts ante [$30]
+jfjb3 posts ante [$30]
+NaturalOne92 posts ante [$30]
+sarna11 posts ante [$30]
+bourkie2 posts small blind [$150]
+guccihu999 posts big blind [$300]
+** Dealing down cards **
+BBelanger069 folds
+Lukks folds
+jfjb3 folds
+NaturalOne92 folds
+sarna11 folds
+bourkie2 calls [$150]
+guccihu999 checks
+** Dealing flop ** [ Qd, 2d, 4d ]
+bourkie2 bets [$810]
+guccihu999 calls [$810]
+** Dealing turn ** [ 7h ]
+bourkie2 bets [$1,215]
+guccihu999 folds
+** Summary **
+bourkie2 collected [ $2,430 ]
+
+
+
+#Game No : 638842624
+***** 888poker Hand History for Game 638842624 *****
+$200/$400 Blinds No Limit Holdem - *** 22 11 2014 05:04:29
+Tournament #63692861 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: bourkie2 ( $19,518 )
+Seat 2: guccihu999 ( $6,915 )
+Seat 3: PapaShango19 ( $10,712 )
+Seat 4: Power915 ( $13,910 )
+Seat 5: BBelanger069 ( $11,210 )
+Seat 6: Lukks ( $9,040 )
+Seat 7: jfjb3 ( $4,600 )
+Seat 9: NaturalOne92 ( $23,881 )
+Seat 10: sarna11 ( $11,540 )
+BBelanger069 posts ante [$40]
+bourkie2 posts ante [$40]
+guccihu999 posts ante [$40]
+Lukks posts ante [$40]
+jfjb3 posts ante [$40]
+NaturalOne92 posts ante [$40]
+sarna11 posts ante [$40]
+PapaShango19 posts ante [$40]
+Power915 posts ante [$40]
+guccihu999 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, As ]
+Power915 folds
+BBelanger069 folds
+Lukks calls [$400]
+jfjb3 raises [$4,560]
+NaturalOne92 folds
+sarna11 folds
+bourkie2 folds
+guccihu999 raises [$6,675]
+PapaShango19 raises [$8,790]
+Lukks folds
+** Dealing flop ** [ Jh, 9d, 6s ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 8d ]
+** Summary **
+guccihu999 shows [ 8s, 8h ]
+PapaShango19 shows [ Kd, As ]
+jfjb3 shows [ Ad, Qc ]
+guccihu999 collected [ $14,440 ]
+guccihu999 collected [ $4,630 ]
+
+
+
+#Game No : 638842799
+***** 888poker Hand History for Game 638842799 *****
+$200/$400 Blinds No Limit Holdem - *** 22 11 2014 05:05:25
+Tournament #63692861 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: bourkie2 ( $19,478 )
+Seat 2: guccihu999 ( $19,070 )
+Seat 3: PapaShango19 ( $3,797 )
+Seat 4: Power915 ( $13,870 )
+Seat 5: BBelanger069 ( $11,170 )
+Seat 6: Lukks ( $8,600 )
+Seat 9: NaturalOne92 ( $23,841 )
+Seat 10: sarna11 ( $11,500 )
+BBelanger069 posts ante [$40]
+bourkie2 posts ante [$40]
+guccihu999 posts ante [$40]
+Lukks posts ante [$40]
+NaturalOne92 posts ante [$40]
+sarna11 posts ante [$40]
+PapaShango19 posts ante [$40]
+Power915 posts ante [$40]
+PapaShango19 posts small blind [$200]
+Power915 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3s ]
+BBelanger069 folds
+Lukks folds
+NaturalOne92 folds
+sarna11 folds
+bourkie2 raises [$800]
+guccihu999 folds
+PapaShango19 folds
+Power915 folds
+** Summary **
+bourkie2 did not show his hand
+bourkie2 collected [ $1,320 ]
+
+
+
+#Game No : 638842878
+***** 888poker Hand History for Game 638842878 *****
+$200/$400 Blinds No Limit Holdem - *** 22 11 2014 05:05:59
+Tournament #63692861 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: bourkie2 ( $20,358 )
+Seat 2: guccihu999 ( $19,030 )
+Seat 3: PapaShango19 ( $3,557 )
+Seat 4: Power915 ( $13,430 )
+Seat 5: BBelanger069 ( $11,130 )
+Seat 6: Lukks ( $8,560 )
+Seat 9: NaturalOne92 ( $23,801 )
+Seat 10: sarna11 ( $11,460 )
+BBelanger069 posts ante [$40]
+bourkie2 posts ante [$40]
+guccihu999 posts ante [$40]
+Lukks posts ante [$40]
+NaturalOne92 posts ante [$40]
+sarna11 posts ante [$40]
+PapaShango19 posts ante [$40]
+Power915 posts ante [$40]
+Power915 posts small blind [$200]
+BBelanger069 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 6c ]
+Lukks folds
+NaturalOne92 calls [$400]
+sarna11 folds
+bourkie2 raises [$800]
+guccihu999 folds
+PapaShango19 folds
+Power915 folds
+BBelanger069 folds
+NaturalOne92 raises [$800]
+bourkie2 calls [$400]
+** Dealing flop ** [ 2c, 5s, 4d ]
+NaturalOne92 checks
+bourkie2 bets [$1,660]
+NaturalOne92 calls [$1,660]
+** Dealing turn ** [ 6d ]
+NaturalOne92 checks
+bourkie2 bets [$3,320]
+NaturalOne92 calls [$3,320]
+** Dealing river ** [ Ts ]
+NaturalOne92 checks
+bourkie2 checks
+** Summary **
+NaturalOne92 shows [ Ks, Kc ]
+bourkie2 mucks [ 7s, 7c ]
+NaturalOne92 collected [ $13,280 ]
+
+
+
+#Game No : 638843049
+***** 888poker Hand History for Game 638843049 *****
+$200/$400 Blinds No Limit Holdem - *** 22 11 2014 05:07:02
+Tournament #63692861 $1.35 + $0.15 - Table #15 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: bourkie2 ( $14,138 )
+Seat 2: guccihu999 ( $18,990 )
+Seat 3: PapaShango19 ( $3,517 )
+Seat 4: Power915 ( $13,190 )
+Seat 5: BBelanger069 ( $10,690 )
+Seat 6: Lukks ( $8,520 )
+Seat 7: Reitk ( $13,811 )
+Seat 9: NaturalOne92 ( $30,861 )
+Seat 10: sarna11 ( $11,420 )
+BBelanger069 posts ante [$40]
+bourkie2 posts ante [$40]
+guccihu999 posts ante [$40]
+Lukks posts ante [$40]
+NaturalOne92 posts ante [$40]
+sarna11 posts ante [$40]
+PapaShango19 posts ante [$40]
+Power915 posts ante [$40]
+Reitk posts ante [$40]
+BBelanger069 posts small blind [$200]
+Lukks posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Ad ]
+Reitk calls [$400]
+NaturalOne92 raises [$800]
+sarna11 folds
+bourkie2 folds
+guccihu999 raises [$18,950]
+PapaShango19 calls [$3,477]
+Power915 folds
+BBelanger069 folds
+Lukks folds
+Reitk folds
+NaturalOne92 folds
+** Dealing flop ** [ 2d, Tc, 3c ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 3s ]
+** Summary **
+guccihu999 shows [ Ks, Ah ]
+PapaShango19 shows [ Js, Ad ]
+guccihu999 collected [ $9,114 ]
+
+
+

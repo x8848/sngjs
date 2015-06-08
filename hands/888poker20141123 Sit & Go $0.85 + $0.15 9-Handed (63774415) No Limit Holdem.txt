@@ -1,0 +1,3649 @@
+#Game No : 460318490
+***** 888poker Hand History for Game 460318490 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:52:11
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,500 )
+Seat 2: ValeraZP.UA ( $1,500 )
+Seat 3: LFCSteR1 ( $1,500 )
+Seat 4: WillyVonka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,500 )
+Seat 7: GrgTsygankov ( $1,500 )
+Seat 9: xitop753 ( $1,500 )
+Seat 10: PapaShango19 ( $1,500 )
+vovan422rv posts small blind [$10]
+GrgTsygankov posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Kd ]
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+ValeraZP.UA folds
+LFCSteR1 calls [$20]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov checks
+** Dealing flop ** [ 5d, 4c, Qc ]
+GrgTsygankov checks
+LFCSteR1 checks
+** Dealing turn ** [ 2c ]
+GrgTsygankov checks
+LFCSteR1 checks
+** Dealing river ** [ 3d ]
+GrgTsygankov checks
+LFCSteR1 checks
+** Summary **
+GrgTsygankov shows [ 5h, 7d ]
+LFCSteR1 shows [ 5s, 7s ]
+GrgTsygankov collected [ $25 ]
+LFCSteR1 collected [ $25 ]
+
+
+
+#Game No : 460318739
+***** 888poker Hand History for Game 460318739 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:53:36
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,500 )
+Seat 2: ValeraZP.UA ( $1,500 )
+Seat 3: LFCSteR1 ( $1,505 )
+Seat 4: WillyVonka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,490 )
+Seat 7: GrgTsygankov ( $1,505 )
+Seat 9: xitop753 ( $1,500 )
+Seat 10: PapaShango19 ( $1,500 )
+GrgTsygankov posts small blind [$10]
+xitop753 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 9c ]
+PapaShango19 folds
+ada_e folds
+ValeraZP.UA folds
+LFCSteR1 calls [$20]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 checks
+** Dealing flop ** [ Ts, 7h, 3c ]
+xitop753 checks
+LFCSteR1 checks
+** Dealing turn ** [ Ah ]
+xitop753 checks
+LFCSteR1 checks
+** Dealing river ** [ Ks ]
+xitop753 checks
+LFCSteR1 checks
+** Summary **
+xitop753 shows [ 5d, 6s ]
+LFCSteR1 shows [ 8h, 8c ]
+LFCSteR1 collected [ $50 ]
+
+
+
+#Game No : 460318912
+***** 888poker Hand History for Game 460318912 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:54:39
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,500 )
+Seat 2: ValeraZP.UA ( $1,500 )
+Seat 3: LFCSteR1 ( $1,535 )
+Seat 4: WillyVonka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,490 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,480 )
+Seat 10: PapaShango19 ( $1,500 )
+xitop753 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 3s ]
+ada_e folds
+ValeraZP.UA folds
+LFCSteR1 folds
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ Jc, 6d, 9c ]
+xitop753 checks
+PapaShango19 checks
+** Dealing turn ** [ Kh ]
+xitop753 checks
+PapaShango19 checks
+** Dealing river ** [ 5d ]
+xitop753 checks
+PapaShango19 checks
+** Summary **
+xitop753 shows [ 2h, 2c ]
+PapaShango19 mucks [ 7d, 3s ]
+xitop753 collected [ $40 ]
+
+
+
+#Game No : 460319036
+***** 888poker Hand History for Game 460319036 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:55:39
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,500 )
+Seat 2: ValeraZP.UA ( $1,500 )
+Seat 3: LFCSteR1 ( $1,535 )
+Seat 4: WillyVonka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,490 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,500 )
+Seat 10: PapaShango19 ( $1,480 )
+PapaShango19 posts small blind [$10]
+ada_e posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Ks ]
+ValeraZP.UA folds
+LFCSteR1 calls [$20]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 calls [$20]
+PapaShango19 calls [$10]
+ada_e checks
+** Dealing flop ** [ Kc, 3h, 6s ]
+PapaShango19 bets [$40]
+ada_e folds
+LFCSteR1 folds
+xitop753 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $80 ]
+
+
+
+#Game No : 460319226
+***** 888poker Hand History for Game 460319226 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:57:12
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,480 )
+Seat 2: ValeraZP.UA ( $1,500 )
+Seat 3: LFCSteR1 ( $1,515 )
+Seat 4: WillyVonka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,490 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,480 )
+Seat 10: PapaShango19 ( $1,540 )
+ada_e posts small blind [$10]
+ValeraZP.UA posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ts ]
+LFCSteR1 calls [$20]
+WillyVonka folds
+Onatole111 folds
+vovan422rv raises [$40]
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+ValeraZP.UA calls [$20]
+LFCSteR1 calls [$20]
+** Dealing flop ** [ 7s, Jc, 9h ]
+ValeraZP.UA checks
+LFCSteR1 checks
+vovan422rv bets [$65]
+ValeraZP.UA calls [$65]
+LFCSteR1 calls [$65]
+** Dealing turn ** [ Js ]
+ValeraZP.UA checks
+LFCSteR1 checks
+vovan422rv bets [$162]
+ValeraZP.UA folds
+LFCSteR1 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $325 ]
+
+
+
+#Game No : 460319330
+***** 888poker Hand History for Game 460319330 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:58:08
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,470 )
+Seat 2: ValeraZP.UA ( $1,395 )
+Seat 3: LFCSteR1 ( $1,410 )
+Seat 4: WillyVonka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,710 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,480 )
+Seat 10: PapaShango19 ( $1,540 )
+ValeraZP.UA posts small blind [$10]
+LFCSteR1 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 2h ]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 calls [$20]
+PapaShango19 folds
+ada_e folds
+ValeraZP.UA folds
+LFCSteR1 checks
+** Dealing flop ** [ Jc, 4c, 4s ]
+LFCSteR1 checks
+xitop753 bets [$40]
+LFCSteR1 folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $50 ]
+
+
+
+#Game No : 460319437
+***** 888poker Hand History for Game 460319437 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:59:00
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,470 )
+Seat 2: ValeraZP.UA ( $1,385 )
+Seat 3: LFCSteR1 ( $1,390 )
+Seat 4: WillyVonka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,710 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,510 )
+Seat 10: PapaShango19 ( $1,540 )
+LFCSteR1 posts small blind [$10]
+WillyVonka posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Js ]
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+ValeraZP.UA folds
+LFCSteR1 calls [$10]
+WillyVonka checks
+** Dealing flop ** [ 3s, 8s, 5h ]
+LFCSteR1 checks
+WillyVonka checks
+** Dealing turn ** [ 4h ]
+LFCSteR1 bets [$20]
+WillyVonka folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $40 ]
+
+
+
+#Game No : 460319505
+***** 888poker Hand History for Game 460319505 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:59:36
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,470 )
+Seat 2: ValeraZP.UA ( $1,385 )
+Seat 3: LFCSteR1 ( $1,410 )
+Seat 4: WillyVonka ( $1,480 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: vovan422rv ( $1,710 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,510 )
+Seat 10: PapaShango19 ( $1,540 )
+WillyVonka posts small blind [$10]
+Onatole111 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 2h ]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 calls [$20]
+PapaShango19 calls [$20]
+ada_e folds
+ValeraZP.UA folds
+LFCSteR1 folds
+WillyVonka folds
+Onatole111 checks
+** Dealing flop ** [ Qs, Th, 2c ]
+Onatole111 checks
+xitop753 checks
+PapaShango19 bets [$70]
+Onatole111 folds
+xitop753 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $70 ]
+
+
+
+#Game No : 460319640
+***** 888poker Hand History for Game 460319640 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:00:40
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,470 )
+Seat 2: ValeraZP.UA ( $1,385 )
+Seat 3: LFCSteR1 ( $1,410 )
+Seat 4: WillyVonka ( $1,470 )
+Seat 5: Onatole111 ( $1,480 )
+Seat 6: vovan422rv ( $1,710 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,490 )
+Seat 10: PapaShango19 ( $1,590 )
+Onatole111 posts small blind [$15]
+vovan422rv posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Jh ]
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+ValeraZP.UA folds
+LFCSteR1 calls [$30]
+WillyVonka folds
+Onatole111 folds
+vovan422rv checks
+** Dealing flop ** [ 8h, 9c, Jd ]
+vovan422rv checks
+LFCSteR1 bets [$30]
+vovan422rv folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $75 ]
+
+
+
+#Game No : 460319756
+***** 888poker Hand History for Game 460319756 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:01:22
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,470 )
+Seat 2: ValeraZP.UA ( $1,385 )
+Seat 3: LFCSteR1 ( $1,455 )
+Seat 4: WillyVonka ( $1,470 )
+Seat 5: Onatole111 ( $1,465 )
+Seat 6: vovan422rv ( $1,680 )
+Seat 7: GrgTsygankov ( $1,495 )
+Seat 9: xitop753 ( $1,490 )
+Seat 10: PapaShango19 ( $1,590 )
+vovan422rv posts small blind [$15]
+GrgTsygankov posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4d ]
+xitop753 folds
+PapaShango19 folds
+ada_e raises [$90]
+ValeraZP.UA folds
+LFCSteR1 calls [$90]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+** Dealing flop ** [ 7c, Kd, Js ]
+ada_e bets [$146]
+LFCSteR1 raises [$1,365]
+ada_e folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $517 ]
+
+
+
+#Game No : 460319888
+***** 888poker Hand History for Game 460319888 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:02:19
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ada_e ( $1,234 )
+Seat 2: ValeraZP.UA ( $1,385 )
+Seat 3: LFCSteR1 ( $1,736 )
+Seat 4: WillyVonka ( $1,470 )
+Seat 5: Onatole111 ( $1,465 )
+Seat 6: vovan422rv ( $1,665 )
+Seat 7: GrgTsygankov ( $1,465 )
+Seat 9: xitop753 ( $1,490 )
+Seat 10: PapaShango19 ( $1,590 )
+GrgTsygankov posts small blind [$15]
+xitop753 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5h ]
+PapaShango19 folds
+ada_e folds
+ValeraZP.UA calls [$30]
+LFCSteR1 calls [$30]
+WillyVonka raises [$210]
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+ValeraZP.UA calls [$180]
+LFCSteR1 calls [$180]
+** Dealing flop ** [ Ts, 7s, Qc ]
+ValeraZP.UA bets [$30]
+LFCSteR1 calls [$30]
+WillyVonka raises [$795]
+ValeraZP.UA calls [$765]
+LFCSteR1 folds
+** Dealing turn ** [ 4c ]
+ValeraZP.UA checks
+WillyVonka bets [$465]
+ValeraZP.UA calls [$380]
+** Dealing river ** [ 5s ]
+** Summary **
+ValeraZP.UA shows [ Ah, Qs ]
+WillyVonka shows [ Kc, Kd ]
+WillyVonka collected [ $3,055 ]
+
+
+
+#Game No : 460320039
+***** 888poker Hand History for Game 460320039 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:03:25
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,234 )
+Seat 3: LFCSteR1 ( $1,496 )
+Seat 4: WillyVonka ( $3,140 )
+Seat 5: Onatole111 ( $1,465 )
+Seat 6: vovan422rv ( $1,665 )
+Seat 7: GrgTsygankov ( $1,450 )
+Seat 9: xitop753 ( $1,460 )
+Seat 10: PapaShango19 ( $1,590 )
+xitop753 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Qs ]
+ada_e calls [$30]
+LFCSteR1 calls [$30]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov calls [$30]
+xitop753 calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 5d, Qh, 7s ]
+xitop753 checks
+PapaShango19 bets [$75]
+ada_e folds
+LFCSteR1 calls [$75]
+GrgTsygankov folds
+xitop753 folds
+** Dealing turn ** [ Qd ]
+PapaShango19 bets [$150]
+LFCSteR1 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 460320225
+***** 888poker Hand History for Game 460320225 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:04:46
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,204 )
+Seat 3: LFCSteR1 ( $1,391 )
+Seat 4: WillyVonka ( $3,140 )
+Seat 5: Onatole111 ( $1,465 )
+Seat 6: vovan422rv ( $1,665 )
+Seat 7: GrgTsygankov ( $1,420 )
+Seat 9: xitop753 ( $1,430 )
+Seat 10: PapaShango19 ( $1,785 )
+PapaShango19 posts small blind [$15]
+ada_e posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 6h ]
+LFCSteR1 calls [$30]
+WillyVonka folds
+Onatole111 folds
+vovan422rv raises [$101]
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+LFCSteR1 calls [$71]
+** Dealing flop ** [ 2h, As, Ah ]
+LFCSteR1 checks
+vovan422rv bets [$123]
+LFCSteR1 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $247 ]
+
+
+
+#Game No : 460320322
+***** 888poker Hand History for Game 460320322 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:05:26
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,174 )
+Seat 3: LFCSteR1 ( $1,290 )
+Seat 4: WillyVonka ( $3,140 )
+Seat 5: Onatole111 ( $1,465 )
+Seat 6: vovan422rv ( $1,811 )
+Seat 7: GrgTsygankov ( $1,420 )
+Seat 9: xitop753 ( $1,430 )
+Seat 10: PapaShango19 ( $1,770 )
+ada_e posts small blind [$15]
+LFCSteR1 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 4c ]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+ada_e calls [$15]
+LFCSteR1 checks
+** Dealing flop ** [ 9s, Kc, 6d ]
+ada_e checks
+LFCSteR1 checks
+** Dealing turn ** [ 2h ]
+ada_e checks
+LFCSteR1 bets [$60]
+ada_e folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $60 ]
+
+
+
+#Game No : 460320439
+***** 888poker Hand History for Game 460320439 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:06:09
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,144 )
+Seat 3: LFCSteR1 ( $1,320 )
+Seat 4: WillyVonka ( $3,140 )
+Seat 5: Onatole111 ( $1,465 )
+Seat 6: vovan422rv ( $1,811 )
+Seat 7: GrgTsygankov ( $1,420 )
+Seat 9: xitop753 ( $1,430 )
+Seat 10: PapaShango19 ( $1,770 )
+LFCSteR1 posts small blind [$15]
+WillyVonka posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5d ]
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 raises [$60]
+PapaShango19 folds
+ada_e folds
+LFCSteR1 calls [$45]
+WillyVonka folds
+** Dealing flop ** [ 6d, 8d, Qd ]
+LFCSteR1 checks
+xitop753 bets [$30]
+LFCSteR1 calls [$30]
+** Dealing turn ** [ As ]
+LFCSteR1 checks
+xitop753 bets [$30]
+LFCSteR1 calls [$30]
+** Dealing river ** [ 8h ]
+LFCSteR1 checks
+xitop753 bets [$30]
+LFCSteR1 calls [$30]
+** Summary **
+xitop753 shows [ Kc, Ac ]
+LFCSteR1 mucks [ Ah, Td ]
+xitop753 collected [ $330 ]
+
+
+
+#Game No : 460320546
+***** 888poker Hand History for Game 460320546 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:06:53
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,144 )
+Seat 3: LFCSteR1 ( $1,170 )
+Seat 4: WillyVonka ( $3,110 )
+Seat 5: Onatole111 ( $1,465 )
+Seat 6: vovan422rv ( $1,811 )
+Seat 7: GrgTsygankov ( $1,420 )
+Seat 9: xitop753 ( $1,610 )
+Seat 10: PapaShango19 ( $1,770 )
+WillyVonka posts small blind [$15]
+Onatole111 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 5d ]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 raises [$90]
+ada_e folds
+LFCSteR1 folds
+WillyVonka folds
+Onatole111 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $75 ]
+
+
+
+#Game No : 460320626
+***** 888poker Hand History for Game 460320626 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 11:07:24
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,144 )
+Seat 3: LFCSteR1 ( $1,170 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 5: Onatole111 ( $1,435 )
+Seat 6: vovan422rv ( $1,811 )
+Seat 7: GrgTsygankov ( $1,420 )
+Seat 9: xitop753 ( $1,610 )
+Seat 10: PapaShango19 ( $1,815 )
+Onatole111 posts small blind [$15]
+vovan422rv posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ts ]
+GrgTsygankov calls [$30]
+xitop753 folds
+PapaShango19 folds
+ada_e calls [$30]
+LFCSteR1 calls [$30]
+WillyVonka folds
+Onatole111 folds
+vovan422rv checks
+** Dealing flop ** [ 7h, Ad, 6s ]
+vovan422rv checks
+GrgTsygankov checks
+ada_e checks
+LFCSteR1 checks
+** Dealing turn ** [ 9d ]
+vovan422rv checks
+GrgTsygankov checks
+ada_e checks
+LFCSteR1 checks
+** Dealing river ** [ Ac ]
+vovan422rv checks
+GrgTsygankov checks
+ada_e checks
+LFCSteR1 checks
+** Summary **
+vovan422rv shows [ Td, 3d ]
+GrgTsygankov shows [ 2h, 2c ]
+ada_e mucks [ Jc, Qs ]
+LFCSteR1 mucks [ Kd, 4h ]
+GrgTsygankov collected [ $135 ]
+
+
+
+#Game No : 460320816
+***** 888poker Hand History for Game 460320816 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:08:41
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,114 )
+Seat 3: LFCSteR1 ( $1,140 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 5: Onatole111 ( $1,420 )
+Seat 6: vovan422rv ( $1,781 )
+Seat 7: GrgTsygankov ( $1,525 )
+Seat 9: xitop753 ( $1,610 )
+Seat 10: PapaShango19 ( $1,815 )
+vovan422rv posts small blind [$25]
+GrgTsygankov posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 3d ]
+xitop753 folds
+PapaShango19 folds
+ada_e folds
+LFCSteR1 folds
+WillyVonka folds
+Onatole111 folds
+vovan422rv raises [$75]
+GrgTsygankov folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $100 ]
+
+
+
+#Game No : 460320884
+***** 888poker Hand History for Game 460320884 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:09:06
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,114 )
+Seat 3: LFCSteR1 ( $1,140 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 5: Onatole111 ( $1,420 )
+Seat 6: vovan422rv ( $1,831 )
+Seat 7: GrgTsygankov ( $1,475 )
+Seat 9: xitop753 ( $1,610 )
+Seat 10: PapaShango19 ( $1,815 )
+GrgTsygankov posts small blind [$25]
+xitop753 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 5d ]
+PapaShango19 folds
+ada_e folds
+LFCSteR1 calls [$50]
+WillyVonka folds
+Onatole111 raises [$175]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 calls [$125]
+LFCSteR1 calls [$125]
+** Dealing flop ** [ Kd, 2d, Qc ]
+xitop753 bets [$100]
+LFCSteR1 calls [$100]
+Onatole111 folds
+** Dealing turn ** [ Ad ]
+xitop753 checks
+LFCSteR1 checks
+** Dealing river ** [ 3d ]
+xitop753 bets [$50]
+LFCSteR1 calls [$50]
+** Summary **
+xitop753 shows [ Ah, As ]
+LFCSteR1 shows [ 6s, 6d ]
+LFCSteR1 collected [ $850 ]
+
+
+
+#Game No : 460321025
+***** 888poker Hand History for Game 460321025 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:10:00
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,114 )
+Seat 3: LFCSteR1 ( $1,665 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 5: Onatole111 ( $1,245 )
+Seat 6: vovan422rv ( $1,831 )
+Seat 7: GrgTsygankov ( $1,450 )
+Seat 9: xitop753 ( $1,285 )
+Seat 10: PapaShango19 ( $1,815 )
+xitop753 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Ac ]
+ada_e folds
+LFCSteR1 calls [$50]
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ 8d, Tc, Th ]
+xitop753 bets [$100]
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $150 ]
+
+
+
+#Game No : 460321129
+***** 888poker Hand History for Game 460321129 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:10:38
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ada_e ( $1,114 )
+Seat 3: LFCSteR1 ( $1,615 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 5: Onatole111 ( $1,245 )
+Seat 6: vovan422rv ( $1,831 )
+Seat 7: GrgTsygankov ( $1,450 )
+Seat 9: xitop753 ( $1,385 )
+Seat 10: PapaShango19 ( $1,765 )
+PapaShango19 posts small blind [$25]
+ada_e posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 8s ]
+LFCSteR1 calls [$50]
+WillyVonka folds
+Onatole111 folds
+vovan422rv calls [$50]
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 calls [$25]
+ada_e checks
+** Dealing flop ** [ Kh, 7s, 5h ]
+PapaShango19 checks
+ada_e checks
+LFCSteR1 checks
+vovan422rv checks
+** Dealing turn ** [ 8c ]
+PapaShango19 bets [$150]
+ada_e raises [$575]
+LFCSteR1 folds
+vovan422rv folds
+PapaShango19 raises [$1,565]
+ada_e calls [$489]
+** Dealing river ** [ Th ]
+** Summary **
+ada_e shows [ Kd, 2c ]
+PapaShango19 shows [ 7d, 8s ]
+PapaShango19 collected [ $2,328 ]
+
+
+
+#Game No : 460321733
+***** 888poker Hand History for Game 460321733 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:11:50
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,565 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 5: Onatole111 ( $1,245 )
+Seat 6: vovan422rv ( $1,781 )
+Seat 7: GrgTsygankov ( $1,450 )
+Seat 9: xitop753 ( $1,385 )
+Seat 10: PapaShango19 ( $2,979 )
+LFCSteR1 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Jc ]
+WillyVonka folds
+Onatole111 raises [$1,245]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+Onatole111 did not show his hand
+Onatole111 collected [ $100 ]
+
+
+
+#Game No : 460322072
+***** 888poker Hand History for Game 460322072 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:12:17
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,515 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 5: Onatole111 ( $1,295 )
+Seat 6: vovan422rv ( $1,781 )
+Seat 7: GrgTsygankov ( $1,450 )
+Seat 9: xitop753 ( $1,385 )
+Seat 10: PapaShango19 ( $2,979 )
+LFCSteR1 posts small blind [$25]
+WillyVonka posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Qc ]
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov calls [$50]
+xitop753 raises [$1,385]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+GrgTsygankov folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $175 ]
+
+
+
+#Game No : 460322298
+***** 888poker Hand History for Game 460322298 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:12:35
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,490 )
+Seat 4: WillyVonka ( $3,045 )
+Seat 5: Onatole111 ( $1,295 )
+Seat 6: vovan422rv ( $1,781 )
+Seat 7: GrgTsygankov ( $1,400 )
+Seat 9: xitop753 ( $1,510 )
+Seat 10: PapaShango19 ( $2,979 )
+WillyVonka posts small blind [$25]
+Onatole111 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 6s ]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 calls [$50]
+WillyVonka folds
+Onatole111 checks
+** Dealing flop ** [ 5s, Th, 6h ]
+Onatole111 checks
+LFCSteR1 bets [$50]
+Onatole111 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $125 ]
+
+
+
+#Game No : 460322565
+***** 888poker Hand History for Game 460322565 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:13:01
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,565 )
+Seat 4: WillyVonka ( $3,020 )
+Seat 5: Onatole111 ( $1,245 )
+Seat 6: vovan422rv ( $1,781 )
+Seat 7: GrgTsygankov ( $1,400 )
+Seat 9: xitop753 ( $1,510 )
+Seat 10: PapaShango19 ( $2,979 )
+Onatole111 posts small blind [$25]
+vovan422rv posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8h ]
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+Onatole111 raises [$100]
+vovan422rv folds
+** Summary **
+Onatole111 did not show his hand
+Onatole111 collected [ $100 ]
+
+
+
+#Game No : 460322861
+***** 888poker Hand History for Game 460322861 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:13:30
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,565 )
+Seat 4: WillyVonka ( $3,020 )
+Seat 5: Onatole111 ( $1,295 )
+Seat 6: vovan422rv ( $1,731 )
+Seat 7: GrgTsygankov ( $1,400 )
+Seat 9: xitop753 ( $1,510 )
+Seat 10: PapaShango19 ( $2,979 )
+vovan422rv posts small blind [$25]
+GrgTsygankov posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ah ]
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 calls [$50]
+WillyVonka folds
+Onatole111 raises [$1,295]
+vovan422rv folds
+GrgTsygankov folds
+LFCSteR1 folds
+** Summary **
+Onatole111 did not show his hand
+Onatole111 collected [ $175 ]
+
+
+
+#Game No : 460323085
+***** 888poker Hand History for Game 460323085 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:13:50
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,515 )
+Seat 4: WillyVonka ( $3,020 )
+Seat 5: Onatole111 ( $1,420 )
+Seat 6: vovan422rv ( $1,706 )
+Seat 7: GrgTsygankov ( $1,350 )
+Seat 9: xitop753 ( $1,510 )
+Seat 10: PapaShango19 ( $2,979 )
+GrgTsygankov posts small blind [$25]
+xitop753 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 2c ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+Onatole111 folds
+vovan422rv folds
+GrgTsygankov raises [$125]
+xitop753 calls [$100]
+** Dealing flop ** [ Ts, 4h, 3c ]
+GrgTsygankov bets [$150]
+xitop753 folds
+** Summary **
+GrgTsygankov did not show his hand
+GrgTsygankov collected [ $300 ]
+
+
+
+#Game No : 460323353
+***** 888poker Hand History for Game 460323353 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:14:17
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,515 )
+Seat 4: WillyVonka ( $3,020 )
+Seat 5: Onatole111 ( $1,420 )
+Seat 6: vovan422rv ( $1,706 )
+Seat 7: GrgTsygankov ( $1,500 )
+Seat 9: xitop753 ( $1,360 )
+Seat 10: PapaShango19 ( $2,979 )
+xitop753 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6h ]
+LFCSteR1 folds
+WillyVonka folds
+Onatole111 folds
+vovan422rv raises [$100]
+GrgTsygankov folds
+xitop753 calls [$75]
+PapaShango19 folds
+** Dealing flop ** [ 3c, 6c, 5d ]
+xitop753 checks
+vovan422rv bets [$125]
+xitop753 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $250 ]
+
+
+
+#Game No : 460323599
+***** 888poker Hand History for Game 460323599 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:14:48
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 3: LFCSteR1 ( $1,515 )
+Seat 4: WillyVonka ( $3,020 )
+Seat 5: Onatole111 ( $1,420 )
+Seat 6: vovan422rv ( $1,856 )
+Seat 7: GrgTsygankov ( $1,500 )
+Seat 9: xitop753 ( $1,260 )
+Seat 10: PapaShango19 ( $2,929 )
+PapaShango19 posts small blind [$25]
+LFCSteR1 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 4d ]
+WillyVonka folds
+Onatole111 raises [$1,420]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 calls [$1,370]
+** Dealing flop ** [ Ks, Qc, 3d ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 5h ]
+** Summary **
+LFCSteR1 shows [ Qs, Kc ]
+Onatole111 shows [ Jc, Jd ]
+LFCSteR1 collected [ $2,865 ]
+
+
+
+#Game No : 460323936
+***** 888poker Hand History for Game 460323936 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:15:24
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $2,960 )
+Seat 4: WillyVonka ( $3,020 )
+Seat 6: vovan422rv ( $1,856 )
+Seat 7: GrgTsygankov ( $1,500 )
+Seat 9: xitop753 ( $1,260 )
+Seat 10: PapaShango19 ( $2,904 )
+LFCSteR1 posts small blind [$25]
+WillyVonka posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Ac ]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 raises [$150]
+LFCSteR1 folds
+WillyVonka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $125 ]
+
+
+
+#Game No : 460324140
+***** 888poker Hand History for Game 460324140 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 11:15:46
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $2,935 )
+Seat 4: WillyVonka ( $2,970 )
+Seat 6: vovan422rv ( $1,856 )
+Seat 7: GrgTsygankov ( $1,500 )
+Seat 9: xitop753 ( $1,260 )
+Seat 10: PapaShango19 ( $2,979 )
+WillyVonka posts small blind [$25]
+vovan422rv posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 8d ]
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 calls [$50]
+WillyVonka folds
+vovan422rv raises [$62]
+LFCSteR1 calls [$62]
+** Dealing flop ** [ 4c, Jh, Ah ]
+vovan422rv bets [$124]
+LFCSteR1 calls [$124]
+** Dealing turn ** [ Ad ]
+vovan422rv checks
+LFCSteR1 bets [$50]
+vovan422rv calls [$50]
+** Dealing river ** [ 7c ]
+vovan422rv checks
+LFCSteR1 checks
+** Summary **
+vovan422rv shows [ Kc, Jd ]
+LFCSteR1 mucks [ Js, Qs ]
+vovan422rv collected [ $597 ]
+
+
+
+#Game No : 460324567
+***** 888poker Hand History for Game 460324567 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:16:36
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $2,649 )
+Seat 4: WillyVonka ( $2,945 )
+Seat 6: vovan422rv ( $2,167 )
+Seat 7: GrgTsygankov ( $1,500 )
+Seat 9: xitop753 ( $1,260 )
+Seat 10: PapaShango19 ( $2,979 )
+vovan422rv posts small blind [$50]
+GrgTsygankov posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Ks ]
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv calls [$50]
+GrgTsygankov checks
+** Dealing flop ** [ 5c, 2s, 9h ]
+vovan422rv checks
+GrgTsygankov checks
+** Dealing turn ** [ Th ]
+vovan422rv bets [$100]
+GrgTsygankov calls [$100]
+** Dealing river ** [ Jd ]
+vovan422rv checks
+GrgTsygankov checks
+** Summary **
+vovan422rv shows [ 6h, 4h ]
+GrgTsygankov shows [ 2d, Kd ]
+GrgTsygankov collected [ $400 ]
+
+
+
+#Game No : 460325177
+***** 888poker Hand History for Game 460325177 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:17:45
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $2,649 )
+Seat 4: WillyVonka ( $2,945 )
+Seat 6: vovan422rv ( $1,967 )
+Seat 7: GrgTsygankov ( $1,700 )
+Seat 9: xitop753 ( $1,260 )
+Seat 10: PapaShango19 ( $2,979 )
+GrgTsygankov posts small blind [$50]
+xitop753 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 5d ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka raises [$450]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $250 ]
+
+
+
+#Game No : 460325326
+***** 888poker Hand History for Game 460325326 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:18:03
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $2,649 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 6: vovan422rv ( $1,967 )
+Seat 7: GrgTsygankov ( $1,650 )
+Seat 9: xitop753 ( $1,160 )
+Seat 10: PapaShango19 ( $2,979 )
+xitop753 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 2c ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov raises [$300]
+xitop753 folds
+PapaShango19 folds
+** Summary **
+GrgTsygankov did not show his hand
+GrgTsygankov collected [ $250 ]
+
+
+
+#Game No : 460325521
+***** 888poker Hand History for Game 460325521 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:18:26
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $2,649 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 6: vovan422rv ( $1,967 )
+Seat 7: GrgTsygankov ( $1,800 )
+Seat 9: xitop753 ( $1,110 )
+Seat 10: PapaShango19 ( $2,879 )
+PapaShango19 posts small blind [$50]
+LFCSteR1 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 6h ]
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $150 ]
+
+
+
+#Game No : 460325688
+***** 888poker Hand History for Game 460325688 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:18:47
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $2,699 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 6: vovan422rv ( $1,967 )
+Seat 7: GrgTsygankov ( $1,800 )
+Seat 9: xitop753 ( $1,110 )
+Seat 10: PapaShango19 ( $2,829 )
+LFCSteR1 posts small blind [$50]
+WillyVonka posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 2h ]
+vovan422rv folds
+GrgTsygankov folds
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 calls [$50]
+WillyVonka checks
+** Dealing flop ** [ Ts, Qs, 3h ]
+LFCSteR1 bets [$100]
+WillyVonka raises [$200]
+LFCSteR1 calls [$100]
+** Dealing turn ** [ 8s ]
+LFCSteR1 bets [$100]
+WillyVonka calls [$100]
+** Dealing river ** [ 5c ]
+LFCSteR1 checks
+WillyVonka checks
+** Summary **
+LFCSteR1 shows [ Qh, 5s ]
+WillyVonka mucks [ 7s, Qd ]
+LFCSteR1 collected [ $800 ]
+
+
+
+#Game No : 460325980
+***** 888poker Hand History for Game 460325980 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:19:25
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $3,099 )
+Seat 4: WillyVonka ( $2,695 )
+Seat 6: vovan422rv ( $1,967 )
+Seat 7: GrgTsygankov ( $1,800 )
+Seat 9: xitop753 ( $1,110 )
+Seat 10: PapaShango19 ( $2,829 )
+WillyVonka posts small blind [$50]
+vovan422rv posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Js ]
+GrgTsygankov folds
+xitop753 raises [$1,110]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $250 ]
+
+
+
+#Game No : 460326128
+***** 888poker Hand History for Game 460326128 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:19:46
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $3,099 )
+Seat 4: WillyVonka ( $2,645 )
+Seat 6: vovan422rv ( $1,867 )
+Seat 7: GrgTsygankov ( $1,800 )
+Seat 9: xitop753 ( $1,260 )
+Seat 10: PapaShango19 ( $2,829 )
+vovan422rv posts small blind [$50]
+GrgTsygankov posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 4c ]
+xitop753 folds
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+GrgTsygankov did not show his hand
+GrgTsygankov collected [ $150 ]
+
+
+
+#Game No : 460326274
+***** 888poker Hand History for Game 460326274 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:20:03
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $3,099 )
+Seat 4: WillyVonka ( $2,645 )
+Seat 6: vovan422rv ( $1,817 )
+Seat 7: GrgTsygankov ( $1,850 )
+Seat 9: xitop753 ( $1,260 )
+Seat 10: PapaShango19 ( $2,829 )
+GrgTsygankov posts small blind [$50]
+xitop753 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7h ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov folds
+** Summary **
+xitop753 did not show his hand
+xitop753 collected [ $150 ]
+
+
+
+#Game No : 460326362
+***** 888poker Hand History for Game 460326362 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:20:16
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: LFCSteR1 ( $3,099 )
+Seat 4: WillyVonka ( $2,645 )
+Seat 6: vovan422rv ( $1,817 )
+Seat 7: GrgTsygankov ( $1,800 )
+Seat 9: xitop753 ( $1,310 )
+Seat 10: PapaShango19 ( $2,829 )
+xitop753 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 7c ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov folds
+xitop753 calls [$50]
+PapaShango19 raises [$300]
+xitop753 raises [$1,210]
+PapaShango19 calls [$910]
+** Dealing flop ** [ Ad, Jh, 9c ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ Tc ]
+** Summary **
+xitop753 shows [ 5h, 5c ]
+PapaShango19 shows [ 7s, 7c ]
+PapaShango19 collected [ $2,620 ]
+
+
+
+#Game No : 460326700
+***** 888poker Hand History for Game 460326700 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:21:04
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $3,099 )
+Seat 4: WillyVonka ( $2,645 )
+Seat 6: vovan422rv ( $1,817 )
+Seat 7: GrgTsygankov ( $1,800 )
+Seat 10: PapaShango19 ( $4,139 )
+PapaShango19 posts small blind [$50]
+LFCSteR1 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 9s ]
+WillyVonka raises [$400]
+vovan422rv folds
+GrgTsygankov folds
+PapaShango19 folds
+LFCSteR1 calls [$300]
+** Dealing flop ** [ 6c, 3d, 4h ]
+LFCSteR1 checks
+WillyVonka bets [$850]
+LFCSteR1 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $850 ]
+
+
+
+#Game No : 460326924
+***** 888poker Hand History for Game 460326924 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:21:35
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,699 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 6: vovan422rv ( $1,817 )
+Seat 7: GrgTsygankov ( $1,800 )
+Seat 10: PapaShango19 ( $4,089 )
+LFCSteR1 posts small blind [$50]
+WillyVonka posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Kd ]
+vovan422rv folds
+GrgTsygankov raises [$200]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka calls [$100]
+** Dealing flop ** [ Qh, 6c, Qd ]
+WillyVonka checks
+GrgTsygankov bets [$200]
+WillyVonka folds
+** Summary **
+GrgTsygankov did not show his hand
+GrgTsygankov collected [ $450 ]
+
+
+
+#Game No : 460327111
+***** 888poker Hand History for Game 460327111 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:22:02
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,649 )
+Seat 4: WillyVonka ( $2,895 )
+Seat 6: vovan422rv ( $1,817 )
+Seat 7: GrgTsygankov ( $2,050 )
+Seat 10: PapaShango19 ( $4,089 )
+WillyVonka posts small blind [$50]
+vovan422rv posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 3c ]
+GrgTsygankov raises [$200]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+GrgTsygankov did not show his hand
+GrgTsygankov collected [ $250 ]
+
+
+
+#Game No : 460327355
+***** 888poker Hand History for Game 460327355 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:22:40
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,649 )
+Seat 4: WillyVonka ( $2,845 )
+Seat 6: vovan422rv ( $1,717 )
+Seat 7: GrgTsygankov ( $2,200 )
+Seat 10: PapaShango19 ( $4,089 )
+vovan422rv posts small blind [$50]
+GrgTsygankov posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2d ]
+PapaShango19 folds
+LFCSteR1 calls [$100]
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov checks
+** Dealing flop ** [ 4d, 6d, As ]
+GrgTsygankov checks
+LFCSteR1 bets [$250]
+GrgTsygankov folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $250 ]
+
+
+
+#Game No : 460327599
+***** 888poker Hand History for Game 460327599 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:23:18
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,799 )
+Seat 4: WillyVonka ( $2,845 )
+Seat 6: vovan422rv ( $1,667 )
+Seat 7: GrgTsygankov ( $2,100 )
+Seat 10: PapaShango19 ( $4,089 )
+GrgTsygankov posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4s ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $150 ]
+
+
+
+#Game No : 460327689
+***** 888poker Hand History for Game 460327689 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:23:33
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,799 )
+Seat 4: WillyVonka ( $2,845 )
+Seat 6: vovan422rv ( $1,667 )
+Seat 7: GrgTsygankov ( $2,050 )
+Seat 10: PapaShango19 ( $4,139 )
+PapaShango19 posts small blind [$50]
+LFCSteR1 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 5h ]
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov folds
+PapaShango19 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $150 ]
+
+
+
+#Game No : 460327791
+***** 888poker Hand History for Game 460327791 *****
+$50/$100 Blinds No Limit Holdem - *** 23 11 2014 11:23:46
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,849 )
+Seat 4: WillyVonka ( $2,845 )
+Seat 6: vovan422rv ( $1,667 )
+Seat 7: GrgTsygankov ( $2,050 )
+Seat 10: PapaShango19 ( $4,089 )
+LFCSteR1 posts small blind [$50]
+WillyVonka posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Js ]
+vovan422rv folds
+GrgTsygankov folds
+PapaShango19 folds
+LFCSteR1 calls [$50]
+WillyVonka checks
+** Dealing flop ** [ 8d, 2h, Qc ]
+LFCSteR1 checks
+WillyVonka bets [$100]
+LFCSteR1 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $200 ]
+
+
+
+#Game No : 460327967
+***** 888poker Hand History for Game 460327967 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:24:12
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,749 )
+Seat 4: WillyVonka ( $2,945 )
+Seat 6: vovan422rv ( $1,667 )
+Seat 7: GrgTsygankov ( $2,050 )
+Seat 10: PapaShango19 ( $4,089 )
+WillyVonka posts small blind [$75]
+vovan422rv posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ah ]
+GrgTsygankov folds
+PapaShango19 raises [$450]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 460328071
+***** 888poker Hand History for Game 460328071 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:24:31
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,749 )
+Seat 4: WillyVonka ( $2,870 )
+Seat 6: vovan422rv ( $1,517 )
+Seat 7: GrgTsygankov ( $2,050 )
+Seat 10: PapaShango19 ( $4,314 )
+vovan422rv posts small blind [$75]
+GrgTsygankov posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Qd ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka raises [$300]
+vovan422rv folds
+GrgTsygankov folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $375 ]
+
+
+
+#Game No : 460328244
+***** 888poker Hand History for Game 460328244 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:24:58
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,749 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 6: vovan422rv ( $1,442 )
+Seat 7: GrgTsygankov ( $1,900 )
+Seat 10: PapaShango19 ( $4,314 )
+GrgTsygankov posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 8s ]
+LFCSteR1 raises [$525]
+WillyVonka folds
+vovan422rv folds
+GrgTsygankov folds
+PapaShango19 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $375 ]
+
+
+
+#Game No : 460328328
+***** 888poker Hand History for Game 460328328 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:25:11
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,974 )
+Seat 4: WillyVonka ( $3,095 )
+Seat 6: vovan422rv ( $1,442 )
+Seat 7: GrgTsygankov ( $1,825 )
+Seat 10: PapaShango19 ( $4,164 )
+PapaShango19 posts small blind [$75]
+LFCSteR1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 8c ]
+WillyVonka raises [$450]
+vovan422rv raises [$1,442]
+GrgTsygankov folds
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka calls [$992]
+** Dealing flop ** [ 6c, Td, 4s ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ Ac ]
+** Summary **
+WillyVonka shows [ Ah, Kc ]
+vovan422rv shows [ Ts, Tc ]
+vovan422rv collected [ $3,109 ]
+
+
+
+#Game No : 460328508
+***** 888poker Hand History for Game 460328508 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:25:44
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $2,824 )
+Seat 4: WillyVonka ( $1,653 )
+Seat 6: vovan422rv ( $3,109 )
+Seat 7: GrgTsygankov ( $1,825 )
+Seat 10: PapaShango19 ( $4,089 )
+LFCSteR1 posts small blind [$75]
+WillyVonka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 8d ]
+vovan422rv folds
+GrgTsygankov folds
+PapaShango19 folds
+LFCSteR1 calls [$75]
+WillyVonka raises [$150]
+LFCSteR1 calls [$150]
+** Dealing flop ** [ 5d, 7h, 2h ]
+LFCSteR1 checks
+WillyVonka bets [$150]
+LFCSteR1 calls [$150]
+** Dealing turn ** [ Ad ]
+LFCSteR1 bets [$1,200]
+WillyVonka folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $900 ]
+
+
+
+#Game No : 460328766
+***** 888poker Hand History for Game 460328766 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:26:23
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $3,274 )
+Seat 4: WillyVonka ( $1,203 )
+Seat 6: vovan422rv ( $3,109 )
+Seat 7: GrgTsygankov ( $1,825 )
+Seat 10: PapaShango19 ( $4,089 )
+WillyVonka posts small blind [$75]
+vovan422rv posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ks ]
+GrgTsygankov raises [$300]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka raises [$1,128]
+vovan422rv folds
+GrgTsygankov folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $750 ]
+
+
+
+#Game No : 460328941
+***** 888poker Hand History for Game 460328941 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:26:50
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: LFCSteR1 ( $3,274 )
+Seat 4: WillyVonka ( $1,653 )
+Seat 6: vovan422rv ( $2,959 )
+Seat 7: GrgTsygankov ( $1,525 )
+Seat 10: PapaShango19 ( $4,089 )
+vovan422rv posts small blind [$75]
+GrgTsygankov posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 4s ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka raises [$375]
+vovan422rv folds
+GrgTsygankov raises [$1,375]
+WillyVonka calls [$1,150]
+** Dealing flop ** [ 5s, Jc, Kd ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ Th ]
+** Summary **
+WillyVonka shows [ Tc, Ah ]
+GrgTsygankov shows [ 5d, Ac ]
+WillyVonka collected [ $3,125 ]
+
+
+
+#Game No : 460329148
+***** 888poker Hand History for Game 460329148 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:27:28
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $3,274 )
+Seat 4: WillyVonka ( $3,253 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $4,089 )
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7c ]
+LFCSteR1 calls [$150]
+WillyVonka raises [$375]
+vovan422rv folds
+PapaShango19 folds
+LFCSteR1 calls [$225]
+** Dealing flop ** [ Jh, 6c, 4d ]
+LFCSteR1 checks
+WillyVonka bets [$450]
+LFCSteR1 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $900 ]
+
+
+
+#Game No : 460329309
+***** 888poker Hand History for Game 460329309 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:27:55
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,899 )
+Seat 4: WillyVonka ( $3,778 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $3,939 )
+PapaShango19 posts small blind [$75]
+LFCSteR1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Td ]
+WillyVonka folds
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $225 ]
+
+
+
+#Game No : 460329372
+***** 888poker Hand History for Game 460329372 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:28:06
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,974 )
+Seat 4: WillyVonka ( $3,778 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $3,864 )
+LFCSteR1 posts small blind [$75]
+WillyVonka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 5s ]
+vovan422rv folds
+PapaShango19 folds
+LFCSteR1 calls [$75]
+WillyVonka raises [$300]
+LFCSteR1 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $300 ]
+
+
+
+#Game No : 460329438
+***** 888poker Hand History for Game 460329438 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:28:22
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,824 )
+Seat 4: WillyVonka ( $3,928 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $3,864 )
+WillyVonka posts small blind [$75]
+vovan422rv posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Kh ]
+PapaShango19 raises [$450]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 460329529
+***** 888poker Hand History for Game 460329529 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:28:39
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,824 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $2,734 )
+Seat 10: PapaShango19 ( $4,089 )
+vovan422rv posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3d ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 460329603
+***** 888poker Hand History for Game 460329603 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:28:51
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,824 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $2,659 )
+Seat 10: PapaShango19 ( $4,164 )
+PapaShango19 posts small blind [$75]
+LFCSteR1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7d ]
+WillyVonka folds
+vovan422rv raises [$300]
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $375 ]
+
+
+
+#Game No : 460329677
+***** 888poker Hand History for Game 460329677 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:29:08
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,674 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $4,089 )
+LFCSteR1 posts small blind [$75]
+WillyVonka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Jc ]
+vovan422rv folds
+PapaShango19 folds
+LFCSteR1 calls [$75]
+WillyVonka checks
+** Dealing flop ** [ 4c, 5s, 6h ]
+LFCSteR1 checks
+WillyVonka checks
+** Dealing turn ** [ 8d ]
+LFCSteR1 checks
+WillyVonka checks
+** Dealing river ** [ Td ]
+LFCSteR1 checks
+WillyVonka checks
+** Summary **
+LFCSteR1 shows [ Ks, 3s ]
+WillyVonka shows [ 2h, 5c ]
+WillyVonka collected [ $300 ]
+
+
+
+#Game No : 460329822
+***** 888poker Hand History for Game 460329822 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:29:40
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,524 )
+Seat 4: WillyVonka ( $4,003 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $4,089 )
+WillyVonka posts small blind [$75]
+vovan422rv posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2s ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $225 ]
+
+
+
+#Game No : 460329900
+***** 888poker Hand History for Game 460329900 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:29:53
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,524 )
+Seat 4: WillyVonka ( $3,928 )
+Seat 6: vovan422rv ( $2,959 )
+Seat 10: PapaShango19 ( $4,089 )
+vovan422rv posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Td ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 460329961
+***** 888poker Hand History for Game 460329961 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:30:04
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,524 )
+Seat 4: WillyVonka ( $3,928 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $4,164 )
+PapaShango19 posts small blind [$75]
+LFCSteR1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2c ]
+WillyVonka folds
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $225 ]
+
+
+
+#Game No : 460330023
+***** 888poker Hand History for Game 460330023 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:30:14
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,599 )
+Seat 4: WillyVonka ( $3,928 )
+Seat 6: vovan422rv ( $2,884 )
+Seat 10: PapaShango19 ( $4,089 )
+LFCSteR1 posts small blind [$75]
+WillyVonka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 8h ]
+vovan422rv raises [$300]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $375 ]
+
+
+
+#Game No : 460330119
+***** 888poker Hand History for Game 460330119 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:30:37
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,524 )
+Seat 4: WillyVonka ( $3,778 )
+Seat 6: vovan422rv ( $3,109 )
+Seat 10: PapaShango19 ( $4,089 )
+WillyVonka posts small blind [$75]
+vovan422rv posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 2h ]
+PapaShango19 raises [$300]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv raises [$300]
+PapaShango19 calls [$150]
+** Dealing flop ** [ Td, 8h, 5d ]
+vovan422rv bets [$487]
+PapaShango19 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $975 ]
+
+
+
+#Game No : 460330265
+***** 888poker Hand History for Game 460330265 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:31:09
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,524 )
+Seat 4: WillyVonka ( $3,703 )
+Seat 6: vovan422rv ( $3,634 )
+Seat 10: PapaShango19 ( $3,639 )
+vovan422rv posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Ks ]
+LFCSteR1 calls [$150]
+WillyVonka folds
+vovan422rv folds
+PapaShango19 raises [$3,489]
+LFCSteR1 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 460330392
+***** 888poker Hand History for Game 460330392 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:31:33
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,374 )
+Seat 4: WillyVonka ( $3,703 )
+Seat 6: vovan422rv ( $3,559 )
+Seat 10: PapaShango19 ( $3,864 )
+PapaShango19 posts small blind [$75]
+LFCSteR1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Ad ]
+WillyVonka folds
+vovan422rv folds
+PapaShango19 raises [$225]
+LFCSteR1 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 460330472
+***** 888poker Hand History for Game 460330472 *****
+$75/$150 Blinds No Limit Holdem - *** 23 11 2014 11:31:52
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,224 )
+Seat 4: WillyVonka ( $3,703 )
+Seat 6: vovan422rv ( $3,559 )
+Seat 10: PapaShango19 ( $4,014 )
+LFCSteR1 posts small blind [$75]
+WillyVonka posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 8h ]
+vovan422rv folds
+PapaShango19 folds
+LFCSteR1 calls [$75]
+WillyVonka checks
+** Dealing flop ** [ 6d, 5c, Th ]
+LFCSteR1 bets [$150]
+WillyVonka calls [$150]
+** Dealing turn ** [ Qd ]
+LFCSteR1 bets [$150]
+WillyVonka raises [$450]
+LFCSteR1 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $900 ]
+
+
+
+#Game No : 460330627
+***** 888poker Hand History for Game 460330627 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:32:24
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,774 )
+Seat 4: WillyVonka ( $4,153 )
+Seat 6: vovan422rv ( $3,559 )
+Seat 10: PapaShango19 ( $4,014 )
+WillyVonka posts small blind [$100]
+vovan422rv posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 8d ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka raises [$500]
+vovan422rv raises [$3,359]
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $1,200 ]
+
+
+
+#Game No : 460330759
+***** 888poker Hand History for Game 460330759 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:32:56
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,774 )
+Seat 4: WillyVonka ( $3,553 )
+Seat 6: vovan422rv ( $4,159 )
+Seat 10: PapaShango19 ( $4,014 )
+vovan422rv posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 6c ]
+LFCSteR1 folds
+WillyVonka raises [$600]
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $500 ]
+
+
+
+#Game No : 460330844
+***** 888poker Hand History for Game 460330844 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:33:14
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,774 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $4,059 )
+Seat 10: PapaShango19 ( $3,814 )
+PapaShango19 posts small blind [$100]
+LFCSteR1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 8c ]
+WillyVonka folds
+vovan422rv raises [$525]
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $500 ]
+
+
+
+#Game No : 460330926
+***** 888poker Hand History for Game 460330926 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:33:32
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,574 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $4,359 )
+Seat 10: PapaShango19 ( $3,714 )
+LFCSteR1 posts small blind [$100]
+WillyVonka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Ks ]
+vovan422rv folds
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $300 ]
+
+
+
+#Game No : 460330975
+***** 888poker Hand History for Game 460330975 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:33:44
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,474 )
+Seat 4: WillyVonka ( $3,953 )
+Seat 6: vovan422rv ( $4,359 )
+Seat 10: PapaShango19 ( $3,714 )
+WillyVonka posts small blind [$100]
+vovan422rv posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Tc ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $300 ]
+
+
+
+#Game No : 460331043
+***** 888poker Hand History for Game 460331043 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:34:01
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,474 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $4,459 )
+Seat 10: PapaShango19 ( $3,714 )
+vovan422rv posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8h ]
+LFCSteR1 calls [$200]
+WillyVonka folds
+vovan422rv raises [$300]
+PapaShango19 folds
+LFCSteR1 calls [$200]
+** Dealing flop ** [ 3d, Jh, 7s ]
+vovan422rv bets [$500]
+LFCSteR1 raises [$1,074]
+vovan422rv calls [$574]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 5c ]
+** Summary **
+LFCSteR1 shows [ 6h, 6c ]
+vovan422rv shows [ Kc, Qs ]
+LFCSteR1 collected [ $3,148 ]
+
+
+
+#Game No : 460331193
+***** 888poker Hand History for Game 460331193 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:34:39
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $3,148 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $3,514 )
+PapaShango19 posts small blind [$100]
+LFCSteR1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2d ]
+WillyVonka folds
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $300 ]
+
+
+
+#Game No : 460331240
+***** 888poker Hand History for Game 460331240 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:34:50
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $3,248 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $3,414 )
+LFCSteR1 posts small blind [$100]
+WillyVonka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Qs ]
+vovan422rv folds
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $300 ]
+
+
+
+#Game No : 460331323
+***** 888poker Hand History for Game 460331323 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:35:12
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $3,148 )
+Seat 4: WillyVonka ( $3,953 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $3,414 )
+WillyVonka posts small blind [$100]
+vovan422rv posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Js ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka raises [$300]
+vovan422rv calls [$200]
+** Dealing flop ** [ As, 4d, Td ]
+WillyVonka checks
+vovan422rv checks
+** Dealing turn ** [ 7h ]
+WillyVonka checks
+vovan422rv bets [$200]
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $800 ]
+
+
+
+#Game No : 460331414
+***** 888poker Hand History for Game 460331414 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:35:37
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $3,148 )
+Seat 4: WillyVonka ( $3,553 )
+Seat 6: vovan422rv ( $3,385 )
+Seat 10: PapaShango19 ( $3,414 )
+vovan422rv posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 3d ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 460331461
+***** 888poker Hand History for Game 460331461 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:35:48
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $3,148 )
+Seat 4: WillyVonka ( $3,553 )
+Seat 6: vovan422rv ( $3,285 )
+Seat 10: PapaShango19 ( $3,514 )
+PapaShango19 posts small blind [$100]
+LFCSteR1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6s ]
+WillyVonka folds
+vovan422rv raises [$400]
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $500 ]
+
+
+
+#Game No : 460331523
+***** 888poker Hand History for Game 460331523 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:36:02
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,948 )
+Seat 4: WillyVonka ( $3,553 )
+Seat 6: vovan422rv ( $3,585 )
+Seat 10: PapaShango19 ( $3,414 )
+LFCSteR1 posts small blind [$100]
+WillyVonka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Kc ]
+vovan422rv folds
+PapaShango19 raises [$400]
+LFCSteR1 calls [$300]
+WillyVonka folds
+** Dealing flop ** [ 5d, 8s, Qh ]
+LFCSteR1 checks
+PapaShango19 bets [$500]
+LFCSteR1 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,000 ]
+
+
+
+#Game No : 460331637
+***** 888poker Hand History for Game 460331637 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:36:34
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,548 )
+Seat 4: WillyVonka ( $3,353 )
+Seat 6: vovan422rv ( $3,585 )
+Seat 10: PapaShango19 ( $4,014 )
+WillyVonka posts small blind [$100]
+vovan422rv posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Qs ]
+PapaShango19 raises [$600]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 460331682
+***** 888poker Hand History for Game 460331682 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:36:49
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,548 )
+Seat 4: WillyVonka ( $3,253 )
+Seat 6: vovan422rv ( $3,385 )
+Seat 10: PapaShango19 ( $4,314 )
+vovan422rv posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 7c ]
+LFCSteR1 folds
+WillyVonka raises [$500]
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $500 ]
+
+
+
+#Game No : 460331740
+***** 888poker Hand History for Game 460331740 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:37:06
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,548 )
+Seat 4: WillyVonka ( $3,553 )
+Seat 6: vovan422rv ( $3,285 )
+Seat 10: PapaShango19 ( $4,114 )
+PapaShango19 posts small blind [$100]
+LFCSteR1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Th ]
+WillyVonka folds
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+LFCSteR1 did not show his hand
+LFCSteR1 collected [ $300 ]
+
+
+
+#Game No : 460331781
+***** 888poker Hand History for Game 460331781 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:37:18
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,648 )
+Seat 4: WillyVonka ( $3,553 )
+Seat 6: vovan422rv ( $3,285 )
+Seat 10: PapaShango19 ( $4,014 )
+LFCSteR1 posts small blind [$100]
+WillyVonka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Td ]
+vovan422rv folds
+PapaShango19 folds
+LFCSteR1 calls [$100]
+WillyVonka checks
+** Dealing flop ** [ Kd, 9d, 4h ]
+LFCSteR1 checks
+WillyVonka checks
+** Dealing turn ** [ 9s ]
+LFCSteR1 bets [$200]
+WillyVonka calls [$200]
+** Dealing river ** [ Ts ]
+LFCSteR1 bets [$200]
+WillyVonka calls [$200]
+** Summary **
+LFCSteR1 shows [ 6d, Ah ]
+WillyVonka shows [ 5h, 4s ]
+WillyVonka collected [ $1,200 ]
+
+
+
+#Game No : 460331884
+***** 888poker Hand History for Game 460331884 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:37:49
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,048 )
+Seat 4: WillyVonka ( $4,153 )
+Seat 6: vovan422rv ( $3,285 )
+Seat 10: PapaShango19 ( $4,014 )
+WillyVonka posts small blind [$100]
+vovan422rv posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ts ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $300 ]
+
+
+
+#Game No : 460331925
+***** 888poker Hand History for Game 460331925 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:38:03
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,048 )
+Seat 4: WillyVonka ( $4,053 )
+Seat 6: vovan422rv ( $3,385 )
+Seat 10: PapaShango19 ( $4,014 )
+vovan422rv posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 4s ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv raises [$300]
+PapaShango19 raises [$600]
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 460331999
+***** 888poker Hand History for Game 460331999 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:38:26
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $2,048 )
+Seat 4: WillyVonka ( $4,053 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $4,414 )
+PapaShango19 posts small blind [$100]
+LFCSteR1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Kc ]
+WillyVonka folds
+vovan422rv folds
+PapaShango19 raises [$300]
+LFCSteR1 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $400 ]
+
+
+
+#Game No : 460332039
+***** 888poker Hand History for Game 460332039 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:38:40
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,848 )
+Seat 4: WillyVonka ( $4,053 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $4,614 )
+LFCSteR1 posts small blind [$100]
+WillyVonka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Qh ]
+vovan422rv folds
+PapaShango19 raises [$600]
+LFCSteR1 folds
+WillyVonka folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 460332081
+***** 888poker Hand History for Game 460332081 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:38:55
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,748 )
+Seat 4: WillyVonka ( $3,853 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $4,914 )
+WillyVonka posts small blind [$100]
+vovan422rv posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Th ]
+PapaShango19 folds
+LFCSteR1 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $300 ]
+
+
+
+#Game No : 460332110
+***** 888poker Hand History for Game 460332110 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:39:06
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,748 )
+Seat 4: WillyVonka ( $3,753 )
+Seat 6: vovan422rv ( $3,085 )
+Seat 10: PapaShango19 ( $4,914 )
+vovan422rv posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Jc ]
+LFCSteR1 folds
+WillyVonka folds
+vovan422rv raises [$300]
+PapaShango19 raises [$800]
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 460332239
+***** 888poker Hand History for Game 460332239 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:39:42
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,748 )
+Seat 4: WillyVonka ( $3,753 )
+Seat 6: vovan422rv ( $2,685 )
+Seat 10: PapaShango19 ( $5,314 )
+PapaShango19 posts small blind [$100]
+LFCSteR1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 3d ]
+WillyVonka folds
+vovan422rv raises [$2,685]
+PapaShango19 folds
+LFCSteR1 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $500 ]
+
+
+
+#Game No : 460332276
+***** 888poker Hand History for Game 460332276 *****
+$100/$200 Blinds No Limit Holdem - *** 23 11 2014 11:39:56
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,548 )
+Seat 4: WillyVonka ( $3,753 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $5,214 )
+LFCSteR1 posts small blind [$100]
+WillyVonka posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 6c ]
+vovan422rv folds
+PapaShango19 raises [$400]
+LFCSteR1 folds
+WillyVonka calls [$200]
+** Dealing flop ** [ 4d, 5s, 8d ]
+WillyVonka checks
+PapaShango19 bets [$450]
+WillyVonka calls [$450]
+** Dealing turn ** [ Qh ]
+WillyVonka checks
+PapaShango19 checks
+** Dealing river ** [ Ts ]
+WillyVonka bets [$400]
+PapaShango19 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $1,800 ]
+
+
+
+#Game No : 460332388
+***** 888poker Hand History for Game 460332388 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:40:39
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: LFCSteR1 ( $1,448 )
+Seat 4: WillyVonka ( $4,703 )
+Seat 6: vovan422rv ( $2,985 )
+Seat 10: PapaShango19 ( $4,364 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6d ]
+PapaShango19 folds
+LFCSteR1 calls [$300]
+WillyVonka calls [$150]
+vovan422rv checks
+** Dealing flop ** [ Js, 4h, Qh ]
+WillyVonka checks
+vovan422rv bets [$900]
+LFCSteR1 raises [$1,148]
+WillyVonka folds
+vovan422rv calls [$248]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 9s ]
+** Summary **
+LFCSteR1 shows [ Kc, 4c ]
+vovan422rv shows [ Qd, 4s ]
+vovan422rv collected [ $3,196 ]
+
+
+
+#Game No : 460332508
+***** 888poker Hand History for Game 460332508 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:41:18
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $4,403 )
+Seat 6: vovan422rv ( $4,733 )
+Seat 10: PapaShango19 ( $4,364 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 9s ]
+WillyVonka raises [$600]
+vovan422rv raises [$750]
+PapaShango19 folds
+WillyVonka calls [$300]
+** Dealing flop ** [ 2h, Kc, 6c ]
+vovan422rv checks
+WillyVonka bets [$2,100]
+vovan422rv folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $2,100 ]
+
+
+
+#Game No : 460332600
+***** 888poker Hand History for Game 460332600 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:41:48
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $5,603 )
+Seat 6: vovan422rv ( $3,833 )
+Seat 10: PapaShango19 ( $4,064 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Qc ]
+vovan422rv raises [$787]
+PapaShango19 folds
+WillyVonka calls [$487]
+** Dealing flop ** [ 6c, 8c, Ac ]
+WillyVonka checks
+vovan422rv bets [$3,046]
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $1,724 ]
+
+
+
+#Game No : 460332669
+***** 888poker Hand History for Game 460332669 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:42:15
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $4,816 )
+Seat 6: vovan422rv ( $4,770 )
+Seat 10: PapaShango19 ( $3,914 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 9s ]
+PapaShango19 folds
+WillyVonka raises [$750]
+vovan422rv calls [$600]
+** Dealing flop ** [ Ah, 6d, Kh ]
+WillyVonka checks
+vovan422rv checks
+** Dealing turn ** [ 3d ]
+WillyVonka bets [$300]
+vovan422rv calls [$300]
+** Dealing river ** [ 7h ]
+WillyVonka bets [$300]
+vovan422rv calls [$300]
+** Summary **
+WillyVonka shows [ 4s, Ad ]
+vovan422rv mucks [ 6h, 5d ]
+WillyVonka collected [ $3,000 ]
+
+
+
+#Game No : 460332728
+***** 888poker Hand History for Game 460332728 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:42:37
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,316 )
+Seat 6: vovan422rv ( $3,270 )
+Seat 10: PapaShango19 ( $3,914 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Jd ]
+WillyVonka folds
+vovan422rv raises [$562]
+PapaShango19 raises [$3,614]
+vovan422rv calls [$2,558]
+** Dealing flop ** [ 3h, Ks, 7s ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 6h ]
+** Summary **
+vovan422rv shows [ Jh, Ac ]
+PapaShango19 shows [ Ad, Jd ]
+vovan422rv collected [ $3,270 ]
+PapaShango19 collected [ $3,270 ]
+
+
+
+#Game No : 460332804
+***** 888poker Hand History for Game 460332804 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:43:09
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,316 )
+Seat 6: vovan422rv ( $3,270 )
+Seat 10: PapaShango19 ( $3,914 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 3s ]
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $450 ]
+
+
+
+#Game No : 460332822
+***** 888poker Hand History for Game 460332822 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:43:18
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,466 )
+Seat 6: vovan422rv ( $3,270 )
+Seat 10: PapaShango19 ( $3,764 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 3h ]
+PapaShango19 folds
+WillyVonka raises [$450]
+vovan422rv folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $600 ]
+
+
+
+#Game No : 460332846
+***** 888poker Hand History for Game 460332846 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:43:30
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,766 )
+Seat 6: vovan422rv ( $2,970 )
+Seat 10: PapaShango19 ( $3,764 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 3d ]
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 460332869
+***** 888poker Hand History for Game 460332869 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:43:40
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,766 )
+Seat 6: vovan422rv ( $2,820 )
+Seat 10: PapaShango19 ( $3,914 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8s ]
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $450 ]
+
+
+
+#Game No : 460332894
+***** 888poker Hand History for Game 460332894 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:43:49
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,916 )
+Seat 6: vovan422rv ( $2,820 )
+Seat 10: PapaShango19 ( $3,764 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 3s ]
+PapaShango19 folds
+WillyVonka raises [$1,050]
+vovan422rv folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $600 ]
+
+
+
+#Game No : 460332919
+***** 888poker Hand History for Game 460332919 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:44:02
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $7,216 )
+Seat 6: vovan422rv ( $2,520 )
+Seat 10: PapaShango19 ( $3,764 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ts ]
+WillyVonka folds
+vovan422rv raises [$2,370]
+PapaShango19 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $600 ]
+
+
+
+#Game No : 460332943
+***** 888poker Hand History for Game 460332943 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:44:14
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $7,216 )
+Seat 6: vovan422rv ( $2,820 )
+Seat 10: PapaShango19 ( $3,464 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Ks ]
+vovan422rv raises [$2,820]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $750 ]
+
+
+
+#Game No : 460332969
+***** 888poker Hand History for Game 460332969 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:44:25
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,916 )
+Seat 6: vovan422rv ( $3,270 )
+Seat 10: PapaShango19 ( $3,314 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 8c ]
+PapaShango19 raises [$3,314]
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $750 ]
+
+
+
+#Game No : 460333005
+***** 888poker Hand History for Game 460333005 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:44:44
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,766 )
+Seat 6: vovan422rv ( $2,970 )
+Seat 10: PapaShango19 ( $3,764 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Jh ]
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 460333023
+***** 888poker Hand History for Game 460333023 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:44:55
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,766 )
+Seat 6: vovan422rv ( $2,820 )
+Seat 10: PapaShango19 ( $3,914 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 6h ]
+vovan422rv raises [$2,820]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $750 ]
+
+
+
+#Game No : 460333054
+***** 888poker Hand History for Game 460333054 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:45:06
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,466 )
+Seat 6: vovan422rv ( $3,270 )
+Seat 10: PapaShango19 ( $3,764 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 6c ]
+PapaShango19 folds
+WillyVonka raises [$450]
+vovan422rv folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $600 ]
+
+
+
+#Game No : 460333079
+***** 888poker Hand History for Game 460333079 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:45:17
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,766 )
+Seat 6: vovan422rv ( $2,970 )
+Seat 10: PapaShango19 ( $3,764 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 6s ]
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 460333099
+***** 888poker Hand History for Game 460333099 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:45:27
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,766 )
+Seat 6: vovan422rv ( $2,820 )
+Seat 10: PapaShango19 ( $3,914 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 3h ]
+vovan422rv raises [$2,820]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $750 ]
+
+
+
+#Game No : 460333120
+***** 888poker Hand History for Game 460333120 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:45:38
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $6,466 )
+Seat 6: vovan422rv ( $3,270 )
+Seat 10: PapaShango19 ( $3,764 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2c ]
+PapaShango19 folds
+WillyVonka raises [$450]
+vovan422rv raises [$2,970]
+WillyVonka calls [$2,670]
+** Dealing flop ** [ Th, 4h, Qh ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ Ks ]
+** Summary **
+WillyVonka shows [ 2s, 2d ]
+vovan422rv shows [ Jc, Kc ]
+vovan422rv collected [ $6,540 ]
+
+
+
+#Game No : 460333219
+***** 888poker Hand History for Game 460333219 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:46:22
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $3,196 )
+Seat 6: vovan422rv ( $6,540 )
+Seat 10: PapaShango19 ( $3,764 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Qh ]
+WillyVonka raises [$600]
+vovan422rv raises [$6,390]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $1,500 ]
+
+
+
+#Game No : 460333240
+***** 888poker Hand History for Game 460333240 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:46:36
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,596 )
+Seat 6: vovan422rv ( $7,440 )
+Seat 10: PapaShango19 ( $3,464 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 8s ]
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $450 ]
+
+
+
+#Game No : 460333263
+***** 888poker Hand History for Game 460333263 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:46:45
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,746 )
+Seat 6: vovan422rv ( $7,440 )
+Seat 10: PapaShango19 ( $3,314 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Td ]
+PapaShango19 folds
+WillyVonka raises [$450]
+vovan422rv folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $600 ]
+
+
+
+#Game No : 460333283
+***** 888poker Hand History for Game 460333283 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:46:54
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $3,046 )
+Seat 6: vovan422rv ( $7,140 )
+Seat 10: PapaShango19 ( $3,314 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 9h ]
+WillyVonka folds
+vovan422rv raises [$450]
+PapaShango19 folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $600 ]
+
+
+
+#Game No : 460333312
+***** 888poker Hand History for Game 460333312 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:47:04
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $3,046 )
+Seat 6: vovan422rv ( $7,440 )
+Seat 10: PapaShango19 ( $3,014 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 6h ]
+vovan422rv raises [$7,440]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $750 ]
+
+
+
+#Game No : 460333330
+***** 888poker Hand History for Game 460333330 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:47:14
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,746 )
+Seat 6: vovan422rv ( $7,890 )
+Seat 10: PapaShango19 ( $2,864 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Ad ]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $450 ]
+
+
+
+#Game No : 460333346
+***** 888poker Hand History for Game 460333346 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:47:21
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,596 )
+Seat 6: vovan422rv ( $8,040 )
+Seat 10: PapaShango19 ( $2,864 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 4d ]
+WillyVonka raises [$2,596]
+vovan422rv folds
+PapaShango19 folds
+** Summary **
+WillyVonka did not show his hand
+WillyVonka collected [ $750 ]
+
+
+
+#Game No : 460333364
+***** 888poker Hand History for Game 460333364 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:47:31
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $3,046 )
+Seat 6: vovan422rv ( $7,890 )
+Seat 10: PapaShango19 ( $2,564 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Jh ]
+vovan422rv raises [$7,890]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $750 ]
+
+
+
+#Game No : 460333389
+***** 888poker Hand History for Game 460333389 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:47:42
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,746 )
+Seat 6: vovan422rv ( $8,340 )
+Seat 10: PapaShango19 ( $2,414 )
+WillyVonka posts small blind [$150]
+vovan422rv posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 2c ]
+PapaShango19 folds
+WillyVonka folds
+** Summary **
+vovan422rv did not show his hand
+vovan422rv collected [ $450 ]
+
+
+
+#Game No : 460333413
+***** 888poker Hand History for Game 460333413 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:47:53
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,596 )
+Seat 6: vovan422rv ( $8,490 )
+Seat 10: PapaShango19 ( $2,414 )
+vovan422rv posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8s ]
+WillyVonka folds
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 460333434
+***** 888poker Hand History for Game 460333434 *****
+$150/$300 Blinds No Limit Holdem - *** 23 11 2014 11:48:02
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,596 )
+Seat 6: vovan422rv ( $8,340 )
+Seat 10: PapaShango19 ( $2,564 )
+PapaShango19 posts small blind [$150]
+WillyVonka posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, As ]
+vovan422rv raises [$8,340]
+PapaShango19 calls [$2,414]
+WillyVonka folds
+** Dealing flop ** [ 6c, 4h, 8c ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Ad ]
+** Summary **
+vovan422rv shows [ Qh, 9h ]
+PapaShango19 shows [ Ks, As ]
+PapaShango19 collected [ $5,428 ]
+
+
+
+#Game No : 460333482
+***** 888poker Hand History for Game 460333482 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 11:48:26
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: WillyVonka ( $2,296 )
+Seat 6: vovan422rv ( $5,776 )
+Seat 10: PapaShango19 ( $5,428 )
+WillyVonka posts small blind [$200]
+vovan422rv posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Th ]
+PapaShango19 folds
+WillyVonka raises [$2,096]
+vovan422rv calls [$1,896]
+** Dealing flop ** [ 4s, Qh, Kd ]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ 4h ]
+** Summary **
+WillyVonka shows [ 2d, Ad ]
+vovan422rv shows [ Ks, 5c ]
+vovan422rv collected [ $4,592 ]
+
+
+
+#Game No : 460333520
+***** 888poker Hand History for Game 460333520 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 11:48:48
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vovan422rv ( $8,072 )
+Seat 10: PapaShango19 ( $5,428 )
+vovan422rv posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 4c ]
+vovan422rv raises [$600]
+PapaShango19 raises [$1,200]
+vovan422rv calls [$800]
+** Dealing flop ** [ 5d, 5c, Ad ]
+PapaShango19 bets [$1,600]
+vovan422rv folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $3,200 ]
+
+
+
+#Game No : 460333561
+***** 888poker Hand History for Game 460333561 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 11:49:11
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: vovan422rv ( $6,472 )
+Seat 10: PapaShango19 ( $7,028 )
+PapaShango19 posts small blind [$200]
+vovan422rv posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ad ]
+PapaShango19 raises [$600]
+vovan422rv raises [$6,072]
+PapaShango19 calls [$5,672]
+** Dealing flop ** [ Ts, 5h, 6s ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 9h ]
+** Summary **
+vovan422rv shows [ 9c, Tc ]
+PapaShango19 shows [ 3c, Ad ]
+vovan422rv collected [ $12,944 ]
+
+
+
+#Game No : 460333618
+***** 888poker Hand History for Game 460333618 *****
+$200/$400 Blinds No Limit Holdem - *** 23 11 2014 11:49:37
+Tournament #63774415 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vovan422rv ( $12,944 )
+Seat 10: PapaShango19 ( $556 )
+vovan422rv posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 5s ]
+vovan422rv raises [$600]
+PapaShango19 calls [$156]
+** Dealing flop ** [ Td, 4c, 9h ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 6c ]
+** Summary **
+vovan422rv shows [ 7d, 6d ]
+PapaShango19 shows [ 4d, 5s ]
+vovan422rv collected [ $1,112 ]
+
+
+

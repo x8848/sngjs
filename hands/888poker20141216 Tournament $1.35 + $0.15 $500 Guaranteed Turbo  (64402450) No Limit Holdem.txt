@@ -1,0 +1,1775 @@
+#Game No : 646007137
+***** 888poker Hand History for Game 646007137 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 01:15:24
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,500 )
+Seat 2: 1556199970 ( $2,500 )
+Seat 3: vostok50 ( $2,500 )
+Seat 4: SELE8889 ( $2,500 )
+Seat 5: SecoBb ( $2,500 )
+Seat 6: avant_80 ( $2,500 )
+Seat 7: MEMP34 ( $2,500 )
+Seat 9: tiagodiego ( $2,500 )
+Seat 10: __AKQJT__win ( $2,500 )
+SELE8889 posts small blind [$10]
+SecoBb posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3c ]
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win raises [$70]
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$70]
+SELE8889 folds
+SecoBb folds
+** Dealing flop ** [ As, 4c, 2s ]
+__AKQJT__win checks
+vostok50 checks
+** Dealing turn ** [ 9d ]
+__AKQJT__win checks
+vostok50 checks
+** Dealing river ** [ 7d ]
+__AKQJT__win checks
+vostok50 checks
+** Summary **
+__AKQJT__win shows [ Jc, 7c ]
+vostok50 mucks [ Jh, 3d ]
+__AKQJT__win collected [ $170 ]
+
+
+
+#Game No : 646007340
+***** 888poker Hand History for Game 646007340 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 01:16:18
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,500 )
+Seat 2: 1556199970 ( $2,500 )
+Seat 3: vostok50 ( $2,430 )
+Seat 4: SELE8889 ( $2,490 )
+Seat 5: SecoBb ( $2,480 )
+Seat 6: avant_80 ( $2,500 )
+Seat 7: MEMP34 ( $2,500 )
+Seat 9: tiagodiego ( $2,500 )
+Seat 10: __AKQJT__win ( $2,600 )
+SecoBb posts small blind [$10]
+avant_80 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Ks ]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$20]
+SELE8889 folds
+SecoBb folds
+avant_80 checks
+** Dealing flop ** [ 6s, Ah, Ad ]
+avant_80 checks
+vostok50 bets [$20]
+avant_80 folds
+** Summary **
+vostok50 did not show his hand
+vostok50 collected [ $50 ]
+
+
+
+#Game No : 646007513
+***** 888poker Hand History for Game 646007513 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 01:17:00
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,500 )
+Seat 2: 1556199970 ( $2,500 )
+Seat 3: vostok50 ( $2,460 )
+Seat 4: SELE8889 ( $2,490 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $2,480 )
+Seat 7: MEMP34 ( $2,500 )
+Seat 9: tiagodiego ( $2,500 )
+Seat 10: __AKQJT__win ( $2,600 )
+avant_80 posts small blind [$10]
+MEMP34 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Jh ]
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 calls [$20]
+1556199970 folds
+vostok50 calls [$20]
+SELE8889 folds
+SecoBb folds
+avant_80 raises [$90]
+MEMP34 folds
+PapaShango19 calls [$80]
+vostok50 calls [$80]
+** Dealing flop ** [ Kc, 8s, 9d ]
+avant_80 bets [$160]
+PapaShango19 folds
+vostok50 calls [$160]
+** Dealing turn ** [ Qd ]
+avant_80 bets [$320]
+vostok50 calls [$320]
+** Dealing river ** [ 3s ]
+avant_80 bets [$1,280]
+vostok50 folds
+** Summary **
+avant_80 did not show his hand
+avant_80 collected [ $1,280 ]
+
+
+
+#Game No : 646007780
+***** 888poker Hand History for Game 646007780 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 01:18:11
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,400 )
+Seat 2: 1556199970 ( $2,500 )
+Seat 3: vostok50 ( $1,880 )
+Seat 4: SELE8889 ( $2,490 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $3,180 )
+Seat 7: MEMP34 ( $2,480 )
+Seat 9: tiagodiego ( $2,500 )
+Seat 10: __AKQJT__win ( $2,600 )
+MEMP34 posts small blind [$10]
+tiagodiego posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 7d ]
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$20]
+SELE8889 folds
+SecoBb folds
+avant_80 calls [$20]
+MEMP34 calls [$10]
+tiagodiego checks
+** Dealing flop ** [ 3h, 5d, 8d ]
+MEMP34 checks
+tiagodiego checks
+vostok50 checks
+avant_80 checks
+** Dealing turn ** [ Jc ]
+MEMP34 checks
+tiagodiego checks
+vostok50 checks
+avant_80 bets [$40]
+MEMP34 folds
+tiagodiego folds
+vostok50 calls [$40]
+** Dealing river ** [ Ad ]
+vostok50 checks
+avant_80 bets [$160]
+vostok50 folds
+** Summary **
+avant_80 did not show his hand
+avant_80 collected [ $160 ]
+
+
+
+#Game No : 646008073
+***** 888poker Hand History for Game 646008073 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 01:19:37
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,400 )
+Seat 2: 1556199970 ( $2,500 )
+Seat 3: vostok50 ( $1,820 )
+Seat 4: SELE8889 ( $2,490 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $3,280 )
+Seat 7: MEMP34 ( $2,460 )
+Seat 9: tiagodiego ( $2,480 )
+Seat 10: __AKQJT__win ( $2,600 )
+tiagodiego posts small blind [$10]
+__AKQJT__win posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2c ]
+PapaShango19 folds
+1556199970 folds
+vostok50 raises [$40]
+SELE8889 folds
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win calls [$20]
+** Dealing flop ** [ Jd, Qh, Kh ]
+__AKQJT__win checks
+vostok50 bets [$20]
+__AKQJT__win calls [$20]
+** Dealing turn ** [ Js ]
+__AKQJT__win checks
+vostok50 bets [$97]
+__AKQJT__win folds
+** Summary **
+vostok50 did not show his hand
+vostok50 collected [ $130 ]
+
+
+
+#Game No : 646008254
+***** 888poker Hand History for Game 646008254 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 01:20:34
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,400 )
+Seat 2: 1556199970 ( $2,500 )
+Seat 3: vostok50 ( $1,890 )
+Seat 4: SELE8889 ( $2,490 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $3,280 )
+Seat 7: MEMP34 ( $2,460 )
+Seat 9: tiagodiego ( $2,470 )
+Seat 10: __AKQJT__win ( $2,540 )
+__AKQJT__win posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3c ]
+1556199970 folds
+vostok50 raises [$40]
+SELE8889 folds
+SecoBb folds
+avant_80 folds
+MEMP34 raises [$112]
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+vostok50 calls [$72]
+** Dealing flop ** [ 4s, 6h, 3d ]
+vostok50 checks
+MEMP34 checks
+** Dealing turn ** [ 8h ]
+vostok50 checks
+MEMP34 checks
+** Dealing river ** [ Qs ]
+vostok50 checks
+MEMP34 checks
+** Summary **
+vostok50 shows [ Ks, 9s ]
+MEMP34 shows [ Ah, Kd ]
+MEMP34 collected [ $254 ]
+
+
+
+#Game No : 646008473
+***** 888poker Hand History for Game 646008473 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 01:21:40
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,380 )
+Seat 2: 1556199970 ( $2,500 )
+Seat 3: vostok50 ( $1,778 )
+Seat 4: SELE8889 ( $2,490 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $3,280 )
+Seat 7: MEMP34 ( $2,602 )
+Seat 9: tiagodiego ( $2,470 )
+Seat 10: __AKQJT__win ( $2,530 )
+PapaShango19 posts small blind [$15]
+1556199970 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Ad ]
+vostok50 calls [$30]
+SELE8889 folds
+SecoBb folds
+avant_80 folds
+MEMP34 calls [$30]
+tiagodiego calls [$30]
+__AKQJT__win folds
+PapaShango19 raises [$105]
+1556199970 folds
+vostok50 folds
+MEMP34 calls [$90]
+tiagodiego calls [$90]
+** Dealing flop ** [ Tc, 3c, Th ]
+PapaShango19 checks
+MEMP34 checks
+tiagodiego checks
+** Dealing turn ** [ 2s ]
+PapaShango19 checks
+MEMP34 checks
+tiagodiego checks
+** Dealing river ** [ 7d ]
+PapaShango19 checks
+MEMP34 checks
+tiagodiego checks
+** Summary **
+PapaShango19 shows [ Qc, Ad ]
+MEMP34 shows [ 6s, 6d ]
+tiagodiego mucks [ Ac, 8c ]
+MEMP34 collected [ $420 ]
+
+
+
+#Game No : 646008681
+***** 888poker Hand History for Game 646008681 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 01:22:41
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,260 )
+Seat 2: 1556199970 ( $2,470 )
+Seat 3: vostok50 ( $1,748 )
+Seat 4: SELE8889 ( $2,490 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $3,280 )
+Seat 7: MEMP34 ( $2,902 )
+Seat 9: tiagodiego ( $2,350 )
+Seat 10: __AKQJT__win ( $2,530 )
+1556199970 posts small blind [$15]
+vostok50 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Jd ]
+SELE8889 raises [$78]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win raises [$279]
+PapaShango19 folds
+1556199970 folds
+vostok50 folds
+SELE8889 calls [$201]
+** Dealing flop ** [ Kh, 4h, Ks ]
+SELE8889 checks
+__AKQJT__win bets [$330]
+SELE8889 raises [$660]
+__AKQJT__win calls [$330]
+** Dealing turn ** [ Kd ]
+SELE8889 checks
+__AKQJT__win checks
+** Dealing river ** [ 3d ]
+SELE8889 bets [$1,551]
+__AKQJT__win folds
+** Summary **
+SELE8889 did not show his hand
+SELE8889 collected [ $1,923 ]
+
+
+
+#Game No : 646008865
+***** 888poker Hand History for Game 646008865 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 01:23:38
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,260 )
+Seat 2: 1556199970 ( $2,455 )
+Seat 3: vostok50 ( $1,718 )
+Seat 4: SELE8889 ( $3,474 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $3,280 )
+Seat 7: MEMP34 ( $2,902 )
+Seat 9: tiagodiego ( $2,350 )
+Seat 10: __AKQJT__win ( $1,591 )
+vostok50 posts small blind [$15]
+SELE8889 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 6h ]
+SecoBb folds
+avant_80 calls [$30]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win raises [$135]
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$120]
+SELE8889 calls [$105]
+avant_80 calls [$105]
+** Dealing flop ** [ 8s, 2s, Kc ]
+vostok50 checks
+SELE8889 checks
+avant_80 checks
+__AKQJT__win checks
+** Dealing turn ** [ 8d ]
+vostok50 checks
+SELE8889 checks
+avant_80 bets [$540]
+__AKQJT__win folds
+vostok50 folds
+SELE8889 folds
+** Summary **
+avant_80 did not show his hand
+avant_80 collected [ $540 ]
+
+
+
+#Game No : 646009105
+***** 888poker Hand History for Game 646009105 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 01:24:51
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,260 )
+Seat 2: 1556199970 ( $2,455 )
+Seat 3: vostok50 ( $1,583 )
+Seat 4: SELE8889 ( $3,339 )
+Seat 5: SecoBb ( $2,470 )
+Seat 6: avant_80 ( $3,685 )
+Seat 7: MEMP34 ( $2,902 )
+Seat 9: tiagodiego ( $2,350 )
+Seat 10: __AKQJT__win ( $1,456 )
+SELE8889 posts small blind [$15]
+SecoBb posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Ad ]
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 raises [$60]
+vostok50 calls [$60]
+SELE8889 calls [$45]
+SecoBb calls [$30]
+** Dealing flop ** [ 6c, As, Qs ]
+SELE8889 checks
+SecoBb checks
+1556199970 bets [$60]
+vostok50 folds
+SELE8889 calls [$60]
+SecoBb folds
+** Dealing turn ** [ Th ]
+SELE8889 checks
+1556199970 bets [$60]
+SELE8889 calls [$60]
+** Dealing river ** [ 2s ]
+SELE8889 checks
+1556199970 bets [$90]
+SELE8889 calls [$90]
+** Summary **
+1556199970 shows [ Ac, 7c ]
+SELE8889 mucks [ Qd, 9s ]
+1556199970 collected [ $660 ]
+
+
+
+#Game No : 646009332
+***** 888poker Hand History for Game 646009332 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 01:26:08
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,260 )
+Seat 2: 1556199970 ( $2,845 )
+Seat 3: vostok50 ( $1,523 )
+Seat 4: SELE8889 ( $3,069 )
+Seat 5: SecoBb ( $2,410 )
+Seat 6: avant_80 ( $3,685 )
+Seat 7: MEMP34 ( $2,902 )
+Seat 9: tiagodiego ( $2,350 )
+Seat 10: __AKQJT__win ( $1,456 )
+SecoBb posts small blind [$15]
+avant_80 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 4s ]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win calls [$30]
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$30]
+SELE8889 folds
+SecoBb folds
+avant_80 checks
+** Dealing flop ** [ Qc, 6h, 7d ]
+avant_80 checks
+__AKQJT__win checks
+vostok50 checks
+** Dealing turn ** [ Ts ]
+avant_80 bets [$52]
+__AKQJT__win calls [$52]
+vostok50 calls [$52]
+** Dealing river ** [ Ks ]
+avant_80 bets [$261]
+__AKQJT__win calls [$261]
+vostok50 folds
+** Summary **
+avant_80 shows [ Js, 9h ]
+__AKQJT__win mucks [ Ad, Ac ]
+avant_80 collected [ $783 ]
+
+
+
+#Game No : 646009548
+***** 888poker Hand History for Game 646009548 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 01:27:07
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,260 )
+Seat 2: 1556199970 ( $2,845 )
+Seat 3: vostok50 ( $1,441 )
+Seat 4: SELE8889 ( $3,069 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $4,125 )
+Seat 7: MEMP34 ( $2,902 )
+Seat 9: tiagodiego ( $2,350 )
+Seat 10: __AKQJT__win ( $1,113 )
+avant_80 posts small blind [$15]
+MEMP34 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Ks ]
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 raises [$60]
+1556199970 calls [$60]
+vostok50 folds
+SELE8889 folds
+SecoBb folds
+avant_80 folds
+MEMP34 calls [$30]
+** Dealing flop ** [ 2d, 6s, Js ]
+MEMP34 checks
+PapaShango19 checks
+1556199970 bets [$90]
+MEMP34 folds
+PapaShango19 folds
+** Summary **
+1556199970 did not show his hand
+1556199970 collected [ $195 ]
+
+
+
+#Game No : 646009714
+***** 888poker Hand History for Game 646009714 *****
+$20/$40 Blinds No Limit Holdem - *** 16 12 2014 01:27:48
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,200 )
+Seat 2: 1556199970 ( $2,980 )
+Seat 3: vostok50 ( $1,441 )
+Seat 4: SELE8889 ( $3,069 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $4,110 )
+Seat 7: MEMP34 ( $2,842 )
+Seat 9: tiagodiego ( $2,350 )
+Seat 10: __AKQJT__win ( $1,113 )
+MEMP34 posts small blind [$20]
+tiagodiego posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ts ]
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$40]
+SELE8889 raises [$135]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego calls [$95]
+vostok50 calls [$95]
+** Dealing flop ** [ 2h, As, 4d ]
+tiagodiego checks
+vostok50 checks
+SELE8889 checks
+** Dealing turn ** [ 6c ]
+tiagodiego checks
+vostok50 checks
+SELE8889 checks
+** Dealing river ** [ 6s ]
+tiagodiego bets [$212]
+vostok50 folds
+SELE8889 folds
+** Summary **
+tiagodiego did not show his hand
+tiagodiego collected [ $425 ]
+
+
+
+#Game No : 646009977
+***** 888poker Hand History for Game 646009977 *****
+$20/$40 Blinds No Limit Holdem - *** 16 12 2014 01:28:56
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,200 )
+Seat 2: 1556199970 ( $2,980 )
+Seat 3: vostok50 ( $1,306 )
+Seat 4: SELE8889 ( $2,934 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $4,110 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,640 )
+Seat 10: __AKQJT__win ( $1,113 )
+tiagodiego posts small blind [$20]
+__AKQJT__win posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 3h ]
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$40]
+SELE8889 raises [$135]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+vostok50 calls [$95]
+** Dealing flop ** [ Tc, Ad, 8s ]
+vostok50 checks
+SELE8889 bets [$247]
+vostok50 folds
+** Summary **
+SELE8889 did not show his hand
+SELE8889 collected [ $330 ]
+
+
+
+#Game No : 646010173
+***** 888poker Hand History for Game 646010173 *****
+$20/$40 Blinds No Limit Holdem - *** 16 12 2014 01:29:55
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,200 )
+Seat 2: 1556199970 ( $2,980 )
+Seat 3: vostok50 ( $1,171 )
+Seat 4: SELE8889 ( $3,129 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $4,110 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,620 )
+Seat 10: __AKQJT__win ( $1,073 )
+__AKQJT__win posts small blind [$20]
+PapaShango19 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ah ]
+1556199970 folds
+vostok50 calls [$40]
+SELE8889 raises [$300]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+vostok50 calls [$260]
+** Dealing flop ** [ Ks, Jh, Tc ]
+vostok50 bets [$660]
+SELE8889 raises [$1,320]
+vostok50 calls [$211]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 9d ]
+** Summary **
+vostok50 shows [ Qh, 4c ]
+SELE8889 shows [ Kh, Kc ]
+vostok50 collected [ $2,402 ]
+
+
+
+#Game No : 646010372
+***** 888poker Hand History for Game 646010372 *****
+$20/$40 Blinds No Limit Holdem - *** 16 12 2014 01:30:49
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,160 )
+Seat 2: 1556199970 ( $2,980 )
+Seat 3: vostok50 ( $2,402 )
+Seat 4: SELE8889 ( $1,958 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $4,110 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,620 )
+Seat 10: __AKQJT__win ( $1,053 )
+PapaShango19 posts small blind [$20]
+1556199970 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 8c ]
+vostok50 calls [$40]
+SELE8889 raises [$1,958]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win calls [$1,053]
+PapaShango19 folds
+1556199970 folds
+vostok50 folds
+** Dealing flop ** [ Td, 9h, 9s ]
+** Dealing turn ** [ 4s ]
+** Dealing river ** [ 6c ]
+** Summary **
+SELE8889 shows [ As, Qd ]
+__AKQJT__win shows [ 7s, 8d ]
+__AKQJT__win collected [ $2,206 ]
+
+
+
+#Game No : 646010536
+***** 888poker Hand History for Game 646010536 *****
+$20/$40 Blinds No Limit Holdem - *** 16 12 2014 01:31:38
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,940 )
+Seat 3: vostok50 ( $2,362 )
+Seat 4: SELE8889 ( $905 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $4,110 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,620 )
+Seat 10: __AKQJT__win ( $2,206 )
+1556199970 posts small blind [$20]
+vostok50 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 5s ]
+SELE8889 raises [$905]
+SecoBb folds
+avant_80 raises [$4,110]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+vostok50 folds
+** Dealing flop ** [ Jh, Kd, 6c ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 8d ]
+** Summary **
+SELE8889 shows [ 6d, Th ]
+avant_80 shows [ Js, Jc ]
+avant_80 collected [ $1,870 ]
+
+
+
+#Game No : 646010680
+***** 888poker Hand History for Game 646010680 *****
+$20/$40 Blinds No Limit Holdem - *** 16 12 2014 01:32:16
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,920 )
+Seat 3: vostok50 ( $2,322 )
+Seat 4: nancy657 ( $2,500 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $5,075 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,620 )
+Seat 10: __AKQJT__win ( $2,206 )
+vostok50 posts small blind [$20]
+nancy657 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 3c ]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego calls [$40]
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$20]
+nancy657 checks
+** Dealing flop ** [ 2c, Ac, Ah ]
+vostok50 checks
+nancy657 checks
+tiagodiego checks
+** Dealing turn ** [ Jd ]
+vostok50 checks
+nancy657 checks
+tiagodiego checks
+** Dealing river ** [ Ad ]
+vostok50 checks
+nancy657 checks
+tiagodiego checks
+** Summary **
+vostok50 shows [ 8c, 5s ]
+nancy657 shows [ 9s, Qs ]
+tiagodiego mucks [ 9d, 6d ]
+nancy657 collected [ $120 ]
+
+
+
+#Game No : 646010956
+***** 888poker Hand History for Game 646010956 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:33:34
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,920 )
+Seat 3: vostok50 ( $2,282 )
+Seat 4: nancy657 ( $2,580 )
+Seat 5: SecoBb ( $2,395 )
+Seat 6: avant_80 ( $5,075 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,580 )
+Seat 10: __AKQJT__win ( $2,206 )
+nancy657 posts small blind [$25]
+SecoBb posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 9c ]
+avant_80 raises [$200]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+vostok50 calls [$200]
+nancy657 calls [$175]
+SecoBb folds
+** Dealing flop ** [ Js, Td, Jh ]
+nancy657 checks
+avant_80 bets [$325]
+vostok50 calls [$325]
+nancy657 folds
+** Dealing turn ** [ Kd ]
+avant_80 bets [$650]
+vostok50 raises [$1,757]
+avant_80 calls [$1,107]
+** Dealing river ** [ 2h ]
+** Summary **
+vostok50 shows [ Ts, 9d ]
+avant_80 shows [ Ad, Qh ]
+avant_80 collected [ $4,814 ]
+
+
+
+#Game No : 646011223
+***** 888poker Hand History for Game 646011223 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:34:57
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,920 )
+Seat 4: nancy657 ( $2,380 )
+Seat 5: SecoBb ( $2,345 )
+Seat 6: avant_80 ( $7,607 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,580 )
+Seat 10: __AKQJT__win ( $2,206 )
+SecoBb posts small blind [$25]
+avant_80 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7d ]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+nancy657 folds
+SecoBb raises [$125]
+avant_80 calls [$100]
+** Dealing flop ** [ Tc, 8s, 6s ]
+SecoBb checks
+avant_80 checks
+** Dealing turn ** [ Ad ]
+SecoBb bets [$225]
+avant_80 folds
+** Summary **
+SecoBb collected [ $300 ]
+
+
+
+#Game No : 646011724
+***** 888poker Hand History for Game 646011724 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:36:30
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,920 )
+Seat 3: lienera ( $2,500 )
+Seat 4: nancy657 ( $2,380 )
+Seat 5: SecoBb ( $2,495 )
+Seat 6: avant_80 ( $7,457 )
+Seat 7: MEMP34 ( $2,822 )
+Seat 9: tiagodiego ( $2,580 )
+Seat 10: __AKQJT__win ( $2,206 )
+avant_80 posts small blind [$25]
+MEMP34 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Tc ]
+tiagodiego folds
+__AKQJT__win raises [$350]
+PapaShango19 folds
+1556199970 folds
+lienera folds
+nancy657 folds
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+** Summary **
+__AKQJT__win did not show his hand
+__AKQJT__win collected [ $125 ]
+
+
+
+#Game No : 646011876
+***** 888poker Hand History for Game 646011876 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:37:07
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,920 )
+Seat 3: lienera ( $2,500 )
+Seat 4: nancy657 ( $2,380 )
+Seat 5: SecoBb ( $2,495 )
+Seat 6: avant_80 ( $7,432 )
+Seat 7: MEMP34 ( $2,772 )
+Seat 9: tiagodiego ( $2,580 )
+Seat 10: __AKQJT__win ( $2,281 )
+MEMP34 posts small blind [$25]
+tiagodiego posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 8d ]
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+lienera folds
+nancy657 calls [$50]
+SecoBb folds
+avant_80 calls [$50]
+MEMP34 folds
+tiagodiego checks
+** Dealing flop ** [ 9s, Js, Td ]
+tiagodiego checks
+nancy657 checks
+avant_80 bets [$87]
+tiagodiego folds
+nancy657 calls [$87]
+** Dealing turn ** [ Kc ]
+nancy657 bets [$174]
+avant_80 folds
+** Summary **
+nancy657 did not show his hand
+nancy657 collected [ $349 ]
+
+
+
+#Game No : 646012110
+***** 888poker Hand History for Game 646012110 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:38:12
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,920 )
+Seat 3: lienera ( $2,500 )
+Seat 4: nancy657 ( $2,592 )
+Seat 5: SecoBb ( $2,495 )
+Seat 6: avant_80 ( $7,295 )
+Seat 7: MEMP34 ( $2,747 )
+Seat 9: tiagodiego ( $2,530 )
+Seat 10: __AKQJT__win ( $2,281 )
+tiagodiego posts small blind [$25]
+__AKQJT__win posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Js ]
+PapaShango19 folds
+1556199970 calls [$50]
+lienera folds
+nancy657 folds
+SecoBb raises [$250]
+avant_80 calls [$250]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+1556199970 folds
+** Dealing flop ** [ Kh, 4s, 7c ]
+SecoBb bets [$277]
+avant_80 calls [$277]
+** Dealing turn ** [ 4c ]
+SecoBb checks
+avant_80 bets [$6,768]
+SecoBb folds
+** Summary **
+avant_80 did not show his hand
+avant_80 collected [ $1,179 ]
+
+
+
+#Game No : 646012337
+***** 888poker Hand History for Game 646012337 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:39:18
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,140 )
+Seat 2: 1556199970 ( $2,870 )
+Seat 3: lienera ( $2,500 )
+Seat 4: nancy657 ( $2,592 )
+Seat 5: SecoBb ( $1,968 )
+Seat 6: avant_80 ( $7,947 )
+Seat 7: MEMP34 ( $2,747 )
+Seat 9: tiagodiego ( $2,505 )
+Seat 10: __AKQJT__win ( $2,231 )
+__AKQJT__win posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 7h ]
+1556199970 folds
+lienera calls [$50]
+nancy657 folds
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego raises [$168]
+__AKQJT__win folds
+PapaShango19 folds
+lienera calls [$118]
+** Dealing flop ** [ 6s, 2h, 8c ]
+lienera checks
+tiagodiego checks
+** Dealing turn ** [ As ]
+lienera bets [$50]
+tiagodiego raises [$280]
+lienera calls [$230]
+** Dealing river ** [ 6c ]
+lienera checks
+tiagodiego checks
+** Summary **
+lienera shows [ 8h, 9d ]
+tiagodiego shows [ Js, Ad ]
+tiagodiego collected [ $971 ]
+
+
+
+#Game No : 646012503
+***** 888poker Hand History for Game 646012503 *****
+$30/$60 Blinds No Limit Holdem - *** 16 12 2014 01:40:05
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,090 )
+Seat 2: 1556199970 ( $2,870 )
+Seat 3: lienera ( $2,052 )
+Seat 4: nancy657 ( $2,592 )
+Seat 5: SecoBb ( $1,968 )
+Seat 6: avant_80 ( $7,947 )
+Seat 7: MEMP34 ( $2,747 )
+Seat 9: tiagodiego ( $3,028 )
+Seat 10: __AKQJT__win ( $2,206 )
+PapaShango19 posts small blind [$30]
+1556199970 posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Ks ]
+lienera folds
+nancy657 calls [$60]
+SecoBb folds
+avant_80 calls [$60]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 calls [$30]
+1556199970 checks
+** Dealing flop ** [ 3h, Ac, 8d ]
+PapaShango19 checks
+1556199970 checks
+nancy657 checks
+avant_80 checks
+** Dealing turn ** [ 8s ]
+PapaShango19 checks
+1556199970 bets [$60]
+nancy657 folds
+avant_80 folds
+PapaShango19 folds
+** Summary **
+1556199970 did not show his hand
+1556199970 collected [ $240 ]
+
+
+
+#Game No : 646012714
+***** 888poker Hand History for Game 646012714 *****
+$30/$60 Blinds No Limit Holdem - *** 16 12 2014 01:41:06
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,030 )
+Seat 2: 1556199970 ( $3,050 )
+Seat 3: lienera ( $2,052 )
+Seat 4: nancy657 ( $2,532 )
+Seat 5: SecoBb ( $1,968 )
+Seat 6: avant_80 ( $7,887 )
+Seat 7: MEMP34 ( $2,747 )
+Seat 9: tiagodiego ( $3,028 )
+Seat 10: __AKQJT__win ( $2,206 )
+1556199970 posts small blind [$30]
+lienera posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 3h ]
+nancy657 folds
+SecoBb raises [$240]
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win calls [$240]
+PapaShango19 folds
+1556199970 folds
+lienera calls [$180]
+** Dealing flop ** [ Js, 4d, Ks ]
+lienera checks
+SecoBb checks
+__AKQJT__win bets [$750]
+lienera folds
+SecoBb folds
+** Summary **
+__AKQJT__win did not show his hand
+__AKQJT__win collected [ $750 ]
+
+
+
+#Game No : 646012916
+***** 888poker Hand History for Game 646012916 *****
+$30/$60 Blinds No Limit Holdem - *** 16 12 2014 01:42:06
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,030 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,812 )
+Seat 4: nancy657 ( $2,532 )
+Seat 5: SecoBb ( $1,728 )
+Seat 6: avant_80 ( $7,887 )
+Seat 7: MEMP34 ( $2,747 )
+Seat 9: tiagodiego ( $3,028 )
+Seat 10: __AKQJT__win ( $2,716 )
+lienera posts small blind [$30]
+nancy657 posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Kd ]
+SecoBb raises [$1,728]
+avant_80 folds
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+lienera folds
+nancy657 folds
+** Summary **
+SecoBb did not show his hand
+SecoBb collected [ $150 ]
+
+
+
+#Game No : 646013067
+***** 888poker Hand History for Game 646013067 *****
+$30/$60 Blinds No Limit Holdem - *** 16 12 2014 01:42:55
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,030 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,782 )
+Seat 4: nancy657 ( $2,472 )
+Seat 5: SecoBb ( $1,818 )
+Seat 6: avant_80 ( $7,887 )
+Seat 7: MEMP34 ( $2,747 )
+Seat 9: tiagodiego ( $3,028 )
+Seat 10: __AKQJT__win ( $2,716 )
+nancy657 posts small blind [$30]
+SecoBb posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 8c ]
+avant_80 calls [$60]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+lienera raises [$1,782]
+nancy657 folds
+SecoBb folds
+avant_80 folds
+** Summary **
+lienera did not show his hand
+lienera collected [ $210 ]
+
+
+
+#Game No : 646013186
+***** 888poker Hand History for Game 646013186 *****
+$30/$60 Blinds No Limit Holdem - *** 16 12 2014 01:43:32
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,030 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,932 )
+Seat 4: nancy657 ( $2,442 )
+Seat 5: SecoBb ( $1,758 )
+Seat 6: avant_80 ( $7,827 )
+Seat 7: MEMP34 ( $2,747 )
+Seat 9: tiagodiego ( $3,028 )
+Seat 10: __AKQJT__win ( $2,716 )
+SecoBb posts small blind [$30]
+avant_80 posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 6s ]
+MEMP34 raises [$210]
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+lienera folds
+nancy657 folds
+SecoBb folds
+avant_80 folds
+** Summary **
+MEMP34 did not show his hand
+MEMP34 collected [ $150 ]
+
+
+
+#Game No : 646013263
+***** 888poker Hand History for Game 646013263 *****
+$30/$60 Blinds No Limit Holdem - *** 16 12 2014 01:43:56
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,030 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,932 )
+Seat 4: nancy657 ( $2,442 )
+Seat 5: SecoBb ( $1,728 )
+Seat 6: avant_80 ( $7,767 )
+Seat 7: MEMP34 ( $2,837 )
+Seat 9: tiagodiego ( $3,028 )
+Seat 10: __AKQJT__win ( $2,716 )
+avant_80 posts small blind [$30]
+MEMP34 posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 5d ]
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+lienera folds
+nancy657 folds
+SecoBb raises [$217]
+avant_80 folds
+MEMP34 folds
+** Summary **
+SecoBb did not show his hand
+SecoBb collected [ $150 ]
+
+
+
+#Game No : 646013364
+***** 888poker Hand History for Game 646013364 *****
+$30/$60 Blinds No Limit Holdem - *** 16 12 2014 01:44:29
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,030 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,932 )
+Seat 4: nancy657 ( $2,442 )
+Seat 5: SecoBb ( $1,818 )
+Seat 6: avant_80 ( $7,737 )
+Seat 7: MEMP34 ( $2,777 )
+Seat 9: tiagodiego ( $3,028 )
+Seat 10: __AKQJT__win ( $2,716 )
+MEMP34 posts small blind [$30]
+tiagodiego posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Qs ]
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 folds
+lienera folds
+nancy657 calls [$60]
+SecoBb folds
+avant_80 calls [$60]
+MEMP34 calls [$30]
+tiagodiego raises [$240]
+nancy657 calls [$240]
+avant_80 folds
+MEMP34 folds
+** Dealing flop ** [ Kh, 3s, 2d ]
+tiagodiego bets [$180]
+nancy657 calls [$180]
+** Dealing turn ** [ 4d ]
+tiagodiego checks
+nancy657 checks
+** Dealing river ** [ As ]
+tiagodiego bets [$810]
+nancy657 calls [$810]
+** Summary **
+tiagodiego shows [ Ac, Js ]
+nancy657 mucks [ Ah, 7d ]
+tiagodiego collected [ $2,700 ]
+
+
+
+#Game No : 646013567
+***** 888poker Hand History for Game 646013567 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:45:33
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $2,030 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,932 )
+Seat 4: nancy657 ( $1,152 )
+Seat 5: SecoBb ( $1,818 )
+Seat 6: avant_80 ( $7,677 )
+Seat 7: MEMP34 ( $2,717 )
+Seat 9: tiagodiego ( $4,438 )
+Seat 10: __AKQJT__win ( $2,716 )
+tiagodiego posts small blind [$40]
+__AKQJT__win posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Kc ]
+PapaShango19 raises [$240]
+1556199970 folds
+lienera folds
+nancy657 folds
+SecoBb folds
+avant_80 calls [$240]
+MEMP34 folds
+tiagodiego folds
+__AKQJT__win folds
+** Dealing flop ** [ 9s, 2d, 4h ]
+PapaShango19 checks
+avant_80 bets [$300]
+PapaShango19 folds
+** Summary **
+avant_80 did not show his hand
+avant_80 collected [ $600 ]
+
+
+
+#Game No : 646013690
+***** 888poker Hand History for Game 646013690 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:46:14
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $1,790 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,932 )
+Seat 4: nancy657 ( $1,152 )
+Seat 5: SecoBb ( $1,818 )
+Seat 6: avant_80 ( $8,037 )
+Seat 7: MEMP34 ( $2,717 )
+Seat 9: tiagodiego ( $4,398 )
+Seat 10: __AKQJT__win ( $2,636 )
+__AKQJT__win posts small blind [$40]
+PapaShango19 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Qh ]
+1556199970 folds
+lienera folds
+nancy657 raises [$160]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego calls [$160]
+__AKQJT__win folds
+PapaShango19 calls [$80]
+** Dealing flop ** [ 6h, Ac, Jh ]
+PapaShango19 checks
+nancy657 bets [$80]
+tiagodiego raises [$160]
+PapaShango19 folds
+nancy657 calls [$80]
+** Dealing turn ** [ 8d ]
+nancy657 bets [$80]
+tiagodiego raises [$540]
+nancy657 calls [$460]
+** Dealing river ** [ 2h ]
+nancy657 checks
+tiagodiego checks
+** Summary **
+nancy657 shows [ As, Td ]
+tiagodiego shows [ 6c, 6d ]
+tiagodiego collected [ $1,920 ]
+
+
+
+#Game No : 646013847
+***** 888poker Hand History for Game 646013847 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:47:04
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $1,630 )
+Seat 2: 1556199970 ( $3,020 )
+Seat 3: lienera ( $1,932 )
+Seat 4: nancy657 ( $292 )
+Seat 5: SecoBb ( $1,818 )
+Seat 6: avant_80 ( $8,037 )
+Seat 7: MEMP34 ( $2,717 )
+Seat 9: tiagodiego ( $5,458 )
+Seat 10: __AKQJT__win ( $2,596 )
+PapaShango19 posts small blind [$40]
+1556199970 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ac ]
+lienera calls [$80]
+nancy657 calls [$80]
+SecoBb folds
+avant_80 folds
+MEMP34 folds
+tiagodiego calls [$80]
+__AKQJT__win calls [$80]
+PapaShango19 calls [$40]
+1556199970 checks
+** Dealing flop ** [ 3d, Ts, 7d ]
+PapaShango19 checks
+1556199970 checks
+lienera checks
+nancy657 checks
+tiagodiego checks
+__AKQJT__win checks
+** Dealing turn ** [ Td ]
+PapaShango19 checks
+1556199970 bets [$160]
+lienera folds
+nancy657 folds
+tiagodiego calls [$160]
+__AKQJT__win folds
+PapaShango19 folds
+** Dealing river ** [ 9s ]
+1556199970 checks
+tiagodiego bets [$240]
+1556199970 folds
+** Summary **
+tiagodiego did not show his hand
+tiagodiego collected [ $800 ]
+
+
+
+#Game No : 646014104
+***** 888poker Hand History for Game 646014104 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:48:25
+Tournament #64402450 $1.35 + $0.15 - Table #11 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PapaShango19 ( $1,550 )
+Seat 2: 1556199970 ( $2,780 )
+Seat 3: lienera ( $1,852 )
+Seat 4: nancy657 ( $212 )
+Seat 5: SecoBb ( $1,818 )
+Seat 6: avant_80 ( $8,037 )
+Seat 7: MEMP34 ( $2,717 )
+Seat 9: tiagodiego ( $6,018 )
+Seat 10: __AKQJT__win ( $2,516 )
+1556199970 posts small blind [$40]
+lienera posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 4d ]
+nancy657 raises [$212]
+SecoBb folds
+avant_80 folds
+MEMP34 raises [$2,717]
+tiagodiego folds
+__AKQJT__win folds
+PapaShango19 folds
+1556199970 raises [$2,740]
+lienera folds
+** Dealing flop ** [ 5c, 5s, Ts ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 7s ]
+** Summary **
+1556199970 shows [ Jd, Jh ]
+nancy657 shows [ 9d, Th ]
+MEMP34 shows [ As, Qh ]
+1556199970 collected [ $716 ]
+1556199970 collected [ $5,010 ]
+
+
+
+#Game No : 646013974
+***** 888poker Hand History for Game 646013974 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:49:16
+Tournament #64402450 $1.35 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: JAQS2014 ( $2,470 )
+Seat 2: loupste ( $5,360 )
+Seat 3: PabloSerna ( $2,500 )
+Seat 4: Anatoliy1402 ( $2,250 )
+Seat 5: clandillon ( $5,160 )
+Seat 7: _KaaLL_ ( $2,260 )
+Seat 9: eraysir44 ( $960 )
+Seat 10: azulnetwork ( $120 )
+_KaaLL_ posts small blind [$40]
+eraysir44 posts big blind [$80]
+** Dealing down cards **
+azulnetwork folds
+JAQS2014 folds
+loupste folds
+PabloSerna raises [$240]
+Anatoliy1402 calls [$240]
+clandillon calls [$240]
+_KaaLL_ folds
+eraysir44 calls [$160]
+** Dealing flop ** [ 9c, 7c, 6h ]
+eraysir44 checks
+PabloSerna checks
+Anatoliy1402 checks
+clandillon bets [$240]
+eraysir44 calls [$240]
+PabloSerna calls [$240]
+Anatoliy1402 folds
+** Dealing turn ** [ 3c ]
+eraysir44 checks
+PabloSerna checks
+clandillon bets [$860]
+eraysir44 calls [$480]
+PabloSerna folds
+** Dealing river ** [ Ad ]
+** Summary **
+clandillon shows [ 4s, As ]
+eraysir44 shows [ 6s, Ac ]
+eraysir44 collected [ $2,680 ]
+
+
+
+#Game No : 646014271
+***** 888poker Hand History for Game 646014271 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:49:23
+Tournament #64402450 $1.35 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Forexbh ( $2,500 )
+Seat 2: loupste ( $5,360 )
+Seat 3: PabloSerna ( $2,020 )
+Seat 4: PapaShango19 ( $1,550 )
+Seat 5: clandillon ( $4,200 )
+Seat 6: Uhrenknecht ( $2,500 )
+Seat 7: _KaaLL_ ( $2,220 )
+Seat 9: eraysir44 ( $2,680 )
+Seat 10: azulnetwork ( $120 )
+eraysir44 posts small blind [$40]
+azulnetwork posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, As ]
+Forexbh folds
+loupste folds
+PabloSerna folds
+PapaShango19 folds
+clandillon calls [$80]
+Uhrenknecht calls [$80]
+_KaaLL_ folds
+eraysir44 calls [$40]
+azulnetwork checks
+** Dealing flop ** [ 4d, 6d, 8c ]
+eraysir44 checks
+azulnetwork bets [$40]
+clandillon raises [$390]
+Uhrenknecht folds
+eraysir44 folds
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 9d ]
+** Summary **
+clandillon shows [ 8h, Kc ]
+azulnetwork shows [ 8s, 5s ]
+clandillon collected [ $400 ]
+
+
+
+#Game No : 646014305
+***** 888poker Hand History for Game 646014305 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:50:21
+Tournament #64402450 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: 88Blondin4ik ( $2,500 )
+Seat 2: don.luna ( $2,007 )
+Seat 3: RunGo0D ( $2,500 )
+Seat 4: a.a.marques ( $1,226 )
+Seat 5: treevojo ( $1,460 )
+Seat 7: alfred109 ( $8,846 )
+Seat 9: Lars232002 ( $11,390 )
+Seat 10: 90Natasha90 ( $2,500 )
+alfred109 posts small blind [$40]
+Lars232002 posts big blind [$80]
+** Dealing down cards **
+90Natasha90 folds
+88Blondin4ik calls [$80]
+don.luna folds
+RunGo0D folds
+a.a.marques calls [$80]
+treevojo folds
+alfred109 folds
+Lars232002 checks
+** Dealing flop ** [ Ks, Th, Qh ]
+Lars232002 checks
+88Blondin4ik bets [$280]
+a.a.marques calls [$280]
+Lars232002 folds
+** Dealing turn ** [ Jc ]
+88Blondin4ik checks
+a.a.marques bets [$866]
+88Blondin4ik calls [$866]
+** Dealing river ** [ Qs ]
+** Summary **
+88Blondin4ik shows [ Ts, Kd ]
+a.a.marques shows [ As, 2d ]
+a.a.marques collected [ $2,572 ]
+
+
+
+#Game No : 646014491
+***** 888poker Hand History for Game 646014491 *****
+$40/$80 Blinds No Limit Holdem - *** 16 12 2014 01:50:35
+Tournament #64402450 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: 88Blondin4ik ( $1,274 )
+Seat 2: don.luna ( $2,007 )
+Seat 3: RunGo0D ( $2,500 )
+Seat 4: a.a.marques ( $2,572 )
+Seat 5: treevojo ( $1,460 )
+Seat 6: 1556199970 ( $5,789 )
+Seat 9: Lars232002 ( $11,310 )
+Seat 10: 90Natasha90 ( $2,500 )
+Lars232002 posts small blind [$40]
+90Natasha90 posts big blind [$80]
+** Dealing down cards **
+88Blondin4ik folds
+don.luna folds
+RunGo0D folds
+a.a.marques folds
+treevojo folds
+1556199970 raises [$160]
+Lars232002 folds
+90Natasha90 calls [$80]
+** Dealing flop ** [ Jd, Td, 3s ]
+90Natasha90 checks
+1556199970 bets [$160]
+90Natasha90 raises [$400]
+1556199970 calls [$240]
+** Dealing turn ** [ 5d ]
+90Natasha90 bets [$240]
+1556199970 calls [$240]
+** Dealing river ** [ 9h ]
+90Natasha90 bets [$1,640]
+1556199970 folds
+** Summary **
+90Natasha90 collected [ $1,640 ]
+
+
+
+#Game No : 646014699
+***** 888poker Hand History for Game 646014699 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:51:51
+Tournament #64402450 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: 88Blondin4ik ( $1,274 )
+Seat 2: don.luna ( $2,007 )
+Seat 3: RunGo0D ( $2,500 )
+Seat 5: treevojo ( $1,460 )
+Seat 6: 1556199970 ( $4,989 )
+Seat 7: PapaShango19 ( $1,550 )
+Seat 9: Lars232002 ( $11,270 )
+Seat 10: 90Natasha90 ( $3,340 )
+90Natasha90 posts small blind [$50]
+88Blondin4ik posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 2c ]
+don.luna folds
+RunGo0D folds
+treevojo calls [$100]
+1556199970 folds
+PapaShango19 folds
+Lars232002 raises [$300]
+90Natasha90 folds
+88Blondin4ik calls [$200]
+treevojo calls [$200]
+** Dealing flop ** [ 7d, Qd, 6h ]
+88Blondin4ik checks
+treevojo bets [$100]
+Lars232002 folds
+88Blondin4ik folds
+** Summary **
+treevojo collected [ $950 ]
+
+
+
+#Game No : 646014913
+***** 888poker Hand History for Game 646014913 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:53:06
+Tournament #64402450 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: 88Blondin4ik ( $974 )
+Seat 2: don.luna ( $2,007 )
+Seat 3: RunGo0D ( $2,500 )
+Seat 4: jodamm ( $2,500 )
+Seat 5: treevojo ( $2,110 )
+Seat 6: 1556199970 ( $4,989 )
+Seat 7: PapaShango19 ( $1,550 )
+Seat 9: Lars232002 ( $10,970 )
+88Blondin4ik posts small blind [$50]
+don.luna posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Jd ]
+RunGo0D folds
+jodamm raises [$2,500]
+treevojo folds
+1556199970 folds
+PapaShango19 folds
+Lars232002 folds
+88Blondin4ik folds
+don.luna folds
+** Summary **
+jodamm did not show his hand
+jodamm collected [ $250 ]
+
+
+
+#Game No : 646015017
+***** 888poker Hand History for Game 646015017 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:53:44
+Tournament #64402450 $1.35 + $0.15 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: 88Blondin4ik ( $924 )
+Seat 2: don.luna ( $1,907 )
+Seat 3: RunGo0D ( $2,500 )
+Seat 4: jodamm ( $2,650 )
+Seat 5: treevojo ( $2,110 )
+Seat 6: 1556199970 ( $4,989 )
+Seat 7: PapaShango19 ( $1,550 )
+Seat 9: Lars232002 ( $10,970 )
+don.luna posts small blind [$50]
+RunGo0D posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 7c ]
+jodamm folds
+treevojo raises [$2,110]
+1556199970 folds
+PapaShango19 calls [$1,550]
+Lars232002 folds
+88Blondin4ik calls [$924]
+don.luna folds
+RunGo0D folds
+** Dealing flop ** [ 9d, 7s, 4d ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ Qd ]
+** Summary **
+88Blondin4ik shows [ Ac, 6s ]
+treevojo shows [ Ad, Kd ]
+PapaShango19 shows [ 7h, 7c ]
+treevojo collected [ $2,922 ]
+treevojo collected [ $1,252 ]
+
+
+

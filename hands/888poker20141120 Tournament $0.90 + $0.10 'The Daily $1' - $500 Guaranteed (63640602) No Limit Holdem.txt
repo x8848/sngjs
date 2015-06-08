@@ -1,0 +1,3083 @@
+#Game No : 642209183
+***** 888poker Hand History for Game 642209183 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 22:21:22
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: maryus2304 ( $3,000 )
+Seat 3: voron91 ( $3,000 )
+Seat 4: Al_Dracu ( $3,000 )
+Seat 5: gerila9 ( $3,000 )
+Seat 6: paulrudkin39 ( $3,000 )
+Seat 7: Mel.br ( $3,000 )
+Seat 9: blaschke14 ( $3,000 )
+Seat 10: lascathar ( $3,000 )
+Mel.br posts small blind [$10]
+blaschke14 posts big blind [$20]
+** Dealing down cards **
+lascathar folds
+maryus2304 calls [$20]
+voron91 calls [$20]
+Al_Dracu raises [$110]
+gerila9 folds
+paulrudkin39 calls [$110]
+Mel.br folds
+blaschke14 folds
+maryus2304 calls [$90]
+voron91 calls [$90]
+** Dealing flop ** [ Th, Kh, Tc ]
+maryus2304 checks
+voron91 checks
+Al_Dracu checks
+paulrudkin39 bets [$180]
+maryus2304 calls [$180]
+voron91 folds
+Al_Dracu folds
+** Dealing turn ** [ 4c ]
+maryus2304 checks
+paulrudkin39 bets [$140]
+maryus2304 calls [$140]
+** Dealing river ** [ 7s ]
+maryus2304 checks
+paulrudkin39 checks
+** Summary **
+maryus2304 shows [ Js, Qd ]
+paulrudkin39 shows [ Jc, Ks ]
+paulrudkin39 collected [ $1,110 ]
+
+
+
+#Game No : 642209832
+***** 888poker Hand History for Game 642209832 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 22:22:34
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,570 )
+Seat 2: PapaShango19 ( $3,000 )
+Seat 3: voron91 ( $2,890 )
+Seat 4: Al_Dracu ( $2,890 )
+Seat 5: gerila9 ( $3,000 )
+Seat 6: paulrudkin39 ( $3,680 )
+Seat 7: Mel.br ( $2,990 )
+Seat 9: blaschke14 ( $2,980 )
+Seat 10: lascathar ( $3,000 )
+blaschke14 posts small blind [$10]
+lascathar posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 9d ]
+maryus2304 folds
+PapaShango19 folds
+voron91 folds
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 raises [$100]
+Mel.br folds
+blaschke14 calls [$90]
+lascathar calls [$80]
+** Dealing flop ** [ 7h, 9c, 5c ]
+blaschke14 checks
+lascathar bets [$100]
+paulrudkin39 calls [$100]
+blaschke14 calls [$100]
+** Dealing turn ** [ 5s ]
+blaschke14 bets [$2,780]
+lascathar folds
+paulrudkin39 folds
+** Summary **
+blaschke14 did not show his hand
+blaschke14 collected [ $600 ]
+
+
+
+#Game No : 642210522
+***** 888poker Hand History for Game 642210522 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 22:24:25
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,570 )
+Seat 2: PapaShango19 ( $3,000 )
+Seat 3: voron91 ( $2,890 )
+Seat 4: Al_Dracu ( $2,890 )
+Seat 5: gerila9 ( $3,000 )
+Seat 6: paulrudkin39 ( $3,480 )
+Seat 7: Mel.br ( $2,990 )
+Seat 9: blaschke14 ( $3,380 )
+Seat 10: lascathar ( $2,800 )
+lascathar posts small blind [$10]
+maryus2304 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Jh ]
+PapaShango19 folds
+voron91 folds
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 folds
+Mel.br calls [$20]
+blaschke14 calls [$20]
+lascathar calls [$10]
+maryus2304 checks
+** Dealing flop ** [ 7s, 4h, As ]
+lascathar bets [$20]
+maryus2304 calls [$20]
+Mel.br folds
+blaschke14 raises [$160]
+lascathar calls [$140]
+maryus2304 folds
+** Dealing turn ** [ Kh ]
+lascathar checks
+blaschke14 checks
+** Dealing river ** [ 3c ]
+lascathar checks
+blaschke14 bets [$420]
+lascathar folds
+** Summary **
+blaschke14 did not show his hand
+blaschke14 collected [ $420 ]
+
+
+
+#Game No : 642211027
+***** 888poker Hand History for Game 642211027 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 22:25:46
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,530 )
+Seat 2: PapaShango19 ( $3,000 )
+Seat 3: voron91 ( $2,890 )
+Seat 4: Al_Dracu ( $2,890 )
+Seat 5: gerila9 ( $3,000 )
+Seat 6: paulrudkin39 ( $3,480 )
+Seat 7: Mel.br ( $2,970 )
+Seat 9: blaschke14 ( $3,620 )
+Seat 10: lascathar ( $2,620 )
+maryus2304 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 2d ]
+voron91 calls [$20]
+Al_Dracu folds
+gerila9 raises [$40]
+paulrudkin39 folds
+Mel.br folds
+blaschke14 raises [$60]
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+voron91 calls [$40]
+gerila9 calls [$20]
+** Dealing flop ** [ 5c, 7d, 5s ]
+voron91 checks
+gerila9 checks
+blaschke14 bets [$210]
+voron91 folds
+gerila9 folds
+** Summary **
+blaschke14 did not show his hand
+blaschke14 collected [ $210 ]
+
+
+
+#Game No : 642211732
+***** 888poker Hand History for Game 642211732 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 22:27:33
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,520 )
+Seat 2: PapaShango19 ( $2,980 )
+Seat 3: voron91 ( $2,830 )
+Seat 4: Al_Dracu ( $2,890 )
+Seat 5: gerila9 ( $2,940 )
+Seat 6: paulrudkin39 ( $3,480 )
+Seat 7: Mel.br ( $2,970 )
+Seat 9: blaschke14 ( $3,770 )
+Seat 10: lascathar ( $2,620 )
+PapaShango19 posts small blind [$10]
+voron91 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 5s ]
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 folds
+Mel.br folds
+blaschke14 calls [$20]
+lascathar calls [$20]
+maryus2304 folds
+PapaShango19 calls [$10]
+voron91 raises [$180]
+blaschke14 folds
+lascathar folds
+PapaShango19 folds
+** Summary **
+voron91 did not show his hand
+voron91 collected [ $80 ]
+
+
+
+#Game No : 642212337
+***** 888poker Hand History for Game 642212337 *****
+$10/$20 Blinds No Limit Holdem - *** 20 11 2014 22:29:01
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,520 )
+Seat 2: PapaShango19 ( $2,960 )
+Seat 3: voron91 ( $2,890 )
+Seat 4: Al_Dracu ( $2,890 )
+Seat 5: gerila9 ( $2,940 )
+Seat 6: paulrudkin39 ( $3,480 )
+Seat 7: Mel.br ( $2,970 )
+Seat 9: blaschke14 ( $3,750 )
+Seat 10: lascathar ( $2,600 )
+voron91 posts small blind [$10]
+Al_Dracu posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 6d ]
+gerila9 folds
+paulrudkin39 folds
+Mel.br folds
+blaschke14 calls [$20]
+lascathar calls [$20]
+maryus2304 folds
+PapaShango19 folds
+voron91 folds
+Al_Dracu checks
+** Dealing flop ** [ 8d, 4c, Qd ]
+Al_Dracu checks
+blaschke14 checks
+lascathar bets [$40]
+Al_Dracu folds
+blaschke14 calls [$40]
+** Dealing turn ** [ Jc ]
+blaschke14 checks
+lascathar bets [$40]
+blaschke14 raises [$80]
+lascathar calls [$40]
+** Dealing river ** [ 7s ]
+blaschke14 checks
+lascathar checks
+** Summary **
+blaschke14 shows [ Ks, 4h ]
+lascathar shows [ 8h, 5d ]
+lascathar collected [ $310 ]
+
+
+
+#Game No : 642213018
+***** 888poker Hand History for Game 642213018 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 22:30:52
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,520 )
+Seat 2: PapaShango19 ( $2,960 )
+Seat 3: voron91 ( $2,880 )
+Seat 4: Al_Dracu ( $2,870 )
+Seat 5: gerila9 ( $2,940 )
+Seat 6: paulrudkin39 ( $3,480 )
+Seat 7: Mel.br ( $2,970 )
+Seat 9: blaschke14 ( $3,610 )
+Seat 10: lascathar ( $2,770 )
+Al_Dracu posts small blind [$15]
+gerila9 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Jh ]
+paulrudkin39 folds
+Mel.br folds
+blaschke14 calls [$30]
+lascathar calls [$30]
+maryus2304 folds
+PapaShango19 folds
+voron91 folds
+Al_Dracu folds
+gerila9 raises [$210]
+blaschke14 folds
+lascathar calls [$210]
+** Dealing flop ** [ Td, Th, Js ]
+gerila9 bets [$525]
+lascathar calls [$525]
+** Dealing turn ** [ Qh ]
+gerila9 bets [$2,175]
+lascathar calls [$2,005]
+** Dealing river ** [ 5s ]
+** Summary **
+gerila9 shows [ Ad, As ]
+lascathar shows [ Kc, Tc ]
+lascathar collected [ $5,585 ]
+
+
+
+#Game No : 642213768
+***** 888poker Hand History for Game 642213768 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 22:32:47
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,520 )
+Seat 2: PapaShango19 ( $2,960 )
+Seat 3: voron91 ( $2,880 )
+Seat 4: Al_Dracu ( $2,855 )
+Seat 5: gerila9 ( $170 )
+Seat 6: paulrudkin39 ( $3,480 )
+Seat 7: Mel.br ( $2,970 )
+Seat 9: blaschke14 ( $3,580 )
+Seat 10: lascathar ( $5,585 )
+gerila9 posts small blind [$15]
+paulrudkin39 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 5s ]
+Mel.br folds
+blaschke14 folds
+lascathar calls [$30]
+maryus2304 calls [$30]
+PapaShango19 folds
+voron91 folds
+Al_Dracu folds
+gerila9 raises [$155]
+paulrudkin39 calls [$140]
+lascathar calls [$140]
+maryus2304 calls [$140]
+** Dealing flop ** [ 5d, Qd, 3s ]
+paulrudkin39 bets [$180]
+lascathar folds
+maryus2304 folds
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 6h ]
+** Summary **
+gerila9 shows [ Ad, 6c ]
+paulrudkin39 shows [ 7s, Kc ]
+gerila9 collected [ $680 ]
+
+
+
+#Game No : 642214515
+***** 888poker Hand History for Game 642214515 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 22:34:39
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,350 )
+Seat 2: PapaShango19 ( $2,960 )
+Seat 3: voron91 ( $2,880 )
+Seat 4: Al_Dracu ( $2,855 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $3,310 )
+Seat 7: Mel.br ( $2,970 )
+Seat 9: blaschke14 ( $3,580 )
+Seat 10: lascathar ( $5,415 )
+paulrudkin39 posts small blind [$15]
+Mel.br posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Jh ]
+blaschke14 calls [$30]
+lascathar calls [$30]
+maryus2304 calls [$30]
+PapaShango19 raises [$90]
+voron91 calls [$90]
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 calls [$75]
+Mel.br folds
+blaschke14 calls [$60]
+lascathar calls [$60]
+maryus2304 calls [$60]
+** Dealing flop ** [ 7d, 2s, 6h ]
+paulrudkin39 bets [$120]
+blaschke14 folds
+lascathar folds
+maryus2304 calls [$120]
+PapaShango19 folds
+voron91 calls [$120]
+** Dealing turn ** [ 9d ]
+paulrudkin39 bets [$697]
+maryus2304 calls [$697]
+voron91 folds
+** Dealing river ** [ Ah ]
+paulrudkin39 checks
+maryus2304 checks
+** Summary **
+paulrudkin39 shows [ 8c, 6s ]
+maryus2304 mucks [ 8s, 4s ]
+paulrudkin39 collected [ $2,324 ]
+
+
+
+#Game No : 642215201
+***** 888poker Hand History for Game 642215201 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 22:36:18
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,443 )
+Seat 2: PapaShango19 ( $2,870 )
+Seat 3: voron91 ( $2,670 )
+Seat 4: Al_Dracu ( $2,855 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $4,727 )
+Seat 7: Mel.br ( $2,940 )
+Seat 9: blaschke14 ( $3,490 )
+Seat 10: lascathar ( $5,325 )
+Mel.br posts small blind [$15]
+blaschke14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 9c ]
+lascathar calls [$30]
+maryus2304 folds
+PapaShango19 folds
+voron91 folds
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 raises [$180]
+Mel.br folds
+blaschke14 calls [$150]
+lascathar calls [$150]
+** Dealing flop ** [ 4d, 7d, 4c ]
+blaschke14 checks
+lascathar bets [$30]
+paulrudkin39 raises [$240]
+blaschke14 calls [$240]
+lascathar calls [$210]
+** Dealing turn ** [ 4s ]
+blaschke14 checks
+lascathar bets [$210]
+paulrudkin39 calls [$210]
+blaschke14 folds
+** Dealing river ** [ Jd ]
+lascathar bets [$300]
+paulrudkin39 raises [$1,297]
+lascathar calls [$997]
+** Summary **
+paulrudkin39 shows [ Js, Ad ]
+lascathar mucks [ Ts, Tc ]
+paulrudkin39 collected [ $4,289 ]
+
+
+
+#Game No : 642216664
+***** 888poker Hand History for Game 642216664 *****
+$15/$30 Blinds No Limit Holdem - *** 20 11 2014 22:39:39
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,443 )
+Seat 2: PapaShango19 ( $2,870 )
+Seat 3: voron91 ( $2,670 )
+Seat 4: Al_Dracu ( $2,855 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $7,089 )
+Seat 7: Mel.br ( $2,925 )
+Seat 9: blaschke14 ( $3,070 )
+Seat 10: lascathar ( $3,398 )
+blaschke14 posts small blind [$15]
+lascathar posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 5s ]
+maryus2304 calls [$30]
+PapaShango19 folds
+voron91 folds
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 calls [$30]
+Mel.br calls [$30]
+blaschke14 calls [$15]
+lascathar checks
+** Dealing flop ** [ Jd, 3s, 7h ]
+blaschke14 checks
+lascathar checks
+maryus2304 checks
+paulrudkin39 checks
+Mel.br bets [$30]
+blaschke14 folds
+lascathar calls [$30]
+maryus2304 calls [$30]
+paulrudkin39 calls [$30]
+** Dealing turn ** [ Ah ]
+lascathar checks
+maryus2304 checks
+paulrudkin39 checks
+Mel.br checks
+** Dealing river ** [ 8c ]
+lascathar checks
+maryus2304 checks
+paulrudkin39 checks
+Mel.br checks
+** Summary **
+lascathar shows [ 2d, 3c ]
+maryus2304 mucks [ Tc, 6c ]
+paulrudkin39 mucks [ Qs, 2s ]
+Mel.br shows [ 9c, Jc ]
+Mel.br collected [ $270 ]
+
+
+
+#Game No : 642217623
+***** 888poker Hand History for Game 642217623 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:41:59
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,383 )
+Seat 2: PapaShango19 ( $2,870 )
+Seat 3: voron91 ( $2,670 )
+Seat 4: Al_Dracu ( $2,855 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $7,029 )
+Seat 7: Mel.br ( $3,135 )
+Seat 9: blaschke14 ( $3,040 )
+Seat 10: lascathar ( $3,338 )
+lascathar posts small blind [$25]
+maryus2304 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Qs ]
+PapaShango19 raises [$150]
+voron91 calls [$150]
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 calls [$150]
+Mel.br calls [$150]
+blaschke14 calls [$150]
+lascathar calls [$125]
+maryus2304 calls [$100]
+** Dealing flop ** [ 6c, 5h, Kc ]
+lascathar bets [$50]
+maryus2304 calls [$50]
+PapaShango19 raises [$675]
+voron91 calls [$675]
+paulrudkin39 folds
+Mel.br folds
+blaschke14 calls [$675]
+lascathar folds
+maryus2304 folds
+** Dealing turn ** [ 3s ]
+PapaShango19 bets [$2,045]
+voron91 calls [$1,845]
+blaschke14 folds
+** Dealing river ** [ 7h ]
+** Summary **
+PapaShango19 shows [ Kh, Qs ]
+voron91 shows [ Jc, Qc ]
+PapaShango19 collected [ $6,865 ]
+
+
+
+#Game No : 642218166
+***** 888poker Hand History for Game 642218166 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:43:18
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,183 )
+Seat 2: PapaShango19 ( $7,065 )
+Seat 3: johnwayne51 ( $6,015 )
+Seat 4: Al_Dracu ( $2,855 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $6,879 )
+Seat 7: Mel.br ( $2,985 )
+Seat 9: blaschke14 ( $2,215 )
+Seat 10: lascathar ( $3,138 )
+maryus2304 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 5h ]
+johnwayne51 folds
+Al_Dracu raises [$175]
+gerila9 folds
+paulrudkin39 folds
+Mel.br folds
+blaschke14 folds
+lascathar calls [$175]
+maryus2304 calls [$150]
+PapaShango19 folds
+** Dealing flop ** [ 6c, 4c, 3h ]
+maryus2304 checks
+Al_Dracu bets [$431]
+lascathar folds
+maryus2304 folds
+** Summary **
+Al_Dracu did not show his hand
+Al_Dracu collected [ $575 ]
+
+
+
+#Game No : 642218504
+***** 888poker Hand History for Game 642218504 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:44:08
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,008 )
+Seat 2: PapaShango19 ( $7,015 )
+Seat 3: johnwayne51 ( $6,015 )
+Seat 4: Al_Dracu ( $3,255 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $6,879 )
+Seat 7: Mel.br ( $2,985 )
+Seat 9: blaschke14 ( $2,215 )
+Seat 10: lascathar ( $2,963 )
+PapaShango19 posts small blind [$25]
+johnwayne51 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5d ]
+Al_Dracu folds
+gerila9 folds
+paulrudkin39 folds
+Mel.br folds
+blaschke14 calls [$50]
+lascathar calls [$50]
+maryus2304 calls [$50]
+PapaShango19 calls [$25]
+johnwayne51 checks
+** Dealing flop ** [ 4c, Tc, 2h ]
+PapaShango19 checks
+johnwayne51 checks
+blaschke14 checks
+lascathar checks
+maryus2304 checks
+** Dealing turn ** [ 3s ]
+PapaShango19 bets [$125]
+johnwayne51 folds
+blaschke14 calls [$125]
+lascathar folds
+maryus2304 folds
+** Dealing river ** [ 7c ]
+PapaShango19 checks
+blaschke14 checks
+** Summary **
+PapaShango19 shows [ As, 5d ]
+blaschke14 mucks [ 5h, Qd ]
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 642218963
+***** 888poker Hand History for Game 642218963 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:45:14
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $958 )
+Seat 2: PapaShango19 ( $7,340 )
+Seat 3: johnwayne51 ( $5,965 )
+Seat 4: Al_Dracu ( $3,255 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $6,879 )
+Seat 7: Mel.br ( $2,985 )
+Seat 9: blaschke14 ( $2,040 )
+Seat 10: lascathar ( $2,913 )
+johnwayne51 posts small blind [$25]
+Al_Dracu posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Kc ]
+gerila9 folds
+paulrudkin39 calls [$50]
+Mel.br folds
+blaschke14 calls [$50]
+lascathar calls [$50]
+maryus2304 calls [$50]
+PapaShango19 calls [$50]
+johnwayne51 calls [$25]
+Al_Dracu checks
+** Dealing flop ** [ Ah, 8c, Tc ]
+johnwayne51 bets [$2,100]
+Al_Dracu folds
+paulrudkin39 folds
+blaschke14 folds
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+** Summary **
+johnwayne51 did not show his hand
+johnwayne51 collected [ $350 ]
+
+
+
+#Game No : 642219266
+***** 888poker Hand History for Game 642219266 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:46:02
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $908 )
+Seat 2: PapaShango19 ( $7,290 )
+Seat 3: johnwayne51 ( $6,265 )
+Seat 4: Al_Dracu ( $3,205 )
+Seat 5: gerila9 ( $680 )
+Seat 6: paulrudkin39 ( $6,829 )
+Seat 7: Mel.br ( $2,985 )
+Seat 9: blaschke14 ( $1,990 )
+Seat 10: lascathar ( $2,863 )
+Al_Dracu posts small blind [$25]
+gerila9 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 9d ]
+paulrudkin39 raises [$250]
+Mel.br calls [$250]
+blaschke14 folds
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+gerila9 folds
+** Dealing flop ** [ Kc, 9s, 9h ]
+paulrudkin39 checks
+Mel.br checks
+** Dealing turn ** [ 4h ]
+paulrudkin39 checks
+Mel.br checks
+** Dealing river ** [ 5s ]
+paulrudkin39 checks
+Mel.br checks
+** Summary **
+paulrudkin39 shows [ Ad, Tc ]
+Mel.br mucks [ 7s, As ]
+paulrudkin39 collected [ $575 ]
+
+
+
+#Game No : 642219513
+***** 888poker Hand History for Game 642219513 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:46:40
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $908 )
+Seat 2: PapaShango19 ( $7,290 )
+Seat 3: johnwayne51 ( $6,265 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 5: gerila9 ( $630 )
+Seat 6: paulrudkin39 ( $7,154 )
+Seat 7: Mel.br ( $2,735 )
+Seat 9: blaschke14 ( $1,990 )
+Seat 10: lascathar ( $2,863 )
+gerila9 posts small blind [$25]
+paulrudkin39 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Jc ]
+Mel.br folds
+blaschke14 calls [$50]
+lascathar calls [$50]
+maryus2304 calls [$50]
+PapaShango19 raises [$150]
+johnwayne51 folds
+Al_Dracu folds
+gerila9 raises [$605]
+paulrudkin39 folds
+blaschke14 calls [$580]
+lascathar calls [$580]
+maryus2304 folds
+PapaShango19 folds
+** Dealing flop ** [ Js, 3h, 5d ]
+blaschke14 checks
+lascathar bets [$2,233]
+blaschke14 folds
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 2d ]
+** Summary **
+gerila9 shows [ Ah, Qd ]
+lascathar shows [ 5s, Ks ]
+gerila9 collected [ $2,140 ]
+
+
+
+#Game No : 642220089
+***** 888poker Hand History for Game 642220089 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:48:06
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $858 )
+Seat 2: PapaShango19 ( $7,140 )
+Seat 3: johnwayne51 ( $6,265 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 5: gerila9 ( $2,140 )
+Seat 6: paulrudkin39 ( $7,104 )
+Seat 7: Mel.br ( $2,735 )
+Seat 9: blaschke14 ( $1,360 )
+Seat 10: lascathar ( $2,233 )
+paulrudkin39 posts small blind [$25]
+Mel.br posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 9h ]
+blaschke14 calls [$50]
+lascathar calls [$50]
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 calls [$50]
+Al_Dracu folds
+gerila9 calls [$50]
+paulrudkin39 calls [$25]
+Mel.br checks
+** Dealing flop ** [ Ac, Ks, 2h ]
+paulrudkin39 checks
+Mel.br checks
+blaschke14 checks
+lascathar bets [$50]
+johnwayne51 calls [$50]
+gerila9 raises [$500]
+paulrudkin39 folds
+Mel.br folds
+blaschke14 folds
+lascathar calls [$450]
+johnwayne51 folds
+** Dealing turn ** [ Kh ]
+lascathar checks
+gerila9 bets [$1,590]
+lascathar calls [$1,590]
+** Dealing river ** [ Qs ]
+** Summary **
+gerila9 shows [ Ad, 9c ]
+lascathar shows [ 9s, Kd ]
+lascathar collected [ $4,530 ]
+
+
+
+#Game No : 642220676
+***** 888poker Hand History for Game 642220676 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:49:37
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: maryus2304 ( $858 )
+Seat 2: PapaShango19 ( $7,140 )
+Seat 3: johnwayne51 ( $6,165 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 6: paulrudkin39 ( $7,054 )
+Seat 7: Mel.br ( $2,685 )
+Seat 9: blaschke14 ( $1,310 )
+Seat 10: lascathar ( $4,623 )
+Mel.br posts small blind [$25]
+blaschke14 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 6c ]
+lascathar calls [$50]
+maryus2304 raises [$858]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+paulrudkin39 folds
+Mel.br folds
+blaschke14 calls [$808]
+lascathar folds
+** Dealing flop ** [ 4d, Kd, 3c ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 9c ]
+** Summary **
+maryus2304 shows [ Kc, Js ]
+blaschke14 shows [ 8s, Ks ]
+maryus2304 collected [ $1,791 ]
+
+
+
+#Game No : 642220889
+***** 888poker Hand History for Game 642220889 *****
+$25/$50 Blinds No Limit Holdem - *** 20 11 2014 22:50:09
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: maryus2304 ( $1,791 )
+Seat 2: PapaShango19 ( $7,140 )
+Seat 3: johnwayne51 ( $6,165 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 6: paulrudkin39 ( $7,054 )
+Seat 7: Mel.br ( $2,660 )
+Seat 9: blaschke14 ( $452 )
+Seat 10: lascathar ( $4,573 )
+blaschke14 posts small blind [$25]
+lascathar posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 5h ]
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+paulrudkin39 folds
+Mel.br folds
+blaschke14 calls [$25]
+lascathar checks
+** Dealing flop ** [ 4c, 7s, Kh ]
+blaschke14 checks
+lascathar bets [$50]
+blaschke14 raises [$100]
+lascathar calls [$50]
+** Dealing turn ** [ 4s ]
+blaschke14 checks
+lascathar checks
+** Dealing river ** [ Qd ]
+blaschke14 checks
+lascathar checks
+** Summary **
+blaschke14 shows [ 5c, Ah ]
+lascathar shows [ As, 3c ]
+blaschke14 collected [ $150 ]
+lascathar collected [ $150 ]
+
+
+
+#Game No : 642221513
+***** 888poker Hand History for Game 642221513 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 22:51:41
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,791 )
+Seat 2: PapaShango19 ( $7,140 )
+Seat 3: johnwayne51 ( $6,165 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 5: stevemaquin ( $3,000 )
+Seat 6: paulrudkin39 ( $7,054 )
+Seat 7: Mel.br ( $2,660 )
+Seat 9: blaschke14 ( $452 )
+Seat 10: lascathar ( $4,573 )
+lascathar posts small blind [$50]
+maryus2304 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 2h ]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br calls [$100]
+blaschke14 raises [$452]
+lascathar folds
+maryus2304 calls [$352]
+Mel.br folds
+** Dealing flop ** [ Kd, 4h, Qs ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ Qd ]
+** Summary **
+maryus2304 shows [ 9s, Th ]
+blaschke14 shows [ 6s, 8c ]
+maryus2304 collected [ $1,054 ]
+
+
+
+#Game No : 642222015
+***** 888poker Hand History for Game 642222015 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 22:52:52
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: maryus2304 ( $2,393 )
+Seat 2: PapaShango19 ( $7,140 )
+Seat 3: johnwayne51 ( $6,165 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 5: stevemaquin ( $3,000 )
+Seat 6: paulrudkin39 ( $7,054 )
+Seat 7: Mel.br ( $2,560 )
+Seat 10: lascathar ( $4,523 )
+maryus2304 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3h ]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+lascathar calls [$100]
+maryus2304 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ Kc, 2c, Ks ]
+maryus2304 checks
+PapaShango19 checks
+lascathar bets [$100]
+maryus2304 calls [$100]
+PapaShango19 folds
+** Dealing turn ** [ Jc ]
+maryus2304 checks
+lascathar checks
+** Dealing river ** [ 5h ]
+maryus2304 checks
+lascathar checks
+** Summary **
+maryus2304 shows [ Tc, Ts ]
+lascathar mucks [ 3s, Ah ]
+maryus2304 collected [ $500 ]
+
+
+
+#Game No : 642222373
+***** 888poker Hand History for Game 642222373 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 22:53:38
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,693 )
+Seat 2: PapaShango19 ( $7,040 )
+Seat 3: johnwayne51 ( $6,165 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 5: stevemaquin ( $3,000 )
+Seat 6: paulrudkin39 ( $7,054 )
+Seat 7: Mel.br ( $2,560 )
+Seat 9: zombi1985 ( $3,000 )
+Seat 10: lascathar ( $4,323 )
+PapaShango19 posts small blind [$50]
+johnwayne51 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Kc ]
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+** Summary **
+johnwayne51 did not show his hand
+johnwayne51 collected [ $150 ]
+
+
+
+#Game No : 642222556
+***** 888poker Hand History for Game 642222556 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 22:54:01
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,693 )
+Seat 2: PapaShango19 ( $6,990 )
+Seat 3: johnwayne51 ( $6,215 )
+Seat 4: Al_Dracu ( $3,180 )
+Seat 5: stevemaquin ( $3,000 )
+Seat 6: paulrudkin39 ( $7,054 )
+Seat 7: Mel.br ( $2,560 )
+Seat 9: zombi1985 ( $3,000 )
+Seat 10: lascathar ( $4,323 )
+johnwayne51 posts small blind [$50]
+Al_Dracu posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6c ]
+stevemaquin folds
+paulrudkin39 raises [$300]
+Mel.br folds
+zombi1985 folds
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $250 ]
+
+
+
+#Game No : 642222764
+***** 888poker Hand History for Game 642222764 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 22:54:36
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,693 )
+Seat 2: PapaShango19 ( $6,990 )
+Seat 3: johnwayne51 ( $6,165 )
+Seat 4: Al_Dracu ( $3,080 )
+Seat 5: stevemaquin ( $3,000 )
+Seat 6: paulrudkin39 ( $7,204 )
+Seat 7: Mel.br ( $2,560 )
+Seat 9: zombi1985 ( $3,000 )
+Seat 10: lascathar ( $4,323 )
+Al_Dracu posts small blind [$50]
+stevemaquin posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 2d ]
+paulrudkin39 folds
+Mel.br raises [$200]
+zombi1985 folds
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 raises [$6,165]
+Al_Dracu folds
+stevemaquin folds
+Mel.br calls [$2,360]
+** Dealing flop ** [ 6s, 6d, 8s ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 9c ]
+** Summary **
+johnwayne51 shows [ Kd, Ah ]
+Mel.br shows [ Tc, Th ]
+Mel.br collected [ $5,270 ]
+
+
+
+#Game No : 642224619
+***** 888poker Hand History for Game 642224619 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 22:59:58
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,693 )
+Seat 2: PapaShango19 ( $6,990 )
+Seat 3: johnwayne51 ( $3,605 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $2,900 )
+Seat 6: paulrudkin39 ( $7,204 )
+Seat 7: Mel.br ( $5,270 )
+Seat 9: zombi1985 ( $3,000 )
+Seat 10: lascathar ( $4,323 )
+stevemaquin posts small blind [$50]
+paulrudkin39 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 7d ]
+Mel.br folds
+zombi1985 folds
+lascathar folds
+maryus2304 raises [$200]
+PapaShango19 calls [$200]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 calls [$100]
+** Dealing flop ** [ 3d, Ac, 9h ]
+paulrudkin39 checks
+maryus2304 checks
+PapaShango19 checks
+** Dealing turn ** [ Tc ]
+paulrudkin39 bets [$300]
+maryus2304 folds
+PapaShango19 folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $650 ]
+
+
+
+#Game No : 642225235
+***** 888poker Hand History for Game 642225235 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 23:01:28
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,493 )
+Seat 2: PapaShango19 ( $6,790 )
+Seat 3: johnwayne51 ( $3,605 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $2,850 )
+Seat 6: paulrudkin39 ( $7,654 )
+Seat 7: Mel.br ( $5,270 )
+Seat 9: zombi1985 ( $3,000 )
+Seat 10: lascathar ( $4,323 )
+paulrudkin39 posts small blind [$50]
+Mel.br posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 6h ]
+zombi1985 folds
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 calls [$50]
+Mel.br checks
+** Dealing flop ** [ As, Jd, 2c ]
+paulrudkin39 bets [$300]
+Mel.br folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $200 ]
+
+
+
+#Game No : 642225517
+***** 888poker Hand History for Game 642225517 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 23:02:02
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,493 )
+Seat 2: PapaShango19 ( $6,790 )
+Seat 3: johnwayne51 ( $3,605 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $2,850 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,170 )
+Seat 9: zombi1985 ( $3,000 )
+Seat 10: lascathar ( $4,323 )
+Mel.br posts small blind [$50]
+zombi1985 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 4c ]
+lascathar folds
+maryus2304 raises [$200]
+PapaShango19 folds
+johnwayne51 calls [$200]
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$100]
+** Dealing flop ** [ Ts, 6s, Kh ]
+zombi1985 bets [$100]
+maryus2304 calls [$100]
+johnwayne51 calls [$100]
+** Dealing turn ** [ Th ]
+zombi1985 checks
+maryus2304 checks
+johnwayne51 checks
+** Dealing river ** [ 3h ]
+zombi1985 bets [$300]
+maryus2304 folds
+johnwayne51 folds
+** Summary **
+zombi1985 did not show his hand
+zombi1985 collected [ $950 ]
+
+
+
+#Game No : 642225919
+***** 888poker Hand History for Game 642225919 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 23:02:57
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,193 )
+Seat 2: PapaShango19 ( $6,790 )
+Seat 3: johnwayne51 ( $3,305 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $2,850 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $3,650 )
+Seat 10: lascathar ( $4,323 )
+zombi1985 posts small blind [$50]
+lascathar posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 4h ]
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+** Summary **
+lascathar did not show his hand
+lascathar collected [ $150 ]
+
+
+
+#Game No : 642226099
+***** 888poker Hand History for Game 642226099 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 23:03:18
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,193 )
+Seat 2: PapaShango19 ( $6,790 )
+Seat 3: johnwayne51 ( $3,305 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $2,850 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $3,600 )
+Seat 10: lascathar ( $4,373 )
+lascathar posts small blind [$50]
+maryus2304 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ah ]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin raises [$220]
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$220]
+lascathar calls [$170]
+maryus2304 calls [$120]
+** Dealing flop ** [ Jd, 4h, Kd ]
+lascathar bets [$100]
+maryus2304 calls [$100]
+stevemaquin calls [$100]
+zombi1985 calls [$100]
+** Dealing turn ** [ Td ]
+lascathar bets [$300]
+maryus2304 folds
+stevemaquin calls [$300]
+zombi1985 calls [$300]
+** Dealing river ** [ Jh ]
+lascathar bets [$1,000]
+stevemaquin raises [$2,230]
+zombi1985 folds
+lascathar calls [$1,230]
+** Summary **
+stevemaquin shows [ Ts, Tc ]
+lascathar shows [ Ad, Qh ]
+stevemaquin collected [ $6,640 ]
+
+
+
+#Game No : 642226867
+***** 888poker Hand History for Game 642226867 *****
+$50/$100 Blinds No Limit Holdem - *** 20 11 2014 23:05:05
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,873 )
+Seat 2: PapaShango19 ( $6,790 )
+Seat 3: johnwayne51 ( $3,305 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $6,640 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $2,980 )
+Seat 10: lascathar ( $1,523 )
+maryus2304 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Kc ]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$100]
+lascathar calls [$100]
+maryus2304 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ Ac, Js, Td ]
+maryus2304 checks
+PapaShango19 checks
+zombi1985 checks
+lascathar checks
+** Dealing turn ** [ Ad ]
+maryus2304 checks
+PapaShango19 checks
+zombi1985 bets [$200]
+lascathar folds
+maryus2304 folds
+PapaShango19 folds
+** Summary **
+zombi1985 did not show his hand
+zombi1985 collected [ $400 ]
+
+
+
+#Game No : 642227435
+***** 888poker Hand History for Game 642227435 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:06:18
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,773 )
+Seat 2: PapaShango19 ( $6,690 )
+Seat 3: johnwayne51 ( $3,305 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $6,640 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $3,280 )
+Seat 10: lascathar ( $1,423 )
+PapaShango19 posts small blind [$75]
+johnwayne51 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 2s ]
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+lascathar folds
+maryus2304 folds
+PapaShango19 calls [$75]
+johnwayne51 checks
+** Dealing flop ** [ Jc, 7h, 8h ]
+PapaShango19 checks
+johnwayne51 checks
+** Dealing turn ** [ Kc ]
+PapaShango19 checks
+johnwayne51 checks
+** Dealing river ** [ Jd ]
+PapaShango19 checks
+johnwayne51 checks
+** Summary **
+PapaShango19 shows [ 3c, 2s ]
+johnwayne51 shows [ 9h, 4c ]
+johnwayne51 collected [ $300 ]
+
+
+
+#Game No : 642227742
+***** 888poker Hand History for Game 642227742 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:07:05
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,773 )
+Seat 2: PapaShango19 ( $6,540 )
+Seat 3: johnwayne51 ( $3,455 )
+Seat 4: Al_Dracu ( $3,030 )
+Seat 5: stevemaquin ( $6,640 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $3,280 )
+Seat 10: lascathar ( $1,423 )
+johnwayne51 posts small blind [$75]
+Al_Dracu posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 8s ]
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+lascathar calls [$150]
+maryus2304 calls [$150]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu raises [$2,880]
+lascathar calls [$1,273]
+maryus2304 folds
+** Dealing flop ** [ Js, 5c, 9d ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ 6c ]
+** Summary **
+Al_Dracu shows [ Kh, Jh ]
+lascathar shows [ 6d, Th ]
+Al_Dracu collected [ $3,071 ]
+
+
+
+#Game No : 642228151
+***** 888poker Hand History for Game 642228151 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:08:05
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: maryus2304 ( $1,623 )
+Seat 2: PapaShango19 ( $6,540 )
+Seat 3: johnwayne51 ( $3,380 )
+Seat 4: Al_Dracu ( $4,678 )
+Seat 5: stevemaquin ( $6,640 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $3,280 )
+Al_Dracu posts small blind [$75]
+stevemaquin posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Qd ]
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+maryus2304 folds
+PapaShango19 raises [$400]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+** Summary **
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 642228698
+***** 888poker Hand History for Game 642228698 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:09:25
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,623 )
+Seat 2: PapaShango19 ( $6,765 )
+Seat 3: johnwayne51 ( $3,380 )
+Seat 4: Al_Dracu ( $4,603 )
+Seat 5: stevemaquin ( $6,490 )
+Seat 6: paulrudkin39 ( $7,754 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $3,280 )
+Seat 10: oFortuna18 ( $3,340 )
+stevemaquin posts small blind [$75]
+paulrudkin39 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 8c ]
+Mel.br folds
+zombi1985 folds
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin raises [$225]
+paulrudkin39 calls [$150]
+** Dealing flop ** [ 2h, 3s, Qd ]
+stevemaquin bets [$300]
+paulrudkin39 folds
+** Summary **
+stevemaquin did not show his hand
+stevemaquin collected [ $600 ]
+
+
+
+#Game No : 642229103
+***** 888poker Hand History for Game 642229103 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:10:23
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,623 )
+Seat 2: PapaShango19 ( $6,765 )
+Seat 3: johnwayne51 ( $3,380 )
+Seat 4: Al_Dracu ( $4,603 )
+Seat 5: stevemaquin ( $6,790 )
+Seat 6: paulrudkin39 ( $7,454 )
+Seat 7: Mel.br ( $5,120 )
+Seat 9: zombi1985 ( $3,280 )
+Seat 10: oFortuna18 ( $3,340 )
+paulrudkin39 posts small blind [$75]
+Mel.br posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, As ]
+zombi1985 calls [$150]
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 raises [$450]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$300]
+** Dealing flop ** [ 5d, Kh, 2c ]
+zombi1985 checks
+PapaShango19 bets [$562]
+zombi1985 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,125 ]
+
+
+
+#Game No : 642229424
+***** 888poker Hand History for Game 642229424 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:11:08
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,623 )
+Seat 2: PapaShango19 ( $7,440 )
+Seat 3: johnwayne51 ( $3,380 )
+Seat 4: Al_Dracu ( $4,603 )
+Seat 5: stevemaquin ( $6,790 )
+Seat 6: paulrudkin39 ( $7,379 )
+Seat 7: Mel.br ( $4,970 )
+Seat 9: zombi1985 ( $2,830 )
+Seat 10: oFortuna18 ( $3,340 )
+Mel.br posts small blind [$75]
+zombi1985 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2c ]
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin raises [$400]
+paulrudkin39 calls [$400]
+Mel.br folds
+zombi1985 folds
+** Dealing flop ** [ 7s, 5d, Td ]
+stevemaquin bets [$450]
+paulrudkin39 calls [$450]
+** Dealing turn ** [ Tc ]
+stevemaquin bets [$962]
+paulrudkin39 folds
+** Summary **
+stevemaquin did not show his hand
+stevemaquin collected [ $1,925 ]
+
+
+
+#Game No : 642229880
+***** 888poker Hand History for Game 642229880 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:12:17
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,623 )
+Seat 2: PapaShango19 ( $7,440 )
+Seat 3: johnwayne51 ( $3,380 )
+Seat 4: Al_Dracu ( $4,603 )
+Seat 5: stevemaquin ( $7,865 )
+Seat 6: paulrudkin39 ( $6,529 )
+Seat 7: Mel.br ( $4,895 )
+Seat 9: zombi1985 ( $2,680 )
+Seat 10: oFortuna18 ( $3,340 )
+zombi1985 posts small blind [$75]
+oFortuna18 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Qc ]
+maryus2304 calls [$150]
+PapaShango19 folds
+johnwayne51 raises [$3,380]
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+oFortuna18 folds
+maryus2304 folds
+** Summary **
+johnwayne51 did not show his hand
+johnwayne51 collected [ $525 ]
+
+
+
+#Game No : 642230096
+***** 888poker Hand History for Game 642230096 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:12:47
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $1,473 )
+Seat 2: PapaShango19 ( $7,440 )
+Seat 3: johnwayne51 ( $3,755 )
+Seat 4: Al_Dracu ( $4,603 )
+Seat 5: stevemaquin ( $7,865 )
+Seat 6: paulrudkin39 ( $6,529 )
+Seat 7: Mel.br ( $4,895 )
+Seat 9: zombi1985 ( $2,605 )
+Seat 10: oFortuna18 ( $3,190 )
+oFortuna18 posts small blind [$75]
+maryus2304 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 8c ]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu raises [$300]
+stevemaquin folds
+paulrudkin39 folds
+Mel.br calls [$300]
+zombi1985 folds
+oFortuna18 folds
+maryus2304 calls [$150]
+** Dealing flop ** [ 3c, Jc, 7h ]
+maryus2304 bets [$1,173]
+Al_Dracu folds
+Mel.br folds
+** Summary **
+maryus2304 did not show his hand
+maryus2304 collected [ $975 ]
+
+
+
+#Game No : 642230404
+***** 888poker Hand History for Game 642230404 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:13:29
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,148 )
+Seat 2: PapaShango19 ( $7,440 )
+Seat 3: johnwayne51 ( $3,755 )
+Seat 4: Al_Dracu ( $4,303 )
+Seat 5: stevemaquin ( $7,865 )
+Seat 6: paulrudkin39 ( $6,529 )
+Seat 7: Mel.br ( $4,595 )
+Seat 9: zombi1985 ( $2,605 )
+Seat 10: oFortuna18 ( $3,115 )
+maryus2304 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 5h ]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$150]
+oFortuna18 raises [$430]
+maryus2304 folds
+PapaShango19 folds
+zombi1985 folds
+** Summary **
+oFortuna18 did not show his hand
+oFortuna18 collected [ $525 ]
+
+
+
+#Game No : 642230750
+***** 888poker Hand History for Game 642230750 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:14:18
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,073 )
+Seat 2: PapaShango19 ( $7,290 )
+Seat 3: johnwayne51 ( $3,755 )
+Seat 4: Al_Dracu ( $4,303 )
+Seat 5: stevemaquin ( $7,865 )
+Seat 6: paulrudkin39 ( $6,529 )
+Seat 7: Mel.br ( $4,595 )
+Seat 9: zombi1985 ( $2,455 )
+Seat 10: oFortuna18 ( $3,490 )
+PapaShango19 posts small blind [$75]
+johnwayne51 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 3d ]
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+oFortuna18 raises [$300]
+maryus2304 raises [$2,073]
+PapaShango19 folds
+johnwayne51 folds
+oFortuna18 folds
+** Summary **
+maryus2304 did not show his hand
+maryus2304 collected [ $825 ]
+
+
+
+#Game No : 642231032
+***** 888poker Hand History for Game 642231032 *****
+$75/$150 Blinds No Limit Holdem - *** 20 11 2014 23:14:52
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $7,215 )
+Seat 3: johnwayne51 ( $3,605 )
+Seat 4: Al_Dracu ( $4,303 )
+Seat 5: stevemaquin ( $7,865 )
+Seat 6: paulrudkin39 ( $6,529 )
+Seat 7: Mel.br ( $4,595 )
+Seat 9: zombi1985 ( $2,455 )
+Seat 10: oFortuna18 ( $3,190 )
+johnwayne51 posts small blind [$75]
+Al_Dracu posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 9h ]
+stevemaquin folds
+paulrudkin39 raises [$300]
+Mel.br calls [$300]
+zombi1985 calls [$300]
+oFortuna18 folds
+maryus2304 calls [$300]
+PapaShango19 calls [$300]
+johnwayne51 folds
+Al_Dracu folds
+** Dealing flop ** [ 8s, 2d, 3h ]
+paulrudkin39 bets [$600]
+Mel.br folds
+zombi1985 folds
+maryus2304 folds
+PapaShango19 folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $1,725 ]
+
+
+
+#Game No : 642231632
+***** 888poker Hand History for Game 642231632 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:16:08
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,298 )
+Seat 2: PapaShango19 ( $6,915 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,153 )
+Seat 5: stevemaquin ( $7,865 )
+Seat 6: paulrudkin39 ( $7,954 )
+Seat 7: Mel.br ( $4,295 )
+Seat 9: zombi1985 ( $2,155 )
+Seat 10: oFortuna18 ( $3,190 )
+Al_Dracu posts small blind [$100]
+stevemaquin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2d ]
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+oFortuna18 folds
+maryus2304 raises [$2,298]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+** Summary **
+maryus2304 did not show his hand
+maryus2304 collected [ $500 ]
+
+
+
+#Game No : 642231873
+***** 888poker Hand History for Game 642231873 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:16:39
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $6,915 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,665 )
+Seat 6: paulrudkin39 ( $7,954 )
+Seat 7: Mel.br ( $4,295 )
+Seat 9: zombi1985 ( $2,155 )
+Seat 10: oFortuna18 ( $3,190 )
+stevemaquin posts small blind [$100]
+paulrudkin39 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Qd ]
+Mel.br calls [$200]
+zombi1985 folds
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin calls [$100]
+paulrudkin39 checks
+** Dealing flop ** [ 4d, 5h, 8h ]
+stevemaquin checks
+paulrudkin39 bets [$400]
+Mel.br folds
+stevemaquin folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $600 ]
+
+
+
+#Game No : 642232338
+***** 888poker Hand History for Game 642232338 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:17:43
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $6,915 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,465 )
+Seat 6: paulrudkin39 ( $8,354 )
+Seat 7: Mel.br ( $4,095 )
+Seat 9: zombi1985 ( $2,155 )
+Seat 10: oFortuna18 ( $3,190 )
+paulrudkin39 posts small blind [$100]
+Mel.br posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Qh ]
+zombi1985 folds
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin raises [$420]
+paulrudkin39 folds
+Mel.br folds
+** Summary **
+stevemaquin did not show his hand
+stevemaquin collected [ $500 ]
+
+
+
+#Game No : 642232578
+***** 888poker Hand History for Game 642232578 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:18:15
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $6,915 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,765 )
+Seat 6: paulrudkin39 ( $8,254 )
+Seat 7: Mel.br ( $3,895 )
+Seat 9: zombi1985 ( $2,155 )
+Seat 10: oFortuna18 ( $3,190 )
+Mel.br posts small blind [$100]
+zombi1985 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 2c ]
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+** Summary **
+zombi1985 did not show his hand
+zombi1985 collected [ $300 ]
+
+
+
+#Game No : 642232765
+***** 888poker Hand History for Game 642232765 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:18:41
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $6,915 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,765 )
+Seat 6: paulrudkin39 ( $8,254 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $2,255 )
+Seat 10: oFortuna18 ( $3,190 )
+zombi1985 posts small blind [$100]
+oFortuna18 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 5c ]
+maryus2304 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin raises [$420]
+paulrudkin39 folds
+Mel.br folds
+zombi1985 raises [$540]
+oFortuna18 folds
+stevemaquin calls [$220]
+** Dealing flop ** [ Qc, 2h, 2c ]
+zombi1985 checks
+stevemaquin checks
+** Dealing turn ** [ Jh ]
+zombi1985 checks
+stevemaquin checks
+** Dealing river ** [ Ac ]
+zombi1985 bets [$400]
+stevemaquin folds
+** Summary **
+zombi1985 did not show his hand
+zombi1985 collected [ $1,480 ]
+
+
+
+#Game No : 642233357
+***** 888poker Hand History for Game 642233357 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:20:02
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $6,915 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,125 )
+Seat 6: paulrudkin39 ( $8,254 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $3,095 )
+Seat 10: oFortuna18 ( $2,990 )
+oFortuna18 posts small blind [$100]
+maryus2304 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 9c ]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+oFortuna18 folds
+** Summary **
+maryus2304 did not show his hand
+maryus2304 collected [ $300 ]
+
+
+
+#Game No : 642233611
+***** 888poker Hand History for Game 642233611 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:20:24
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,698 )
+Seat 2: PapaShango19 ( $6,915 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,125 )
+Seat 6: paulrudkin39 ( $8,254 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $3,095 )
+Seat 10: oFortuna18 ( $2,890 )
+maryus2304 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Ac ]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 raises [$600]
+Mel.br folds
+zombi1985 folds
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $500 ]
+
+
+
+#Game No : 642233880
+***** 888poker Hand History for Game 642233880 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:20:57
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $6,715 )
+Seat 3: johnwayne51 ( $3,530 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,125 )
+Seat 6: paulrudkin39 ( $8,554 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $3,095 )
+Seat 10: oFortuna18 ( $2,890 )
+PapaShango19 posts small blind [$100]
+johnwayne51 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 7s ]
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+oFortuna18 folds
+maryus2304 folds
+PapaShango19 raises [$350]
+johnwayne51 calls [$250]
+** Dealing flop ** [ Ah, 4c, 4h ]
+PapaShango19 bets [$675]
+johnwayne51 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $900 ]
+
+
+
+#Game No : 642234213
+***** 888poker Hand History for Game 642234213 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:21:39
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: maryus2304 ( $2,598 )
+Seat 2: PapaShango19 ( $7,165 )
+Seat 3: johnwayne51 ( $3,080 )
+Seat 4: Al_Dracu ( $4,053 )
+Seat 5: stevemaquin ( $7,125 )
+Seat 6: paulrudkin39 ( $8,554 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $3,095 )
+Seat 10: oFortuna18 ( $2,890 )
+johnwayne51 posts small blind [$100]
+Al_Dracu posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 7d ]
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$200]
+oFortuna18 folds
+maryus2304 calls [$200]
+PapaShango19 folds
+johnwayne51 calls [$100]
+Al_Dracu checks
+** Dealing flop ** [ Td, Js, Qs ]
+johnwayne51 checks
+Al_Dracu checks
+zombi1985 checks
+maryus2304 checks
+** Dealing turn ** [ 2s ]
+johnwayne51 bets [$200]
+Al_Dracu calls [$200]
+zombi1985 calls [$200]
+maryus2304 calls [$200]
+** Dealing river ** [ 9d ]
+johnwayne51 bets [$600]
+Al_Dracu folds
+zombi1985 folds
+maryus2304 raises [$2,198]
+johnwayne51 calls [$1,598]
+** Summary **
+maryus2304 shows [ Kd, Tc ]
+johnwayne51 shows [ 4s, As ]
+johnwayne51 collected [ $5,996 ]
+
+
+
+#Game No : 642234859
+***** 888poker Hand History for Game 642234859 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:23:01
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: PapaShango19 ( $7,165 )
+Seat 3: johnwayne51 ( $6,478 )
+Seat 4: Al_Dracu ( $3,653 )
+Seat 5: stevemaquin ( $7,125 )
+Seat 6: paulrudkin39 ( $8,554 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $2,695 )
+Seat 10: oFortuna18 ( $2,890 )
+Al_Dracu posts small blind [$100]
+stevemaquin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 4c ]
+paulrudkin39 calls [$200]
+Mel.br folds
+zombi1985 calls [$200]
+oFortuna18 raises [$2,890]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+zombi1985 folds
+** Summary **
+oFortuna18 did not show his hand
+oFortuna18 collected [ $900 ]
+
+
+
+#Game No : 642235129
+***** 888poker Hand History for Game 642235129 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:23:33
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: PapaShango19 ( $7,165 )
+Seat 3: johnwayne51 ( $6,478 )
+Seat 4: Al_Dracu ( $3,553 )
+Seat 5: stevemaquin ( $6,925 )
+Seat 6: paulrudkin39 ( $8,354 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $2,495 )
+Seat 10: oFortuna18 ( $3,590 )
+stevemaquin posts small blind [$100]
+paulrudkin39 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Jc ]
+Mel.br folds
+zombi1985 folds
+oFortuna18 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu raises [$700]
+stevemaquin folds
+paulrudkin39 folds
+** Summary **
+Al_Dracu collected [ $500 ]
+
+
+
+#Game No : 642235579
+***** 888poker Hand History for Game 642235579 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:24:28
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,475 )
+Seat 2: PapaShango19 ( $7,165 )
+Seat 3: johnwayne51 ( $6,478 )
+Seat 4: Al_Dracu ( $3,853 )
+Seat 5: stevemaquin ( $6,825 )
+Seat 6: paulrudkin39 ( $8,154 )
+Seat 7: Mel.br ( $3,795 )
+Seat 9: zombi1985 ( $2,495 )
+Seat 10: oFortuna18 ( $3,590 )
+paulrudkin39 posts small blind [$100]
+Mel.br posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Ts ]
+zombi1985 folds
+oFortuna18 folds
+Shiryu100 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin raises [$400]
+paulrudkin39 calls [$300]
+Mel.br calls [$200]
+** Dealing flop ** [ 7h, Kh, Kd ]
+paulrudkin39 bets [$400]
+Mel.br calls [$400]
+stevemaquin folds
+** Dealing turn ** [ 4h ]
+paulrudkin39 checks
+Mel.br checks
+** Dealing river ** [ Kc ]
+paulrudkin39 bets [$800]
+Mel.br folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $2,000 ]
+
+
+
+#Game No : 642236149
+***** 888poker Hand History for Game 642236149 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:25:39
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,475 )
+Seat 2: PapaShango19 ( $7,165 )
+Seat 3: johnwayne51 ( $6,478 )
+Seat 4: Al_Dracu ( $3,853 )
+Seat 5: stevemaquin ( $6,425 )
+Seat 6: paulrudkin39 ( $9,354 )
+Seat 7: Mel.br ( $2,995 )
+Seat 9: zombi1985 ( $2,495 )
+Seat 10: oFortuna18 ( $3,590 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+zombi1985 posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+Mel.br posts small blind [$100]
+zombi1985 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 8h ]
+oFortuna18 folds
+Shiryu100 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 raises [$600]
+Mel.br folds
+zombi1985 folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $680 ]
+
+
+
+#Game No : 642236572
+***** 888poker Hand History for Game 642236572 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:26:30
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,455 )
+Seat 2: PapaShango19 ( $7,145 )
+Seat 3: johnwayne51 ( $6,458 )
+Seat 4: Al_Dracu ( $3,833 )
+Seat 5: stevemaquin ( $6,405 )
+Seat 6: paulrudkin39 ( $9,814 )
+Seat 7: Mel.br ( $2,875 )
+Seat 9: zombi1985 ( $2,275 )
+Seat 10: oFortuna18 ( $3,570 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+zombi1985 posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+zombi1985 posts small blind [$100]
+oFortuna18 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 8c ]
+Shiryu100 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu raises [$400]
+stevemaquin calls [$400]
+paulrudkin39 folds
+Mel.br folds
+zombi1985 folds
+oFortuna18 calls [$200]
+** Dealing flop ** [ 9h, 5s, 2s ]
+oFortuna18 checks
+Al_Dracu checks
+stevemaquin checks
+** Dealing turn ** [ 5h ]
+oFortuna18 checks
+Al_Dracu checks
+stevemaquin checks
+** Dealing river ** [ 9s ]
+oFortuna18 checks
+Al_Dracu checks
+stevemaquin bets [$1,480]
+oFortuna18 folds
+Al_Dracu calls [$1,480]
+** Summary **
+stevemaquin shows [ Jc, Ad ]
+Al_Dracu shows [ Tc, Ah ]
+Al_Dracu collected [ $2,220 ]
+stevemaquin collected [ $2,220 ]
+
+
+
+#Game No : 642237651
+***** 888poker Hand History for Game 642237651 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:28:57
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,435 )
+Seat 2: PapaShango19 ( $7,125 )
+Seat 3: johnwayne51 ( $6,438 )
+Seat 4: Al_Dracu ( $4,153 )
+Seat 5: stevemaquin ( $6,725 )
+Seat 6: paulrudkin39 ( $9,794 )
+Seat 7: Mel.br ( $2,855 )
+Seat 9: zombi1985 ( $2,155 )
+Seat 10: oFortuna18 ( $3,150 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+zombi1985 posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+oFortuna18 posts small blind [$100]
+Shiryu100 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ks ]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$200]
+oFortuna18 folds
+Shiryu100 checks
+** Dealing flop ** [ 6h, 8s, Kc ]
+Shiryu100 checks
+zombi1985 bets [$200]
+Shiryu100 folds
+** Summary **
+zombi1985 did not show his hand
+zombi1985 collected [ $680 ]
+
+
+
+#Game No : 642237980
+***** 888poker Hand History for Game 642237980 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:29:37
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,215 )
+Seat 2: PapaShango19 ( $7,105 )
+Seat 3: johnwayne51 ( $6,418 )
+Seat 4: Al_Dracu ( $4,133 )
+Seat 5: stevemaquin ( $6,705 )
+Seat 6: paulrudkin39 ( $9,774 )
+Seat 7: Mel.br ( $2,835 )
+Seat 9: zombi1985 ( $2,615 )
+Seat 10: oFortuna18 ( $3,030 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+zombi1985 posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+Shiryu100 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Jd ]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 raises [$600]
+Mel.br folds
+zombi1985 folds
+oFortuna18 raises [$3,010]
+Shiryu100 folds
+PapaShango19 folds
+paulrudkin39 folds
+** Summary **
+oFortuna18 did not show his hand
+oFortuna18 collected [ $1,680 ]
+
+
+
+#Game No : 642238546
+***** 888poker Hand History for Game 642238546 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:30:47
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,095 )
+Seat 2: PapaShango19 ( $6,885 )
+Seat 3: johnwayne51 ( $6,398 )
+Seat 4: Al_Dracu ( $4,113 )
+Seat 5: stevemaquin ( $6,685 )
+Seat 6: paulrudkin39 ( $9,154 )
+Seat 7: Mel.br ( $2,815 )
+Seat 9: zombi1985 ( $2,595 )
+Seat 10: oFortuna18 ( $4,090 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+zombi1985 posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+PapaShango19 posts small blind [$100]
+johnwayne51 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 9s ]
+Al_Dracu folds
+stevemaquin raises [$500]
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$500]
+oFortuna18 folds
+Shiryu100 folds
+PapaShango19 folds
+johnwayne51 calls [$300]
+** Dealing flop ** [ Js, 7c, Ac ]
+johnwayne51 bets [$2,400]
+stevemaquin folds
+zombi1985 folds
+** Summary **
+johnwayne51 did not show his hand
+johnwayne51 collected [ $1,780 ]
+
+
+
+#Game No : 642239003
+***** 888poker Hand History for Game 642239003 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:31:38
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,075 )
+Seat 2: PapaShango19 ( $6,765 )
+Seat 3: johnwayne51 ( $7,658 )
+Seat 4: Al_Dracu ( $4,093 )
+Seat 5: stevemaquin ( $6,165 )
+Seat 6: paulrudkin39 ( $9,134 )
+Seat 7: Mel.br ( $2,795 )
+Seat 9: zombi1985 ( $2,075 )
+Seat 10: oFortuna18 ( $4,070 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+zombi1985 posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+johnwayne51 posts small blind [$100]
+Al_Dracu posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 6c ]
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$200]
+oFortuna18 folds
+Shiryu100 raises [$2,055]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+zombi1985 folds
+** Summary **
+Shiryu100 did not show his hand
+Shiryu100 collected [ $880 ]
+
+
+
+#Game No : 642239587
+***** 888poker Hand History for Game 642239587 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:32:44
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,735 )
+Seat 2: PapaShango19 ( $6,745 )
+Seat 3: johnwayne51 ( $7,538 )
+Seat 4: Al_Dracu ( $3,873 )
+Seat 5: stevemaquin ( $6,145 )
+Seat 6: paulrudkin39 ( $9,114 )
+Seat 7: Mel.br ( $2,775 )
+Seat 9: zombi1985 ( $1,855 )
+Seat 10: oFortuna18 ( $4,050 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+zombi1985 posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+Al_Dracu posts small blind [$100]
+stevemaquin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Tc ]
+paulrudkin39 folds
+Mel.br folds
+zombi1985 calls [$200]
+oFortuna18 folds
+Shiryu100 folds
+PapaShango19 raises [$800]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+zombi1985 calls [$600]
+** Dealing flop ** [ Kc, 8d, 6c ]
+zombi1985 checks
+PapaShango19 bets [$1,040]
+zombi1985 calls [$1,035]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 7s ]
+** Summary **
+PapaShango19 shows [ As, Tc ]
+zombi1985 shows [ 9c, 9d ]
+PapaShango19 collected [ $4,150 ]
+
+
+
+#Game No : 642240218
+***** 888poker Hand History for Game 642240218 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:33:53
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Shiryu100 ( $2,715 )
+Seat 2: PapaShango19 ( $9,040 )
+Seat 3: johnwayne51 ( $7,518 )
+Seat 4: Al_Dracu ( $3,753 )
+Seat 5: stevemaquin ( $5,925 )
+Seat 6: paulrudkin39 ( $9,094 )
+Seat 7: Mel.br ( $2,755 )
+Seat 10: oFortuna18 ( $4,030 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+stevemaquin posts small blind [$100]
+paulrudkin39 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 9s ]
+Mel.br folds
+oFortuna18 folds
+Shiryu100 raises [$2,695]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+** Summary **
+Shiryu100 did not show his hand
+Shiryu100 collected [ $660 ]
+
+
+
+#Game No : 642240500
+***** 888poker Hand History for Game 642240500 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:34:25
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Shiryu100 ( $3,155 )
+Seat 2: PapaShango19 ( $9,020 )
+Seat 3: johnwayne51 ( $7,498 )
+Seat 4: Al_Dracu ( $3,733 )
+Seat 5: stevemaquin ( $5,805 )
+Seat 6: paulrudkin39 ( $8,874 )
+Seat 7: Mel.br ( $2,735 )
+Seat 10: oFortuna18 ( $4,010 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+paulrudkin39 posts small blind [$100]
+Mel.br posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2d ]
+oFortuna18 folds
+Shiryu100 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 raises [$500]
+Mel.br calls [$400]
+** Dealing flop ** [ Jd, 9c, 2h ]
+paulrudkin39 bets [$800]
+Mel.br folds
+** Summary **
+paulrudkin39 did not show his hand
+paulrudkin39 collected [ $1,360 ]
+
+
+
+#Game No : 642240806
+***** 888poker Hand History for Game 642240806 *****
+$100/$200 Blinds No Limit Holdem - *** 20 11 2014 23:35:01
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Shiryu100 ( $3,135 )
+Seat 2: PapaShango19 ( $9,000 )
+Seat 3: johnwayne51 ( $7,478 )
+Seat 4: Al_Dracu ( $3,713 )
+Seat 5: stevemaquin ( $5,785 )
+Seat 6: paulrudkin39 ( $9,614 )
+Seat 7: Mel.br ( $2,115 )
+Seat 10: oFortuna18 ( $3,990 )
+paulrudkin39 posts ante [$20]
+Mel.br posts ante [$20]
+Al_Dracu posts ante [$20]
+PapaShango19 posts ante [$20]
+johnwayne51 posts ante [$20]
+stevemaquin posts ante [$20]
+oFortuna18 posts ante [$20]
+Shiryu100 posts ante [$20]
+Mel.br posts small blind [$100]
+oFortuna18 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Td ]
+Shiryu100 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br calls [$100]
+oFortuna18 checks
+** Dealing flop ** [ 5s, 2d, Qc ]
+Mel.br bets [$200]
+oFortuna18 calls [$200]
+** Dealing turn ** [ 9d ]
+Mel.br bets [$200]
+oFortuna18 calls [$200]
+** Dealing river ** [ 6s ]
+Mel.br bets [$200]
+oFortuna18 calls [$200]
+** Summary **
+Mel.br shows [ Ks, 2s ]
+oFortuna18 shows [ 6d, Ad ]
+oFortuna18 collected [ $1,760 ]
+
+
+
+#Game No : 642241471
+***** 888poker Hand History for Game 642241471 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:36:12
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Shiryu100 ( $3,115 )
+Seat 2: PapaShango19 ( $8,980 )
+Seat 3: johnwayne51 ( $7,458 )
+Seat 4: Al_Dracu ( $3,693 )
+Seat 5: stevemaquin ( $5,765 )
+Seat 6: paulrudkin39 ( $9,594 )
+Seat 7: Mel.br ( $1,295 )
+Seat 10: oFortuna18 ( $4,930 )
+paulrudkin39 posts ante [$25]
+Mel.br posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+Shiryu100 posts ante [$25]
+oFortuna18 posts small blind [$125]
+Shiryu100 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Qh ]
+PapaShango19 raises [$1,000]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+oFortuna18 folds
+Shiryu100 folds
+** Summary **
+PapaShango19 collected [ $825 ]
+
+
+
+#Game No : 642241773
+***** 888poker Hand History for Game 642241773 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:36:47
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,840 )
+Seat 2: PapaShango19 ( $9,530 )
+Seat 3: johnwayne51 ( $7,433 )
+Seat 4: Al_Dracu ( $3,668 )
+Seat 5: stevemaquin ( $5,740 )
+Seat 6: paulrudkin39 ( $9,569 )
+Seat 7: Mel.br ( $1,270 )
+Seat 9: winCHESTERok ( $6,851 )
+Seat 10: oFortuna18 ( $4,780 )
+paulrudkin39 posts ante [$25]
+Mel.br posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+Shiryu100 posts ante [$25]
+winCHESTERok posts ante [$25]
+Shiryu100 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Ks ]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+winCHESTERok folds
+oFortuna18 folds
+Shiryu100 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 642242044
+***** 888poker Hand History for Game 642242044 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:37:19
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,690 )
+Seat 2: PapaShango19 ( $9,855 )
+Seat 3: johnwayne51 ( $7,408 )
+Seat 4: Al_Dracu ( $3,643 )
+Seat 5: stevemaquin ( $5,715 )
+Seat 6: paulrudkin39 ( $9,544 )
+Seat 7: Mel.br ( $1,245 )
+Seat 9: winCHESTERok ( $6,826 )
+Seat 10: oFortuna18 ( $4,755 )
+paulrudkin39 posts ante [$25]
+Mel.br posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+Shiryu100 posts ante [$25]
+winCHESTERok posts ante [$25]
+PapaShango19 posts small blind [$125]
+johnwayne51 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 4h ]
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+winCHESTERok folds
+oFortuna18 folds
+Shiryu100 folds
+PapaShango19 folds
+** Summary **
+johnwayne51 did not show his hand
+johnwayne51 collected [ $600 ]
+
+
+
+#Game No : 642242339
+***** 888poker Hand History for Game 642242339 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:37:57
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Shiryu100 ( $2,665 )
+Seat 2: PapaShango19 ( $9,705 )
+Seat 3: johnwayne51 ( $7,733 )
+Seat 4: Al_Dracu ( $3,618 )
+Seat 5: stevemaquin ( $5,690 )
+Seat 6: paulrudkin39 ( $9,519 )
+Seat 7: Mel.br ( $1,220 )
+Seat 9: winCHESTERok ( $6,801 )
+Seat 10: oFortuna18 ( $4,730 )
+paulrudkin39 posts ante [$25]
+Mel.br posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+Shiryu100 posts ante [$25]
+winCHESTERok posts ante [$25]
+johnwayne51 posts small blind [$125]
+Al_Dracu posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 2h ]
+stevemaquin folds
+paulrudkin39 folds
+Mel.br folds
+winCHESTERok folds
+oFortuna18 folds
+Shiryu100 raises [$2,640]
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu calls [$2,390]
+** Dealing flop ** [ Jd, Ad, 9c ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 8d ]
+** Summary **
+Shiryu100 shows [ Qh, Js ]
+Al_Dracu shows [ Jh, Ah ]
+Al_Dracu collected [ $5,630 ]
+
+
+
+#Game No : 642242765
+***** 888poker Hand History for Game 642242765 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:38:47
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: PapaShango19 ( $9,680 )
+Seat 3: johnwayne51 ( $7,583 )
+Seat 4: Al_Dracu ( $6,583 )
+Seat 5: stevemaquin ( $5,665 )
+Seat 6: paulrudkin39 ( $9,494 )
+Seat 7: Mel.br ( $1,195 )
+Seat 9: winCHESTERok ( $6,776 )
+Seat 10: oFortuna18 ( $4,705 )
+paulrudkin39 posts ante [$25]
+Mel.br posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+winCHESTERok posts ante [$25]
+Al_Dracu posts small blind [$125]
+stevemaquin posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 2d ]
+paulrudkin39 folds
+Mel.br folds
+winCHESTERok folds
+oFortuna18 folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu raises [$500]
+stevemaquin raises [$1,250]
+Al_Dracu folds
+** Summary **
+stevemaquin collected [ $1,450 ]
+
+
+
+#Game No : 642243266
+***** 888poker Hand History for Game 642243266 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:39:53
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: PEZMI ( $35,915 )
+Seat 2: PapaShango19 ( $9,655 )
+Seat 3: johnwayne51 ( $7,558 )
+Seat 4: Al_Dracu ( $5,933 )
+Seat 5: stevemaquin ( $6,465 )
+Seat 6: paulrudkin39 ( $9,469 )
+Seat 7: Mel.br ( $1,170 )
+Seat 9: winCHESTERok ( $6,751 )
+Seat 10: oFortuna18 ( $4,680 )
+paulrudkin39 posts ante [$25]
+Mel.br posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+winCHESTERok posts ante [$25]
+PEZMI posts ante [$25]
+stevemaquin posts small blind [$125]
+paulrudkin39 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5s ]
+Mel.br folds
+winCHESTERok folds
+oFortuna18 folds
+PEZMI folds
+PapaShango19 raises [$500]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 calls [$250]
+** Dealing flop ** [ 6h, Ah, 3s ]
+paulrudkin39 checks
+PapaShango19 bets [$925]
+paulrudkin39 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,350 ]
+
+
+
+#Game No : 642243651
+***** 888poker Hand History for Game 642243651 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:40:40
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PEZMI ( $35,890 )
+Seat 2: PapaShango19 ( $10,480 )
+Seat 3: johnwayne51 ( $7,533 )
+Seat 4: Al_Dracu ( $5,908 )
+Seat 5: stevemaquin ( $6,315 )
+Seat 6: paulrudkin39 ( $8,944 )
+Seat 7: Mel.br ( $1,145 )
+Seat 9: winCHESTERok ( $6,726 )
+Seat 10: oFortuna18 ( $4,655 )
+paulrudkin39 posts ante [$25]
+Mel.br posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+winCHESTERok posts ante [$25]
+PEZMI posts ante [$25]
+paulrudkin39 posts small blind [$125]
+Mel.br posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Kh ]
+winCHESTERok folds
+oFortuna18 folds
+PEZMI folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu raises [$1,100]
+stevemaquin folds
+paulrudkin39 folds
+Mel.br raises [$870]
+Al_Dracu calls [$20]
+** Dealing flop ** [ 7c, 3s, Qh ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ Ah ]
+** Summary **
+Al_Dracu shows [ Ac, 8h ]
+Mel.br shows [ 6d, 7h ]
+Al_Dracu collected [ $2,590 ]
+
+
+
+#Game No : 642244220
+***** 888poker Hand History for Game 642244220 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:41:52
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: PEZMI ( $35,865 )
+Seat 2: PapaShango19 ( $10,455 )
+Seat 3: johnwayne51 ( $7,508 )
+Seat 4: Al_Dracu ( $7,353 )
+Seat 5: stevemaquin ( $6,290 )
+Seat 6: paulrudkin39 ( $8,794 )
+Seat 9: winCHESTERok ( $6,701 )
+Seat 10: oFortuna18 ( $4,630 )
+paulrudkin39 posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+winCHESTERok posts ante [$25]
+PEZMI posts ante [$25]
+winCHESTERok posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 4s ]
+oFortuna18 folds
+PEZMI folds
+PapaShango19 folds
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin raises [$600]
+paulrudkin39 folds
+winCHESTERok folds
+** Summary **
+stevemaquin did not show his hand
+stevemaquin collected [ $700 ]
+
+
+
+#Game No : 642244499
+***** 888poker Hand History for Game 642244499 *****
+$125/$250 Blinds No Limit Holdem - *** 20 11 2014 23:42:30
+Tournament #63640602 $0.90 + $0.10 - Table #22 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: PEZMI ( $35,840 )
+Seat 2: PapaShango19 ( $10,430 )
+Seat 3: johnwayne51 ( $7,483 )
+Seat 4: Al_Dracu ( $7,328 )
+Seat 5: stevemaquin ( $6,715 )
+Seat 6: paulrudkin39 ( $8,769 )
+Seat 9: winCHESTERok ( $6,426 )
+Seat 10: oFortuna18 ( $4,605 )
+paulrudkin39 posts ante [$25]
+Al_Dracu posts ante [$25]
+PapaShango19 posts ante [$25]
+johnwayne51 posts ante [$25]
+stevemaquin posts ante [$25]
+oFortuna18 posts ante [$25]
+winCHESTERok posts ante [$25]
+PEZMI posts ante [$25]
+winCHESTERok posts small blind [$125]
+oFortuna18 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Kh ]
+PEZMI raises [$806]
+PapaShango19 raises [$2,112]
+johnwayne51 folds
+Al_Dracu folds
+stevemaquin folds
+paulrudkin39 folds
+winCHESTERok folds
+oFortuna18 folds
+PEZMI raises [$35,009]
+PapaShango19 calls [$8,293]
+** Dealing flop ** [ 4d, 9c, 2c ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 2s ]
+** Summary **
+PEZMI shows [ 9h, 9s ]
+PapaShango19 shows [ Kc, Kh ]
+PEZMI collected [ $21,385 ]
+
+
+

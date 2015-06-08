@@ -1,0 +1,3392 @@
+#Game No : 643772161
+***** 888poker Hand History for Game 643772161 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:01:52
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,500 )
+Seat 2: 888pokermao ( $1,500 )
+Seat 3: Smelchak63 ( $1,500 )
+Seat 4: kasekas1004 ( $1,500 )
+Seat 5: Mr_Two_Putt ( $1,500 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: Andryxawin ( $1,500 )
+Seat 9: moose0929 ( $1,500 )
+Seat 10: Grinder343 ( $1,500 )
+Mr_Two_Putt posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 7s ]
+Andryxawin calls [$20]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+888pokermao folds
+Smelchak63 calls [$20]
+kasekas1004 folds
+Mr_Two_Putt calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ Jd, 6d, 3c ]
+Mr_Two_Putt bets [$40]
+PapaShango19 folds
+Andryxawin calls [$40]
+Smelchak63 calls [$40]
+** Dealing turn ** [ 4c ]
+Mr_Two_Putt bets [$100]
+Andryxawin calls [$100]
+Smelchak63 calls [$100]
+** Dealing river ** [ Ah ]
+Mr_Two_Putt checks
+Andryxawin bets [$500]
+Smelchak63 folds
+Mr_Two_Putt folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $500 ]
+
+
+
+#Game No : 643772368
+***** 888poker Hand History for Game 643772368 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:03:00
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,500 )
+Seat 2: 888pokermao ( $1,500 )
+Seat 3: Smelchak63 ( $1,340 )
+Seat 4: kasekas1004 ( $1,500 )
+Seat 5: Mr_Two_Putt ( $1,340 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: Andryxawin ( $1,840 )
+Seat 9: moose0929 ( $1,500 )
+Seat 10: Grinder343 ( $1,500 )
+PapaShango19 posts small blind [$10]
+Andryxawin posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 9s ]
+moose0929 calls [$20]
+Grinder343 folds
+rocketssuck calls [$20]
+888pokermao folds
+Smelchak63 folds
+kasekas1004 folds
+Mr_Two_Putt folds
+PapaShango19 raises [$50]
+Andryxawin calls [$40]
+moose0929 calls [$40]
+rocketssuck calls [$40]
+** Dealing flop ** [ Td, 5d, 6s ]
+PapaShango19 bets [$60]
+Andryxawin calls [$60]
+moose0929 folds
+rocketssuck calls [$60]
+** Dealing turn ** [ 5c ]
+PapaShango19 checks
+Andryxawin bets [$120]
+rocketssuck calls [$120]
+PapaShango19 folds
+** Dealing river ** [ Kc ]
+Andryxawin bets [$330]
+rocketssuck calls [$330]
+** Summary **
+Andryxawin shows [ 2s, 5s ]
+rocketssuck mucks [ Qh, Th ]
+Andryxawin collected [ $1,320 ]
+
+
+
+#Game No : 643772540
+***** 888poker Hand History for Game 643772540 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:04:03
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $930 )
+Seat 2: 888pokermao ( $1,500 )
+Seat 3: Smelchak63 ( $1,340 )
+Seat 4: kasekas1004 ( $1,500 )
+Seat 5: Mr_Two_Putt ( $1,340 )
+Seat 6: PapaShango19 ( $1,360 )
+Seat 7: Andryxawin ( $2,590 )
+Seat 9: moose0929 ( $1,440 )
+Seat 10: Grinder343 ( $1,500 )
+Andryxawin posts small blind [$10]
+moose0929 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 4c ]
+Grinder343 folds
+rocketssuck folds
+888pokermao folds
+Smelchak63 folds
+kasekas1004 raises [$80]
+Mr_Two_Putt folds
+PapaShango19 folds
+Andryxawin calls [$70]
+moose0929 folds
+** Dealing flop ** [ 9h, 2h, 3s ]
+Andryxawin checks
+kasekas1004 bets [$100]
+Andryxawin calls [$100]
+** Dealing turn ** [ 7c ]
+Andryxawin checks
+kasekas1004 checks
+** Dealing river ** [ 4d ]
+Andryxawin bets [$210]
+kasekas1004 calls [$210]
+** Summary **
+Andryxawin shows [ 7d, 7h ]
+kasekas1004 mucks [ Qc, As ]
+Andryxawin collected [ $800 ]
+
+
+
+#Game No : 643772684
+***** 888poker Hand History for Game 643772684 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:04:50
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $930 )
+Seat 2: 888pokermao ( $1,500 )
+Seat 3: Smelchak63 ( $1,340 )
+Seat 4: kasekas1004 ( $1,110 )
+Seat 5: Mr_Two_Putt ( $1,340 )
+Seat 6: PapaShango19 ( $1,360 )
+Seat 7: Andryxawin ( $3,000 )
+Seat 9: moose0929 ( $1,420 )
+Seat 10: Grinder343 ( $1,500 )
+moose0929 posts small blind [$10]
+Grinder343 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Js ]
+rocketssuck calls [$20]
+888pokermao folds
+Smelchak63 folds
+kasekas1004 folds
+Mr_Two_Putt folds
+PapaShango19 folds
+Andryxawin folds
+moose0929 calls [$10]
+Grinder343 checks
+** Dealing flop ** [ 6d, Ac, Kc ]
+moose0929 checks
+Grinder343 checks
+rocketssuck bets [$20]
+moose0929 folds
+Grinder343 calls [$20]
+** Dealing turn ** [ 3d ]
+Grinder343 checks
+rocketssuck bets [$60]
+Grinder343 calls [$60]
+** Dealing river ** [ 9c ]
+Grinder343 bets [$20]
+rocketssuck calls [$20]
+** Summary **
+Grinder343 shows [ 5h, As ]
+rocketssuck mucks [ 7h, Kh ]
+Grinder343 collected [ $260 ]
+
+
+
+#Game No : 643772849
+***** 888poker Hand History for Game 643772849 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:05:44
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $810 )
+Seat 2: 888pokermao ( $1,500 )
+Seat 3: Smelchak63 ( $1,340 )
+Seat 4: kasekas1004 ( $1,110 )
+Seat 5: Mr_Two_Putt ( $1,340 )
+Seat 6: PapaShango19 ( $1,360 )
+Seat 7: Andryxawin ( $3,000 )
+Seat 9: moose0929 ( $1,400 )
+Seat 10: Grinder343 ( $1,640 )
+Grinder343 posts small blind [$10]
+rocketssuck posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 2d ]
+888pokermao folds
+Smelchak63 calls [$20]
+kasekas1004 folds
+Mr_Two_Putt folds
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 calls [$10]
+rocketssuck checks
+** Dealing flop ** [ Jh, Jd, 3d ]
+Grinder343 checks
+rocketssuck bets [$40]
+Smelchak63 calls [$40]
+Grinder343 folds
+** Dealing turn ** [ Jc ]
+rocketssuck bets [$40]
+Smelchak63 calls [$40]
+** Dealing river ** [ Ks ]
+rocketssuck bets [$280]
+Smelchak63 calls [$280]
+** Summary **
+rocketssuck shows [ 8d, Js ]
+Smelchak63 mucks [ As, 8s ]
+rocketssuck collected [ $780 ]
+
+
+
+#Game No : 643773026
+***** 888poker Hand History for Game 643773026 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:06:38
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,210 )
+Seat 2: 888pokermao ( $1,500 )
+Seat 3: Smelchak63 ( $960 )
+Seat 4: kasekas1004 ( $1,110 )
+Seat 5: Mr_Two_Putt ( $1,340 )
+Seat 6: PapaShango19 ( $1,360 )
+Seat 7: Andryxawin ( $3,000 )
+Seat 9: moose0929 ( $1,400 )
+Seat 10: Grinder343 ( $1,620 )
+rocketssuck posts small blind [$10]
+888pokermao posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Ts ]
+Smelchak63 folds
+kasekas1004 raises [$120]
+Mr_Two_Putt folds
+PapaShango19 folds
+Andryxawin calls [$120]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+888pokermao folds
+** Dealing flop ** [ 9c, Td, 5s ]
+kasekas1004 checks
+Andryxawin bets [$135]
+kasekas1004 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $270 ]
+
+
+
+#Game No : 643773185
+***** 888poker Hand History for Game 643773185 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:07:25
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,200 )
+Seat 2: 888pokermao ( $1,480 )
+Seat 3: Smelchak63 ( $960 )
+Seat 4: kasekas1004 ( $990 )
+Seat 5: Mr_Two_Putt ( $1,340 )
+Seat 6: PapaShango19 ( $1,360 )
+Seat 7: Andryxawin ( $3,150 )
+Seat 9: moose0929 ( $1,400 )
+Seat 10: Grinder343 ( $1,620 )
+888pokermao posts small blind [$10]
+Smelchak63 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, As ]
+kasekas1004 folds
+Mr_Two_Putt calls [$20]
+PapaShango19 calls [$20]
+Andryxawin calls [$20]
+moose0929 calls [$20]
+Grinder343 raises [$150]
+rocketssuck folds
+888pokermao folds
+Smelchak63 folds
+Mr_Two_Putt calls [$130]
+PapaShango19 folds
+Andryxawin folds
+moose0929 calls [$130]
+** Dealing flop ** [ 4s, Js, Qc ]
+Mr_Two_Putt checks
+moose0929 checks
+Grinder343 bets [$260]
+Mr_Two_Putt folds
+moose0929 folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $520 ]
+
+
+
+#Game No : 643773390
+***** 888poker Hand History for Game 643773390 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:08:24
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,200 )
+Seat 2: 888pokermao ( $1,470 )
+Seat 3: Smelchak63 ( $940 )
+Seat 4: kasekas1004 ( $990 )
+Seat 5: Mr_Two_Putt ( $1,190 )
+Seat 6: PapaShango19 ( $1,340 )
+Seat 7: Andryxawin ( $3,130 )
+Seat 9: moose0929 ( $1,250 )
+Seat 10: Grinder343 ( $1,990 )
+Smelchak63 posts small blind [$10]
+kasekas1004 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 8d ]
+Mr_Two_Putt folds
+PapaShango19 raises [$60]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+888pokermao calls [$60]
+Smelchak63 calls [$50]
+kasekas1004 folds
+** Dealing flop ** [ 4s, 8h, Kc ]
+Smelchak63 checks
+PapaShango19 bets [$80]
+888pokermao calls [$80]
+Smelchak63 folds
+** Dealing turn ** [ Ks ]
+PapaShango19 bets [$80]
+888pokermao calls [$80]
+** Dealing river ** [ 5d ]
+PapaShango19 bets [$160]
+888pokermao raises [$1,250]
+PapaShango19 calls [$960]
+** Summary **
+888pokermao shows [ 6c, 5c ]
+PapaShango19 shows [ 8s, 8d ]
+PapaShango19 collected [ $2,760 ]
+
+
+
+#Game No : 643773677
+***** 888poker Hand History for Game 643773677 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:09:39
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,200 )
+Seat 2: 888pokermao ( $130 )
+Seat 3: Smelchak63 ( $880 )
+Seat 4: kasekas1004 ( $970 )
+Seat 5: Mr_Two_Putt ( $1,190 )
+Seat 6: PapaShango19 ( $2,760 )
+Seat 7: Andryxawin ( $3,130 )
+Seat 9: moose0929 ( $1,250 )
+Seat 10: Grinder343 ( $1,990 )
+kasekas1004 posts small blind [$10]
+Mr_Two_Putt posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 4c ]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+rocketssuck calls [$20]
+888pokermao raises [$130]
+Smelchak63 calls [$130]
+kasekas1004 folds
+Mr_Two_Putt raises [$1,170]
+rocketssuck folds
+Smelchak63 folds
+** Dealing flop ** [ Kc, 9d, 5c ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ 9h ]
+** Summary **
+888pokermao shows [ Qs, Qc ]
+Mr_Two_Putt shows [ Jd, Ad ]
+888pokermao collected [ $420 ]
+
+
+
+#Game No : 643773815
+***** 888poker Hand History for Game 643773815 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:10:20
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,180 )
+Seat 2: 888pokermao ( $420 )
+Seat 3: Smelchak63 ( $750 )
+Seat 4: kasekas1004 ( $960 )
+Seat 5: Mr_Two_Putt ( $1,060 )
+Seat 6: PapaShango19 ( $2,760 )
+Seat 7: Andryxawin ( $3,130 )
+Seat 9: moose0929 ( $1,250 )
+Seat 10: Grinder343 ( $1,990 )
+Mr_Two_Putt posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 6d ]
+Andryxawin raises [$90]
+moose0929 folds
+Grinder343 calls [$90]
+rocketssuck folds
+888pokermao folds
+Smelchak63 folds
+kasekas1004 folds
+Mr_Two_Putt folds
+PapaShango19 folds
+** Dealing flop ** [ 2d, 3c, 8h ]
+Andryxawin bets [$112]
+Grinder343 raises [$284]
+Andryxawin calls [$172]
+** Dealing turn ** [ 6c ]
+Andryxawin checks
+Grinder343 checks
+** Dealing river ** [ 2h ]
+Andryxawin checks
+Grinder343 bets [$396]
+Andryxawin folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $793 ]
+
+
+
+#Game No : 643774036
+***** 888poker Hand History for Game 643774036 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:11:23
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,180 )
+Seat 2: 888pokermao ( $420 )
+Seat 3: Smelchak63 ( $750 )
+Seat 4: kasekas1004 ( $960 )
+Seat 5: Mr_Two_Putt ( $1,045 )
+Seat 6: PapaShango19 ( $2,730 )
+Seat 7: Andryxawin ( $2,756 )
+Seat 9: moose0929 ( $1,250 )
+Seat 10: Grinder343 ( $2,409 )
+PapaShango19 posts small blind [$15]
+Andryxawin posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 2c ]
+moose0929 calls [$30]
+Grinder343 folds
+rocketssuck folds
+888pokermao folds
+Smelchak63 raises [$90]
+kasekas1004 folds
+Mr_Two_Putt folds
+PapaShango19 folds
+Andryxawin calls [$60]
+moose0929 calls [$60]
+** Dealing flop ** [ 8h, 6h, Ts ]
+Andryxawin checks
+moose0929 checks
+Smelchak63 bets [$150]
+Andryxawin calls [$150]
+moose0929 calls [$150]
+** Dealing turn ** [ 7h ]
+Andryxawin bets [$90]
+moose0929 folds
+Smelchak63 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $735 ]
+
+
+
+#Game No : 643774228
+***** 888poker Hand History for Game 643774228 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:12:16
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rocketssuck ( $1,180 )
+Seat 2: 888pokermao ( $420 )
+Seat 3: Smelchak63 ( $510 )
+Seat 4: kasekas1004 ( $960 )
+Seat 5: Mr_Two_Putt ( $1,045 )
+Seat 6: PapaShango19 ( $2,715 )
+Seat 7: Andryxawin ( $3,251 )
+Seat 9: moose0929 ( $1,010 )
+Seat 10: Grinder343 ( $2,409 )
+Andryxawin posts small blind [$15]
+moose0929 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 9s ]
+Grinder343 folds
+rocketssuck calls [$30]
+888pokermao raises [$420]
+Smelchak63 folds
+kasekas1004 folds
+Mr_Two_Putt calls [$420]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+rocketssuck raises [$1,150]
+Mr_Two_Putt calls [$625]
+** Dealing flop ** [ 5c, As, Td ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 4h ]
+** Summary **
+rocketssuck shows [ Ah, Qc ]
+888pokermao shows [ 6s, 4s ]
+Mr_Two_Putt shows [ Ac, Ks ]
+rocketssuck collected [ $1,305 ]
+rocketssuck collected [ $1,250 ]
+
+
+
+#Game No : 643774417
+***** 888poker Hand History for Game 643774417 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:13:01
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: rocketssuck ( $2,690 )
+Seat 3: Smelchak63 ( $510 )
+Seat 4: kasekas1004 ( $960 )
+Seat 6: PapaShango19 ( $2,715 )
+Seat 7: Andryxawin ( $3,236 )
+Seat 9: moose0929 ( $980 )
+Seat 10: Grinder343 ( $2,409 )
+moose0929 posts small blind [$15]
+Grinder343 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Jd ]
+rocketssuck folds
+Smelchak63 raises [$90]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 raises [$120]
+Smelchak63 calls [$60]
+** Dealing flop ** [ Js, 7s, 5d ]
+Grinder343 bets [$157]
+Smelchak63 raises [$360]
+Grinder343 calls [$203]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 3h ]
+** Summary **
+Smelchak63 shows [ 7h, 6h ]
+Grinder343 shows [ Ah, Ac ]
+Grinder343 collected [ $1,035 ]
+
+
+
+#Game No : 643774604
+***** 888poker Hand History for Game 643774604 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:13:46
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,690 )
+Seat 4: kasekas1004 ( $960 )
+Seat 6: PapaShango19 ( $2,715 )
+Seat 7: Andryxawin ( $3,236 )
+Seat 9: moose0929 ( $965 )
+Seat 10: Grinder343 ( $2,934 )
+Grinder343 posts small blind [$15]
+rocketssuck posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Qd ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin folds
+moose0929 calls [$30]
+Grinder343 calls [$15]
+rocketssuck checks
+** Dealing flop ** [ Ah, Ks, Td ]
+Grinder343 checks
+rocketssuck checks
+moose0929 bets [$67]
+Grinder343 calls [$67]
+rocketssuck folds
+** Dealing turn ** [ 8d ]
+Grinder343 checks
+moose0929 bets [$112]
+Grinder343 folds
+** Summary **
+moose0929 did not show his hand
+moose0929 collected [ $224 ]
+
+
+
+#Game No : 643774767
+***** 888poker Hand History for Game 643774767 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:14:32
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,660 )
+Seat 4: kasekas1004 ( $960 )
+Seat 6: PapaShango19 ( $2,715 )
+Seat 7: Andryxawin ( $3,236 )
+Seat 9: moose0929 ( $1,092 )
+Seat 10: Grinder343 ( $2,837 )
+rocketssuck posts small blind [$15]
+kasekas1004 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 2c ]
+PapaShango19 folds
+Andryxawin raises [$90]
+moose0929 calls [$90]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+** Dealing flop ** [ 8d, Th, 9c ]
+Andryxawin bets [$60]
+moose0929 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $225 ]
+
+
+
+#Game No : 643774885
+***** 888poker Hand History for Game 643774885 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:15:03
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,645 )
+Seat 4: kasekas1004 ( $930 )
+Seat 6: PapaShango19 ( $2,715 )
+Seat 7: Andryxawin ( $3,371 )
+Seat 9: moose0929 ( $1,002 )
+Seat 10: Grinder343 ( $2,837 )
+kasekas1004 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 4s ]
+Andryxawin calls [$30]
+moose0929 calls [$30]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 checks
+** Dealing flop ** [ Kh, 8s, 5c ]
+PapaShango19 checks
+Andryxawin bets [$30]
+moose0929 calls [$30]
+PapaShango19 folds
+** Dealing turn ** [ 2h ]
+Andryxawin bets [$30]
+moose0929 calls [$30]
+** Dealing river ** [ 9d ]
+Andryxawin checks
+moose0929 checks
+** Summary **
+Andryxawin shows [ Ad, 5s ]
+moose0929 mucks [ Ah, Js ]
+Andryxawin collected [ $225 ]
+
+
+
+#Game No : 643775010
+***** 888poker Hand History for Game 643775010 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:15:41
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,645 )
+Seat 4: kasekas1004 ( $915 )
+Seat 6: PapaShango19 ( $2,685 )
+Seat 7: Andryxawin ( $3,506 )
+Seat 9: moose0929 ( $912 )
+Seat 10: Grinder343 ( $2,837 )
+PapaShango19 posts small blind [$15]
+Andryxawin posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Qh ]
+moose0929 folds
+Grinder343 folds
+rocketssuck calls [$30]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$75]
+rocketssuck folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $75 ]
+
+
+
+#Game No : 643775114
+***** 888poker Hand History for Game 643775114 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:16:10
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,615 )
+Seat 4: kasekas1004 ( $915 )
+Seat 6: PapaShango19 ( $2,670 )
+Seat 7: Andryxawin ( $3,551 )
+Seat 9: moose0929 ( $912 )
+Seat 10: Grinder343 ( $2,837 )
+Andryxawin posts small blind [$15]
+moose0929 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 3c ]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$75]
+moose0929 calls [$60]
+** Dealing flop ** [ Jh, Tc, 3d ]
+Andryxawin checks
+moose0929 bets [$90]
+Andryxawin folds
+** Summary **
+moose0929 did not show his hand
+moose0929 collected [ $180 ]
+
+
+
+#Game No : 643775228
+***** 888poker Hand History for Game 643775228 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:16:38
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,615 )
+Seat 4: kasekas1004 ( $915 )
+Seat 6: PapaShango19 ( $2,670 )
+Seat 7: Andryxawin ( $3,461 )
+Seat 9: moose0929 ( $1,002 )
+Seat 10: Grinder343 ( $2,837 )
+moose0929 posts small blind [$15]
+Grinder343 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 6h ]
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$90]
+moose0929 folds
+Grinder343 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $75 ]
+
+
+
+#Game No : 643775276
+***** 888poker Hand History for Game 643775276 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:16:55
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,615 )
+Seat 4: kasekas1004 ( $915 )
+Seat 6: PapaShango19 ( $2,670 )
+Seat 7: Andryxawin ( $3,506 )
+Seat 9: moose0929 ( $987 )
+Seat 10: Grinder343 ( $2,807 )
+Grinder343 posts small blind [$15]
+rocketssuck posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, As ]
+kasekas1004 folds
+PapaShango19 raises [$60]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+rocketssuck calls [$30]
+** Dealing flop ** [ Qc, 3h, Qh ]
+rocketssuck checks
+PapaShango19 bets [$60]
+rocketssuck folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $135 ]
+
+
+
+#Game No : 643775406
+***** 888poker Hand History for Game 643775406 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:17:30
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,555 )
+Seat 4: kasekas1004 ( $915 )
+Seat 6: PapaShango19 ( $2,745 )
+Seat 7: Andryxawin ( $3,506 )
+Seat 9: moose0929 ( $987 )
+Seat 10: Grinder343 ( $2,792 )
+rocketssuck posts small blind [$15]
+kasekas1004 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 3c ]
+PapaShango19 folds
+Andryxawin calls [$30]
+moose0929 raises [$135]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+Andryxawin calls [$105]
+** Dealing flop ** [ 3s, 9h, Ks ]
+Andryxawin bets [$90]
+moose0929 calls [$90]
+** Dealing turn ** [ Td ]
+Andryxawin checks
+moose0929 checks
+** Dealing river ** [ Kd ]
+Andryxawin checks
+moose0929 bets [$247]
+Andryxawin folds
+** Summary **
+moose0929 did not show his hand
+moose0929 collected [ $495 ]
+
+
+
+#Game No : 643775643
+***** 888poker Hand History for Game 643775643 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:18:34
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,540 )
+Seat 4: kasekas1004 ( $885 )
+Seat 6: PapaShango19 ( $2,745 )
+Seat 7: Andryxawin ( $3,281 )
+Seat 9: moose0929 ( $1,257 )
+Seat 10: Grinder343 ( $2,792 )
+kasekas1004 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8s ]
+Andryxawin folds
+moose0929 calls [$50]
+Grinder343 calls [$50]
+rocketssuck calls [$50]
+kasekas1004 folds
+PapaShango19 checks
+** Dealing flop ** [ Tc, Jd, Qc ]
+PapaShango19 checks
+moose0929 checks
+Grinder343 checks
+rocketssuck checks
+** Dealing turn ** [ 5h ]
+PapaShango19 checks
+moose0929 checks
+Grinder343 checks
+rocketssuck checks
+** Dealing river ** [ Qh ]
+PapaShango19 checks
+moose0929 checks
+Grinder343 checks
+rocketssuck folds
+** Summary **
+PapaShango19 shows [ Jc, 8s ]
+moose0929 mucks [ 6c, Ac ]
+Grinder343 mucks [ 4c, 4d ]
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 643775873
+***** 888poker Hand History for Game 643775873 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:19:37
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,490 )
+Seat 4: kasekas1004 ( $860 )
+Seat 6: PapaShango19 ( $2,920 )
+Seat 7: Andryxawin ( $3,281 )
+Seat 9: moose0929 ( $1,207 )
+Seat 10: Grinder343 ( $2,742 )
+PapaShango19 posts small blind [$25]
+Andryxawin posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Ac ]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+kasekas1004 calls [$50]
+PapaShango19 calls [$25]
+Andryxawin raises [$100]
+kasekas1004 calls [$100]
+PapaShango19 folds
+** Dealing flop ** [ 4h, 5s, Ks ]
+Andryxawin bets [$175]
+kasekas1004 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $350 ]
+
+
+
+#Game No : 643776077
+***** 888poker Hand History for Game 643776077 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:20:26
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,490 )
+Seat 4: kasekas1004 ( $710 )
+Seat 6: PapaShango19 ( $2,870 )
+Seat 7: Andryxawin ( $3,481 )
+Seat 9: moose0929 ( $1,207 )
+Seat 10: Grinder343 ( $2,742 )
+Andryxawin posts small blind [$25]
+moose0929 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Ah ]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 raises [$150]
+Andryxawin folds
+moose0929 calls [$100]
+** Dealing flop ** [ 9s, 3d, 9d ]
+moose0929 checks
+PapaShango19 bets [$162]
+moose0929 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $325 ]
+
+
+
+#Game No : 643776172
+***** 888poker Hand History for Game 643776172 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:20:53
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,490 )
+Seat 4: kasekas1004 ( $710 )
+Seat 6: PapaShango19 ( $3,045 )
+Seat 7: Andryxawin ( $3,456 )
+Seat 9: moose0929 ( $1,057 )
+Seat 10: Grinder343 ( $2,742 )
+moose0929 posts small blind [$25]
+Grinder343 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 3d ]
+rocketssuck folds
+kasekas1004 raises [$250]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $125 ]
+
+
+
+#Game No : 643776245
+***** 888poker Hand History for Game 643776245 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:21:13
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,490 )
+Seat 4: kasekas1004 ( $785 )
+Seat 6: PapaShango19 ( $3,045 )
+Seat 7: Andryxawin ( $3,456 )
+Seat 9: moose0929 ( $1,032 )
+Seat 10: Grinder343 ( $2,692 )
+Grinder343 posts small blind [$25]
+rocketssuck posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 8h ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$150]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $125 ]
+
+
+
+#Game No : 643776366
+***** 888poker Hand History for Game 643776366 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:21:46
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,440 )
+Seat 4: kasekas1004 ( $785 )
+Seat 6: PapaShango19 ( $3,045 )
+Seat 7: Andryxawin ( $3,531 )
+Seat 9: moose0929 ( $1,032 )
+Seat 10: Grinder343 ( $2,667 )
+rocketssuck posts small blind [$25]
+kasekas1004 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4c ]
+PapaShango19 folds
+Andryxawin raises [$150]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $125 ]
+
+
+
+#Game No : 643776423
+***** 888poker Hand History for Game 643776423 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:22:01
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,415 )
+Seat 4: kasekas1004 ( $735 )
+Seat 6: PapaShango19 ( $3,045 )
+Seat 7: Andryxawin ( $3,606 )
+Seat 9: moose0929 ( $1,032 )
+Seat 10: Grinder343 ( $2,667 )
+kasekas1004 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Jh ]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+kasekas1004 raises [$250]
+PapaShango19 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $100 ]
+
+
+
+#Game No : 643776496
+***** 888poker Hand History for Game 643776496 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:22:23
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,415 )
+Seat 4: kasekas1004 ( $785 )
+Seat 6: PapaShango19 ( $2,995 )
+Seat 7: Andryxawin ( $3,606 )
+Seat 9: moose0929 ( $1,032 )
+Seat 10: Grinder343 ( $2,667 )
+PapaShango19 posts small blind [$25]
+Andryxawin posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 7c ]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $75 ]
+
+
+
+#Game No : 643776553
+***** 888poker Hand History for Game 643776553 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:22:37
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,415 )
+Seat 4: kasekas1004 ( $785 )
+Seat 6: PapaShango19 ( $2,970 )
+Seat 7: Andryxawin ( $3,631 )
+Seat 9: moose0929 ( $1,032 )
+Seat 10: Grinder343 ( $2,667 )
+Andryxawin posts small blind [$25]
+moose0929 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 4c ]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$125]
+moose0929 calls [$100]
+** Dealing flop ** [ Ad, Ac, 8s ]
+Andryxawin bets [$150]
+moose0929 calls [$150]
+** Dealing turn ** [ 4s ]
+Andryxawin bets [$300]
+moose0929 raises [$732]
+Andryxawin calls [$432]
+** Dealing river ** [ 3d ]
+** Summary **
+Andryxawin shows [ Tc, Th ]
+moose0929 shows [ Ah, Qc ]
+moose0929 collected [ $2,064 ]
+
+
+
+#Game No : 643776668
+***** 888poker Hand History for Game 643776668 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:23:14
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,415 )
+Seat 4: kasekas1004 ( $785 )
+Seat 6: PapaShango19 ( $2,970 )
+Seat 7: Andryxawin ( $2,599 )
+Seat 9: moose0929 ( $2,064 )
+Seat 10: Grinder343 ( $2,667 )
+moose0929 posts small blind [$25]
+Grinder343 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 5s ]
+rocketssuck calls [$50]
+kasekas1004 folds
+PapaShango19 calls [$50]
+Andryxawin folds
+moose0929 calls [$25]
+Grinder343 checks
+** Dealing flop ** [ 3h, 6c, 3s ]
+moose0929 checks
+Grinder343 bets [$100]
+rocketssuck calls [$100]
+PapaShango19 folds
+moose0929 folds
+** Dealing turn ** [ Qh ]
+Grinder343 checks
+rocketssuck bets [$50]
+Grinder343 folds
+** Summary **
+rocketssuck did not show his hand
+rocketssuck collected [ $400 ]
+
+
+
+#Game No : 643776865
+***** 888poker Hand History for Game 643776865 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:24:03
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,665 )
+Seat 4: kasekas1004 ( $785 )
+Seat 6: PapaShango19 ( $2,920 )
+Seat 7: Andryxawin ( $2,599 )
+Seat 9: moose0929 ( $2,014 )
+Seat 10: Grinder343 ( $2,517 )
+Grinder343 posts small blind [$25]
+rocketssuck posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 7c ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$150]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $125 ]
+
+
+
+#Game No : 643776970
+***** 888poker Hand History for Game 643776970 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:24:32
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,615 )
+Seat 4: kasekas1004 ( $785 )
+Seat 6: PapaShango19 ( $2,920 )
+Seat 7: Andryxawin ( $2,674 )
+Seat 9: moose0929 ( $2,014 )
+Seat 10: Grinder343 ( $2,492 )
+rocketssuck posts small blind [$25]
+kasekas1004 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Js ]
+PapaShango19 folds
+Andryxawin folds
+moose0929 raises [$175]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+** Summary **
+moose0929 did not show his hand
+moose0929 collected [ $125 ]
+
+
+
+#Game No : 643777125
+***** 888poker Hand History for Game 643777125 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:25:10
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,590 )
+Seat 4: kasekas1004 ( $735 )
+Seat 6: PapaShango19 ( $2,920 )
+Seat 7: Andryxawin ( $2,674 )
+Seat 9: moose0929 ( $2,089 )
+Seat 10: Grinder343 ( $2,492 )
+kasekas1004 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 9d ]
+Andryxawin calls [$50]
+moose0929 folds
+Grinder343 folds
+rocketssuck calls [$50]
+kasekas1004 folds
+PapaShango19 checks
+** Dealing flop ** [ 4d, 5h, 2h ]
+PapaShango19 checks
+Andryxawin checks
+rocketssuck bets [$87]
+PapaShango19 folds
+Andryxawin calls [$87]
+** Dealing turn ** [ 7h ]
+Andryxawin checks
+rocketssuck bets [$100]
+Andryxawin calls [$100]
+** Dealing river ** [ 2d ]
+Andryxawin checks
+rocketssuck checks
+** Summary **
+Andryxawin shows [ Tc, 8d ]
+rocketssuck shows [ Ah, 5c ]
+rocketssuck collected [ $549 ]
+
+
+
+#Game No : 643777303
+***** 888poker Hand History for Game 643777303 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:25:57
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,902 )
+Seat 4: kasekas1004 ( $710 )
+Seat 6: PapaShango19 ( $2,870 )
+Seat 7: Andryxawin ( $2,437 )
+Seat 9: moose0929 ( $2,089 )
+Seat 10: Grinder343 ( $2,492 )
+PapaShango19 posts small blind [$50]
+Andryxawin posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Th ]
+moose0929 folds
+Grinder343 raises [$200]
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin calls [$100]
+** Dealing flop ** [ 8c, 2h, Ah ]
+Andryxawin checks
+Grinder343 bets [$225]
+Andryxawin folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $450 ]
+
+
+
+#Game No : 643777415
+***** 888poker Hand History for Game 643777415 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:26:27
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,902 )
+Seat 4: kasekas1004 ( $710 )
+Seat 6: PapaShango19 ( $2,820 )
+Seat 7: Andryxawin ( $2,237 )
+Seat 9: moose0929 ( $2,089 )
+Seat 10: Grinder343 ( $2,742 )
+Andryxawin posts small blind [$50]
+moose0929 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 8d ]
+Grinder343 folds
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$250]
+moose0929 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $200 ]
+
+
+
+#Game No : 643777499
+***** 888poker Hand History for Game 643777499 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:26:46
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,902 )
+Seat 4: kasekas1004 ( $710 )
+Seat 6: PapaShango19 ( $2,820 )
+Seat 7: Andryxawin ( $2,337 )
+Seat 9: moose0929 ( $1,989 )
+Seat 10: Grinder343 ( $2,742 )
+moose0929 posts small blind [$50]
+Grinder343 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 7c ]
+rocketssuck folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin folds
+moose0929 calls [$50]
+Grinder343 checks
+** Dealing flop ** [ 3h, 9d, Ts ]
+moose0929 checks
+Grinder343 checks
+** Dealing turn ** [ Ks ]
+moose0929 checks
+Grinder343 checks
+** Dealing river ** [ Jc ]
+moose0929 checks
+Grinder343 checks
+** Summary **
+moose0929 shows [ 8d, Tc ]
+Grinder343 shows [ Jd, 5s ]
+Grinder343 collected [ $200 ]
+
+
+
+#Game No : 643777622
+***** 888poker Hand History for Game 643777622 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:27:22
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,902 )
+Seat 4: kasekas1004 ( $710 )
+Seat 6: PapaShango19 ( $2,820 )
+Seat 7: Andryxawin ( $2,337 )
+Seat 9: moose0929 ( $1,889 )
+Seat 10: Grinder343 ( $2,842 )
+Grinder343 posts small blind [$50]
+rocketssuck posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 3h ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$300]
+moose0929 folds
+Grinder343 folds
+rocketssuck folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $250 ]
+
+
+
+#Game No : 643777714
+***** 888poker Hand History for Game 643777714 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:27:42
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: rocketssuck ( $2,802 )
+Seat 4: kasekas1004 ( $710 )
+Seat 6: PapaShango19 ( $2,820 )
+Seat 7: Andryxawin ( $2,487 )
+Seat 9: moose0929 ( $1,889 )
+Seat 10: Grinder343 ( $2,792 )
+rocketssuck posts small blind [$50]
+kasekas1004 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 6h ]
+PapaShango19 raises [$200]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+rocketssuck calls [$150]
+kasekas1004 folds
+** Dealing flop ** [ Qc, 3s, 5d ]
+rocketssuck checks
+PapaShango19 bets [$250]
+rocketssuck calls [$250]
+** Dealing turn ** [ 4d ]
+rocketssuck checks
+PapaShango19 bets [$1,000]
+rocketssuck raises [$2,000]
+PapaShango19 raises [$1,370]
+rocketssuck calls [$352]
+** Dealing river ** [ 7c ]
+** Summary **
+rocketssuck shows [ 2s, As ]
+PapaShango19 shows [ 6c, 6h ]
+PapaShango19 collected [ $5,704 ]
+
+
+
+#Game No : 643777877
+***** 888poker Hand History for Game 643777877 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:28:29
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $610 )
+Seat 6: PapaShango19 ( $5,722 )
+Seat 7: Andryxawin ( $2,487 )
+Seat 9: moose0929 ( $1,889 )
+Seat 10: Grinder343 ( $2,792 )
+kasekas1004 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 4h ]
+Andryxawin raises [$200]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $250 ]
+
+
+
+#Game No : 643777950
+***** 888poker Hand History for Game 643777950 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:28:47
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $560 )
+Seat 6: PapaShango19 ( $5,622 )
+Seat 7: Andryxawin ( $2,637 )
+Seat 9: moose0929 ( $1,889 )
+Seat 10: Grinder343 ( $2,792 )
+PapaShango19 posts small blind [$50]
+Andryxawin posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 8d ]
+moose0929 folds
+Grinder343 raises [$200]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $250 ]
+
+
+
+#Game No : 643778033
+***** 888poker Hand History for Game 643778033 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:29:06
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $560 )
+Seat 6: PapaShango19 ( $5,572 )
+Seat 7: Andryxawin ( $2,537 )
+Seat 9: moose0929 ( $1,889 )
+Seat 10: Grinder343 ( $2,942 )
+Andryxawin posts small blind [$50]
+moose0929 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Jh ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 raises [$200]
+Andryxawin calls [$150]
+moose0929 calls [$100]
+** Dealing flop ** [ Qc, 6c, 3d ]
+Andryxawin checks
+moose0929 checks
+PapaShango19 bets [$450]
+Andryxawin folds
+moose0929 calls [$450]
+** Dealing turn ** [ 7h ]
+moose0929 checks
+PapaShango19 bets [$750]
+moose0929 calls [$750]
+** Dealing river ** [ Td ]
+moose0929 checks
+PapaShango19 checks
+** Summary **
+moose0929 shows [ 3c, Tc ]
+PapaShango19 mucks [ Qd, Jh ]
+moose0929 collected [ $3,000 ]
+
+
+
+#Game No : 643778194
+***** 888poker Hand History for Game 643778194 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:29:50
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $560 )
+Seat 6: PapaShango19 ( $4,172 )
+Seat 7: Andryxawin ( $2,337 )
+Seat 9: moose0929 ( $3,489 )
+Seat 10: Grinder343 ( $2,942 )
+moose0929 posts small blind [$50]
+Grinder343 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Kh ]
+kasekas1004 raises [$560]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 calls [$460]
+** Dealing flop ** [ 7d, 8c, Qs ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ Jd ]
+** Summary **
+kasekas1004 shows [ Jc, 6d ]
+Grinder343 shows [ 5h, Ad ]
+kasekas1004 collected [ $1,170 ]
+
+
+
+#Game No : 643778294
+***** 888poker Hand History for Game 643778294 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:30:21
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,170 )
+Seat 6: PapaShango19 ( $4,172 )
+Seat 7: Andryxawin ( $2,337 )
+Seat 9: moose0929 ( $3,439 )
+Seat 10: Grinder343 ( $2,382 )
+Grinder343 posts small blind [$50]
+kasekas1004 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6h ]
+PapaShango19 folds
+Andryxawin raises [$300]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $250 ]
+
+
+
+#Game No : 643778372
+***** 888poker Hand History for Game 643778372 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:30:44
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,070 )
+Seat 6: PapaShango19 ( $4,172 )
+Seat 7: Andryxawin ( $2,487 )
+Seat 9: moose0929 ( $3,439 )
+Seat 10: Grinder343 ( $2,332 )
+kasekas1004 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Td ]
+Andryxawin calls [$100]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 checks
+** Dealing flop ** [ 6h, Ad, Ah ]
+PapaShango19 checks
+Andryxawin checks
+** Dealing turn ** [ 5d ]
+PapaShango19 checks
+Andryxawin checks
+** Dealing river ** [ Ac ]
+PapaShango19 checks
+Andryxawin bets [$250]
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $250 ]
+
+
+
+#Game No : 643778486
+***** 888poker Hand History for Game 643778486 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:31:16
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,020 )
+Seat 6: PapaShango19 ( $4,072 )
+Seat 7: Andryxawin ( $2,637 )
+Seat 9: moose0929 ( $3,439 )
+Seat 10: Grinder343 ( $2,332 )
+PapaShango19 posts small blind [$50]
+Andryxawin posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 2h ]
+moose0929 folds
+Grinder343 folds
+kasekas1004 raises [$300]
+PapaShango19 folds
+Andryxawin folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $250 ]
+
+
+
+#Game No : 643778545
+***** 888poker Hand History for Game 643778545 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:31:33
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,170 )
+Seat 6: PapaShango19 ( $4,022 )
+Seat 7: Andryxawin ( $2,537 )
+Seat 9: moose0929 ( $3,439 )
+Seat 10: Grinder343 ( $2,332 )
+Andryxawin posts small blind [$50]
+moose0929 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Jc ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 raises [$200]
+Andryxawin folds
+moose0929 calls [$100]
+** Dealing flop ** [ Qs, Kc, Tc ]
+moose0929 checks
+PapaShango19 bets [$337]
+moose0929 calls [$337]
+** Dealing turn ** [ Qh ]
+moose0929 checks
+PapaShango19 bets [$562]
+moose0929 calls [$562]
+** Dealing river ** [ 4s ]
+moose0929 checks
+PapaShango19 checks
+** Summary **
+moose0929 shows [ Kh, Jd ]
+PapaShango19 shows [ Ks, Jc ]
+PapaShango19 collected [ $1,124 ]
+moose0929 collected [ $1,124 ]
+
+
+
+#Game No : 643778749
+***** 888poker Hand History for Game 643778749 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:32:35
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,170 )
+Seat 6: PapaShango19 ( $4,047 )
+Seat 7: Andryxawin ( $2,487 )
+Seat 9: moose0929 ( $3,464 )
+Seat 10: Grinder343 ( $2,332 )
+moose0929 posts small blind [$50]
+Grinder343 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 2c ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $150 ]
+
+
+
+#Game No : 643778792
+***** 888poker Hand History for Game 643778792 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:32:48
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,170 )
+Seat 6: PapaShango19 ( $4,047 )
+Seat 7: Andryxawin ( $2,487 )
+Seat 9: moose0929 ( $3,414 )
+Seat 10: Grinder343 ( $2,382 )
+Grinder343 posts small blind [$50]
+kasekas1004 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 9d ]
+PapaShango19 folds
+Andryxawin raises [$300]
+moose0929 folds
+Grinder343 folds
+kasekas1004 raises [$600]
+Andryxawin calls [$400]
+** Dealing flop ** [ 7s, Kc, 3h ]
+kasekas1004 bets [$470]
+Andryxawin calls [$470]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 9h ]
+** Summary **
+kasekas1004 shows [ 7c, Ah ]
+Andryxawin shows [ 3s, As ]
+kasekas1004 collected [ $2,390 ]
+
+
+
+#Game No : 643778940
+***** 888poker Hand History for Game 643778940 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:33:25
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,390 )
+Seat 6: PapaShango19 ( $4,047 )
+Seat 7: Andryxawin ( $1,317 )
+Seat 9: moose0929 ( $3,414 )
+Seat 10: Grinder343 ( $2,332 )
+kasekas1004 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 5d ]
+Andryxawin calls [$100]
+moose0929 calls [$100]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 checks
+** Dealing flop ** [ Kd, 3h, Ks ]
+PapaShango19 checks
+Andryxawin checks
+moose0929 checks
+** Dealing turn ** [ 9c ]
+PapaShango19 checks
+Andryxawin bets [$200]
+moose0929 folds
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $350 ]
+
+
+
+#Game No : 643779151
+***** 888poker Hand History for Game 643779151 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:34:25
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,947 )
+Seat 7: Andryxawin ( $1,567 )
+Seat 9: moose0929 ( $3,314 )
+Seat 10: Grinder343 ( $2,332 )
+PapaShango19 posts small blind [$75]
+Andryxawin posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Ts ]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $225 ]
+
+
+
+#Game No : 643779221
+***** 888poker Hand History for Game 643779221 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:34:41
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $1,642 )
+Seat 9: moose0929 ( $3,314 )
+Seat 10: Grinder343 ( $2,332 )
+Andryxawin posts small blind [$75]
+moose0929 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 6h ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$225]
+moose0929 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $300 ]
+
+
+
+#Game No : 643779281
+***** 888poker Hand History for Game 643779281 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:34:59
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $1,792 )
+Seat 9: moose0929 ( $3,164 )
+Seat 10: Grinder343 ( $2,332 )
+moose0929 posts small blind [$75]
+Grinder343 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 5h ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$1,792]
+moose0929 folds
+Grinder343 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $375 ]
+
+
+
+#Game No : 643779358
+***** 888poker Hand History for Game 643779358 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:35:16
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,017 )
+Seat 9: moose0929 ( $3,089 )
+Seat 10: Grinder343 ( $2,182 )
+Grinder343 posts small blind [$75]
+kasekas1004 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Qc ]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $225 ]
+
+
+
+#Game No : 643779413
+***** 888poker Hand History for Game 643779413 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:35:32
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,415 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,017 )
+Seat 9: moose0929 ( $3,089 )
+Seat 10: Grinder343 ( $2,107 )
+kasekas1004 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, As ]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 643779481
+***** 888poker Hand History for Game 643779481 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:35:51
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,947 )
+Seat 7: Andryxawin ( $2,017 )
+Seat 9: moose0929 ( $3,089 )
+Seat 10: Grinder343 ( $2,107 )
+PapaShango19 posts small blind [$75]
+Andryxawin posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 9d ]
+moose0929 calls [$150]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin checks
+** Dealing flop ** [ 7h, 2d, 7c ]
+Andryxawin bets [$300]
+moose0929 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $375 ]
+
+
+
+#Game No : 643779630
+***** 888poker Hand History for Game 643779630 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:36:28
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,242 )
+Seat 9: moose0929 ( $2,939 )
+Seat 10: Grinder343 ( $2,107 )
+Andryxawin posts small blind [$75]
+moose0929 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 4d ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin calls [$75]
+moose0929 checks
+** Dealing flop ** [ 2d, Qh, Ks ]
+Andryxawin bets [$150]
+moose0929 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $300 ]
+
+
+
+#Game No : 643779702
+***** 888poker Hand History for Game 643779702 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:36:48
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,392 )
+Seat 9: moose0929 ( $2,789 )
+Seat 10: Grinder343 ( $2,107 )
+moose0929 posts small blind [$75]
+Grinder343 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 9s ]
+kasekas1004 raises [$450]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $375 ]
+
+
+
+#Game No : 643779777
+***** 888poker Hand History for Game 643779777 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:37:08
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,565 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,392 )
+Seat 9: moose0929 ( $2,714 )
+Seat 10: Grinder343 ( $1,957 )
+Grinder343 posts small blind [$75]
+kasekas1004 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Qc ]
+PapaShango19 folds
+Andryxawin raises [$300]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $375 ]
+
+
+
+#Game No : 643779868
+***** 888poker Hand History for Game 643779868 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:37:32
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,415 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,617 )
+Seat 9: moose0929 ( $2,714 )
+Seat 10: Grinder343 ( $1,882 )
+kasekas1004 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 6s ]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 643779944
+***** 888poker Hand History for Game 643779944 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:37:48
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,947 )
+Seat 7: Andryxawin ( $2,617 )
+Seat 9: moose0929 ( $2,714 )
+Seat 10: Grinder343 ( $1,882 )
+PapaShango19 posts small blind [$75]
+Andryxawin posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6c ]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $225 ]
+
+
+
+#Game No : 643779993
+***** 888poker Hand History for Game 643779993 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:38:01
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,692 )
+Seat 9: moose0929 ( $2,714 )
+Seat 10: Grinder343 ( $1,882 )
+Andryxawin posts small blind [$75]
+moose0929 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Jh ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$375]
+moose0929 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $300 ]
+
+
+
+#Game No : 643780059
+***** 888poker Hand History for Game 643780059 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:38:17
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,842 )
+Seat 9: moose0929 ( $2,564 )
+Seat 10: Grinder343 ( $1,882 )
+moose0929 posts small blind [$75]
+Grinder343 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Kh ]
+kasekas1004 raises [$450]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $375 ]
+
+
+
+#Game No : 643780175
+***** 888poker Hand History for Game 643780175 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:38:45
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,565 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $2,842 )
+Seat 9: moose0929 ( $2,489 )
+Seat 10: Grinder343 ( $1,732 )
+Grinder343 posts small blind [$75]
+kasekas1004 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, Ah ]
+PapaShango19 raises [$300]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 643780321
+***** 888poker Hand History for Game 643780321 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:39:23
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,415 )
+Seat 6: PapaShango19 ( $4,097 )
+Seat 7: Andryxawin ( $2,842 )
+Seat 9: moose0929 ( $2,489 )
+Seat 10: Grinder343 ( $1,657 )
+kasekas1004 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 9s ]
+Andryxawin raises [$300]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $375 ]
+
+
+
+#Game No : 643780385
+***** 888poker Hand History for Game 643780385 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:39:40
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,947 )
+Seat 7: Andryxawin ( $3,067 )
+Seat 9: moose0929 ( $2,489 )
+Seat 10: Grinder343 ( $1,657 )
+PapaShango19 posts small blind [$75]
+Andryxawin posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2h ]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $225 ]
+
+
+
+#Game No : 643780466
+***** 888poker Hand History for Game 643780466 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:40:01
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,340 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $3,142 )
+Seat 9: moose0929 ( $2,489 )
+Seat 10: Grinder343 ( $1,657 )
+Andryxawin posts small blind [$75]
+moose0929 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Tc ]
+Grinder343 folds
+kasekas1004 raises [$600]
+PapaShango19 folds
+Andryxawin folds
+moose0929 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $375 ]
+
+
+
+#Game No : 643780527
+***** 888poker Hand History for Game 643780527 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:40:19
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,565 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $3,067 )
+Seat 9: moose0929 ( $2,339 )
+Seat 10: Grinder343 ( $1,657 )
+moose0929 posts small blind [$75]
+Grinder343 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Tc ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$450]
+moose0929 folds
+Grinder343 calls [$300]
+** Dealing flop ** [ 2s, Qd, 8c ]
+Grinder343 checks
+Andryxawin bets [$2,617]
+Grinder343 calls [$1,207]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ks ]
+** Summary **
+Andryxawin shows [ As, 3d ]
+Grinder343 shows [ Qs, Qc ]
+Grinder343 collected [ $3,389 ]
+
+
+
+#Game No : 643780674
+***** 888poker Hand History for Game 643780674 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:40:55
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,565 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $1,410 )
+Seat 9: moose0929 ( $2,264 )
+Seat 10: Grinder343 ( $3,389 )
+Grinder343 posts small blind [$75]
+kasekas1004 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 8c ]
+PapaShango19 folds
+Andryxawin calls [$150]
+moose0929 folds
+Grinder343 folds
+kasekas1004 checks
+** Dealing flop ** [ 9s, 5s, Td ]
+kasekas1004 bets [$450]
+Andryxawin calls [$450]
+** Dealing turn ** [ Ac ]
+kasekas1004 bets [$600]
+Andryxawin folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $1,275 ]
+
+
+
+#Game No : 643780862
+***** 888poker Hand History for Game 643780862 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:41:44
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $3,240 )
+Seat 6: PapaShango19 ( $3,872 )
+Seat 7: Andryxawin ( $810 )
+Seat 9: moose0929 ( $2,264 )
+Seat 10: Grinder343 ( $3,314 )
+kasekas1004 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 8h ]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+kasekas1004 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ Jh, 3h, Kh ]
+kasekas1004 checks
+PapaShango19 bets [$300]
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 643780989
+***** 888poker Hand History for Game 643780989 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:42:13
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $3,090 )
+Seat 6: PapaShango19 ( $4,022 )
+Seat 7: Andryxawin ( $810 )
+Seat 9: moose0929 ( $2,264 )
+Seat 10: Grinder343 ( $3,314 )
+PapaShango19 posts small blind [$100]
+Andryxawin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 2c ]
+moose0929 folds
+Grinder343 raises [$400]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $500 ]
+
+
+
+#Game No : 643781082
+***** 888poker Hand History for Game 643781082 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:42:33
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $3,090 )
+Seat 6: PapaShango19 ( $3,922 )
+Seat 7: Andryxawin ( $610 )
+Seat 9: moose0929 ( $2,264 )
+Seat 10: Grinder343 ( $3,614 )
+Andryxawin posts small blind [$100]
+moose0929 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 7s ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin calls [$100]
+moose0929 checks
+** Dealing flop ** [ Qs, Kh, 8s ]
+Andryxawin checks
+moose0929 checks
+** Dealing turn ** [ Ac ]
+Andryxawin checks
+moose0929 checks
+** Dealing river ** [ 4c ]
+Andryxawin checks
+moose0929 checks
+** Summary **
+Andryxawin shows [ Th, 5h ]
+moose0929 shows [ 8h, 9d ]
+moose0929 collected [ $400 ]
+
+
+
+#Game No : 643781224
+***** 888poker Hand History for Game 643781224 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:43:05
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $3,090 )
+Seat 6: PapaShango19 ( $3,922 )
+Seat 7: Andryxawin ( $410 )
+Seat 9: moose0929 ( $2,464 )
+Seat 10: Grinder343 ( $3,614 )
+moose0929 posts small blind [$100]
+Grinder343 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Qc ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$410]
+moose0929 folds
+Grinder343 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $500 ]
+
+
+
+#Game No : 643781291
+***** 888poker Hand History for Game 643781291 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:43:24
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $3,090 )
+Seat 6: PapaShango19 ( $3,922 )
+Seat 7: Andryxawin ( $710 )
+Seat 9: moose0929 ( $2,364 )
+Seat 10: Grinder343 ( $3,414 )
+Grinder343 posts small blind [$100]
+kasekas1004 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 6c ]
+PapaShango19 folds
+Andryxawin raises [$710]
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+Andryxawin did not show his hand
+Andryxawin collected [ $500 ]
+
+
+
+#Game No : 643781361
+***** 888poker Hand History for Game 643781361 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:43:39
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,890 )
+Seat 6: PapaShango19 ( $3,922 )
+Seat 7: Andryxawin ( $1,010 )
+Seat 9: moose0929 ( $2,364 )
+Seat 10: Grinder343 ( $3,314 )
+kasekas1004 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 9d ]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 643781455
+***** 888poker Hand History for Game 643781455 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:43:59
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,790 )
+Seat 6: PapaShango19 ( $4,022 )
+Seat 7: Andryxawin ( $1,010 )
+Seat 9: moose0929 ( $2,364 )
+Seat 10: Grinder343 ( $3,314 )
+PapaShango19 posts small blind [$100]
+Andryxawin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Ks ]
+moose0929 folds
+Grinder343 raises [$400]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin calls [$200]
+** Dealing flop ** [ Ah, 4d, 7s ]
+Andryxawin checks
+Grinder343 checks
+** Dealing turn ** [ Qh ]
+Andryxawin checks
+Grinder343 bets [$450]
+Andryxawin folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $900 ]
+
+
+
+#Game No : 643781640
+***** 888poker Hand History for Game 643781640 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:44:41
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,790 )
+Seat 6: PapaShango19 ( $3,922 )
+Seat 7: Andryxawin ( $610 )
+Seat 9: moose0929 ( $2,364 )
+Seat 10: Grinder343 ( $3,814 )
+Andryxawin posts small blind [$100]
+moose0929 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Kc ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 raises [$400]
+Andryxawin folds
+moose0929 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 643781718
+***** 888poker Hand History for Game 643781718 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:44:58
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,790 )
+Seat 6: PapaShango19 ( $4,222 )
+Seat 7: Andryxawin ( $510 )
+Seat 9: moose0929 ( $2,164 )
+Seat 10: Grinder343 ( $3,814 )
+moose0929 posts small blind [$100]
+Grinder343 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 2c ]
+kasekas1004 raises [$600]
+PapaShango19 folds
+Andryxawin calls [$510]
+moose0929 folds
+Grinder343 folds
+** Dealing flop ** [ Ad, Js, 2h ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 7s ]
+** Summary **
+kasekas1004 shows [ 5d, 5s ]
+Andryxawin shows [ Qh, Ac ]
+Andryxawin collected [ $1,320 ]
+
+
+
+#Game No : 643781879
+***** 888poker Hand History for Game 643781879 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:45:29
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,280 )
+Seat 6: PapaShango19 ( $4,222 )
+Seat 7: Andryxawin ( $1,320 )
+Seat 9: moose0929 ( $2,064 )
+Seat 10: Grinder343 ( $3,614 )
+Grinder343 posts small blind [$100]
+kasekas1004 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Kh ]
+PapaShango19 raises [$600]
+Andryxawin folds
+moose0929 folds
+Grinder343 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $500 ]
+
+
+
+#Game No : 643782005
+***** 888poker Hand History for Game 643782005 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:45:53
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $2,080 )
+Seat 6: PapaShango19 ( $4,522 )
+Seat 7: Andryxawin ( $1,320 )
+Seat 9: moose0929 ( $2,064 )
+Seat 10: Grinder343 ( $3,514 )
+kasekas1004 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 9d ]
+Andryxawin folds
+moose0929 folds
+Grinder343 raises [$400]
+kasekas1004 folds
+PapaShango19 calls [$200]
+** Dealing flop ** [ Js, 3d, Qc ]
+PapaShango19 checks
+Grinder343 bets [$450]
+PapaShango19 folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $900 ]
+
+
+
+#Game No : 643782190
+***** 888poker Hand History for Game 643782190 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:46:31
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,980 )
+Seat 6: PapaShango19 ( $4,122 )
+Seat 7: Andryxawin ( $1,320 )
+Seat 9: moose0929 ( $2,064 )
+Seat 10: Grinder343 ( $4,014 )
+PapaShango19 posts small blind [$100]
+Andryxawin posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, As ]
+moose0929 folds
+Grinder343 raises [$400]
+kasekas1004 folds
+PapaShango19 raises [$4,022]
+Andryxawin calls [$1,120]
+Grinder343 folds
+** Dealing flop ** [ 2h, 3s, Tc ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 7h ]
+** Summary **
+PapaShango19 shows [ Js, As ]
+Andryxawin shows [ 9d, 9h ]
+Andryxawin collected [ $3,040 ]
+
+
+
+#Game No : 643782488
+***** 888poker Hand History for Game 643782488 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:47:31
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,980 )
+Seat 6: PapaShango19 ( $2,802 )
+Seat 7: Andryxawin ( $3,040 )
+Seat 9: moose0929 ( $2,064 )
+Seat 10: Grinder343 ( $3,614 )
+Andryxawin posts small blind [$100]
+moose0929 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, As ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 raises [$2,802]
+Andryxawin raises [$2,940]
+moose0929 folds
+** Dealing flop ** [ Ad, 9c, 2s ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ Kc ]
+** Summary **
+PapaShango19 shows [ Th, As ]
+Andryxawin shows [ 8s, 8h ]
+PapaShango19 collected [ $5,804 ]
+
+
+
+#Game No : 643782663
+***** 888poker Hand History for Game 643782663 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:48:04
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 4: kasekas1004 ( $1,980 )
+Seat 6: PapaShango19 ( $5,804 )
+Seat 7: Andryxawin ( $238 )
+Seat 9: moose0929 ( $1,864 )
+Seat 10: Grinder343 ( $3,614 )
+moose0929 posts small blind [$100]
+Grinder343 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 2s ]
+kasekas1004 folds
+PapaShango19 folds
+Andryxawin raises [$238]
+moose0929 calls [$138]
+Grinder343 raises [$3,414]
+moose0929 folds
+** Dealing flop ** [ 8h, 3c, Ts ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 8s ]
+** Summary **
+Andryxawin shows [ 2d, 5d ]
+Grinder343 shows [ 7c, 7s ]
+Grinder343 collected [ $714 ]
+
+
+
+#Game No : 643782868
+***** 888poker Hand History for Game 643782868 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:48:42
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $1,980 )
+Seat 6: PapaShango19 ( $5,804 )
+Seat 9: moose0929 ( $1,626 )
+Seat 10: Grinder343 ( $4,090 )
+Grinder343 posts small blind [$100]
+kasekas1004 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 7s ]
+PapaShango19 folds
+moose0929 folds
+Grinder343 raises [$3,990]
+kasekas1004 folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $400 ]
+
+
+
+#Game No : 643782986
+***** 888poker Hand History for Game 643782986 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:49:05
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $1,780 )
+Seat 6: PapaShango19 ( $5,804 )
+Seat 9: moose0929 ( $1,626 )
+Seat 10: Grinder343 ( $4,290 )
+kasekas1004 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2s ]
+moose0929 folds
+Grinder343 raises [$400]
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $500 ]
+
+
+
+#Game No : 643783109
+***** 888poker Hand History for Game 643783109 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:49:24
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $1,680 )
+Seat 6: PapaShango19 ( $5,604 )
+Seat 9: moose0929 ( $1,626 )
+Seat 10: Grinder343 ( $4,590 )
+PapaShango19 posts small blind [$100]
+moose0929 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Qh ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+moose0929 did not show his hand
+moose0929 collected [ $300 ]
+
+
+
+#Game No : 643783281
+***** 888poker Hand History for Game 643783281 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:50:00
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $1,680 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $1,726 )
+Seat 10: Grinder343 ( $4,590 )
+moose0929 posts small blind [$150]
+Grinder343 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2s ]
+kasekas1004 raises [$900]
+PapaShango19 folds
+moose0929 folds
+Grinder343 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $750 ]
+
+
+
+#Game No : 643783384
+***** 888poker Hand History for Game 643783384 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:50:21
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $2,130 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $1,576 )
+Seat 10: Grinder343 ( $4,290 )
+Grinder343 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6c ]
+PapaShango19 folds
+moose0929 folds
+Grinder343 raises [$4,140]
+kasekas1004 folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $600 ]
+
+
+
+#Game No : 643783454
+***** 888poker Hand History for Game 643783454 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:50:36
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $1,830 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $1,576 )
+Seat 10: Grinder343 ( $4,590 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 7h ]
+moose0929 raises [$1,576]
+Grinder343 raises [$4,590]
+kasekas1004 folds
+PapaShango19 folds
+** Dealing flop ** [ Tc, 6c, 5s ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 8h ]
+** Summary **
+moose0929 shows [ Th, As ]
+Grinder343 shows [ Ah, Qc ]
+moose0929 collected [ $3,602 ]
+
+
+
+#Game No : 643783581
+***** 888poker Hand History for Game 643783581 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:51:03
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $1,680 )
+Seat 6: PapaShango19 ( $5,204 )
+Seat 9: moose0929 ( $3,602 )
+Seat 10: Grinder343 ( $3,014 )
+PapaShango19 posts small blind [$150]
+moose0929 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 5c ]
+Grinder343 folds
+kasekas1004 folds
+PapaShango19 raises [$450]
+moose0929 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 643783645
+***** 888poker Hand History for Game 643783645 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:51:17
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $1,680 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $3,302 )
+Seat 10: Grinder343 ( $3,014 )
+moose0929 posts small blind [$150]
+Grinder343 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Qs ]
+kasekas1004 raises [$900]
+PapaShango19 folds
+moose0929 folds
+Grinder343 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $750 ]
+
+
+
+#Game No : 643783745
+***** 888poker Hand History for Game 643783745 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:51:36
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $2,130 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $3,152 )
+Seat 10: Grinder343 ( $2,714 )
+Grinder343 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Jc ]
+PapaShango19 folds
+moose0929 folds
+Grinder343 raises [$2,564]
+kasekas1004 calls [$1,830]
+** Dealing flop ** [ 8d, 2d, 9s ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 3h ]
+** Summary **
+kasekas1004 shows [ 7s, 7d ]
+Grinder343 shows [ Kc, Tc ]
+kasekas1004 collected [ $4,260 ]
+
+
+
+#Game No : 643783874
+***** 888poker Hand History for Game 643783874 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:52:04
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 4: kasekas1004 ( $4,260 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $3,152 )
+Seat 10: Grinder343 ( $584 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Qc ]
+moose0929 calls [$300]
+Grinder343 raises [$584]
+kasekas1004 folds
+PapaShango19 folds
+moose0929 calls [$284]
+** Dealing flop ** [ 7s, 2h, 6s ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ 8s ]
+** Summary **
+moose0929 shows [ 9h, 9s ]
+Grinder343 shows [ Ks, Jc ]
+moose0929 collected [ $1,618 ]
+
+
+
+#Game No : 643784019
+***** 888poker Hand History for Game 643784019 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:52:33
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,110 )
+Seat 6: PapaShango19 ( $5,204 )
+Seat 9: moose0929 ( $4,186 )
+PapaShango19 posts small blind [$150]
+moose0929 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 6c ]
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+moose0929 did not show his hand
+moose0929 collected [ $450 ]
+
+
+
+#Game No : 643784111
+***** 888poker Hand History for Game 643784111 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:52:46
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,110 )
+Seat 6: PapaShango19 ( $5,054 )
+Seat 9: moose0929 ( $4,336 )
+moose0929 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 9s ]
+PapaShango19 folds
+moose0929 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $450 ]
+
+
+
+#Game No : 643784150
+***** 888poker Hand History for Game 643784150 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:52:55
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,260 )
+Seat 6: PapaShango19 ( $5,054 )
+Seat 9: moose0929 ( $4,186 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4c ]
+moose0929 folds
+kasekas1004 raises [$750]
+PapaShango19 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $600 ]
+
+
+
+#Game No : 643784234
+***** 888poker Hand History for Game 643784234 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:53:10
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,560 )
+Seat 6: PapaShango19 ( $4,754 )
+Seat 9: moose0929 ( $4,186 )
+PapaShango19 posts small blind [$150]
+moose0929 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 4d ]
+kasekas1004 folds
+PapaShango19 folds
+** Summary **
+moose0929 did not show his hand
+moose0929 collected [ $450 ]
+
+
+
+#Game No : 643784285
+***** 888poker Hand History for Game 643784285 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:53:19
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,560 )
+Seat 6: PapaShango19 ( $4,604 )
+Seat 9: moose0929 ( $4,336 )
+moose0929 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ac ]
+PapaShango19 raises [$4,604]
+moose0929 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $750 ]
+
+
+
+#Game No : 643784362
+***** 888poker Hand History for Game 643784362 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:53:35
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,260 )
+Seat 6: PapaShango19 ( $5,054 )
+Seat 9: moose0929 ( $4,186 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Jd ]
+moose0929 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 643784421
+***** 888poker Hand History for Game 643784421 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:53:45
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,110 )
+Seat 6: PapaShango19 ( $5,204 )
+Seat 9: moose0929 ( $4,186 )
+PapaShango19 posts small blind [$150]
+moose0929 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 4c ]
+kasekas1004 folds
+PapaShango19 raises [$450]
+moose0929 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 643784533
+***** 888poker Hand History for Game 643784533 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:54:05
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $4,110 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $3,886 )
+moose0929 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 6h ]
+PapaShango19 folds
+moose0929 calls [$150]
+kasekas1004 checks
+** Dealing flop ** [ 3d, Td, 6c ]
+moose0929 checks
+kasekas1004 bets [$600]
+moose0929 calls [$600]
+** Dealing turn ** [ 9c ]
+moose0929 checks
+kasekas1004 bets [$1,200]
+moose0929 calls [$1,200]
+** Dealing river ** [ Qc ]
+moose0929 checks
+kasekas1004 checks
+** Summary **
+moose0929 shows [ Ts, Kh ]
+kasekas1004 shows [ Th, 3s ]
+kasekas1004 collected [ $4,200 ]
+
+
+
+#Game No : 643784758
+***** 888poker Hand History for Game 643784758 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:54:42
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $6,210 )
+Seat 6: PapaShango19 ( $5,504 )
+Seat 9: moose0929 ( $1,786 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Kd ]
+moose0929 folds
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 643784809
+***** 888poker Hand History for Game 643784809 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:54:51
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: kasekas1004 ( $6,060 )
+Seat 6: PapaShango19 ( $5,654 )
+Seat 9: moose0929 ( $1,786 )
+PapaShango19 posts small blind [$150]
+moose0929 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Th ]
+kasekas1004 folds
+PapaShango19 raises [$450]
+moose0929 calls [$300]
+** Dealing flop ** [ 4h, 8h, 3c ]
+PapaShango19 bets [$600]
+moose0929 raises [$1,186]
+PapaShango19 calls [$586]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 5c ]
+** Summary **
+PapaShango19 shows [ Td, Th ]
+moose0929 shows [ Qs, Ah ]
+PapaShango19 collected [ $3,572 ]
+
+
+
+#Game No : 643784951
+***** 888poker Hand History for Game 643784951 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:55:21
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,060 )
+Seat 6: PapaShango19 ( $7,440 )
+PapaShango19 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 9c ]
+PapaShango19 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $450 ]
+
+
+
+#Game No : 643784988
+***** 888poker Hand History for Game 643784988 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:55:29
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,210 )
+Seat 6: PapaShango19 ( $7,290 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Ah ]
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 643785024
+***** 888poker Hand History for Game 643785024 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:55:37
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,060 )
+Seat 6: PapaShango19 ( $7,440 )
+PapaShango19 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Jh ]
+PapaShango19 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $450 ]
+
+
+
+#Game No : 643785085
+***** 888poker Hand History for Game 643785085 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:55:49
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,210 )
+Seat 6: PapaShango19 ( $7,290 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 4d ]
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 643785116
+***** 888poker Hand History for Game 643785116 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:55:57
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,060 )
+Seat 6: PapaShango19 ( $7,440 )
+PapaShango19 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 5d ]
+PapaShango19 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $450 ]
+
+
+
+#Game No : 643785151
+***** 888poker Hand History for Game 643785151 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:56:07
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,210 )
+Seat 6: PapaShango19 ( $7,290 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 7h ]
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 643785181
+***** 888poker Hand History for Game 643785181 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:56:14
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,060 )
+Seat 6: PapaShango19 ( $7,440 )
+PapaShango19 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 5h ]
+PapaShango19 raises [$450]
+kasekas1004 raises [$1,800]
+PapaShango19 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $1,200 ]
+
+
+
+#Game No : 643785252
+***** 888poker Hand History for Game 643785252 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:56:32
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,660 )
+Seat 6: PapaShango19 ( $6,840 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Ad ]
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 643785288
+***** 888poker Hand History for Game 643785288 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:56:39
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,510 )
+Seat 6: PapaShango19 ( $6,990 )
+PapaShango19 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Js ]
+PapaShango19 folds
+** Summary **
+kasekas1004 did not show his hand
+kasekas1004 collected [ $450 ]
+
+
+
+#Game No : 643785320
+***** 888poker Hand History for Game 643785320 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:56:46
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,660 )
+Seat 6: PapaShango19 ( $6,840 )
+kasekas1004 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5d ]
+kasekas1004 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 643785346
+***** 888poker Hand History for Game 643785346 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:56:53
+Tournament #63840038 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kasekas1004 ( $6,510 )
+Seat 6: PapaShango19 ( $6,990 )
+PapaShango19 posts small blind [$150]
+kasekas1004 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, As ]
+PapaShango19 raises [$450]
+kasekas1004 raises [$2,100]
+PapaShango19 raises [$6,390]
+kasekas1004 calls [$4,110]
+** Dealing flop ** [ Ac, 7c, 7s ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 8h ]
+** Summary **
+kasekas1004 shows [ 6c, 6d ]
+PapaShango19 shows [ Qh, As ]
+PapaShango19 collected [ $13,020 ]
+
+
+

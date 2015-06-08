@@ -1,0 +1,2851 @@
+#Game No : 696565271
+***** 888poker Hand History for Game 696565271 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:53:05
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $1,500 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: 888pokermao ( $1,500 )
+Seat 4: Grinder343 ( $1,500 )
+Seat 5: krrraken ( $1,500 )
+Seat 6: sonynhalima ( $1,500 )
+Seat 7: 7jaka7 ( $1,500 )
+Seat 9: alex_795 ( $1,500 )
+Seat 10: kajedu01 ( $1,500 )
+Grinder343 posts small blind [$10]
+krrraken posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 3d ]
+sonynhalima folds
+7jaka7 calls [$20]
+alex_795 raises [$67]
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+888pokermao folds
+Grinder343 folds
+krrraken folds
+7jaka7 calls [$47]
+** Dealing flop ** [ Ts, 2s, 7c ]
+7jaka7 checks
+alex_795 bets [$82]
+7jaka7 folds
+** Summary **
+alex_795 did not show his hand
+alex_795 collected [ $164 ]
+
+
+
+#Game No : 696565480
+***** 888poker Hand History for Game 696565480 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:53:55
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $1,500 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: 888pokermao ( $1,500 )
+Seat 4: Grinder343 ( $1,490 )
+Seat 5: krrraken ( $1,480 )
+Seat 6: sonynhalima ( $1,500 )
+Seat 7: 7jaka7 ( $1,433 )
+Seat 9: alex_795 ( $1,597 )
+Seat 10: kajedu01 ( $1,500 )
+krrraken posts small blind [$10]
+sonynhalima posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Js ]
+7jaka7 calls [$20]
+alex_795 calls [$20]
+kajedu01 raises [$95]
+spuckinger folds
+PapaShango19 folds
+888pokermao folds
+Grinder343 folds
+krrraken folds
+sonynhalima folds
+7jaka7 folds
+alex_795 calls [$75]
+** Dealing flop ** [ 3d, 4s, 5d ]
+alex_795 checks
+kajedu01 bets [$110]
+alex_795 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $240 ]
+
+
+
+#Game No : 696565758
+***** 888poker Hand History for Game 696565758 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:54:59
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $1,500 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: 888pokermao ( $1,500 )
+Seat 4: Grinder343 ( $1,490 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,480 )
+Seat 7: 7jaka7 ( $1,413 )
+Seat 9: alex_795 ( $1,502 )
+Seat 10: kajedu01 ( $1,645 )
+sonynhalima posts small blind [$10]
+7jaka7 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 6h ]
+alex_795 folds
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+888pokermao raises [$40]
+Grinder343 calls [$40]
+krrraken folds
+sonynhalima folds
+7jaka7 folds
+** Dealing flop ** [ 8h, Qs, Ad ]
+888pokermao checks
+Grinder343 checks
+** Dealing turn ** [ 3d ]
+888pokermao bets [$55]
+Grinder343 calls [$55]
+** Dealing river ** [ 3h ]
+888pokermao checks
+Grinder343 bets [$110]
+888pokermao calls [$110]
+** Summary **
+Grinder343 shows [ 6d, 6c ]
+888pokermao shows [ Js, Qh ]
+888pokermao collected [ $440 ]
+
+
+
+#Game No : 696565992
+***** 888poker Hand History for Game 696565992 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:56:06
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $1,500 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: 888pokermao ( $1,735 )
+Seat 4: Grinder343 ( $1,285 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,470 )
+Seat 7: 7jaka7 ( $1,393 )
+Seat 9: alex_795 ( $1,502 )
+Seat 10: kajedu01 ( $1,645 )
+7jaka7 posts small blind [$10]
+alex_795 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Ks ]
+kajedu01 raises [$55]
+spuckinger folds
+PapaShango19 calls [$55]
+888pokermao folds
+Grinder343 folds
+krrraken folds
+sonynhalima calls [$55]
+7jaka7 raises [$80]
+alex_795 folds
+kajedu01 calls [$35]
+PapaShango19 calls [$35]
+sonynhalima calls [$35]
+** Dealing flop ** [ 5c, 9d, 4d ]
+7jaka7 bets [$220]
+kajedu01 folds
+PapaShango19 folds
+sonynhalima folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $380 ]
+
+
+
+#Game No : 696566212
+***** 888poker Hand History for Game 696566212 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:56:58
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $1,500 )
+Seat 2: PapaShango19 ( $1,410 )
+Seat 3: 888pokermao ( $1,735 )
+Seat 4: Grinder343 ( $1,285 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,380 )
+Seat 7: 7jaka7 ( $1,683 )
+Seat 9: alex_795 ( $1,482 )
+Seat 10: kajedu01 ( $1,555 )
+alex_795 posts small blind [$10]
+kajedu01 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3d ]
+spuckinger folds
+PapaShango19 folds
+888pokermao folds
+Grinder343 folds
+krrraken folds
+sonynhalima folds
+7jaka7 folds
+alex_795 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $30 ]
+
+
+
+#Game No : 696566296
+***** 888poker Hand History for Game 696566296 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:57:22
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $1,500 )
+Seat 2: PapaShango19 ( $1,410 )
+Seat 3: 888pokermao ( $1,735 )
+Seat 4: Grinder343 ( $1,285 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,380 )
+Seat 7: 7jaka7 ( $1,683 )
+Seat 9: alex_795 ( $1,472 )
+Seat 10: kajedu01 ( $1,565 )
+kajedu01 posts small blind [$10]
+spuckinger posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 3h ]
+PapaShango19 folds
+888pokermao folds
+Grinder343 folds
+krrraken folds
+sonynhalima raises [$52]
+7jaka7 calls [$52]
+alex_795 raises [$418]
+kajedu01 folds
+spuckinger folds
+sonynhalima folds
+7jaka7 folds
+** Summary **
+alex_795 did not show his hand
+alex_795 collected [ $186 ]
+
+
+
+#Game No : 696566520
+***** 888poker Hand History for Game 696566520 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:58:26
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $1,480 )
+Seat 2: PapaShango19 ( $1,410 )
+Seat 3: 888pokermao ( $1,735 )
+Seat 4: Grinder343 ( $1,285 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,328 )
+Seat 7: 7jaka7 ( $1,631 )
+Seat 9: alex_795 ( $1,606 )
+Seat 10: kajedu01 ( $1,555 )
+spuckinger posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 4s ]
+888pokermao folds
+Grinder343 folds
+krrraken folds
+sonynhalima calls [$20]
+7jaka7 calls [$20]
+alex_795 raises [$40]
+kajedu01 calls [$40]
+spuckinger calls [$30]
+PapaShango19 folds
+sonynhalima calls [$20]
+7jaka7 calls [$20]
+** Dealing flop ** [ Ah, Qs, Qh ]
+spuckinger bets [$20]
+sonynhalima raises [$140]
+7jaka7 folds
+alex_795 raises [$1,566]
+kajedu01 folds
+spuckinger calls [$1,420]
+sonynhalima calls [$1,148]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Qc ]
+** Summary **
+spuckinger shows [ Th, Kh ]
+sonynhalima shows [ As, 6h ]
+alex_795 shows [ Kc, 5c ]
+sonynhalima collected [ $4,084 ]
+spuckinger collected [ $304 ]
+
+
+
+#Game No : 696566794
+***** 888poker Hand History for Game 696566794 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:59:45
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: spuckinger ( $304 )
+Seat 2: PapaShango19 ( $1,390 )
+Seat 3: 888pokermao ( $1,735 )
+Seat 4: Grinder343 ( $1,285 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $4,084 )
+Seat 7: 7jaka7 ( $1,591 )
+Seat 9: alex_795 ( $126 )
+Seat 10: kajedu01 ( $1,515 )
+PapaShango19 posts small blind [$10]
+888pokermao posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Th ]
+Grinder343 folds
+krrraken folds
+sonynhalima folds
+7jaka7 calls [$20]
+alex_795 raises [$40]
+kajedu01 folds
+spuckinger raises [$304]
+PapaShango19 folds
+888pokermao folds
+7jaka7 calls [$284]
+alex_795 calls [$86]
+** Dealing flop ** [ 6d, 3s, Qd ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 4c ]
+** Summary **
+spuckinger shows [ Kh, Qh ]
+7jaka7 shows [ Kd, 2d ]
+alex_795 shows [ Js, Ac ]
+spuckinger collected [ $408 ]
+spuckinger collected [ $356 ]
+
+
+
+#Game No : 696567032
+***** 888poker Hand History for Game 696567032 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 18:00:45
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $764 )
+Seat 2: PapaShango19 ( $1,380 )
+Seat 3: 888pokermao ( $1,715 )
+Seat 4: Grinder343 ( $1,285 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $4,084 )
+Seat 7: 7jaka7 ( $1,287 )
+Seat 10: kajedu01 ( $1,515 )
+888pokermao posts small blind [$10]
+Grinder343 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 7d ]
+krrraken folds
+sonynhalima calls [$20]
+7jaka7 calls [$20]
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+888pokermao calls [$10]
+Grinder343 checks
+** Dealing flop ** [ 9s, 4h, Qh ]
+888pokermao checks
+Grinder343 checks
+sonynhalima bets [$60]
+7jaka7 calls [$60]
+888pokermao folds
+Grinder343 folds
+** Dealing turn ** [ 3d ]
+sonynhalima bets [$100]
+7jaka7 calls [$100]
+** Dealing river ** [ Ad ]
+sonynhalima bets [$400]
+7jaka7 calls [$400]
+** Summary **
+sonynhalima shows [ 7s, 8h ]
+7jaka7 shows [ 2s, Ah ]
+7jaka7 collected [ $1,200 ]
+
+
+
+#Game No : 696567331
+***** 888poker Hand History for Game 696567331 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:01:51
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $764 )
+Seat 2: PapaShango19 ( $1,380 )
+Seat 3: 888pokermao ( $1,695 )
+Seat 4: Grinder343 ( $1,265 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $3,504 )
+Seat 7: 7jaka7 ( $1,907 )
+Seat 10: kajedu01 ( $1,515 )
+Grinder343 posts small blind [$15]
+krrraken posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 5c ]
+sonynhalima folds
+7jaka7 calls [$30]
+kajedu01 raises [$75]
+spuckinger folds
+PapaShango19 folds
+888pokermao folds
+Grinder343 folds
+krrraken folds
+7jaka7 calls [$45]
+** Dealing flop ** [ 8c, 4s, 2d ]
+7jaka7 bets [$30]
+kajedu01 calls [$30]
+** Dealing turn ** [ 3c ]
+7jaka7 bets [$60]
+kajedu01 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $255 ]
+
+
+
+#Game No : 696567614
+***** 888poker Hand History for Game 696567614 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:02:50
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $764 )
+Seat 2: PapaShango19 ( $1,380 )
+Seat 3: 888pokermao ( $1,695 )
+Seat 4: Grinder343 ( $1,250 )
+Seat 5: krrraken ( $1,440 )
+Seat 6: sonynhalima ( $3,504 )
+Seat 7: 7jaka7 ( $2,057 )
+Seat 10: kajedu01 ( $1,410 )
+krrraken posts small blind [$15]
+sonynhalima posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Td ]
+7jaka7 calls [$30]
+kajedu01 raises [$75]
+spuckinger folds
+PapaShango19 folds
+888pokermao raises [$225]
+Grinder343 folds
+krrraken folds
+sonynhalima folds
+7jaka7 folds
+kajedu01 raises [$1,335]
+888pokermao calls [$1,185]
+** Dealing flop ** [ 9h, Ac, 8h ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 7d ]
+** Summary **
+888pokermao shows [ Kh, Kc ]
+kajedu01 shows [ Th, Tc ]
+kajedu01 collected [ $2,895 ]
+
+
+
+#Game No : 696567910
+***** 888poker Hand History for Game 696567910 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:03:51
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $764 )
+Seat 2: PapaShango19 ( $1,380 )
+Seat 3: 888pokermao ( $285 )
+Seat 4: Grinder343 ( $1,250 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: sonynhalima ( $3,474 )
+Seat 7: 7jaka7 ( $2,027 )
+Seat 10: kajedu01 ( $2,895 )
+sonynhalima posts small blind [$15]
+7jaka7 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 2c ]
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+888pokermao folds
+Grinder343 folds
+krrraken folds
+sonynhalima calls [$15]
+7jaka7 checks
+** Dealing flop ** [ Qd, 3s, Kd ]
+sonynhalima checks
+7jaka7 bets [$30]
+sonynhalima folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $60 ]
+
+
+
+#Game No : 696568063
+***** 888poker Hand History for Game 696568063 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:04:18
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $764 )
+Seat 2: PapaShango19 ( $1,380 )
+Seat 3: 888pokermao ( $285 )
+Seat 4: Grinder343 ( $1,250 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: sonynhalima ( $3,444 )
+Seat 7: 7jaka7 ( $2,057 )
+Seat 10: kajedu01 ( $2,895 )
+7jaka7 posts small blind [$15]
+kajedu01 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 5c ]
+spuckinger calls [$30]
+PapaShango19 folds
+888pokermao calls [$30]
+Grinder343 folds
+krrraken folds
+sonynhalima raises [$82]
+7jaka7 calls [$67]
+kajedu01 folds
+spuckinger calls [$52]
+888pokermao raises [$255]
+sonynhalima calls [$203]
+7jaka7 calls [$203]
+spuckinger folds
+** Dealing flop ** [ 5h, Js, Kc ]
+7jaka7 bets [$330]
+sonynhalima calls [$330]
+** Dealing turn ** [ 8h ]
+7jaka7 bets [$30]
+sonynhalima raises [$858]
+7jaka7 raises [$1,412]
+sonynhalima calls [$584]
+** Dealing river ** [ 9d ]
+** Summary **
+888pokermao shows [ Ts, Qs ]
+sonynhalima shows [ Jc, Ad ]
+7jaka7 shows [ Ks, 6s ]
+888pokermao collected [ $967 ]
+7jaka7 collected [ $3,544 ]
+
+
+
+#Game No : 696568502
+***** 888poker Hand History for Game 696568502 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:05:44
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $682 )
+Seat 2: PapaShango19 ( $1,380 )
+Seat 3: 888pokermao ( $967 )
+Seat 4: Grinder343 ( $1,250 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: sonynhalima ( $1,387 )
+Seat 7: 7jaka7 ( $3,544 )
+Seat 10: kajedu01 ( $2,865 )
+kajedu01 posts small blind [$15]
+spuckinger posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 2h ]
+PapaShango19 folds
+888pokermao folds
+Grinder343 calls [$30]
+krrraken folds
+sonynhalima folds
+7jaka7 raises [$60]
+kajedu01 calls [$45]
+spuckinger calls [$30]
+Grinder343 calls [$30]
+** Dealing flop ** [ 7c, 9h, 7d ]
+kajedu01 checks
+spuckinger bets [$60]
+Grinder343 calls [$60]
+7jaka7 folds
+kajedu01 folds
+** Dealing turn ** [ 4s ]
+spuckinger bets [$90]
+Grinder343 calls [$90]
+** Dealing river ** [ 2d ]
+spuckinger bets [$472]
+Grinder343 calls [$472]
+** Summary **
+spuckinger shows [ Ac, 9c ]
+Grinder343 shows [ 5s, 5h ]
+spuckinger collected [ $1,484 ]
+
+
+
+#Game No : 696568892
+***** 888poker Hand History for Game 696568892 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:07:02
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $1,484 )
+Seat 2: PapaShango19 ( $1,380 )
+Seat 3: 888pokermao ( $967 )
+Seat 4: Grinder343 ( $568 )
+Seat 5: krrraken ( $1,425 )
+Seat 6: sonynhalima ( $1,387 )
+Seat 7: 7jaka7 ( $3,484 )
+Seat 10: kajedu01 ( $2,805 )
+spuckinger posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 9d ]
+888pokermao folds
+Grinder343 folds
+krrraken raises [$60]
+sonynhalima folds
+7jaka7 folds
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $75 ]
+
+
+
+#Game No : 696569100
+***** 888poker Hand History for Game 696569100 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:07:43
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $1,469 )
+Seat 2: PapaShango19 ( $1,350 )
+Seat 3: 888pokermao ( $967 )
+Seat 4: Grinder343 ( $568 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,387 )
+Seat 7: 7jaka7 ( $3,484 )
+Seat 10: kajedu01 ( $2,805 )
+PapaShango19 posts small blind [$15]
+888pokermao posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 9c ]
+Grinder343 calls [$30]
+krrraken folds
+sonynhalima calls [$30]
+7jaka7 calls [$30]
+kajedu01 folds
+spuckinger calls [$30]
+PapaShango19 calls [$15]
+888pokermao checks
+** Dealing flop ** [ 2s, 7s, 3h ]
+PapaShango19 checks
+888pokermao checks
+Grinder343 bets [$538]
+sonynhalima folds
+7jaka7 folds
+spuckinger folds
+PapaShango19 folds
+888pokermao folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $180 ]
+
+
+
+#Game No : 696569399
+***** 888poker Hand History for Game 696569399 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 18:08:40
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $1,439 )
+Seat 2: PapaShango19 ( $1,320 )
+Seat 3: 888pokermao ( $937 )
+Seat 4: Grinder343 ( $718 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,357 )
+Seat 7: 7jaka7 ( $3,454 )
+Seat 10: kajedu01 ( $2,805 )
+888pokermao posts small blind [$15]
+Grinder343 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2c ]
+krrraken folds
+sonynhalima raises [$78]
+7jaka7 calls [$78]
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+888pokermao folds
+Grinder343 calls [$48]
+** Dealing flop ** [ Qc, 4d, 3s ]
+Grinder343 checks
+sonynhalima bets [$249]
+7jaka7 folds
+Grinder343 folds
+** Summary **
+sonynhalima did not show his hand
+sonynhalima collected [ $249 ]
+
+
+
+#Game No : 696569754
+***** 888poker Hand History for Game 696569754 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:09:52
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: spuckinger ( $1,439 )
+Seat 2: PapaShango19 ( $1,320 )
+Seat 3: 888pokermao ( $922 )
+Seat 4: Grinder343 ( $640 )
+Seat 5: krrraken ( $1,470 )
+Seat 6: sonynhalima ( $1,528 )
+Seat 7: 7jaka7 ( $3,376 )
+Seat 10: kajedu01 ( $2,805 )
+Grinder343 posts small blind [$25]
+krrraken posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 6s ]
+sonynhalima folds
+7jaka7 calls [$50]
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+888pokermao raises [$922]
+Grinder343 folds
+krrraken folds
+7jaka7 calls [$872]
+** Dealing flop ** [ Jd, Kc, 3s ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 4h ]
+** Summary **
+888pokermao shows [ Ad, 8c ]
+7jaka7 shows [ Ac, 9s ]
+7jaka7 collected [ $1,919 ]
+
+
+
+#Game No : 696569936
+***** 888poker Hand History for Game 696569936 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:10:28
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: spuckinger ( $1,439 )
+Seat 2: PapaShango19 ( $1,320 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,420 )
+Seat 6: sonynhalima ( $1,528 )
+Seat 7: 7jaka7 ( $4,373 )
+Seat 10: kajedu01 ( $2,805 )
+krrraken posts small blind [$25]
+sonynhalima posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Kc ]
+7jaka7 folds
+kajedu01 folds
+spuckinger raises [$100]
+PapaShango19 raises [$300]
+Grinder343 folds
+krrraken folds
+sonynhalima folds
+spuckinger calls [$200]
+** Dealing flop ** [ 3h, 2c, 2d ]
+spuckinger bets [$1,139]
+PapaShango19 calls [$1,020]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 6h ]
+** Summary **
+spuckinger shows [ 8h, 8d ]
+PapaShango19 shows [ Kh, Kc ]
+PapaShango19 collected [ $2,715 ]
+
+
+
+#Game No : 696570165
+***** 888poker Hand History for Game 696570165 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:11:13
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: spuckinger ( $119 )
+Seat 2: PapaShango19 ( $2,715 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,395 )
+Seat 6: sonynhalima ( $1,478 )
+Seat 7: 7jaka7 ( $4,373 )
+Seat 10: kajedu01 ( $2,805 )
+sonynhalima posts small blind [$25]
+7jaka7 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 8c ]
+kajedu01 raises [$110]
+spuckinger raises [$119]
+PapaShango19 calls [$119]
+Grinder343 folds
+krrraken folds
+sonynhalima raises [$1,453]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Dealing flop ** [ 6c, 3s, Ts ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 5c ]
+** Summary **
+spuckinger shows [ 9c, Tc ]
+sonynhalima shows [ Jd, Ac ]
+spuckinger collected [ $517 ]
+
+
+
+#Game No : 696570438
+***** 888poker Hand History for Game 696570438 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:12:08
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: spuckinger ( $517 )
+Seat 2: PapaShango19 ( $2,596 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,395 )
+Seat 6: sonynhalima ( $1,359 )
+Seat 7: 7jaka7 ( $4,323 )
+Seat 10: kajedu01 ( $2,695 )
+7jaka7 posts small blind [$25]
+kajedu01 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 6d ]
+spuckinger calls [$50]
+PapaShango19 folds
+Grinder343 folds
+krrraken folds
+sonynhalima raises [$168]
+7jaka7 calls [$143]
+kajedu01 folds
+spuckinger calls [$118]
+** Dealing flop ** [ 2h, Jd, Kd ]
+7jaka7 checks
+spuckinger bets [$50]
+sonynhalima raises [$352]
+7jaka7 folds
+spuckinger calls [$299]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 4d ]
+** Summary **
+spuckinger shows [ 7d, 8d ]
+sonynhalima shows [ Qs, 9h ]
+spuckinger collected [ $1,252 ]
+
+
+
+#Game No : 696570804
+***** 888poker Hand History for Game 696570804 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:13:18
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: spuckinger ( $1,252 )
+Seat 2: PapaShango19 ( $2,596 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,395 )
+Seat 6: sonynhalima ( $842 )
+Seat 7: 7jaka7 ( $4,155 )
+Seat 10: kajedu01 ( $2,645 )
+kajedu01 posts small blind [$25]
+spuckinger posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 6c ]
+PapaShango19 folds
+Grinder343 folds
+krrraken folds
+sonynhalima raises [$842]
+7jaka7 calls [$842]
+kajedu01 folds
+spuckinger folds
+** Dealing flop ** [ 2c, 9d, 3h ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 5c ]
+** Summary **
+sonynhalima shows [ Qs, 7s ]
+7jaka7 shows [ As, Ah ]
+7jaka7 collected [ $1,759 ]
+
+
+
+#Game No : 696570947
+***** 888poker Hand History for Game 696570947 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:13:52
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,202 )
+Seat 2: PapaShango19 ( $2,596 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,395 )
+Seat 7: 7jaka7 ( $5,072 )
+Seat 10: kajedu01 ( $2,620 )
+spuckinger posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 4d ]
+Grinder343 folds
+krrraken folds
+7jaka7 calls [$50]
+kajedu01 folds
+spuckinger folds
+PapaShango19 checks
+** Dealing flop ** [ 7s, Jd, Th ]
+PapaShango19 checks
+7jaka7 bets [$50]
+PapaShango19 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $125 ]
+
+
+
+#Game No : 696571168
+***** 888poker Hand History for Game 696571168 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:14:39
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,177 )
+Seat 2: PapaShango19 ( $2,546 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,395 )
+Seat 7: 7jaka7 ( $5,147 )
+Seat 10: kajedu01 ( $2,620 )
+PapaShango19 posts small blind [$25]
+Grinder343 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ad ]
+krrraken folds
+7jaka7 calls [$50]
+kajedu01 raises [$120]
+spuckinger folds
+PapaShango19 folds
+Grinder343 folds
+7jaka7 calls [$70]
+** Dealing flop ** [ 6c, 7c, 3d ]
+7jaka7 bets [$50]
+kajedu01 raises [$250]
+7jaka7 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $415 ]
+
+
+
+#Game No : 696571353
+***** 888poker Hand History for Game 696571353 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:15:20
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,177 )
+Seat 2: PapaShango19 ( $2,521 )
+Seat 4: Grinder343 ( $565 )
+Seat 5: krrraken ( $1,395 )
+Seat 7: 7jaka7 ( $4,977 )
+Seat 10: kajedu01 ( $2,865 )
+Grinder343 posts small blind [$25]
+krrraken posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Qs ]
+7jaka7 folds
+kajedu01 raises [$120]
+spuckinger folds
+PapaShango19 folds
+Grinder343 folds
+krrraken folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $125 ]
+
+
+
+#Game No : 696571436
+***** 888poker Hand History for Game 696571436 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:15:39
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,177 )
+Seat 2: PapaShango19 ( $2,521 )
+Seat 4: Grinder343 ( $540 )
+Seat 5: krrraken ( $1,345 )
+Seat 7: 7jaka7 ( $4,977 )
+Seat 10: kajedu01 ( $2,940 )
+krrraken posts small blind [$25]
+7jaka7 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7c ]
+kajedu01 folds
+spuckinger calls [$50]
+PapaShango19 folds
+Grinder343 folds
+krrraken folds
+7jaka7 checks
+** Dealing flop ** [ 6d, 6s, 2c ]
+7jaka7 bets [$50]
+spuckinger calls [$50]
+** Dealing turn ** [ Kd ]
+7jaka7 bets [$100]
+spuckinger calls [$100]
+** Dealing river ** [ Js ]
+7jaka7 checks
+spuckinger bets [$977]
+7jaka7 folds
+** Summary **
+spuckinger did not show his hand
+spuckinger collected [ $425 ]
+
+
+
+#Game No : 696571671
+***** 888poker Hand History for Game 696571671 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 18:16:30
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,402 )
+Seat 2: PapaShango19 ( $2,521 )
+Seat 4: Grinder343 ( $540 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $4,777 )
+Seat 10: kajedu01 ( $2,940 )
+7jaka7 posts small blind [$25]
+kajedu01 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 5d ]
+spuckinger folds
+PapaShango19 folds
+Grinder343 raises [$100]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+** Summary **
+Grinder343 did not show his hand
+Grinder343 collected [ $125 ]
+
+
+
+#Game No : 696571827
+***** 888poker Hand History for Game 696571827 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:17:00
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,402 )
+Seat 2: PapaShango19 ( $2,521 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $4,752 )
+Seat 10: kajedu01 ( $2,890 )
+kajedu01 posts small blind [$50]
+spuckinger posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Qs ]
+PapaShango19 folds
+Grinder343 folds
+krrraken folds
+7jaka7 calls [$100]
+kajedu01 folds
+spuckinger checks
+** Dealing flop ** [ Kc, 2c, 2d ]
+spuckinger checks
+7jaka7 bets [$250]
+spuckinger folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $250 ]
+
+
+
+#Game No : 696571948
+***** 888poker Hand History for Game 696571948 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:17:31
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,302 )
+Seat 2: PapaShango19 ( $2,521 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $4,902 )
+Seat 10: kajedu01 ( $2,840 )
+spuckinger posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Qh ]
+Grinder343 folds
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+spuckinger folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $150 ]
+
+
+
+#Game No : 696572094
+***** 888poker Hand History for Game 696572094 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:18:02
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: spuckinger ( $1,252 )
+Seat 2: PapaShango19 ( $2,571 )
+Seat 4: Grinder343 ( $615 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $4,902 )
+Seat 10: kajedu01 ( $2,840 )
+PapaShango19 posts small blind [$50]
+Grinder343 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6h ]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+spuckinger folds
+PapaShango19 raises [$150]
+Grinder343 raises [$515]
+PapaShango19 calls [$415]
+** Dealing flop ** [ Ac, 9h, 4c ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 4s ]
+** Summary **
+PapaShango19 shows [ As, 6h ]
+Grinder343 shows [ Kd, 3d ]
+PapaShango19 collected [ $1,230 ]
+
+
+
+#Game No : 696572310
+***** 888poker Hand History for Game 696572310 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:18:48
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,252 )
+Seat 2: PapaShango19 ( $3,186 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $4,902 )
+Seat 10: kajedu01 ( $2,840 )
+krrraken posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Jc ]
+7jaka7 folds
+kajedu01 folds
+spuckinger folds
+PapaShango19 raises [$200]
+krrraken folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $200 ]
+
+
+
+#Game No : 696572403
+***** 888poker Hand History for Game 696572403 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:19:08
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,252 )
+Seat 2: PapaShango19 ( $3,286 )
+Seat 5: krrraken ( $1,220 )
+Seat 7: 7jaka7 ( $4,902 )
+Seat 10: kajedu01 ( $2,840 )
+krrraken posts small blind [$50]
+7jaka7 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 5d ]
+kajedu01 raises [$210]
+spuckinger folds
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$110]
+** Dealing flop ** [ 3h, 5h, 2d ]
+7jaka7 bets [$100]
+kajedu01 calls [$100]
+** Dealing turn ** [ 6c ]
+7jaka7 bets [$335]
+kajedu01 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $670 ]
+
+
+
+#Game No : 696572578
+***** 888poker Hand History for Game 696572578 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:19:46
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,252 )
+Seat 2: PapaShango19 ( $3,286 )
+Seat 5: krrraken ( $1,170 )
+Seat 7: 7jaka7 ( $5,262 )
+Seat 10: kajedu01 ( $2,530 )
+7jaka7 posts small blind [$50]
+kajedu01 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Jh ]
+spuckinger folds
+PapaShango19 folds
+krrraken raises [$1,170]
+7jaka7 folds
+kajedu01 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $250 ]
+
+
+
+#Game No : 696572720
+***** 888poker Hand History for Game 696572720 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:20:12
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,252 )
+Seat 2: PapaShango19 ( $3,286 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $5,212 )
+Seat 10: kajedu01 ( $2,430 )
+kajedu01 posts small blind [$50]
+spuckinger posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 7d ]
+PapaShango19 raises [$200]
+krrraken folds
+7jaka7 calls [$200]
+kajedu01 folds
+spuckinger calls [$100]
+** Dealing flop ** [ 4c, Qd, 9h ]
+spuckinger checks
+PapaShango19 bets [$200]
+7jaka7 folds
+spuckinger calls [$200]
+** Dealing turn ** [ 8s ]
+spuckinger checks
+PapaShango19 checks
+** Dealing river ** [ 5c ]
+spuckinger checks
+PapaShango19 checks
+** Summary **
+spuckinger shows [ 4s, 3s ]
+PapaShango19 shows [ 7s, 7d ]
+PapaShango19 collected [ $1,050 ]
+
+
+
+#Game No : 696572952
+***** 888poker Hand History for Game 696572952 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:20:57
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $852 )
+Seat 2: PapaShango19 ( $3,936 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $5,012 )
+Seat 10: kajedu01 ( $2,380 )
+spuckinger posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 6s ]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+spuckinger raises [$150]
+PapaShango19 folds
+** Summary **
+spuckinger did not show his hand
+spuckinger collected [ $200 ]
+
+
+
+#Game No : 696573095
+***** 888poker Hand History for Game 696573095 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:21:24
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $952 )
+Seat 2: PapaShango19 ( $3,836 )
+Seat 5: krrraken ( $1,320 )
+Seat 7: 7jaka7 ( $5,012 )
+Seat 10: kajedu01 ( $2,380 )
+PapaShango19 posts small blind [$50]
+krrraken posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Kd ]
+7jaka7 folds
+kajedu01 raises [$210]
+spuckinger folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $250 ]
+
+
+
+#Game No : 696573260
+***** 888poker Hand History for Game 696573260 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:21:48
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $952 )
+Seat 2: PapaShango19 ( $3,786 )
+Seat 5: krrraken ( $1,220 )
+Seat 7: 7jaka7 ( $5,012 )
+Seat 10: kajedu01 ( $2,530 )
+krrraken posts small blind [$50]
+7jaka7 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ac ]
+kajedu01 raises [$210]
+spuckinger folds
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$110]
+** Dealing flop ** [ 2c, Kd, 9s ]
+7jaka7 bets [$100]
+kajedu01 calls [$100]
+** Dealing turn ** [ Jc ]
+7jaka7 bets [$300]
+kajedu01 calls [$300]
+** Dealing river ** [ Th ]
+7jaka7 bets [$100]
+kajedu01 calls [$100]
+** Summary **
+7jaka7 shows [ 7d, 7s ]
+kajedu01 shows [ Jd, Ks ]
+kajedu01 collected [ $1,470 ]
+
+
+
+#Game No : 696573615
+***** 888poker Hand History for Game 696573615 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:22:49
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $952 )
+Seat 2: PapaShango19 ( $3,786 )
+Seat 5: krrraken ( $1,170 )
+Seat 7: 7jaka7 ( $4,302 )
+Seat 10: kajedu01 ( $3,290 )
+7jaka7 posts small blind [$50]
+kajedu01 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Ad ]
+spuckinger calls [$100]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$50]
+kajedu01 checks
+** Dealing flop ** [ 7s, Ks, 5d ]
+7jaka7 checks
+kajedu01 checks
+spuckinger bets [$100]
+7jaka7 folds
+kajedu01 calls [$100]
+** Dealing turn ** [ Kd ]
+kajedu01 checks
+spuckinger bets [$100]
+kajedu01 calls [$100]
+** Dealing river ** [ 7d ]
+kajedu01 checks
+spuckinger checks
+** Summary **
+kajedu01 shows [ 4c, 6h ]
+spuckinger shows [ As, 2s ]
+spuckinger collected [ $700 ]
+
+
+
+#Game No : 696573821
+***** 888poker Hand History for Game 696573821 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:23:29
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,352 )
+Seat 2: PapaShango19 ( $3,786 )
+Seat 5: krrraken ( $1,170 )
+Seat 7: 7jaka7 ( $4,202 )
+Seat 10: kajedu01 ( $2,990 )
+kajedu01 posts small blind [$50]
+spuckinger posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 8c ]
+PapaShango19 raises [$200]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+spuckinger calls [$100]
+** Dealing flop ** [ Kc, Kh, 2c ]
+spuckinger checks
+PapaShango19 bets [$200]
+spuckinger folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 696573965
+***** 888poker Hand History for Game 696573965 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:23:56
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,152 )
+Seat 2: PapaShango19 ( $4,036 )
+Seat 5: krrraken ( $1,170 )
+Seat 7: 7jaka7 ( $4,202 )
+Seat 10: kajedu01 ( $2,940 )
+spuckinger posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 8s ]
+krrraken folds
+7jaka7 folds
+kajedu01 raises [$210]
+spuckinger folds
+PapaShango19 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $250 ]
+
+
+
+#Game No : 696574073
+***** 888poker Hand History for Game 696574073 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:24:19
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,102 )
+Seat 2: PapaShango19 ( $3,936 )
+Seat 5: krrraken ( $1,170 )
+Seat 7: 7jaka7 ( $4,202 )
+Seat 10: kajedu01 ( $3,090 )
+PapaShango19 posts small blind [$50]
+krrraken posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 8s ]
+7jaka7 folds
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $150 ]
+
+
+
+#Game No : 696574172
+***** 888poker Hand History for Game 696574172 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:24:41
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,102 )
+Seat 2: PapaShango19 ( $3,886 )
+Seat 5: krrraken ( $1,220 )
+Seat 7: 7jaka7 ( $4,202 )
+Seat 10: kajedu01 ( $3,090 )
+krrraken posts small blind [$50]
+7jaka7 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 5d ]
+kajedu01 folds
+spuckinger folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $150 ]
+
+
+
+#Game No : 696574266
+***** 888poker Hand History for Game 696574266 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 18:24:59
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: spuckinger ( $1,102 )
+Seat 2: PapaShango19 ( $3,886 )
+Seat 5: krrraken ( $1,170 )
+Seat 7: 7jaka7 ( $4,252 )
+Seat 10: kajedu01 ( $3,090 )
+7jaka7 posts small blind [$50]
+kajedu01 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7c ]
+spuckinger calls [$100]
+PapaShango19 folds
+krrraken raises [$1,170]
+7jaka7 folds
+kajedu01 folds
+spuckinger calls [$1,002]
+** Dealing flop ** [ 2h, 2c, Ah ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ Ac ]
+** Summary **
+spuckinger shows [ Kc, Jh ]
+krrraken shows [ 9s, 9c ]
+krrraken collected [ $2,354 ]
+
+
+
+#Game No : 696574432
+***** 888poker Hand History for Game 696574432 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:25:34
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,886 )
+Seat 5: krrraken ( $2,422 )
+Seat 7: 7jaka7 ( $4,202 )
+Seat 10: kajedu01 ( $2,990 )
+kajedu01 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 3c ]
+krrraken folds
+7jaka7 raises [$4,202]
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $375 ]
+
+
+
+#Game No : 696574587
+***** 888poker Hand History for Game 696574587 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:26:01
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,736 )
+Seat 5: krrraken ( $2,422 )
+Seat 7: 7jaka7 ( $4,427 )
+Seat 10: kajedu01 ( $2,915 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2h ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $225 ]
+
+
+
+#Game No : 696574660
+***** 888poker Hand History for Game 696574660 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:26:19
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,661 )
+Seat 5: krrraken ( $2,497 )
+Seat 7: 7jaka7 ( $4,427 )
+Seat 10: kajedu01 ( $2,915 )
+krrraken posts small blind [$75]
+7jaka7 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 9d ]
+kajedu01 raises [$320]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$170]
+** Dealing flop ** [ 8s, 2d, 4c ]
+7jaka7 checks
+kajedu01 bets [$350]
+7jaka7 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $715 ]
+
+
+
+#Game No : 696574869
+***** 888poker Hand History for Game 696574869 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:26:58
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,661 )
+Seat 5: krrraken ( $2,422 )
+Seat 7: 7jaka7 ( $4,107 )
+Seat 10: kajedu01 ( $3,310 )
+7jaka7 posts small blind [$75]
+kajedu01 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Td ]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$75]
+kajedu01 checks
+** Dealing flop ** [ 2d, Qs, 6h ]
+7jaka7 checks
+kajedu01 checks
+** Dealing turn ** [ 9d ]
+7jaka7 bets [$150]
+kajedu01 calls [$150]
+** Dealing river ** [ Ad ]
+7jaka7 bets [$150]
+kajedu01 raises [$380]
+7jaka7 calls [$230]
+** Summary **
+kajedu01 shows [ 9c, Ah ]
+7jaka7 mucks [ 9h, Qd ]
+kajedu01 collected [ $1,360 ]
+
+
+
+#Game No : 696575061
+***** 888poker Hand History for Game 696575061 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:27:32
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,661 )
+Seat 5: krrraken ( $2,422 )
+Seat 7: 7jaka7 ( $3,427 )
+Seat 10: kajedu01 ( $3,990 )
+kajedu01 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ks ]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 696575132
+***** 888poker Hand History for Game 696575132 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:27:47
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,736 )
+Seat 5: krrraken ( $2,422 )
+Seat 7: 7jaka7 ( $3,427 )
+Seat 10: kajedu01 ( $3,915 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 7h ]
+7jaka7 raises [$525]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $375 ]
+
+
+
+#Game No : 696575239
+***** 888poker Hand History for Game 696575239 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:28:09
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,661 )
+Seat 5: krrraken ( $2,272 )
+Seat 7: 7jaka7 ( $3,652 )
+Seat 10: kajedu01 ( $3,915 )
+krrraken posts small blind [$75]
+7jaka7 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5h ]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $225 ]
+
+
+
+#Game No : 696575425
+***** 888poker Hand History for Game 696575425 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:28:48
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,661 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,727 )
+Seat 10: kajedu01 ( $3,915 )
+7jaka7 posts small blind [$75]
+kajedu01 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 5d ]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$75]
+kajedu01 checks
+** Dealing flop ** [ 8d, Ac, Kd ]
+7jaka7 bets [$1,800]
+kajedu01 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $300 ]
+
+
+
+#Game No : 696575549
+***** 888poker Hand History for Game 696575549 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:29:10
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,661 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,877 )
+Seat 10: kajedu01 ( $3,765 )
+kajedu01 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Ad ]
+krrraken folds
+7jaka7 folds
+kajedu01 calls [$75]
+PapaShango19 raises [$300]
+kajedu01 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 696575699
+***** 888poker Hand History for Game 696575699 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:29:43
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,811 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,877 )
+Seat 10: kajedu01 ( $3,615 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6s ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $225 ]
+
+
+
+#Game No : 696575808
+***** 888poker Hand History for Game 696575808 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:30:04
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,736 )
+Seat 5: krrraken ( $2,272 )
+Seat 7: 7jaka7 ( $3,877 )
+Seat 10: kajedu01 ( $3,615 )
+krrraken posts small blind [$75]
+7jaka7 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 6h ]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $225 ]
+
+
+
+#Game No : 696575878
+***** 888poker Hand History for Game 696575878 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:30:19
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,736 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,952 )
+Seat 10: kajedu01 ( $3,615 )
+7jaka7 posts small blind [$75]
+kajedu01 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4c ]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$75]
+kajedu01 checks
+** Dealing flop ** [ 3d, 7s, 4h ]
+7jaka7 checks
+kajedu01 checks
+** Dealing turn ** [ 9c ]
+7jaka7 checks
+kajedu01 checks
+** Dealing river ** [ Qd ]
+7jaka7 bets [$150]
+kajedu01 raises [$380]
+7jaka7 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $600 ]
+
+
+
+#Game No : 696576067
+***** 888poker Hand History for Game 696576067 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:30:55
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,736 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,652 )
+Seat 10: kajedu01 ( $3,915 )
+kajedu01 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Kd ]
+krrraken folds
+7jaka7 folds
+kajedu01 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ 6s, Qh, 2s ]
+kajedu01 checks
+PapaShango19 checks
+** Dealing turn ** [ Js ]
+kajedu01 bets [$220]
+PapaShango19 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $300 ]
+
+
+
+#Game No : 696576248
+***** 888poker Hand History for Game 696576248 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:31:36
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,586 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,652 )
+Seat 10: kajedu01 ( $4,065 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 7d ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $225 ]
+
+
+
+#Game No : 696576326
+***** 888poker Hand History for Game 696576326 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:31:52
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,511 )
+Seat 5: krrraken ( $2,272 )
+Seat 7: 7jaka7 ( $3,652 )
+Seat 10: kajedu01 ( $4,065 )
+krrraken posts small blind [$75]
+7jaka7 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 7s ]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $225 ]
+
+
+
+#Game No : 696576447
+***** 888poker Hand History for Game 696576447 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:32:15
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,511 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,727 )
+Seat 10: kajedu01 ( $4,065 )
+7jaka7 posts small blind [$75]
+kajedu01 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 2s ]
+PapaShango19 folds
+krrraken folds
+7jaka7 raises [$975]
+kajedu01 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $300 ]
+
+
+
+#Game No : 696576540
+***** 888poker Hand History for Game 696576540 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:32:35
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,511 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $3,877 )
+Seat 10: kajedu01 ( $3,915 )
+kajedu01 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Qd ]
+krrraken folds
+7jaka7 raises [$600]
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $375 ]
+
+
+
+#Game No : 696576638
+***** 888poker Hand History for Game 696576638 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 18:32:50
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,361 )
+Seat 5: krrraken ( $2,197 )
+Seat 7: 7jaka7 ( $4,102 )
+Seat 10: kajedu01 ( $3,840 )
+PapaShango19 posts small blind [$75]
+krrraken posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 3s ]
+7jaka7 folds
+kajedu01 raises [$310]
+PapaShango19 folds
+krrraken folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $375 ]
+
+
+
+#Game No : 696576720
+***** 888poker Hand History for Game 696576720 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:33:08
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,286 )
+Seat 5: krrraken ( $2,047 )
+Seat 7: 7jaka7 ( $4,102 )
+Seat 10: kajedu01 ( $4,065 )
+krrraken posts small blind [$100]
+7jaka7 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Kd ]
+kajedu01 folds
+PapaShango19 folds
+krrraken raises [$1,947]
+7jaka7 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $400 ]
+
+
+
+#Game No : 696576847
+***** 888poker Hand History for Game 696576847 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:33:30
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,286 )
+Seat 5: krrraken ( $2,247 )
+Seat 7: 7jaka7 ( $3,902 )
+Seat 10: kajedu01 ( $4,065 )
+7jaka7 posts small blind [$100]
+kajedu01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 6h ]
+PapaShango19 folds
+krrraken folds
+7jaka7 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $300 ]
+
+
+
+#Game No : 696576955
+***** 888poker Hand History for Game 696576955 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:33:51
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,286 )
+Seat 5: krrraken ( $2,247 )
+Seat 7: 7jaka7 ( $3,802 )
+Seat 10: kajedu01 ( $4,165 )
+kajedu01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 6s ]
+krrraken folds
+7jaka7 folds
+kajedu01 raises [$320]
+PapaShango19 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $400 ]
+
+
+
+#Game No : 696577106
+***** 888poker Hand History for Game 696577106 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:34:22
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,086 )
+Seat 5: krrraken ( $2,247 )
+Seat 7: 7jaka7 ( $3,802 )
+Seat 10: kajedu01 ( $4,365 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 5h ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $300 ]
+
+
+
+#Game No : 696577213
+***** 888poker Hand History for Game 696577213 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:34:43
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,986 )
+Seat 5: krrraken ( $2,347 )
+Seat 7: 7jaka7 ( $3,802 )
+Seat 10: kajedu01 ( $4,365 )
+krrraken posts small blind [$100]
+7jaka7 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Qs ]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $300 ]
+
+
+
+#Game No : 696577253
+***** 888poker Hand History for Game 696577253 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:34:56
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,986 )
+Seat 5: krrraken ( $2,247 )
+Seat 7: 7jaka7 ( $3,902 )
+Seat 10: kajedu01 ( $4,365 )
+7jaka7 posts small blind [$100]
+kajedu01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 7c ]
+PapaShango19 folds
+krrraken folds
+7jaka7 raises [$3,802]
+kajedu01 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $400 ]
+
+
+
+#Game No : 696577358
+***** 888poker Hand History for Game 696577358 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:35:16
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,986 )
+Seat 5: krrraken ( $2,247 )
+Seat 7: 7jaka7 ( $4,102 )
+Seat 10: kajedu01 ( $4,165 )
+kajedu01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Ac ]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 696577417
+***** 888poker Hand History for Game 696577417 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:35:28
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $3,086 )
+Seat 5: krrraken ( $2,247 )
+Seat 7: 7jaka7 ( $4,102 )
+Seat 10: kajedu01 ( $4,065 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 2c ]
+7jaka7 folds
+kajedu01 raises [$410]
+PapaShango19 folds
+krrraken folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $500 ]
+
+
+
+#Game No : 696577530
+***** 888poker Hand History for Game 696577530 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:35:46
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,986 )
+Seat 5: krrraken ( $2,047 )
+Seat 7: 7jaka7 ( $4,102 )
+Seat 10: kajedu01 ( $4,365 )
+krrraken posts small blind [$100]
+7jaka7 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 3d ]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $300 ]
+
+
+
+#Game No : 696577634
+***** 888poker Hand History for Game 696577634 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:36:04
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,986 )
+Seat 5: krrraken ( $1,947 )
+Seat 7: 7jaka7 ( $4,202 )
+Seat 10: kajedu01 ( $4,365 )
+7jaka7 posts small blind [$100]
+kajedu01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Ks ]
+PapaShango19 folds
+krrraken folds
+7jaka7 raises [$300]
+kajedu01 calls [$200]
+** Dealing flop ** [ 3h, 8c, Ah ]
+7jaka7 checks
+kajedu01 bets [$450]
+7jaka7 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $800 ]
+
+
+
+#Game No : 696577788
+***** 888poker Hand History for Game 696577788 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:36:35
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,986 )
+Seat 5: krrraken ( $1,947 )
+Seat 7: 7jaka7 ( $3,802 )
+Seat 10: kajedu01 ( $4,765 )
+kajedu01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 2d ]
+krrraken folds
+7jaka7 raises [$3,802]
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $500 ]
+
+
+
+#Game No : 696577888
+***** 888poker Hand History for Game 696577888 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:36:59
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,786 )
+Seat 5: krrraken ( $1,947 )
+Seat 7: 7jaka7 ( $4,102 )
+Seat 10: kajedu01 ( $4,665 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Qc ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $300 ]
+
+
+
+#Game No : 696577951
+***** 888poker Hand History for Game 696577951 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:37:14
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,686 )
+Seat 5: krrraken ( $2,047 )
+Seat 7: 7jaka7 ( $4,102 )
+Seat 10: kajedu01 ( $4,665 )
+krrraken posts small blind [$100]
+7jaka7 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 2c ]
+kajedu01 folds
+PapaShango19 folds
+krrraken raises [$1,947]
+7jaka7 calls [$1,847]
+** Dealing flop ** [ 9d, 6s, 2s ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ Ac ]
+** Summary **
+krrraken shows [ Jh, Qh ]
+7jaka7 shows [ Jc, 4s ]
+krrraken collected [ $4,094 ]
+
+
+
+#Game No : 696578191
+***** 888poker Hand History for Game 696578191 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:38:01
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,686 )
+Seat 5: krrraken ( $4,094 )
+Seat 7: 7jaka7 ( $2,055 )
+Seat 10: kajedu01 ( $4,665 )
+7jaka7 posts small blind [$100]
+kajedu01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 5d ]
+PapaShango19 folds
+krrraken folds
+7jaka7 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $300 ]
+
+
+
+#Game No : 696578245
+***** 888poker Hand History for Game 696578245 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:38:12
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,686 )
+Seat 5: krrraken ( $4,094 )
+Seat 7: 7jaka7 ( $1,955 )
+Seat 10: kajedu01 ( $4,765 )
+kajedu01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 8s ]
+krrraken folds
+7jaka7 folds
+kajedu01 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 4s, 5d, 9h ]
+kajedu01 checks
+PapaShango19 checks
+** Dealing turn ** [ 4h ]
+kajedu01 checks
+PapaShango19 checks
+** Dealing river ** [ As ]
+kajedu01 bets [$280]
+PapaShango19 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $400 ]
+
+
+
+#Game No : 696578548
+***** 888poker Hand History for Game 696578548 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:39:07
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,486 )
+Seat 5: krrraken ( $4,094 )
+Seat 7: 7jaka7 ( $1,955 )
+Seat 10: kajedu01 ( $4,965 )
+PapaShango19 posts small blind [$100]
+krrraken posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ad ]
+7jaka7 folds
+kajedu01 raises [$410]
+PapaShango19 folds
+krrraken folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $500 ]
+
+
+
+#Game No : 696578654
+***** 888poker Hand History for Game 696578654 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:39:28
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,386 )
+Seat 5: krrraken ( $3,894 )
+Seat 7: 7jaka7 ( $1,955 )
+Seat 10: kajedu01 ( $5,265 )
+krrraken posts small blind [$100]
+7jaka7 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, As ]
+kajedu01 folds
+PapaShango19 raises [$400]
+krrraken folds
+7jaka7 raises [$1,755]
+PapaShango19 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $900 ]
+
+
+
+#Game No : 696578830
+***** 888poker Hand History for Game 696578830 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:40:00
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,986 )
+Seat 5: krrraken ( $3,794 )
+Seat 7: 7jaka7 ( $2,455 )
+Seat 10: kajedu01 ( $5,265 )
+7jaka7 posts small blind [$100]
+kajedu01 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9s ]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$100]
+kajedu01 checks
+** Dealing flop ** [ Tc, 3s, Ah ]
+7jaka7 checks
+kajedu01 checks
+** Dealing turn ** [ 9c ]
+7jaka7 bets [$200]
+kajedu01 calls [$200]
+** Dealing river ** [ 2s ]
+7jaka7 bets [$400]
+kajedu01 calls [$400]
+** Summary **
+7jaka7 shows [ 5c, 6d ]
+kajedu01 shows [ 2h, 3d ]
+kajedu01 collected [ $1,600 ]
+
+
+
+#Game No : 696579034
+***** 888poker Hand History for Game 696579034 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 18:40:34
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,986 )
+Seat 5: krrraken ( $3,794 )
+Seat 7: 7jaka7 ( $1,655 )
+Seat 10: kajedu01 ( $6,065 )
+kajedu01 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 3d ]
+krrraken folds
+7jaka7 raises [$1,600]
+kajedu01 folds
+PapaShango19 raises [$1,786]
+7jaka7 calls [$55]
+** Dealing flop ** [ 7c, 8s, Kc ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Tc ]
+** Summary **
+PapaShango19 shows [ Ah, 3d ]
+7jaka7 shows [ 8d, 8h ]
+7jaka7 collected [ $3,410 ]
+
+
+
+#Game No : 696579188
+***** 888poker Hand History for Game 696579188 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:41:04
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $331 )
+Seat 5: krrraken ( $3,794 )
+Seat 7: 7jaka7 ( $3,410 )
+Seat 10: kajedu01 ( $5,965 )
+PapaShango19 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 9s ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 raises [$181]
+krrraken folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 696579279
+***** 888poker Hand History for Game 696579279 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:41:24
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $631 )
+Seat 5: krrraken ( $3,494 )
+Seat 7: 7jaka7 ( $3,410 )
+Seat 10: kajedu01 ( $5,965 )
+krrraken posts small blind [$150]
+7jaka7 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6d ]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $450 ]
+
+
+
+#Game No : 696579343
+***** 888poker Hand History for Game 696579343 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:41:38
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $631 )
+Seat 5: krrraken ( $3,344 )
+Seat 7: 7jaka7 ( $3,560 )
+Seat 10: kajedu01 ( $5,965 )
+7jaka7 posts small blind [$150]
+kajedu01 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 9d ]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$150]
+kajedu01 checks
+** Dealing flop ** [ Js, Qs, 7d ]
+7jaka7 bets [$300]
+kajedu01 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $600 ]
+
+
+
+#Game No : 696579465
+***** 888poker Hand History for Game 696579465 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:42:04
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $631 )
+Seat 5: krrraken ( $3,344 )
+Seat 7: 7jaka7 ( $3,860 )
+Seat 10: kajedu01 ( $5,665 )
+kajedu01 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Qs ]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 696579571
+***** 888poker Hand History for Game 696579571 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:42:24
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $781 )
+Seat 5: krrraken ( $3,344 )
+Seat 7: 7jaka7 ( $3,860 )
+Seat 10: kajedu01 ( $5,515 )
+PapaShango19 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 6h ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 raises [$631]
+krrraken calls [$481]
+** Dealing flop ** [ 6d, Tc, 2c ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 4s ]
+** Summary **
+PapaShango19 shows [ Td, 6h ]
+krrraken shows [ 4d, Kd ]
+PapaShango19 collected [ $1,562 ]
+
+
+
+#Game No : 696579710
+***** 888poker Hand History for Game 696579710 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:42:54
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,562 )
+Seat 5: krrraken ( $2,563 )
+Seat 7: 7jaka7 ( $3,860 )
+Seat 10: kajedu01 ( $5,515 )
+krrraken posts small blind [$150]
+7jaka7 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 5h ]
+kajedu01 folds
+PapaShango19 folds
+krrraken raises [$2,413]
+7jaka7 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $600 ]
+
+
+
+#Game No : 696579818
+***** 888poker Hand History for Game 696579818 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:43:14
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,562 )
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $3,560 )
+Seat 10: kajedu01 ( $5,515 )
+7jaka7 posts small blind [$150]
+kajedu01 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Qh ]
+PapaShango19 raises [$1,562]
+krrraken folds
+7jaka7 folds
+kajedu01 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $750 ]
+
+
+
+#Game No : 696579887
+***** 888poker Hand History for Game 696579887 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:43:26
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $2,012 )
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $3,410 )
+Seat 10: kajedu01 ( $5,215 )
+kajedu01 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 9s ]
+krrraken folds
+7jaka7 raises [$3,410]
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $750 ]
+
+
+
+#Game No : 696579956
+***** 888poker Hand History for Game 696579956 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:43:41
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,712 )
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $3,860 )
+Seat 10: kajedu01 ( $5,065 )
+PapaShango19 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4s ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $450 ]
+
+
+
+#Game No : 696580035
+***** 888poker Hand History for Game 696580035 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:43:56
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,562 )
+Seat 5: krrraken ( $3,013 )
+Seat 7: 7jaka7 ( $3,860 )
+Seat 10: kajedu01 ( $5,065 )
+krrraken posts small blind [$150]
+7jaka7 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2d ]
+kajedu01 folds
+PapaShango19 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $450 ]
+
+
+
+#Game No : 696580092
+***** 888poker Hand History for Game 696580092 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:44:07
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,562 )
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $4,010 )
+Seat 10: kajedu01 ( $5,065 )
+7jaka7 posts small blind [$150]
+kajedu01 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Ah ]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$150]
+kajedu01 raises [$600]
+7jaka7 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $600 ]
+
+
+
+#Game No : 696580224
+***** 888poker Hand History for Game 696580224 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:44:32
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,562 )
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $3,710 )
+Seat 10: kajedu01 ( $5,365 )
+kajedu01 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 2c ]
+krrraken folds
+7jaka7 folds
+kajedu01 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ Jh, 4c, Td ]
+kajedu01 checks
+PapaShango19 checks
+** Dealing turn ** [ Ac ]
+kajedu01 bets [$300]
+PapaShango19 folds
+** Summary **
+kajedu01 did not show his hand
+kajedu01 collected [ $600 ]
+
+
+
+#Game No : 696580435
+***** 888poker Hand History for Game 696580435 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:45:08
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,262 )
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $3,710 )
+Seat 10: kajedu01 ( $5,665 )
+PapaShango19 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 6s ]
+7jaka7 folds
+kajedu01 folds
+PapaShango19 folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $450 ]
+
+
+
+#Game No : 696580497
+***** 888poker Hand History for Game 696580497 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:45:23
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,112 )
+Seat 5: krrraken ( $3,013 )
+Seat 7: 7jaka7 ( $3,710 )
+Seat 10: kajedu01 ( $5,665 )
+krrraken posts small blind [$150]
+7jaka7 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 4s ]
+kajedu01 raises [$650]
+PapaShango19 folds
+krrraken folds
+7jaka7 calls [$350]
+** Dealing flop ** [ 8c, Th, 2c ]
+7jaka7 bets [$3,000]
+kajedu01 folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $1,450 ]
+
+
+
+#Game No : 696580741
+***** 888poker Hand History for Game 696580741 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:46:08
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 2: PapaShango19 ( $1,112 )
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $4,510 )
+Seat 10: kajedu01 ( $5,015 )
+7jaka7 posts small blind [$150]
+kajedu01 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Js ]
+PapaShango19 raises [$1,112]
+krrraken folds
+7jaka7 calls [$962]
+kajedu01 folds
+** Dealing flop ** [ 4h, 7h, Kd ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 3d ]
+** Summary **
+PapaShango19 shows [ Jh, Js ]
+7jaka7 shows [ Tc, Kh ]
+7jaka7 collected [ $2,524 ]
+
+
+
+#Game No : 696580934
+***** 888poker Hand History for Game 696580934 *****
+$150/$300 Blinds No Limit Holdem - *** 25 11 2014 18:46:45
+Tournament #63839780 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 5: krrraken ( $2,863 )
+Seat 7: 7jaka7 ( $5,922 )
+Seat 10: kajedu01 ( $4,715 )
+kajedu01 posts small blind [$150]
+krrraken posts big blind [$300]
+** Dealing down cards **
+7jaka7 raises [$5,922]
+kajedu01 folds
+krrraken folds
+** Summary **
+7jaka7 did not show his hand
+7jaka7 collected [ $750 ]
+
+
+

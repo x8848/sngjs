@@ -1,0 +1,1575 @@
+#Game No : 643994696
+***** 888poker Hand History for Game 643994696 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:45:18
+Tournament #64161383 $0.90 + $0.10 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: grufty16 ( $2,000 )
+Seat 4: kevinmusic5 ( $2,000 )
+Seat 6: Wintersun88 ( $2,000 )
+Seat 7: HMANMUS ( $2,000 )
+Seat 9: oleg19951995 ( $2,000 )
+PapaShango19 posts small blind [$10]
+grufty16 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+kevinmusic5 calls [$20]
+Wintersun88 folds
+HMANMUS calls [$20]
+oleg19951995 folds
+PapaShango19 calls [$10]
+grufty16 raises [$20]
+kevinmusic5 calls [$20]
+HMANMUS calls [$20]
+PapaShango19 calls [$20]
+** Dealing flop ** [ 3h, 9s, 8h ]
+PapaShango19 checks
+grufty16 checks
+kevinmusic5 bets [$20]
+HMANMUS raises [$40]
+PapaShango19 calls [$40]
+grufty16 folds
+kevinmusic5 calls [$20]
+** Dealing turn ** [ 5h ]
+PapaShango19 checks
+kevinmusic5 bets [$140]
+HMANMUS calls [$140]
+PapaShango19 folds
+** Dealing river ** [ 7h ]
+kevinmusic5 bets [$420]
+HMANMUS folds
+** Summary **
+kevinmusic5 did not show his hand
+kevinmusic5 collected [ $560 ]
+
+
+
+#Game No : 643995054
+***** 888poker Hand History for Game 643995054 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:47:47
+Tournament #64161383 $0.90 + $0.10 - Table #13 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,920 )
+Seat 2: grufty16 ( $3,960 )
+Seat 4: kevinmusic5 ( $2,340 )
+Seat 6: Wintersun88 ( $2,000 )
+Seat 7: HMANMUS ( $1,780 )
+Seat 9: oleg19951995 ( $2,000 )
+grufty16 posts small blind [$10]
+kevinmusic5 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 9h ]
+Wintersun88 folds
+HMANMUS folds
+oleg19951995 folds
+PapaShango19 folds
+grufty16 calls [$10]
+kevinmusic5 checks
+** Dealing flop ** [ Qd, Ah, 8h ]
+grufty16 bets [$200]
+kevinmusic5 calls [$200]
+** Dealing turn ** [ Ts ]
+grufty16 checks
+kevinmusic5 checks
+** Dealing river ** [ Th ]
+grufty16 bets [$440]
+kevinmusic5 calls [$440]
+** Summary **
+grufty16 shows [ 5h, 6h ]
+kevinmusic5 mucks [ 9d, Qc ]
+grufty16 collected [ $1,320 ]
+
+
+
+#Game No : 643995189
+***** 888poker Hand History for Game 643995189 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:48:44
+Tournament #64161383 $0.90 + $0.10 - Table #13 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,920 )
+Seat 2: grufty16 ( $4,620 )
+Seat 4: kevinmusic5 ( $1,680 )
+Seat 6: Wintersun88 ( $2,000 )
+Seat 7: HMANMUS ( $1,780 )
+Seat 9: oleg19951995 ( $2,000 )
+kevinmusic5 posts small blind [$10]
+Wintersun88 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 9h ]
+HMANMUS raises [$100]
+oleg19951995 calls [$100]
+PapaShango19 folds
+grufty16 calls [$100]
+kevinmusic5 folds
+Wintersun88 folds
+** Dealing flop ** [ 7c, 7s, Qs ]
+HMANMUS bets [$100]
+oleg19951995 calls [$100]
+grufty16 calls [$100]
+** Dealing turn ** [ 5c ]
+HMANMUS checks
+oleg19951995 bets [$630]
+grufty16 folds
+HMANMUS calls [$630]
+** Dealing river ** [ 5s ]
+HMANMUS bets [$950]
+oleg19951995 calls [$950]
+** Summary **
+HMANMUS shows [ Qd, Kc ]
+oleg19951995 shows [ 7d, Td ]
+oleg19951995 collected [ $3,790 ]
+
+
+
+#Game No : 643995340
+***** 888poker Hand History for Game 643995340 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:49:51
+Tournament #64161383 $0.90 + $0.10 - Table #13 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,920 )
+Seat 2: grufty16 ( $4,420 )
+Seat 4: kevinmusic5 ( $1,670 )
+Seat 6: Wintersun88 ( $1,980 )
+Seat 7: HMANMUS ( $4,000 )
+Seat 9: oleg19951995 ( $4,010 )
+Wintersun88 posts small blind [$10]
+HMANMUS posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 7s ]
+oleg19951995 folds
+PapaShango19 folds
+grufty16 calls [$20]
+kevinmusic5 folds
+Wintersun88 calls [$10]
+HMANMUS checks
+** Dealing flop ** [ 8c, Qh, 9d ]
+Wintersun88 checks
+HMANMUS bets [$20]
+grufty16 folds
+Wintersun88 folds
+** Summary **
+HMANMUS did not show his hand
+HMANMUS collected [ $60 ]
+
+
+
+#Game No : 643995408
+***** 888poker Hand History for Game 643995408 *****
+$10/$20 Blinds No Limit Holdem - *** 08 12 2014 17:50:26
+Tournament #64161383 $0.90 + $0.10 - Table #13 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,920 )
+Seat 2: grufty16 ( $4,400 )
+Seat 4: kevinmusic5 ( $1,670 )
+Seat 6: Wintersun88 ( $1,960 )
+Seat 7: HMANMUS ( $4,040 )
+Seat 9: oleg19951995 ( $4,010 )
+HMANMUS posts small blind [$10]
+oleg19951995 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 5h ]
+PapaShango19 folds
+grufty16 folds
+kevinmusic5 folds
+Wintersun88 calls [$20]
+HMANMUS raises [$30]
+oleg19951995 folds
+Wintersun88 calls [$20]
+** Dealing flop ** [ 4c, 7d, 4h ]
+HMANMUS bets [$20]
+Wintersun88 calls [$20]
+** Dealing turn ** [ 2c ]
+HMANMUS checks
+Wintersun88 checks
+** Dealing river ** [ Kh ]
+HMANMUS bets [$20]
+Wintersun88 raises [$200]
+HMANMUS folds
+** Summary **
+Wintersun88 did not show his hand
+Wintersun88 collected [ $180 ]
+
+
+
+#Game No : 643995549
+***** 888poker Hand History for Game 643995549 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:51:28
+Tournament #64161383 $0.90 + $0.10 - Table #13 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,920 )
+Seat 2: grufty16 ( $4,400 )
+Seat 4: kevinmusic5 ( $1,670 )
+Seat 6: Wintersun88 ( $2,060 )
+Seat 7: HMANMUS ( $3,960 )
+Seat 9: oleg19951995 ( $3,990 )
+oleg19951995 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Tc ]
+grufty16 folds
+kevinmusic5 calls [$30]
+Wintersun88 raises [$120]
+HMANMUS folds
+oleg19951995 folds
+PapaShango19 folds
+kevinmusic5 calls [$90]
+** Dealing flop ** [ 8s, Qd, Ks ]
+kevinmusic5 bets [$142]
+Wintersun88 calls [$142]
+** Dealing turn ** [ 3c ]
+kevinmusic5 checks
+Wintersun88 bets [$284]
+kevinmusic5 folds
+** Summary **
+Wintersun88 did not show his hand
+Wintersun88 collected [ $569 ]
+
+
+
+#Game No : 643995677
+***** 888poker Hand History for Game 643995677 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:52:23
+Tournament #64161383 $0.90 + $0.10 - Table #13 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,890 )
+Seat 2: grufty16 ( $4,400 )
+Seat 4: kevinmusic5 ( $1,408 )
+Seat 6: Wintersun88 ( $2,367 )
+Seat 7: HMANMUS ( $3,960 )
+Seat 9: oleg19951995 ( $3,975 )
+PapaShango19 posts small blind [$15]
+grufty16 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ks ]
+kevinmusic5 raises [$60]
+Wintersun88 folds
+HMANMUS raises [$90]
+oleg19951995 folds
+PapaShango19 calls [$75]
+grufty16 calls [$60]
+kevinmusic5 calls [$30]
+** Dealing flop ** [ Kd, Kc, 3c ]
+PapaShango19 bets [$270]
+grufty16 folds
+kevinmusic5 raises [$1,318]
+HMANMUS folds
+PapaShango19 calls [$1,048]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ Ts ]
+** Summary **
+PapaShango19 shows [ Th, Ks ]
+kevinmusic5 shows [ 3d, Ad ]
+PapaShango19 collected [ $2,996 ]
+
+
+
+#Game No : 643995848
+***** 888poker Hand History for Game 643995848 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:53:48
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,119 )
+Seat 2: blackdream33 ( $4,457 )
+Seat 4: JAS_83 ( $4,919 )
+Seat 6: EMERSON1982 ( $3,915 )
+Seat 7: PapaShango19 ( $3,478 )
+Seat 9: onlynt ( $2,000 )
+RStGeorge posts small blind [$15]
+blackdream33 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 5c ]
+JAS_83 raises [$90]
+EMERSON1982 raises [$3,915]
+PapaShango19 folds
+onlynt folds
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+** Summary **
+EMERSON1982 did not show his hand
+EMERSON1982 collected [ $225 ]
+
+
+
+#Game No : 643995908
+***** 888poker Hand History for Game 643995908 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:54:20
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,104 )
+Seat 2: blackdream33 ( $4,427 )
+Seat 4: JAS_83 ( $4,829 )
+Seat 6: EMERSON1982 ( $4,050 )
+Seat 7: PapaShango19 ( $3,478 )
+Seat 9: onlynt ( $2,000 )
+blackdream33 posts small blind [$15]
+JAS_83 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+EMERSON1982 folds
+PapaShango19 folds
+onlynt calls [$30]
+RStGeorge folds
+blackdream33 folds
+JAS_83 checks
+** Dealing flop ** [ 4c, Kd, Qd ]
+JAS_83 checks
+onlynt checks
+** Dealing turn ** [ Ks ]
+JAS_83 bets [$30]
+onlynt folds
+** Summary **
+JAS_83 did not show his hand
+JAS_83 collected [ $75 ]
+
+
+
+#Game No : 643995980
+***** 888poker Hand History for Game 643995980 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 17:54:53
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,104 )
+Seat 2: blackdream33 ( $4,412 )
+Seat 4: JAS_83 ( $4,874 )
+Seat 6: EMERSON1982 ( $4,050 )
+Seat 7: PapaShango19 ( $3,478 )
+Seat 9: onlynt ( $1,970 )
+JAS_83 posts small blind [$15]
+EMERSON1982 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Kc ]
+PapaShango19 raises [$60]
+onlynt folds
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 calls [$30]
+** Dealing flop ** [ 7c, Ac, 3c ]
+EMERSON1982 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $135 ]
+
+
+
+#Game No : 643996414
+***** 888poker Hand History for Game 643996414 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 18:00:00
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,104 )
+Seat 2: blackdream33 ( $4,412 )
+Seat 4: JAS_83 ( $4,859 )
+Seat 6: EMERSON1982 ( $3,990 )
+Seat 7: PapaShango19 ( $3,553 )
+Seat 9: onlynt ( $1,970 )
+EMERSON1982 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 7d ]
+onlynt folds
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 raises [$3,975]
+PapaShango19 folds
+** Summary **
+EMERSON1982 did not show his hand
+EMERSON1982 collected [ $60 ]
+
+
+
+#Game No : 643996452
+***** 888poker Hand History for Game 643996452 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 18:00:45
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,104 )
+Seat 2: blackdream33 ( $4,412 )
+Seat 4: JAS_83 ( $4,859 )
+Seat 6: EMERSON1982 ( $4,020 )
+Seat 7: PapaShango19 ( $3,523 )
+Seat 9: onlynt ( $1,970 )
+PapaShango19 posts small blind [$15]
+onlynt posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 8d ]
+RStGeorge folds
+blackdream33 raises [$4,412]
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+onlynt folds
+** Summary **
+blackdream33 did not show his hand
+blackdream33 collected [ $75 ]
+
+
+
+#Game No : 643996475
+***** 888poker Hand History for Game 643996475 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 18:01:10
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,104 )
+Seat 2: blackdream33 ( $4,457 )
+Seat 4: JAS_83 ( $4,859 )
+Seat 6: EMERSON1982 ( $4,020 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: onlynt ( $1,940 )
+onlynt posts small blind [$15]
+RStGeorge posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 2c ]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 raises [$4,020]
+PapaShango19 folds
+onlynt folds
+RStGeorge folds
+** Summary **
+EMERSON1982 did not show his hand
+EMERSON1982 collected [ $75 ]
+
+
+
+#Game No : 643996498
+***** 888poker Hand History for Game 643996498 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 18:01:32
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,074 )
+Seat 2: blackdream33 ( $4,457 )
+Seat 4: JAS_83 ( $4,859 )
+Seat 6: EMERSON1982 ( $4,065 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: onlynt ( $1,925 )
+RStGeorge posts small blind [$15]
+blackdream33 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7s ]
+JAS_83 folds
+EMERSON1982 raises [$4,065]
+PapaShango19 folds
+onlynt folds
+RStGeorge folds
+blackdream33 folds
+** Summary **
+EMERSON1982 did not show his hand
+EMERSON1982 collected [ $75 ]
+
+
+
+#Game No : 643996558
+***** 888poker Hand History for Game 643996558 *****
+$15/$30 Blinds No Limit Holdem - *** 08 12 2014 18:01:56
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,059 )
+Seat 2: blackdream33 ( $4,427 )
+Seat 4: JAS_83 ( $4,859 )
+Seat 6: EMERSON1982 ( $4,110 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: onlynt ( $1,925 )
+blackdream33 posts small blind [$15]
+JAS_83 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4h ]
+EMERSON1982 folds
+PapaShango19 folds
+onlynt raises [$90]
+RStGeorge folds
+blackdream33 raises [$285]
+JAS_83 folds
+onlynt calls [$210]
+** Dealing flop ** [ 9c, Tc, 7d ]
+blackdream33 bets [$315]
+onlynt calls [$315]
+** Dealing turn ** [ 4c ]
+blackdream33 bets [$945]
+onlynt folds
+** Summary **
+blackdream33 did not show his hand
+blackdream33 collected [ $1,260 ]
+
+
+
+#Game No : 643996604
+***** 888poker Hand History for Game 643996604 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 18:02:35
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,059 )
+Seat 2: blackdream33 ( $5,072 )
+Seat 4: JAS_83 ( $4,829 )
+Seat 6: EMERSON1982 ( $4,110 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: onlynt ( $1,310 )
+JAS_83 posts small blind [$25]
+EMERSON1982 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3d ]
+PapaShango19 folds
+onlynt raises [$100]
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 raises [$4,060]
+onlynt calls [$1,210]
+** Dealing flop ** [ Ts, Kc, Jh ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 9h ]
+** Summary **
+EMERSON1982 shows [ 5c, 5d ]
+onlynt shows [ 9c, Qc ]
+onlynt collected [ $2,645 ]
+
+
+
+#Game No : 643996655
+***** 888poker Hand History for Game 643996655 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 18:03:08
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,059 )
+Seat 2: blackdream33 ( $5,072 )
+Seat 4: JAS_83 ( $4,804 )
+Seat 6: EMERSON1982 ( $2,800 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: onlynt ( $2,645 )
+EMERSON1982 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 7s ]
+onlynt raises [$100]
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 raises [$2,775]
+PapaShango19 folds
+onlynt calls [$2,545]
+** Dealing flop ** [ As, 5s, 5h ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ks ]
+** Summary **
+EMERSON1982 shows [ 8d, 6h ]
+onlynt shows [ Kh, Qc ]
+onlynt collected [ $5,340 ]
+
+
+
+#Game No : 643996725
+***** 888poker Hand History for Game 643996725 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 18:03:45
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,059 )
+Seat 2: blackdream33 ( $5,072 )
+Seat 4: JAS_83 ( $4,804 )
+Seat 6: EMERSON1982 ( $155 )
+Seat 7: PapaShango19 ( $3,458 )
+Seat 9: onlynt ( $5,340 )
+PapaShango19 posts small blind [$25]
+onlynt posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 3d ]
+RStGeorge folds
+blackdream33 raises [$175]
+JAS_83 calls [$175]
+EMERSON1982 folds
+PapaShango19 folds
+onlynt folds
+** Dealing flop ** [ Ks, 2c, Js ]
+blackdream33 checks
+JAS_83 bets [$212]
+blackdream33 folds
+** Summary **
+JAS_83 did not show his hand
+JAS_83 collected [ $425 ]
+
+
+
+#Game No : 643996782
+***** 888poker Hand History for Game 643996782 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 18:04:21
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,059 )
+Seat 2: blackdream33 ( $4,897 )
+Seat 4: JAS_83 ( $5,054 )
+Seat 6: EMERSON1982 ( $155 )
+Seat 7: PapaShango19 ( $3,433 )
+Seat 9: onlynt ( $5,290 )
+onlynt posts small blind [$25]
+RStGeorge posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 9s ]
+blackdream33 raises [$175]
+JAS_83 raises [$300]
+EMERSON1982 folds
+PapaShango19 calls [$300]
+onlynt folds
+RStGeorge folds
+blackdream33 calls [$125]
+** Dealing flop ** [ 5h, Kd, Jh ]
+blackdream33 checks
+JAS_83 checks
+PapaShango19 checks
+** Dealing turn ** [ 2d ]
+blackdream33 checks
+JAS_83 checks
+PapaShango19 bets [$300]
+blackdream33 folds
+JAS_83 calls [$300]
+** Dealing river ** [ 3h ]
+JAS_83 bets [$787]
+PapaShango19 calls [$787]
+** Summary **
+JAS_83 shows [ Qd, Th ]
+PapaShango19 shows [ 9d, 9s ]
+PapaShango19 collected [ $3,149 ]
+
+
+
+#Game No : 643996885
+***** 888poker Hand History for Game 643996885 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 18:05:22
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $6,009 )
+Seat 2: blackdream33 ( $4,597 )
+Seat 4: JAS_83 ( $3,667 )
+Seat 6: EMERSON1982 ( $155 )
+Seat 7: PapaShango19 ( $5,195 )
+Seat 9: onlynt ( $5,265 )
+RStGeorge posts small blind [$25]
+blackdream33 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Ah ]
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+onlynt folds
+RStGeorge folds
+** Summary **
+blackdream33 did not show his hand
+blackdream33 collected [ $75 ]
+
+
+
+#Game No : 643996922
+***** 888poker Hand History for Game 643996922 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 18:05:47
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $5,984 )
+Seat 2: blackdream33 ( $4,622 )
+Seat 4: JAS_83 ( $3,667 )
+Seat 6: EMERSON1982 ( $155 )
+Seat 7: PapaShango19 ( $5,195 )
+Seat 9: onlynt ( $5,265 )
+blackdream33 posts small blind [$25]
+JAS_83 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Qd ]
+EMERSON1982 raises [$155]
+PapaShango19 folds
+onlynt folds
+RStGeorge calls [$155]
+blackdream33 raises [$645]
+JAS_83 calls [$620]
+RStGeorge calls [$515]
+** Dealing flop ** [ 6s, 3s, 4d ]
+blackdream33 checks
+JAS_83 checks
+RStGeorge bets [$5,314]
+blackdream33 folds
+JAS_83 calls [$2,997]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 9d ]
+** Summary **
+RStGeorge shows [ 6c, Kc ]
+JAS_83 shows [ 3c, 3d ]
+EMERSON1982 shows [ Ks, Tc ]
+JAS_83 collected [ $620 ]
+JAS_83 collected [ $7,539 ]
+
+
+
+#Game No : 643997167
+***** 888poker Hand History for Game 643997167 *****
+$25/$50 Blinds No Limit Holdem - *** 08 12 2014 18:07:48
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $2,317 )
+Seat 2: blackdream33 ( $3,952 )
+Seat 4: JAS_83 ( $8,159 )
+Seat 6: EMERSON1982 ( $4,000 )
+Seat 7: PapaShango19 ( $5,195 )
+Seat 9: onlynt ( $5,265 )
+JAS_83 posts small blind [$25]
+EMERSON1982 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6c ]
+PapaShango19 folds
+onlynt folds
+RStGeorge calls [$50]
+blackdream33 folds
+JAS_83 raises [$131]
+EMERSON1982 folds
+RStGeorge calls [$106]
+** Dealing flop ** [ 6s, 6h, 3h ]
+JAS_83 checks
+RStGeorge checks
+** Dealing turn ** [ 8d ]
+JAS_83 checks
+RStGeorge checks
+** Dealing river ** [ 8h ]
+JAS_83 checks
+RStGeorge checks
+** Summary **
+JAS_83 shows [ Kc, As ]
+RStGeorge mucks [ Qs, 5s ]
+JAS_83 collected [ $362 ]
+
+
+
+#Game No : 643997271
+***** 888poker Hand History for Game 643997271 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:08:34
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $2,161 )
+Seat 2: blackdream33 ( $3,952 )
+Seat 4: JAS_83 ( $8,365 )
+Seat 6: EMERSON1982 ( $3,950 )
+Seat 7: PapaShango19 ( $5,195 )
+Seat 9: onlynt ( $5,265 )
+EMERSON1982 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Th ]
+onlynt folds
+RStGeorge calls [$100]
+blackdream33 folds
+JAS_83 raises [$337]
+EMERSON1982 raises [$3,900]
+PapaShango19 folds
+RStGeorge calls [$2,061]
+JAS_83 calls [$3,613]
+** Dealing flop ** [ 8c, Ks, 2h ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ Ah ]
+** Summary **
+RStGeorge shows [ 5s, 3s ]
+JAS_83 shows [ Ad, Qs ]
+EMERSON1982 shows [ 6d, 5c ]
+JAS_83 collected [ $6,583 ]
+JAS_83 collected [ $3,578 ]
+
+
+
+#Game No : 643997389
+***** 888poker Hand History for Game 643997389 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:09:23
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $2,000 )
+Seat 2: blackdream33 ( $3,952 )
+Seat 4: JAS_83 ( $14,576 )
+Seat 6: EMERSON1982 ( $4,000 )
+Seat 7: PapaShango19 ( $5,095 )
+Seat 9: onlynt ( $5,265 )
+PapaShango19 posts small blind [$50]
+onlynt posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Js ]
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 raises [$4,000]
+PapaShango19 folds
+onlynt folds
+** Summary **
+EMERSON1982 did not show his hand
+EMERSON1982 collected [ $250 ]
+
+
+
+#Game No : 643997444
+***** 888poker Hand History for Game 643997444 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:09:49
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,000 )
+Seat 2: blackdream33 ( $3,952 )
+Seat 4: JAS_83 ( $14,576 )
+Seat 6: EMERSON1982 ( $4,150 )
+Seat 7: PapaShango19 ( $5,045 )
+Seat 9: onlynt ( $5,165 )
+onlynt posts small blind [$50]
+RStGeorge posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 9h ]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 raises [$200]
+onlynt calls [$150]
+RStGeorge calls [$100]
+** Dealing flop ** [ As, Qd, Kc ]
+onlynt bets [$200]
+RStGeorge calls [$200]
+PapaShango19 calls [$200]
+** Dealing turn ** [ 2d ]
+onlynt bets [$200]
+RStGeorge calls [$200]
+PapaShango19 calls [$200]
+** Dealing river ** [ 5d ]
+onlynt bets [$300]
+RStGeorge folds
+PapaShango19 folds
+** Summary **
+onlynt did not show his hand
+onlynt collected [ $1,800 ]
+
+
+
+#Game No : 643997607
+***** 888poker Hand History for Game 643997607 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:11:02
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,400 )
+Seat 2: blackdream33 ( $3,952 )
+Seat 4: JAS_83 ( $14,576 )
+Seat 6: EMERSON1982 ( $4,150 )
+Seat 7: PapaShango19 ( $4,445 )
+Seat 9: onlynt ( $6,365 )
+RStGeorge posts small blind [$50]
+blackdream33 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3c ]
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+onlynt raises [$200]
+RStGeorge calls [$150]
+blackdream33 folds
+** Dealing flop ** [ 4h, 2h, 8h ]
+RStGeorge checks
+onlynt checks
+** Dealing turn ** [ 7h ]
+RStGeorge bets [$100]
+onlynt folds
+** Summary **
+RStGeorge did not show his hand
+RStGeorge collected [ $500 ]
+
+
+
+#Game No : 643997689
+***** 888poker Hand History for Game 643997689 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:11:40
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,700 )
+Seat 2: blackdream33 ( $3,852 )
+Seat 4: JAS_83 ( $14,576 )
+Seat 6: EMERSON1982 ( $4,150 )
+Seat 7: PapaShango19 ( $4,445 )
+Seat 9: onlynt ( $6,165 )
+blackdream33 posts small blind [$50]
+JAS_83 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 4d ]
+EMERSON1982 folds
+PapaShango19 folds
+onlynt folds
+RStGeorge raises [$3,700]
+blackdream33 raises [$3,802]
+JAS_83 folds
+** Dealing flop ** [ 6d, Tc, 7s ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ Kd ]
+** Summary **
+RStGeorge shows [ 8s, Ad ]
+blackdream33 shows [ Ks, Js ]
+blackdream33 collected [ $7,500 ]
+
+
+
+#Game No : 643997774
+***** 888poker Hand History for Game 643997774 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:12:16
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $2,000 )
+Seat 2: blackdream33 ( $7,652 )
+Seat 4: JAS_83 ( $14,476 )
+Seat 6: EMERSON1982 ( $4,150 )
+Seat 7: PapaShango19 ( $4,445 )
+Seat 9: onlynt ( $6,165 )
+JAS_83 posts small blind [$50]
+EMERSON1982 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 9c ]
+PapaShango19 folds
+onlynt calls [$100]
+RStGeorge calls [$100]
+blackdream33 folds
+JAS_83 raises [$225]
+EMERSON1982 raises [$4,050]
+onlynt folds
+RStGeorge calls [$1,900]
+JAS_83 calls [$3,875]
+** Dealing flop ** [ Qs, Kd, 4d ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 6d ]
+** Summary **
+RStGeorge shows [ Qc, 8c ]
+JAS_83 shows [ Qh, As ]
+EMERSON1982 shows [ 9h, 9s ]
+JAS_83 collected [ $6,100 ]
+JAS_83 collected [ $4,300 ]
+
+
+
+#Game No : 643997871
+***** 888poker Hand History for Game 643997871 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:13:03
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $2,000 )
+Seat 2: blackdream33 ( $7,652 )
+Seat 4: JAS_83 ( $20,726 )
+Seat 6: EMERSON1982 ( $4,000 )
+Seat 7: PapaShango19 ( $4,445 )
+Seat 9: onlynt ( $6,065 )
+EMERSON1982 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Kc ]
+onlynt folds
+RStGeorge calls [$100]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 checks
+** Dealing flop ** [ 6s, 3c, As ]
+PapaShango19 checks
+RStGeorge checks
+** Dealing turn ** [ 8d ]
+PapaShango19 checks
+RStGeorge checks
+** Dealing river ** [ Ad ]
+PapaShango19 checks
+RStGeorge checks
+** Summary **
+PapaShango19 shows [ 9h, Kc ]
+RStGeorge mucks [ Th, Jc ]
+PapaShango19 collected [ $250 ]
+
+
+
+#Game No : 643997979
+***** 888poker Hand History for Game 643997979 *****
+$50/$100 Blinds No Limit Holdem - *** 08 12 2014 18:13:47
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $1,900 )
+Seat 2: blackdream33 ( $7,652 )
+Seat 4: JAS_83 ( $20,726 )
+Seat 6: EMERSON1982 ( $3,950 )
+Seat 7: PapaShango19 ( $4,595 )
+Seat 9: onlynt ( $6,065 )
+PapaShango19 posts small blind [$50]
+onlynt posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Qc ]
+RStGeorge folds
+blackdream33 folds
+JAS_83 raises [$262]
+EMERSON1982 raises [$3,950]
+PapaShango19 folds
+onlynt folds
+JAS_83 calls [$3,688]
+** Dealing flop ** [ Kd, 9h, 4h ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Qh ]
+** Summary **
+JAS_83 shows [ 7c, 7d ]
+EMERSON1982 shows [ Kh, 3h ]
+EMERSON1982 collected [ $8,050 ]
+
+
+
+#Game No : 643998060
+***** 888poker Hand History for Game 643998060 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:14:20
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,900 )
+Seat 2: blackdream33 ( $7,652 )
+Seat 4: JAS_83 ( $16,776 )
+Seat 6: EMERSON1982 ( $8,050 )
+Seat 7: PapaShango19 ( $4,545 )
+Seat 9: onlynt ( $5,965 )
+onlynt posts small blind [$75]
+RStGeorge posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 3c ]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+onlynt folds
+** Summary **
+RStGeorge did not show his hand
+RStGeorge collected [ $225 ]
+
+
+
+#Game No : 643998117
+***** 888poker Hand History for Game 643998117 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:14:41
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,975 )
+Seat 2: blackdream33 ( $7,652 )
+Seat 4: JAS_83 ( $16,776 )
+Seat 6: EMERSON1982 ( $8,050 )
+Seat 7: PapaShango19 ( $4,545 )
+Seat 9: onlynt ( $5,890 )
+RStGeorge posts small blind [$75]
+blackdream33 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 6s ]
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+onlynt folds
+RStGeorge raises [$3,900]
+blackdream33 folds
+** Summary **
+RStGeorge did not show his hand
+RStGeorge collected [ $300 ]
+
+
+
+#Game No : 643998177
+***** 888poker Hand History for Game 643998177 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:14:59
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,125 )
+Seat 2: blackdream33 ( $7,502 )
+Seat 4: JAS_83 ( $16,776 )
+Seat 6: EMERSON1982 ( $8,050 )
+Seat 7: PapaShango19 ( $4,545 )
+Seat 9: onlynt ( $5,890 )
+blackdream33 posts small blind [$75]
+JAS_83 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Ac ]
+EMERSON1982 folds
+PapaShango19 raises [$450]
+onlynt folds
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 643998227
+***** 888poker Hand History for Game 643998227 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:15:20
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,125 )
+Seat 2: blackdream33 ( $7,427 )
+Seat 4: JAS_83 ( $16,626 )
+Seat 6: EMERSON1982 ( $8,050 )
+Seat 7: PapaShango19 ( $4,770 )
+Seat 9: onlynt ( $5,890 )
+JAS_83 posts small blind [$75]
+EMERSON1982 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 6h ]
+PapaShango19 folds
+onlynt folds
+RStGeorge raises [$300]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+** Summary **
+RStGeorge did not show his hand
+RStGeorge collected [ $375 ]
+
+
+
+#Game No : 643998298
+***** 888poker Hand History for Game 643998298 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:15:47
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,350 )
+Seat 2: blackdream33 ( $7,427 )
+Seat 4: JAS_83 ( $16,551 )
+Seat 6: EMERSON1982 ( $7,900 )
+Seat 7: PapaShango19 ( $4,770 )
+Seat 9: onlynt ( $5,890 )
+EMERSON1982 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 4h ]
+onlynt folds
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 643998352
+***** 888poker Hand History for Game 643998352 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:16:08
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,350 )
+Seat 2: blackdream33 ( $7,427 )
+Seat 4: JAS_83 ( $16,551 )
+Seat 6: EMERSON1982 ( $7,825 )
+Seat 7: PapaShango19 ( $4,845 )
+Seat 9: onlynt ( $5,890 )
+PapaShango19 posts small blind [$75]
+onlynt posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 5c ]
+RStGeorge raises [$300]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+onlynt folds
+** Summary **
+RStGeorge did not show his hand
+RStGeorge collected [ $375 ]
+
+
+
+#Game No : 643998457
+***** 888poker Hand History for Game 643998457 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:16:47
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,575 )
+Seat 2: blackdream33 ( $7,427 )
+Seat 4: JAS_83 ( $16,551 )
+Seat 6: EMERSON1982 ( $7,825 )
+Seat 7: PapaShango19 ( $4,770 )
+Seat 9: onlynt ( $5,740 )
+onlynt posts small blind [$75]
+RStGeorge posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 5s ]
+blackdream33 raises [$393]
+JAS_83 folds
+EMERSON1982 calls [$393]
+PapaShango19 folds
+onlynt folds
+RStGeorge calls [$243]
+** Dealing flop ** [ Tc, 8c, 7c ]
+RStGeorge bets [$4,182]
+blackdream33 calls [$4,182]
+EMERSON1982 raises [$7,432]
+blackdream33 calls [$2,852]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 5d ]
+** Summary **
+RStGeorge shows [ Ts, 9d ]
+blackdream33 shows [ As, 9h ]
+EMERSON1982 shows [ 6c, 3c ]
+EMERSON1982 collected [ $13,800 ]
+EMERSON1982 collected [ $5,704 ]
+
+
+
+#Game No : 643998631
+***** 888poker Hand History for Game 643998631 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:17:58
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $2,000 )
+Seat 2: blackdream33 ( $4,000 )
+Seat 4: JAS_83 ( $16,551 )
+Seat 6: EMERSON1982 ( $19,902 )
+Seat 7: PapaShango19 ( $4,770 )
+Seat 9: onlynt ( $5,665 )
+RStGeorge posts small blind [$75]
+blackdream33 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 6s ]
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+onlynt raises [$300]
+RStGeorge folds
+blackdream33 calls [$150]
+** Dealing flop ** [ Ad, Jd, 2d ]
+blackdream33 checks
+onlynt checks
+** Dealing turn ** [ 9h ]
+blackdream33 checks
+onlynt bets [$300]
+blackdream33 calls [$300]
+** Dealing river ** [ Kc ]
+blackdream33 checks
+onlynt checks
+** Summary **
+blackdream33 shows [ Kd, 4h ]
+onlynt shows [ Th, Ks ]
+onlynt collected [ $1,275 ]
+
+
+
+#Game No : 643998733
+***** 888poker Hand History for Game 643998733 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:18:38
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,925 )
+Seat 2: blackdream33 ( $3,400 )
+Seat 4: JAS_83 ( $16,551 )
+Seat 6: EMERSON1982 ( $19,902 )
+Seat 7: PapaShango19 ( $4,770 )
+Seat 9: onlynt ( $6,340 )
+blackdream33 posts small blind [$75]
+JAS_83 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9h ]
+EMERSON1982 folds
+PapaShango19 folds
+onlynt raises [$300]
+RStGeorge folds
+blackdream33 folds
+JAS_83 raises [$300]
+onlynt calls [$150]
+** Dealing flop ** [ Kh, Js, 2h ]
+JAS_83 bets [$487]
+onlynt folds
+** Summary **
+JAS_83 did not show his hand
+JAS_83 collected [ $975 ]
+
+
+
+#Game No : 643998842
+***** 888poker Hand History for Game 643998842 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:19:21
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,925 )
+Seat 2: blackdream33 ( $3,325 )
+Seat 4: JAS_83 ( $17,076 )
+Seat 6: EMERSON1982 ( $19,902 )
+Seat 7: PapaShango19 ( $4,770 )
+Seat 9: onlynt ( $5,890 )
+JAS_83 posts small blind [$75]
+EMERSON1982 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Jh ]
+PapaShango19 folds
+onlynt folds
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+** Summary **
+EMERSON1982 did not show his hand
+EMERSON1982 collected [ $225 ]
+
+
+
+#Game No : 643998898
+***** 888poker Hand History for Game 643998898 *****
+$75/$150 Blinds No Limit Holdem - *** 08 12 2014 18:19:43
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,925 )
+Seat 2: blackdream33 ( $3,325 )
+Seat 4: JAS_83 ( $17,001 )
+Seat 6: EMERSON1982 ( $19,977 )
+Seat 7: PapaShango19 ( $4,770 )
+Seat 9: onlynt ( $5,890 )
+EMERSON1982 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, As ]
+onlynt folds
+RStGeorge raises [$3,925]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+** Summary **
+RStGeorge did not show his hand
+RStGeorge collected [ $375 ]
+
+
+
+#Game No : 643999001
+***** 888poker Hand History for Game 643999001 *****
+$100/$200 Blinds No Limit Holdem - *** 08 12 2014 18:20:30
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,150 )
+Seat 2: blackdream33 ( $3,325 )
+Seat 4: JAS_83 ( $17,001 )
+Seat 6: EMERSON1982 ( $19,902 )
+Seat 7: PapaShango19 ( $4,620 )
+Seat 9: onlynt ( $5,890 )
+PapaShango19 posts small blind [$100]
+onlynt posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4s ]
+RStGeorge folds
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 folds
+PapaShango19 folds
+** Summary **
+onlynt did not show his hand
+onlynt collected [ $300 ]
+
+
+
+#Game No : 643999049
+***** 888poker Hand History for Game 643999049 *****
+$100/$200 Blinds No Limit Holdem - *** 08 12 2014 18:20:48
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $4,150 )
+Seat 2: blackdream33 ( $3,325 )
+Seat 4: JAS_83 ( $17,001 )
+Seat 6: EMERSON1982 ( $19,902 )
+Seat 7: PapaShango19 ( $4,520 )
+Seat 9: onlynt ( $5,990 )
+onlynt posts small blind [$100]
+RStGeorge posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Ks ]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 calls [$200]
+PapaShango19 raises [$600]
+onlynt calls [$500]
+RStGeorge calls [$400]
+EMERSON1982 calls [$400]
+** Dealing flop ** [ Ah, 5c, 3s ]
+onlynt bets [$1,200]
+RStGeorge calls [$1,200]
+EMERSON1982 folds
+PapaShango19 folds
+** Dealing turn ** [ 2s ]
+onlynt bets [$4,190]
+RStGeorge calls [$2,350]
+** Dealing river ** [ 7s ]
+** Summary **
+RStGeorge shows [ 8h, 4h ]
+onlynt shows [ Ts, As ]
+onlynt collected [ $9,500 ]
+
+
+
+#Game No : 643999267
+***** 888poker Hand History for Game 643999267 *****
+$100/$200 Blinds No Limit Holdem - *** 08 12 2014 18:22:11
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $2,000 )
+Seat 2: blackdream33 ( $3,325 )
+Seat 4: JAS_83 ( $17,001 )
+Seat 6: EMERSON1982 ( $19,302 )
+Seat 7: PapaShango19 ( $3,920 )
+Seat 9: onlynt ( $11,340 )
+RStGeorge posts small blind [$100]
+blackdream33 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 9d ]
+JAS_83 raises [$525]
+EMERSON1982 folds
+PapaShango19 folds
+onlynt calls [$525]
+RStGeorge folds
+blackdream33 folds
+** Dealing flop ** [ 6c, 5s, Ks ]
+JAS_83 bets [$675]
+onlynt calls [$675]
+** Dealing turn ** [ 9h ]
+JAS_83 bets [$1,350]
+onlynt folds
+** Summary **
+JAS_83 did not show his hand
+JAS_83 collected [ $2,700 ]
+
+
+
+#Game No : 643999412
+***** 888poker Hand History for Game 643999412 *****
+$100/$200 Blinds No Limit Holdem - *** 08 12 2014 18:23:02
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $3,900 )
+Seat 2: blackdream33 ( $3,125 )
+Seat 4: JAS_83 ( $18,501 )
+Seat 6: EMERSON1982 ( $19,302 )
+Seat 7: PapaShango19 ( $3,920 )
+Seat 9: onlynt ( $10,140 )
+blackdream33 posts small blind [$100]
+JAS_83 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 6c ]
+EMERSON1982 calls [$200]
+PapaShango19 folds
+onlynt folds
+RStGeorge raises [$3,900]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 calls [$3,700]
+** Dealing flop ** [ 4s, Kh, Qc ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Ad ]
+** Summary **
+RStGeorge shows [ 5h, As ]
+EMERSON1982 shows [ 2s, 2h ]
+RStGeorge collected [ $8,100 ]
+
+
+
+#Game No : 643999523
+***** 888poker Hand History for Game 643999523 *****
+$100/$200 Blinds No Limit Holdem - *** 08 12 2014 18:23:44
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $8,100 )
+Seat 2: blackdream33 ( $3,025 )
+Seat 4: JAS_83 ( $18,301 )
+Seat 6: EMERSON1982 ( $15,402 )
+Seat 7: PapaShango19 ( $3,920 )
+Seat 9: onlynt ( $10,140 )
+JAS_83 posts small blind [$100]
+EMERSON1982 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 5s ]
+PapaShango19 folds
+onlynt calls [$200]
+RStGeorge calls [$200]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 checks
+** Dealing flop ** [ Kc, 9h, 2c ]
+EMERSON1982 checks
+onlynt checks
+RStGeorge checks
+** Dealing turn ** [ Qd ]
+EMERSON1982 checks
+onlynt checks
+RStGeorge bets [$200]
+EMERSON1982 folds
+onlynt folds
+** Summary **
+RStGeorge did not show his hand
+RStGeorge collected [ $700 ]
+
+
+
+#Game No : 643999638
+***** 888poker Hand History for Game 643999638 *****
+$100/$200 Blinds No Limit Holdem - *** 08 12 2014 18:24:29
+Tournament #64161383 $0.90 + $0.10 - Table #21 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: RStGeorge ( $8,600 )
+Seat 2: blackdream33 ( $3,025 )
+Seat 4: JAS_83 ( $18,201 )
+Seat 6: EMERSON1982 ( $15,202 )
+Seat 7: PapaShango19 ( $3,920 )
+Seat 9: onlynt ( $9,940 )
+EMERSON1982 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 3h ]
+onlynt folds
+RStGeorge calls [$200]
+blackdream33 folds
+JAS_83 folds
+EMERSON1982 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 2h, 6h, Kh ]
+EMERSON1982 bets [$15,002]
+PapaShango19 calls [$3,720]
+RStGeorge calls [$8,400]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 2s ]
+** Summary **
+RStGeorge shows [ Qh, 9h ]
+EMERSON1982 shows [ 2d, Kd ]
+PapaShango19 shows [ Ah, 3h ]
+EMERSON1982 collected [ $11,760 ]
+EMERSON1982 collected [ $9,360 ]
+
+
+

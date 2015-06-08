@@ -1,0 +1,807 @@
+#Game No : 642882087
+***** 888poker Hand History for Game 642882087 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:21:33
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: goed1992 ( $1,000 )
+Seat 2: jimbos16 ( $1,000 )
+Seat 3: liesi1962 ( $1,000 )
+Seat 5: PapaShango19 ( $1,000 )
+Seat 6: Cardozo_AA ( $1,000 )
+Seat 7: milan899srb ( $1,000 )
+Seat 8: valavikingur ( $1,000 )
+Seat 10: MitchalHaick ( $1,000 )
+valavikingur posts small blind [$10]
+MitchalHaick posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 2c ]
+goed1992 raises [$40]
+jimbos16 calls [$40]
+liesi1962 calls [$40]
+PapaShango19 folds
+Cardozo_AA folds
+milan899srb calls [$40]
+valavikingur calls [$30]
+MitchalHaick raises [$195]
+goed1992 calls [$175]
+jimbos16 calls [$175]
+liesi1962 folds
+milan899srb calls [$175]
+valavikingur folds
+** Dealing flop ** [ Ac, 8d, Qd ]
+MitchalHaick checks
+goed1992 bets [$392]
+jimbos16 calls [$392]
+milan899srb folds
+MitchalHaick raises [$785]
+goed1992 calls [$393]
+jimbos16 calls [$393]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 3h ]
+** Summary **
+goed1992 shows [ 9h, 8h ]
+jimbos16 shows [ Qh, Td ]
+MitchalHaick shows [ As, Ad ]
+MitchalHaick collected [ $3,295 ]
+
+
+
+#Game No : 642882524
+***** 888poker Hand History for Game 642882524 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:23:24
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,000 )
+Seat 3: liesi1962 ( $960 )
+Seat 5: PapaShango19 ( $1,000 )
+Seat 6: Cardozo_AA ( $1,000 )
+Seat 7: milan899srb ( $785 )
+Seat 8: valavikingur ( $960 )
+Seat 10: MitchalHaick ( $3,295 )
+MitchalHaick posts small blind [$10]
+liliqueiroz posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Th ]
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA calls [$20]
+milan899srb folds
+valavikingur calls [$20]
+MitchalHaick calls [$10]
+liliqueiroz checks
+** Dealing flop ** [ 7s, As, 9s ]
+MitchalHaick checks
+liliqueiroz checks
+Cardozo_AA checks
+valavikingur checks
+** Dealing turn ** [ 9c ]
+MitchalHaick bets [$40]
+liliqueiroz folds
+Cardozo_AA folds
+valavikingur calls [$40]
+** Dealing river ** [ 6c ]
+MitchalHaick bets [$80]
+valavikingur calls [$80]
+** Summary **
+MitchalHaick shows [ Ks, Ts ]
+valavikingur mucks [ 2s, 2h ]
+MitchalHaick collected [ $320 ]
+
+
+
+#Game No : 642882776
+***** 888poker Hand History for Game 642882776 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:24:27
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $980 )
+Seat 3: liesi1962 ( $960 )
+Seat 5: PapaShango19 ( $1,000 )
+Seat 6: Cardozo_AA ( $980 )
+Seat 7: milan899srb ( $785 )
+Seat 8: valavikingur ( $820 )
+Seat 10: MitchalHaick ( $3,475 )
+liliqueiroz posts small blind [$10]
+liesi1962 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 9h ]
+PapaShango19 folds
+Cardozo_AA calls [$20]
+milan899srb raises [$90]
+valavikingur folds
+MitchalHaick folds
+liliqueiroz folds
+liesi1962 folds
+Cardozo_AA folds
+** Summary **
+milan899srb did not show his hand
+milan899srb collected [ $70 ]
+
+
+
+#Game No : 642882978
+***** 888poker Hand History for Game 642882978 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:25:13
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $970 )
+Seat 3: liesi1962 ( $940 )
+Seat 5: PapaShango19 ( $1,000 )
+Seat 6: Cardozo_AA ( $960 )
+Seat 7: milan899srb ( $835 )
+Seat 8: valavikingur ( $820 )
+Seat 10: MitchalHaick ( $3,475 )
+liesi1962 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Qd ]
+Cardozo_AA folds
+milan899srb folds
+valavikingur calls [$20]
+MitchalHaick folds
+liliqueiroz raises [$67]
+liesi1962 folds
+PapaShango19 folds
+valavikingur calls [$47]
+** Dealing flop ** [ Kd, Qc, 8d ]
+valavikingur checks
+liliqueiroz bets [$123]
+valavikingur folds
+** Summary **
+liliqueiroz did not show his hand
+liliqueiroz collected [ $164 ]
+
+
+
+#Game No : 642883128
+***** 888poker Hand History for Game 642883128 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:25:49
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,067 )
+Seat 3: liesi1962 ( $930 )
+Seat 5: PapaShango19 ( $980 )
+Seat 6: Cardozo_AA ( $960 )
+Seat 7: milan899srb ( $835 )
+Seat 8: valavikingur ( $753 )
+Seat 10: MitchalHaick ( $3,475 )
+PapaShango19 posts small blind [$10]
+Cardozo_AA posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Th ]
+milan899srb raises [$40]
+valavikingur folds
+MitchalHaick folds
+liliqueiroz calls [$40]
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA calls [$20]
+** Dealing flop ** [ 4c, 8c, 9d ]
+Cardozo_AA bets [$40]
+milan899srb calls [$40]
+liliqueiroz folds
+** Dealing turn ** [ 9s ]
+Cardozo_AA bets [$20]
+milan899srb calls [$20]
+** Dealing river ** [ 9h ]
+Cardozo_AA checks
+milan899srb bets [$735]
+Cardozo_AA folds
+** Summary **
+milan899srb did not show his hand
+milan899srb collected [ $250 ]
+
+
+
+#Game No : 642883458
+***** 888poker Hand History for Game 642883458 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:27:04
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,027 )
+Seat 3: liesi1962 ( $930 )
+Seat 5: PapaShango19 ( $970 )
+Seat 6: Cardozo_AA ( $860 )
+Seat 7: milan899srb ( $985 )
+Seat 8: valavikingur ( $753 )
+Seat 10: MitchalHaick ( $3,475 )
+Cardozo_AA posts small blind [$10]
+milan899srb posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 4d ]
+valavikingur calls [$20]
+MitchalHaick calls [$20]
+liliqueiroz folds
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA calls [$10]
+milan899srb checks
+** Dealing flop ** [ 4h, 6s, 5d ]
+Cardozo_AA bets [$20]
+milan899srb calls [$20]
+valavikingur calls [$20]
+MitchalHaick calls [$20]
+** Dealing turn ** [ Kc ]
+Cardozo_AA checks
+milan899srb checks
+valavikingur checks
+MitchalHaick bets [$180]
+Cardozo_AA folds
+milan899srb calls [$180]
+valavikingur folds
+** Dealing river ** [ Kh ]
+milan899srb checks
+MitchalHaick bets [$160]
+milan899srb folds
+** Summary **
+MitchalHaick collected [ $520 ]
+
+
+
+#Game No : 642883745
+***** 888poker Hand History for Game 642883745 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 02:28:10
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: liliqueiroz ( $1,027 )
+Seat 2: Rum1KA ( $970 )
+Seat 3: liesi1962 ( $930 )
+Seat 5: PapaShango19 ( $970 )
+Seat 6: Cardozo_AA ( $820 )
+Seat 7: milan899srb ( $765 )
+Seat 8: valavikingur ( $713 )
+Seat 10: MitchalHaick ( $3,775 )
+milan899srb posts small blind [$10]
+valavikingur posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Js ]
+MitchalHaick calls [$20]
+liliqueiroz folds
+Rum1KA folds
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA folds
+milan899srb folds
+valavikingur checks
+** Dealing flop ** [ Ah, Kh, 4s ]
+valavikingur bets [$20]
+MitchalHaick folds
+** Summary **
+valavikingur did not show his hand
+valavikingur collected [ $50 ]
+
+
+
+#Game No : 642883898
+***** 888poker Hand History for Game 642883898 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:28:48
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: liliqueiroz ( $1,027 )
+Seat 2: Rum1KA ( $970 )
+Seat 3: liesi1962 ( $930 )
+Seat 5: PapaShango19 ( $970 )
+Seat 6: Cardozo_AA ( $820 )
+Seat 7: milan899srb ( $755 )
+Seat 8: valavikingur ( $743 )
+Seat 10: MitchalHaick ( $3,755 )
+valavikingur posts small blind [$15]
+MitchalHaick posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6c ]
+liliqueiroz folds
+Rum1KA folds
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA folds
+milan899srb raises [$755]
+valavikingur folds
+MitchalHaick folds
+** Summary **
+milan899srb did not show his hand
+milan899srb collected [ $75 ]
+
+
+
+#Game No : 642884000
+***** 888poker Hand History for Game 642884000 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:29:16
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: liliqueiroz ( $1,027 )
+Seat 2: Rum1KA ( $970 )
+Seat 3: liesi1962 ( $930 )
+Seat 5: PapaShango19 ( $970 )
+Seat 6: Cardozo_AA ( $820 )
+Seat 7: milan899srb ( $800 )
+Seat 8: valavikingur ( $728 )
+Seat 10: MitchalHaick ( $3,725 )
+MitchalHaick posts small blind [$15]
+liliqueiroz posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Js ]
+Rum1KA folds
+liesi1962 calls [$30]
+PapaShango19 folds
+Cardozo_AA folds
+milan899srb folds
+valavikingur calls [$30]
+MitchalHaick calls [$15]
+liliqueiroz checks
+** Dealing flop ** [ 7c, Ts, Ad ]
+MitchalHaick checks
+liliqueiroz checks
+liesi1962 checks
+valavikingur checks
+** Dealing turn ** [ Qd ]
+MitchalHaick checks
+liliqueiroz checks
+liesi1962 checks
+valavikingur checks
+** Dealing river ** [ 7s ]
+MitchalHaick checks
+liliqueiroz checks
+liesi1962 checks
+valavikingur checks
+** Summary **
+MitchalHaick shows [ 5h, 9d ]
+liliqueiroz shows [ 3h, 8s ]
+liesi1962 shows [ 4h, Kh ]
+valavikingur shows [ 6h, Kd ]
+valavikingur collected [ $60 ]
+liesi1962 collected [ $60 ]
+
+
+
+#Game No : 642884297
+***** 888poker Hand History for Game 642884297 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:30:41
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: liliqueiroz ( $997 )
+Seat 2: Rum1KA ( $970 )
+Seat 3: liesi1962 ( $960 )
+Seat 5: PapaShango19 ( $970 )
+Seat 6: Cardozo_AA ( $820 )
+Seat 7: milan899srb ( $800 )
+Seat 8: valavikingur ( $758 )
+Seat 10: MitchalHaick ( $3,695 )
+liliqueiroz posts small blind [$15]
+Rum1KA posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Qd ]
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA folds
+milan899srb raises [$105]
+valavikingur folds
+MitchalHaick folds
+liliqueiroz raises [$982]
+Rum1KA folds
+milan899srb calls [$695]
+** Dealing flop ** [ 9h, 2s, Kd ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ Ad ]
+** Summary **
+liliqueiroz shows [ 5h, Ac ]
+milan899srb shows [ Js, Kh ]
+liliqueiroz collected [ $1,630 ]
+
+
+
+#Game No : 642884461
+***** 888poker Hand History for Game 642884461 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:31:33
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,827 )
+Seat 2: Rum1KA ( $940 )
+Seat 3: liesi1962 ( $960 )
+Seat 5: PapaShango19 ( $970 )
+Seat 6: Cardozo_AA ( $820 )
+Seat 8: valavikingur ( $758 )
+Seat 10: MitchalHaick ( $3,695 )
+Rum1KA posts small blind [$15]
+liesi1962 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 6c ]
+PapaShango19 raises [$60]
+Cardozo_AA folds
+valavikingur calls [$60]
+MitchalHaick folds
+liliqueiroz folds
+Rum1KA calls [$45]
+liesi1962 folds
+** Dealing flop ** [ 7c, 2c, Ks ]
+Rum1KA checks
+PapaShango19 checks
+valavikingur bets [$30]
+Rum1KA calls [$30]
+PapaShango19 calls [$30]
+** Dealing turn ** [ Ah ]
+Rum1KA checks
+PapaShango19 checks
+valavikingur bets [$60]
+Rum1KA raises [$360]
+PapaShango19 folds
+valavikingur folds
+** Summary **
+Rum1KA did not show his hand
+Rum1KA collected [ $420 ]
+
+
+
+#Game No : 642884831
+***** 888poker Hand History for Game 642884831 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:33:22
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,827 )
+Seat 2: Rum1KA ( $1,210 )
+Seat 3: liesi1962 ( $930 )
+Seat 5: PapaShango19 ( $880 )
+Seat 6: Cardozo_AA ( $820 )
+Seat 8: valavikingur ( $608 )
+Seat 10: MitchalHaick ( $3,695 )
+liesi1962 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 3h ]
+Cardozo_AA raises [$90]
+valavikingur folds
+MitchalHaick calls [$90]
+liliqueiroz folds
+Rum1KA folds
+liesi1962 folds
+PapaShango19 folds
+** Dealing flop ** [ 6d, Tc, Ad ]
+Cardozo_AA bets [$60]
+MitchalHaick calls [$60]
+** Dealing turn ** [ 2d ]
+Cardozo_AA bets [$60]
+MitchalHaick calls [$60]
+** Dealing river ** [ 4d ]
+Cardozo_AA bets [$60]
+MitchalHaick calls [$60]
+** Summary **
+Cardozo_AA shows [ Qs, Qh ]
+MitchalHaick shows [ Th, 9d ]
+MitchalHaick collected [ $585 ]
+
+
+
+#Game No : 642884966
+***** 888poker Hand History for Game 642884966 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:34:02
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,827 )
+Seat 2: Rum1KA ( $1,210 )
+Seat 3: liesi1962 ( $915 )
+Seat 5: PapaShango19 ( $850 )
+Seat 6: Cardozo_AA ( $550 )
+Seat 8: valavikingur ( $608 )
+Seat 10: MitchalHaick ( $4,010 )
+PapaShango19 posts small blind [$15]
+Cardozo_AA posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Kd ]
+valavikingur calls [$30]
+MitchalHaick raises [$60]
+liliqueiroz folds
+Rum1KA folds
+liesi1962 folds
+PapaShango19 raises [$835]
+Cardozo_AA calls [$520]
+valavikingur folds
+MitchalHaick folds
+** Dealing flop ** [ Qc, Jc, 3d ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 9d ]
+** Summary **
+PapaShango19 shows [ Ad, Kd ]
+Cardozo_AA shows [ 9s, Kh ]
+Cardozo_AA collected [ $1,190 ]
+
+
+
+#Game No : 642885153
+***** 888poker Hand History for Game 642885153 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 02:34:58
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,827 )
+Seat 2: Rum1KA ( $1,210 )
+Seat 3: liesi1962 ( $915 )
+Seat 5: PapaShango19 ( $300 )
+Seat 6: Cardozo_AA ( $1,190 )
+Seat 8: valavikingur ( $578 )
+Seat 10: MitchalHaick ( $3,950 )
+Cardozo_AA posts small blind [$15]
+valavikingur posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Kc ]
+MitchalHaick raises [$78]
+liliqueiroz folds
+Rum1KA folds
+liesi1962 calls [$78]
+PapaShango19 folds
+Cardozo_AA folds
+valavikingur calls [$48]
+** Dealing flop ** [ Ks, Kd, 9c ]
+valavikingur checks
+MitchalHaick bets [$30]
+liesi1962 calls [$30]
+valavikingur folds
+** Dealing turn ** [ Td ]
+MitchalHaick bets [$154]
+liesi1962 folds
+** Summary **
+MitchalHaick did not show his hand
+MitchalHaick collected [ $309 ]
+
+
+
+#Game No : 642885305
+***** 888poker Hand History for Game 642885305 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:35:45
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,827 )
+Seat 2: Rum1KA ( $1,210 )
+Seat 3: liesi1962 ( $807 )
+Seat 5: PapaShango19 ( $300 )
+Seat 6: Cardozo_AA ( $1,175 )
+Seat 8: valavikingur ( $500 )
+Seat 10: MitchalHaick ( $4,151 )
+valavikingur posts small blind [$25]
+MitchalHaick posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 9c ]
+liliqueiroz folds
+Rum1KA folds
+liesi1962 folds
+PapaShango19 raises [$150]
+Cardozo_AA folds
+valavikingur folds
+MitchalHaick calls [$100]
+** Dealing flop ** [ Kh, 9d, 4s ]
+MitchalHaick bets [$150]
+PapaShango19 calls [$150]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ Qc ]
+** Summary **
+PapaShango19 shows [ 9s, 9c ]
+MitchalHaick shows [ 8s, 8c ]
+PapaShango19 collected [ $625 ]
+
+
+
+#Game No : 642885447
+***** 888poker Hand History for Game 642885447 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:36:24
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 1: liliqueiroz ( $1,827 )
+Seat 2: Rum1KA ( $1,210 )
+Seat 3: liesi1962 ( $807 )
+Seat 5: PapaShango19 ( $625 )
+Seat 6: Cardozo_AA ( $1,175 )
+Seat 8: valavikingur ( $475 )
+Seat 10: MitchalHaick ( $3,851 )
+MitchalHaick posts small blind [$25]
+liliqueiroz posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 8d ]
+Rum1KA folds
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA folds
+valavikingur calls [$50]
+MitchalHaick calls [$25]
+liliqueiroz checks
+** Dealing flop ** [ Kd, 8h, 3s ]
+MitchalHaick checks
+liliqueiroz checks
+valavikingur bets [$50]
+MitchalHaick calls [$50]
+liliqueiroz folds
+** Dealing turn ** [ Th ]
+MitchalHaick checks
+valavikingur checks
+** Dealing river ** [ As ]
+MitchalHaick bets [$400]
+valavikingur calls [$375]
+** Summary **
+valavikingur shows [ 2h, Ad ]
+MitchalHaick shows [ 3h, Ac ]
+MitchalHaick collected [ $1,000 ]
+
+
+
+#Game No : 642885683
+***** 888poker Hand History for Game 642885683 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:37:38
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: liliqueiroz ( $1,777 )
+Seat 2: Rum1KA ( $1,210 )
+Seat 3: liesi1962 ( $807 )
+Seat 5: PapaShango19 ( $625 )
+Seat 6: Cardozo_AA ( $1,175 )
+Seat 10: MitchalHaick ( $4,376 )
+liliqueiroz posts small blind [$25]
+Rum1KA posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Jd ]
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA folds
+MitchalHaick folds
+liliqueiroz calls [$25]
+Rum1KA checks
+** Dealing flop ** [ Td, 5s, Ad ]
+liliqueiroz checks
+Rum1KA checks
+** Dealing turn ** [ 3d ]
+liliqueiroz checks
+Rum1KA checks
+** Dealing river ** [ Th ]
+liliqueiroz bets [$75]
+Rum1KA folds
+** Summary **
+liliqueiroz did not show his hand
+liliqueiroz collected [ $100 ]
+
+
+
+#Game No : 642885886
+***** 888poker Hand History for Game 642885886 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:38:37
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: liliqueiroz ( $1,827 )
+Seat 2: Rum1KA ( $1,160 )
+Seat 3: liesi1962 ( $807 )
+Seat 5: PapaShango19 ( $625 )
+Seat 6: Cardozo_AA ( $1,175 )
+Seat 10: MitchalHaick ( $4,376 )
+Rum1KA posts small blind [$25]
+liesi1962 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Td ]
+PapaShango19 folds
+Cardozo_AA folds
+MitchalHaick calls [$50]
+liliqueiroz calls [$50]
+Rum1KA folds
+liesi1962 checks
+** Dealing flop ** [ Jd, 2h, 4d ]
+liesi1962 bets [$757]
+MitchalHaick folds
+liliqueiroz folds
+** Summary **
+liesi1962 did not show his hand
+liesi1962 collected [ $175 ]
+
+
+
+#Game No : 642885984
+***** 888poker Hand History for Game 642885984 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:39:11
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: liliqueiroz ( $1,777 )
+Seat 2: Rum1KA ( $1,135 )
+Seat 3: liesi1962 ( $932 )
+Seat 5: PapaShango19 ( $625 )
+Seat 6: Cardozo_AA ( $1,175 )
+Seat 10: MitchalHaick ( $4,326 )
+liesi1962 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 2c ]
+Cardozo_AA folds
+MitchalHaick folds
+liliqueiroz raises [$175]
+Rum1KA calls [$175]
+liesi1962 folds
+PapaShango19 folds
+** Dealing flop ** [ Jh, Td, 5h ]
+liliqueiroz bets [$1,602]
+Rum1KA folds
+** Summary **
+liliqueiroz did not show his hand
+liliqueiroz collected [ $425 ]
+
+
+
+#Game No : 642886146
+***** 888poker Hand History for Game 642886146 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:40:01
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: liliqueiroz ( $2,027 )
+Seat 2: Rum1KA ( $960 )
+Seat 3: liesi1962 ( $907 )
+Seat 5: PapaShango19 ( $575 )
+Seat 6: Cardozo_AA ( $1,175 )
+Seat 10: MitchalHaick ( $4,326 )
+PapaShango19 posts small blind [$25]
+Cardozo_AA posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 5s ]
+MitchalHaick folds
+liliqueiroz calls [$50]
+Rum1KA folds
+liesi1962 folds
+PapaShango19 folds
+Cardozo_AA raises [$150]
+liliqueiroz calls [$150]
+** Dealing flop ** [ Jd, Ah, Tc ]
+Cardozo_AA checks
+liliqueiroz bets [$1,827]
+Cardozo_AA calls [$975]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 9h ]
+** Summary **
+liliqueiroz shows [ 4h, As ]
+Cardozo_AA shows [ Jh, Js ]
+Cardozo_AA collected [ $2,375 ]
+
+
+
+#Game No : 642886289
+***** 888poker Hand History for Game 642886289 *****
+$25/$50 Blinds No Limit Holdem - *** 23 11 2014 02:40:52
+Tournament #63766852 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: liliqueiroz ( $852 )
+Seat 2: Rum1KA ( $960 )
+Seat 3: liesi1962 ( $907 )
+Seat 5: PapaShango19 ( $550 )
+Seat 6: Cardozo_AA ( $2,375 )
+Seat 10: MitchalHaick ( $4,326 )
+Cardozo_AA posts small blind [$25]
+MitchalHaick posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 8h ]
+liliqueiroz calls [$50]
+Rum1KA calls [$50]
+liesi1962 folds
+PapaShango19 raises [$550]
+Cardozo_AA folds
+MitchalHaick folds
+liliqueiroz raises [$802]
+Rum1KA folds
+** Dealing flop ** [ Ac, Js, Ks ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ Kh ]
+** Summary **
+liliqueiroz shows [ Kc, 5s ]
+PapaShango19 shows [ Ah, 8h ]
+liliqueiroz collected [ $1,225 ]
+
+
+

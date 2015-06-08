@@ -1,0 +1,123 @@
+#Game No : 481769034
+***** 888poker Hand History for Game 481769034 *****
+$15/$30 Blinds No Limit Holdem - *** 17 11 2014 20:12:34
+Tournament #63571285 $1.30 + $0.20 - Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Chucki85 ( $1,415 )
+Seat 2: sprut81 ( $1,480 )
+Seat 3: AGAAK ( $3,000 )
+Seat 4: Sjukjoss ( $3,000 )
+Seat 5: PapaShango19 ( $1,500 )
+Seat 6: Aleximus2014 ( $4,575 )
+Seat 7: chudic08 ( $1,530 )
+Seat 9: poorbluff ( $1,500 )
+Seat 10: bibistom81 ( $3,000 )
+sprut81 posts small blind [$10]
+AGAAK posts big blind [$20]
+** Dealing down cards **
+Sjukjoss calls [$20]
+PapaShango19 folds
+Aleximus2014 calls [$20]
+chudic08 calls [$20]
+poorbluff folds
+bibistom81 folds
+Chucki85 calls [$20]
+sprut81 folds
+AGAAK checks
+** Dealing flop ** [ 4d, 7d, Ac ]
+AGAAK checks
+Sjukjoss checks
+Aleximus2014 bets [$90]
+chudic08 folds
+Chucki85 calls [$90]
+AGAAK folds
+Sjukjoss folds
+** Dealing turn ** [ 7h ]
+Aleximus2014 bets [$120]
+Chucki85 raises [$300]
+Aleximus2014 folds
+** Summary **
+Chucki85 did not show his hand
+Chucki85 collected [ $530 ]
+
+
+
+#Game No : 481771548
+***** 888poker Hand History for Game 481771548 *****
+$25/$50 Blinds No Limit Holdem - *** 17 11 2014 20:19:50
+Tournament #63571285 $1.30 + $0.20 - Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: sprut81 ( $4,230 )
+Seat 3: AGAAK ( $2,965 )
+Seat 4: Sjukjoss ( $1,795 )
+Seat 5: PapaShango19 ( $1,320 )
+Seat 6: Aleximus2014 ( $4,345 )
+Seat 7: chudic08 ( $1,510 )
+Seat 9: poorbluff ( $120 )
+Seat 10: Sjekach ( $1,500 )
+PapaShango19 posts small blind [$25]
+Aleximus2014 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 4s ]
+chudic08 folds
+poorbluff raises [$120]
+Sjekach folds
+sprut81 folds
+AGAAK folds
+Sjukjoss raises [$1,795]
+PapaShango19 folds
+Aleximus2014 calls [$1,745]
+** Dealing flop ** [ Ac, Tc, 2h ]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ 3s ]
+** Summary **
+Sjukjoss shows [ 8d, Qd ]
+Aleximus2014 shows [ Ks, Ts ]
+poorbluff shows [ 5d, 9d ]
+Aleximus2014 collected [ $385 ]
+Aleximus2014 collected [ $3,350 ]
+
+
+
+#Game No : 481771794
+***** 888poker Hand History for Game 481771794 *****
+$25/$50 Blinds No Limit Holdem - *** 17 11 2014 20:22:55
+Tournament #63571285 $1.30 + $0.20 - Table #2 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: zaanozaaa ( $1,500 )
+Seat 2: sprut81 ( $4,230 )
+Seat 3: AGAAK ( $2,965 )
+Seat 4: pastlife08 ( $1,980 )
+Seat 5: PapaShango19 ( $1,295 )
+Seat 6: Aleximus2014 ( $6,285 )
+Seat 7: chudic08 ( $1,510 )
+Seat 10: Sjekach ( $1,500 )
+Aleximus2014 posts small blind [$25]
+chudic08 posts big blind [$50]
+** Dealing down cards **
+Sjekach folds
+zaanozaaa folds
+sprut81 folds
+AGAAK raises [$150]
+pastlife08 folds
+PapaShango19 folds
+Aleximus2014 calls [$125]
+chudic08 calls [$100]
+** Dealing flop ** [ Jc, 6c, 9h ]
+Aleximus2014 checks
+chudic08 checks
+AGAAK checks
+** Dealing turn ** [ Jd ]
+Aleximus2014 checks
+chudic08 bets [$50]
+AGAAK folds
+Aleximus2014 folds
+** Summary **
+chudic08 did not show his hand
+chudic08 collected [ $450 ]
+
+
+

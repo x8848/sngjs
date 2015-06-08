@@ -1,0 +1,3088 @@
+#Game No : 646136930
+***** 888poker Hand History for Game 646136930 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:13:53
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: pkokofmalddy ( $1,500 )
+Seat 2: bobhitib ( $1,500 )
+Seat 3: VIKA0611 ( $1,500 )
+Seat 4: Nash9r ( $1,500 )
+Seat 5: PapaShango19 ( $1,500 )
+Seat 6: bit622 ( $1,500 )
+Seat 7: Tyshino ( $1,500 )
+Seat 9: Wbach90 ( $1,500 )
+Seat 10: CHRISTMAS077 ( $1,500 )
+PapaShango19 posts small blind [$10]
+bit622 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 4d ]
+Tyshino folds
+Wbach90 folds
+CHRISTMAS077 calls [$20]
+pkokofmalddy folds
+bobhitib calls [$20]
+VIKA0611 folds
+Nash9r raises [$110]
+PapaShango19 folds
+bit622 folds
+CHRISTMAS077 raises [$180]
+bobhitib folds
+Nash9r calls [$90]
+** Dealing flop ** [ Ad, Ac, 4c ]
+CHRISTMAS077 bets [$1,300]
+Nash9r folds
+** Summary **
+CHRISTMAS077 did not show his hand
+CHRISTMAS077 collected [ $450 ]
+
+
+
+#Game No : 646137136
+***** 888poker Hand History for Game 646137136 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:15:05
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: pkokofmalddy ( $1,500 )
+Seat 2: bobhitib ( $1,480 )
+Seat 3: VIKA0611 ( $1,500 )
+Seat 4: Nash9r ( $1,300 )
+Seat 5: PapaShango19 ( $1,490 )
+Seat 6: bit622 ( $1,480 )
+Seat 7: Tyshino ( $1,500 )
+Seat 9: Wbach90 ( $1,500 )
+Seat 10: CHRISTMAS077 ( $1,750 )
+bit622 posts small blind [$10]
+Tyshino posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5s ]
+Wbach90 folds
+CHRISTMAS077 folds
+pkokofmalddy folds
+bobhitib folds
+VIKA0611 folds
+Nash9r folds
+PapaShango19 folds
+bit622 calls [$10]
+Tyshino raises [$20]
+bit622 calls [$20]
+** Dealing flop ** [ 7c, Th, Qd ]
+bit622 bets [$20]
+Tyshino raises [$40]
+bit622 calls [$20]
+** Dealing turn ** [ Ah ]
+bit622 bets [$20]
+Tyshino raises [$40]
+bit622 calls [$20]
+** Dealing river ** [ Td ]
+bit622 bets [$20]
+Tyshino calls [$20]
+** Summary **
+bit622 shows [ Qh, 3c ]
+Tyshino shows [ 7s, Qs ]
+bit622 collected [ $140 ]
+Tyshino collected [ $140 ]
+
+
+
+#Game No : 646137325
+***** 888poker Hand History for Game 646137325 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:16:13
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: pkokofmalddy ( $1,500 )
+Seat 2: bobhitib ( $1,480 )
+Seat 3: VIKA0611 ( $1,500 )
+Seat 4: Nash9r ( $1,300 )
+Seat 5: PapaShango19 ( $1,490 )
+Seat 6: bit622 ( $1,480 )
+Seat 7: Tyshino ( $1,500 )
+Seat 9: Wbach90 ( $1,500 )
+Seat 10: CHRISTMAS077 ( $1,750 )
+Tyshino posts small blind [$10]
+Wbach90 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, As ]
+CHRISTMAS077 folds
+pkokofmalddy folds
+bobhitib folds
+VIKA0611 calls [$20]
+Nash9r raises [$90]
+PapaShango19 folds
+bit622 folds
+Tyshino folds
+Wbach90 folds
+VIKA0611 calls [$70]
+** Dealing flop ** [ 5h, Jh, Qh ]
+VIKA0611 bets [$40]
+Nash9r calls [$40]
+** Dealing turn ** [ 7h ]
+VIKA0611 checks
+Nash9r bets [$217]
+VIKA0611 raises [$434]
+Nash9r folds
+** Summary **
+VIKA0611 did not show his hand
+VIKA0611 collected [ $724 ]
+
+
+
+#Game No : 646137585
+***** 888poker Hand History for Game 646137585 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:17:42
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: pkokofmalddy ( $1,500 )
+Seat 2: bobhitib ( $1,480 )
+Seat 3: VIKA0611 ( $1,877 )
+Seat 4: Nash9r ( $953 )
+Seat 5: PapaShango19 ( $1,490 )
+Seat 6: bit622 ( $1,480 )
+Seat 7: Tyshino ( $1,490 )
+Seat 9: Wbach90 ( $1,480 )
+Seat 10: CHRISTMAS077 ( $1,750 )
+Wbach90 posts small blind [$10]
+CHRISTMAS077 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 9s ]
+pkokofmalddy folds
+bobhitib calls [$20]
+VIKA0611 folds
+Nash9r folds
+PapaShango19 raises [$80]
+bit622 folds
+Tyshino calls [$80]
+Wbach90 folds
+CHRISTMAS077 raises [$120]
+bobhitib calls [$120]
+PapaShango19 calls [$60]
+Tyshino calls [$60]
+** Dealing flop ** [ 8h, Ah, 4d ]
+CHRISTMAS077 bets [$570]
+bobhitib folds
+PapaShango19 folds
+Tyshino folds
+** Summary **
+CHRISTMAS077 did not show his hand
+CHRISTMAS077 collected [ $570 ]
+
+
+
+#Game No : 646137767
+***** 888poker Hand History for Game 646137767 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:18:36
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: pkokofmalddy ( $1,500 )
+Seat 2: bobhitib ( $1,340 )
+Seat 3: VIKA0611 ( $1,877 )
+Seat 4: Nash9r ( $953 )
+Seat 5: PapaShango19 ( $1,350 )
+Seat 6: bit622 ( $1,480 )
+Seat 7: Tyshino ( $1,350 )
+Seat 9: Wbach90 ( $1,470 )
+Seat 10: CHRISTMAS077 ( $2,180 )
+CHRISTMAS077 posts small blind [$10]
+pkokofmalddy posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 8h ]
+bobhitib calls [$20]
+VIKA0611 calls [$20]
+Nash9r folds
+PapaShango19 calls [$20]
+bit622 calls [$20]
+Tyshino calls [$20]
+Wbach90 folds
+CHRISTMAS077 folds
+pkokofmalddy raises [$180]
+bobhitib raises [$480]
+VIKA0611 folds
+PapaShango19 folds
+bit622 folds
+Tyshino calls [$480]
+pkokofmalddy raises [$1,300]
+bobhitib calls [$840]
+Tyshino calls [$850]
+** Dealing flop ** [ Tc, Qs, 8s ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 9c ]
+** Summary **
+pkokofmalddy shows [ Ah, Ks ]
+bobhitib shows [ 9d, 7d ]
+Tyshino shows [ Jc, 8c ]
+Tyshino collected [ $4,090 ]
+Tyshino collected [ $20 ]
+
+
+
+#Game No : 646138019
+***** 888poker Hand History for Game 646138019 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:19:51
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: pkokofmalddy ( $150 )
+Seat 3: VIKA0611 ( $1,857 )
+Seat 4: Nash9r ( $953 )
+Seat 5: PapaShango19 ( $1,330 )
+Seat 6: bit622 ( $1,460 )
+Seat 7: Tyshino ( $4,110 )
+Seat 9: Wbach90 ( $1,470 )
+Seat 10: CHRISTMAS077 ( $2,170 )
+pkokofmalddy posts small blind [$10]
+VIKA0611 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 6h ]
+Nash9r folds
+PapaShango19 folds
+bit622 calls [$20]
+Tyshino calls [$20]
+Wbach90 calls [$20]
+CHRISTMAS077 folds
+pkokofmalddy folds
+VIKA0611 checks
+** Dealing flop ** [ Js, Jd, 4s ]
+VIKA0611 checks
+bit622 bets [$20]
+Tyshino calls [$20]
+Wbach90 folds
+VIKA0611 calls [$20]
+** Dealing turn ** [ 8h ]
+VIKA0611 checks
+bit622 bets [$20]
+Tyshino calls [$20]
+VIKA0611 calls [$20]
+** Dealing river ** [ Ks ]
+VIKA0611 checks
+bit622 checks
+Tyshino checks
+** Summary **
+VIKA0611 shows [ 8c, Ac ]
+bit622 mucks [ 5c, Ad ]
+Tyshino mucks [ 4d, 9d ]
+VIKA0611 collected [ $210 ]
+
+
+
+#Game No : 646138345
+***** 888poker Hand History for Game 646138345 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 14:21:33
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: pkokofmalddy ( $140 )
+Seat 3: VIKA0611 ( $2,007 )
+Seat 4: Nash9r ( $953 )
+Seat 5: PapaShango19 ( $1,330 )
+Seat 6: bit622 ( $1,400 )
+Seat 7: Tyshino ( $4,050 )
+Seat 9: Wbach90 ( $1,450 )
+Seat 10: CHRISTMAS077 ( $2,170 )
+VIKA0611 posts small blind [$10]
+Nash9r posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 8d ]
+PapaShango19 folds
+bit622 folds
+Tyshino calls [$20]
+Wbach90 folds
+CHRISTMAS077 folds
+pkokofmalddy folds
+VIKA0611 calls [$10]
+Nash9r checks
+** Dealing flop ** [ 2s, 2c, Ks ]
+VIKA0611 checks
+Nash9r checks
+Tyshino checks
+** Dealing turn ** [ 3h ]
+VIKA0611 checks
+Nash9r checks
+Tyshino checks
+** Dealing river ** [ Ad ]
+VIKA0611 checks
+Nash9r bets [$60]
+Tyshino folds
+VIKA0611 folds
+** Summary **
+Nash9r did not show his hand
+Nash9r collected [ $60 ]
+
+
+
+#Game No : 646138486
+***** 888poker Hand History for Game 646138486 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:22:19
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: pkokofmalddy ( $140 )
+Seat 3: VIKA0611 ( $1,987 )
+Seat 4: Nash9r ( $993 )
+Seat 5: PapaShango19 ( $1,330 )
+Seat 6: bit622 ( $1,400 )
+Seat 7: Tyshino ( $4,030 )
+Seat 9: Wbach90 ( $1,450 )
+Seat 10: CHRISTMAS077 ( $2,170 )
+Nash9r posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Ts ]
+bit622 calls [$30]
+Tyshino calls [$30]
+Wbach90 folds
+CHRISTMAS077 folds
+pkokofmalddy folds
+VIKA0611 calls [$30]
+Nash9r calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 3c, 6h, 5c ]
+Nash9r bets [$112]
+PapaShango19 folds
+bit622 folds
+Tyshino calls [$112]
+VIKA0611 folds
+** Dealing turn ** [ 4c ]
+Nash9r checks
+Tyshino checks
+** Dealing river ** [ 6d ]
+Nash9r checks
+Tyshino bets [$30]
+Nash9r calls [$30]
+** Summary **
+Tyshino shows [ Qs, 6s ]
+Nash9r mucks [ 4h, 9c ]
+Tyshino collected [ $434 ]
+
+
+
+#Game No : 646138735
+***** 888poker Hand History for Game 646138735 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:23:43
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: pkokofmalddy ( $140 )
+Seat 3: VIKA0611 ( $1,957 )
+Seat 4: Nash9r ( $821 )
+Seat 5: PapaShango19 ( $1,300 )
+Seat 6: bit622 ( $1,370 )
+Seat 7: Tyshino ( $4,292 )
+Seat 9: Wbach90 ( $1,450 )
+Seat 10: CHRISTMAS077 ( $2,170 )
+PapaShango19 posts small blind [$15]
+bit622 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 8s ]
+Tyshino folds
+Wbach90 folds
+CHRISTMAS077 calls [$30]
+pkokofmalddy folds
+VIKA0611 folds
+Nash9r raises [$821]
+PapaShango19 folds
+bit622 calls [$791]
+CHRISTMAS077 folds
+** Dealing flop ** [ 2c, 4s, 3h ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ 4c ]
+** Summary **
+Nash9r shows [ Jh, As ]
+bit622 shows [ Ad, Ac ]
+bit622 collected [ $1,687 ]
+
+
+
+#Game No : 646138927
+***** 888poker Hand History for Game 646138927 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:24:51
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $140 )
+Seat 3: VIKA0611 ( $1,957 )
+Seat 5: PapaShango19 ( $1,285 )
+Seat 6: bit622 ( $2,236 )
+Seat 7: Tyshino ( $4,292 )
+Seat 9: Wbach90 ( $1,450 )
+Seat 10: CHRISTMAS077 ( $2,140 )
+bit622 posts small blind [$15]
+Tyshino posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Kh ]
+Wbach90 folds
+CHRISTMAS077 calls [$30]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 calls [$15]
+Tyshino checks
+** Dealing flop ** [ Qc, Jd, As ]
+bit622 bets [$30]
+Tyshino calls [$30]
+CHRISTMAS077 calls [$30]
+** Dealing turn ** [ Qs ]
+bit622 bets [$30]
+Tyshino calls [$30]
+CHRISTMAS077 calls [$30]
+** Dealing river ** [ Jh ]
+bit622 bets [$270]
+Tyshino calls [$270]
+CHRISTMAS077 calls [$270]
+** Summary **
+bit622 shows [ 3s, Js ]
+Tyshino mucks [ Ah, 6h ]
+CHRISTMAS077 mucks [ Ks, 2s ]
+bit622 collected [ $1,080 ]
+
+
+
+#Game No : 646139215
+***** 888poker Hand History for Game 646139215 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:26:39
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $140 )
+Seat 3: VIKA0611 ( $1,957 )
+Seat 5: PapaShango19 ( $1,285 )
+Seat 6: bit622 ( $2,956 )
+Seat 7: Tyshino ( $3,932 )
+Seat 9: Wbach90 ( $1,450 )
+Seat 10: CHRISTMAS077 ( $1,780 )
+Tyshino posts small blind [$15]
+Wbach90 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6d ]
+CHRISTMAS077 calls [$30]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 folds
+Tyshino folds
+Wbach90 checks
+** Dealing flop ** [ 9c, Kh, 2d ]
+Wbach90 checks
+CHRISTMAS077 bets [$30]
+Wbach90 folds
+** Summary **
+CHRISTMAS077 did not show his hand
+CHRISTMAS077 collected [ $75 ]
+
+
+
+#Game No : 646139324
+***** 888poker Hand History for Game 646139324 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:27:20
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $140 )
+Seat 3: VIKA0611 ( $1,957 )
+Seat 5: PapaShango19 ( $1,285 )
+Seat 6: bit622 ( $2,956 )
+Seat 7: Tyshino ( $3,917 )
+Seat 9: Wbach90 ( $1,420 )
+Seat 10: CHRISTMAS077 ( $1,825 )
+Wbach90 posts small blind [$15]
+CHRISTMAS077 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 8d ]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 raises [$60]
+Tyshino calls [$60]
+Wbach90 folds
+CHRISTMAS077 raises [$60]
+bit622 calls [$30]
+Tyshino calls [$30]
+** Dealing flop ** [ 7c, 8c, 4d ]
+CHRISTMAS077 bets [$142]
+bit622 calls [$142]
+Tyshino calls [$142]
+** Dealing turn ** [ 2c ]
+CHRISTMAS077 bets [$533]
+bit622 folds
+Tyshino folds
+** Summary **
+CHRISTMAS077 did not show his hand
+CHRISTMAS077 collected [ $711 ]
+
+
+
+#Game No : 646139502
+***** 888poker Hand History for Game 646139502 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:28:24
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $140 )
+Seat 3: VIKA0611 ( $1,957 )
+Seat 5: PapaShango19 ( $1,285 )
+Seat 6: bit622 ( $2,724 )
+Seat 7: Tyshino ( $3,685 )
+Seat 9: Wbach90 ( $1,405 )
+Seat 10: CHRISTMAS077 ( $2,304 )
+CHRISTMAS077 posts small blind [$15]
+pkokofmalddy posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 5h ]
+VIKA0611 folds
+PapaShango19 folds
+bit622 folds
+Tyshino folds
+Wbach90 folds
+CHRISTMAS077 raises [$45]
+pkokofmalddy folds
+** Summary **
+CHRISTMAS077 did not show his hand
+CHRISTMAS077 collected [ $60 ]
+
+
+
+#Game No : 646139597
+***** 888poker Hand History for Game 646139597 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 14:29:01
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $110 )
+Seat 3: VIKA0611 ( $1,957 )
+Seat 5: PapaShango19 ( $1,285 )
+Seat 6: bit622 ( $2,724 )
+Seat 7: Tyshino ( $3,685 )
+Seat 9: Wbach90 ( $1,405 )
+Seat 10: CHRISTMAS077 ( $2,334 )
+pkokofmalddy posts small blind [$15]
+VIKA0611 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 2s ]
+PapaShango19 folds
+bit622 folds
+Tyshino calls [$30]
+Wbach90 folds
+CHRISTMAS077 calls [$30]
+pkokofmalddy folds
+VIKA0611 checks
+** Dealing flop ** [ 3c, Qc, 6c ]
+VIKA0611 checks
+Tyshino checks
+CHRISTMAS077 checks
+** Dealing turn ** [ Tc ]
+VIKA0611 checks
+Tyshino checks
+CHRISTMAS077 checks
+** Dealing river ** [ Ac ]
+VIKA0611 checks
+Tyshino bets [$30]
+CHRISTMAS077 calls [$30]
+VIKA0611 calls [$30]
+** Summary **
+Tyshino shows [ Qs, Jd ]
+CHRISTMAS077 shows [ 8d, Js ]
+VIKA0611 shows [ 6h, 2c ]
+CHRISTMAS077 collected [ $65 ]
+VIKA0611 collected [ $65 ]
+Tyshino collected [ $65 ]
+
+
+
+#Game No : 646139780
+***** 888poker Hand History for Game 646139780 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:30:10
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $95 )
+Seat 3: VIKA0611 ( $1,962 )
+Seat 5: PapaShango19 ( $1,285 )
+Seat 6: bit622 ( $2,724 )
+Seat 7: Tyshino ( $3,690 )
+Seat 9: Wbach90 ( $1,405 )
+Seat 10: CHRISTMAS077 ( $2,339 )
+VIKA0611 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6d ]
+bit622 folds
+Tyshino calls [$50]
+Wbach90 folds
+CHRISTMAS077 calls [$50]
+pkokofmalddy folds
+VIKA0611 calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ Kd, Jc, As ]
+VIKA0611 checks
+PapaShango19 checks
+Tyshino checks
+CHRISTMAS077 checks
+** Dealing turn ** [ 6s ]
+VIKA0611 checks
+PapaShango19 checks
+Tyshino checks
+CHRISTMAS077 checks
+** Dealing river ** [ Ks ]
+VIKA0611 checks
+PapaShango19 checks
+Tyshino folds
+CHRISTMAS077 bets [$50]
+VIKA0611 folds
+PapaShango19 folds
+** Summary **
+CHRISTMAS077 did not show his hand
+CHRISTMAS077 collected [ $200 ]
+
+
+
+#Game No : 646140033
+***** 888poker Hand History for Game 646140033 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:31:52
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $95 )
+Seat 3: VIKA0611 ( $1,912 )
+Seat 5: PapaShango19 ( $1,235 )
+Seat 6: bit622 ( $2,724 )
+Seat 7: Tyshino ( $3,640 )
+Seat 9: Wbach90 ( $1,405 )
+Seat 10: CHRISTMAS077 ( $2,489 )
+PapaShango19 posts small blind [$25]
+bit622 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Kc ]
+Tyshino calls [$50]
+Wbach90 folds
+CHRISTMAS077 raises [$100]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 raises [$150]
+Tyshino calls [$150]
+CHRISTMAS077 calls [$100]
+** Dealing flop ** [ 9c, 2s, Ts ]
+bit622 bets [$150]
+Tyshino calls [$150]
+CHRISTMAS077 calls [$150]
+** Dealing turn ** [ Qc ]
+bit622 bets [$150]
+Tyshino calls [$150]
+CHRISTMAS077 calls [$150]
+** Dealing river ** [ Th ]
+bit622 bets [$150]
+Tyshino folds
+CHRISTMAS077 calls [$150]
+** Summary **
+bit622 shows [ Ah, Kd ]
+CHRISTMAS077 mucks [ 4c, As ]
+bit622 collected [ $1,825 ]
+
+
+
+#Game No : 646140225
+***** 888poker Hand History for Game 646140225 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:33:15
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $95 )
+Seat 3: VIKA0611 ( $1,912 )
+Seat 5: PapaShango19 ( $1,210 )
+Seat 6: bit622 ( $3,899 )
+Seat 7: Tyshino ( $3,140 )
+Seat 9: Wbach90 ( $1,405 )
+Seat 10: CHRISTMAS077 ( $1,839 )
+bit622 posts small blind [$25]
+Tyshino posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 3c ]
+Wbach90 folds
+CHRISTMAS077 folds
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 calls [$25]
+Tyshino checks
+** Dealing flop ** [ Ad, 2c, Jd ]
+bit622 bets [$50]
+Tyshino raises [$100]
+bit622 calls [$50]
+** Dealing turn ** [ 9c ]
+bit622 bets [$50]
+Tyshino raises [$100]
+bit622 folds
+** Summary **
+Tyshino did not show his hand
+Tyshino collected [ $400 ]
+
+
+
+#Game No : 646140411
+***** 888poker Hand History for Game 646140411 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:34:34
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $95 )
+Seat 3: VIKA0611 ( $1,912 )
+Seat 5: PapaShango19 ( $1,210 )
+Seat 6: bit622 ( $3,699 )
+Seat 7: Tyshino ( $3,340 )
+Seat 9: Wbach90 ( $1,405 )
+Seat 10: CHRISTMAS077 ( $1,839 )
+Tyshino posts small blind [$25]
+Wbach90 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8s ]
+CHRISTMAS077 calls [$50]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 raises [$100]
+bit622 folds
+Tyshino calls [$75]
+Wbach90 folds
+CHRISTMAS077 calls [$50]
+** Dealing flop ** [ 6h, 3s, Ah ]
+Tyshino checks
+CHRISTMAS077 checks
+PapaShango19 bets [$350]
+Tyshino folds
+CHRISTMAS077 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $350 ]
+
+
+
+#Game No : 646140627
+***** 888poker Hand History for Game 646140627 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:35:58
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $95 )
+Seat 3: VIKA0611 ( $1,912 )
+Seat 5: PapaShango19 ( $1,460 )
+Seat 6: bit622 ( $3,699 )
+Seat 7: Tyshino ( $3,240 )
+Seat 9: Wbach90 ( $1,355 )
+Seat 10: CHRISTMAS077 ( $1,739 )
+Wbach90 posts small blind [$25]
+CHRISTMAS077 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 2d ]
+pkokofmalddy folds
+VIKA0611 calls [$50]
+PapaShango19 folds
+bit622 calls [$50]
+Tyshino calls [$50]
+Wbach90 folds
+CHRISTMAS077 checks
+** Dealing flop ** [ Qc, 2c, 4h ]
+CHRISTMAS077 checks
+VIKA0611 checks
+bit622 checks
+Tyshino checks
+** Dealing turn ** [ 6s ]
+CHRISTMAS077 checks
+VIKA0611 checks
+bit622 checks
+Tyshino checks
+** Dealing river ** [ 3h ]
+CHRISTMAS077 checks
+VIKA0611 checks
+bit622 checks
+Tyshino checks
+** Summary **
+CHRISTMAS077 shows [ Ts, 5s ]
+VIKA0611 mucks [ 2h, Ac ]
+bit622 mucks [ Tc, Jd ]
+Tyshino mucks [ Td, Th ]
+CHRISTMAS077 collected [ $225 ]
+
+
+
+#Game No : 646140798
+***** 888poker Hand History for Game 646140798 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 14:37:07
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $95 )
+Seat 3: VIKA0611 ( $1,862 )
+Seat 5: PapaShango19 ( $1,460 )
+Seat 6: bit622 ( $3,649 )
+Seat 7: Tyshino ( $3,190 )
+Seat 9: Wbach90 ( $1,330 )
+Seat 10: CHRISTMAS077 ( $1,914 )
+CHRISTMAS077 posts small blind [$25]
+pkokofmalddy posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 2d ]
+VIKA0611 folds
+PapaShango19 folds
+bit622 folds
+Tyshino calls [$50]
+Wbach90 folds
+CHRISTMAS077 calls [$25]
+pkokofmalddy checks
+** Dealing flop ** [ 9d, 5d, Jc ]
+CHRISTMAS077 bets [$50]
+pkokofmalddy calls [$45]
+Tyshino calls [$50]
+** Dealing turn ** [ 2h ]
+CHRISTMAS077 checks
+Tyshino checks
+** Dealing river ** [ Kc ]
+CHRISTMAS077 checks
+Tyshino checks
+** Summary **
+CHRISTMAS077 shows [ As, 5h ]
+pkokofmalddy shows [ Qh, Ks ]
+Tyshino mucks [ 3d, Td ]
+pkokofmalddy collected [ $285 ]
+CHRISTMAS077 collected [ $10 ]
+
+
+
+#Game No : 646140916
+***** 888poker Hand History for Game 646140916 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:37:58
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $285 )
+Seat 3: VIKA0611 ( $1,862 )
+Seat 5: PapaShango19 ( $1,460 )
+Seat 6: bit622 ( $3,649 )
+Seat 7: Tyshino ( $3,090 )
+Seat 9: Wbach90 ( $1,330 )
+Seat 10: CHRISTMAS077 ( $1,824 )
+pkokofmalddy posts small blind [$50]
+VIKA0611 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Ah ]
+PapaShango19 folds
+bit622 calls [$100]
+Tyshino calls [$100]
+Wbach90 folds
+CHRISTMAS077 folds
+pkokofmalddy folds
+VIKA0611 checks
+** Dealing flop ** [ 2d, 8h, Qs ]
+VIKA0611 checks
+bit622 checks
+Tyshino checks
+** Dealing turn ** [ 7d ]
+VIKA0611 checks
+bit622 checks
+Tyshino checks
+** Dealing river ** [ 6c ]
+VIKA0611 checks
+bit622 checks
+Tyshino checks
+** Summary **
+VIKA0611 shows [ 4d, 7c ]
+bit622 mucks [ Ts, Kc ]
+Tyshino mucks [ Tc, Ad ]
+VIKA0611 collected [ $350 ]
+
+
+
+#Game No : 646141068
+***** 888poker Hand History for Game 646141068 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:39:04
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $235 )
+Seat 3: VIKA0611 ( $2,112 )
+Seat 5: PapaShango19 ( $1,460 )
+Seat 6: bit622 ( $3,549 )
+Seat 7: Tyshino ( $2,990 )
+Seat 9: Wbach90 ( $1,330 )
+Seat 10: CHRISTMAS077 ( $1,824 )
+VIKA0611 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4d ]
+bit622 calls [$100]
+Tyshino calls [$100]
+Wbach90 folds
+CHRISTMAS077 calls [$100]
+pkokofmalddy folds
+VIKA0611 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ Js, 4c, 6s ]
+VIKA0611 checks
+PapaShango19 checks
+bit622 bets [$100]
+Tyshino folds
+CHRISTMAS077 calls [$100]
+VIKA0611 folds
+PapaShango19 folds
+** Dealing turn ** [ 5c ]
+bit622 bets [$100]
+CHRISTMAS077 calls [$100]
+** Dealing river ** [ Jh ]
+bit622 bets [$100]
+CHRISTMAS077 raises [$200]
+bit622 calls [$100]
+** Summary **
+CHRISTMAS077 shows [ 7d, Jd ]
+bit622 mucks [ Tc, Ah ]
+CHRISTMAS077 collected [ $1,300 ]
+
+
+
+#Game No : 646141246
+***** 888poker Hand History for Game 646141246 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:40:17
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $235 )
+Seat 3: VIKA0611 ( $2,012 )
+Seat 5: PapaShango19 ( $1,360 )
+Seat 6: bit622 ( $3,049 )
+Seat 7: Tyshino ( $2,890 )
+Seat 9: Wbach90 ( $1,330 )
+Seat 10: CHRISTMAS077 ( $2,624 )
+PapaShango19 posts small blind [$50]
+bit622 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qh ]
+Tyshino folds
+Wbach90 folds
+CHRISTMAS077 folds
+pkokofmalddy raises [$235]
+VIKA0611 folds
+PapaShango19 folds
+bit622 calls [$135]
+** Dealing flop ** [ 5s, 6d, 2h ]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ Th ]
+** Summary **
+pkokofmalddy shows [ 9h, 9c ]
+bit622 shows [ Jh, 6h ]
+pkokofmalddy collected [ $520 ]
+
+
+
+#Game No : 646141329
+***** 888poker Hand History for Game 646141329 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:40:52
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $520 )
+Seat 3: VIKA0611 ( $2,012 )
+Seat 5: PapaShango19 ( $1,310 )
+Seat 6: bit622 ( $2,814 )
+Seat 7: Tyshino ( $2,890 )
+Seat 9: Wbach90 ( $1,330 )
+Seat 10: CHRISTMAS077 ( $2,624 )
+bit622 posts small blind [$50]
+Tyshino posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 3c ]
+Wbach90 folds
+CHRISTMAS077 calls [$100]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 calls [$50]
+Tyshino checks
+** Dealing flop ** [ Td, 2d, Jd ]
+bit622 bets [$100]
+Tyshino calls [$100]
+CHRISTMAS077 calls [$100]
+** Dealing turn ** [ Qh ]
+bit622 bets [$100]
+Tyshino calls [$100]
+CHRISTMAS077 calls [$100]
+** Dealing river ** [ Ad ]
+bit622 bets [$100]
+Tyshino calls [$100]
+CHRISTMAS077 raises [$200]
+bit622 folds
+Tyshino calls [$100]
+** Summary **
+CHRISTMAS077 shows [ Kc, 4d ]
+Tyshino shows [ 5d, 7d ]
+Tyshino collected [ $1,400 ]
+
+
+
+#Game No : 646141556
+***** 888poker Hand History for Game 646141556 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:42:21
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: pkokofmalddy ( $520 )
+Seat 3: VIKA0611 ( $2,012 )
+Seat 5: PapaShango19 ( $1,310 )
+Seat 6: bit622 ( $2,414 )
+Seat 7: Tyshino ( $3,790 )
+Seat 9: Wbach90 ( $1,330 )
+Seat 10: CHRISTMAS077 ( $2,124 )
+Tyshino posts small blind [$50]
+Wbach90 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7d ]
+CHRISTMAS077 folds
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 raises [$200]
+Tyshino calls [$150]
+Wbach90 raises [$1,230]
+bit622 calls [$1,130]
+Tyshino calls [$1,130]
+** Dealing flop ** [ 7s, 9s, 8d ]
+Tyshino checks
+bit622 bets [$1,084]
+Tyshino calls [$1,084]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ Ts ]
+** Summary **
+bit622 shows [ Ks, Kd ]
+Tyshino shows [ 9h, Ah ]
+Wbach90 shows [ Qc, As ]
+bit622 collected [ $3,990 ]
+bit622 collected [ $2,168 ]
+
+
+
+#Game No : 646141731
+***** 888poker Hand History for Game 646141731 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:43:31
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: pkokofmalddy ( $520 )
+Seat 3: VIKA0611 ( $2,012 )
+Seat 5: PapaShango19 ( $1,310 )
+Seat 6: bit622 ( $6,158 )
+Seat 7: Tyshino ( $1,376 )
+Seat 10: CHRISTMAS077 ( $2,124 )
+CHRISTMAS077 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 4d ]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 folds
+Tyshino calls [$100]
+CHRISTMAS077 checks
+** Dealing flop ** [ 2s, Td, 8h ]
+CHRISTMAS077 checks
+Tyshino checks
+** Dealing turn ** [ Jh ]
+CHRISTMAS077 checks
+Tyshino checks
+** Dealing river ** [ 8d ]
+CHRISTMAS077 checks
+Tyshino checks
+** Summary **
+CHRISTMAS077 shows [ 5s, 9h ]
+Tyshino shows [ 6d, 9d ]
+CHRISTMAS077 collected [ $100 ]
+Tyshino collected [ $100 ]
+
+
+
+#Game No : 646141868
+***** 888poker Hand History for Game 646141868 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:44:20
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: pkokofmalddy ( $520 )
+Seat 3: VIKA0611 ( $2,012 )
+Seat 5: PapaShango19 ( $1,310 )
+Seat 6: bit622 ( $6,158 )
+Seat 7: Tyshino ( $1,376 )
+Seat 10: CHRISTMAS077 ( $2,124 )
+CHRISTMAS077 posts small blind [$50]
+pkokofmalddy posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Th ]
+VIKA0611 folds
+PapaShango19 raises [$300]
+bit622 calls [$300]
+Tyshino folds
+CHRISTMAS077 folds
+pkokofmalddy folds
+** Dealing flop ** [ 9h, 3s, 5c ]
+PapaShango19 bets [$562]
+bit622 calls [$562]
+** Dealing turn ** [ 5h ]
+PapaShango19 bets [$448]
+bit622 calls [$448]
+** Dealing river ** [ 8d ]
+** Summary **
+PapaShango19 shows [ Ts, Th ]
+bit622 shows [ As, Kh ]
+PapaShango19 collected [ $2,770 ]
+
+
+
+#Game No : 646142020
+***** 888poker Hand History for Game 646142020 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 14:45:18
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: pkokofmalddy ( $420 )
+Seat 3: VIKA0611 ( $2,012 )
+Seat 5: PapaShango19 ( $2,770 )
+Seat 6: bit622 ( $4,848 )
+Seat 7: Tyshino ( $1,376 )
+Seat 10: CHRISTMAS077 ( $2,074 )
+pkokofmalddy posts small blind [$50]
+VIKA0611 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+PapaShango19 folds
+bit622 folds
+Tyshino calls [$100]
+CHRISTMAS077 calls [$100]
+pkokofmalddy folds
+VIKA0611 checks
+** Dealing flop ** [ 7c, As, 5d ]
+VIKA0611 checks
+Tyshino checks
+CHRISTMAS077 checks
+** Dealing turn ** [ 6d ]
+VIKA0611 checks
+Tyshino checks
+CHRISTMAS077 checks
+** Dealing river ** [ Ks ]
+VIKA0611 bets [$200]
+Tyshino folds
+CHRISTMAS077 calls [$200]
+** Summary **
+VIKA0611 shows [ 4d, 8d ]
+CHRISTMAS077 mucks [ Js, 4s ]
+VIKA0611 collected [ $750 ]
+
+
+
+#Game No : 646142171
+***** 888poker Hand History for Game 646142171 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:46:21
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: pkokofmalddy ( $370 )
+Seat 3: VIKA0611 ( $2,462 )
+Seat 5: PapaShango19 ( $2,770 )
+Seat 6: bit622 ( $4,848 )
+Seat 7: Tyshino ( $1,276 )
+Seat 10: CHRISTMAS077 ( $1,774 )
+VIKA0611 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Qh ]
+bit622 folds
+Tyshino calls [$150]
+CHRISTMAS077 calls [$150]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 raises [$450]
+Tyshino calls [$450]
+CHRISTMAS077 calls [$450]
+** Dealing flop ** [ 5c, 8c, As ]
+PapaShango19 bets [$937]
+Tyshino folds
+CHRISTMAS077 raises [$1,174]
+PapaShango19 calls [$237]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Qd ]
+** Summary **
+PapaShango19 shows [ Qc, Qh ]
+CHRISTMAS077 shows [ 3c, Ad ]
+PapaShango19 collected [ $4,223 ]
+
+
+
+#Game No : 646142385
+***** 888poker Hand History for Game 646142385 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:47:41
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: pkokofmalddy ( $370 )
+Seat 3: VIKA0611 ( $2,387 )
+Seat 5: PapaShango19 ( $5,219 )
+Seat 6: bit622 ( $4,848 )
+Seat 7: Tyshino ( $676 )
+PapaShango19 posts small blind [$75]
+bit622 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 9h ]
+Tyshino calls [$150]
+pkokofmalddy folds
+VIKA0611 folds
+PapaShango19 folds
+bit622 checks
+** Dealing flop ** [ 7h, 7c, Kh ]
+bit622 bets [$150]
+Tyshino calls [$150]
+** Dealing turn ** [ Ts ]
+bit622 bets [$150]
+Tyshino calls [$150]
+** Dealing river ** [ Kc ]
+bit622 bets [$450]
+Tyshino calls [$226]
+** Summary **
+bit622 shows [ Th, Qd ]
+Tyshino shows [ 5d, As ]
+bit622 collected [ $1,427 ]
+
+
+
+#Game No : 646142631
+***** 888poker Hand History for Game 646142631 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:49:10
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 1: pkokofmalddy ( $370 )
+Seat 3: VIKA0611 ( $2,387 )
+Seat 5: PapaShango19 ( $5,144 )
+Seat 6: bit622 ( $5,599 )
+bit622 posts small blind [$75]
+pkokofmalddy posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 8h ]
+VIKA0611 folds
+PapaShango19 raises [$300]
+bit622 folds
+pkokofmalddy folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 646142715
+***** 888poker Hand History for Game 646142715 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:49:36
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: pkokofmalddy ( $220 )
+Seat 3: VIKA0611 ( $2,387 )
+Seat 5: PapaShango19 ( $5,369 )
+Seat 6: bit622 ( $5,524 )
+pkokofmalddy posts small blind [$75]
+VIKA0611 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 4s ]
+PapaShango19 folds
+bit622 folds
+pkokofmalddy raises [$145]
+VIKA0611 calls [$70]
+** Dealing flop ** [ 3d, 2s, Kd ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Ks ]
+** Summary **
+pkokofmalddy shows [ 9h, Kh ]
+VIKA0611 shows [ Ah, Kc ]
+VIKA0611 collected [ $440 ]
+
+
+
+#Game No : 646142790
+***** 888poker Hand History for Game 646142790 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:50:01
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $2,607 )
+Seat 5: PapaShango19 ( $5,369 )
+Seat 6: bit622 ( $5,524 )
+VIKA0611 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Jd ]
+bit622 folds
+VIKA0611 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ 2c, 5s, Td ]
+VIKA0611 checks
+PapaShango19 bets [$150]
+VIKA0611 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646142851
+***** 888poker Hand History for Game 646142851 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:50:29
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $2,457 )
+Seat 5: PapaShango19 ( $5,519 )
+Seat 6: bit622 ( $5,524 )
+PapaShango19 posts small blind [$75]
+bit622 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Jc ]
+VIKA0611 raises [$2,457]
+PapaShango19 folds
+bit622 folds
+** Summary **
+VIKA0611 did not show his hand
+VIKA0611 collected [ $375 ]
+
+
+
+#Game No : 646142909
+***** 888poker Hand History for Game 646142909 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:50:49
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $2,682 )
+Seat 5: PapaShango19 ( $5,444 )
+Seat 6: bit622 ( $5,374 )
+bit622 posts small blind [$75]
+VIKA0611 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Kd ]
+PapaShango19 folds
+bit622 calls [$75]
+VIKA0611 checks
+** Dealing flop ** [ Kh, 2s, 9c ]
+bit622 bets [$150]
+VIKA0611 raises [$2,532]
+bit622 folds
+** Summary **
+VIKA0611 did not show his hand
+VIKA0611 collected [ $600 ]
+
+
+
+#Game No : 646143005
+***** 888poker Hand History for Game 646143005 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:51:22
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $2,982 )
+Seat 5: PapaShango19 ( $5,444 )
+Seat 6: bit622 ( $5,074 )
+VIKA0611 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Tc ]
+bit622 folds
+VIKA0611 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ As, 3s, Qs ]
+VIKA0611 bets [$2,832]
+PapaShango19 folds
+** Summary **
+VIKA0611 did not show his hand
+VIKA0611 collected [ $300 ]
+
+
+
+#Game No : 646143085
+***** 888poker Hand History for Game 646143085 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:51:49
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $3,132 )
+Seat 5: PapaShango19 ( $5,294 )
+Seat 6: bit622 ( $5,074 )
+PapaShango19 posts small blind [$75]
+bit622 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2d ]
+VIKA0611 folds
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $225 ]
+
+
+
+#Game No : 646143128
+***** 888poker Hand History for Game 646143128 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:51:59
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $3,132 )
+Seat 5: PapaShango19 ( $5,219 )
+Seat 6: bit622 ( $5,149 )
+bit622 posts small blind [$75]
+VIKA0611 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 5d ]
+PapaShango19 folds
+bit622 folds
+** Summary **
+VIKA0611 did not show his hand
+VIKA0611 collected [ $225 ]
+
+
+
+#Game No : 646143169
+***** 888poker Hand History for Game 646143169 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:52:09
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $3,207 )
+Seat 5: PapaShango19 ( $5,219 )
+Seat 6: bit622 ( $5,074 )
+VIKA0611 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Tc ]
+bit622 calls [$150]
+VIKA0611 folds
+PapaShango19 checks
+** Dealing flop ** [ 4s, Js, Ad ]
+PapaShango19 checks
+bit622 bets [$150]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $375 ]
+
+
+
+#Game No : 646143249
+***** 888poker Hand History for Game 646143249 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:52:31
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: VIKA0611 ( $3,132 )
+Seat 5: PapaShango19 ( $5,069 )
+Seat 6: bit622 ( $5,299 )
+PapaShango19 posts small blind [$75]
+bit622 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Qc ]
+VIKA0611 calls [$150]
+PapaShango19 raises [$525]
+bit622 calls [$450]
+VIKA0611 raises [$2,982]
+PapaShango19 raises [$4,469]
+bit622 folds
+** Dealing flop ** [ Td, 3s, 7d ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 3c ]
+** Summary **
+VIKA0611 shows [ 4h, 4c ]
+PapaShango19 shows [ Qh, Qc ]
+PapaShango19 collected [ $6,864 ]
+
+
+
+#Game No : 646143420
+***** 888poker Hand History for Game 646143420 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:53:30
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,801 )
+Seat 6: bit622 ( $4,699 )
+bit622 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Tc ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $225 ]
+
+
+
+#Game No : 646143450
+***** 888poker Hand History for Game 646143450 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 14:53:40
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,876 )
+Seat 6: bit622 ( $4,624 )
+PapaShango19 posts small blind [$75]
+bit622 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Ts ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $225 ]
+
+
+
+#Game No : 646143467
+***** 888poker Hand History for Game 646143467 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:53:49
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,801 )
+Seat 6: bit622 ( $4,699 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 3d ]
+bit622 raises [$300]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $400 ]
+
+
+
+#Game No : 646143528
+***** 888poker Hand History for Game 646143528 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:54:07
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,601 )
+Seat 6: bit622 ( $4,899 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 7c ]
+PapaShango19 raises [$300]
+bit622 raises [$400]
+PapaShango19 calls [$200]
+** Dealing flop ** [ 7s, 4h, 8h ]
+bit622 bets [$600]
+PapaShango19 raises [$1,200]
+bit622 raises [$3,699]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $3,600 ]
+
+
+
+#Game No : 646143664
+***** 888poker Hand History for Game 646143664 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:54:50
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $6,801 )
+Seat 6: bit622 ( $6,699 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 5s ]
+bit622 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Th, 9c, 6h ]
+PapaShango19 checks
+bit622 bets [$200]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $400 ]
+
+
+
+#Game No : 646143733
+***** 888poker Hand History for Game 646143733 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:55:17
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $6,601 )
+Seat 6: bit622 ( $6,899 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, Qs ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $300 ]
+
+
+
+#Game No : 646143760
+***** 888poker Hand History for Game 646143760 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:55:26
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $6,501 )
+Seat 6: bit622 ( $6,999 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2d ]
+bit622 raises [$300]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $400 ]
+
+
+
+#Game No : 646143787
+***** 888poker Hand History for Game 646143787 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:55:38
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $6,301 )
+Seat 6: bit622 ( $7,199 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, As ]
+PapaShango19 raises [$300]
+bit622 calls [$200]
+** Dealing flop ** [ Kh, 7h, 3h ]
+bit622 bets [$200]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $800 ]
+
+
+
+#Game No : 646143837
+***** 888poker Hand History for Game 646143837 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:55:55
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $5,901 )
+Seat 6: bit622 ( $7,599 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 5s ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646143848
+***** 888poker Hand History for Game 646143848 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:56:03
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $6,001 )
+Seat 6: bit622 ( $7,499 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 7s ]
+PapaShango19 calls [$100]
+bit622 checks
+** Dealing flop ** [ 4d, Qc, 5s ]
+bit622 bets [$200]
+PapaShango19 raises [$400]
+bit622 calls [$200]
+** Dealing turn ** [ 6s ]
+bit622 checks
+PapaShango19 bets [$1,200]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,200 ]
+
+
+
+#Game No : 646143919
+***** 888poker Hand History for Game 646143919 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:56:31
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $6,601 )
+Seat 6: bit622 ( $6,899 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Qc ]
+bit622 calls [$100]
+PapaShango19 raises [$400]
+bit622 calls [$400]
+** Dealing flop ** [ 3h, 2h, 3s ]
+PapaShango19 bets [$600]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,200 ]
+
+
+
+#Game No : 646143982
+***** 888poker Hand History for Game 646143982 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:56:54
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,201 )
+Seat 6: bit622 ( $6,299 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4d ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $300 ]
+
+
+
+#Game No : 646143994
+***** 888poker Hand History for Game 646143994 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:57:01
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,101 )
+Seat 6: bit622 ( $6,399 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 6c ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646144016
+***** 888poker Hand History for Game 646144016 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:57:09
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,201 )
+Seat 6: bit622 ( $6,299 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 9d ]
+PapaShango19 raises [$300]
+bit622 calls [$200]
+** Dealing flop ** [ 4h, Js, 9c ]
+bit622 bets [$200]
+PapaShango19 raises [$600]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,200 ]
+
+
+
+#Game No : 646144100
+***** 888poker Hand History for Game 646144100 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:57:45
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,801 )
+Seat 6: bit622 ( $5,699 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 9d ]
+bit622 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Ts, 4c, 3d ]
+PapaShango19 checks
+bit622 checks
+** Dealing turn ** [ Ad ]
+PapaShango19 checks
+bit622 bets [$400]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $400 ]
+
+
+
+#Game No : 646144153
+***** 888poker Hand History for Game 646144153 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:58:11
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,601 )
+Seat 6: bit622 ( $5,899 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 2d ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $300 ]
+
+
+
+#Game No : 646144177
+***** 888poker Hand History for Game 646144177 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:58:18
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,501 )
+Seat 6: bit622 ( $5,999 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4d ]
+bit622 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 4h, Kd, 9h ]
+PapaShango19 checks
+bit622 bets [$400]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $400 ]
+
+
+
+#Game No : 646144224
+***** 888poker Hand History for Game 646144224 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:58:40
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,301 )
+Seat 6: bit622 ( $6,199 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 4h ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $300 ]
+
+
+
+#Game No : 646144265
+***** 888poker Hand History for Game 646144265 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:58:49
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,201 )
+Seat 6: bit622 ( $6,299 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 2c ]
+bit622 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ Ks, 8c, 8d ]
+PapaShango19 checks
+bit622 checks
+** Dealing turn ** [ 5s ]
+PapaShango19 checks
+bit622 checks
+** Dealing river ** [ Td ]
+PapaShango19 checks
+bit622 bets [$400]
+PapaShango19 calls [$400]
+** Summary **
+bit622 shows [ Th, Jh ]
+PapaShango19 shows [ Ts, 2c ]
+PapaShango19 collected [ $600 ]
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646144356
+***** 888poker Hand History for Game 646144356 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:59:20
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,201 )
+Seat 6: bit622 ( $6,299 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 3d ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $300 ]
+
+
+
+#Game No : 646144374
+***** 888poker Hand History for Game 646144374 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:59:28
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,101 )
+Seat 6: bit622 ( $6,399 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, Qh ]
+bit622 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 6d, Qd, 2s ]
+PapaShango19 bets [$400]
+bit622 calls [$400]
+** Dealing turn ** [ Ah ]
+PapaShango19 bets [$600]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,200 ]
+
+
+
+#Game No : 646144457
+***** 888poker Hand History for Game 646144457 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 14:59:59
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,701 )
+Seat 6: bit622 ( $5,799 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6d ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $300 ]
+
+
+
+#Game No : 646144503
+***** 888poker Hand History for Game 646144503 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 15:00:07
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,601 )
+Seat 6: bit622 ( $5,899 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Js ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646144538
+***** 888poker Hand History for Game 646144538 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 15:00:15
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,701 )
+Seat 6: bit622 ( $5,799 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Jd ]
+PapaShango19 calls [$100]
+bit622 checks
+** Dealing flop ** [ 8d, Jc, 8c ]
+bit622 checks
+PapaShango19 bets [$200]
+bit622 calls [$200]
+** Dealing turn ** [ 7d ]
+bit622 checks
+PapaShango19 checks
+** Dealing river ** [ 2s ]
+bit622 checks
+PapaShango19 checks
+** Summary **
+bit622 shows [ 6d, Kc ]
+PapaShango19 shows [ 5d, Jd ]
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 646144651
+***** 888poker Hand History for Game 646144651 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 15:00:48
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,101 )
+Seat 6: bit622 ( $5,399 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 3d ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646144674
+***** 888poker Hand History for Game 646144674 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 15:00:57
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,201 )
+Seat 6: bit622 ( $5,299 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Jh ]
+PapaShango19 raises [$300]
+bit622 calls [$200]
+** Dealing flop ** [ 8d, Kd, Qs ]
+bit622 checks
+PapaShango19 bets [$400]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 646144728
+***** 888poker Hand History for Game 646144728 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 15:01:17
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,601 )
+Seat 6: bit622 ( $4,899 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, As ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646144768
+***** 888poker Hand History for Game 646144768 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 15:01:25
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,701 )
+Seat 6: bit622 ( $4,799 )
+PapaShango19 posts small blind [$100]
+bit622 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Js ]
+PapaShango19 calls [$100]
+bit622 checks
+** Dealing flop ** [ 6d, 2s, Kd ]
+bit622 bets [$200]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $400 ]
+
+
+
+#Game No : 646144807
+***** 888poker Hand History for Game 646144807 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 15:01:40
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,501 )
+Seat 6: bit622 ( $4,999 )
+bit622 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 7s ]
+bit622 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 9h, 2c, Ts ]
+PapaShango19 checks
+bit622 bets [$200]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $400 ]
+
+
+
+#Game No : 646144878
+***** 888poker Hand History for Game 646144878 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:01:58
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,301 )
+Seat 6: bit622 ( $5,199 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Qs ]
+PapaShango19 raises [$450]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646144914
+***** 888poker Hand History for Game 646144914 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:02:09
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,601 )
+Seat 6: bit622 ( $4,899 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 5c ]
+bit622 raises [$450]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646144949
+***** 888poker Hand History for Game 646144949 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:02:20
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,301 )
+Seat 6: bit622 ( $5,199 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Qd ]
+PapaShango19 raises [$550]
+bit622 calls [$400]
+** Dealing flop ** [ 7s, 7d, Tc ]
+bit622 bets [$300]
+PapaShango19 raises [$900]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $2,000 ]
+
+
+
+#Game No : 646145060
+***** 888poker Hand History for Game 646145060 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:02:56
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,301 )
+Seat 6: bit622 ( $4,199 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Jc ]
+bit622 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ 2d, 3c, Qd ]
+PapaShango19 checks
+bit622 checks
+** Dealing turn ** [ 5d ]
+PapaShango19 checks
+bit622 checks
+** Dealing river ** [ 2s ]
+PapaShango19 checks
+bit622 checks
+** Summary **
+PapaShango19 shows [ 6d, Jc ]
+bit622 shows [ 6s, Js ]
+PapaShango19 collected [ $300 ]
+bit622 collected [ $300 ]
+
+
+
+#Game No : 646145153
+***** 888poker Hand History for Game 646145153 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:03:28
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,301 )
+Seat 6: bit622 ( $4,199 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 2d ]
+PapaShango19 calls [$150]
+bit622 checks
+** Dealing flop ** [ 5h, Js, 4c ]
+bit622 bets [$300]
+PapaShango19 calls [$300]
+** Dealing turn ** [ Jc ]
+bit622 bets [$600]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $1,200 ]
+
+
+
+#Game No : 646145255
+***** 888poker Hand History for Game 646145255 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:04:00
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,701 )
+Seat 6: bit622 ( $4,799 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 8s ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 646145267
+***** 888poker Hand History for Game 646145267 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:04:07
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,851 )
+Seat 6: bit622 ( $4,649 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Qh ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $450 ]
+
+
+
+#Game No : 646145291
+***** 888poker Hand History for Game 646145291 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:04:15
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,701 )
+Seat 6: bit622 ( $4,799 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Th ]
+bit622 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ Qd, Ks, Jc ]
+PapaShango19 bets [$600]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646145399
+***** 888poker Hand History for Game 646145399 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:04:58
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,001 )
+Seat 6: bit622 ( $4,499 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 6c ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $450 ]
+
+
+
+#Game No : 646145440
+***** 888poker Hand History for Game 646145440 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:05:14
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,851 )
+Seat 6: bit622 ( $4,649 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 9c ]
+bit622 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ Qh, Ah, Kh ]
+PapaShango19 checks
+bit622 bets [$300]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646145498
+***** 888poker Hand History for Game 646145498 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:05:35
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,551 )
+Seat 6: bit622 ( $4,949 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 9s ]
+PapaShango19 raises [$450]
+bit622 calls [$300]
+** Dealing flop ** [ Tc, 5s, 6d ]
+bit622 bets [$300]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $1,200 ]
+
+
+
+#Game No : 646145602
+***** 888poker Hand History for Game 646145602 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:06:12
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $7,951 )
+Seat 6: bit622 ( $5,549 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 5d ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 646145630
+***** 888poker Hand History for Game 646145630 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:06:21
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,101 )
+Seat 6: bit622 ( $5,399 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 9d ]
+PapaShango19 raises [$450]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646145664
+***** 888poker Hand History for Game 646145664 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:06:32
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,401 )
+Seat 6: bit622 ( $5,099 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Kc ]
+bit622 calls [$150]
+PapaShango19 checks
+** Dealing flop ** [ 8h, 7c, 9c ]
+PapaShango19 checks
+bit622 bets [$600]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646145725
+***** 888poker Hand History for Game 646145725 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:06:56
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,101 )
+Seat 6: bit622 ( $5,399 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 6h ]
+PapaShango19 raises [$450]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646145759
+***** 888poker Hand History for Game 646145759 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:07:09
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,401 )
+Seat 6: bit622 ( $5,099 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 7c ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 646145781
+***** 888poker Hand History for Game 646145781 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:07:19
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,551 )
+Seat 6: bit622 ( $4,949 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Js ]
+PapaShango19 raises [$450]
+bit622 calls [$300]
+** Dealing flop ** [ Qd, Jh, Ad ]
+bit622 bets [$300]
+PapaShango19 raises [$900]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,800 ]
+
+
+
+#Game No : 646145854
+***** 888poker Hand History for Game 646145854 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:07:44
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,451 )
+Seat 6: bit622 ( $4,049 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, Jc ]
+bit622 calls [$150]
+PapaShango19 raises [$600]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646145906
+***** 888poker Hand History for Game 646145906 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:08:07
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,751 )
+Seat 6: bit622 ( $3,749 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 4d ]
+PapaShango19 calls [$150]
+bit622 checks
+** Dealing flop ** [ Kd, 5s, Jd ]
+bit622 checks
+PapaShango19 checks
+** Dealing turn ** [ 2c ]
+bit622 checks
+PapaShango19 checks
+** Dealing river ** [ As ]
+bit622 checks
+PapaShango19 checks
+** Summary **
+bit622 shows [ 6s, 8s ]
+PapaShango19 mucks [ 6d, 4d ]
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646145998
+***** 888poker Hand History for Game 646145998 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:08:49
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,451 )
+Seat 6: bit622 ( $4,049 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Ts ]
+bit622 raises [$450]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146036
+***** 888poker Hand History for Game 646146036 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:08:59
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,151 )
+Seat 6: bit622 ( $4,349 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Ts ]
+PapaShango19 calls [$150]
+bit622 checks
+** Dealing flop ** [ Qc, 7d, Ad ]
+bit622 bets [$300]
+PapaShango19 calls [$300]
+** Dealing turn ** [ 3h ]
+bit622 bets [$600]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $1,200 ]
+
+
+
+#Game No : 646146117
+***** 888poker Hand History for Game 646146117 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:09:33
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,551 )
+Seat 6: bit622 ( $4,949 )
+bit622 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 8d ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 646146137
+***** 888poker Hand History for Game 646146137 *****
+$150/$300 Blinds No Limit Holdem - *** 24 11 2014 15:09:41
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,701 )
+Seat 6: bit622 ( $4,799 )
+PapaShango19 posts small blind [$150]
+bit622 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Kd ]
+PapaShango19 raises [$450]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146161
+***** 888poker Hand History for Game 646146161 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:09:52
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,001 )
+Seat 6: bit622 ( $4,499 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 4h ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146174
+***** 888poker Hand History for Game 646146174 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:10:01
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,201 )
+Seat 6: bit622 ( $4,299 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 5d ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146192
+***** 888poker Hand History for Game 646146192 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:10:10
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,001 )
+Seat 6: bit622 ( $4,499 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9s ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146211
+***** 888poker Hand History for Game 646146211 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:10:18
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,201 )
+Seat 6: bit622 ( $4,299 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Qs ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146240
+***** 888poker Hand History for Game 646146240 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:10:28
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,001 )
+Seat 6: bit622 ( $4,499 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 4h ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146260
+***** 888poker Hand History for Game 646146260 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:10:36
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,201 )
+Seat 6: bit622 ( $4,299 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ah ]
+PapaShango19 raises [$600]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 646146278
+***** 888poker Hand History for Game 646146278 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:10:46
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,601 )
+Seat 6: bit622 ( $3,899 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ts ]
+bit622 calls [$200]
+PapaShango19 raises [$800]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 646146315
+***** 888poker Hand History for Game 646146315 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:11:03
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $10,001 )
+Seat 6: bit622 ( $3,499 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 4c ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146344
+***** 888poker Hand History for Game 646146344 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:11:12
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,801 )
+Seat 6: bit622 ( $3,699 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 8d ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146363
+***** 888poker Hand History for Game 646146363 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:11:20
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $10,001 )
+Seat 6: bit622 ( $3,499 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Jh ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146403
+***** 888poker Hand History for Game 646146403 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:11:31
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,801 )
+Seat 6: bit622 ( $3,699 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 9d ]
+bit622 calls [$200]
+PapaShango19 checks
+** Dealing flop ** [ Qh, Jh, 7h ]
+PapaShango19 checks
+bit622 checks
+** Dealing turn ** [ 7c ]
+PapaShango19 checks
+bit622 bets [$400]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $800 ]
+
+
+
+#Game No : 646146459
+***** 888poker Hand History for Game 646146459 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:11:53
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $9,401 )
+Seat 6: bit622 ( $4,099 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 9s ]
+PapaShango19 raises [$600]
+bit622 calls [$400]
+** Dealing flop ** [ 4d, 8h, Qs ]
+bit622 bets [$400]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $1,600 ]
+
+
+
+#Game No : 646146498
+***** 888poker Hand History for Game 646146498 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:12:10
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $8,601 )
+Seat 6: bit622 ( $4,899 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Kh ]
+bit622 raises [$600]
+PapaShango19 calls [$400]
+** Dealing flop ** [ 2d, As, Jd ]
+PapaShango19 checks
+bit622 bets [$400]
+PapaShango19 calls [$400]
+** Dealing turn ** [ Ts ]
+PapaShango19 checks
+bit622 bets [$1,200]
+PapaShango19 calls [$1,200]
+** Dealing river ** [ 3c ]
+PapaShango19 bets [$1,200]
+bit622 calls [$1,200]
+** Summary **
+PapaShango19 shows [ Qs, Kh ]
+bit622 mucks [ Kd, Tc ]
+PapaShango19 collected [ $7,200 ]
+
+
+
+#Game No : 646146631
+***** 888poker Hand History for Game 646146631 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:13:11
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,201 )
+Seat 6: bit622 ( $1,299 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 9s ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146666
+***** 888poker Hand History for Game 646146666 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:13:23
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,001 )
+Seat 6: bit622 ( $1,499 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Jd ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146680
+***** 888poker Hand History for Game 646146680 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:13:31
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,201 )
+Seat 6: bit622 ( $1,299 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 4c ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146714
+***** 888poker Hand History for Game 646146714 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:13:40
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,001 )
+Seat 6: bit622 ( $1,499 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 3d ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146730
+***** 888poker Hand History for Game 646146730 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:13:48
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,201 )
+Seat 6: bit622 ( $1,299 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 4s ]
+PapaShango19 folds
+** Summary **
+bit622 did not show his hand
+bit622 collected [ $600 ]
+
+
+
+#Game No : 646146749
+***** 888poker Hand History for Game 646146749 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:13:57
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,001 )
+Seat 6: bit622 ( $1,499 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 6c ]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $600 ]
+
+
+
+#Game No : 646146764
+***** 888poker Hand History for Game 646146764 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:14:04
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,201 )
+Seat 6: bit622 ( $1,299 )
+PapaShango19 posts small blind [$200]
+bit622 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6s ]
+PapaShango19 raises [$1,000]
+bit622 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 646146791
+***** 888poker Hand History for Game 646146791 *****
+$200/$400 Blinds No Limit Holdem - *** 24 11 2014 15:14:15
+Tournament #63805746 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PapaShango19 ( $12,601 )
+Seat 6: bit622 ( $899 )
+bit622 posts small blind [$200]
+PapaShango19 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Ad ]
+bit622 raises [$699]
+PapaShango19 calls [$499]
+** Dealing flop ** [ 9h, Js, Qd ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ Qc ]
+** Summary **
+PapaShango19 shows [ 6s, Ad ]
+bit622 shows [ 4h, 5h ]
+PapaShango19 collected [ $1,798 ]
+
+
+

@@ -1,0 +1,2469 @@
+#Game No : 484029093
+***** 888poker Hand History for Game 484029093 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:05:18
+Tournament #63774300 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: XUraniaX ( $3,000 )
+Seat 2: Masterless ( $3,000 )
+Seat 3: Rayzu89 ( $3,000 )
+Seat 4: slasher0123 ( $3,000 )
+Seat 5: booshaloo ( $3,000 )
+Seat 6: locvinhsu ( $3,000 )
+Seat 7: bardo11 ( $3,000 )
+Seat 9: PapaShango19 ( $3,000 )
+Seat 10: StaferiX ( $3,000 )
+slasher0123 posts small blind [$10]
+booshaloo posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Jc ]
+locvinhsu folds
+bardo11 folds
+PapaShango19 calls [$20]
+StaferiX calls [$20]
+XUraniaX folds
+Masterless folds
+Rayzu89 folds
+slasher0123 raises [$90]
+booshaloo folds
+PapaShango19 folds
+StaferiX calls [$80]
+** Dealing flop ** [ Js, 6c, Qc ]
+slasher0123 checks
+StaferiX checks
+** Dealing turn ** [ 4c ]
+slasher0123 checks
+StaferiX bets [$180]
+slasher0123 folds
+** Summary **
+StaferiX did not show his hand
+StaferiX collected [ $240 ]
+
+
+
+#Game No : 484029382
+***** 888poker Hand History for Game 484029382 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:06:44
+Tournament #63774300 $1.10 + $0.15 - Table #5 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: XUraniaX ( $3,000 )
+Seat 2: Masterless ( $3,000 )
+Seat 3: Rayzu89 ( $3,000 )
+Seat 4: slasher0123 ( $2,900 )
+Seat 5: booshaloo ( $2,980 )
+Seat 6: locvinhsu ( $3,000 )
+Seat 7: bardo11 ( $3,000 )
+Seat 9: PapaShango19 ( $2,980 )
+Seat 10: StaferiX ( $3,140 )
+booshaloo posts small blind [$10]
+locvinhsu posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Ac ]
+bardo11 folds
+PapaShango19 calls [$20]
+StaferiX folds
+XUraniaX folds
+Masterless folds
+Rayzu89 folds
+slasher0123 folds
+booshaloo calls [$10]
+locvinhsu checks
+** Dealing flop ** [ 5d, 5s, 3h ]
+booshaloo checks
+locvinhsu checks
+PapaShango19 bets [$60]
+booshaloo folds
+locvinhsu folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $60 ]
+
+
+
+#Game No : 484029586
+***** 888poker Hand History for Game 484029586 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:07:47
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1:  ( $3,000 )
+Seat 2:  ( $2,720 )
+Seat 3:  ( $2,980 )
+Seat 5:  ( $3,000 )
+Seat 6:  ( $3,000 )
+Seat 7:  ( $3,020 )
+Seat 9:  ( $3,000 )
+Seat 10:  ( $3,000 )
+ posts small blind [$10]
+ posts big blind [$20]
+** Dealing down cards **
+Dealt to  [ Jd, 6s ]
+ calls [$20]
+ raises [$100]
+ folds
+ folds
+ folds
+ folds
+ calls [$90]
+ folds
+ calls [$80]
+** Dealing flop ** [ 5d, Td, Tc ]
+ bets [$160]
+ folds
+ calls [$160]
+** Dealing turn ** [ 6c ]
+ bets [$320]
+ calls [$320]
+** Dealing river ** [ 3c ]
+ checks
+ checks
+** Summary **
+ shows [ 8h, 8d ]
+ shows [ Qd, Qs ]
+ collected [ $1,280 ]
+
+
+
+#Game No : 484029815
+***** 888poker Hand History for Game 484029815 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:09:07
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,000 )
+Seat 2: 11legend ( $2,720 )
+Seat 3: valasNApista ( $2,980 )
+Seat 4: lapsa67 ( $3,000 )
+Seat 5: DedProhor ( $3,000 )
+Seat 6: Fedant ( $2,420 )
+Seat 7: PapaShango19 ( $3,000 )
+Seat 9: wal__z ( $2,900 )
+Seat 10: riwa50 ( $3,700 )
+PapaShango19 posts small blind [$10]
+wal__z posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 8h ]
+riwa50 calls [$20]
+rbbcol folds
+11legend calls [$20]
+valasNApista raises [$110]
+lapsa67 raises [$3,000]
+DedProhor folds
+Fedant folds
+PapaShango19 folds
+wal__z folds
+riwa50 folds
+11legend folds
+valasNApista calls [$2,870]
+** Dealing flop ** [ 4s, Jc, 8s ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 7c ]
+** Summary **
+valasNApista shows [ Ac, Js ]
+lapsa67 shows [ Kd, As ]
+valasNApista collected [ $6,030 ]
+
+
+
+#Game No : 484030011
+***** 888poker Hand History for Game 484030011 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:10:11
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,000 )
+Seat 2: 11legend ( $2,700 )
+Seat 3: valasNApista ( $6,030 )
+Seat 4: lapsa67 ( $20 )
+Seat 5: DedProhor ( $3,000 )
+Seat 6: Fedant ( $2,420 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $2,880 )
+Seat 10: riwa50 ( $3,680 )
+wal__z posts small blind [$10]
+riwa50 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 5c ]
+rbbcol folds
+11legend calls [$20]
+valasNApista folds
+lapsa67 calls [$20]
+DedProhor folds
+Fedant folds
+PapaShango19 folds
+wal__z calls [$10]
+riwa50 checks
+** Dealing flop ** [ Jd, Jh, Qh ]
+wal__z checks
+riwa50 checks
+11legend checks
+** Dealing turn ** [ 6h ]
+wal__z bets [$60]
+riwa50 calls [$60]
+11legend folds
+** Dealing river ** [ As ]
+wal__z bets [$100]
+riwa50 calls [$100]
+** Summary **
+wal__z shows [ 6c, Ah ]
+riwa50 mucks [ Qd, 8d ]
+lapsa67 mucks [ 2d, Tc ]
+wal__z collected [ $80 ]
+wal__z collected [ $320 ]
+
+
+
+#Game No : 484030228
+***** 888poker Hand History for Game 484030228 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:11:17
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,000 )
+Seat 2: 11legend ( $2,680 )
+Seat 3: valasNApista ( $6,030 )
+Seat 4: ekarthegr8 ( $3,000 )
+Seat 5: DedProhor ( $3,000 )
+Seat 6: Fedant ( $2,420 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $3,100 )
+Seat 10: riwa50 ( $3,500 )
+riwa50 posts small blind [$10]
+rbbcol posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Kh ]
+11legend folds
+valasNApista folds
+ekarthegr8 folds
+DedProhor folds
+Fedant folds
+PapaShango19 folds
+wal__z folds
+riwa50 calls [$10]
+rbbcol checks
+** Dealing flop ** [ 2d, Ac, 5d ]
+riwa50 checks
+rbbcol checks
+** Dealing turn ** [ Tc ]
+riwa50 checks
+rbbcol checks
+** Dealing river ** [ Ad ]
+riwa50 checks
+rbbcol checks
+** Summary **
+riwa50 shows [ 6c, 7s ]
+rbbcol shows [ 8c, Jd ]
+rbbcol collected [ $40 ]
+
+
+
+#Game No : 484030347
+***** 888poker Hand History for Game 484030347 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:11:59
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,020 )
+Seat 2: 11legend ( $2,680 )
+Seat 3: valasNApista ( $6,030 )
+Seat 4: ekarthegr8 ( $3,000 )
+Seat 5: DedProhor ( $3,000 )
+Seat 6: Fedant ( $2,420 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $3,100 )
+Seat 10: riwa50 ( $3,480 )
+rbbcol posts small blind [$10]
+11legend posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Qs ]
+valasNApista folds
+ekarthegr8 folds
+DedProhor folds
+Fedant folds
+PapaShango19 folds
+wal__z calls [$20]
+riwa50 calls [$20]
+rbbcol calls [$10]
+11legend checks
+** Dealing flop ** [ 6d, 7h, 3h ]
+rbbcol bets [$40]
+11legend calls [$40]
+wal__z folds
+riwa50 calls [$40]
+** Dealing turn ** [ 5h ]
+rbbcol checks
+11legend checks
+riwa50 checks
+** Dealing river ** [ Ah ]
+rbbcol checks
+11legend checks
+riwa50 checks
+** Summary **
+rbbcol shows [ 7c, 3d ]
+11legend mucks [ 3s, 8c ]
+riwa50 shows [ 2c, 5s ]
+rbbcol collected [ $200 ]
+
+
+
+#Game No : 484030596
+***** 888poker Hand History for Game 484030596 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:13:08
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $2,620 )
+Seat 3: valasNApista ( $6,030 )
+Seat 4: ekarthegr8 ( $3,000 )
+Seat 5: DedProhor ( $3,000 )
+Seat 6: Fedant ( $2,420 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $3,080 )
+Seat 10: riwa50 ( $3,420 )
+11legend posts small blind [$10]
+valasNApista posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8s ]
+ekarthegr8 folds
+DedProhor calls [$20]
+Fedant raises [$80]
+PapaShango19 folds
+wal__z calls [$80]
+riwa50 folds
+rbbcol folds
+11legend folds
+valasNApista calls [$60]
+DedProhor calls [$60]
+** Dealing flop ** [ 9c, 5c, 3h ]
+valasNApista checks
+DedProhor checks
+Fedant bets [$80]
+wal__z folds
+valasNApista folds
+DedProhor calls [$80]
+** Dealing turn ** [ 4s ]
+DedProhor checks
+Fedant bets [$80]
+DedProhor calls [$80]
+** Dealing river ** [ 6c ]
+DedProhor bets [$325]
+Fedant folds
+** Summary **
+DedProhor did not show his hand
+DedProhor collected [ $650 ]
+
+
+
+#Game No : 484030848
+***** 888poker Hand History for Game 484030848 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:14:19
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $2,610 )
+Seat 3: valasNApista ( $5,950 )
+Seat 4: ekarthegr8 ( $3,000 )
+Seat 5: DedProhor ( $3,410 )
+Seat 6: Fedant ( $2,180 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $3,000 )
+Seat 10: riwa50 ( $3,420 )
+valasNApista posts small blind [$10]
+ekarthegr8 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2c ]
+DedProhor folds
+Fedant folds
+PapaShango19 folds
+wal__z raises [$80]
+riwa50 calls [$80]
+rbbcol folds
+11legend calls [$80]
+valasNApista folds
+ekarthegr8 calls [$60]
+** Dealing flop ** [ 3s, 2d, Kh ]
+ekarthegr8 checks
+wal__z bets [$165]
+riwa50 folds
+11legend folds
+ekarthegr8 folds
+** Summary **
+wal__z did not show his hand
+wal__z collected [ $330 ]
+
+
+
+#Game No : 484031020
+***** 888poker Hand History for Game 484031020 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 16:15:06
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $2,530 )
+Seat 3: valasNApista ( $5,940 )
+Seat 4: ekarthegr8 ( $2,920 )
+Seat 5: DedProhor ( $3,410 )
+Seat 6: Fedant ( $2,180 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $3,250 )
+Seat 10: riwa50 ( $3,340 )
+ekarthegr8 posts small blind [$10]
+DedProhor posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 5h ]
+Fedant raises [$80]
+PapaShango19 folds
+wal__z folds
+riwa50 calls [$80]
+rbbcol folds
+11legend folds
+valasNApista folds
+ekarthegr8 folds
+DedProhor calls [$60]
+** Dealing flop ** [ 3s, 6d, 8d ]
+DedProhor checks
+Fedant bets [$100]
+riwa50 calls [$100]
+DedProhor folds
+** Dealing turn ** [ Qc ]
+Fedant bets [$100]
+riwa50 folds
+** Summary **
+Fedant did not show his hand
+Fedant collected [ $450 ]
+
+
+
+#Game No : 484031182
+***** 888poker Hand History for Game 484031182 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:15:48
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $2,530 )
+Seat 3: valasNApista ( $5,940 )
+Seat 4: ekarthegr8 ( $2,910 )
+Seat 5: DedProhor ( $3,330 )
+Seat 6: Fedant ( $2,450 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $3,250 )
+Seat 10: riwa50 ( $3,160 )
+DedProhor posts small blind [$15]
+Fedant posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 4d ]
+PapaShango19 folds
+wal__z raises [$90]
+riwa50 folds
+rbbcol folds
+11legend calls [$90]
+valasNApista folds
+ekarthegr8 folds
+DedProhor folds
+Fedant folds
+** Dealing flop ** [ 7d, 4c, 5d ]
+wal__z bets [$198]
+11legend calls [$198]
+** Dealing turn ** [ Ad ]
+wal__z bets [$465]
+11legend raises [$930]
+wal__z calls [$465]
+** Dealing river ** [ 6s ]
+wal__z bets [$2,032]
+11legend folds
+** Summary **
+wal__z did not show his hand
+wal__z collected [ $2,481 ]
+
+
+
+#Game No : 484031451
+***** 888poker Hand History for Game 484031451 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:17:04
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $1,312 )
+Seat 3: valasNApista ( $5,940 )
+Seat 4: ekarthegr8 ( $2,910 )
+Seat 5: DedProhor ( $3,315 )
+Seat 6: Fedant ( $2,420 )
+Seat 7: PapaShango19 ( $2,990 )
+Seat 9: wal__z ( $4,513 )
+Seat 10: riwa50 ( $3,160 )
+Fedant posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Qc ]
+wal__z folds
+riwa50 calls [$30]
+rbbcol folds
+11legend folds
+valasNApista folds
+ekarthegr8 calls [$30]
+DedProhor folds
+Fedant folds
+PapaShango19 checks
+** Dealing flop ** [ Ac, 9c, 5c ]
+PapaShango19 checks
+riwa50 checks
+ekarthegr8 bets [$52]
+PapaShango19 calls [$52]
+riwa50 calls [$52]
+** Dealing turn ** [ Ts ]
+PapaShango19 checks
+riwa50 checks
+ekarthegr8 bets [$130]
+PapaShango19 calls [$130]
+riwa50 calls [$130]
+** Dealing river ** [ 6h ]
+PapaShango19 checks
+riwa50 checks
+ekarthegr8 bets [$325]
+PapaShango19 folds
+riwa50 folds
+** Summary **
+ekarthegr8 did not show his hand
+ekarthegr8 collected [ $651 ]
+
+
+
+#Game No : 484031678
+***** 888poker Hand History for Game 484031678 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:18:11
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $1,312 )
+Seat 3: valasNApista ( $5,940 )
+Seat 4: ekarthegr8 ( $3,349 )
+Seat 5: DedProhor ( $3,315 )
+Seat 6: Fedant ( $2,405 )
+Seat 7: PapaShango19 ( $2,778 )
+Seat 9: wal__z ( $4,513 )
+Seat 10: riwa50 ( $2,948 )
+PapaShango19 posts small blind [$15]
+wal__z posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Qd ]
+riwa50 folds
+rbbcol folds
+11legend calls [$30]
+valasNApista folds
+ekarthegr8 folds
+DedProhor folds
+Fedant raises [$60]
+PapaShango19 raises [$345]
+wal__z folds
+11legend folds
+Fedant folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $180 ]
+
+
+
+#Game No : 484031837
+***** 888poker Hand History for Game 484031837 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:18:55
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $1,282 )
+Seat 3: valasNApista ( $5,940 )
+Seat 4: ekarthegr8 ( $3,349 )
+Seat 5: DedProhor ( $3,315 )
+Seat 6: Fedant ( $2,345 )
+Seat 7: PapaShango19 ( $2,898 )
+Seat 9: wal__z ( $4,483 )
+Seat 10: riwa50 ( $2,948 )
+wal__z posts small blind [$15]
+riwa50 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ah ]
+rbbcol folds
+11legend folds
+valasNApista folds
+ekarthegr8 calls [$30]
+DedProhor folds
+Fedant folds
+PapaShango19 raises [$120]
+wal__z calls [$105]
+riwa50 folds
+ekarthegr8 calls [$90]
+** Dealing flop ** [ 4h, Qs, 9d ]
+wal__z bets [$30]
+ekarthegr8 calls [$30]
+PapaShango19 raises [$120]
+wal__z folds
+ekarthegr8 calls [$90]
+** Dealing turn ** [ 9h ]
+ekarthegr8 checks
+PapaShango19 bets [$330]
+ekarthegr8 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $660 ]
+
+
+
+#Game No : 484032123
+***** 888poker Hand History for Game 484032123 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:20:16
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,160 )
+Seat 2: 11legend ( $1,282 )
+Seat 3: valasNApista ( $5,940 )
+Seat 4: ekarthegr8 ( $3,109 )
+Seat 5: DedProhor ( $3,315 )
+Seat 6: Fedant ( $2,345 )
+Seat 7: PapaShango19 ( $3,318 )
+Seat 9: wal__z ( $4,333 )
+Seat 10: riwa50 ( $2,918 )
+riwa50 posts small blind [$15]
+rbbcol posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 8s ]
+11legend raises [$78]
+valasNApista calls [$78]
+ekarthegr8 folds
+DedProhor folds
+Fedant folds
+PapaShango19 folds
+wal__z calls [$78]
+riwa50 folds
+rbbcol calls [$48]
+** Dealing flop ** [ 9c, 6d, 6s ]
+rbbcol checks
+11legend bets [$163]
+valasNApista raises [$326]
+wal__z folds
+rbbcol folds
+11legend raises [$1,041]
+valasNApista calls [$878]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Qc ]
+** Summary **
+11legend shows [ 7s, 7d ]
+valasNApista shows [ Ah, As ]
+valasNApista collected [ $2,735 ]
+
+
+
+#Game No : 484032367
+***** 888poker Hand History for Game 484032367 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:21:28
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: rbbcol ( $3,082 )
+Seat 3: valasNApista ( $7,393 )
+Seat 4: ekarthegr8 ( $3,109 )
+Seat 6: Fedant ( $2,345 )
+Seat 7: PapaShango19 ( $3,318 )
+Seat 9: wal__z ( $4,255 )
+Seat 10: riwa50 ( $2,903 )
+rbbcol posts small blind [$15]
+valasNApista posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, As ]
+ekarthegr8 raises [$60]
+Fedant folds
+PapaShango19 raises [$380]
+wal__z folds
+riwa50 folds
+rbbcol folds
+valasNApista folds
+ekarthegr8 calls [$320]
+** Dealing flop ** [ 6d, 4s, 2c ]
+ekarthegr8 checks
+PapaShango19 bets [$805]
+ekarthegr8 folds
+** Summary **
+PapaShango19 collected [ $805 ]
+
+
+
+#Game No : 484032562
+***** 888poker Hand History for Game 484032562 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:22:20
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $3,067 )
+Seat 3: valasNApista ( $7,363 )
+Seat 4: ekarthegr8 ( $2,729 )
+Seat 5: mjdewolfe ( $3,000 )
+Seat 6: Fedant ( $2,345 )
+Seat 7: PapaShango19 ( $3,743 )
+Seat 9: wal__z ( $4,255 )
+Seat 10: riwa50 ( $2,903 )
+valasNApista posts small blind [$15]
+ekarthegr8 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5c ]
+mjdewolfe raises [$3,000]
+Fedant folds
+PapaShango19 folds
+wal__z folds
+riwa50 folds
+rbbcol folds
+valasNApista folds
+ekarthegr8 folds
+** Summary **
+mjdewolfe collected [ $75 ]
+
+
+
+#Game No : 484032665
+***** 888poker Hand History for Game 484032665 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:22:52
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,067 )
+Seat 2: itsmedave13 ( $3,000 )
+Seat 3: valasNApista ( $7,348 )
+Seat 4: ekarthegr8 ( $2,699 )
+Seat 5: mjdewolfe ( $3,045 )
+Seat 6: Fedant ( $2,345 )
+Seat 7: PapaShango19 ( $3,743 )
+Seat 9: wal__z ( $4,255 )
+Seat 10: riwa50 ( $2,903 )
+ekarthegr8 posts small blind [$15]
+mjdewolfe posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Jc ]
+Fedant raises [$120]
+PapaShango19 folds
+wal__z folds
+riwa50 calls [$120]
+rbbcol folds
+itsmedave13 calls [$120]
+valasNApista folds
+ekarthegr8 folds
+mjdewolfe folds
+** Dealing flop ** [ Th, 5d, 4d ]
+Fedant bets [$405]
+riwa50 folds
+itsmedave13 folds
+** Summary **
+Fedant did not show his hand
+Fedant collected [ $405 ]
+
+
+
+#Game No : 484032970
+***** 888poker Hand History for Game 484032970 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:24:10
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,067 )
+Seat 2: itsmedave13 ( $2,880 )
+Seat 3: valasNApista ( $7,348 )
+Seat 4: ekarthegr8 ( $2,684 )
+Seat 5: mjdewolfe ( $3,015 )
+Seat 6: Fedant ( $2,630 )
+Seat 7: PapaShango19 ( $3,743 )
+Seat 9: wal__z ( $4,255 )
+Seat 10: riwa50 ( $2,783 )
+mjdewolfe posts small blind [$15]
+Fedant posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 8s ]
+PapaShango19 calls [$30]
+wal__z folds
+riwa50 calls [$30]
+rbbcol folds
+itsmedave13 folds
+valasNApista folds
+ekarthegr8 calls [$30]
+mjdewolfe calls [$15]
+Fedant checks
+** Dealing flop ** [ 2h, Ad, 5s ]
+mjdewolfe bets [$112]
+Fedant folds
+PapaShango19 folds
+riwa50 calls [$112]
+ekarthegr8 folds
+** Dealing turn ** [ Ks ]
+mjdewolfe bets [$280]
+riwa50 calls [$280]
+** Dealing river ** [ 9h ]
+mjdewolfe bets [$2,593]
+riwa50 folds
+** Summary **
+mjdewolfe did not show his hand
+mjdewolfe collected [ $934 ]
+
+
+
+#Game No : 484033158
+***** 888poker Hand History for Game 484033158 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 16:25:06
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,067 )
+Seat 2: itsmedave13 ( $2,880 )
+Seat 3: valasNApista ( $7,348 )
+Seat 4: ekarthegr8 ( $2,654 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $2,600 )
+Seat 7: PapaShango19 ( $3,713 )
+Seat 9: wal__z ( $4,255 )
+Seat 10: riwa50 ( $2,361 )
+Fedant posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 6c ]
+wal__z raises [$108]
+riwa50 calls [$108]
+rbbcol folds
+itsmedave13 calls [$108]
+valasNApista calls [$108]
+ekarthegr8 folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+** Dealing flop ** [ 5h, 3d, 4d ]
+wal__z bets [$60]
+riwa50 calls [$60]
+itsmedave13 folds
+valasNApista calls [$60]
+** Dealing turn ** [ Js ]
+wal__z bets [$328]
+riwa50 calls [$328]
+valasNApista folds
+** Dealing river ** [ 2h ]
+wal__z bets [$984]
+riwa50 raises [$1,865]
+wal__z calls [$881]
+** Summary **
+wal__z shows [ Th, As ]
+riwa50 shows [ Ts, Ac ]
+riwa50 collected [ $2,521 ]
+wal__z collected [ $2,522 ]
+
+
+
+#Game No : 484033488
+***** 888poker Hand History for Game 484033488 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:26:33
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,067 )
+Seat 2: itsmedave13 ( $2,772 )
+Seat 3: valasNApista ( $7,180 )
+Seat 4: ekarthegr8 ( $2,654 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $2,585 )
+Seat 7: PapaShango19 ( $3,683 )
+Seat 9: wal__z ( $4,416 )
+Seat 10: riwa50 ( $2,521 )
+PapaShango19 posts small blind [$25]
+wal__z posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 7s ]
+riwa50 folds
+rbbcol calls [$50]
+itsmedave13 folds
+valasNApista folds
+ekarthegr8 folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+wal__z checks
+** Dealing flop ** [ 8d, 9s, 2s ]
+wal__z bets [$93]
+rbbcol raises [$404]
+wal__z folds
+** Summary **
+rbbcol did not show his hand
+rbbcol collected [ $311 ]
+
+
+
+#Game No : 484033656
+***** 888poker Hand History for Game 484033656 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:27:18
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,235 )
+Seat 2: itsmedave13 ( $2,772 )
+Seat 3: valasNApista ( $7,180 )
+Seat 4: ekarthegr8 ( $2,654 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $2,585 )
+Seat 7: PapaShango19 ( $3,658 )
+Seat 9: wal__z ( $4,273 )
+Seat 10: riwa50 ( $2,521 )
+wal__z posts small blind [$25]
+riwa50 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 7c ]
+rbbcol folds
+itsmedave13 calls [$50]
+valasNApista folds
+ekarthegr8 calls [$50]
+mjdewolfe folds
+Fedant raises [$200]
+PapaShango19 folds
+wal__z folds
+riwa50 calls [$150]
+itsmedave13 calls [$150]
+ekarthegr8 calls [$150]
+** Dealing flop ** [ 2c, 4s, Qd ]
+riwa50 checks
+itsmedave13 checks
+ekarthegr8 checks
+Fedant bets [$200]
+riwa50 folds
+itsmedave13 calls [$200]
+ekarthegr8 folds
+** Dealing turn ** [ 7d ]
+itsmedave13 checks
+Fedant bets [$150]
+itsmedave13 calls [$150]
+** Dealing river ** [ 9s ]
+itsmedave13 checks
+Fedant checks
+** Summary **
+itsmedave13 shows [ 6s, 5s ]
+Fedant shows [ Tc, Th ]
+Fedant collected [ $1,525 ]
+
+
+
+#Game No : 484033913
+***** 888poker Hand History for Game 484033913 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:28:30
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,235 )
+Seat 2: itsmedave13 ( $2,222 )
+Seat 3: valasNApista ( $7,180 )
+Seat 4: ekarthegr8 ( $2,454 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $3,560 )
+Seat 7: PapaShango19 ( $3,658 )
+Seat 9: wal__z ( $4,248 )
+Seat 10: riwa50 ( $2,321 )
+riwa50 posts small blind [$25]
+rbbcol posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ac ]
+itsmedave13 folds
+valasNApista calls [$50]
+ekarthegr8 folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 raises [$350]
+wal__z folds
+riwa50 calls [$325]
+rbbcol folds
+valasNApista folds
+** Dealing flop ** [ Ad, 4d, 6h ]
+riwa50 checks
+PapaShango19 bets [$600]
+riwa50 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $800 ]
+
+
+
+#Game No : 484034089
+***** 888poker Hand History for Game 484034089 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:29:15
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,185 )
+Seat 2: itsmedave13 ( $2,222 )
+Seat 3: valasNApista ( $7,130 )
+Seat 4: ekarthegr8 ( $2,454 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $3,560 )
+Seat 7: PapaShango19 ( $4,108 )
+Seat 9: wal__z ( $4,248 )
+Seat 10: riwa50 ( $1,971 )
+rbbcol posts small blind [$25]
+itsmedave13 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 2d ]
+valasNApista calls [$50]
+ekarthegr8 calls [$50]
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+wal__z calls [$50]
+riwa50 calls [$50]
+rbbcol calls [$25]
+itsmedave13 checks
+** Dealing flop ** [ 5c, 9d, Td ]
+rbbcol checks
+itsmedave13 checks
+valasNApista checks
+ekarthegr8 checks
+wal__z bets [$225]
+riwa50 calls [$225]
+rbbcol folds
+itsmedave13 calls [$225]
+valasNApista raises [$7,080]
+ekarthegr8 folds
+wal__z folds
+riwa50 calls [$1,696]
+itsmedave13 calls [$1,947]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 5h ]
+** Summary **
+itsmedave13 shows [ 6d, 8d ]
+valasNApista shows [ Ks, Kc ]
+riwa50 shows [ Th, As ]
+valasNApista collected [ $6,288 ]
+valasNApista collected [ $502 ]
+
+
+
+#Game No : 484034411
+***** 888poker Hand History for Game 484034411 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:30:46
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $3,135 )
+Seat 3: valasNApista ( $11,698 )
+Seat 4: ekarthegr8 ( $2,404 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $3,560 )
+Seat 7: PapaShango19 ( $4,108 )
+Seat 9: wal__z ( $3,973 )
+Seat 10: mlodon ( $5,633 )
+valasNApista posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Qh ]
+ekarthegr8 raises [$100]
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+wal__z calls [$100]
+mlodon folds
+rbbcol folds
+valasNApista folds
+** Dealing flop ** [ 3c, 9d, As ]
+ekarthegr8 checks
+wal__z bets [$187]
+ekarthegr8 calls [$187]
+** Dealing turn ** [ Kc ]
+ekarthegr8 checks
+wal__z bets [$468]
+ekarthegr8 raises [$936]
+wal__z folds
+** Summary **
+ekarthegr8 did not show his hand
+ekarthegr8 collected [ $1,560 ]
+
+
+
+#Game No : 484034693
+***** 888poker Hand History for Game 484034693 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:32:05
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $3,135 )
+Seat 3: valasNApista ( $11,648 )
+Seat 4: ekarthegr8 ( $3,209 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $3,560 )
+Seat 7: PapaShango19 ( $4,108 )
+Seat 9: wal__z ( $3,218 )
+Seat 10: mlodon ( $5,633 )
+valasNApista posts small blind [$25]
+ekarthegr8 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Jd ]
+mjdewolfe folds
+Fedant folds
+PapaShango19 calls [$50]
+wal__z calls [$50]
+mlodon folds
+rbbcol calls [$50]
+valasNApista calls [$25]
+ekarthegr8 checks
+** Dealing flop ** [ Jh, 3h, As ]
+valasNApista checks
+ekarthegr8 checks
+PapaShango19 checks
+wal__z checks
+rbbcol checks
+** Dealing turn ** [ 2h ]
+valasNApista checks
+ekarthegr8 checks
+PapaShango19 checks
+wal__z checks
+rbbcol checks
+** Dealing river ** [ 6s ]
+valasNApista checks
+ekarthegr8 bets [$300]
+PapaShango19 folds
+wal__z folds
+rbbcol folds
+valasNApista folds
+** Summary **
+ekarthegr8 collected [ $250 ]
+
+
+
+#Game No : 484035023
+***** 888poker Hand History for Game 484035023 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:33:44
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,085 )
+Seat 2: wargoon ( $3,000 )
+Seat 3: valasNApista ( $11,598 )
+Seat 4: ekarthegr8 ( $3,409 )
+Seat 5: mjdewolfe ( $3,527 )
+Seat 6: Fedant ( $3,560 )
+Seat 7: PapaShango19 ( $4,058 )
+Seat 9: wal__z ( $3,168 )
+Seat 10: mlodon ( $5,633 )
+ekarthegr8 posts small blind [$25]
+mjdewolfe posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Td ]
+Fedant folds
+PapaShango19 folds
+wal__z folds
+mlodon folds
+rbbcol calls [$50]
+wargoon calls [$50]
+valasNApista folds
+ekarthegr8 folds
+mjdewolfe raises [$200]
+rbbcol calls [$200]
+wargoon calls [$200]
+** Dealing flop ** [ 6h, 5c, 8d ]
+mjdewolfe bets [$775]
+rbbcol folds
+wargoon calls [$775]
+** Dealing turn ** [ 3d ]
+mjdewolfe bets [$2,502]
+wargoon calls [$1,975]
+** Dealing river ** [ Ks ]
+** Summary **
+wargoon shows [ As, 9c ]
+mjdewolfe shows [ Ah, Ad ]
+mjdewolfe collected [ $6,275 ]
+
+
+
+#Game No : 484035280
+***** 888poker Hand History for Game 484035280 *****
+$25/$50 Blinds No Limit Holdem - *** 24 11 2014 16:35:01
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,835 )
+Seat 2: Bummelliese ( $3,000 )
+Seat 3: valasNApista ( $11,598 )
+Seat 4: ekarthegr8 ( $3,384 )
+Seat 5: mjdewolfe ( $6,802 )
+Seat 6: Fedant ( $3,560 )
+Seat 7: PapaShango19 ( $4,058 )
+Seat 9: hemyll ( $3,992 )
+Seat 10: mlodon ( $5,633 )
+mjdewolfe posts small blind [$25]
+Fedant posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9s ]
+PapaShango19 folds
+hemyll calls [$50]
+mlodon folds
+rbbcol folds
+Bummelliese folds
+valasNApista folds
+ekarthegr8 calls [$50]
+mjdewolfe raises [$225]
+Fedant folds
+hemyll folds
+ekarthegr8 folds
+** Summary **
+mjdewolfe did not show his hand
+mjdewolfe collected [ $200 ]
+
+
+
+#Game No : 484035368
+***** 888poker Hand History for Game 484035368 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:35:29
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,835 )
+Seat 2: Bummelliese ( $3,000 )
+Seat 3: valasNApista ( $11,598 )
+Seat 4: ekarthegr8 ( $3,334 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $3,510 )
+Seat 7: PapaShango19 ( $4,058 )
+Seat 9: hemyll ( $3,942 )
+Seat 10: mlodon ( $5,633 )
+Fedant posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7h ]
+hemyll calls [$100]
+mlodon folds
+rbbcol folds
+Bummelliese raises [$3,000]
+valasNApista folds
+ekarthegr8 folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll folds
+** Summary **
+Bummelliese did not show his hand
+Bummelliese collected [ $350 ]
+
+
+
+#Game No : 484035457
+***** 888poker Hand History for Game 484035457 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:35:57
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,835 )
+Seat 2: Bummelliese ( $3,250 )
+Seat 3: valasNApista ( $11,598 )
+Seat 4: ekarthegr8 ( $3,334 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $3,460 )
+Seat 7: PapaShango19 ( $3,958 )
+Seat 9: hemyll ( $3,842 )
+Seat 10: mlodon ( $5,633 )
+PapaShango19 posts small blind [$50]
+hemyll posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Ad ]
+mlodon folds
+rbbcol folds
+Bummelliese raises [$3,250]
+valasNApista folds
+ekarthegr8 folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll calls [$3,150]
+** Dealing flop ** [ Th, Td, 6c ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 3c ]
+** Summary **
+Bummelliese shows [ 7s, 3d ]
+hemyll shows [ Qc, Qh ]
+hemyll collected [ $6,550 ]
+
+
+
+#Game No : 484035591
+***** 888poker Hand History for Game 484035591 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:36:34
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $2,835 )
+Seat 3: valasNApista ( $11,598 )
+Seat 4: ekarthegr8 ( $3,334 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $3,460 )
+Seat 7: PapaShango19 ( $3,908 )
+Seat 9: hemyll ( $7,142 )
+Seat 10: mlodon ( $5,633 )
+hemyll posts small blind [$50]
+mlodon posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 8c ]
+rbbcol folds
+valasNApista raises [$350]
+ekarthegr8 folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll folds
+mlodon folds
+** Summary **
+valasNApista collected [ $250 ]
+
+
+
+#Game No : 484035681
+***** 888poker Hand History for Game 484035681 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:37:05
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,835 )
+Seat 2: AndreyK87 ( $3,000 )
+Seat 3: valasNApista ( $11,748 )
+Seat 4: ekarthegr8 ( $3,334 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $3,460 )
+Seat 7: PapaShango19 ( $3,908 )
+Seat 9: hemyll ( $7,092 )
+Seat 10: mlodon ( $5,533 )
+mlodon posts small blind [$50]
+rbbcol posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 3s ]
+AndreyK87 calls [$100]
+valasNApista folds
+ekarthegr8 folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll folds
+mlodon calls [$50]
+rbbcol checks
+** Dealing flop ** [ 7s, Jd, 5c ]
+mlodon checks
+rbbcol checks
+AndreyK87 bets [$225]
+mlodon folds
+rbbcol folds
+** Summary **
+AndreyK87 did not show his hand
+AndreyK87 collected [ $300 ]
+
+
+
+#Game No : 484035885
+***** 888poker Hand History for Game 484035885 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:38:02
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,735 )
+Seat 2: AndreyK87 ( $3,200 )
+Seat 3: valasNApista ( $11,748 )
+Seat 4: ekarthegr8 ( $3,334 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $3,460 )
+Seat 7: PapaShango19 ( $3,908 )
+Seat 9: hemyll ( $7,092 )
+Seat 10: mlodon ( $5,433 )
+rbbcol posts small blind [$50]
+AndreyK87 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 8h ]
+valasNApista raises [$350]
+ekarthegr8 raises [$3,334]
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll folds
+mlodon folds
+rbbcol folds
+AndreyK87 folds
+valasNApista calls [$2,984]
+** Dealing flop ** [ 9c, 8s, 5c ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ Jd ]
+** Summary **
+valasNApista shows [ Js, Ah ]
+ekarthegr8 shows [ As, Kc ]
+valasNApista collected [ $6,818 ]
+
+
+
+#Game No : 484036049
+***** 888poker Hand History for Game 484036049 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:38:48
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $2,685 )
+Seat 2: AndreyK87 ( $3,100 )
+Seat 3: valasNApista ( $15,232 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $3,460 )
+Seat 7: PapaShango19 ( $3,908 )
+Seat 9: hemyll ( $7,092 )
+Seat 10: mlodon ( $5,433 )
+AndreyK87 posts small blind [$50]
+valasNApista posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Th ]
+mjdewolfe folds
+Fedant raises [$300]
+PapaShango19 folds
+hemyll folds
+mlodon folds
+rbbcol folds
+AndreyK87 calls [$250]
+valasNApista folds
+** Dealing flop ** [ Kd, 5c, 3h ]
+AndreyK87 bets [$2,800]
+Fedant calls [$2,800]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 2d ]
+** Summary **
+AndreyK87 shows [ 8d, 8s ]
+Fedant shows [ As, Kh ]
+Fedant collected [ $6,300 ]
+
+
+
+#Game No : 484036179
+***** 888poker Hand History for Game 484036179 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:39:26
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $2,685 )
+Seat 3: valasNApista ( $15,132 )
+Seat 4: SLYLexx ( $3,413 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $6,660 )
+Seat 7: PapaShango19 ( $3,908 )
+Seat 9: hemyll ( $7,092 )
+Seat 10: mlodon ( $5,433 )
+valasNApista posts small blind [$50]
+SLYLexx posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 2c ]
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll folds
+mlodon folds
+rbbcol folds
+valasNApista folds
+** Summary **
+SLYLexx did not show his hand
+SLYLexx collected [ $150 ]
+
+
+
+#Game No : 484036261
+***** 888poker Hand History for Game 484036261 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:39:50
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $2,685 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,463 )
+Seat 5: mjdewolfe ( $6,952 )
+Seat 6: Fedant ( $6,660 )
+Seat 7: PapaShango19 ( $3,908 )
+Seat 9: hemyll ( $7,092 )
+Seat 10: mlodon ( $5,433 )
+SLYLexx posts small blind [$50]
+mjdewolfe posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Qc ]
+Fedant folds
+PapaShango19 folds
+hemyll folds
+mlodon folds
+rbbcol folds
+valasNApista folds
+SLYLexx folds
+** Summary **
+mjdewolfe did not show his hand
+mjdewolfe collected [ $150 ]
+
+
+
+#Game No : 484036366
+***** 888poker Hand History for Game 484036366 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:40:17
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,685 )
+Seat 2: ricusor1 ( $9,277 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,413 )
+Seat 5: mjdewolfe ( $7,002 )
+Seat 6: Fedant ( $6,660 )
+Seat 7: PapaShango19 ( $3,908 )
+Seat 9: hemyll ( $7,092 )
+Seat 10: mlodon ( $5,433 )
+mjdewolfe posts small blind [$50]
+Fedant posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 7h ]
+PapaShango19 raises [$250]
+hemyll folds
+mlodon folds
+rbbcol folds
+ricusor1 calls [$250]
+valasNApista folds
+SLYLexx folds
+mjdewolfe calls [$200]
+Fedant folds
+** Dealing flop ** [ 8h, Ad, 5s ]
+mjdewolfe bets [$425]
+PapaShango19 folds
+ricusor1 calls [$425]
+** Dealing turn ** [ 9h ]
+mjdewolfe bets [$500]
+ricusor1 calls [$500]
+** Dealing river ** [ 5c ]
+mjdewolfe checks
+ricusor1 bets [$2,700]
+mjdewolfe folds
+** Summary **
+ricusor1 did not show his hand
+ricusor1 collected [ $2,700 ]
+
+
+
+#Game No : 484036579
+***** 888poker Hand History for Game 484036579 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:41:23
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,685 )
+Seat 2: ricusor1 ( $10,802 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,413 )
+Seat 5: mjdewolfe ( $5,827 )
+Seat 6: Fedant ( $6,560 )
+Seat 7: PapaShango19 ( $3,658 )
+Seat 9: hemyll ( $7,092 )
+Seat 10: mlodon ( $5,433 )
+Fedant posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 9h ]
+hemyll raises [$200]
+mlodon folds
+rbbcol folds
+ricusor1 calls [$200]
+valasNApista folds
+SLYLexx folds
+mjdewolfe calls [$200]
+Fedant folds
+PapaShango19 folds
+** Dealing flop ** [ Qc, Kh, Qd ]
+hemyll bets [$375]
+ricusor1 folds
+mjdewolfe calls [$375]
+** Dealing turn ** [ 3s ]
+hemyll checks
+mjdewolfe bets [$750]
+hemyll calls [$750]
+** Dealing river ** [ 6d ]
+hemyll checks
+mjdewolfe bets [$1,500]
+hemyll folds
+** Summary **
+mjdewolfe did not show his hand
+mjdewolfe collected [ $3,000 ]
+
+
+
+#Game No : 484036834
+***** 888poker Hand History for Game 484036834 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:42:32
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,685 )
+Seat 2: ricusor1 ( $10,602 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,413 )
+Seat 5: mjdewolfe ( $7,502 )
+Seat 6: Fedant ( $6,510 )
+Seat 7: PapaShango19 ( $3,558 )
+Seat 9: hemyll ( $5,767 )
+Seat 10: mlodon ( $5,433 )
+PapaShango19 posts small blind [$50]
+hemyll posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Qc ]
+mlodon folds
+rbbcol folds
+ricusor1 calls [$100]
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll checks
+** Dealing flop ** [ 8s, 5c, Ts ]
+hemyll checks
+ricusor1 checks
+** Dealing turn ** [ Kd ]
+hemyll bets [$125]
+ricusor1 calls [$125]
+** Dealing river ** [ Ks ]
+hemyll bets [$500]
+ricusor1 calls [$500]
+** Summary **
+hemyll shows [ 4h, Kc ]
+ricusor1 mucks [ Ah, 2d ]
+hemyll collected [ $1,500 ]
+
+
+
+#Game No : 484036969
+***** 888poker Hand History for Game 484036969 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:43:16
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,685 )
+Seat 2: ricusor1 ( $9,877 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,413 )
+Seat 5: mjdewolfe ( $7,502 )
+Seat 6: Fedant ( $6,510 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: hemyll ( $6,542 )
+Seat 10: mlodon ( $5,433 )
+hemyll posts small blind [$50]
+mlodon posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5d ]
+rbbcol folds
+ricusor1 calls [$100]
+valasNApista folds
+SLYLexx raises [$200]
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll calls [$150]
+mlodon calls [$100]
+ricusor1 calls [$100]
+** Dealing flop ** [ 8h, 7c, 7h ]
+hemyll bets [$100]
+mlodon folds
+ricusor1 calls [$100]
+SLYLexx folds
+** Dealing turn ** [ As ]
+hemyll bets [$500]
+ricusor1 calls [$500]
+** Dealing river ** [ Qh ]
+hemyll bets [$1,000]
+ricusor1 raises [$9,077]
+hemyll folds
+** Summary **
+ricusor1 did not show his hand
+ricusor1 collected [ $4,000 ]
+
+
+
+#Game No : 484037211
+***** 888poker Hand History for Game 484037211 *****
+$50/$100 Blinds No Limit Holdem - *** 24 11 2014 16:44:17
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,685 )
+Seat 2: ricusor1 ( $12,077 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,213 )
+Seat 5: mjdewolfe ( $7,502 )
+Seat 6: Fedant ( $6,510 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: hemyll ( $4,742 )
+Seat 10: mlodon ( $5,233 )
+mlodon posts small blind [$50]
+rbbcol posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Ad ]
+ricusor1 calls [$100]
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+Fedant raises [$400]
+PapaShango19 folds
+hemyll folds
+mlodon calls [$350]
+rbbcol folds
+ricusor1 calls [$300]
+** Dealing flop ** [ 8c, 2s, 6c ]
+mlodon checks
+ricusor1 checks
+Fedant bets [$400]
+mlodon folds
+ricusor1 calls [$400]
+** Dealing turn ** [ 8h ]
+ricusor1 checks
+Fedant bets [$400]
+ricusor1 calls [$400]
+** Dealing river ** [ 5h ]
+ricusor1 checks
+Fedant bets [$1,450]
+ricusor1 calls [$1,450]
+** Summary **
+Fedant shows [ Kc, Ks ]
+ricusor1 mucks [ Jd, 2d ]
+Fedant collected [ $5,800 ]
+
+
+
+#Game No : 484037494
+***** 888poker Hand History for Game 484037494 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:45:34
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $2,585 )
+Seat 2: ricusor1 ( $9,427 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,213 )
+Seat 5: mjdewolfe ( $7,502 )
+Seat 6: Fedant ( $9,660 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: hemyll ( $4,742 )
+Seat 10: mlodon ( $4,833 )
+rbbcol posts small blind [$75]
+ricusor1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Kh ]
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll folds
+mlodon folds
+rbbcol calls [$75]
+ricusor1 checks
+** Dealing flop ** [ 7d, 5d, 3c ]
+rbbcol bets [$225]
+ricusor1 calls [$225]
+** Dealing turn ** [ 4s ]
+rbbcol bets [$750]
+ricusor1 calls [$750]
+** Dealing river ** [ 4c ]
+rbbcol bets [$1,460]
+ricusor1 folds
+** Summary **
+rbbcol did not show his hand
+rbbcol collected [ $2,250 ]
+
+
+
+#Game No : 484037688
+***** 888poker Hand History for Game 484037688 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:46:22
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,710 )
+Seat 2: ricusor1 ( $8,302 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,213 )
+Seat 5: mjdewolfe ( $7,502 )
+Seat 6: Fedant ( $9,660 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: hemyll ( $4,742 )
+Seat 10: mlodon ( $4,833 )
+ricusor1 posts small blind [$75]
+valasNApista posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Ks ]
+SLYLexx folds
+mjdewolfe folds
+Fedant folds
+PapaShango19 folds
+hemyll calls [$150]
+mlodon calls [$150]
+rbbcol folds
+ricusor1 folds
+valasNApista checks
+** Dealing flop ** [ 3c, 4d, 6h ]
+valasNApista checks
+hemyll bets [$150]
+mlodon calls [$150]
+valasNApista folds
+** Dealing turn ** [ 9c ]
+hemyll bets [$300]
+mlodon calls [$300]
+** Dealing river ** [ 3d ]
+hemyll checks
+mlodon checks
+** Summary **
+hemyll shows [ 2s, 6s ]
+mlodon shows [ 9s, Ad ]
+mlodon collected [ $1,425 ]
+
+
+
+#Game No : 484037885
+***** 888poker Hand History for Game 484037885 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:47:17
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: rbbcol ( $3,710 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $14,932 )
+Seat 4: SLYLexx ( $3,213 )
+Seat 5: mjdewolfe ( $7,502 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: hemyll ( $4,142 )
+Seat 10: mlodon ( $5,658 )
+valasNApista posts small blind [$75]
+SLYLexx posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7c ]
+mjdewolfe folds
+PapaShango19 folds
+hemyll folds
+mlodon folds
+rbbcol folds
+ricusor1 folds
+valasNApista raises [$225]
+SLYLexx folds
+** Summary **
+valasNApista collected [ $300 ]
+
+
+
+#Game No : 484038064
+***** 888poker Hand History for Game 484038064 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:48:05
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,710 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $3,063 )
+Seat 5: mjdewolfe ( $7,502 )
+Seat 6: mikel1956 ( $3,959 )
+Seat 7: PapaShango19 ( $3,508 )
+Seat 9: hemyll ( $4,142 )
+Seat 10: mlodon ( $5,658 )
+SLYLexx posts small blind [$75]
+mjdewolfe posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Ah ]
+mikel1956 folds
+PapaShango19 raises [$450]
+hemyll calls [$450]
+mlodon folds
+rbbcol folds
+ricusor1 folds
+valasNApista folds
+SLYLexx folds
+mjdewolfe calls [$300]
+** Dealing flop ** [ 8c, Ac, Jc ]
+mjdewolfe checks
+PapaShango19 bets [$1,068]
+hemyll folds
+mjdewolfe folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,425 ]
+
+
+
+#Game No : 484038185
+***** 888poker Hand History for Game 484038185 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:48:41
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,710 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $7,052 )
+Seat 6: mikel1956 ( $3,959 )
+Seat 7: PapaShango19 ( $4,483 )
+Seat 9: hemyll ( $3,692 )
+Seat 10: mlodon ( $5,658 )
+mjdewolfe posts small blind [$75]
+mikel1956 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 9h ]
+PapaShango19 folds
+hemyll folds
+mlodon raises [$300]
+rbbcol folds
+ricusor1 folds
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+mikel1956 calls [$150]
+** Dealing flop ** [ Js, 4c, Tc ]
+mikel1956 checks
+mlodon bets [$337]
+mikel1956 folds
+** Summary **
+mlodon did not show his hand
+mlodon collected [ $675 ]
+
+
+
+#Game No : 484038331
+***** 888poker Hand History for Game 484038331 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:49:22
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,710 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $6,977 )
+Seat 6: mikel1956 ( $3,659 )
+Seat 7: PapaShango19 ( $4,483 )
+Seat 9: hemyll ( $3,692 )
+Seat 10: mlodon ( $6,033 )
+mikel1956 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Ts ]
+hemyll calls [$150]
+mlodon folds
+rbbcol folds
+ricusor1 folds
+valasNApista folds
+SLYLexx folds
+mjdewolfe raises [$675]
+mikel1956 folds
+PapaShango19 folds
+hemyll calls [$525]
+** Dealing flop ** [ 9d, Qd, 7c ]
+hemyll checks
+mjdewolfe bets [$150]
+hemyll calls [$150]
+** Dealing turn ** [ Ad ]
+hemyll checks
+mjdewolfe bets [$1,406]
+hemyll folds
+** Summary **
+mjdewolfe did not show his hand
+mjdewolfe collected [ $1,875 ]
+
+
+
+#Game No : 484038542
+***** 888poker Hand History for Game 484038542 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:50:20
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,710 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $8,027 )
+Seat 6: mikel1956 ( $3,584 )
+Seat 7: PapaShango19 ( $4,333 )
+Seat 9: hemyll ( $2,867 )
+Seat 10: mlodon ( $6,033 )
+PapaShango19 posts small blind [$75]
+hemyll posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Th ]
+mlodon folds
+rbbcol calls [$150]
+ricusor1 folds
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+mikel1956 folds
+PapaShango19 calls [$75]
+hemyll checks
+** Dealing flop ** [ Ac, 8s, 6c ]
+PapaShango19 checks
+hemyll checks
+rbbcol checks
+** Dealing turn ** [ Ad ]
+PapaShango19 bets [$150]
+hemyll folds
+rbbcol folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 484038798
+***** 888poker Hand History for Game 484038798 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:51:24
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $3,560 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $8,027 )
+Seat 6: mikel1956 ( $3,584 )
+Seat 7: PapaShango19 ( $4,633 )
+Seat 9: hemyll ( $2,717 )
+Seat 10: mlodon ( $6,033 )
+hemyll posts small blind [$75]
+mlodon posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 4c ]
+rbbcol calls [$150]
+ricusor1 folds
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+mikel1956 folds
+PapaShango19 folds
+hemyll calls [$75]
+mlodon checks
+** Dealing flop ** [ Qc, 9d, 7h ]
+hemyll bets [$225]
+mlodon folds
+rbbcol raises [$1,050]
+hemyll calls [$825]
+** Dealing turn ** [ 8h ]
+hemyll checks
+rbbcol checks
+** Dealing river ** [ Kd ]
+hemyll bets [$1,517]
+rbbcol calls [$1,517]
+** Summary **
+rbbcol shows [ Ah, Qs ]
+hemyll shows [ Jd, Ts ]
+hemyll collected [ $5,584 ]
+
+
+
+#Game No : 484039072
+***** 888poker Hand History for Game 484039072 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:52:35
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $843 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $8,027 )
+Seat 6: mikel1956 ( $3,584 )
+Seat 7: PapaShango19 ( $4,633 )
+Seat 9: hemyll ( $5,584 )
+Seat 10: mlodon ( $5,883 )
+mlodon posts small blind [$75]
+rbbcol posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 8h ]
+ricusor1 folds
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+mikel1956 calls [$150]
+PapaShango19 folds
+hemyll folds
+mlodon calls [$75]
+rbbcol checks
+** Dealing flop ** [ 3c, 7h, 3s ]
+mlodon checks
+rbbcol checks
+mikel1956 checks
+** Dealing turn ** [ 4s ]
+mlodon bets [$150]
+rbbcol folds
+mikel1956 raises [$450]
+mlodon folds
+** Summary **
+mikel1956 did not show his hand
+mikel1956 collected [ $750 ]
+
+
+
+#Game No : 484039236
+***** 888poker Hand History for Game 484039236 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:53:22
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $693 )
+Seat 2: ricusor1 ( $8,227 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $8,027 )
+Seat 6: mikel1956 ( $4,034 )
+Seat 7: PapaShango19 ( $4,633 )
+Seat 9: hemyll ( $5,584 )
+Seat 10: mlodon ( $5,583 )
+rbbcol posts small blind [$75]
+ricusor1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, As ]
+valasNApista folds
+SLYLexx folds
+mjdewolfe folds
+mikel1956 folds
+PapaShango19 raises [$400]
+hemyll folds
+mlodon folds
+rbbcol folds
+ricusor1 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $375 ]
+
+
+
+#Game No : 484039371
+***** 888poker Hand History for Game 484039371 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:53:59
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $618 )
+Seat 2: ricusor1 ( $8,077 )
+Seat 3: valasNApista ( $15,082 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $8,027 )
+Seat 6: mikel1956 ( $4,034 )
+Seat 7: PapaShango19 ( $4,858 )
+Seat 9: hemyll ( $5,584 )
+Seat 10: mlodon ( $5,583 )
+ricusor1 posts small blind [$75]
+valasNApista posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Tc ]
+SLYLexx folds
+mjdewolfe raises [$525]
+mikel1956 calls [$525]
+PapaShango19 folds
+hemyll calls [$525]
+mlodon folds
+rbbcol folds
+ricusor1 folds
+valasNApista folds
+** Dealing flop ** [ 5c, 7s, Ts ]
+mjdewolfe bets [$900]
+mikel1956 calls [$900]
+hemyll calls [$900]
+** Dealing turn ** [ 7c ]
+mjdewolfe bets [$6,602]
+mikel1956 calls [$2,609]
+hemyll folds
+** Dealing river ** [ Th ]
+** Summary **
+mjdewolfe shows [ 4s, Kd ]
+mikel1956 shows [ 5d, 5s ]
+mikel1956 collected [ $9,718 ]
+
+
+
+#Game No : 484039557
+***** 888poker Hand History for Game 484039557 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 16:54:50
+Tournament #63774300 $1.10 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: rbbcol ( $618 )
+Seat 2: ricusor1 ( $8,002 )
+Seat 3: valasNApista ( $14,932 )
+Seat 4: SLYLexx ( $2,988 )
+Seat 5: mjdewolfe ( $3,993 )
+Seat 6: mikel1956 ( $9,718 )
+Seat 7: PapaShango19 ( $4,858 )
+Seat 9: hemyll ( $4,159 )
+Seat 10: mlodon ( $5,583 )
+valasNApista posts small blind [$75]
+SLYLexx posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 6s ]
+mjdewolfe raises [$3,993]
+mikel1956 folds
+PapaShango19 folds
+hemyll folds
+mlodon folds
+rbbcol calls [$618]
+ricusor1 folds
+valasNApista folds
+SLYLexx folds
+** Dealing flop ** [ 8c, 5s, Jc ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 8h ]
+** Summary **
+rbbcol shows [ Qs, 8s ]
+mjdewolfe shows [ 2c, Jh ]
+rbbcol collected [ $1,461 ]
+
+
+
+#Game No : 484040633
+***** 888poker Hand History for Game 484040633 *****
+$75/$150 Blinds No Limit Holdem - *** 24 11 2014 17:00:06
+Tournament #63774300 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: 9Streets ( $1,892 )
+Seat 2: VenZiCo ( $3,850 )
+Seat 3: gliga17 ( $6,759 )
+Seat 4: Def4eg364 ( $3,000 )
+Seat 5: Klasscut ( $3,000 )
+Seat 6: novago219 ( $2,225 )
+Seat 7: lemekhov ( $4,794 )
+Seat 9: Aleksper14 ( $2,558 )
+Seat 10: PapaShango19 ( $4,858 )
+novago219 posts small blind [$75]
+lemekhov posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Jc ]
+Aleksper14 folds
+PapaShango19 folds
+9Streets raises [$450]
+VenZiCo folds
+gliga17 folds
+Def4eg364 folds
+Klasscut folds
+novago219 folds
+lemekhov folds
+** Summary **
+9Streets did not show his hand
+9Streets collected [ $375 ]
+
+
+
+#Game No : 484040868
+***** 888poker Hand History for Game 484040868 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 17:01:06
+Tournament #63774300 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: 9Streets ( $2,117 )
+Seat 2: VenZiCo ( $3,850 )
+Seat 3: gliga17 ( $6,759 )
+Seat 4: Def4eg364 ( $3,000 )
+Seat 5: Klasscut ( $3,000 )
+Seat 6: novago219 ( $2,150 )
+Seat 7: lemekhov ( $4,644 )
+Seat 9: Aleksper14 ( $2,558 )
+Seat 10: PapaShango19 ( $4,858 )
+lemekhov posts small blind [$100]
+Aleksper14 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 6c ]
+PapaShango19 folds
+9Streets folds
+VenZiCo folds
+gliga17 folds
+Def4eg364 folds
+Klasscut folds
+novago219 folds
+lemekhov raises [$4,544]
+Aleksper14 folds
+** Summary **
+lemekhov did not show his hand
+lemekhov collected [ $400 ]
+
+
+
+#Game No : 484041041
+***** 888poker Hand History for Game 484041041 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 17:01:49
+Tournament #63774300 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: 9Streets ( $2,117 )
+Seat 2: VenZiCo ( $3,850 )
+Seat 3: gliga17 ( $6,759 )
+Seat 4: Def4eg364 ( $3,000 )
+Seat 5: Klasscut ( $3,000 )
+Seat 6: novago219 ( $2,150 )
+Seat 7: lemekhov ( $4,844 )
+Seat 9: Aleksper14 ( $2,358 )
+Seat 10: PapaShango19 ( $4,858 )
+Aleksper14 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8h ]
+9Streets folds
+VenZiCo folds
+gliga17 folds
+Def4eg364 raises [$3,000]
+Klasscut folds
+novago219 folds
+lemekhov folds
+Aleksper14 calls [$2,258]
+PapaShango19 folds
+** Dealing flop ** [ 5h, 6c, 9d ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ Qs ]
+** Summary **
+Def4eg364 shows [ 4h, 4s ]
+Aleksper14 shows [ Th, Td ]
+Aleksper14 collected [ $4,916 ]
+
+
+
+#Game No : 484041257
+***** 888poker Hand History for Game 484041257 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 17:02:46
+Tournament #63774300 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: 9Streets ( $2,117 )
+Seat 2: VenZiCo ( $3,850 )
+Seat 3: gliga17 ( $6,759 )
+Seat 4: Def4eg364 ( $642 )
+Seat 5: Klasscut ( $3,000 )
+Seat 6: novago219 ( $2,150 )
+Seat 7: lemekhov ( $4,844 )
+Seat 9: Aleksper14 ( $4,916 )
+Seat 10: PapaShango19 ( $4,658 )
+PapaShango19 posts small blind [$100]
+9Streets posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3s ]
+VenZiCo folds
+gliga17 folds
+Def4eg364 folds
+Klasscut folds
+novago219 folds
+lemekhov folds
+Aleksper14 folds
+PapaShango19 folds
+** Summary **
+9Streets did not show his hand
+9Streets collected [ $300 ]
+
+
+
+#Game No : 484041361
+***** 888poker Hand History for Game 484041361 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 17:03:11
+Tournament #63774300 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: 9Streets ( $2,217 )
+Seat 2: VenZiCo ( $3,850 )
+Seat 3: gliga17 ( $6,759 )
+Seat 4: Def4eg364 ( $642 )
+Seat 5: Klasscut ( $3,000 )
+Seat 6: novago219 ( $2,150 )
+Seat 7: lemekhov ( $4,844 )
+Seat 9: Aleksper14 ( $4,916 )
+Seat 10: PapaShango19 ( $4,558 )
+9Streets posts small blind [$100]
+VenZiCo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Kc ]
+gliga17 folds
+Def4eg364 raises [$642]
+Klasscut folds
+novago219 folds
+lemekhov folds
+Aleksper14 folds
+PapaShango19 folds
+9Streets folds
+VenZiCo folds
+** Summary **
+Def4eg364 did not show his hand
+Def4eg364 collected [ $500 ]
+
+
+
+#Game No : 484041475
+***** 888poker Hand History for Game 484041475 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 17:03:39
+Tournament #63774300 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: 9Streets ( $2,117 )
+Seat 2: VenZiCo ( $3,650 )
+Seat 3: gliga17 ( $6,759 )
+Seat 4: Def4eg364 ( $942 )
+Seat 5: Klasscut ( $3,000 )
+Seat 6: novago219 ( $2,150 )
+Seat 7: lemekhov ( $4,844 )
+Seat 9: Aleksper14 ( $4,916 )
+Seat 10: PapaShango19 ( $4,558 )
+VenZiCo posts small blind [$100]
+gliga17 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 6d ]
+Def4eg364 raises [$942]
+Klasscut folds
+novago219 folds
+lemekhov raises [$4,844]
+Aleksper14 folds
+PapaShango19 folds
+9Streets folds
+VenZiCo folds
+gliga17 folds
+** Dealing flop ** [ 3s, 6h, 9s ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 9d ]
+** Summary **
+Def4eg364 shows [ Js, Qs ]
+lemekhov shows [ Th, As ]
+Def4eg364 collected [ $2,184 ]
+
+
+
+#Game No : 484041627
+***** 888poker Hand History for Game 484041627 *****
+$100/$200 Blinds No Limit Holdem - *** 24 11 2014 17:04:17
+Tournament #63774300 $1.10 + $0.15 - Table #19 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: 9Streets ( $2,117 )
+Seat 2: VenZiCo ( $3,550 )
+Seat 3: gliga17 ( $6,559 )
+Seat 4: Def4eg364 ( $2,184 )
+Seat 5: Klasscut ( $3,000 )
+Seat 6: novago219 ( $2,150 )
+Seat 7: lemekhov ( $3,902 )
+Seat 9: Aleksper14 ( $4,916 )
+Seat 10: PapaShango19 ( $4,558 )
+gliga17 posts small blind [$100]
+Def4eg364 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 9h ]
+Klasscut folds
+novago219 folds
+lemekhov folds
+Aleksper14 folds
+PapaShango19 raises [$400]
+9Streets folds
+VenZiCo folds
+gliga17 raises [$1,300]
+Def4eg364 folds
+PapaShango19 calls [$1,000]
+** Dealing flop ** [ 4s, 6s, 5s ]
+gliga17 bets [$200]
+PapaShango19 raises [$1,800]
+gliga17 raises [$4,959]
+PapaShango19 calls [$1,358]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 7h ]
+** Summary **
+gliga17 shows [ Tc, Ts ]
+PapaShango19 shows [ 9d, 9h ]
+gliga17 collected [ $9,316 ]
+
+
+

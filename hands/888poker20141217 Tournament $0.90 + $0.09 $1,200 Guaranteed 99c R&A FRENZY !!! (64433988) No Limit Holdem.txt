@@ -1,0 +1,1465 @@
+#Game No : 490791589
+***** 888poker Hand History for Game 490791589 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 06:45:18
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,500 )
+Seat 2: rtomlina4 ( $1,500 )
+Seat 3: Tollmo ( $1,500 )
+Seat 5: carpark14 ( $1,500 )
+Seat 6: SUTCHIE ( $1,500 )
+Seat 7: willfsantos ( $1,500 )
+Seat 9: mpriimo ( $1,500 )
+Seat 10: PapaShango19 ( $1,500 )
+willfsantos posts small blind [$10]
+mpriimo posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 4c ]
+PapaShango19 calls [$20]
+1234TURK calls [$20]
+rtomlina4 folds
+Tollmo calls [$20]
+carpark14 calls [$20]
+SUTCHIE folds
+willfsantos folds
+mpriimo checks
+** Dealing flop ** [ Qs, 6s, 3c ]
+mpriimo checks
+PapaShango19 checks
+1234TURK checks
+Tollmo checks
+carpark14 checks
+** Dealing turn ** [ 8c ]
+mpriimo checks
+PapaShango19 checks
+1234TURK checks
+Tollmo checks
+carpark14 checks
+** Dealing river ** [ 9c ]
+mpriimo checks
+PapaShango19 bets [$40]
+1234TURK folds
+Tollmo calls [$40]
+carpark14 folds
+mpriimo folds
+** Summary **
+PapaShango19 shows [ 7c, 4c ]
+Tollmo mucks [ 5d, 8d ]
+PapaShango19 collected [ $190 ]
+
+
+
+#Game No : 490791760
+***** 888poker Hand History for Game 490791760 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 06:47:41
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,480 )
+Seat 2: rtomlina4 ( $1,500 )
+Seat 3: Tollmo ( $1,440 )
+Seat 4: ALEXKING9999 ( $1,500 )
+Seat 5: carpark14 ( $1,480 )
+Seat 6: SUTCHIE ( $1,500 )
+Seat 7: willfsantos ( $2,990 )
+Seat 9: mpriimo ( $2,980 )
+Seat 10: PapaShango19 ( $1,630 )
+mpriimo posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Qd ]
+1234TURK folds
+rtomlina4 calls [$20]
+Tollmo calls [$20]
+ALEXKING9999 folds
+carpark14 calls [$20]
+SUTCHIE folds
+willfsantos folds
+mpriimo folds
+PapaShango19 checks
+** Dealing flop ** [ 9c, As, Qc ]
+PapaShango19 checks
+rtomlina4 checks
+Tollmo checks
+carpark14 bets [$90]
+PapaShango19 folds
+rtomlina4 calls [$90]
+Tollmo folds
+** Dealing turn ** [ 3c ]
+rtomlina4 checks
+carpark14 bets [$270]
+rtomlina4 calls [$270]
+** Dealing river ** [ Js ]
+rtomlina4 bets [$607]
+carpark14 calls [$607]
+** Summary **
+rtomlina4 shows [ Jd, Ts ]
+carpark14 shows [ 7h, Ad ]
+carpark14 collected [ $2,024 ]
+
+
+
+#Game No : 490791871
+***** 888poker Hand History for Game 490791871 *****
+$10/$20 Blinds No Limit Holdem - *** 17 12 2014 06:49:17
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,480 )
+Seat 2: rtomlina4 ( $513 )
+Seat 3: Tollmo ( $1,420 )
+Seat 4: ALEXKING9999 ( $1,500 )
+Seat 5: carpark14 ( $2,517 )
+Seat 6: SUTCHIE ( $1,500 )
+Seat 7: willfsantos ( $2,990 )
+Seat 9: mpriimo ( $2,970 )
+Seat 10: PapaShango19 ( $1,610 )
+PapaShango19 posts small blind [$10]
+1234TURK posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Ad ]
+rtomlina4 calls [$20]
+Tollmo calls [$20]
+ALEXKING9999 folds
+carpark14 calls [$20]
+SUTCHIE raises [$120]
+willfsantos folds
+mpriimo folds
+PapaShango19 folds
+1234TURK folds
+rtomlina4 calls [$100]
+Tollmo calls [$100]
+carpark14 calls [$100]
+** Dealing flop ** [ Tc, 4c, Js ]
+rtomlina4 checks
+Tollmo checks
+carpark14 bets [$20]
+SUTCHIE raises [$320]
+rtomlina4 raises [$393]
+Tollmo calls [$393]
+carpark14 calls [$373]
+SUTCHIE calls [$73]
+** Dealing turn ** [ 3c ]
+Tollmo checks
+carpark14 checks
+SUTCHIE bets [$987]
+Tollmo calls [$907]
+carpark14 calls [$987]
+** Dealing river ** [ 7d ]
+** Summary **
+rtomlina4 shows [ Jd, 3d ]
+Tollmo shows [ 5d, Ac ]
+carpark14 shows [ Qd, Jc ]
+SUTCHIE shows [ Qc, Th ]
+rtomlina4 collected [ $2,082 ]
+carpark14 collected [ $2,721 ]
+carpark14 collected [ $160 ]
+
+
+
+#Game No : 490791985
+***** 888poker Hand History for Game 490791985 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 06:51:04
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,460 )
+Seat 2: rtomlina4 ( $2,082 )
+Seat 3: Tollmo ( $1,500 )
+Seat 4: ALEXKING9999 ( $1,500 )
+Seat 5: carpark14 ( $3,898 )
+Seat 6: SUTCHIE ( $3,000 )
+Seat 7: willfsantos ( $2,990 )
+Seat 9: mpriimo ( $2,970 )
+Seat 10: PapaShango19 ( $1,600 )
+1234TURK posts small blind [$15]
+rtomlina4 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 6d ]
+Tollmo folds
+ALEXKING9999 calls [$30]
+carpark14 calls [$30]
+SUTCHIE raises [$150]
+willfsantos folds
+mpriimo folds
+PapaShango19 folds
+1234TURK folds
+rtomlina4 calls [$120]
+ALEXKING9999 folds
+carpark14 calls [$120]
+** Dealing flop ** [ Qh, Tc, 2d ]
+rtomlina4 checks
+carpark14 checks
+SUTCHIE checks
+** Dealing turn ** [ Th ]
+rtomlina4 bets [$495]
+carpark14 folds
+SUTCHIE calls [$495]
+** Dealing river ** [ Ks ]
+rtomlina4 bets [$1,437]
+SUTCHIE folds
+** Summary **
+rtomlina4 did not show his hand
+rtomlina4 collected [ $1,485 ]
+
+
+
+#Game No : 490792098
+***** 888poker Hand History for Game 490792098 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 06:52:25
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,445 )
+Seat 2: rtomlina4 ( $2,922 )
+Seat 3: Tollmo ( $1,500 )
+Seat 4: ALEXKING9999 ( $1,470 )
+Seat 5: carpark14 ( $3,748 )
+Seat 6: SUTCHIE ( $2,355 )
+Seat 7: willfsantos ( $2,990 )
+Seat 9: mpriimo ( $2,970 )
+Seat 10: PapaShango19 ( $1,600 )
+rtomlina4 posts small blind [$15]
+Tollmo posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 8d ]
+ALEXKING9999 folds
+carpark14 folds
+SUTCHIE raises [$120]
+willfsantos folds
+mpriimo folds
+PapaShango19 folds
+1234TURK folds
+rtomlina4 calls [$105]
+Tollmo calls [$90]
+** Dealing flop ** [ 6s, Tc, 7c ]
+rtomlina4 checks
+Tollmo checks
+SUTCHIE bets [$280]
+rtomlina4 calls [$280]
+Tollmo calls [$280]
+** Dealing turn ** [ As ]
+rtomlina4 checks
+Tollmo checks
+SUTCHIE bets [$950]
+rtomlina4 calls [$950]
+Tollmo folds
+** Dealing river ** [ 4d ]
+rtomlina4 checks
+SUTCHIE checks
+** Summary **
+rtomlina4 shows [ 5c, 9c ]
+SUTCHIE shows [ Kh, Ks ]
+SUTCHIE collected [ $3,100 ]
+
+
+
+#Game No : 490792206
+***** 888poker Hand History for Game 490792206 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 06:53:56
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,445 )
+Seat 2: rtomlina4 ( $1,572 )
+Seat 3: Tollmo ( $1,100 )
+Seat 4: ALEXKING9999 ( $1,470 )
+Seat 5: carpark14 ( $3,748 )
+Seat 6: SUTCHIE ( $4,105 )
+Seat 9: mpriimo ( $2,970 )
+Seat 10: PapaShango19 ( $1,600 )
+Tollmo posts small blind [$15]
+ALEXKING9999 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Qc ]
+carpark14 folds
+SUTCHIE folds
+mpriimo folds
+PapaShango19 folds
+1234TURK folds
+rtomlina4 calls [$30]
+Tollmo calls [$15]
+ALEXKING9999 checks
+** Dealing flop ** [ Qh, 5s, 9d ]
+Tollmo checks
+ALEXKING9999 checks
+rtomlina4 checks
+** Dealing turn ** [ 4c ]
+Tollmo checks
+ALEXKING9999 checks
+rtomlina4 checks
+** Dealing river ** [ 4d ]
+Tollmo bets [$90]
+ALEXKING9999 folds
+rtomlina4 calls [$90]
+** Summary **
+Tollmo shows [ 2d, 4h ]
+rtomlina4 mucks [ Ah, 3h ]
+Tollmo collected [ $270 ]
+
+
+
+#Game No : 490792269
+***** 888poker Hand History for Game 490792269 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 06:54:59
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,445 )
+Seat 2: rtomlina4 ( $1,452 )
+Seat 3: Tollmo ( $1,250 )
+Seat 4: ALEXKING9999 ( $1,440 )
+Seat 5: carpark14 ( $3,748 )
+Seat 6: SUTCHIE ( $4,105 )
+Seat 7: Zelmath ( $3,000 )
+Seat 9: mpriimo ( $2,970 )
+Seat 10: PapaShango19 ( $1,600 )
+ALEXKING9999 posts small blind [$15]
+carpark14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 2d ]
+SUTCHIE folds
+Zelmath calls [$30]
+mpriimo folds
+PapaShango19 folds
+1234TURK folds
+rtomlina4 calls [$30]
+Tollmo calls [$30]
+ALEXKING9999 calls [$15]
+carpark14 checks
+** Dealing flop ** [ 2c, 8d, Kh ]
+ALEXKING9999 checks
+carpark14 bets [$30]
+Zelmath calls [$30]
+rtomlina4 folds
+Tollmo folds
+ALEXKING9999 folds
+** Dealing turn ** [ Js ]
+carpark14 bets [$30]
+Zelmath folds
+** Summary **
+carpark14 did not show his hand
+carpark14 collected [ $210 ]
+
+
+
+#Game No : 490792402
+***** 888poker Hand History for Game 490792402 *****
+$15/$30 Blinds No Limit Holdem - *** 17 12 2014 07:00:00
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,445 )
+Seat 2: rtomlina4 ( $1,422 )
+Seat 3: Tollmo ( $1,220 )
+Seat 4: ALEXKING9999 ( $1,410 )
+Seat 6: SUTCHIE ( $4,105 )
+Seat 7: Zelmath ( $2,940 )
+Seat 9: mpriimo ( $2,970 )
+Seat 10: PapaShango19 ( $1,600 )
+SUTCHIE posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Qc ]
+Zelmath folds
+mpriimo folds
+PapaShango19 folds
+1234TURK calls [$30]
+rtomlina4 calls [$30]
+Tollmo calls [$30]
+ALEXKING9999 calls [$30]
+SUTCHIE checks
+** Dealing flop ** [ 6s, Ad, 8c ]
+SUTCHIE checks
+1234TURK checks
+rtomlina4 checks
+Tollmo bets [$150]
+ALEXKING9999 folds
+SUTCHIE folds
+1234TURK folds
+rtomlina4 calls [$150]
+** Dealing turn ** [ Kd ]
+rtomlina4 checks
+Tollmo checks
+** Dealing river ** [ 8h ]
+rtomlina4 checks
+Tollmo checks
+** Summary **
+rtomlina4 shows [ 5s, Qs ]
+Tollmo shows [ 4s, Ac ]
+Tollmo collected [ $450 ]
+
+
+
+#Game No : 490792458
+***** 888poker Hand History for Game 490792458 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 07:01:16
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: 1234TURK ( $1,415 )
+Seat 2: rtomlina4 ( $1,242 )
+Seat 3: Tollmo ( $1,490 )
+Seat 4: ALEXKING9999 ( $1,380 )
+Seat 6: SUTCHIE ( $4,075 )
+Seat 7: Zelmath ( $2,940 )
+Seat 10: PapaShango19 ( $1,600 )
+SUTCHIE posts small blind [$25]
+Zelmath posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Ts ]
+PapaShango19 calls [$50]
+1234TURK folds
+rtomlina4 folds
+Tollmo calls [$50]
+ALEXKING9999 folds
+SUTCHIE folds
+Zelmath checks
+** Dealing flop ** [ 8d, Jh, 5d ]
+Zelmath checks
+PapaShango19 checks
+Tollmo bets [$87]
+Zelmath folds
+PapaShango19 calls [$87]
+** Dealing turn ** [ Ah ]
+PapaShango19 checks
+Tollmo checks
+** Dealing river ** [ 3s ]
+PapaShango19 checks
+Tollmo checks
+** Summary **
+PapaShango19 shows [ Qs, Ts ]
+Tollmo shows [ 9d, Jd ]
+Tollmo collected [ $349 ]
+
+
+
+#Game No : 490792519
+***** 888poker Hand History for Game 490792519 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 07:02:14
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,415 )
+Seat 2: rtomlina4 ( $1,242 )
+Seat 3: Tollmo ( $1,702 )
+Seat 4: ALEXKING9999 ( $1,380 )
+Seat 5: Omar3th ( $1,500 )
+Seat 6: SUTCHIE ( $4,050 )
+Seat 7: Zelmath ( $2,890 )
+Seat 10: PapaShango19 ( $1,463 )
+Zelmath posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 9c ]
+1234TURK folds
+rtomlina4 calls [$50]
+Tollmo calls [$50]
+ALEXKING9999 folds
+Omar3th folds
+SUTCHIE raises [$320]
+Zelmath folds
+PapaShango19 folds
+rtomlina4 folds
+Tollmo folds
+** Summary **
+SUTCHIE did not show his hand
+SUTCHIE collected [ $225 ]
+
+
+
+#Game No : 490792552
+***** 888poker Hand History for Game 490792552 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 07:02:52
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,415 )
+Seat 2: rtomlina4 ( $1,192 )
+Seat 3: Tollmo ( $1,652 )
+Seat 4: ALEXKING9999 ( $1,380 )
+Seat 5: Omar3th ( $1,500 )
+Seat 6: SUTCHIE ( $4,225 )
+Seat 7: Zelmath ( $2,865 )
+Seat 10: PapaShango19 ( $1,413 )
+PapaShango19 posts small blind [$25]
+1234TURK posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 4h ]
+rtomlina4 folds
+Tollmo calls [$50]
+ALEXKING9999 folds
+Omar3th folds
+SUTCHIE folds
+Zelmath folds
+PapaShango19 calls [$25]
+1234TURK checks
+** Dealing flop ** [ Ks, Ah, 8s ]
+PapaShango19 checks
+1234TURK checks
+Tollmo checks
+** Dealing turn ** [ Kh ]
+PapaShango19 checks
+1234TURK checks
+Tollmo bets [$75]
+PapaShango19 folds
+1234TURK calls [$75]
+** Dealing river ** [ 7c ]
+1234TURK bets [$200]
+Tollmo calls [$200]
+** Summary **
+1234TURK shows [ Jc, Ts ]
+Tollmo shows [ 7s, As ]
+Tollmo collected [ $700 ]
+
+
+
+#Game No : 490792659
+***** 888poker Hand History for Game 490792659 *****
+$25/$50 Blinds No Limit Holdem - *** 17 12 2014 07:04:31
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,090 )
+Seat 3: Tollmo ( $2,027 )
+Seat 4: ALEXKING9999 ( $1,380 )
+Seat 5: Omar3th ( $1,500 )
+Seat 6: SUTCHIE ( $4,225 )
+Seat 7: Zelmath ( $2,865 )
+Seat 9: bullydog187 ( $1,500 )
+Seat 10: PapaShango19 ( $1,363 )
+1234TURK posts small blind [$25]
+Tollmo posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Qs ]
+ALEXKING9999 folds
+Omar3th folds
+SUTCHIE raises [$175]
+Zelmath folds
+bullydog187 folds
+PapaShango19 folds
+1234TURK folds
+Tollmo calls [$125]
+** Dealing flop ** [ 8h, 2h, 5c ]
+Tollmo checks
+SUTCHIE bets [$280]
+Tollmo folds
+** Summary **
+SUTCHIE collected [ $375 ]
+
+
+
+#Game No : 490792711
+***** 888poker Hand History for Game 490792711 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 07:05:23
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,065 )
+Seat 3: Tollmo ( $1,852 )
+Seat 4: ALEXKING9999 ( $1,380 )
+Seat 5: Omar3th ( $1,500 )
+Seat 6: SUTCHIE ( $4,425 )
+Seat 7: Zelmath ( $2,865 )
+Seat 9: bullydog187 ( $1,500 )
+Seat 10: PapaShango19 ( $1,363 )
+Tollmo posts small blind [$50]
+ALEXKING9999 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 9d ]
+Omar3th calls [$100]
+SUTCHIE folds
+Zelmath folds
+bullydog187 calls [$100]
+PapaShango19 raises [$1,363]
+1234TURK folds
+Tollmo raises [$1,802]
+ALEXKING9999 folds
+Omar3th calls [$1,400]
+bullydog187 calls [$1,400]
+** Dealing flop ** [ Js, Qc, 6h ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 9h ]
+** Summary **
+Tollmo shows [ Kd, Ts ]
+Omar3th shows [ 8d, 8h ]
+bullydog187 shows [ Tc, Ac ]
+PapaShango19 shows [ 9c, 9d ]
+bullydog187 collected [ $5,552 ]
+bullydog187 collected [ $411 ]
+
+
+
+#Game No : 490792760
+***** 888poker Hand History for Game 490792760 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 07:06:23
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,065 )
+Seat 2: daelswin ( $1,500 )
+Seat 3: Tollmo ( $352 )
+Seat 4: ALEXKING9999 ( $1,280 )
+Seat 5: Omar3th ( $1,500 )
+Seat 6: SUTCHIE ( $4,425 )
+Seat 7: Zelmath ( $2,865 )
+Seat 9: bullydog187 ( $5,963 )
+Seat 10: PapaShango19 ( $1,500 )
+ALEXKING9999 posts small blind [$50]
+Omar3th posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Jd ]
+SUTCHIE folds
+Zelmath calls [$100]
+bullydog187 folds
+PapaShango19 folds
+1234TURK folds
+daelswin calls [$100]
+Tollmo raises [$352]
+ALEXKING9999 folds
+Omar3th calls [$252]
+Zelmath calls [$252]
+daelswin calls [$252]
+** Dealing flop ** [ 9h, 5d, 9c ]
+Omar3th checks
+Zelmath checks
+daelswin checks
+** Dealing turn ** [ Ah ]
+Omar3th bets [$900]
+Zelmath folds
+daelswin folds
+** Dealing river ** [ 3s ]
+** Summary **
+Tollmo shows [ Kc, Tc ]
+Omar3th shows [ Ks, Ac ]
+Omar3th collected [ $1,458 ]
+
+
+
+#Game No : 490792847
+***** 888poker Hand History for Game 490792847 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 07:07:59
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,065 )
+Seat 2: daelswin ( $1,148 )
+Seat 4: ALEXKING9999 ( $1,230 )
+Seat 5: Omar3th ( $2,606 )
+Seat 6: SUTCHIE ( $4,425 )
+Seat 7: Zelmath ( $2,513 )
+Seat 9: bullydog187 ( $5,963 )
+Seat 10: PapaShango19 ( $1,500 )
+Omar3th posts small blind [$50]
+SUTCHIE posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Kd ]
+Zelmath calls [$100]
+bullydog187 folds
+PapaShango19 folds
+1234TURK folds
+daelswin folds
+ALEXKING9999 folds
+Omar3th calls [$50]
+SUTCHIE checks
+** Dealing flop ** [ 6c, 5h, As ]
+Omar3th bets [$100]
+SUTCHIE calls [$100]
+Zelmath folds
+** Dealing turn ** [ 4d ]
+Omar3th bets [$300]
+SUTCHIE calls [$300]
+** Dealing river ** [ Td ]
+Omar3th bets [$1,300]
+SUTCHIE raises [$2,600]
+Omar3th calls [$806]
+** Summary **
+Omar3th shows [ 5d, 6s ]
+SUTCHIE shows [ 3s, Th ]
+Omar3th collected [ $5,312 ]
+
+
+
+#Game No : 490792930
+***** 888poker Hand History for Game 490792930 *****
+$50/$100 Blinds No Limit Holdem - *** 17 12 2014 07:09:23
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,065 )
+Seat 2: daelswin ( $1,148 )
+Seat 3: stella258 ( $4,500 )
+Seat 4: ALEXKING9999 ( $1,230 )
+Seat 5: Omar3th ( $5,312 )
+Seat 6: SUTCHIE ( $1,819 )
+Seat 7: Zelmath ( $2,413 )
+Seat 9: bullydog187 ( $5,963 )
+Seat 10: PapaShango19 ( $1,500 )
+SUTCHIE posts small blind [$50]
+Zelmath posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Kh ]
+bullydog187 folds
+PapaShango19 folds
+1234TURK calls [$100]
+daelswin folds
+stella258 calls [$100]
+ALEXKING9999 folds
+Omar3th calls [$100]
+SUTCHIE folds
+Zelmath checks
+** Dealing flop ** [ 4s, 7s, Jc ]
+Zelmath checks
+1234TURK checks
+stella258 checks
+Omar3th checks
+** Dealing turn ** [ Ah ]
+Zelmath checks
+1234TURK bets [$300]
+stella258 calls [$300]
+Omar3th folds
+Zelmath folds
+** Dealing river ** [ 4c ]
+1234TURK bets [$100]
+stella258 calls [$100]
+** Summary **
+1234TURK shows [ 3d, Ad ]
+stella258 mucks [ 9c, Td ]
+1234TURK collected [ $1,250 ]
+
+
+
+#Game No : 490793018
+***** 888poker Hand History for Game 490793018 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 07:10:56
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,815 )
+Seat 2: daelswin ( $1,148 )
+Seat 3: stella258 ( $4,000 )
+Seat 4: ALEXKING9999 ( $1,230 )
+Seat 5: Omar3th ( $5,212 )
+Seat 7: Zelmath ( $2,313 )
+Seat 9: bullydog187 ( $5,963 )
+Seat 10: PapaShango19 ( $1,500 )
+Zelmath posts small blind [$75]
+bullydog187 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 6s ]
+PapaShango19 folds
+1234TURK calls [$150]
+daelswin folds
+stella258 calls [$150]
+ALEXKING9999 raises [$300]
+Omar3th folds
+Zelmath folds
+bullydog187 calls [$150]
+1234TURK calls [$150]
+stella258 calls [$150]
+** Dealing flop ** [ 2h, 9s, Jc ]
+bullydog187 checks
+1234TURK checks
+stella258 checks
+ALEXKING9999 checks
+** Dealing turn ** [ 6d ]
+bullydog187 checks
+1234TURK checks
+stella258 checks
+ALEXKING9999 checks
+** Dealing river ** [ 6h ]
+bullydog187 checks
+1234TURK checks
+stella258 checks
+ALEXKING9999 checks
+** Summary **
+bullydog187 shows [ 5s, 3h ]
+1234TURK shows [ 4c, Ac ]
+stella258 mucks [ 7h, Kc ]
+ALEXKING9999 shows [ Ks, As ]
+ALEXKING9999 collected [ $1,275 ]
+
+
+
+#Game No : 490793095
+***** 888poker Hand History for Game 490793095 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 07:12:11
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,515 )
+Seat 2: daelswin ( $1,148 )
+Seat 3: stella258 ( $3,700 )
+Seat 4: ALEXKING9999 ( $2,205 )
+Seat 5: Omar3th ( $5,212 )
+Seat 7: Zelmath ( $2,238 )
+Seat 9: bullydog187 ( $5,663 )
+Seat 10: PapaShango19 ( $1,500 )
+bullydog187 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Jc ]
+1234TURK folds
+daelswin calls [$150]
+stella258 folds
+ALEXKING9999 folds
+Omar3th calls [$150]
+Zelmath folds
+bullydog187 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ As, 6s, Ah ]
+bullydog187 checks
+PapaShango19 checks
+daelswin bets [$500]
+Omar3th folds
+bullydog187 calls [$500]
+PapaShango19 folds
+** Dealing turn ** [ 7h ]
+bullydog187 checks
+daelswin bets [$498]
+bullydog187 calls [$498]
+** Dealing river ** [ 6h ]
+** Summary **
+daelswin shows [ 2d, Jd ]
+bullydog187 shows [ Ac, Jh ]
+bullydog187 collected [ $2,596 ]
+
+
+
+#Game No : 490793176
+***** 888poker Hand History for Game 490793176 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 07:13:29
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,515 )
+Seat 3: stella258 ( $3,700 )
+Seat 4: ALEXKING9999 ( $2,205 )
+Seat 5: Omar3th ( $5,062 )
+Seat 6: RonIrishMofo ( $1,500 )
+Seat 7: Zelmath ( $2,238 )
+Seat 9: bullydog187 ( $7,111 )
+Seat 10: PapaShango19 ( $1,350 )
+PapaShango19 posts small blind [$75]
+1234TURK posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6s ]
+stella258 calls [$150]
+ALEXKING9999 folds
+Omar3th calls [$150]
+RonIrishMofo raises [$1,500]
+Zelmath folds
+bullydog187 calls [$1,500]
+PapaShango19 folds
+1234TURK folds
+stella258 calls [$1,350]
+Omar3th calls [$1,350]
+** Dealing flop ** [ Ad, 8d, 3d ]
+stella258 checks
+Omar3th checks
+bullydog187 checks
+** Dealing turn ** [ 4s ]
+stella258 checks
+Omar3th checks
+bullydog187 checks
+** Dealing river ** [ Qh ]
+stella258 checks
+Omar3th checks
+bullydog187 bets [$2,962]
+stella258 folds
+Omar3th folds
+** Summary **
+RonIrishMofo shows [ Td, As ]
+bullydog187 shows [ Qd, Tc ]
+RonIrishMofo collected [ $6,225 ]
+
+
+
+#Game No : 490793237
+***** 888poker Hand History for Game 490793237 *****
+$75/$150 Blinds No Limit Holdem - *** 17 12 2014 07:14:38
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,365 )
+Seat 3: stella258 ( $2,200 )
+Seat 4: ALEXKING9999 ( $2,205 )
+Seat 5: Omar3th ( $3,562 )
+Seat 6: RonIrishMofo ( $6,225 )
+Seat 7: Zelmath ( $2,238 )
+Seat 9: bullydog187 ( $5,611 )
+Seat 10: PapaShango19 ( $1,275 )
+1234TURK posts small blind [$75]
+stella258 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 8s ]
+ALEXKING9999 folds
+Omar3th calls [$150]
+RonIrishMofo folds
+Zelmath raises [$600]
+bullydog187 calls [$600]
+PapaShango19 folds
+1234TURK folds
+stella258 folds
+Omar3th calls [$450]
+** Dealing flop ** [ 7c, Js, 6d ]
+Omar3th checks
+Zelmath bets [$1,638]
+bullydog187 calls [$1,638]
+Omar3th calls [$1,638]
+** Dealing turn ** [ 4c ]
+Omar3th checks
+bullydog187 bets [$3,373]
+Omar3th calls [$1,324]
+** Dealing river ** [ 3d ]
+** Summary **
+Omar3th shows [ 7h, 2h ]
+Zelmath shows [ Qc, As ]
+bullydog187 shows [ 6h, 6s ]
+bullydog187 collected [ $6,939 ]
+bullydog187 collected [ $2,648 ]
+
+
+
+#Game No : 490793298
+***** 888poker Hand History for Game 490793298 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 07:15:41
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,290 )
+Seat 3: stella258 ( $2,050 )
+Seat 4: ALEXKING9999 ( $2,205 )
+Seat 5: Omar3th ( $1,500 )
+Seat 6: RonIrishMofo ( $6,225 )
+Seat 7: Zelmath ( $3,000 )
+Seat 9: bullydog187 ( $11,636 )
+Seat 10: PapaShango19 ( $1,275 )
+PapaShango19 posts ante [$20]
+1234TURK posts ante [$20]
+ALEXKING9999 posts ante [$20]
+Zelmath posts ante [$20]
+Omar3th posts ante [$20]
+bullydog187 posts ante [$20]
+stella258 posts ante [$20]
+RonIrishMofo posts ante [$20]
+stella258 posts small blind [$100]
+ALEXKING9999 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 7d ]
+Omar3th calls [$200]
+RonIrishMofo folds
+Zelmath raises [$600]
+bullydog187 folds
+PapaShango19 folds
+1234TURK folds
+stella258 folds
+ALEXKING9999 folds
+Omar3th calls [$400]
+** Dealing flop ** [ Jc, 2c, 2d ]
+Omar3th checks
+Zelmath bets [$830]
+Omar3th folds
+** Summary **
+Zelmath collected [ $1,660 ]
+
+
+
+#Game No : 490793352
+***** 888poker Hand History for Game 490793352 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 07:16:29
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,270 )
+Seat 2: Troyus88 ( $1,500 )
+Seat 3: stella258 ( $1,930 )
+Seat 4: ALEXKING9999 ( $1,985 )
+Seat 5: Omar3th ( $880 )
+Seat 6: RonIrishMofo ( $6,205 )
+Seat 7: Zelmath ( $4,040 )
+Seat 9: bullydog187 ( $11,616 )
+Seat 10: PapaShango19 ( $1,255 )
+PapaShango19 posts ante [$20]
+1234TURK posts ante [$20]
+ALEXKING9999 posts ante [$20]
+Zelmath posts ante [$20]
+Omar3th posts ante [$20]
+bullydog187 posts ante [$20]
+stella258 posts ante [$20]
+RonIrishMofo posts ante [$20]
+Troyus88 posts ante [$20]
+ALEXKING9999 posts small blind [$100]
+Omar3th posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Jc ]
+RonIrishMofo folds
+Zelmath raises [$440]
+bullydog187 calls [$440]
+PapaShango19 folds
+1234TURK folds
+Troyus88 folds
+stella258 folds
+ALEXKING9999 raises [$1,865]
+Omar3th calls [$660]
+Zelmath calls [$1,525]
+bullydog187 calls [$1,525]
+** Dealing flop ** [ Kd, Td, Qh ]
+Zelmath bets [$2,055]
+bullydog187 calls [$2,055]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 4h ]
+** Summary **
+ALEXKING9999 shows [ Ac, As ]
+Omar3th shows [ 6c, 2c ]
+Zelmath shows [ Ah, Qd ]
+bullydog187 shows [ Kh, Qs ]
+bullydog187 collected [ $3,620 ]
+bullydog187 collected [ $3,315 ]
+bullydog187 collected [ $4,110 ]
+
+
+
+#Game No : 490793406
+***** 888poker Hand History for Game 490793406 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 07:17:29
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: 1234TURK ( $1,250 )
+Seat 2: Troyus88 ( $1,480 )
+Seat 3: stella258 ( $3,410 )
+Seat 6: RonIrishMofo ( $6,185 )
+Seat 7: Zelmath ( $3,000 )
+Seat 9: bullydog187 ( $18,621 )
+Seat 10: PapaShango19 ( $1,235 )
+PapaShango19 posts ante [$20]
+1234TURK posts ante [$20]
+Zelmath posts ante [$20]
+bullydog187 posts ante [$20]
+stella258 posts ante [$20]
+RonIrishMofo posts ante [$20]
+Troyus88 posts ante [$20]
+RonIrishMofo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 4d ]
+Zelmath folds
+bullydog187 folds
+PapaShango19 folds
+1234TURK raises [$400]
+Troyus88 folds
+stella258 folds
+RonIrishMofo folds
+** Summary **
+1234TURK collected [ $540 ]
+
+
+
+#Game No : 490793440
+***** 888poker Hand History for Game 490793440 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 07:18:00
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,570 )
+Seat 2: Troyus88 ( $1,460 )
+Seat 3: stella258 ( $3,390 )
+Seat 4: AlexPicsou ( $1,500 )
+Seat 6: RonIrishMofo ( $5,965 )
+Seat 7: Zelmath ( $2,980 )
+Seat 9: bullydog187 ( $18,601 )
+Seat 10: PapaShango19 ( $1,215 )
+PapaShango19 posts ante [$20]
+1234TURK posts ante [$20]
+Zelmath posts ante [$20]
+bullydog187 posts ante [$20]
+stella258 posts ante [$20]
+RonIrishMofo posts ante [$20]
+Troyus88 posts ante [$20]
+AlexPicsou posts ante [$20]
+RonIrishMofo posts small blind [$100]
+Zelmath posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Qs ]
+bullydog187 folds
+PapaShango19 folds
+1234TURK folds
+Troyus88 calls [$200]
+stella258 folds
+AlexPicsou folds
+RonIrishMofo calls [$100]
+Zelmath checks
+** Dealing flop ** [ 5c, 8h, 3s ]
+RonIrishMofo bets [$400]
+Zelmath raises [$800]
+Troyus88 calls [$800]
+RonIrishMofo raises [$5,345]
+Zelmath calls [$1,960]
+Troyus88 calls [$440]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Ah ]
+** Summary **
+Troyus88 shows [ 7s, 5s ]
+RonIrishMofo shows [ 8c, Ad ]
+Zelmath shows [ 6s, 7h ]
+RonIrishMofo collected [ $4,480 ]
+RonIrishMofo collected [ $3,040 ]
+
+
+
+#Game No : 490793518
+***** 888poker Hand History for Game 490793518 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 07:19:23
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,550 )
+Seat 2: Troyus88 ( $3,000 )
+Seat 3: stella258 ( $3,370 )
+Seat 4: AlexPicsou ( $1,480 )
+Seat 5: Bazaliyskiy ( $1,500 )
+Seat 6: RonIrishMofo ( $10,505 )
+Seat 9: bullydog187 ( $18,581 )
+Seat 10: PapaShango19 ( $1,195 )
+PapaShango19 posts ante [$20]
+1234TURK posts ante [$20]
+bullydog187 posts ante [$20]
+stella258 posts ante [$20]
+RonIrishMofo posts ante [$20]
+Troyus88 posts ante [$20]
+AlexPicsou posts ante [$20]
+Bazaliyskiy posts ante [$20]
+bullydog187 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Kd ]
+PapaShango19 folds
+1234TURK folds
+Troyus88 folds
+stella258 folds
+AlexPicsou folds
+Bazaliyskiy folds
+RonIrishMofo raises [$400]
+bullydog187 calls [$200]
+** Dealing flop ** [ 9c, 8d, Jc ]
+bullydog187 checks
+RonIrishMofo bets [$400]
+bullydog187 calls [$400]
+** Dealing turn ** [ Tc ]
+bullydog187 checks
+RonIrishMofo checks
+** Dealing river ** [ 6d ]
+bullydog187 bets [$400]
+RonIrishMofo calls [$400]
+** Summary **
+bullydog187 shows [ 9d, Ks ]
+RonIrishMofo shows [ Ad, Ah ]
+RonIrishMofo collected [ $2,560 ]
+
+
+
+#Game No : 490793566
+***** 888poker Hand History for Game 490793566 *****
+$100/$200 Blinds No Limit Holdem - *** 17 12 2014 07:20:07
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: 1234TURK ( $1,530 )
+Seat 2: Troyus88 ( $2,980 )
+Seat 3: stella258 ( $3,350 )
+Seat 4: AlexPicsou ( $1,460 )
+Seat 5: Bazaliyskiy ( $1,480 )
+Seat 6: RonIrishMofo ( $11,845 )
+Seat 9: bullydog187 ( $17,361 )
+Seat 10: PapaShango19 ( $1,175 )
+PapaShango19 posts ante [$20]
+1234TURK posts ante [$20]
+bullydog187 posts ante [$20]
+stella258 posts ante [$20]
+RonIrishMofo posts ante [$20]
+Troyus88 posts ante [$20]
+AlexPicsou posts ante [$20]
+Bazaliyskiy posts ante [$20]
+bullydog187 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 6h ]
+1234TURK folds
+Troyus88 calls [$200]
+stella258 calls [$200]
+AlexPicsou folds
+Bazaliyskiy folds
+RonIrishMofo calls [$200]
+bullydog187 calls [$100]
+PapaShango19 checks
+** Dealing flop ** [ 2c, 3h, 7h ]
+bullydog187 checks
+PapaShango19 checks
+Troyus88 checks
+stella258 checks
+RonIrishMofo bets [$600]
+bullydog187 folds
+PapaShango19 folds
+Troyus88 calls [$600]
+stella258 folds
+** Dealing turn ** [ Th ]
+Troyus88 checks
+RonIrishMofo checks
+** Dealing river ** [ Kc ]
+Troyus88 checks
+RonIrishMofo checks
+** Summary **
+Troyus88 shows [ 8s, 8d ]
+RonIrishMofo mucks [ 5h, 5d ]
+Troyus88 collected [ $2,360 ]
+
+
+
+#Game No : 490793615
+***** 888poker Hand History for Game 490793615 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 07:21:13
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: 1234TURK ( $1,510 )
+Seat 2: Troyus88 ( $4,520 )
+Seat 3: stella258 ( $3,130 )
+Seat 4: AlexPicsou ( $1,440 )
+Seat 5: Bazaliyskiy ( $1,460 )
+Seat 6: RonIrishMofo ( $11,025 )
+Seat 7: jb2li ( $3,000 )
+Seat 9: bullydog187 ( $17,141 )
+Seat 10: PapaShango19 ( $955 )
+PapaShango19 posts ante [$25]
+1234TURK posts ante [$25]
+bullydog187 posts ante [$25]
+stella258 posts ante [$25]
+RonIrishMofo posts ante [$25]
+Troyus88 posts ante [$25]
+AlexPicsou posts ante [$25]
+Bazaliyskiy posts ante [$25]
+jb2li posts ante [$25]
+PapaShango19 posts small blind [$125]
+1234TURK posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 9d ]
+Troyus88 folds
+stella258 calls [$250]
+AlexPicsou folds
+Bazaliyskiy folds
+RonIrishMofo folds
+jb2li calls [$250]
+bullydog187 folds
+PapaShango19 raises [$805]
+1234TURK folds
+stella258 calls [$680]
+jb2li calls [$680]
+** Dealing flop ** [ 5s, 8d, 2h ]
+stella258 checks
+jb2li checks
+** Dealing turn ** [ 8s ]
+stella258 checks
+jb2li checks
+** Dealing river ** [ 2d ]
+stella258 checks
+jb2li checks
+** Summary **
+stella258 shows [ 4h, Kd ]
+jb2li shows [ Jh, As ]
+PapaShango19 shows [ Ah, 9d ]
+PapaShango19 collected [ $1,633 ]
+jb2li collected [ $1,632 ]
+
+
+
+#Game No : 490793668
+***** 888poker Hand History for Game 490793668 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 07:22:14
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: Troyus88 ( $4,495 )
+Seat 3: stella258 ( $2,175 )
+Seat 4: AlexPicsou ( $1,415 )
+Seat 5: Bazaliyskiy ( $1,435 )
+Seat 6: RonIrishMofo ( $11,000 )
+Seat 7: jb2li ( $3,677 )
+Seat 9: bullydog187 ( $17,116 )
+Seat 10: PapaShango19 ( $1,633 )
+PapaShango19 posts ante [$25]
+bullydog187 posts ante [$25]
+stella258 posts ante [$25]
+RonIrishMofo posts ante [$25]
+Troyus88 posts ante [$25]
+AlexPicsou posts ante [$25]
+Bazaliyskiy posts ante [$25]
+jb2li posts ante [$25]
+Troyus88 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7s ]
+stella258 folds
+AlexPicsou folds
+Bazaliyskiy folds
+RonIrishMofo raises [$500]
+jb2li calls [$500]
+bullydog187 folds
+PapaShango19 folds
+Troyus88 calls [$250]
+** Dealing flop ** [ 2c, 4h, 2s ]
+Troyus88 checks
+RonIrishMofo bets [$1,000]
+jb2li folds
+Troyus88 folds
+** Summary **
+RonIrishMofo collected [ $1,700 ]
+
+
+
+#Game No : 490793699
+***** 888poker Hand History for Game 490793699 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 07:22:59
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 2: Troyus88 ( $3,970 )
+Seat 3: stella258 ( $3,650 )
+Seat 4: AlexPicsou ( $1,390 )
+Seat 5: Bazaliyskiy ( $1,410 )
+Seat 6: RonIrishMofo ( $12,175 )
+Seat 7: jb2li ( $3,152 )
+Seat 9: bullydog187 ( $17,091 )
+Seat 10: PapaShango19 ( $1,608 )
+PapaShango19 posts ante [$25]
+bullydog187 posts ante [$25]
+stella258 posts ante [$25]
+RonIrishMofo posts ante [$25]
+Troyus88 posts ante [$25]
+AlexPicsou posts ante [$25]
+Bazaliyskiy posts ante [$25]
+jb2li posts ante [$25]
+Troyus88 posts small blind [$125]
+stella258 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 3h ]
+AlexPicsou folds
+Bazaliyskiy folds
+RonIrishMofo raises [$500]
+jb2li folds
+bullydog187 folds
+PapaShango19 folds
+Troyus88 calls [$375]
+stella258 calls [$250]
+** Dealing flop ** [ 9h, 2s, 6h ]
+Troyus88 bets [$750]
+stella258 folds
+RonIrishMofo raises [$2,000]
+Troyus88 calls [$1,250]
+** Dealing turn ** [ 2h ]
+Troyus88 bets [$1,445]
+RonIrishMofo calls [$1,445]
+** Dealing river ** [ Kd ]
+** Summary **
+Troyus88 shows [ 9s, Kh ]
+RonIrishMofo shows [ Th, Tc ]
+Troyus88 collected [ $8,590 ]
+
+
+
+#Game No : 490793762
+***** 888poker Hand History for Game 490793762 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 07:24:08
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: mcgranaghanw ( $1,500 )
+Seat 2: Troyus88 ( $8,590 )
+Seat 3: stella258 ( $3,125 )
+Seat 4: AlexPicsou ( $1,365 )
+Seat 5: Bazaliyskiy ( $1,385 )
+Seat 6: RonIrishMofo ( $8,205 )
+Seat 7: jb2li ( $3,127 )
+Seat 9: bullydog187 ( $17,066 )
+Seat 10: PapaShango19 ( $1,583 )
+PapaShango19 posts ante [$25]
+bullydog187 posts ante [$25]
+stella258 posts ante [$25]
+RonIrishMofo posts ante [$25]
+Troyus88 posts ante [$25]
+AlexPicsou posts ante [$25]
+Bazaliyskiy posts ante [$25]
+jb2li posts ante [$25]
+mcgranaghanw posts ante [$25]
+stella258 posts small blind [$125]
+AlexPicsou posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Th ]
+Bazaliyskiy folds
+RonIrishMofo folds
+jb2li folds
+bullydog187 calls [$250]
+PapaShango19 folds
+mcgranaghanw raises [$1,475]
+Troyus88 folds
+stella258 folds
+AlexPicsou folds
+bullydog187 calls [$1,225]
+** Dealing flop ** [ Ad, Kc, Ac ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ Jd ]
+** Summary **
+mcgranaghanw shows [ As, Kh ]
+bullydog187 shows [ Td, Ah ]
+mcgranaghanw collected [ $3,550 ]
+
+
+
+#Game No : 490793791
+***** 888poker Hand History for Game 490793791 *****
+$125/$250 Blinds No Limit Holdem - *** 17 12 2014 07:24:49
+Tournament #64433988 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: mcgranaghanw ( $3,550 )
+Seat 2: Troyus88 ( $8,565 )
+Seat 3: stella258 ( $2,975 )
+Seat 4: AlexPicsou ( $1,090 )
+Seat 5: Bazaliyskiy ( $1,360 )
+Seat 6: RonIrishMofo ( $8,180 )
+Seat 7: jb2li ( $3,102 )
+Seat 9: bullydog187 ( $15,566 )
+Seat 10: PapaShango19 ( $1,558 )
+PapaShango19 posts ante [$25]
+bullydog187 posts ante [$25]
+stella258 posts ante [$25]
+RonIrishMofo posts ante [$25]
+Troyus88 posts ante [$25]
+AlexPicsou posts ante [$25]
+Bazaliyskiy posts ante [$25]
+jb2li posts ante [$25]
+mcgranaghanw posts ante [$25]
+AlexPicsou posts small blind [$125]
+Bazaliyskiy posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Ah ]
+RonIrishMofo folds
+jb2li folds
+bullydog187 folds
+PapaShango19 raises [$1,533]
+mcgranaghanw folds
+Troyus88 calls [$1,533]
+stella258 folds
+AlexPicsou calls [$940]
+Bazaliyskiy calls [$1,085]
+** Dealing flop ** [ 8c, Jh, 6s ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 5c ]
+** Summary **
+Troyus88 shows [ Ts, As ]
+AlexPicsou shows [ 7h, 8h ]
+Bazaliyskiy shows [ Ad, Ac ]
+PapaShango19 shows [ 9h, Ah ]
+Bazaliyskiy collected [ $4,485 ]
+Bazaliyskiy collected [ $810 ]
+Troyus88 collected [ $396 ]
+
+
+

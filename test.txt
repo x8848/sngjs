@@ -1,0 +1,1992 @@
+#Game No : 459738572
+***** 888poker Hand History for Game 459738572 *****
+$10/$20 Blinds No Limit Holdem - *** 28 10 2014 13:45:49
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $1,500 )
+Seat 2: fftttt ( $1,500 )
+Seat 3: FoxAres ( $1,500 )
+Seat 4: Gerasimovil ( $1,500 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,500 )
+Seat 7: ms.platinum ( $1,500 )
+Seat 9: drommedar ( $1,500 )
+Seat 10: nikmargo89 ( $1,500 )
+microsdA posts small blind [$10]
+ms.platinum posts big blind [$20]
+** Dealing down cards **
+Dealt to fftttt [ 7h, Tc ]
+drommedar raises [$100]
+nikmargo89 calls [$100]
+lisboa74 folds
+fftttt folds
+FoxAres folds
+Gerasimovil calls [$100]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+** Dealing flop ** [ Jc, 4c, Ah ]
+drommedar checks
+nikmargo89 checks
+Gerasimovil checks
+** Dealing turn ** [ Ac ]
+drommedar checks
+nikmargo89 bets [$20]
+Gerasimovil calls [$20]
+drommedar folds
+** Dealing river ** [ 9d ]
+nikmargo89 checks
+Gerasimovil checks
+** Summary **
+nikmargo89 shows [ 8d, 8c ]
+Gerasimovil shows [ Kh, Jh ]
+Gerasimovil collected [ $370 ]
+
+
+
+#Game No : 459739076
+***** 888poker Hand History for Game 459739076 *****
+$10/$20 Blinds No Limit Holdem - *** 28 10 2014 13:47:35
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $1,500 )
+Seat 2: fftttt ( $1,500 )
+Seat 3: FoxAres ( $1,500 )
+Seat 4: Gerasimovil ( $1,750 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,490 )
+Seat 7: ms.platinum ( $1,480 )
+Seat 9: drommedar ( $1,400 )
+Seat 10: nikmargo89 ( $1,380 )
+ms.platinum posts small blind [$10]
+drommedar posts big blind [$20]
+** Dealing down cards **
+Dealt to fftttt [ Qc, 5d ]
+nikmargo89 calls [$20]
+lisboa74 folds
+fftttt folds
+FoxAres calls [$20]
+Gerasimovil calls [$20]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar checks
+** Dealing flop ** [ 3h, 3s, 3d ]
+drommedar checks
+nikmargo89 bets [$20]
+FoxAres calls [$20]
+Gerasimovil calls [$20]
+drommedar folds
+** Dealing turn ** [ As ]
+nikmargo89 bets [$75]
+FoxAres calls [$75]
+Gerasimovil folds
+** Dealing river ** [ Jh ]
+nikmargo89 bets [$300]
+FoxAres raises [$1,385]
+nikmargo89 calls [$965]
+** Summary **
+FoxAres shows [ Ad, 6d ]
+nikmargo89 shows [ 8d, Ac ]
+nikmargo89 collected [ $1,415 ]
+FoxAres collected [ $1,415 ]
+
+
+
+#Game No : 459739544
+***** 888poker Hand History for Game 459739544 *****
+$10/$20 Blinds No Limit Holdem - *** 28 10 2014 13:49:18
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $1,500 )
+Seat 2: fftttt ( $1,500 )
+Seat 3: FoxAres ( $1,535 )
+Seat 4: Gerasimovil ( $1,710 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,490 )
+Seat 7: ms.platinum ( $1,470 )
+Seat 9: drommedar ( $1,380 )
+Seat 10: nikmargo89 ( $1,415 )
+drommedar posts small blind [$10]
+nikmargo89 posts big blind [$20]
+** Dealing down cards **
+Dealt to fftttt [ Kc, 6h ]
+lisboa74 calls [$20]
+fftttt calls [$20]
+FoxAres folds
+Gerasimovil raises [$120]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar calls [$110]
+nikmargo89 folds
+lisboa74 calls [$100]
+fftttt folds
+** Dealing flop ** [ Ad, Qs, 9s ]
+drommedar checks
+lisboa74 bets [$200]
+Gerasimovil calls [$200]
+drommedar folds
+** Dealing turn ** [ 2c ]
+lisboa74 bets [$180]
+Gerasimovil calls [$180]
+** Dealing river ** [ 4c ]
+lisboa74 bets [$300]
+Gerasimovil calls [$300]
+** Summary **
+lisboa74 shows [ As, 5d ]
+Gerasimovil mucks [ Ks, Kd ]
+lisboa74 collected [ $1,760 ]
+
+
+
+#Game No : 459740246
+***** 888poker Hand History for Game 459740246 *****
+$10/$20 Blinds No Limit Holdem - *** 28 10 2014 13:51:53
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $2,460 )
+Seat 2: fftttt ( $1,480 )
+Seat 3: FoxAres ( $1,535 )
+Seat 4: Gerasimovil ( $910 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,490 )
+Seat 7: ms.platinum ( $1,470 )
+Seat 9: drommedar ( $1,260 )
+Seat 10: nikmargo89 ( $1,395 )
+nikmargo89 posts small blind [$10]
+lisboa74 posts big blind [$20]
+** Dealing down cards **
+Dealt to fftttt [ 9d, 7h ]
+fftttt folds
+FoxAres folds
+Gerasimovil raises [$70]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar calls [$70]
+nikmargo89 calls [$60]
+lisboa74 folds
+** Dealing flop ** [ 9h, 9s, Kc ]
+nikmargo89 bets [$172]
+Gerasimovil folds
+drommedar calls [$172]
+** Dealing turn ** [ Kd ]
+nikmargo89 checks
+drommedar checks
+** Dealing river ** [ Ad ]
+nikmargo89 bets [$430]
+drommedar folds
+** Summary **
+nikmargo89 did not show his hand
+nikmargo89 collected [ $574 ]
+
+
+
+#Game No : 459740853
+***** 888poker Hand History for Game 459740853 *****
+$15/$30 Blinds No Limit Holdem - *** 28 10 2014 13:53:59
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $2,440 )
+Seat 2: fftttt ( $1,480 )
+Seat 3: FoxAres ( $1,535 )
+Seat 4: Gerasimovil ( $840 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,490 )
+Seat 7: ms.platinum ( $1,470 )
+Seat 9: drommedar ( $1,018 )
+Seat 10: nikmargo89 ( $1,727 )
+lisboa74 posts small blind [$15]
+fftttt posts big blind [$30]
+** Dealing down cards **
+Dealt to fftttt [ 6d, 2s ]
+FoxAres folds
+Gerasimovil raises [$60]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar calls [$60]
+nikmargo89 folds
+lisboa74 folds
+fftttt folds
+** Dealing flop ** [ 8h, 5h, 7s ]
+Gerasimovil bets [$123]
+drommedar folds
+** Summary **
+Gerasimovil did not show his hand
+Gerasimovil collected [ $165 ]
+
+
+
+#Game No : 459740980
+***** 888poker Hand History for Game 459740980 *****
+$15/$30 Blinds No Limit Holdem - *** 28 10 2014 13:54:30
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $2,425 )
+Seat 2: fftttt ( $1,450 )
+Seat 3: FoxAres ( $1,535 )
+Seat 4: Gerasimovil ( $945 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,490 )
+Seat 7: ms.platinum ( $1,470 )
+Seat 9: drommedar ( $958 )
+Seat 10: nikmargo89 ( $1,727 )
+fftttt posts small blind [$15]
+FoxAres posts big blind [$30]
+** Dealing down cards **
+Dealt to fftttt [ 4c, 5h ]
+Gerasimovil raises [$60]
+adelynochka folds
+microsdA calls [$60]
+ms.platinum raises [$285]
+drommedar calls [$285]
+nikmargo89 folds
+lisboa74 folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+microsdA folds
+** Dealing flop ** [ Ks, Tc, Ac ]
+ms.platinum bets [$735]
+drommedar folds
+** Summary **
+ms.platinum did not show his hand
+ms.platinum collected [ $735 ]
+
+
+
+#Game No : 459741242
+***** 888poker Hand History for Game 459741242 *****
+$15/$30 Blinds No Limit Holdem - *** 28 10 2014 13:55:41
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $2,425 )
+Seat 2: fftttt ( $1,435 )
+Seat 3: FoxAres ( $1,505 )
+Seat 4: Gerasimovil ( $885 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,430 )
+Seat 7: ms.platinum ( $1,920 )
+Seat 9: drommedar ( $673 )
+Seat 10: nikmargo89 ( $1,727 )
+FoxAres posts small blind [$15]
+Gerasimovil posts big blind [$30]
+** Dealing down cards **
+Dealt to fftttt [ 3d, Td ]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar folds
+nikmargo89 calls [$30]
+lisboa74 calls [$30]
+fftttt folds
+FoxAres calls [$15]
+Gerasimovil checks
+** Dealing flop ** [ 3c, Qs, Js ]
+FoxAres checks
+Gerasimovil checks
+nikmargo89 checks
+lisboa74 checks
+** Dealing turn ** [ Tc ]
+FoxAres checks
+Gerasimovil bets [$60]
+nikmargo89 calls [$60]
+lisboa74 calls [$60]
+FoxAres folds
+** Dealing river ** [ 4s ]
+Gerasimovil checks
+nikmargo89 checks
+lisboa74 checks
+** Summary **
+Gerasimovil shows [ Qh, Ts ]
+nikmargo89 mucks [ 5c, Ac ]
+lisboa74 mucks [ 6h, 6d ]
+Gerasimovil collected [ $300 ]
+
+
+
+#Game No : 459741667
+***** 888poker Hand History for Game 459741667 *****
+$15/$30 Blinds No Limit Holdem - *** 28 10 2014 13:57:30
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $2,335 )
+Seat 2: fftttt ( $1,435 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,095 )
+Seat 5: adelynochka ( $1,500 )
+Seat 6: microsdA ( $1,430 )
+Seat 7: ms.platinum ( $1,920 )
+Seat 9: drommedar ( $673 )
+Seat 10: nikmargo89 ( $1,637 )
+Gerasimovil posts small blind [$15]
+adelynochka posts big blind [$30]
+** Dealing down cards **
+Dealt to fftttt [ Ac, As ]
+microsdA folds
+ms.platinum folds
+drommedar folds
+nikmargo89 calls [$30]
+lisboa74 calls [$30]
+fftttt raises [$270]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+nikmargo89 calls [$240]
+lisboa74 calls [$240]
+** Dealing flop ** [ 6s, Jc, Td ]
+nikmargo89 checks
+lisboa74 checks
+fftttt bets [$641]
+nikmargo89 calls [$641]
+lisboa74 calls [$641]
+** Dealing turn ** [ 7h ]
+nikmargo89 bets [$726]
+lisboa74 calls [$726]
+fftttt calls [$524]
+** Dealing river ** [ Qc ]
+** Summary **
+lisboa74 shows [ Qh, Ks ]
+fftttt shows [ Ac, As ]
+nikmargo89 shows [ Kc, Qs ]
+fftttt collected [ $4,350 ]
+nikmargo89 collected [ $202 ]
+lisboa74 collected [ $202 ]
+
+
+
+#Game No : 459742142
+***** 888poker Hand History for Game 459742142 *****
+$15/$30 Blinds No Limit Holdem - *** 28 10 2014 13:59:52
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $900 )
+Seat 2: fftttt ( $4,350 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,470 )
+Seat 6: microsdA ( $1,430 )
+Seat 7: ms.platinum ( $1,920 )
+Seat 9: drommedar ( $673 )
+Seat 10: nikmargo89 ( $202 )
+adelynochka posts small blind [$15]
+microsdA posts big blind [$30]
+** Dealing down cards **
+Dealt to fftttt [ Js, 9s ]
+ms.platinum folds
+drommedar folds
+nikmargo89 raises [$202]
+lisboa74 folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+** Summary **
+nikmargo89 did not show his hand
+nikmargo89 collected [ $75 ]
+
+
+
+#Game No : 459742475
+***** 888poker Hand History for Game 459742475 *****
+$15/$30 Blinds No Limit Holdem - *** 28 10 2014 14:01:03
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $900 )
+Seat 2: fftttt ( $4,350 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,400 )
+Seat 7: ms.platinum ( $1,920 )
+Seat 9: drommedar ( $673 )
+Seat 10: nikmargo89 ( $247 )
+microsdA posts small blind [$15]
+ms.platinum posts big blind [$30]
+** Dealing down cards **
+Dealt to fftttt [ 8h, 7s ]
+drommedar calls [$30]
+nikmargo89 raises [$247]
+lisboa74 folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar calls [$217]
+** Dealing flop ** [ Qs, Kh, Ac ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ Qd ]
+** Summary **
+drommedar shows [ 7d, 8c ]
+nikmargo89 shows [ Qc, Kc ]
+nikmargo89 collected [ $539 ]
+
+
+
+#Game No : 459742789
+***** 888poker Hand History for Game 459742789 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:02:16
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $900 )
+Seat 2: fftttt ( $4,350 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,890 )
+Seat 9: drommedar ( $426 )
+Seat 10: nikmargo89 ( $539 )
+ms.platinum posts small blind [$25]
+drommedar posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ 5s, 7d ]
+nikmargo89 raises [$539]
+lisboa74 folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar calls [$376]
+** Dealing flop ** [ 2h, 9d, 6h ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Ts ]
+** Summary **
+drommedar shows [ 8c, 2d ]
+nikmargo89 shows [ Jh, Ad ]
+drommedar collected [ $877 ]
+
+
+
+#Game No : 459742998
+***** 888poker Hand History for Game 459742998 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:03:07
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $900 )
+Seat 2: fftttt ( $4,350 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,865 )
+Seat 9: drommedar ( $877 )
+Seat 10: nikmargo89 ( $113 )
+drommedar posts small blind [$25]
+nikmargo89 posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ 8s, Jh ]
+lisboa74 folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar folds
+** Summary **
+nikmargo89 did not show his hand
+nikmargo89 collected [ $75 ]
+
+
+
+#Game No : 459743113
+***** 888poker Hand History for Game 459743113 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:03:33
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $900 )
+Seat 2: fftttt ( $4,350 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,865 )
+Seat 9: drommedar ( $852 )
+Seat 10: nikmargo89 ( $138 )
+nikmargo89 posts small blind [$25]
+lisboa74 posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ 2c, 4h ]
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar raises [$202]
+nikmargo89 folds
+lisboa74 calls [$152]
+** Dealing flop ** [ Ad, 9c, Qd ]
+lisboa74 checks
+drommedar bets [$321]
+lisboa74 calls [$321]
+** Dealing turn ** [ Qh ]
+lisboa74 checks
+drommedar bets [$329]
+lisboa74 calls [$329]
+** Dealing river ** [ 6s ]
+** Summary **
+lisboa74 shows [ Jc, Ks ]
+drommedar shows [ Ac, As ]
+drommedar collected [ $1,729 ]
+
+
+
+#Game No : 459743445
+***** 888poker Hand History for Game 459743445 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:04:55
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: lisboa74 ( $48 )
+Seat 2: fftttt ( $4,350 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,865 )
+Seat 9: drommedar ( $1,729 )
+Seat 10: nikmargo89 ( $113 )
+lisboa74 posts small blind [$25]
+fftttt posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ 7h, Td ]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar calls [$50]
+nikmargo89 folds
+lisboa74 calls [$23]
+fftttt checks
+** Dealing flop ** [ 8d, Jd, Kh ]
+fftttt checks
+drommedar checks
+** Dealing turn ** [ Jh ]
+fftttt checks
+drommedar checks
+** Dealing river ** [ 9c ]
+fftttt bets [$4,300]
+drommedar folds
+** Summary **
+lisboa74 shows [ 4s, 3s ]
+fftttt shows [ 7h, Td ]
+fftttt collected [ $144 ]
+fftttt collected [ $4 ]
+
+
+
+#Game No : 459743948
+***** 888poker Hand History for Game 459743948 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:06:58
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: fftttt ( $4,448 )
+Seat 3: FoxAres ( $1,475 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,865 )
+Seat 9: drommedar ( $1,679 )
+Seat 10: nikmargo89 ( $113 )
+fftttt posts small blind [$25]
+FoxAres posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ 7h, 4d ]
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar raises [$100]
+nikmargo89 folds
+fftttt folds
+FoxAres folds
+** Summary **
+drommedar did not show his hand
+drommedar collected [ $125 ]
+
+
+
+#Game No : 459744095
+***** 888poker Hand History for Game 459744095 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:07:31
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: fftttt ( $4,423 )
+Seat 3: FoxAres ( $1,425 )
+Seat 4: Gerasimovil ( $1,080 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,865 )
+Seat 9: drommedar ( $1,754 )
+Seat 10: nikmargo89 ( $113 )
+FoxAres posts small blind [$25]
+Gerasimovil posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ 4d, 7c ]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar raises [$131]
+nikmargo89 calls [$113]
+fftttt folds
+FoxAres raises [$1,400]
+Gerasimovil folds
+drommedar calls [$1,294]
+** Dealing flop ** [ Qh, 5d, Ah ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 2c ]
+** Summary **
+FoxAres shows [ Td, Tc ]
+drommedar shows [ Js, Kd ]
+nikmargo89 shows [ 5c, 4c ]
+FoxAres collected [ $389 ]
+FoxAres collected [ $2,624 ]
+
+
+
+#Game No : 459744327
+***** 888poker Hand History for Game 459744327 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:08:34
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,423 )
+Seat 3: FoxAres ( $3,013 )
+Seat 4: Gerasimovil ( $1,030 )
+Seat 5: adelynochka ( $1,455 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,865 )
+Seat 9: drommedar ( $329 )
+Gerasimovil posts small blind [$25]
+adelynochka posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ 5d, 3d ]
+microsdA folds
+ms.platinum raises [$100]
+drommedar folds
+fftttt folds
+FoxAres calls [$100]
+Gerasimovil folds
+adelynochka folds
+** Dealing flop ** [ Kc, 4s, 5h ]
+ms.platinum checks
+FoxAres bets [$150]
+ms.platinum folds
+** Summary **
+FoxAres did not show his hand
+FoxAres collected [ $275 ]
+
+
+
+#Game No : 459744515
+***** 888poker Hand History for Game 459744515 *****
+$25/$50 Blinds No Limit Holdem - *** 28 10 2014 14:09:20
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,423 )
+Seat 3: FoxAres ( $3,188 )
+Seat 4: Gerasimovil ( $1,005 )
+Seat 5: adelynochka ( $1,405 )
+Seat 6: microsdA ( $1,385 )
+Seat 7: ms.platinum ( $1,765 )
+Seat 9: drommedar ( $329 )
+adelynochka posts small blind [$25]
+microsdA posts big blind [$50]
+** Dealing down cards **
+Dealt to fftttt [ Qh, 2h ]
+ms.platinum folds
+drommedar folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+** Summary **
+microsdA did not show his hand
+microsdA collected [ $75 ]
+
+
+
+#Game No : 459744661
+***** 888poker Hand History for Game 459744661 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:09:59
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,423 )
+Seat 3: FoxAres ( $3,188 )
+Seat 4: Gerasimovil ( $1,005 )
+Seat 5: adelynochka ( $1,380 )
+Seat 6: microsdA ( $1,410 )
+Seat 7: ms.platinum ( $1,765 )
+Seat 9: drommedar ( $329 )
+microsdA posts small blind [$50]
+ms.platinum posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ Qh, Jc ]
+drommedar folds
+fftttt calls [$100]
+FoxAres folds
+Gerasimovil raises [$1,005]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+fftttt folds
+** Summary **
+Gerasimovil did not show his hand
+Gerasimovil collected [ $350 ]
+
+
+
+#Game No : 459744951
+***** 888poker Hand History for Game 459744951 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:11:04
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,323 )
+Seat 3: FoxAres ( $3,188 )
+Seat 4: Gerasimovil ( $1,255 )
+Seat 5: adelynochka ( $1,380 )
+Seat 6: microsdA ( $1,360 )
+Seat 7: ms.platinum ( $1,665 )
+Seat 9: drommedar ( $329 )
+ms.platinum posts small blind [$50]
+drommedar posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ 6s, As ]
+fftttt raises [$262]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $250 ]
+
+
+
+#Game No : 459745169
+***** 888poker Hand History for Game 459745169 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:11:57
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,473 )
+Seat 3: FoxAres ( $3,188 )
+Seat 4: Gerasimovil ( $1,255 )
+Seat 5: adelynochka ( $1,380 )
+Seat 6: microsdA ( $1,360 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $229 )
+drommedar posts small blind [$50]
+fftttt posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ 8h, Tc ]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar raises [$179]
+fftttt calls [$129]
+** Dealing flop ** [ 5h, Ac, Ad ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 6s ]
+** Summary **
+fftttt shows [ 8h, Tc ]
+drommedar shows [ Jh, 9h ]
+drommedar collected [ $458 ]
+
+
+
+#Game No : 459745345
+***** 888poker Hand History for Game 459745345 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:12:39
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,244 )
+Seat 3: FoxAres ( $3,188 )
+Seat 4: Gerasimovil ( $1,255 )
+Seat 5: adelynochka ( $1,380 )
+Seat 6: microsdA ( $1,360 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $458 )
+fftttt posts small blind [$50]
+FoxAres posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ 4c, 3s ]
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar raises [$458]
+fftttt folds
+FoxAres folds
+** Summary **
+drommedar did not show his hand
+drommedar collected [ $250 ]
+
+
+
+#Game No : 459745494
+***** 888poker Hand History for Game 459745494 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:13:13
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,194 )
+Seat 3: FoxAres ( $3,088 )
+Seat 4: Gerasimovil ( $1,255 )
+Seat 5: adelynochka ( $1,380 )
+Seat 6: microsdA ( $1,360 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $608 )
+FoxAres posts small blind [$50]
+Gerasimovil posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ 3s, 4s ]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar raises [$608]
+fftttt folds
+FoxAres calls [$558]
+Gerasimovil calls [$508]
+** Dealing flop ** [ 6d, Kd, 5c ]
+FoxAres checks
+Gerasimovil bets [$647]
+FoxAres folds
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 2h ]
+** Summary **
+Gerasimovil shows [ Th, Td ]
+drommedar shows [ Jd, Jc ]
+drommedar collected [ $1,824 ]
+
+
+
+#Game No : 459745797
+***** 888poker Hand History for Game 459745797 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:14:22
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,194 )
+Seat 3: FoxAres ( $2,480 )
+Seat 4: Gerasimovil ( $647 )
+Seat 5: adelynochka ( $1,380 )
+Seat 6: microsdA ( $1,360 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,824 )
+Gerasimovil posts small blind [$50]
+adelynochka posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ 8c, Td ]
+microsdA folds
+ms.platinum folds
+drommedar folds
+fftttt folds
+FoxAres folds
+Gerasimovil raises [$597]
+adelynochka folds
+** Summary **
+Gerasimovil did not show his hand
+Gerasimovil collected [ $200 ]
+
+
+
+#Game No : 459745926
+***** 888poker Hand History for Game 459745926 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:14:55
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,194 )
+Seat 3: FoxAres ( $2,480 )
+Seat 4: Gerasimovil ( $747 )
+Seat 5: adelynochka ( $1,280 )
+Seat 6: microsdA ( $1,360 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,824 )
+adelynochka posts small blind [$50]
+microsdA posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ Ah, 6d ]
+ms.platinum folds
+drommedar calls [$100]
+fftttt raises [$337]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+drommedar calls [$237]
+** Dealing flop ** [ 5d, 2s, 3h ]
+drommedar checks
+fftttt bets [$100]
+drommedar folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $824 ]
+
+
+
+#Game No : 459746321
+***** 888poker Hand History for Game 459746321 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:16:37
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,681 )
+Seat 3: FoxAres ( $2,480 )
+Seat 4: Gerasimovil ( $747 )
+Seat 5: adelynochka ( $1,230 )
+Seat 6: microsdA ( $1,260 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,487 )
+microsdA posts small blind [$50]
+ms.platinum posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ 2h, 6d ]
+drommedar folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+** Summary **
+ms.platinum did not show his hand
+ms.platinum collected [ $150 ]
+
+
+
+#Game No : 459746517
+***** 888poker Hand History for Game 459746517 *****
+$50/$100 Blinds No Limit Holdem - *** 28 10 2014 14:17:24
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,681 )
+Seat 3: FoxAres ( $2,480 )
+Seat 4: Gerasimovil ( $747 )
+Seat 5: adelynochka ( $1,230 )
+Seat 6: microsdA ( $1,210 )
+Seat 7: ms.platinum ( $1,665 )
+Seat 9: drommedar ( $1,487 )
+ms.platinum posts small blind [$50]
+drommedar posts big blind [$100]
+** Dealing down cards **
+Dealt to fftttt [ 9h, Td ]
+fftttt calls [$100]
+FoxAres calls [$100]
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar checks
+** Dealing flop ** [ Tc, 8s, 5s ]
+drommedar checks
+fftttt bets [$262]
+FoxAres calls [$262]
+drommedar folds
+** Dealing turn ** [ Kh ]
+fftttt bets [$437]
+FoxAres raises [$874]
+fftttt raises [$3,882]
+FoxAres folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $2,622 ]
+
+
+
+#Game No : 459746960
+***** 888poker Hand History for Game 459746960 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:19:15
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: fftttt ( $6,067 )
+Seat 3: FoxAres ( $1,244 )
+Seat 4: Gerasimovil ( $747 )
+Seat 5: adelynochka ( $1,230 )
+Seat 6: microsdA ( $1,210 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,387 )
+drommedar posts small blind [$75]
+fftttt posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ 7c, 9c ]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $225 ]
+
+
+
+#Game No : 459747030
+***** 888poker Hand History for Game 459747030 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:19:29
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: fftttt ( $6,142 )
+Seat 3: FoxAres ( $1,244 )
+Seat 4: Gerasimovil ( $747 )
+Seat 5: adelynochka ( $1,230 )
+Seat 6: microsdA ( $1,210 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,312 )
+fftttt posts small blind [$75]
+FoxAres posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ 8s, Ah ]
+Gerasimovil raises [$747]
+adelynochka raises [$1,230]
+microsdA folds
+ms.platinum folds
+drommedar folds
+fftttt folds
+FoxAres folds
+** Dealing flop ** [ 6s, 4d, 7s ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ Kd ]
+** Summary **
+Gerasimovil shows [ Td, Th ]
+adelynochka shows [ 9d, Qh ]
+Gerasimovil collected [ $1,719 ]
+
+
+
+#Game No : 459747422
+***** 888poker Hand History for Game 459747422 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:21:06
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: fftttt ( $6,067 )
+Seat 3: FoxAres ( $1,094 )
+Seat 4: Gerasimovil ( $1,719 )
+Seat 5: adelynochka ( $483 )
+Seat 6: microsdA ( $1,210 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,312 )
+FoxAres posts small blind [$75]
+Gerasimovil posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ 7h, Qh ]
+adelynochka folds
+microsdA raises [$1,210]
+ms.platinum folds
+drommedar folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+** Summary **
+microsdA did not show his hand
+microsdA collected [ $375 ]
+
+
+
+#Game No : 459747519
+***** 888poker Hand History for Game 459747519 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:21:27
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: fftttt ( $6,067 )
+Seat 3: FoxAres ( $1,019 )
+Seat 4: Gerasimovil ( $1,569 )
+Seat 5: adelynochka ( $483 )
+Seat 6: microsdA ( $1,435 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,312 )
+Gerasimovil posts small blind [$75]
+adelynochka posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ 4h, 2d ]
+microsdA folds
+ms.platinum folds
+drommedar folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $225 ]
+
+
+
+#Game No : 459747601
+***** 888poker Hand History for Game 459747601 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:21:45
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: fftttt ( $6,067 )
+Seat 3: FoxAres ( $1,019 )
+Seat 4: Gerasimovil ( $1,494 )
+Seat 5: adelynochka ( $558 )
+Seat 6: microsdA ( $1,435 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,312 )
+adelynochka posts small blind [$75]
+microsdA posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ Kc, 4c ]
+ms.platinum folds
+drommedar folds
+fftttt calls [$150]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA checks
+** Dealing flop ** [ 8h, 5h, 2c ]
+microsdA checks
+fftttt checks
+** Dealing turn ** [ Ah ]
+microsdA checks
+fftttt bets [$187]
+microsdA folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $375 ]
+
+
+
+#Game No : 459747908
+***** 888poker Hand History for Game 459747908 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:22:49
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: fftttt ( $6,292 )
+Seat 3: FoxAres ( $1,019 )
+Seat 4: Gerasimovil ( $1,494 )
+Seat 5: adelynochka ( $483 )
+Seat 6: microsdA ( $1,285 )
+Seat 7: ms.platinum ( $1,615 )
+Seat 9: drommedar ( $1,312 )
+microsdA posts small blind [$75]
+ms.platinum posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ Ah, 6h ]
+drommedar calls [$150]
+fftttt calls [$150]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum checks
+** Dealing flop ** [ 3h, 7s, Js ]
+ms.platinum checks
+drommedar bets [$150]
+fftttt calls [$150]
+ms.platinum folds
+** Dealing turn ** [ 2s ]
+drommedar bets [$300]
+fftttt folds
+** Summary **
+drommedar did not show his hand
+drommedar collected [ $825 ]
+
+
+
+#Game No : 459748327
+***** 888poker Hand History for Game 459748327 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:24:17
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: fftttt ( $5,992 )
+Seat 3: FoxAres ( $1,019 )
+Seat 4: Gerasimovil ( $1,494 )
+Seat 5: adelynochka ( $483 )
+Seat 6: microsdA ( $1,210 )
+Seat 7: ms.platinum ( $1,465 )
+Seat 9: drommedar ( $1,837 )
+ms.platinum posts small blind [$75]
+drommedar posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ Kd, Ad ]
+fftttt raises [$525]
+FoxAres folds
+Gerasimovil calls [$525]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+drommedar folds
+** Dealing flop ** [ 2h, Jc, 2s ]
+fftttt bets [$956]
+Gerasimovil raises [$969]
+fftttt calls [$13]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ Ts ]
+** Summary **
+fftttt shows [ Kd, Ad ]
+Gerasimovil shows [ As, Ah ]
+Gerasimovil collected [ $3,213 ]
+
+
+
+#Game No : 459748661
+***** 888poker Hand History for Game 459748661 *****
+$75/$150 Blinds No Limit Holdem - *** 28 10 2014 14:25:34
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,498 )
+Seat 3: FoxAres ( $1,019 )
+Seat 4: Gerasimovil ( $3,213 )
+Seat 5: adelynochka ( $483 )
+Seat 6: microsdA ( $1,210 )
+Seat 7: ms.platinum ( $1,390 )
+Seat 9: drommedar ( $1,687 )
+drommedar posts small blind [$75]
+fftttt posts big blind [$150]
+** Dealing down cards **
+Dealt to fftttt [ Ts, Qh ]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA raises [$1,210]
+ms.platinum folds
+drommedar folds
+fftttt folds
+** Summary **
+microsdA did not show his hand
+microsdA collected [ $375 ]
+
+
+
+#Game No : 459748859
+***** 888poker Hand History for Game 459748859 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:26:14
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,348 )
+Seat 3: FoxAres ( $1,019 )
+Seat 4: Gerasimovil ( $3,213 )
+Seat 5: adelynochka ( $483 )
+Seat 6: microsdA ( $1,435 )
+Seat 7: ms.platinum ( $1,390 )
+Seat 9: drommedar ( $1,612 )
+fftttt posts small blind [$100]
+FoxAres posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ 8s, Kd ]
+Gerasimovil raises [$400]
+adelynochka raises [$483]
+microsdA folds
+ms.platinum folds
+drommedar folds
+fftttt folds
+FoxAres folds
+Gerasimovil calls [$83]
+** Dealing flop ** [ 5d, 2s, 3d ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 9h ]
+** Summary **
+Gerasimovil shows [ Th, Tc ]
+adelynochka shows [ Ad, Jh ]
+adelynochka collected [ $1,266 ]
+
+
+
+#Game No : 459749103
+***** 888poker Hand History for Game 459749103 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:27:06
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: fftttt ( $4,248 )
+Seat 3: FoxAres ( $819 )
+Seat 4: Gerasimovil ( $2,730 )
+Seat 5: adelynochka ( $1,266 )
+Seat 6: microsdA ( $1,435 )
+Seat 7: ms.platinum ( $1,390 )
+Seat 9: drommedar ( $1,612 )
+FoxAres posts small blind [$100]
+Gerasimovil posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ 8h, Ah ]
+adelynochka calls [$200]
+microsdA folds
+ms.platinum folds
+drommedar calls [$200]
+fftttt calls [$200]
+FoxAres folds
+Gerasimovil checks
+** Dealing flop ** [ 2d, Th, Jh ]
+Gerasimovil checks
+adelynochka bets [$1,066]
+drommedar raises [$1,412]
+fftttt calls [$1,412]
+Gerasimovil folds
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ Qd ]
+** Summary **
+fftttt shows [ 8h, Ah ]
+adelynochka shows [ Ac, Ad ]
+drommedar shows [ 9c, Td ]
+fftttt collected [ $2,049 ]
+adelynochka collected [ $2,049 ]
+fftttt collected [ $692 ]
+
+
+
+#Game No : 459749468
+***** 888poker Hand History for Game 459749468 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:28:36
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,377 )
+Seat 3: FoxAres ( $719 )
+Seat 4: Gerasimovil ( $2,530 )
+Seat 5: adelynochka ( $2,049 )
+Seat 6: microsdA ( $1,435 )
+Seat 7: ms.platinum ( $1,390 )
+Gerasimovil posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ Js, As ]
+microsdA folds
+ms.platinum folds
+fftttt raises [$525]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $500 ]
+
+
+
+#Game No : 459749573
+***** 888poker Hand History for Game 459749573 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:29:04
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,677 )
+Seat 3: FoxAres ( $719 )
+Seat 4: Gerasimovil ( $2,430 )
+Seat 5: adelynochka ( $1,849 )
+Seat 6: microsdA ( $1,435 )
+Seat 7: ms.platinum ( $1,390 )
+adelynochka posts small blind [$100]
+microsdA posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ Qs, 4s ]
+ms.platinum folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+** Summary **
+microsdA did not show his hand
+microsdA collected [ $300 ]
+
+
+
+#Game No : 459749642
+***** 888poker Hand History for Game 459749642 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:29:22
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,677 )
+Seat 3: FoxAres ( $719 )
+Seat 4: Gerasimovil ( $2,430 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $1,535 )
+Seat 7: ms.platinum ( $1,390 )
+microsdA posts small blind [$100]
+ms.platinum posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ 5h, 3s ]
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA raises [$1,435]
+ms.platinum folds
+** Summary **
+microsdA did not show his hand
+microsdA collected [ $400 ]
+
+
+
+#Game No : 459749755
+***** 888poker Hand History for Game 459749755 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:29:49
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,677 )
+Seat 3: FoxAres ( $719 )
+Seat 4: Gerasimovil ( $2,430 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $1,735 )
+Seat 7: ms.platinum ( $1,190 )
+ms.platinum posts small blind [$100]
+fftttt posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ 2h, As ]
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+microsdA raises [$1,735]
+ms.platinum folds
+fftttt folds
+** Summary **
+microsdA did not show his hand
+microsdA collected [ $500 ]
+
+
+
+#Game No : 459749944
+***** 888poker Hand History for Game 459749944 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:30:26
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,477 )
+Seat 3: FoxAres ( $719 )
+Seat 4: Gerasimovil ( $2,430 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $1,090 )
+fftttt posts small blind [$100]
+FoxAres posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ 4h, 5c ]
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum raises [$1,090]
+fftttt folds
+FoxAres calls [$519]
+** Dealing flop ** [ 4d, Td, 3s ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ Th ]
+** Summary **
+FoxAres shows [ 2h, Ah ]
+ms.platinum shows [ Ad, 3h ]
+ms.platinum collected [ $769 ]
+FoxAres collected [ $769 ]
+
+
+
+#Game No : 459750130
+***** 888poker Hand History for Game 459750130 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:31:09
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,377 )
+Seat 3: FoxAres ( $769 )
+Seat 4: Gerasimovil ( $2,430 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $1,140 )
+FoxAres posts small blind [$100]
+Gerasimovil posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ Ah, Tc ]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+fftttt raises [$400]
+FoxAres folds
+Gerasimovil folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $500 ]
+
+
+
+#Game No : 459750245
+***** 888poker Hand History for Game 459750245 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:31:40
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,677 )
+Seat 3: FoxAres ( $669 )
+Seat 4: Gerasimovil ( $2,230 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $1,140 )
+Gerasimovil posts small blind [$100]
+adelynochka posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ 2s, 7d ]
+microsdA folds
+ms.platinum folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+** Summary **
+adelynochka did not show his hand
+adelynochka collected [ $300 ]
+
+
+
+#Game No : 459750364
+***** 888poker Hand History for Game 459750364 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:32:11
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,677 )
+Seat 3: FoxAres ( $669 )
+Seat 4: Gerasimovil ( $2,130 )
+Seat 5: adelynochka ( $1,849 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $1,140 )
+adelynochka posts small blind [$100]
+microsdA posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ Jc, 2c ]
+ms.platinum folds
+fftttt folds
+FoxAres folds
+Gerasimovil folds
+adelynochka folds
+** Summary **
+microsdA did not show his hand
+microsdA collected [ $300 ]
+
+
+
+#Game No : 459750459
+***** 888poker Hand History for Game 459750459 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:32:37
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 2: fftttt ( $5,677 )
+Seat 3: FoxAres ( $669 )
+Seat 4: Gerasimovil ( $2,130 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $2,135 )
+Seat 7: ms.platinum ( $1,140 )
+microsdA posts small blind [$100]
+ms.platinum posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ Ks, 7s ]
+fftttt calls [$200]
+FoxAres folds
+Gerasimovil calls [$200]
+adelynochka folds
+microsdA folds
+ms.platinum checks
+** Dealing flop ** [ 6s, Kd, Jd ]
+ms.platinum checks
+fftttt bets [$525]
+Gerasimovil folds
+ms.platinum folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $700 ]
+
+
+
+#Game No : 459750670
+***** 888poker Hand History for Game 459750670 *****
+$100/$200 Blinds No Limit Holdem - *** 28 10 2014 14:33:33
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: fftttt ( $6,177 )
+Seat 3: FoxAres ( $669 )
+Seat 4: Gerasimovil ( $1,930 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $940 )
+ms.platinum posts small blind [$100]
+fftttt posts big blind [$200]
+** Dealing down cards **
+Dealt to fftttt [ Ad, Jc ]
+FoxAres raises [$669]
+Gerasimovil folds
+adelynochka folds
+microsdA folds
+ms.platinum folds
+fftttt calls [$469]
+** Dealing flop ** [ 8d, 7d, 3h ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 5d ]
+** Summary **
+fftttt shows [ Ad, Jc ]
+FoxAres shows [ Tc, Qs ]
+fftttt collected [ $1,438 ]
+
+
+
+#Game No : 459750804
+***** 888poker Hand History for Game 459750804 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:34:06
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 2: fftttt ( $6,946 )
+Seat 4: Gerasimovil ( $1,930 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $840 )
+fftttt posts small blind [$150]
+Gerasimovil posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ Ks, 9d ]
+adelynochka folds
+microsdA folds
+ms.platinum folds
+fftttt calls [$150]
+Gerasimovil checks
+** Dealing flop ** [ Qh, Th, Qc ]
+fftttt checks
+Gerasimovil checks
+** Dealing turn ** [ 8s ]
+fftttt checks
+Gerasimovil checks
+** Dealing river ** [ 5h ]
+fftttt checks
+Gerasimovil checks
+** Summary **
+fftttt shows [ Ks, 9d ]
+Gerasimovil shows [ 6h, Ac ]
+Gerasimovil collected [ $600 ]
+
+
+
+#Game No : 459751087
+***** 888poker Hand History for Game 459751087 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:35:22
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: fftttt ( $6,646 )
+Seat 4: Gerasimovil ( $2,230 )
+Seat 5: adelynochka ( $1,749 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $840 )
+Gerasimovil posts small blind [$150]
+adelynochka posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ Ks, Ah ]
+microsdA folds
+ms.platinum folds
+fftttt raises [$600]
+Gerasimovil folds
+adelynochka raises [$1,449]
+fftttt calls [$1,149]
+** Dealing flop ** [ 8s, Qh, 5d ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 2d ]
+** Summary **
+fftttt shows [ Ks, Ah ]
+adelynochka shows [ Ac, Tc ]
+fftttt collected [ $3,648 ]
+
+
+
+#Game No : 459751237
+***** 888poker Hand History for Game 459751237 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:36:04
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 2: fftttt ( $8,545 )
+Seat 4: Gerasimovil ( $2,080 )
+Seat 6: microsdA ( $2,035 )
+Seat 7: ms.platinum ( $840 )
+microsdA posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ 8s, As ]
+ms.platinum raises [$840]
+fftttt calls [$840]
+Gerasimovil folds
+microsdA raises [$1,735]
+fftttt calls [$1,195]
+** Dealing flop ** [ 9s, 3h, 3s ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 8d ]
+** Summary **
+fftttt shows [ 8s, As ]
+microsdA shows [ Js, Ah ]
+ms.platinum shows [ 6h, 6c ]
+fftttt collected [ $2,520 ]
+fftttt collected [ $2,390 ]
+
+
+
+#Game No : 459751441
+***** 888poker Hand History for Game 459751441 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:37:01
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fftttt ( $11,420 )
+Seat 4: Gerasimovil ( $2,080 )
+Gerasimovil posts small blind [$150]
+fftttt posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ 9c, 7s ]
+Gerasimovil folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $450 ]
+
+
+
+#Game No : 459751469
+***** 888poker Hand History for Game 459751469 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:37:09
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fftttt ( $11,570 )
+Seat 4: Gerasimovil ( $1,930 )
+fftttt posts small blind [$150]
+Gerasimovil posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ Js, Tc ]
+fftttt calls [$150]
+Gerasimovil checks
+** Dealing flop ** [ 9s, 3s, 8s ]
+Gerasimovil bets [$1,630]
+fftttt calls [$1,630]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 6c ]
+** Summary **
+fftttt shows [ Js, Tc ]
+Gerasimovil shows [ 9d, 6h ]
+Gerasimovil collected [ $3,860 ]
+
+
+
+#Game No : 459751691
+***** 888poker Hand History for Game 459751691 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:38:08
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fftttt ( $9,640 )
+Seat 4: Gerasimovil ( $3,860 )
+Gerasimovil posts small blind [$150]
+fftttt posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ 4s, Jc ]
+Gerasimovil folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $450 ]
+
+
+
+#Game No : 459751718
+***** 888poker Hand History for Game 459751718 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:38:16
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fftttt ( $9,790 )
+Seat 4: Gerasimovil ( $3,710 )
+fftttt posts small blind [$150]
+Gerasimovil posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ 9h, 7d ]
+fftttt calls [$150]
+Gerasimovil raises [$300]
+fftttt folds
+** Summary **
+Gerasimovil did not show his hand
+Gerasimovil collected [ $600 ]
+
+
+
+#Game No : 459751761
+***** 888poker Hand History for Game 459751761 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:38:31
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fftttt ( $9,490 )
+Seat 4: Gerasimovil ( $4,010 )
+Gerasimovil posts small blind [$150]
+fftttt posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ 5s, Jh ]
+Gerasimovil raises [$450]
+fftttt folds
+** Summary **
+Gerasimovil did not show his hand
+Gerasimovil collected [ $600 ]
+
+
+
+#Game No : 459751853
+***** 888poker Hand History for Game 459751853 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:38:55
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fftttt ( $9,190 )
+Seat 4: Gerasimovil ( $4,310 )
+fftttt posts small blind [$150]
+Gerasimovil posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ Qd, 6d ]
+fftttt raises [$450]
+Gerasimovil calls [$300]
+** Dealing flop ** [ 2h, Ac, 8c ]
+Gerasimovil checks
+fftttt bets [$600]
+Gerasimovil calls [$600]
+** Dealing turn ** [ 6s ]
+Gerasimovil checks
+fftttt bets [$1,200]
+Gerasimovil calls [$1,200]
+** Dealing river ** [ 8d ]
+Gerasimovil checks
+fftttt checks
+** Summary **
+Gerasimovil shows [ Jc, 6c ]
+fftttt shows [ Qd, 6d ]
+fftttt collected [ $2,400 ]
+Gerasimovil collected [ $2,400 ]
+
+
+
+#Game No : 459752078
+***** 888poker Hand History for Game 459752078 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:40:02
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fftttt ( $9,190 )
+Seat 4: Gerasimovil ( $4,310 )
+Gerasimovil posts small blind [$150]
+fftttt posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ 5d, Jd ]
+Gerasimovil raises [$450]
+fftttt folds
+** Summary **
+Gerasimovil did not show his hand
+Gerasimovil collected [ $600 ]
+
+
+
+#Game No : 459752162
+***** 888poker Hand History for Game 459752162 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:40:25
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fftttt ( $8,890 )
+Seat 4: Gerasimovil ( $4,610 )
+fftttt posts small blind [$150]
+Gerasimovil posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ Qs, 6c ]
+fftttt raises [$450]
+Gerasimovil folds
+** Summary **
+fftttt did not show his hand
+fftttt collected [ $600 ]
+
+
+
+#Game No : 459752266
+***** 888poker Hand History for Game 459752266 *****
+$150/$300 Blinds No Limit Holdem - *** 28 10 2014 14:40:50
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fftttt ( $9,190 )
+Seat 4: Gerasimovil ( $4,310 )
+Gerasimovil posts small blind [$150]
+fftttt posts big blind [$300]
+** Dealing down cards **
+Dealt to fftttt [ 9s, Jh ]
+Gerasimovil calls [$150]
+fftttt checks
+** Dealing flop ** [ Qh, 9d, 9h ]
+fftttt bets [$300]
+Gerasimovil calls [$300]
+** Dealing turn ** [ Kh ]
+fftttt bets [$600]
+Gerasimovil calls [$600]
+** Dealing river ** [ Ac ]
+fftttt bets [$1,200]
+Gerasimovil calls [$1,200]
+** Summary **
+fftttt shows [ 9s, Jh ]
+Gerasimovil mucks [ Jc, Ad ]
+fftttt collected [ $4,800 ]
+
+
+
+#Game No : 459752569
+***** 888poker Hand History for Game 459752569 *****
+$200/$400 Blinds No Limit Holdem - *** 28 10 2014 14:42:23
+Tournament #63015990 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fftttt ( $11,590 )
+Seat 4: Gerasimovil ( $1,910 )
+fftttt posts small blind [$200]
+Gerasimovil posts big blind [$400]
+** Dealing down cards **
+Dealt to fftttt [ Ah, 3h ]
+fftttt raises [$600]
+Gerasimovil raises [$1,510]
+fftttt calls [$1,110]
+** Dealing flop ** [ 7d, Qd, 6d ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 8s ]
+** Summary **
+fftttt shows [ Ah, 3h ]
+Gerasimovil shows [ 7s, Ks ]
+fftttt collected [ $3,820 ]
+
+
+

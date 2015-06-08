@@ -1,0 +1,1682 @@
+#Game No : 640631539
+***** 888poker Hand History for Game 640631539 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 17:45:20
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: alemao1965 ( $2,000 )
+Seat 4: AK47Prof ( $2,000 )
+Seat 6: ZmokingAz ( $2,000 )
+Seat 7: Devkkks ( $2,000 )
+Seat 9: KKeyAA ( $2,000 )
+AK47Prof posts small blind [$10]
+ZmokingAz posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 7d ]
+Devkkks calls [$20]
+KKeyAA folds
+PapaShango19 folds
+alemao1965 folds
+AK47Prof calls [$10]
+ZmokingAz checks
+** Dealing flop ** [ 2h, Th, 5s ]
+AK47Prof checks
+ZmokingAz checks
+Devkkks bets [$40]
+AK47Prof folds
+ZmokingAz folds
+** Summary **
+Devkkks collected [ $60 ]
+
+
+
+#Game No : 640631770
+***** 888poker Hand History for Game 640631770 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 17:46:13
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: alemao1965 ( $2,000 )
+Seat 6: ZmokingAz ( $1,980 )
+Seat 7: Devkkks ( $2,040 )
+Seat 9: shoemirrors ( $4,000 )
+ZmokingAz posts small blind [$10]
+Devkkks posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6c ]
+shoemirrors folds
+PapaShango19 folds
+alemao1965 folds
+ZmokingAz folds
+** Summary **
+Devkkks did not show his hand
+Devkkks collected [ $30 ]
+
+
+
+#Game No : 640631850
+***** 888poker Hand History for Game 640631850 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 17:46:31
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: alemao1965 ( $2,000 )
+Seat 6: ZmokingAz ( $1,970 )
+Seat 7: Devkkks ( $2,050 )
+Seat 9: shoemirrors ( $4,000 )
+Devkkks posts small blind [$10]
+shoemirrors posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7c ]
+PapaShango19 folds
+alemao1965 raises [$40]
+ZmokingAz folds
+Devkkks calls [$30]
+shoemirrors calls [$20]
+** Dealing flop ** [ Ad, 3d, Td ]
+Devkkks checks
+shoemirrors checks
+alemao1965 bets [$90]
+Devkkks folds
+shoemirrors folds
+** Summary **
+alemao1965 collected [ $120 ]
+
+
+
+#Game No : 640632031
+***** 888poker Hand History for Game 640632031 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 17:47:14
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,000 )
+Seat 2: alemao1965 ( $2,080 )
+Seat 4: Paulaner68 ( $2,000 )
+Seat 6: ZmokingAz ( $1,970 )
+Seat 7: Devkkks ( $2,010 )
+Seat 9: shoemirrors ( $3,960 )
+shoemirrors posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Qd ]
+alemao1965 folds
+Paulaner68 raises [$60]
+ZmokingAz folds
+Devkkks calls [$60]
+shoemirrors calls [$50]
+PapaShango19 folds
+** Dealing flop ** [ 6c, 9c, 8h ]
+shoemirrors checks
+Paulaner68 checks
+Devkkks checks
+** Dealing turn ** [ Js ]
+shoemirrors checks
+Paulaner68 bets [$100]
+Devkkks calls [$100]
+shoemirrors folds
+** Dealing river ** [ Qh ]
+Paulaner68 checks
+Devkkks bets [$100]
+Paulaner68 folds
+** Summary **
+Devkkks did not show his hand
+Devkkks collected [ $400 ]
+
+
+
+#Game No : 640632394
+***** 888poker Hand History for Game 640632394 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 17:48:59
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,980 )
+Seat 2: alemao1965 ( $2,080 )
+Seat 4: Paulaner68 ( $1,840 )
+Seat 6: ZmokingAz ( $1,970 )
+Seat 7: Devkkks ( $2,250 )
+Seat 9: shoemirrors ( $3,900 )
+PapaShango19 posts small blind [$10]
+alemao1965 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 7c ]
+Paulaner68 calls [$20]
+ZmokingAz folds
+Devkkks folds
+shoemirrors calls [$20]
+PapaShango19 calls [$10]
+alemao1965 checks
+** Dealing flop ** [ Js, Qc, 4c ]
+PapaShango19 checks
+alemao1965 checks
+Paulaner68 checks
+shoemirrors checks
+** Dealing turn ** [ 6d ]
+PapaShango19 checks
+alemao1965 bets [$40]
+Paulaner68 calls [$40]
+shoemirrors calls [$40]
+PapaShango19 calls [$40]
+** Dealing river ** [ 8c ]
+PapaShango19 checks
+alemao1965 bets [$240]
+Paulaner68 folds
+shoemirrors calls [$240]
+PapaShango19 raises [$560]
+alemao1965 calls [$320]
+shoemirrors calls [$320]
+** Summary **
+PapaShango19 shows [ 3c, 7c ]
+alemao1965 mucks [ 6h, 4d ]
+shoemirrors mucks [ 6s, 8h ]
+PapaShango19 collected [ $1,920 ]
+
+
+
+#Game No : 640632813
+***** 888poker Hand History for Game 640632813 *****
+$10/$20 Blinds No Limit Holdem - *** 27 11 2014 17:51:04
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $3,280 )
+Seat 2: alemao1965 ( $1,460 )
+Seat 4: Paulaner68 ( $1,780 )
+Seat 7: Devkkks ( $2,250 )
+Seat 9: shoemirrors ( $3,280 )
+alemao1965 posts small blind [$10]
+Paulaner68 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5h ]
+Devkkks folds
+shoemirrors calls [$20]
+PapaShango19 calls [$20]
+alemao1965 raises [$90]
+Paulaner68 calls [$80]
+shoemirrors calls [$80]
+PapaShango19 calls [$80]
+** Dealing flop ** [ 5s, 8d, 7h ]
+alemao1965 bets [$1,360]
+Paulaner68 folds
+shoemirrors calls [$1,360]
+PapaShango19 raises [$3,180]
+shoemirrors calls [$1,820]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 3c ]
+** Summary **
+PapaShango19 shows [ 5d, 5h ]
+alemao1965 shows [ 7s, Ks ]
+shoemirrors shows [ 7d, 9s ]
+PapaShango19 collected [ $4,480 ]
+PapaShango19 collected [ $3,640 ]
+
+
+
+#Game No : 640633129
+***** 888poker Hand History for Game 640633129 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 17:52:32
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $8,120 )
+Seat 4: Paulaner68 ( $1,680 )
+Seat 6: ultra343 ( $2,000 )
+Seat 7: Devkkks ( $2,250 )
+Seat 9: shoemirrors ( $4,000 )
+Paulaner68 posts small blind [$15]
+ultra343 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Th ]
+Devkkks folds
+shoemirrors calls [$30]
+PapaShango19 raises [$90]
+Paulaner68 folds
+ultra343 folds
+shoemirrors calls [$60]
+** Dealing flop ** [ As, 6h, Tc ]
+shoemirrors checks
+PapaShango19 bets [$90]
+shoemirrors calls [$90]
+** Dealing turn ** [ Jh ]
+shoemirrors checks
+PapaShango19 bets [$303]
+shoemirrors calls [$303]
+** Dealing river ** [ 4c ]
+shoemirrors checks
+PapaShango19 bets [$758]
+shoemirrors folds
+** Summary **
+PapaShango19 collected [ $1,011 ]
+
+
+
+#Game No : 640633597
+***** 888poker Hand History for Game 640633597 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 17:54:26
+Tournament #63841918 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $8,648 )
+Seat 2: alkes24rus ( $4,000 )
+Seat 4: Paulaner68 ( $1,665 )
+Seat 6: ultra343 ( $1,970 )
+Seat 7: Devkkks ( $2,250 )
+Seat 9: shoemirrors ( $3,517 )
+ultra343 posts small blind [$15]
+Devkkks posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Td ]
+shoemirrors folds
+PapaShango19 folds
+alkes24rus folds
+Paulaner68 calls [$30]
+ultra343 folds
+Devkkks raises [$30]
+Paulaner68 calls [$30]
+** Dealing flop ** [ Js, 5s, 6d ]
+Devkkks checks
+Paulaner68 bets [$135]
+Devkkks folds
+** Summary **
+Paulaner68 did not show his hand
+Paulaner68 collected [ $135 ]
+
+
+
+#Game No : 640634577
+***** 888poker Hand History for Game 640634577 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 18:00:04
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,000 )
+Seat 2: PapaShango19 ( $8,648 )
+Seat 4: TEALEAF94 ( $14,020 )
+Seat 6: Zeebub ( $3,820 )
+Seat 7: MUZIKANTIK ( $2,000 )
+Seat 9: alexisdeben1 ( $2,000 )
+PapaShango19 posts small blind [$15]
+TEALEAF94 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Jc ]
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti raises [$85]
+PapaShango19 folds
+TEALEAF94 folds
+** Summary **
+Machkonti did not show his hand
+Machkonti collected [ $75 ]
+
+
+
+#Game No : 640634684
+***** 888poker Hand History for Game 640634684 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 18:00:37
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,045 )
+Seat 2: PapaShango19 ( $8,633 )
+Seat 4: TEALEAF94 ( $13,990 )
+Seat 6: Zeebub ( $3,820 )
+Seat 7: MUZIKANTIK ( $2,000 )
+Seat 9: alexisdeben1 ( $2,000 )
+TEALEAF94 posts small blind [$15]
+Zeebub posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 3h ]
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $45 ]
+
+
+
+#Game No : 640634751
+***** 888poker Hand History for Game 640634751 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 18:00:58
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,045 )
+Seat 2: PapaShango19 ( $8,633 )
+Seat 4: TEALEAF94 ( $13,975 )
+Seat 6: Zeebub ( $3,835 )
+Seat 7: MUZIKANTIK ( $2,000 )
+Seat 9: alexisdeben1 ( $2,000 )
+Zeebub posts small blind [$15]
+MUZIKANTIK posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Tc ]
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub calls [$15]
+MUZIKANTIK checks
+** Dealing flop ** [ 9h, Qh, 3c ]
+Zeebub checks
+MUZIKANTIK bets [$60]
+Zeebub calls [$60]
+** Dealing turn ** [ 5s ]
+Zeebub checks
+MUZIKANTIK bets [$180]
+Zeebub folds
+** Summary **
+MUZIKANTIK did not show his hand
+MUZIKANTIK collected [ $180 ]
+
+
+
+#Game No : 640634907
+***** 888poker Hand History for Game 640634907 *****
+$15/$30 Blinds No Limit Holdem - *** 27 11 2014 18:01:41
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,045 )
+Seat 2: PapaShango19 ( $8,633 )
+Seat 4: TEALEAF94 ( $13,975 )
+Seat 6: Zeebub ( $3,745 )
+Seat 7: MUZIKANTIK ( $2,090 )
+Seat 9: alexisdeben1 ( $2,000 )
+MUZIKANTIK posts small blind [$15]
+alexisdeben1 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5h ]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 raises [$105]
+Zeebub calls [$105]
+MUZIKANTIK folds
+alexisdeben1 folds
+** Dealing flop ** [ 8h, 5s, 4d ]
+TEALEAF94 checks
+Zeebub checks
+** Dealing turn ** [ Qh ]
+TEALEAF94 bets [$255]
+Zeebub calls [$255]
+** Dealing river ** [ 9h ]
+TEALEAF94 checks
+Zeebub bets [$382]
+TEALEAF94 calls [$382]
+** Summary **
+Zeebub shows [ Th, Qc ]
+TEALEAF94 shows [ As, Qs ]
+TEALEAF94 collected [ $1,529 ]
+
+
+
+#Game No : 640635027
+***** 888poker Hand History for Game 640635027 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:02:17
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,045 )
+Seat 2: PapaShango19 ( $8,633 )
+Seat 4: TEALEAF94 ( $14,762 )
+Seat 6: Zeebub ( $3,003 )
+Seat 7: MUZIKANTIK ( $2,075 )
+Seat 9: alexisdeben1 ( $1,970 )
+alexisdeben1 posts small blind [$25]
+Machkonti posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 5c ]
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub raises [$100]
+MUZIKANTIK folds
+alexisdeben1 calls [$75]
+Machkonti folds
+** Dealing flop ** [ 7s, 8c, 5s ]
+alexisdeben1 checks
+Zeebub bets [$250]
+alexisdeben1 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $250 ]
+
+
+
+#Game No : 640635211
+***** 888poker Hand History for Game 640635211 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:03:05
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $1,995 )
+Seat 2: PapaShango19 ( $8,633 )
+Seat 4: TEALEAF94 ( $14,762 )
+Seat 6: Zeebub ( $3,153 )
+Seat 7: MUZIKANTIK ( $2,075 )
+Seat 9: alexisdeben1 ( $1,870 )
+Machkonti posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 7s ]
+TEALEAF94 folds
+Zeebub calls [$50]
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 checks
+** Dealing flop ** [ 2d, Js, Jd ]
+PapaShango19 checks
+Zeebub checks
+** Dealing turn ** [ 5s ]
+PapaShango19 checks
+Zeebub bets [$50]
+PapaShango19 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $125 ]
+
+
+
+#Game No : 640635389
+***** 888poker Hand History for Game 640635389 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:03:50
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $1,970 )
+Seat 2: PapaShango19 ( $8,583 )
+Seat 4: TEALEAF94 ( $14,762 )
+Seat 6: Zeebub ( $3,228 )
+Seat 7: MUZIKANTIK ( $2,075 )
+Seat 9: alexisdeben1 ( $1,870 )
+PapaShango19 posts small blind [$25]
+TEALEAF94 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2s ]
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 calls [$50]
+Machkonti folds
+PapaShango19 calls [$25]
+TEALEAF94 checks
+** Dealing flop ** [ 6h, 7c, Ts ]
+PapaShango19 checks
+TEALEAF94 checks
+alexisdeben1 checks
+** Dealing turn ** [ Jd ]
+PapaShango19 checks
+TEALEAF94 checks
+alexisdeben1 checks
+** Dealing river ** [ 5c ]
+PapaShango19 checks
+TEALEAF94 checks
+alexisdeben1 checks
+** Summary **
+PapaShango19 shows [ 5d, 2s ]
+TEALEAF94 shows [ 3h, 6c ]
+alexisdeben1 mucks [ 5s, Ad ]
+TEALEAF94 collected [ $150 ]
+
+
+
+#Game No : 640635598
+***** 888poker Hand History for Game 640635598 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:04:44
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $1,970 )
+Seat 2: PapaShango19 ( $8,533 )
+Seat 4: TEALEAF94 ( $14,862 )
+Seat 6: Zeebub ( $3,228 )
+Seat 7: MUZIKANTIK ( $2,075 )
+Seat 9: alexisdeben1 ( $1,820 )
+TEALEAF94 posts small blind [$25]
+Zeebub posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Qs ]
+MUZIKANTIK folds
+alexisdeben1 raises [$1,820]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub folds
+** Summary **
+alexisdeben1 did not show his hand
+alexisdeben1 collected [ $125 ]
+
+
+
+#Game No : 640635686
+***** 888poker Hand History for Game 640635686 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:05:08
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,970 )
+Seat 2: PapaShango19 ( $8,533 )
+Seat 4: TEALEAF94 ( $14,837 )
+Seat 6: Zeebub ( $3,178 )
+Seat 7: MUZIKANTIK ( $2,075 )
+Seat 9: alexisdeben1 ( $1,895 )
+Zeebub posts small blind [$25]
+MUZIKANTIK posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Kh ]
+alexisdeben1 calls [$50]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub calls [$25]
+MUZIKANTIK checks
+** Dealing flop ** [ 9h, 4s, 2s ]
+Zeebub checks
+MUZIKANTIK bets [$150]
+alexisdeben1 folds
+Zeebub calls [$150]
+** Dealing turn ** [ Kc ]
+Zeebub checks
+MUZIKANTIK checks
+** Dealing river ** [ 3d ]
+Zeebub checks
+MUZIKANTIK checks
+** Summary **
+Zeebub shows [ Jc, Th ]
+MUZIKANTIK shows [ 4d, 6d ]
+MUZIKANTIK collected [ $450 ]
+
+
+
+#Game No : 640635908
+***** 888poker Hand History for Game 640635908 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:06:00
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,970 )
+Seat 2: PapaShango19 ( $8,533 )
+Seat 4: TEALEAF94 ( $14,837 )
+Seat 6: Zeebub ( $2,978 )
+Seat 7: MUZIKANTIK ( $2,325 )
+Seat 9: alexisdeben1 ( $1,845 )
+MUZIKANTIK posts small blind [$25]
+alexisdeben1 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 7d ]
+Machkonti raises [$142]
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 folds
+** Summary **
+Machkonti did not show his hand
+Machkonti collected [ $125 ]
+
+
+
+#Game No : 640636008
+***** 888poker Hand History for Game 640636008 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:06:25
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $4,045 )
+Seat 2: PapaShango19 ( $8,533 )
+Seat 4: TEALEAF94 ( $14,837 )
+Seat 6: Zeebub ( $2,978 )
+Seat 7: MUZIKANTIK ( $2,300 )
+Seat 9: alexisdeben1 ( $1,795 )
+alexisdeben1 posts small blind [$25]
+Machkonti posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, Jh ]
+PapaShango19 folds
+TEALEAF94 raises [$175]
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+** Summary **
+TEALEAF94 did not show his hand
+TEALEAF94 collected [ $125 ]
+
+
+
+#Game No : 640636106
+***** 888poker Hand History for Game 640636106 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:06:50
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,995 )
+Seat 2: PapaShango19 ( $8,533 )
+Seat 4: TEALEAF94 ( $14,912 )
+Seat 6: Zeebub ( $2,978 )
+Seat 7: MUZIKANTIK ( $2,300 )
+Seat 9: alexisdeben1 ( $1,770 )
+Machkonti posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 6h ]
+TEALEAF94 folds
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 calls [$50]
+Machkonti folds
+PapaShango19 checks
+** Dealing flop ** [ Ac, 8c, 8s ]
+PapaShango19 checks
+alexisdeben1 checks
+** Dealing turn ** [ Qd ]
+PapaShango19 checks
+alexisdeben1 checks
+** Dealing river ** [ Td ]
+PapaShango19 checks
+alexisdeben1 checks
+** Summary **
+PapaShango19 shows [ Kh, 6h ]
+alexisdeben1 mucks [ 9s, 7c ]
+PapaShango19 collected [ $125 ]
+
+
+
+#Game No : 640636285
+***** 888poker Hand History for Game 640636285 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:07:32
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,970 )
+Seat 2: PapaShango19 ( $8,608 )
+Seat 4: TEALEAF94 ( $14,912 )
+Seat 6: Zeebub ( $2,978 )
+Seat 7: MUZIKANTIK ( $2,300 )
+Seat 9: alexisdeben1 ( $1,720 )
+PapaShango19 posts small blind [$25]
+TEALEAF94 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Kc ]
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti raises [$141]
+PapaShango19 folds
+TEALEAF94 raises [$398]
+Machkonti folds
+** Summary **
+TEALEAF94 did not show his hand
+TEALEAF94 collected [ $307 ]
+
+
+
+#Game No : 640636431
+***** 888poker Hand History for Game 640636431 *****
+$25/$50 Blinds No Limit Holdem - *** 27 11 2014 18:08:11
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,829 )
+Seat 2: PapaShango19 ( $8,583 )
+Seat 4: TEALEAF94 ( $15,078 )
+Seat 6: Zeebub ( $2,978 )
+Seat 7: MUZIKANTIK ( $2,300 )
+Seat 9: alexisdeben1 ( $1,720 )
+TEALEAF94 posts small blind [$25]
+Zeebub posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 7c ]
+MUZIKANTIK raises [$175]
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub folds
+** Summary **
+MUZIKANTIK did not show his hand
+MUZIKANTIK collected [ $125 ]
+
+
+
+#Game No : 640636636
+***** 888poker Hand History for Game 640636636 *****
+$50/$100 Blinds No Limit Holdem - *** 27 11 2014 18:09:02
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,829 )
+Seat 2: PapaShango19 ( $8,583 )
+Seat 4: TEALEAF94 ( $15,053 )
+Seat 6: Zeebub ( $2,928 )
+Seat 7: MUZIKANTIK ( $2,375 )
+Seat 9: alexisdeben1 ( $1,720 )
+Zeebub posts small blind [$50]
+MUZIKANTIK posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7c ]
+alexisdeben1 raises [$350]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 calls [$350]
+Zeebub folds
+MUZIKANTIK folds
+** Dealing flop ** [ 9h, 3h, 2c ]
+alexisdeben1 bets [$1,370]
+TEALEAF94 folds
+** Summary **
+alexisdeben1 did not show his hand
+alexisdeben1 collected [ $850 ]
+
+
+
+#Game No : 640636787
+***** 888poker Hand History for Game 640636787 *****
+$50/$100 Blinds No Limit Holdem - *** 27 11 2014 18:09:40
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,829 )
+Seat 2: PapaShango19 ( $8,583 )
+Seat 4: TEALEAF94 ( $14,703 )
+Seat 6: Zeebub ( $2,878 )
+Seat 7: MUZIKANTIK ( $2,275 )
+Seat 9: alexisdeben1 ( $2,220 )
+MUZIKANTIK posts small blind [$50]
+alexisdeben1 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 3h ]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 calls [$100]
+Zeebub calls [$100]
+MUZIKANTIK folds
+alexisdeben1 checks
+** Dealing flop ** [ Ac, Jh, 8s ]
+alexisdeben1 checks
+TEALEAF94 bets [$100]
+Zeebub folds
+alexisdeben1 folds
+** Summary **
+TEALEAF94 did not show his hand
+TEALEAF94 collected [ $350 ]
+
+
+
+#Game No : 640636949
+***** 888poker Hand History for Game 640636949 *****
+$50/$100 Blinds No Limit Holdem - *** 27 11 2014 18:10:19
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,829 )
+Seat 2: PapaShango19 ( $8,583 )
+Seat 4: TEALEAF94 ( $14,953 )
+Seat 6: Zeebub ( $2,778 )
+Seat 7: MUZIKANTIK ( $2,225 )
+Seat 9: alexisdeben1 ( $2,120 )
+alexisdeben1 posts small blind [$50]
+Machkonti posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 3s ]
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub folds
+MUZIKANTIK raises [$350]
+alexisdeben1 raises [$2,070]
+Machkonti folds
+MUZIKANTIK calls [$1,770]
+** Dealing flop ** [ 2d, 2s, Ah ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 3h ]
+** Summary **
+MUZIKANTIK shows [ 9c, Qc ]
+alexisdeben1 shows [ Ac, Jc ]
+alexisdeben1 collected [ $4,340 ]
+
+
+
+#Game No : 640637165
+***** 888poker Hand History for Game 640637165 *****
+$50/$100 Blinds No Limit Holdem - *** 27 11 2014 18:11:12
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,729 )
+Seat 2: PapaShango19 ( $8,583 )
+Seat 4: TEALEAF94 ( $14,953 )
+Seat 6: Zeebub ( $2,778 )
+Seat 7: MUZIKANTIK ( $105 )
+Seat 9: alexisdeben1 ( $4,340 )
+Machkonti posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6s ]
+TEALEAF94 folds
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti raises [$227]
+PapaShango19 folds
+** Summary **
+Machkonti did not show his hand
+Machkonti collected [ $200 ]
+
+
+
+#Game No : 640637411
+***** 888poker Hand History for Game 640637411 *****
+$50/$100 Blinds No Limit Holdem - *** 27 11 2014 18:12:05
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,829 )
+Seat 2: PapaShango19 ( $8,483 )
+Seat 4: TEALEAF94 ( $14,953 )
+Seat 6: Zeebub ( $2,778 )
+Seat 7: MUZIKANTIK ( $2,105 )
+Seat 9: alexisdeben1 ( $4,340 )
+PapaShango19 posts small blind [$50]
+TEALEAF94 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Kc ]
+Zeebub raises [$200]
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 raises [$550]
+TEALEAF94 folds
+Zeebub calls [$400]
+** Dealing flop ** [ Td, 7d, 2d ]
+PapaShango19 checks
+Zeebub bets [$300]
+PapaShango19 calls [$300]
+** Dealing turn ** [ 3c ]
+PapaShango19 bets [$500]
+Zeebub calls [$500]
+** Dealing river ** [ 7c ]
+PapaShango19 bets [$600]
+Zeebub calls [$600]
+** Summary **
+PapaShango19 shows [ Ac, Kc ]
+Zeebub shows [ 5c, 5s ]
+Zeebub collected [ $4,100 ]
+
+
+
+#Game No : 640637717
+***** 888poker Hand History for Game 640637717 *****
+$50/$100 Blinds No Limit Holdem - *** 27 11 2014 18:13:20
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,829 )
+Seat 2: PapaShango19 ( $6,483 )
+Seat 4: TEALEAF94 ( $14,853 )
+Seat 6: Zeebub ( $4,878 )
+Seat 7: MUZIKANTIK ( $2,105 )
+Seat 9: alexisdeben1 ( $4,340 )
+TEALEAF94 posts small blind [$50]
+Zeebub posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 8d ]
+MUZIKANTIK folds
+alexisdeben1 calls [$100]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 calls [$50]
+Zeebub checks
+** Dealing flop ** [ 5d, 2s, 6c ]
+TEALEAF94 bets [$100]
+Zeebub raises [$450]
+alexisdeben1 folds
+TEALEAF94 calls [$350]
+** Dealing turn ** [ 5s ]
+TEALEAF94 checks
+Zeebub bets [$600]
+TEALEAF94 calls [$600]
+** Dealing river ** [ 3d ]
+TEALEAF94 checks
+Zeebub checks
+** Summary **
+TEALEAF94 shows [ Qd, 6h ]
+Zeebub shows [ Ac, 6d ]
+Zeebub collected [ $2,400 ]
+
+
+
+#Game No : 640637954
+***** 888poker Hand History for Game 640637954 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:14:17
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,829 )
+Seat 2: PapaShango19 ( $6,483 )
+Seat 4: TEALEAF94 ( $13,703 )
+Seat 6: Zeebub ( $6,128 )
+Seat 7: MUZIKANTIK ( $2,105 )
+Seat 9: alexisdeben1 ( $4,240 )
+Zeebub posts small blind [$75]
+MUZIKANTIK posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 7h ]
+alexisdeben1 folds
+Machkonti raises [$300]
+PapaShango19 calls [$300]
+TEALEAF94 calls [$300]
+Zeebub folds
+MUZIKANTIK folds
+** Dealing flop ** [ Js, 9h, Th ]
+Machkonti checks
+PapaShango19 bets [$450]
+TEALEAF94 folds
+Machkonti folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,125 ]
+
+
+
+#Game No : 640638113
+***** 888poker Hand History for Game 640638113 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:14:58
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,529 )
+Seat 2: PapaShango19 ( $7,308 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $6,053 )
+Seat 7: MUZIKANTIK ( $1,955 )
+Seat 9: alexisdeben1 ( $4,240 )
+MUZIKANTIK posts small blind [$75]
+alexisdeben1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5c ]
+Machkonti folds
+PapaShango19 calls [$150]
+TEALEAF94 folds
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 checks
+** Dealing flop ** [ Ks, 3d, 4d ]
+alexisdeben1 bets [$150]
+PapaShango19 calls [$150]
+** Dealing turn ** [ Kd ]
+alexisdeben1 bets [$150]
+PapaShango19 calls [$150]
+** Dealing river ** [ Qh ]
+alexisdeben1 bets [$150]
+PapaShango19 calls [$150]
+** Summary **
+alexisdeben1 shows [ Ac, 4h ]
+PapaShango19 shows [ 5d, 5c ]
+PapaShango19 collected [ $1,275 ]
+
+
+
+#Game No : 640638237
+***** 888poker Hand History for Game 640638237 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:15:29
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,529 )
+Seat 2: PapaShango19 ( $7,983 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $6,053 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,640 )
+alexisdeben1 posts small blind [$75]
+Machkonti posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 7c ]
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub calls [$150]
+MUZIKANTIK folds
+alexisdeben1 calls [$75]
+Machkonti checks
+** Dealing flop ** [ 7s, 4s, 3h ]
+alexisdeben1 checks
+Machkonti checks
+Zeebub checks
+** Dealing turn ** [ 4d ]
+alexisdeben1 checks
+Machkonti checks
+Zeebub checks
+** Dealing river ** [ Tc ]
+alexisdeben1 bets [$337]
+Machkonti folds
+Zeebub folds
+** Summary **
+alexisdeben1 did not show his hand
+alexisdeben1 collected [ $450 ]
+
+
+
+#Game No : 640638539
+***** 888poker Hand History for Game 640638539 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:16:36
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,379 )
+Seat 2: PapaShango19 ( $7,983 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $5,903 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,940 )
+Machkonti posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2h ]
+TEALEAF94 folds
+Zeebub raises [$450]
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $375 ]
+
+
+
+#Game No : 640638651
+***** 888poker Hand History for Game 640638651 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:17:03
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,304 )
+Seat 2: PapaShango19 ( $7,833 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $6,128 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,940 )
+PapaShango19 posts small blind [$75]
+TEALEAF94 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Ah ]
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+** Summary **
+TEALEAF94 did not show his hand
+TEALEAF94 collected [ $225 ]
+
+
+
+#Game No : 640638733
+***** 888poker Hand History for Game 640638733 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:17:22
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,304 )
+Seat 2: PapaShango19 ( $7,758 )
+Seat 4: TEALEAF94 ( $13,478 )
+Seat 6: Zeebub ( $6,128 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,940 )
+TEALEAF94 posts small blind [$75]
+Zeebub posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Kc ]
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $225 ]
+
+
+
+#Game No : 640638798
+***** 888poker Hand History for Game 640638798 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:17:41
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,304 )
+Seat 2: PapaShango19 ( $7,758 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $6,203 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,940 )
+Zeebub posts small blind [$75]
+MUZIKANTIK posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Th ]
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub folds
+** Summary **
+MUZIKANTIK did not show his hand
+MUZIKANTIK collected [ $225 ]
+
+
+
+#Game No : 640638955
+***** 888poker Hand History for Game 640638955 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:18:13
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,304 )
+Seat 2: PapaShango19 ( $7,758 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $6,128 )
+Seat 7: MUZIKANTIK ( $1,955 )
+Seat 9: alexisdeben1 ( $3,940 )
+MUZIKANTIK posts small blind [$75]
+alexisdeben1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 8d ]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub raises [$300]
+MUZIKANTIK folds
+alexisdeben1 raises [$3,790]
+Zeebub calls [$3,640]
+** Dealing flop ** [ 3h, Qc, 6s ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Qd ]
+** Summary **
+Zeebub shows [ Jh, Ac ]
+alexisdeben1 shows [ Js, Ad ]
+alexisdeben1 collected [ $3,978 ]
+Zeebub collected [ $3,977 ]
+
+
+
+#Game No : 640639091
+***** 888poker Hand History for Game 640639091 *****
+$75/$150 Blinds No Limit Holdem - *** 27 11 2014 18:18:50
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,304 )
+Seat 2: PapaShango19 ( $7,758 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $6,165 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,978 )
+alexisdeben1 posts small blind [$75]
+Machkonti posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Ac ]
+PapaShango19 raises [$350]
+TEALEAF94 folds
+Zeebub calls [$350]
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+** Dealing flop ** [ 5c, Qh, Kc ]
+PapaShango19 checks
+Zeebub bets [$462]
+PapaShango19 calls [$462]
+** Dealing turn ** [ 9c ]
+PapaShango19 checks
+Zeebub bets [$300]
+PapaShango19 calls [$300]
+** Dealing river ** [ Kd ]
+PapaShango19 checks
+Zeebub bets [$1,050]
+PapaShango19 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $2,449 ]
+
+
+
+#Game No : 640639466
+***** 888poker Hand History for Game 640639466 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:20:25
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,154 )
+Seat 2: PapaShango19 ( $6,646 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $7,502 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,903 )
+Machkonti posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Td ]
+TEALEAF94 folds
+Zeebub raises [$400]
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $500 ]
+
+
+
+#Game No : 640639612
+***** 888poker Hand History for Game 640639612 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:20:51
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,054 )
+Seat 2: PapaShango19 ( $6,446 )
+Seat 4: TEALEAF94 ( $13,403 )
+Seat 6: Zeebub ( $7,802 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,903 )
+PapaShango19 posts small blind [$100]
+TEALEAF94 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 8d ]
+Zeebub folds
+MUZIKANTIK folds
+alexisdeben1 folds
+Machkonti folds
+PapaShango19 folds
+** Summary **
+TEALEAF94 did not show his hand
+TEALEAF94 collected [ $300 ]
+
+
+
+#Game No : 640639691
+***** 888poker Hand History for Game 640639691 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:21:10
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $3,054 )
+Seat 2: PapaShango19 ( $6,346 )
+Seat 4: TEALEAF94 ( $13,503 )
+Seat 6: Zeebub ( $7,802 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Seat 9: alexisdeben1 ( $3,903 )
+TEALEAF94 posts small blind [$100]
+Zeebub posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2s ]
+MUZIKANTIK folds
+alexisdeben1 raises [$1,000]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 raises [$3,900]
+Zeebub folds
+alexisdeben1 calls [$2,903]
+** Dealing flop ** [ Qd, 8h, 6c ]
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 9h ]
+** Summary **
+TEALEAF94 shows [ As, Qc ]
+alexisdeben1 shows [ Ts, Th ]
+TEALEAF94 collected [ $8,006 ]
+
+
+
+#Game No : 640640062
+***** 888poker Hand History for Game 640640062 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:22:45
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Machkonti ( $3,054 )
+Seat 2: PapaShango19 ( $6,346 )
+Seat 4: TEALEAF94 ( $17,606 )
+Seat 6: Zeebub ( $7,602 )
+Seat 7: MUZIKANTIK ( $1,880 )
+Zeebub posts small blind [$100]
+MUZIKANTIK posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 4d ]
+Machkonti raises [$400]
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub raises [$700]
+MUZIKANTIK folds
+Machkonti calls [$400]
+** Dealing flop ** [ 9d, Ks, 2d ]
+Zeebub bets [$900]
+Machkonti folds
+** Summary **
+Zeebub collected [ $1,800 ]
+
+
+
+#Game No : 640640212
+***** 888poker Hand History for Game 640640212 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:23:21
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,254 )
+Seat 2: PapaShango19 ( $6,346 )
+Seat 4: TEALEAF94 ( $17,606 )
+Seat 6: Zeebub ( $8,602 )
+Seat 7: MUZIKANTIK ( $1,680 )
+Seat 9: cooper9694 ( $4,000 )
+MUZIKANTIK posts small blind [$100]
+cooper9694 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 5s ]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub calls [$200]
+MUZIKANTIK folds
+cooper9694 checks
+** Dealing flop ** [ Th, 8d, Jd ]
+cooper9694 checks
+Zeebub bets [$250]
+cooper9694 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $500 ]
+
+
+
+#Game No : 640640396
+***** 888poker Hand History for Game 640640396 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:24:14
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,254 )
+Seat 2: PapaShango19 ( $6,346 )
+Seat 4: TEALEAF94 ( $17,606 )
+Seat 6: Zeebub ( $8,902 )
+Seat 7: MUZIKANTIK ( $1,580 )
+Seat 9: cooper9694 ( $3,800 )
+cooper9694 posts small blind [$100]
+Machkonti posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 8h ]
+PapaShango19 folds
+TEALEAF94 raises [$400]
+Zeebub folds
+MUZIKANTIK raises [$1,580]
+cooper9694 folds
+Machkonti folds
+TEALEAF94 folds
+** Summary **
+MUZIKANTIK did not show his hand
+MUZIKANTIK collected [ $1,100 ]
+
+
+
+#Game No : 640640491
+***** 888poker Hand History for Game 640640491 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:24:38
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $2,054 )
+Seat 2: PapaShango19 ( $6,346 )
+Seat 4: TEALEAF94 ( $17,206 )
+Seat 6: Zeebub ( $8,902 )
+Seat 7: MUZIKANTIK ( $2,280 )
+Seat 9: cooper9694 ( $3,700 )
+Machkonti posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 5c ]
+TEALEAF94 folds
+Zeebub calls [$200]
+MUZIKANTIK folds
+cooper9694 folds
+Machkonti folds
+PapaShango19 checks
+** Dealing flop ** [ 3h, 2c, 6s ]
+PapaShango19 checks
+Zeebub checks
+** Dealing turn ** [ 4d ]
+PapaShango19 checks
+Zeebub bets [$200]
+PapaShango19 folds
+** Summary **
+Zeebub did not show his hand
+Zeebub collected [ $500 ]
+
+
+
+#Game No : 640640700
+***** 888poker Hand History for Game 640640700 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:25:39
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $1,954 )
+Seat 2: PapaShango19 ( $6,146 )
+Seat 4: TEALEAF94 ( $17,206 )
+Seat 6: Zeebub ( $9,202 )
+Seat 7: MUZIKANTIK ( $2,280 )
+Seat 9: cooper9694 ( $3,700 )
+PapaShango19 posts small blind [$100]
+TEALEAF94 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8c ]
+Zeebub calls [$200]
+MUZIKANTIK folds
+cooper9694 folds
+Machkonti raises [$1,954]
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub calls [$1,754]
+** Dealing flop ** [ As, 4c, Ts ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 6d ]
+** Summary **
+Machkonti shows [ Ad, Kc ]
+Zeebub shows [ Ac, 8s ]
+Machkonti collected [ $4,208 ]
+
+
+
+#Game No : 640640857
+***** 888poker Hand History for Game 640640857 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:26:18
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $4,208 )
+Seat 2: PapaShango19 ( $6,046 )
+Seat 4: TEALEAF94 ( $17,006 )
+Seat 6: Zeebub ( $7,248 )
+Seat 7: MUZIKANTIK ( $2,280 )
+Seat 9: cooper9694 ( $3,700 )
+Machkonti posts ante [$20]
+PapaShango19 posts ante [$20]
+TEALEAF94 posts ante [$20]
+Zeebub posts ante [$20]
+MUZIKANTIK posts ante [$20]
+cooper9694 posts ante [$20]
+TEALEAF94 posts small blind [$100]
+Zeebub posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, Qh ]
+MUZIKANTIK calls [$200]
+cooper9694 raises [$1,020]
+Machkonti folds
+PapaShango19 raises [$2,240]
+TEALEAF94 folds
+Zeebub folds
+MUZIKANTIK folds
+cooper9694 calls [$1,220]
+** Dealing flop ** [ Js, 7c, 8s ]
+cooper9694 checks
+PapaShango19 bets [$1,600]
+cooper9694 calls [$1,440]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 3h ]
+** Summary **
+PapaShango19 shows [ Qc, Qh ]
+cooper9694 shows [ 7h, 7d ]
+cooper9694 collected [ $7,980 ]
+
+
+
+#Game No : 640641184
+***** 888poker Hand History for Game 640641184 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:27:50
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $4,188 )
+Seat 2: PapaShango19 ( $2,346 )
+Seat 4: TEALEAF94 ( $16,886 )
+Seat 6: Zeebub ( $7,028 )
+Seat 7: MUZIKANTIK ( $2,060 )
+Seat 9: cooper9694 ( $7,980 )
+Machkonti posts ante [$20]
+PapaShango19 posts ante [$20]
+TEALEAF94 posts ante [$20]
+Zeebub posts ante [$20]
+MUZIKANTIK posts ante [$20]
+cooper9694 posts ante [$20]
+Zeebub posts small blind [$100]
+MUZIKANTIK posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 4d ]
+cooper9694 raises [$820]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub calls [$720]
+MUZIKANTIK folds
+** Dealing flop ** [ Jc, 3d, 7c ]
+Zeebub checks
+cooper9694 bets [$1,960]
+Zeebub calls [$1,960]
+** Dealing turn ** [ 4h ]
+Zeebub checks
+cooper9694 bets [$5,180]
+Zeebub folds
+** Summary **
+cooper9694 did not show his hand
+cooper9694 collected [ $5,880 ]
+
+
+
+#Game No : 640641381
+***** 888poker Hand History for Game 640641381 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:28:45
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Machkonti ( $4,168 )
+Seat 2: PapaShango19 ( $2,326 )
+Seat 4: TEALEAF94 ( $16,866 )
+Seat 6: Zeebub ( $4,228 )
+Seat 7: MUZIKANTIK ( $1,840 )
+Seat 9: cooper9694 ( $11,060 )
+Machkonti posts ante [$20]
+PapaShango19 posts ante [$20]
+TEALEAF94 posts ante [$20]
+Zeebub posts ante [$20]
+MUZIKANTIK posts ante [$20]
+cooper9694 posts ante [$20]
+MUZIKANTIK posts small blind [$100]
+cooper9694 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 9c ]
+Machkonti folds
+PapaShango19 folds
+TEALEAF94 raises [$820]
+Zeebub folds
+MUZIKANTIK raises [$1,720]
+cooper9694 folds
+TEALEAF94 calls [$1,000]
+** Dealing flop ** [ 9d, Ac, Ts ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 2d ]
+** Summary **
+TEALEAF94 shows [ Ad, Jc ]
+MUZIKANTIK shows [ Tc, Jd ]
+TEALEAF94 collected [ $3,960 ]
+
+
+
+#Game No : 640641592
+***** 888poker Hand History for Game 640641592 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:29:30
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Machkonti ( $4,148 )
+Seat 2: PapaShango19 ( $2,306 )
+Seat 4: TEALEAF94 ( $18,986 )
+Seat 6: Zeebub ( $4,208 )
+Seat 9: cooper9694 ( $10,840 )
+Machkonti posts ante [$20]
+PapaShango19 posts ante [$20]
+TEALEAF94 posts ante [$20]
+Zeebub posts ante [$20]
+cooper9694 posts ante [$20]
+cooper9694 posts small blind [$100]
+Machkonti posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 8c ]
+PapaShango19 folds
+TEALEAF94 folds
+Zeebub folds
+cooper9694 folds
+** Summary **
+Machkonti did not show his hand
+Machkonti collected [ $400 ]
+
+
+
+#Game No : 640641682
+***** 888poker Hand History for Game 640641682 *****
+$100/$200 Blinds No Limit Holdem - *** 27 11 2014 18:29:55
+Tournament #63841918 $0.90 + $0.10 - Table #17 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Machkonti ( $4,328 )
+Seat 2: PapaShango19 ( $2,286 )
+Seat 4: TEALEAF94 ( $18,966 )
+Seat 6: Zeebub ( $4,188 )
+Seat 9: cooper9694 ( $10,720 )
+Machkonti posts ante [$20]
+PapaShango19 posts ante [$20]
+TEALEAF94 posts ante [$20]
+Zeebub posts ante [$20]
+cooper9694 posts ante [$20]
+Machkonti posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Ks ]
+TEALEAF94 folds
+Zeebub folds
+cooper9694 folds
+Machkonti raises [$4,208]
+PapaShango19 calls [$2,066]
+** Dealing flop ** [ 2d, Jh, 5c ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 7s ]
+** Summary **
+Machkonti shows [ Ac, 6s ]
+PapaShango19 shows [ 6d, Ks ]
+Machkonti collected [ $4,632 ]
+
+
+

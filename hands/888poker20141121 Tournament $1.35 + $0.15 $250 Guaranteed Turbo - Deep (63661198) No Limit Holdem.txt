@@ -1,0 +1,438 @@
+#Game No : 642286893
+***** 888poker Hand History for Game 642286893 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 05:55:21
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Birisbild ( $6,919 )
+Seat 3: Superman223 ( $4,950 )
+Seat 4: H.Talho ( $6,057 )
+Seat 6: polytoxsound ( $5,495 )
+Seat 7: dhebs13 ( $4,075 )
+Seat 9: yan746 ( $4,425 )
+Seat 10: nononovic ( $3,225 )
+Superman223 posts small blind [$25]
+H.Talho posts big blind [$50]
+** Dealing down cards **
+polytoxsound calls [$50]
+dhebs13 folds
+yan746 raises [$225]
+nononovic folds
+Birisbild calls [$225]
+Superman223 folds
+H.Talho calls [$175]
+polytoxsound calls [$175]
+** Dealing flop ** [ 6d, 9d, Ks ]
+H.Talho checks
+polytoxsound checks
+yan746 checks
+Birisbild checks
+** Dealing turn ** [ Jc ]
+H.Talho checks
+polytoxsound checks
+yan746 bets [$462]
+Birisbild calls [$462]
+H.Talho folds
+polytoxsound calls [$462]
+** Dealing river ** [ 2h ]
+polytoxsound bets [$2,311]
+yan746 folds
+Birisbild calls [$2,311]
+** Summary **
+polytoxsound shows [ 4h, Kh ]
+Birisbild mucks [ Tc, Jh ]
+polytoxsound collected [ $6,933 ]
+
+
+
+#Game No : 642287164
+***** 888poker Hand History for Game 642287164 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 05:59:58
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Birisbild ( $3,921 )
+Seat 2: Tinytigertim ( $15,708 )
+Seat 3: Superman223 ( $4,925 )
+Seat 5: PapaShango19 ( $5,000 )
+Seat 6: polytoxsound ( $9,430 )
+Seat 7: dhebs13 ( $4,075 )
+Seat 9: yan746 ( $3,738 )
+Seat 10: nononovic ( $3,225 )
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4h ]
+polytoxsound calls [$50]
+dhebs13 raises [$100]
+yan746 folds
+nononovic raises [$150]
+Birisbild calls [$150]
+Tinytigertim folds
+Superman223 folds
+PapaShango19 folds
+polytoxsound calls [$100]
+dhebs13 raises [$3,975]
+nononovic folds
+Birisbild folds
+polytoxsound calls [$3,925]
+** Dealing flop ** [ 3d, Ac, Jd ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ As ]
+** Summary **
+polytoxsound shows [ Ts, Qs ]
+dhebs13 shows [ Td, Ad ]
+polytoxsound collected [ $8,500 ]
+
+
+
+#Game No : 642287258
+***** 888poker Hand History for Game 642287258 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 06:01:03
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: Birisbild ( $3,771 )
+Seat 2: Tinytigertim ( $15,708 )
+Seat 3: Superman223 ( $4,925 )
+Seat 5: PapaShango19 ( $4,950 )
+Seat 6: polytoxsound ( $13,855 )
+Seat 9: yan746 ( $3,738 )
+Seat 10: nononovic ( $3,075 )
+PapaShango19 posts small blind [$50]
+polytoxsound posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 2d ]
+yan746 folds
+nononovic raises [$3,075]
+Birisbild folds
+Tinytigertim folds
+Superman223 folds
+PapaShango19 folds
+polytoxsound folds
+** Summary **
+nononovic collected [ $250 ]
+
+
+
+#Game No : 642287284
+***** 888poker Hand History for Game 642287284 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 06:01:19
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Birisbild ( $3,771 )
+Seat 2: Tinytigertim ( $15,708 )
+Seat 3: Superman223 ( $4,925 )
+Seat 4: thomas369 ( $5,000 )
+Seat 5: PapaShango19 ( $4,900 )
+Seat 6: polytoxsound ( $13,755 )
+Seat 7: cabeza0 ( $5,000 )
+Seat 9: yan746 ( $3,738 )
+Seat 10: nononovic ( $3,225 )
+polytoxsound posts small blind [$50]
+cabeza0 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ac ]
+yan746 folds
+nononovic folds
+Birisbild calls [$100]
+Tinytigertim folds
+Superman223 folds
+thomas369 calls [$100]
+PapaShango19 folds
+polytoxsound calls [$50]
+cabeza0 checks
+** Dealing flop ** [ 6h, 2h, Jd ]
+polytoxsound checks
+cabeza0 checks
+Birisbild checks
+thomas369 checks
+** Dealing turn ** [ 5c ]
+polytoxsound checks
+cabeza0 bets [$100]
+Birisbild folds
+thomas369 calls [$100]
+polytoxsound calls [$100]
+** Dealing river ** [ Ks ]
+polytoxsound checks
+cabeza0 checks
+thomas369 checks
+** Summary **
+polytoxsound shows [ Jh, 4d ]
+cabeza0 mucks [ 2c, 4h ]
+thomas369 mucks [ Qh, 8h ]
+polytoxsound collected [ $700 ]
+
+
+
+#Game No : 642287393
+***** 888poker Hand History for Game 642287393 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 06:02:35
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Birisbild ( $3,671 )
+Seat 2: Tinytigertim ( $15,708 )
+Seat 3: Superman223 ( $4,925 )
+Seat 4: thomas369 ( $4,800 )
+Seat 5: PapaShango19 ( $4,900 )
+Seat 6: polytoxsound ( $14,255 )
+Seat 7: cabeza0 ( $4,800 )
+Seat 9: yan746 ( $3,738 )
+cabeza0 posts small blind [$50]
+yan746 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 8s ]
+Birisbild folds
+Tinytigertim folds
+Superman223 calls [$100]
+thomas369 calls [$100]
+PapaShango19 calls [$100]
+polytoxsound folds
+cabeza0 calls [$50]
+yan746 checks
+** Dealing flop ** [ 5d, Ac, 3d ]
+cabeza0 checks
+yan746 bets [$250]
+Superman223 calls [$250]
+thomas369 calls [$250]
+PapaShango19 folds
+cabeza0 calls [$250]
+** Dealing turn ** [ 6h ]
+cabeza0 checks
+yan746 checks
+Superman223 checks
+thomas369 checks
+** Dealing river ** [ 5s ]
+cabeza0 bets [$100]
+yan746 folds
+Superman223 folds
+thomas369 calls [$100]
+** Summary **
+cabeza0 shows [ 4h, Kd ]
+thomas369 shows [ Ad, 9d ]
+thomas369 collected [ $1,700 ]
+
+
+
+#Game No : 642287612
+***** 888poker Hand History for Game 642287612 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 06:05:21
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2:  ( $15,408 )
+Seat 3:  ( $4,375 )
+Seat 4:  ( $6,950 )
+Seat 5:  ( $4,800 )
+Seat 6:  ( $14,155 )
+Seat 7:  ( $4,250 )
+Seat 9:  ( $3,288 )
+Seat 10:  ( $6,979 )
+ posts small blind [$75]
+ posts big blind [$150]
+** Dealing down cards **
+Dealt to  [ Kh, Jh ]
+ calls [$150]
+ folds
+ raises [$450]
+ folds
+ calls [$450]
+ folds
+ folds
+ folds
+ calls [$300]
+** Dealing flop ** [ Jc, 7d, 9h ]
+ checks
+ bets [$937]
+ calls [$937]
+ calls [$937]
+** Dealing turn ** [ 4d ]
+ checks
+ bets [$2,193]
+ raises [$2,863]
+ folds
+ calls [$670]
+** Dealing river ** [ 9d ]
+** Summary **
+ shows [ Kh, Jh ]
+ shows [ Js, 9s ]
+ collected [ $10,112 ]
+
+
+
+#Game No : 642287701
+***** 888poker Hand History for Game 642287701 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 06:06:23
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: Tinytigertim ( $15,258 )
+Seat 3: Superman223 ( $2,988 )
+Seat 4: thomas369 ( $6,950 )
+Seat 5: PapaShango19 ( $550 )
+Seat 6: polytoxsound ( $14,155 )
+Seat 7: cabeza0 ( $10,112 )
+Seat 9: yan746 ( $3,288 )
+Seat 10: michi1288 ( $6,904 )
+Tinytigertim posts small blind [$75]
+Superman223 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Kd ]
+thomas369 folds
+PapaShango19 raises [$550]
+polytoxsound folds
+cabeza0 folds
+yan746 folds
+michi1288 folds
+Tinytigertim calls [$475]
+Superman223 folds
+** Dealing flop ** [ Qh, 8h, 3h ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 4d ]
+** Summary **
+Tinytigertim shows [ 9h, 7s ]
+PapaShango19 shows [ Ac, Kd ]
+PapaShango19 collected [ $1,250 ]
+
+
+
+#Game No : 642287755
+***** 888poker Hand History for Game 642287755 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 06:07:00
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: Tinytigertim ( $14,708 )
+Seat 3: Superman223 ( $2,838 )
+Seat 4: thomas369 ( $6,950 )
+Seat 5: PapaShango19 ( $1,250 )
+Seat 6: polytoxsound ( $14,155 )
+Seat 7: cabeza0 ( $10,112 )
+Seat 9: yan746 ( $3,288 )
+Seat 10: michi1288 ( $6,904 )
+Superman223 posts small blind [$75]
+thomas369 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Jc ]
+PapaShango19 folds
+polytoxsound folds
+cabeza0 calls [$150]
+yan746 folds
+michi1288 calls [$150]
+Tinytigertim folds
+Superman223 calls [$75]
+thomas369 checks
+** Dealing flop ** [ Jh, Td, 2h ]
+Superman223 checks
+thomas369 checks
+cabeza0 bets [$300]
+michi1288 folds
+Superman223 folds
+thomas369 calls [$300]
+** Dealing turn ** [ 8d ]
+thomas369 bets [$150]
+cabeza0 raises [$300]
+thomas369 calls [$150]
+** Dealing river ** [ 5c ]
+thomas369 checks
+cabeza0 bets [$900]
+thomas369 calls [$900]
+** Summary **
+cabeza0 shows [ 9h, Th ]
+thomas369 shows [ 8h, Js ]
+thomas369 collected [ $3,600 ]
+
+
+
+#Game No : 642287827
+***** 888poker Hand History for Game 642287827 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 06:08:04
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: queenofpkr09 ( $5,000 )
+Seat 2: Tinytigertim ( $14,708 )
+Seat 3: Superman223 ( $2,688 )
+Seat 4: thomas369 ( $8,900 )
+Seat 5: PapaShango19 ( $1,250 )
+Seat 7: cabeza0 ( $8,462 )
+Seat 9: yan746 ( $3,288 )
+Seat 10: michi1288 ( $6,754 )
+thomas369 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 7h ]
+cabeza0 calls [$150]
+yan746 folds
+michi1288 folds
+queenofpkr09 folds
+Tinytigertim calls [$150]
+Superman223 calls [$150]
+thomas369 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ 2s, Tc, 6d ]
+thomas369 checks
+PapaShango19 checks
+cabeza0 checks
+Tinytigertim bets [$750]
+Superman223 calls [$750]
+thomas369 folds
+PapaShango19 folds
+cabeza0 folds
+** Dealing turn ** [ 9c ]
+Tinytigertim bets [$2,250]
+Superman223 folds
+** Summary **
+Tinytigertim did not show his hand
+Tinytigertim collected [ $2,250 ]
+
+
+
+#Game No : 642287901
+***** 888poker Hand History for Game 642287901 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 06:09:01
+Tournament #63661198 $1.35 + $0.15 - Table #7 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: queenofpkr09 ( $5,000 )
+Seat 2: Tinytigertim ( $16,058 )
+Seat 3: Superman223 ( $1,788 )
+Seat 4: thomas369 ( $8,750 )
+Seat 5: PapaShango19 ( $1,100 )
+Seat 7: cabeza0 ( $8,312 )
+Seat 9: yan746 ( $3,288 )
+Seat 10: michi1288 ( $6,754 )
+PapaShango19 posts small blind [$75]
+cabeza0 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Ad ]
+yan746 folds
+michi1288 raises [$300]
+queenofpkr09 calls [$300]
+Tinytigertim folds
+Superman223 folds
+thomas369 folds
+PapaShango19 raises [$1,025]
+cabeza0 calls [$950]
+michi1288 calls [$800]
+queenofpkr09 calls [$800]
+** Dealing flop ** [ 9s, Th, 7d ]
+cabeza0 bets [$150]
+michi1288 raises [$2,425]
+queenofpkr09 folds
+cabeza0 calls [$2,275]
+** Dealing turn ** [ 2s ]
+cabeza0 checks
+michi1288 bets [$3,229]
+cabeza0 calls [$3,229]
+** Dealing river ** [ Jd ]
+** Summary **
+PapaShango19 shows [ 2d, Ad ]
+cabeza0 shows [ Kh, Ah ]
+michi1288 shows [ Kc, 9d ]
+michi1288 collected [ $4,400 ]
+michi1288 collected [ $11,308 ]
+
+
+

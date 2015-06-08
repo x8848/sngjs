@@ -1,0 +1,646 @@
+#Game No : 643352614
+***** 888poker Hand History for Game 643352614 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:30:18
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $2,500 )
+Seat 2: xiaodaohong ( $2,500 )
+Seat 4: PapaShango19 ( $2,500 )
+Seat 6: poribeiro ( $2,500 )
+Seat 7: solohamD ( $2,500 )
+Seat 9: DanTheCruel ( $2,500 )
+solohamD posts small blind [$10]
+DanTheCruel posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, As ]
+boszko14 folds
+xiaodaohong folds
+PapaShango19 raises [$2,500]
+poribeiro folds
+solohamD folds
+DanTheCruel folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $50 ]
+
+
+
+#Game No : 643352767
+***** 888poker Hand History for Game 643352767 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:30:54
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $2,500 )
+Seat 2: xiaodaohong ( $2,500 )
+Seat 4: PapaShango19 ( $2,530 )
+Seat 6: poribeiro ( $2,500 )
+Seat 7: solohamD ( $2,490 )
+Seat 9: DanTheCruel ( $2,480 )
+DanTheCruel posts small blind [$10]
+boszko14 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 7d ]
+xiaodaohong folds
+PapaShango19 folds
+poribeiro folds
+solohamD raises [$52]
+DanTheCruel calls [$42]
+boszko14 calls [$32]
+** Dealing flop ** [ Qd, 7c, 3c ]
+DanTheCruel checks
+boszko14 checks
+solohamD checks
+** Dealing turn ** [ 7s ]
+DanTheCruel bets [$156]
+boszko14 folds
+solohamD folds
+** Summary **
+DanTheCruel did not show his hand
+DanTheCruel collected [ $156 ]
+
+
+
+#Game No : 643353153
+***** 888poker Hand History for Game 643353153 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:32:12
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: boszko14 ( $2,448 )
+Seat 4: PapaShango19 ( $2,530 )
+Seat 6: poribeiro ( $2,500 )
+Seat 7: solohamD ( $2,438 )
+Seat 9: DanTheCruel ( $2,584 )
+boszko14 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 6c ]
+poribeiro calls [$20]
+solohamD folds
+DanTheCruel folds
+boszko14 calls [$10]
+PapaShango19 checks
+** Dealing flop ** [ 9h, Kc, Qh ]
+boszko14 bets [$60]
+PapaShango19 folds
+poribeiro folds
+** Summary **
+boszko14 collected [ $60 ]
+
+
+
+#Game No : 643353389
+***** 888poker Hand History for Game 643353389 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:33:00
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: boszko14 ( $2,488 )
+Seat 4: PapaShango19 ( $2,510 )
+Seat 6: poribeiro ( $2,480 )
+Seat 7: solohamD ( $2,438 )
+Seat 9: DanTheCruel ( $2,584 )
+PapaShango19 posts small blind [$10]
+poribeiro posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3c ]
+solohamD folds
+DanTheCruel raises [$120]
+boszko14 folds
+PapaShango19 calls [$110]
+poribeiro folds
+** Dealing flop ** [ 2c, 5s, Jh ]
+PapaShango19 checks
+DanTheCruel checks
+** Dealing turn ** [ 9c ]
+PapaShango19 checks
+DanTheCruel bets [$195]
+PapaShango19 calls [$195]
+** Dealing river ** [ Jd ]
+PapaShango19 checks
+DanTheCruel bets [$487]
+PapaShango19 folds
+** Summary **
+DanTheCruel collected [ $650 ]
+
+
+
+#Game No : 643353703
+***** 888poker Hand History for Game 643353703 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:34:00
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $2,488 )
+Seat 2: cloud2630 ( $2,500 )
+Seat 4: PapaShango19 ( $2,195 )
+Seat 6: poribeiro ( $2,460 )
+Seat 7: kulibinn ( $2,500 )
+Seat 9: DanTheCruel ( $2,919 )
+poribeiro posts small blind [$10]
+kulibinn posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 6d ]
+DanTheCruel calls [$20]
+boszko14 calls [$20]
+cloud2630 calls [$20]
+PapaShango19 calls [$20]
+poribeiro calls [$10]
+kulibinn checks
+** Dealing flop ** [ Kh, As, 8h ]
+poribeiro checks
+kulibinn checks
+DanTheCruel checks
+boszko14 bets [$20]
+cloud2630 calls [$20]
+PapaShango19 calls [$20]
+poribeiro calls [$20]
+kulibinn calls [$20]
+DanTheCruel calls [$20]
+** Dealing turn ** [ Jd ]
+poribeiro checks
+kulibinn checks
+DanTheCruel checks
+boszko14 bets [$20]
+cloud2630 calls [$20]
+PapaShango19 folds
+poribeiro calls [$20]
+kulibinn calls [$20]
+DanTheCruel folds
+** Dealing river ** [ Qs ]
+poribeiro checks
+kulibinn checks
+boszko14 checks
+cloud2630 checks
+** Summary **
+poribeiro shows [ 9s, Js ]
+kulibinn mucks [ 2h, 8s ]
+boszko14 shows [ Ac, 4s ]
+cloud2630 mucks [ 4h, 3h ]
+boszko14 collected [ $320 ]
+
+
+
+#Game No : 643354292
+***** 888poker Hand History for Game 643354292 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:36:02
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $2,748 )
+Seat 2: cloud2630 ( $2,440 )
+Seat 4: PapaShango19 ( $2,155 )
+Seat 6: poribeiro ( $2,400 )
+Seat 7: kulibinn ( $2,440 )
+Seat 9: DanTheCruel ( $2,879 )
+kulibinn posts small blind [$10]
+DanTheCruel posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Tc ]
+boszko14 folds
+cloud2630 folds
+PapaShango19 raises [$80]
+poribeiro calls [$80]
+kulibinn calls [$70]
+DanTheCruel calls [$60]
+** Dealing flop ** [ 8h, 5s, Jd ]
+kulibinn checks
+DanTheCruel bets [$160]
+PapaShango19 folds
+poribeiro folds
+kulibinn calls [$160]
+** Dealing turn ** [ Kd ]
+kulibinn checks
+DanTheCruel checks
+** Dealing river ** [ Qs ]
+kulibinn checks
+DanTheCruel checks
+** Summary **
+kulibinn shows [ 9h, 9s ]
+DanTheCruel shows [ Jc, 6d ]
+DanTheCruel collected [ $640 ]
+
+
+
+#Game No : 643354645
+***** 888poker Hand History for Game 643354645 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:37:10
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $2,748 )
+Seat 2: cloud2630 ( $2,440 )
+Seat 4: PapaShango19 ( $2,075 )
+Seat 6: poribeiro ( $2,320 )
+Seat 7: kulibinn ( $2,200 )
+Seat 9: DanTheCruel ( $3,279 )
+DanTheCruel posts small blind [$10]
+boszko14 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Qc ]
+cloud2630 folds
+PapaShango19 folds
+poribeiro folds
+kulibinn calls [$20]
+DanTheCruel raises [$50]
+boszko14 calls [$40]
+kulibinn calls [$40]
+** Dealing flop ** [ 9c, 6d, Ad ]
+DanTheCruel checks
+boszko14 checks
+kulibinn checks
+** Dealing turn ** [ 8h ]
+DanTheCruel checks
+boszko14 bets [$180]
+kulibinn calls [$180]
+DanTheCruel folds
+** Dealing river ** [ 4s ]
+boszko14 bets [$540]
+kulibinn calls [$540]
+** Summary **
+boszko14 shows [ Ac, Qs ]
+kulibinn mucks [ 9h, 7s ]
+boszko14 collected [ $1,620 ]
+
+
+
+#Game No : 643354925
+***** 888poker Hand History for Game 643354925 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:38:01
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $3,588 )
+Seat 2: cloud2630 ( $2,440 )
+Seat 4: PapaShango19 ( $2,075 )
+Seat 6: poribeiro ( $2,320 )
+Seat 7: kulibinn ( $1,420 )
+Seat 9: DanTheCruel ( $3,219 )
+boszko14 posts small blind [$10]
+cloud2630 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 8c ]
+PapaShango19 folds
+poribeiro folds
+kulibinn folds
+DanTheCruel raises [$180]
+boszko14 folds
+cloud2630 folds
+** Summary **
+DanTheCruel did not show his hand
+DanTheCruel collected [ $50 ]
+
+
+
+#Game No : 643355079
+***** 888poker Hand History for Game 643355079 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:38:34
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $3,578 )
+Seat 2: cloud2630 ( $2,420 )
+Seat 4: PapaShango19 ( $2,075 )
+Seat 6: poribeiro ( $2,320 )
+Seat 7: kulibinn ( $1,420 )
+Seat 9: DanTheCruel ( $3,249 )
+cloud2630 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Th ]
+poribeiro folds
+kulibinn folds
+DanTheCruel calls [$20]
+boszko14 raises [$3,578]
+cloud2630 folds
+PapaShango19 folds
+DanTheCruel folds
+** Summary **
+boszko14 did not show his hand
+boszko14 collected [ $70 ]
+
+
+
+#Game No : 643355189
+***** 888poker Hand History for Game 643355189 *****
+$10/$20 Blinds No Limit Holdem - *** 24 11 2014 15:38:58
+Tournament #63760921 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: boszko14 ( $3,628 )
+Seat 2: cloud2630 ( $2,410 )
+Seat 4: PapaShango19 ( $2,055 )
+Seat 6: poribeiro ( $2,320 )
+Seat 7: kulibinn ( $1,420 )
+Seat 9: DanTheCruel ( $3,229 )
+PapaShango19 posts small blind [$10]
+poribeiro posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 3h ]
+kulibinn folds
+DanTheCruel calls [$20]
+boszko14 calls [$20]
+cloud2630 calls [$20]
+PapaShango19 calls [$10]
+poribeiro raises [$20]
+DanTheCruel calls [$20]
+boszko14 calls [$20]
+cloud2630 calls [$20]
+PapaShango19 calls [$20]
+** Dealing flop ** [ Kh, 7c, Th ]
+PapaShango19 checks
+poribeiro checks
+DanTheCruel checks
+boszko14 checks
+cloud2630 bets [$200]
+PapaShango19 folds
+poribeiro folds
+DanTheCruel folds
+boszko14 folds
+** Summary **
+cloud2630 did not show his hand
+cloud2630 collected [ $200 ]
+
+
+
+#Game No : 643355675
+***** 888poker Hand History for Game 643355675 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:40:36
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $2,015 )
+Seat 4: dorutupuiutu ( $2,500 )
+Seat 6: yare111 ( $3,090 )
+Seat 7: thetrust1 ( $2,830 )
+Seat 9: Hotbossie ( $2,160 )
+yare111 posts small blind [$15]
+thetrust1 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2s ]
+Hotbossie folds
+PapaShango19 folds
+dorutupuiutu folds
+yare111 calls [$15]
+thetrust1 checks
+** Dealing flop ** [ 3d, 9d, 9c ]
+yare111 checks
+thetrust1 checks
+** Dealing turn ** [ As ]
+yare111 bets [$60]
+thetrust1 folds
+** Summary **
+yare111 collected [ $60 ]
+
+
+
+#Game No : 643355843
+***** 888poker Hand History for Game 643355843 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:41:10
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,015 )
+Seat 2: 16.16 ( $2,500 )
+Seat 4: dorutupuiutu ( $2,500 )
+Seat 6: yare111 ( $3,120 )
+Seat 7: thetrust1 ( $2,800 )
+Seat 9: Hotbossie ( $2,160 )
+thetrust1 posts small blind [$15]
+Hotbossie posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Td ]
+PapaShango19 folds
+16.16 raises [$60]
+dorutupuiutu calls [$60]
+yare111 folds
+thetrust1 folds
+Hotbossie calls [$30]
+** Dealing flop ** [ 2h, 3d, Ts ]
+Hotbossie checks
+16.16 bets [$97]
+dorutupuiutu raises [$210]
+Hotbossie folds
+16.16 folds
+** Summary **
+dorutupuiutu did not show his hand
+dorutupuiutu collected [ $389 ]
+
+
+
+#Game No : 643356060
+***** 888poker Hand History for Game 643356060 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:41:50
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $2,015 )
+Seat 2: 16.16 ( $2,343 )
+Seat 4: dorutupuiutu ( $2,732 )
+Seat 6: yare111 ( $3,120 )
+Seat 7: thetrust1 ( $2,785 )
+Seat 9: Hotbossie ( $2,100 )
+Hotbossie posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Qc ]
+16.16 folds
+dorutupuiutu folds
+yare111 folds
+thetrust1 folds
+Hotbossie calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ 2s, 9s, Tc ]
+Hotbossie bets [$60]
+PapaShango19 folds
+** Summary **
+Hotbossie did not show his hand
+Hotbossie collected [ $60 ]
+
+
+
+#Game No : 643356269
+***** 888poker Hand History for Game 643356269 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:42:35
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,985 )
+Seat 2: 16.16 ( $2,343 )
+Seat 4: dorutupuiutu ( $2,732 )
+Seat 6: yare111 ( $3,120 )
+Seat 7: thetrust1 ( $2,785 )
+Seat 9: Hotbossie ( $2,130 )
+PapaShango19 posts small blind [$15]
+16.16 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 2s ]
+dorutupuiutu raises [$60]
+yare111 raises [$90]
+thetrust1 folds
+Hotbossie folds
+PapaShango19 folds
+16.16 folds
+dorutupuiutu calls [$30]
+** Dealing flop ** [ Js, Td, 6d ]
+dorutupuiutu checks
+yare111 bets [$225]
+dorutupuiutu raises [$450]
+yare111 calls [$225]
+** Dealing turn ** [ 5d ]
+dorutupuiutu bets [$2,192]
+yare111 folds
+** Summary **
+dorutupuiutu did not show his hand
+dorutupuiutu collected [ $1,125 ]
+
+
+
+#Game No : 643356520
+***** 888poker Hand History for Game 643356520 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:43:24
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,970 )
+Seat 2: 16.16 ( $2,313 )
+Seat 4: dorutupuiutu ( $3,317 )
+Seat 6: yare111 ( $2,580 )
+Seat 7: thetrust1 ( $2,785 )
+Seat 9: Hotbossie ( $2,130 )
+16.16 posts small blind [$15]
+dorutupuiutu posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 9h ]
+yare111 folds
+thetrust1 raises [$60]
+Hotbossie calls [$60]
+PapaShango19 folds
+16.16 folds
+dorutupuiutu folds
+** Dealing flop ** [ Js, 8d, Ks ]
+thetrust1 bets [$30]
+Hotbossie calls [$30]
+** Dealing turn ** [ 8h ]
+thetrust1 bets [$30]
+Hotbossie calls [$30]
+** Dealing river ** [ Qd ]
+thetrust1 bets [$213]
+Hotbossie calls [$213]
+** Summary **
+thetrust1 shows [ Ac, 9c ]
+Hotbossie shows [ 6c, Kd ]
+Hotbossie collected [ $711 ]
+
+
+
+#Game No : 643356678
+***** 888poker Hand History for Game 643356678 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:43:59
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,970 )
+Seat 2: 16.16 ( $2,298 )
+Seat 4: dorutupuiutu ( $3,287 )
+Seat 6: yare111 ( $2,580 )
+Seat 7: thetrust1 ( $2,452 )
+Seat 9: Hotbossie ( $2,508 )
+dorutupuiutu posts small blind [$15]
+yare111 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 4s ]
+thetrust1 calls [$30]
+Hotbossie folds
+PapaShango19 calls [$30]
+16.16 raises [$123]
+dorutupuiutu calls [$108]
+yare111 calls [$93]
+thetrust1 folds
+PapaShango19 folds
+** Dealing flop ** [ 2d, Qh, 8h ]
+dorutupuiutu checks
+yare111 checks
+16.16 bets [$210]
+dorutupuiutu folds
+yare111 folds
+** Summary **
+16.16 did not show his hand
+16.16 collected [ $429 ]
+
+
+
+#Game No : 643356906
+***** 888poker Hand History for Game 643356906 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:44:46
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: PapaShango19 ( $1,940 )
+Seat 2: 16.16 ( $2,604 )
+Seat 4: dorutupuiutu ( $3,164 )
+Seat 6: yare111 ( $2,457 )
+Seat 7: thetrust1 ( $2,422 )
+Seat 9: Hotbossie ( $2,508 )
+yare111 posts small blind [$15]
+thetrust1 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 3s ]
+Hotbossie folds
+PapaShango19 folds
+16.16 folds
+dorutupuiutu raises [$3,164]
+yare111 folds
+thetrust1 calls [$2,392]
+** Dealing flop ** [ Qh, Kd, Td ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 5d ]
+** Summary **
+dorutupuiutu shows [ Jd, Ad ]
+thetrust1 shows [ 2d, 2h ]
+dorutupuiutu collected [ $4,859 ]
+
+
+
+#Game No : 643357065
+***** 888poker Hand History for Game 643357065 *****
+$15/$30 Blinds No Limit Holdem - *** 24 11 2014 15:45:17
+Tournament #63760921 $0.90 + $0.10 - Table #10 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: PapaShango19 ( $1,940 )
+Seat 2: 16.16 ( $2,604 )
+Seat 4: dorutupuiutu ( $5,601 )
+Seat 6: yare111 ( $2,442 )
+Seat 9: Hotbossie ( $2,508 )
+Hotbossie posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 7c ]
+PapaShango19 raises [$90]
+16.16 folds
+dorutupuiutu folds
+yare111 calls [$90]
+Hotbossie calls [$60]
+** Dealing flop ** [ 2d, 5c, 6h ]
+Hotbossie checks
+PapaShango19 bets [$202]
+yare111 calls [$202]
+Hotbossie calls [$202]
+** Dealing turn ** [ Tc ]
+Hotbossie checks
+PapaShango19 bets [$438]
+yare111 calls [$438]
+Hotbossie folds
+** Dealing river ** [ Qs ]
+PapaShango19 checks
+yare111 bets [$1,712]
+PapaShango19 calls [$1,210]
+** Summary **
+PapaShango19 shows [ 7s, 7c ]
+yare111 shows [ Qc, Kc ]
+yare111 collected [ $4,172 ]
+
+
+

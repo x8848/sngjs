@@ -1,0 +1,6574 @@
+#Game No : 652707112
+***** 888poker Hand History for Game 652707112 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 00:45:19
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AO55514 ( $1,500 )
+Seat 2: CJ_9125 ( $1,500 )
+Seat 3: White_Winter ( $1,500 )
+Seat 4: gamleter ( $1,500 )
+Seat 5: 59maverick59 ( $1,500 )
+Seat 6: gwizz1605 ( $1,500 )
+Seat 7: JoseMesquita ( $1,500 )
+Seat 9: PapaShango19 ( $1,500 )
+Seat 10: hamsquad ( $1,500 )
+hamsquad posts small blind [$10]
+AO55514 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 7s ]
+CJ_9125 folds
+White_Winter calls [$20]
+gamleter folds
+59maverick59 folds
+gwizz1605 folds
+JoseMesquita folds
+PapaShango19 folds
+hamsquad folds
+AO55514 checks
+** Dealing flop ** [ As, 6d, Qh ]
+AO55514 bets [$1,480]
+White_Winter folds
+** Summary **
+AO55514 did not show his hand
+AO55514 collected [ $50 ]
+
+
+
+#Game No : 652707524
+***** 888poker Hand History for Game 652707524 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 00:46:12
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AO55514 ( $1,530 )
+Seat 2: CJ_9125 ( $1,500 )
+Seat 3: White_Winter ( $1,480 )
+Seat 4: gamleter ( $1,500 )
+Seat 5: 59maverick59 ( $1,500 )
+Seat 6: gwizz1605 ( $4,500 )
+Seat 7: JoseMesquita ( $1,500 )
+Seat 9: PapaShango19 ( $1,500 )
+Seat 10: hamsquad ( $1,490 )
+AO55514 posts small blind [$10]
+CJ_9125 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 6h ]
+White_Winter folds
+gamleter folds
+59maverick59 folds
+gwizz1605 folds
+JoseMesquita calls [$20]
+PapaShango19 folds
+hamsquad folds
+AO55514 calls [$10]
+CJ_9125 raises [$45]
+JoseMesquita calls [$45]
+AO55514 folds
+** Dealing flop ** [ 2d, Td, 9s ]
+CJ_9125 bets [$75]
+JoseMesquita calls [$75]
+** Dealing turn ** [ 9h ]
+CJ_9125 checks
+JoseMesquita checks
+** Dealing river ** [ 8c ]
+CJ_9125 checks
+JoseMesquita checks
+** Summary **
+CJ_9125 shows [ Jh, Ac ]
+JoseMesquita shows [ Ad, Qc ]
+JoseMesquita collected [ $300 ]
+
+
+
+#Game No : 652708001
+***** 888poker Hand History for Game 652708001 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 00:47:21
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: CJ_9125 ( $1,360 )
+Seat 3: White_Winter ( $1,480 )
+Seat 4: gamleter ( $1,500 )
+Seat 5: 59maverick59 ( $1,500 )
+Seat 6: RZMO212 ( $1,500 )
+Seat 7: JoseMesquita ( $1,660 )
+Seat 9: PapaShango19 ( $1,500 )
+Seat 10: hamsquad ( $1,490 )
+CJ_9125 posts small blind [$10]
+White_Winter posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, Jh ]
+gamleter folds
+59maverick59 calls [$20]
+RZMO212 folds
+JoseMesquita folds
+PapaShango19 folds
+hamsquad folds
+CJ_9125 folds
+White_Winter checks
+** Dealing flop ** [ Tc, 2d, 2h ]
+White_Winter bets [$20]
+59maverick59 raises [$40]
+White_Winter calls [$20]
+** Dealing turn ** [ 2c ]
+White_Winter bets [$65]
+59maverick59 calls [$65]
+** Dealing river ** [ Ah ]
+White_Winter checks
+59maverick59 checks
+** Summary **
+White_Winter shows [ Qc, 5s ]
+59maverick59 shows [ 4h, 4c ]
+59maverick59 collected [ $260 ]
+
+
+
+#Game No : 652708336
+***** 888poker Hand History for Game 652708336 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 00:48:12
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: doum616 ( $1,500 )
+Seat 2: CJ_9125 ( $1,350 )
+Seat 3: White_Winter ( $1,355 )
+Seat 4: gamleter ( $1,500 )
+Seat 5: 59maverick59 ( $1,635 )
+Seat 6: RZMO212 ( $1,500 )
+Seat 7: JoseMesquita ( $1,660 )
+Seat 9: PapaShango19 ( $1,500 )
+Seat 10: hamsquad ( $1,490 )
+White_Winter posts small blind [$10]
+gamleter posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Qh ]
+59maverick59 raises [$52]
+RZMO212 folds
+JoseMesquita folds
+PapaShango19 folds
+hamsquad folds
+doum616 calls [$52]
+CJ_9125 folds
+White_Winter calls [$42]
+gamleter folds
+** Dealing flop ** [ 6c, Js, 8c ]
+White_Winter checks
+59maverick59 bets [$88]
+doum616 calls [$88]
+White_Winter folds
+** Dealing turn ** [ 3c ]
+59maverick59 bets [$176]
+doum616 folds
+** Summary **
+59maverick59 did not show his hand
+59maverick59 collected [ $352 ]
+
+
+
+#Game No : 652708700
+***** 888poker Hand History for Game 652708700 *****
+$10/$20 Blinds No Limit Holdem - *** 16 12 2014 00:49:09
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: doum616 ( $1,360 )
+Seat 2: CJ_9125 ( $1,350 )
+Seat 3: White_Winter ( $1,303 )
+Seat 4: gamleter ( $1,480 )
+Seat 5: 59maverick59 ( $1,847 )
+Seat 6: RZMO212 ( $1,500 )
+Seat 7: JoseMesquita ( $1,660 )
+Seat 9: PapaShango19 ( $1,500 )
+Seat 10: hamsquad ( $1,490 )
+gamleter posts small blind [$10]
+59maverick59 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3h ]
+RZMO212 calls [$20]
+JoseMesquita calls [$20]
+PapaShango19 folds
+hamsquad folds
+doum616 folds
+CJ_9125 folds
+White_Winter calls [$20]
+gamleter folds
+59maverick59 checks
+** Dealing flop ** [ Jd, 3s, 9c ]
+59maverick59 checks
+RZMO212 checks
+JoseMesquita checks
+White_Winter checks
+** Dealing turn ** [ Kc ]
+59maverick59 bets [$67]
+RZMO212 folds
+JoseMesquita calls [$67]
+White_Winter folds
+** Dealing river ** [ 2h ]
+59maverick59 checks
+JoseMesquita bets [$160]
+59maverick59 folds
+** Summary **
+JoseMesquita did not show his hand
+JoseMesquita collected [ $224 ]
+
+
+
+#Game No : 652709160
+***** 888poker Hand History for Game 652709160 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 00:50:26
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: doum616 ( $1,360 )
+Seat 2: CJ_9125 ( $1,350 )
+Seat 4: gamleter ( $1,470 )
+Seat 5: 59maverick59 ( $1,760 )
+Seat 6: RZMO212 ( $1,480 )
+Seat 7: JoseMesquita ( $1,797 )
+Seat 9: PapaShango19 ( $1,500 )
+Seat 10: hamsquad ( $1,490 )
+59maverick59 posts small blind [$15]
+RZMO212 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2s ]
+JoseMesquita folds
+PapaShango19 folds
+hamsquad folds
+doum616 calls [$30]
+CJ_9125 folds
+gamleter folds
+59maverick59 folds
+RZMO212 checks
+** Dealing flop ** [ 8d, 2c, 2h ]
+RZMO212 checks
+doum616 checks
+** Dealing turn ** [ 6s ]
+RZMO212 checks
+doum616 checks
+** Dealing river ** [ As ]
+RZMO212 checks
+doum616 checks
+** Summary **
+RZMO212 shows [ Ts, 3s ]
+doum616 shows [ 4h, Jh ]
+doum616 collected [ $75 ]
+
+
+
+#Game No : 652709493
+***** 888poker Hand History for Game 652709493 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 00:51:29
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: doum616 ( $1,405 )
+Seat 2: CJ_9125 ( $1,350 )
+Seat 3: khoward74 ( $1,500 )
+Seat 4: gamleter ( $1,470 )
+Seat 5: 59maverick59 ( $1,745 )
+Seat 6: RZMO212 ( $1,450 )
+Seat 7: JoseMesquita ( $1,797 )
+Seat 9: PapaShango19 ( $1,500 )
+Seat 10: hamsquad ( $1,490 )
+RZMO212 posts small blind [$15]
+JoseMesquita posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 3s ]
+PapaShango19 calls [$30]
+hamsquad folds
+doum616 calls [$30]
+CJ_9125 folds
+khoward74 calls [$30]
+gamleter folds
+59maverick59 raises [$97]
+RZMO212 folds
+JoseMesquita calls [$67]
+PapaShango19 calls [$67]
+doum616 calls [$67]
+khoward74 calls [$67]
+** Dealing flop ** [ 7s, 8s, Td ]
+JoseMesquita checks
+PapaShango19 checks
+doum616 bets [$30]
+khoward74 folds
+59maverick59 raises [$590]
+JoseMesquita folds
+PapaShango19 folds
+doum616 calls [$560]
+** Dealing turn ** [ 8d ]
+doum616 checks
+59maverick59 bets [$1,058]
+doum616 calls [$718]
+** Dealing river ** [ 6s ]
+** Summary **
+doum616 shows [ Kc, Jh ]
+59maverick59 shows [ Tc, Ad ]
+59maverick59 collected [ $3,116 ]
+
+
+
+#Game No : 652710066
+***** 888poker Hand History for Game 652710066 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 00:53:12
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: doum616 ( $1,500 )
+Seat 2: CJ_9125 ( $1,350 )
+Seat 3: khoward74 ( $1,403 )
+Seat 4: gamleter ( $1,470 )
+Seat 5: 59maverick59 ( $3,456 )
+Seat 6: RZMO212 ( $1,435 )
+Seat 7: JoseMesquita ( $1,700 )
+Seat 9: PapaShango19 ( $1,403 )
+Seat 10: samuelborges ( $1,500 )
+JoseMesquita posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Qs ]
+samuelborges calls [$30]
+doum616 folds
+CJ_9125 folds
+khoward74 calls [$30]
+gamleter folds
+59maverick59 raises [$82]
+RZMO212 calls [$82]
+JoseMesquita folds
+PapaShango19 folds
+samuelborges calls [$52]
+khoward74 calls [$52]
+** Dealing flop ** [ 9s, Td, 4c ]
+samuelborges checks
+khoward74 checks
+59maverick59 bets [$279]
+RZMO212 folds
+samuelborges folds
+khoward74 folds
+** Summary **
+59maverick59 did not show his hand
+59maverick59 collected [ $373 ]
+
+
+
+#Game No : 652710359
+***** 888poker Hand History for Game 652710359 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 00:54:08
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: doum616 ( $1,500 )
+Seat 2: CJ_9125 ( $1,350 )
+Seat 3: khoward74 ( $1,321 )
+Seat 4: gamleter ( $1,470 )
+Seat 5: 59maverick59 ( $3,747 )
+Seat 6: RZMO212 ( $1,353 )
+Seat 7: JoseMesquita ( $1,685 )
+Seat 9: PapaShango19 ( $1,373 )
+Seat 10: samuelborges ( $1,418 )
+PapaShango19 posts small blind [$15]
+samuelborges posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Kh ]
+doum616 folds
+CJ_9125 folds
+khoward74 folds
+gamleter folds
+59maverick59 folds
+RZMO212 folds
+JoseMesquita folds
+PapaShango19 calls [$15]
+samuelborges raises [$30]
+PapaShango19 calls [$30]
+** Dealing flop ** [ 5h, 5c, 9s ]
+PapaShango19 checks
+samuelborges bets [$30]
+PapaShango19 folds
+** Summary **
+samuelborges did not show his hand
+samuelborges collected [ $120 ]
+
+
+
+#Game No : 652710573
+***** 888poker Hand History for Game 652710573 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 00:54:46
+Tournament #64395628 $0.90 + $0.09 - Table #6 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: doum616 ( $1,500 )
+Seat 2: CJ_9125 ( $1,350 )
+Seat 3: khoward74 ( $1,321 )
+Seat 4: gamleter ( $1,470 )
+Seat 5: 59maverick59 ( $3,747 )
+Seat 6: RZMO212 ( $1,353 )
+Seat 7: JoseMesquita ( $1,685 )
+Seat 9: PapaShango19 ( $1,313 )
+Seat 10: samuelborges ( $1,478 )
+samuelborges posts small blind [$15]
+doum616 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Kc ]
+CJ_9125 folds
+khoward74 calls [$30]
+gamleter folds
+59maverick59 folds
+RZMO212 folds
+JoseMesquita folds
+PapaShango19 folds
+samuelborges folds
+doum616 checks
+** Dealing flop ** [ 3s, Td, 4d ]
+doum616 checks
+khoward74 checks
+** Dealing turn ** [ Qc ]
+doum616 checks
+khoward74 checks
+** Dealing river ** [ 9c ]
+doum616 checks
+khoward74 checks
+** Summary **
+doum616 shows [ 8s, Ad ]
+khoward74 mucks [ 6d, Ac ]
+doum616 collected [ $75 ]
+
+
+
+#Game No : 652711817
+***** 888poker Hand History for Game 652711817 *****
+$15/$30 Blinds No Limit Holdem - *** 16 12 2014 01:00:06
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $1,250 )
+Seat 3: HotFlush69 ( $1,500 )
+Seat 4: Berdni ( $930 )
+Seat 5: riffela ( $7,790 )
+Seat 6: Dominik222 ( $3,507 )
+Seat 7: PapaShango19 ( $1,313 )
+Seat 9: Ralhec ( $4,499 )
+Seat 10: Justin2277 ( $1,500 )
+Pokerbitch59 posts small blind [$15]
+HotFlush69 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Jd ]
+Berdni folds
+riffela raises [$60]
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$60]
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+HotFlush69 calls [$30]
+** Dealing flop ** [ 2d, 9s, 7h ]
+HotFlush69 checks
+riffela checks
+Ralhec checks
+** Dealing turn ** [ 9d ]
+HotFlush69 checks
+riffela bets [$146]
+Ralhec calls [$146]
+HotFlush69 folds
+** Dealing river ** [ Qs ]
+riffela bets [$243]
+Ralhec raises [$1,020]
+riffela folds
+** Summary **
+Ralhec did not show his hand
+Ralhec collected [ $973 ]
+
+
+
+#Game No : 652712648
+***** 888poker Hand History for Game 652712648 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:03:12
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,440 )
+Seat 4: Berdni ( $930 )
+Seat 5: riffela ( $7,341 )
+Seat 6: Dominik222 ( $3,507 )
+Seat 7: PapaShango19 ( $1,313 )
+Seat 9: Ralhec ( $5,023 )
+Seat 10: Justin2277 ( $1,500 )
+HotFlush69 posts small blind [$25]
+Berdni posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 6s ]
+riffela folds
+Dominik222 raises [$100]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+HotFlush69 folds
+Berdni calls [$50]
+** Dealing flop ** [ 6h, 3c, 4h ]
+Berdni checks
+Dominik222 bets [$112]
+Berdni folds
+** Summary **
+Dominik222 did not show his hand
+Dominik222 collected [ $225 ]
+
+
+
+#Game No : 652712885
+***** 888poker Hand History for Game 652712885 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:03:56
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,415 )
+Seat 4: Berdni ( $830 )
+Seat 5: riffela ( $7,341 )
+Seat 6: Dominik222 ( $3,632 )
+Seat 7: PapaShango19 ( $1,313 )
+Seat 9: Ralhec ( $5,023 )
+Seat 10: Justin2277 ( $1,500 )
+Berdni posts small blind [$25]
+riffela posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 7s ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$50]
+Justin2277 raises [$1,500]
+grillilo calls [$1,500]
+Pokerbitch59 folds
+HotFlush69 folds
+Berdni folds
+riffela raises [$7,291]
+Ralhec folds
+** Dealing flop ** [ Th, 3s, Tc ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 8s ]
+** Summary **
+grillilo shows [ Qd, Td ]
+riffela shows [ Jd, Ad ]
+Justin2277 shows [ Ks, As ]
+grillilo collected [ $4,575 ]
+
+
+
+#Game No : 652713128
+***** 888poker Hand History for Game 652713128 *****
+$25/$50 Blinds No Limit Holdem - *** 16 12 2014 01:04:44
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: grillilo ( $4,575 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,415 )
+Seat 4: Berdni ( $805 )
+Seat 5: riffela ( $5,841 )
+Seat 6: Dominik222 ( $3,632 )
+Seat 7: PapaShango19 ( $1,313 )
+Seat 9: Ralhec ( $4,973 )
+Seat 10: Justin2277 ( $1,500 )
+riffela posts small blind [$25]
+Dominik222 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2c ]
+PapaShango19 folds
+Ralhec folds
+Justin2277 calls [$50]
+grillilo folds
+Pokerbitch59 folds
+HotFlush69 calls [$50]
+Berdni raises [$256]
+riffela folds
+Dominik222 raises [$421]
+Justin2277 raises [$1,450]
+HotFlush69 folds
+Berdni calls [$549]
+Dominik222 calls [$1,029]
+** Dealing flop ** [ 7h, 4c, 3d ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ Kd ]
+** Summary **
+Berdni shows [ Ah, 5s ]
+Dominik222 shows [ As, Jd ]
+Justin2277 shows [ Ac, 4s ]
+Justin2277 collected [ $2,490 ]
+Justin2277 collected [ $1,390 ]
+
+
+
+#Game No : 652713562
+***** 888poker Hand History for Game 652713562 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:06:11
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: grillilo ( $4,575 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,365 )
+Seat 4: cudla1 ( $1,500 )
+Seat 5: riffela ( $5,816 )
+Seat 6: Dominik222 ( $3,632 )
+Seat 7: PapaShango19 ( $1,313 )
+Seat 9: Ralhec ( $4,973 )
+Seat 10: Justin2277 ( $3,880 )
+Dominik222 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 5s ]
+Ralhec calls [$100]
+Justin2277 folds
+grillilo calls [$100]
+Pokerbitch59 folds
+HotFlush69 folds
+cudla1 raises [$1,500]
+riffela folds
+Dominik222 calls [$1,450]
+PapaShango19 folds
+Ralhec folds
+grillilo folds
+** Dealing flop ** [ 7h, Js, 3h ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ Qc ]
+** Summary **
+cudla1 shows [ 9d, 9s ]
+Dominik222 shows [ Ac, 9c ]
+cudla1 collected [ $3,300 ]
+
+
+
+#Game No : 652713771
+***** 888poker Hand History for Game 652713771 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:06:49
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: grillilo ( $4,475 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,365 )
+Seat 4: cudla1 ( $3,300 )
+Seat 5: riffela ( $5,816 )
+Seat 6: Dominik222 ( $3,632 )
+Seat 7: PapaShango19 ( $1,213 )
+Seat 9: Ralhec ( $4,873 )
+Seat 10: Justin2277 ( $3,880 )
+PapaShango19 posts small blind [$50]
+Ralhec posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 4d ]
+Justin2277 folds
+grillilo calls [$100]
+Pokerbitch59 folds
+HotFlush69 folds
+cudla1 folds
+riffela folds
+Dominik222 raises [$225]
+PapaShango19 calls [$175]
+Ralhec folds
+grillilo calls [$125]
+** Dealing flop ** [ Ah, Qh, 7d ]
+PapaShango19 checks
+grillilo bets [$775]
+Dominik222 calls [$775]
+PapaShango19 folds
+** Dealing turn ** [ 3s ]
+grillilo bets [$100]
+Dominik222 calls [$100]
+** Dealing river ** [ 9h ]
+grillilo bets [$100]
+Dominik222 raises [$1,012]
+grillilo calls [$912]
+** Summary **
+Dominik222 shows [ Th, Js ]
+grillilo shows [ Ad, 5d ]
+grillilo collected [ $4,549 ]
+
+
+
+#Game No : 652714173
+***** 888poker Hand History for Game 652714173 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:08:16
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: grillilo ( $6,912 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,365 )
+Seat 4: cudla1 ( $3,300 )
+Seat 5: riffela ( $5,816 )
+Seat 6: Dominik222 ( $1,520 )
+Seat 7: PapaShango19 ( $2,488 )
+Seat 9: Ralhec ( $4,773 )
+Seat 10: Justin2277 ( $3,880 )
+Ralhec posts small blind [$50]
+Justin2277 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 8c ]
+grillilo folds
+Pokerbitch59 folds
+HotFlush69 folds
+cudla1 folds
+riffela folds
+Dominik222 raises [$200]
+PapaShango19 folds
+Ralhec calls [$150]
+Justin2277 calls [$100]
+** Dealing flop ** [ Th, Td, 3c ]
+Ralhec bets [$500]
+Justin2277 folds
+Dominik222 folds
+** Summary **
+Ralhec did not show his hand
+Ralhec collected [ $600 ]
+
+
+
+#Game No : 652714394
+***** 888poker Hand History for Game 652714394 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:09:00
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: grillilo ( $6,912 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,365 )
+Seat 4: cudla1 ( $3,300 )
+Seat 5: riffela ( $5,816 )
+Seat 6: Dominik222 ( $4,320 )
+Seat 7: PapaShango19 ( $2,488 )
+Seat 9: Ralhec ( $5,173 )
+Seat 10: Justin2277 ( $3,680 )
+Justin2277 posts small blind [$50]
+grillilo posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 2s ]
+Pokerbitch59 folds
+HotFlush69 folds
+cudla1 raises [$3,300]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo folds
+** Summary **
+cudla1 did not show his hand
+cudla1 collected [ $250 ]
+
+
+
+#Game No : 652714529
+***** 888poker Hand History for Game 652714529 *****
+$50/$100 Blinds No Limit Holdem - *** 16 12 2014 01:09:30
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: grillilo ( $6,812 )
+Seat 2: Pokerbitch59 ( $1,235 )
+Seat 3: HotFlush69 ( $1,365 )
+Seat 4: cudla1 ( $3,450 )
+Seat 5: riffela ( $5,816 )
+Seat 6: Dominik222 ( $4,320 )
+Seat 7: PapaShango19 ( $2,488 )
+Seat 9: Ralhec ( $5,173 )
+Seat 10: Justin2277 ( $3,630 )
+grillilo posts small blind [$50]
+Pokerbitch59 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 7c ]
+HotFlush69 raises [$400]
+cudla1 raises [$3,450]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+HotFlush69 calls [$965]
+** Dealing flop ** [ Ac, Tc, 3s ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ Jd ]
+** Summary **
+HotFlush69 shows [ Kc, Ks ]
+cudla1 shows [ 8s, As ]
+cudla1 collected [ $2,880 ]
+
+
+
+#Game No : 652714737
+***** 888poker Hand History for Game 652714737 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 01:10:16
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: grillilo ( $6,762 )
+Seat 2: Pokerbitch59 ( $1,135 )
+Seat 4: cudla1 ( $4,965 )
+Seat 5: riffela ( $5,816 )
+Seat 6: Dominik222 ( $4,320 )
+Seat 7: PapaShango19 ( $2,488 )
+Seat 9: Ralhec ( $5,173 )
+Seat 10: Justin2277 ( $3,630 )
+Pokerbitch59 posts small blind [$75]
+cudla1 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Jc ]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$150]
+Justin2277 raises [$675]
+grillilo folds
+Pokerbitch59 folds
+cudla1 folds
+Ralhec calls [$525]
+** Dealing flop ** [ 9d, Ah, 7c ]
+Ralhec checks
+Justin2277 bets [$787]
+Ralhec raises [$1,574]
+Justin2277 folds
+** Summary **
+Ralhec collected [ $3,149 ]
+
+
+
+#Game No : 652714948
+***** 888poker Hand History for Game 652714948 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 01:11:07
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: grillilo ( $6,762 )
+Seat 2: Pokerbitch59 ( $1,060 )
+Seat 4: cudla1 ( $4,815 )
+Seat 5: riffela ( $5,816 )
+Seat 6: Dominik222 ( $4,320 )
+Seat 7: PapaShango19 ( $2,488 )
+Seat 9: Ralhec ( $6,860 )
+Seat 10: Justin2277 ( $2,168 )
+cudla1 posts small blind [$75]
+riffela posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 7d ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$150]
+Justin2277 calls [$150]
+grillilo calls [$150]
+Pokerbitch59 folds
+cudla1 folds
+riffela checks
+** Dealing flop ** [ 6d, Ts, Qh ]
+riffela checks
+Ralhec checks
+Justin2277 checks
+grillilo checks
+** Dealing turn ** [ 8s ]
+riffela bets [$506]
+Ralhec calls [$506]
+Justin2277 calls [$506]
+grillilo calls [$506]
+** Dealing river ** [ Ac ]
+riffela bets [$150]
+Ralhec raises [$450]
+Justin2277 folds
+grillilo calls [$450]
+riffela calls [$300]
+** Summary **
+Ralhec shows [ 9s, 8d ]
+grillilo shows [ Jh, As ]
+riffela shows [ Tc, Qs ]
+riffela collected [ $4,049 ]
+
+
+
+#Game No : 652715221
+***** 888poker Hand History for Game 652715221 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 01:12:17
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: grillilo ( $5,656 )
+Seat 2: Pokerbitch59 ( $1,060 )
+Seat 3: bigfox26 ( $3,000 )
+Seat 4: cudla1 ( $4,740 )
+Seat 5: riffela ( $8,759 )
+Seat 6: Dominik222 ( $4,320 )
+Seat 7: PapaShango19 ( $2,488 )
+Seat 9: Ralhec ( $5,754 )
+Seat 10: Justin2277 ( $1,512 )
+riffela posts small blind [$75]
+Dominik222 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Td ]
+PapaShango19 folds
+Ralhec folds
+Justin2277 raises [$1,512]
+grillilo folds
+Pokerbitch59 folds
+bigfox26 calls [$1,512]
+cudla1 folds
+riffela folds
+Dominik222 folds
+** Dealing flop ** [ 6h, Tc, 6s ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ 7c ]
+** Summary **
+bigfox26 shows [ 3h, As ]
+Justin2277 shows [ Qc, Kh ]
+bigfox26 collected [ $3,249 ]
+
+
+
+#Game No : 652715423
+***** 888poker Hand History for Game 652715423 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 01:12:59
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: grillilo ( $5,656 )
+Seat 2: Pokerbitch59 ( $1,060 )
+Seat 3: bigfox26 ( $4,737 )
+Seat 4: cudla1 ( $4,740 )
+Seat 5: riffela ( $8,684 )
+Seat 6: Dominik222 ( $4,170 )
+Seat 7: PapaShango19 ( $2,488 )
+Seat 9: Ralhec ( $5,754 )
+Seat 10: Justin2277 ( $1,500 )
+Dominik222 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 6h ]
+Ralhec folds
+Justin2277 raises [$1,500]
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 raises [$4,740]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+** Dealing flop ** [ 2c, 7d, 8s ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ Ks ]
+** Summary **
+cudla1 shows [ Kc, Ah ]
+Justin2277 shows [ Jh, Td ]
+cudla1 collected [ $3,225 ]
+
+
+
+#Game No : 652715615
+***** 888poker Hand History for Game 652715615 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 01:13:40
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: grillilo ( $5,656 )
+Seat 2: Pokerbitch59 ( $1,060 )
+Seat 3: bigfox26 ( $4,737 )
+Seat 4: cudla1 ( $6,465 )
+Seat 5: riffela ( $8,684 )
+Seat 6: Dominik222 ( $4,095 )
+Seat 7: PapaShango19 ( $2,338 )
+Seat 9: Ralhec ( $5,754 )
+Seat 10: Justin2277 ( $1,500 )
+PapaShango19 posts small blind [$75]
+Ralhec posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 6h ]
+Justin2277 folds
+grillilo raises [$300]
+Pokerbitch59 folds
+bigfox26 raises [$4,737]
+cudla1 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+grillilo calls [$4,437]
+** Dealing flop ** [ 2s, 9s, Jd ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 7d ]
+** Summary **
+grillilo shows [ Kd, Ah ]
+bigfox26 shows [ Ks, As ]
+bigfox26 collected [ $9,699 ]
+
+
+
+#Game No : 652715806
+***** 888poker Hand History for Game 652715806 *****
+$75/$150 Blinds No Limit Holdem - *** 16 12 2014 01:14:24
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: grillilo ( $919 )
+Seat 2: Pokerbitch59 ( $1,060 )
+Seat 3: bigfox26 ( $9,699 )
+Seat 4: cudla1 ( $6,465 )
+Seat 5: riffela ( $8,684 )
+Seat 6: Dominik222 ( $4,095 )
+Seat 7: PapaShango19 ( $2,263 )
+Seat 9: Ralhec ( $5,604 )
+Seat 10: Justin2277 ( $1,500 )
+Ralhec posts small blind [$75]
+Justin2277 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 3h ]
+grillilo raises [$919]
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela folds
+Dominik222 calls [$919]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+** Dealing flop ** [ Ks, 6c, Js ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Th ]
+** Summary **
+grillilo shows [ 8s, 9s ]
+Dominik222 shows [ Tc, Ah ]
+Dominik222 collected [ $2,063 ]
+
+
+
+#Game No : 652716078
+***** 888poker Hand History for Game 652716078 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 01:15:25
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $1,060 )
+Seat 3: bigfox26 ( $9,699 )
+Seat 4: cudla1 ( $6,465 )
+Seat 5: riffela ( $8,684 )
+Seat 6: Dominik222 ( $5,239 )
+Seat 7: PapaShango19 ( $2,263 )
+Seat 9: Ralhec ( $5,529 )
+Seat 10: Justin2277 ( $1,350 )
+grillilo posts ante [$20]
+Pokerbitch59 posts ante [$20]
+riffela posts ante [$20]
+Dominik222 posts ante [$20]
+PapaShango19 posts ante [$20]
+Ralhec posts ante [$20]
+Justin2277 posts ante [$20]
+cudla1 posts ante [$20]
+bigfox26 posts ante [$20]
+Justin2277 posts small blind [$100]
+grillilo posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Qc ]
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela folds
+Dominik222 raises [$400]
+PapaShango19 folds
+Ralhec calls [$400]
+Justin2277 folds
+grillilo calls [$200]
+** Dealing flop ** [ 6c, Jh, 4h ]
+grillilo checks
+Dominik222 bets [$800]
+Ralhec folds
+grillilo folds
+** Summary **
+Dominik222 did not show his hand
+Dominik222 collected [ $1,480 ]
+
+
+
+#Game No : 652716365
+***** 888poker Hand History for Game 652716365 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 01:16:29
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,080 )
+Seat 2: Pokerbitch59 ( $1,040 )
+Seat 3: bigfox26 ( $9,679 )
+Seat 4: cudla1 ( $6,445 )
+Seat 5: riffela ( $8,664 )
+Seat 6: Dominik222 ( $6,299 )
+Seat 7: PapaShango19 ( $2,243 )
+Seat 9: Ralhec ( $5,109 )
+Seat 10: Justin2277 ( $2,730 )
+grillilo posts ante [$20]
+Pokerbitch59 posts ante [$20]
+riffela posts ante [$20]
+Dominik222 posts ante [$20]
+PapaShango19 posts ante [$20]
+Ralhec posts ante [$20]
+Justin2277 posts ante [$20]
+cudla1 posts ante [$20]
+bigfox26 posts ante [$20]
+grillilo posts small blind [$100]
+Pokerbitch59 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 5c ]
+bigfox26 folds
+cudla1 folds
+riffela raises [$400]
+Dominik222 calls [$400]
+PapaShango19 folds
+Ralhec calls [$400]
+Justin2277 folds
+grillilo calls [$300]
+Pokerbitch59 folds
+** Dealing flop ** [ Tc, 8d, 6s ]
+grillilo checks
+riffela checks
+Dominik222 bets [$990]
+Ralhec calls [$990]
+grillilo folds
+riffela folds
+** Dealing turn ** [ Jh ]
+Dominik222 bets [$1,980]
+Ralhec raises [$3,699]
+Dominik222 calls [$1,719]
+** Dealing river ** [ Qc ]
+** Summary **
+Dominik222 shows [ Jc, Td ]
+Ralhec shows [ 9d, As ]
+Ralhec collected [ $11,358 ]
+
+
+
+#Game No : 652716757
+***** 888poker Hand History for Game 652716757 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 01:17:54
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: grillilo ( $660 )
+Seat 2: Pokerbitch59 ( $820 )
+Seat 3: bigfox26 ( $9,659 )
+Seat 4: cudla1 ( $6,425 )
+Seat 5: riffela ( $8,244 )
+Seat 6: Dominik222 ( $4,190 )
+Seat 7: PapaShango19 ( $2,223 )
+Seat 9: Ralhec ( $11,358 )
+Seat 10: Justin2277 ( $2,710 )
+grillilo posts ante [$20]
+Pokerbitch59 posts ante [$20]
+riffela posts ante [$20]
+Dominik222 posts ante [$20]
+PapaShango19 posts ante [$20]
+Ralhec posts ante [$20]
+Justin2277 posts ante [$20]
+cudla1 posts ante [$20]
+bigfox26 posts ante [$20]
+Pokerbitch59 posts small blind [$100]
+bigfox26 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2c ]
+cudla1 folds
+riffela folds
+Dominik222 raises [$440]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+** Summary **
+Dominik222 did not show his hand
+Dominik222 collected [ $680 ]
+
+
+
+#Game No : 652717024
+***** 888poker Hand History for Game 652717024 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 01:18:54
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: grillilo ( $640 )
+Seat 2: Pokerbitch59 ( $700 )
+Seat 3: bigfox26 ( $9,439 )
+Seat 4: cudla1 ( $6,405 )
+Seat 5: riffela ( $8,224 )
+Seat 6: Dominik222 ( $4,650 )
+Seat 7: PapaShango19 ( $2,203 )
+Seat 9: Ralhec ( $11,338 )
+Seat 10: Justin2277 ( $2,690 )
+grillilo posts ante [$20]
+Pokerbitch59 posts ante [$20]
+riffela posts ante [$20]
+Dominik222 posts ante [$20]
+PapaShango19 posts ante [$20]
+Ralhec posts ante [$20]
+Justin2277 posts ante [$20]
+cudla1 posts ante [$20]
+bigfox26 posts ante [$20]
+bigfox26 posts small blind [$100]
+cudla1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 9c ]
+riffela raises [$400]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 calls [$200]
+** Dealing flop ** [ Jc, 6d, 8s ]
+cudla1 checks
+riffela bets [$810]
+cudla1 folds
+** Summary **
+riffela did not show his hand
+riffela collected [ $1,080 ]
+
+
+
+#Game No : 652717149
+***** 888poker Hand History for Game 652717149 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 01:19:24
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: grillilo ( $620 )
+Seat 2: Pokerbitch59 ( $680 )
+Seat 3: bigfox26 ( $9,319 )
+Seat 4: cudla1 ( $5,985 )
+Seat 5: riffela ( $8,884 )
+Seat 6: Dominik222 ( $4,630 )
+Seat 7: PapaShango19 ( $2,183 )
+Seat 9: Ralhec ( $11,318 )
+Seat 10: Justin2277 ( $2,670 )
+grillilo posts ante [$20]
+Pokerbitch59 posts ante [$20]
+riffela posts ante [$20]
+Dominik222 posts ante [$20]
+PapaShango19 posts ante [$20]
+Ralhec posts ante [$20]
+Justin2277 posts ante [$20]
+cudla1 posts ante [$20]
+bigfox26 posts ante [$20]
+cudla1 posts small blind [$100]
+riffela posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 3h ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 raises [$2,650]
+grillilo calls [$600]
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela folds
+** Dealing flop ** [ Qh, 6c, 2h ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 8c ]
+** Summary **
+grillilo shows [ Ac, Ad ]
+Justin2277 shows [ 9d, 9s ]
+grillilo collected [ $1,680 ]
+
+
+
+#Game No : 652717341
+***** 888poker Hand History for Game 652717341 *****
+$100/$200 Blinds No Limit Holdem - *** 16 12 2014 01:20:07
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,680 )
+Seat 2: Pokerbitch59 ( $660 )
+Seat 3: bigfox26 ( $9,299 )
+Seat 4: cudla1 ( $5,865 )
+Seat 5: riffela ( $8,664 )
+Seat 6: Dominik222 ( $4,610 )
+Seat 7: PapaShango19 ( $2,163 )
+Seat 9: Ralhec ( $11,298 )
+Seat 10: Justin2277 ( $2,050 )
+grillilo posts ante [$20]
+Pokerbitch59 posts ante [$20]
+riffela posts ante [$20]
+Dominik222 posts ante [$20]
+PapaShango19 posts ante [$20]
+Ralhec posts ante [$20]
+Justin2277 posts ante [$20]
+cudla1 posts ante [$20]
+bigfox26 posts ante [$20]
+riffela posts small blind [$100]
+Dominik222 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 2d ]
+PapaShango19 folds
+Ralhec calls [$200]
+Justin2277 calls [$200]
+grillilo calls [$200]
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela folds
+Dominik222 raises [$600]
+Ralhec calls [$600]
+Justin2277 raises [$1,830]
+grillilo folds
+Dominik222 calls [$1,230]
+Ralhec folds
+** Dealing flop ** [ 9s, 4c, 3h ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Ts ]
+** Summary **
+Dominik222 shows [ Ks, Qc ]
+Justin2277 shows [ Jh, 7h ]
+Justin2277 collected [ $5,340 ]
+
+
+
+#Game No : 652717636
+***** 888poker Hand History for Game 652717636 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 01:21:09
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,460 )
+Seat 2: Pokerbitch59 ( $640 )
+Seat 3: bigfox26 ( $9,279 )
+Seat 4: cudla1 ( $5,845 )
+Seat 5: riffela ( $8,544 )
+Seat 6: Dominik222 ( $4,060 )
+Seat 7: PapaShango19 ( $2,143 )
+Seat 9: Ralhec ( $10,478 )
+Seat 10: Justin2277 ( $5,340 )
+grillilo posts ante [$25]
+Pokerbitch59 posts ante [$25]
+riffela posts ante [$25]
+Dominik222 posts ante [$25]
+PapaShango19 posts ante [$25]
+Ralhec posts ante [$25]
+Justin2277 posts ante [$25]
+cudla1 posts ante [$25]
+bigfox26 posts ante [$25]
+Dominik222 posts small blind [$125]
+PapaShango19 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Jh ]
+Ralhec folds
+Justin2277 raises [$825]
+grillilo raises [$1,435]
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 calls [$1,435]
+riffela folds
+Dominik222 calls [$1,310]
+PapaShango19 folds
+Justin2277 raises [$4,490]
+cudla1 calls [$3,880]
+Dominik222 calls [$2,600]
+** Dealing flop ** [ 2c, 9s, Ad ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 6h ]
+** Summary **
+grillilo shows [ 5d, Qd ]
+cudla1 shows [ 4h, 4c ]
+Dominik222 shows [ Ac, Qh ]
+Justin2277 shows [ Ks, Kh ]
+Dominik222 collected [ $6,215 ]
+Dominik222 collected [ $7,800 ]
+Justin2277 collected [ $2,560 ]
+
+
+
+#Game No : 652717961
+***** 888poker Hand History for Game 652717961 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 01:22:17
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $615 )
+Seat 3: bigfox26 ( $9,254 )
+Seat 4: cudla1 ( $505 )
+Seat 5: riffela ( $8,519 )
+Seat 6: Dominik222 ( $14,015 )
+Seat 7: PapaShango19 ( $1,868 )
+Seat 9: Ralhec ( $10,453 )
+Seat 10: Justin2277 ( $2,560 )
+grillilo posts ante [$25]
+Pokerbitch59 posts ante [$25]
+riffela posts ante [$25]
+Dominik222 posts ante [$25]
+PapaShango19 posts ante [$25]
+Ralhec posts ante [$25]
+Justin2277 posts ante [$25]
+cudla1 posts ante [$25]
+bigfox26 posts ante [$25]
+PapaShango19 posts small blind [$125]
+Ralhec posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 8d ]
+Justin2277 calls [$250]
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 raises [$480]
+riffela folds
+Dominik222 calls [$480]
+PapaShango19 folds
+Ralhec calls [$230]
+Justin2277 calls [$230]
+** Dealing flop ** [ 4s, Kc, Ah ]
+Ralhec checks
+Justin2277 checks
+Dominik222 bets [$750]
+Ralhec calls [$750]
+Justin2277 folds
+** Dealing turn ** [ 3d ]
+Ralhec checks
+Dominik222 bets [$1,500]
+Ralhec folds
+** Dealing river ** [ 4d ]
+** Summary **
+cudla1 shows [ 3c, 9c ]
+Dominik222 shows [ 8c, Ac ]
+Dominik222 collected [ $2,270 ]
+Dominik222 collected [ $1,500 ]
+
+
+
+#Game No : 652718359
+***** 888poker Hand History for Game 652718359 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 01:23:46
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,475 )
+Seat 2: Pokerbitch59 ( $590 )
+Seat 3: bigfox26 ( $9,229 )
+Seat 4: cudla1 ( $3,000 )
+Seat 5: riffela ( $8,494 )
+Seat 6: Dominik222 ( $16,530 )
+Seat 7: PapaShango19 ( $1,718 )
+Seat 9: Ralhec ( $9,198 )
+Seat 10: Justin2277 ( $2,055 )
+grillilo posts ante [$25]
+Pokerbitch59 posts ante [$25]
+riffela posts ante [$25]
+Dominik222 posts ante [$25]
+PapaShango19 posts ante [$25]
+Ralhec posts ante [$25]
+Justin2277 posts ante [$25]
+cudla1 posts ante [$25]
+bigfox26 posts ante [$25]
+Ralhec posts small blind [$125]
+Justin2277 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 4h ]
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 raises [$2,975]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$2,850]
+Justin2277 calls [$1,780]
+** Dealing flop ** [ Jc, 4s, 9s ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ Qd ]
+** Summary **
+cudla1 shows [ Ac, 9c ]
+Ralhec shows [ Kd, Ah ]
+Justin2277 shows [ Qs, Qh ]
+Justin2277 collected [ $6,315 ]
+cudla1 collected [ $1,890 ]
+
+
+
+#Game No : 652718605
+***** 888poker Hand History for Game 652718605 *****
+$125/$250 Blinds No Limit Holdem - *** 16 12 2014 01:24:40
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,450 )
+Seat 2: Pokerbitch59 ( $565 )
+Seat 3: bigfox26 ( $9,204 )
+Seat 4: cudla1 ( $1,890 )
+Seat 5: riffela ( $8,469 )
+Seat 6: Dominik222 ( $16,505 )
+Seat 7: PapaShango19 ( $1,693 )
+Seat 9: Ralhec ( $6,198 )
+Seat 10: Justin2277 ( $6,315 )
+grillilo posts ante [$25]
+Pokerbitch59 posts ante [$25]
+riffela posts ante [$25]
+Dominik222 posts ante [$25]
+PapaShango19 posts ante [$25]
+Ralhec posts ante [$25]
+Justin2277 posts ante [$25]
+cudla1 posts ante [$25]
+bigfox26 posts ante [$25]
+Justin2277 posts small blind [$125]
+grillilo posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 9c ]
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec raises [$500]
+Justin2277 calls [$375]
+grillilo calls [$250]
+** Dealing flop ** [ 3c, 9s, 8d ]
+Justin2277 checks
+grillilo checks
+Ralhec bets [$1,000]
+Justin2277 folds
+grillilo calls [$925]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ 8s ]
+** Summary **
+grillilo shows [ 5c, 7c ]
+Ralhec shows [ Ks, 2s ]
+Ralhec collected [ $3,575 ]
+
+
+
+#Game No : 652718799
+***** 888poker Hand History for Game 652718799 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 01:25:23
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $540 )
+Seat 3: bigfox26 ( $9,179 )
+Seat 4: cudla1 ( $1,865 )
+Seat 5: riffela ( $8,444 )
+Seat 6: Dominik222 ( $16,480 )
+Seat 7: PapaShango19 ( $1,668 )
+Seat 9: Ralhec ( $8,323 )
+Seat 10: Justin2277 ( $5,790 )
+grillilo posts ante [$30]
+Pokerbitch59 posts ante [$30]
+riffela posts ante [$30]
+Dominik222 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ralhec posts ante [$30]
+Justin2277 posts ante [$30]
+cudla1 posts ante [$30]
+bigfox26 posts ante [$30]
+grillilo posts small blind [$150]
+Pokerbitch59 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qh ]
+bigfox26 calls [$300]
+cudla1 raises [$1,835]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo calls [$1,320]
+Pokerbitch59 folds
+bigfox26 calls [$1,535]
+** Dealing flop ** [ 6c, 8s, Td ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 9h ]
+** Summary **
+grillilo shows [ Ac, Jh ]
+bigfox26 shows [ Kc, Jc ]
+cudla1 shows [ As, 7h ]
+cudla1 collected [ $4,980 ]
+cudla1 collected [ $730 ]
+
+
+
+#Game No : 652718980
+***** 888poker Hand History for Game 652718980 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 01:26:03
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $210 )
+Seat 3: bigfox26 ( $7,314 )
+Seat 4: cudla1 ( $5,710 )
+Seat 5: riffela ( $8,414 )
+Seat 6: Dominik222 ( $16,450 )
+Seat 7: PapaShango19 ( $1,638 )
+Seat 9: Ralhec ( $8,293 )
+Seat 10: Justin2277 ( $5,760 )
+grillilo posts ante [$30]
+Pokerbitch59 posts ante [$30]
+riffela posts ante [$30]
+Dominik222 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ralhec posts ante [$30]
+Justin2277 posts ante [$30]
+cudla1 posts ante [$30]
+bigfox26 posts ante [$30]
+Pokerbitch59 posts small blind [$150]
+bigfox26 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5s ]
+cudla1 folds
+riffela raises [$8,384]
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$8,263]
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+** Dealing flop ** [ 2s, 7h, Kc ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 6c ]
+** Summary **
+riffela shows [ Tc, Th ]
+Ralhec shows [ 6d, 6s ]
+Ralhec collected [ $17,246 ]
+
+
+
+#Game No : 652719145
+***** 888poker Hand History for Game 652719145 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 01:26:38
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,470 )
+Seat 2: Pokerbitch59 ( $30 )
+Seat 3: bigfox26 ( $6,984 )
+Seat 4: cudla1 ( $5,680 )
+Seat 5: riffela ( $121 )
+Seat 6: Dominik222 ( $16,420 )
+Seat 7: PapaShango19 ( $1,608 )
+Seat 9: Ralhec ( $17,246 )
+Seat 10: Justin2277 ( $5,730 )
+grillilo posts ante [$30]
+Pokerbitch59 posts ante [$30]
+riffela posts ante [$30]
+Dominik222 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ralhec posts ante [$30]
+Justin2277 posts ante [$30]
+cudla1 posts ante [$30]
+bigfox26 posts ante [$30]
+bigfox26 posts small blind [$150]
+cudla1 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 5d ]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo raises [$1,440]
+bigfox26 calls [$1,290]
+cudla1 calls [$1,140]
+** Dealing flop ** [ 5h, Ad, 7s ]
+bigfox26 checks
+cudla1 checks
+** Dealing turn ** [ Qd ]
+bigfox26 checks
+cudla1 checks
+** Dealing river ** [ 9d ]
+bigfox26 checks
+cudla1 checks
+** Summary **
+bigfox26 shows [ Ah, 6c ]
+cudla1 mucks [ 4d, 4s ]
+grillilo mucks [ Th, Qh ]
+Pokerbitch59 shows [ Ac, 5s ]
+Pokerbitch59 collected [ $270 ]
+bigfox26 collected [ $4,320 ]
+
+
+
+#Game No : 652719345
+***** 888poker Hand History for Game 652719345 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 01:27:22
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Pokerbitch59 ( $270 )
+Seat 3: bigfox26 ( $9,834 )
+Seat 4: cudla1 ( $4,210 )
+Seat 5: riffela ( $3,091 )
+Seat 6: Dominik222 ( $16,390 )
+Seat 7: PapaShango19 ( $1,578 )
+Seat 9: Ralhec ( $17,216 )
+Seat 10: Justin2277 ( $5,700 )
+grillilo posts ante [$30]
+Pokerbitch59 posts ante [$30]
+riffela posts ante [$30]
+Dominik222 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ralhec posts ante [$30]
+Justin2277 posts ante [$30]
+cudla1 posts ante [$30]
+bigfox26 posts ante [$30]
+cudla1 posts small blind [$150]
+riffela posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 9s ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo calls [$300]
+Pokerbitch59 folds
+bigfox26 raises [$600]
+cudla1 calls [$450]
+riffela folds
+grillilo calls [$300]
+** Dealing flop ** [ 4d, 7s, Jh ]
+cudla1 checks
+grillilo checks
+bigfox26 checks
+** Dealing turn ** [ Qh ]
+cudla1 checks
+grillilo bets [$870]
+bigfox26 folds
+cudla1 folds
+** Summary **
+grillilo did not show his hand
+grillilo collected [ $2,370 ]
+
+
+
+#Game No : 652719631
+***** 888poker Hand History for Game 652719631 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 01:28:25
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: grillilo ( $3,240 )
+Seat 2: Pokerbitch59 ( $240 )
+Seat 3: bigfox26 ( $9,204 )
+Seat 4: cudla1 ( $3,580 )
+Seat 5: riffela ( $2,761 )
+Seat 6: Dominik222 ( $16,360 )
+Seat 7: PapaShango19 ( $1,548 )
+Seat 9: Ralhec ( $17,186 )
+Seat 10: Justin2277 ( $5,670 )
+grillilo posts ante [$30]
+Pokerbitch59 posts ante [$30]
+riffela posts ante [$30]
+Dominik222 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ralhec posts ante [$30]
+Justin2277 posts ante [$30]
+cudla1 posts ante [$30]
+bigfox26 posts ante [$30]
+riffela posts small blind [$150]
+Dominik222 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 3s ]
+PapaShango19 folds
+Ralhec calls [$300]
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela folds
+Dominik222 checks
+** Dealing flop ** [ Ah, 3h, Kd ]
+Dominik222 bets [$300]
+Ralhec calls [$300]
+** Dealing turn ** [ 2d ]
+Dominik222 bets [$600]
+Ralhec raises [$1,200]
+Dominik222 calls [$600]
+** Dealing river ** [ Qd ]
+Dominik222 bets [$900]
+Ralhec raises [$1,800]
+Dominik222 folds
+** Summary **
+Ralhec did not show his hand
+Ralhec collected [ $5,820 ]
+
+
+
+#Game No : 652719958
+***** 888poker Hand History for Game 652719958 *****
+$150/$300 Blinds No Limit Holdem - *** 16 12 2014 01:29:41
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: grillilo ( $3,210 )
+Seat 2: Pokerbitch59 ( $210 )
+Seat 3: bigfox26 ( $9,174 )
+Seat 4: cudla1 ( $3,550 )
+Seat 5: riffela ( $2,581 )
+Seat 6: Dominik222 ( $13,630 )
+Seat 7: PapaShango19 ( $1,518 )
+Seat 9: Ralhec ( $20,276 )
+Seat 10: Justin2277 ( $5,640 )
+grillilo posts ante [$30]
+Pokerbitch59 posts ante [$30]
+riffela posts ante [$30]
+Dominik222 posts ante [$30]
+PapaShango19 posts ante [$30]
+Ralhec posts ante [$30]
+Justin2277 posts ante [$30]
+cudla1 posts ante [$30]
+bigfox26 posts ante [$30]
+Dominik222 posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Qd ]
+Ralhec folds
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela raises [$2,551]
+Dominik222 calls [$2,401]
+PapaShango19 folds
+** Dealing flop ** [ Th, 5c, 9h ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Qc ]
+** Summary **
+riffela shows [ 8h, 8d ]
+Dominik222 shows [ 5s, 5h ]
+Dominik222 collected [ $5,672 ]
+
+
+
+#Game No : 652720203
+***** 888poker Hand History for Game 652720203 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 01:30:39
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: grillilo ( $3,180 )
+Seat 2: Pokerbitch59 ( $180 )
+Seat 3: bigfox26 ( $9,144 )
+Seat 4: cudla1 ( $3,520 )
+Seat 5: riffela ( $3,000 )
+Seat 6: Dominik222 ( $16,721 )
+Seat 7: PapaShango19 ( $1,188 )
+Seat 9: Ralhec ( $20,246 )
+Seat 10: Justin2277 ( $5,610 )
+grillilo posts ante [$40]
+Pokerbitch59 posts ante [$40]
+riffela posts ante [$40]
+Dominik222 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ralhec posts ante [$40]
+Justin2277 posts ante [$40]
+cudla1 posts ante [$40]
+bigfox26 posts ante [$40]
+PapaShango19 posts small blind [$200]
+Ralhec posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 9s ]
+Justin2277 folds
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 calls [$400]
+riffela folds
+Dominik222 calls [$400]
+PapaShango19 raises [$948]
+Ralhec folds
+cudla1 calls [$748]
+Dominik222 folds
+** Dealing flop ** [ Jc, 8h, Qs ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Jd ]
+** Summary **
+cudla1 shows [ 5d, 9d ]
+PapaShango19 shows [ Ah, 9s ]
+PapaShango19 collected [ $3,456 ]
+
+
+
+#Game No : 652720340
+***** 888poker Hand History for Game 652720340 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 01:31:15
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: grillilo ( $3,140 )
+Seat 2: Pokerbitch59 ( $140 )
+Seat 3: bigfox26 ( $9,104 )
+Seat 4: cudla1 ( $2,332 )
+Seat 5: riffela ( $4,460 )
+Seat 6: Dominik222 ( $16,281 )
+Seat 7: PapaShango19 ( $3,456 )
+Seat 9: Ralhec ( $19,806 )
+Seat 10: Justin2277 ( $5,570 )
+grillilo posts ante [$40]
+Pokerbitch59 posts ante [$40]
+riffela posts ante [$40]
+Dominik222 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ralhec posts ante [$40]
+Justin2277 posts ante [$40]
+cudla1 posts ante [$40]
+bigfox26 posts ante [$40]
+Ralhec posts small blind [$200]
+Justin2277 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, Qc ]
+grillilo folds
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$200]
+Justin2277 checks
+** Dealing flop ** [ Tc, Jc, 4s ]
+Ralhec checks
+Justin2277 checks
+** Dealing turn ** [ 4h ]
+Ralhec checks
+Justin2277 checks
+** Dealing river ** [ Qh ]
+Ralhec bets [$400]
+Justin2277 folds
+** Summary **
+Ralhec did not show his hand
+Ralhec collected [ $1,160 ]
+
+
+
+#Game No : 652720591
+***** 888poker Hand History for Game 652720591 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 01:32:10
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: grillilo ( $3,100 )
+Seat 2: Pokerbitch59 ( $100 )
+Seat 3: bigfox26 ( $9,064 )
+Seat 4: cudla1 ( $2,292 )
+Seat 5: riffela ( $4,420 )
+Seat 6: Dominik222 ( $16,241 )
+Seat 7: PapaShango19 ( $3,416 )
+Seat 9: Ralhec ( $20,526 )
+Seat 10: Justin2277 ( $5,130 )
+grillilo posts ante [$40]
+Pokerbitch59 posts ante [$40]
+riffela posts ante [$40]
+Dominik222 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ralhec posts ante [$40]
+Justin2277 posts ante [$40]
+cudla1 posts ante [$40]
+bigfox26 posts ante [$40]
+Justin2277 posts small blind [$200]
+grillilo posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Qd ]
+Pokerbitch59 folds
+bigfox26 folds
+cudla1 raises [$2,252]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$2,252]
+Justin2277 folds
+grillilo folds
+** Dealing flop ** [ 3h, Tc, 8s ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 2s ]
+** Summary **
+cudla1 shows [ 9s, Js ]
+Ralhec shows [ Ad, Th ]
+Ralhec collected [ $5,464 ]
+
+
+
+#Game No : 652720854
+***** 888poker Hand History for Game 652720854 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 01:33:15
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: grillilo ( $2,660 )
+Seat 2: Pokerbitch59 ( $60 )
+Seat 3: bigfox26 ( $9,024 )
+Seat 5: riffela ( $4,380 )
+Seat 6: Dominik222 ( $16,201 )
+Seat 7: PapaShango19 ( $3,376 )
+Seat 9: Ralhec ( $23,698 )
+Seat 10: Justin2277 ( $4,890 )
+grillilo posts ante [$40]
+Pokerbitch59 posts ante [$40]
+riffela posts ante [$40]
+Dominik222 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ralhec posts ante [$40]
+Justin2277 posts ante [$40]
+bigfox26 posts ante [$40]
+grillilo posts small blind [$200]
+Pokerbitch59 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 3h ]
+bigfox26 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 calls [$400]
+grillilo calls [$200]
+** Dealing flop ** [ Qh, Qs, Ac ]
+grillilo checks
+Justin2277 bets [$1,140]
+grillilo folds
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 8d ]
+** Summary **
+Pokerbitch59 shows [ 9d, 9h ]
+Justin2277 shows [ 8c, Ah ]
+Justin2277 collected [ $380 ]
+Justin2277 collected [ $1,900 ]
+
+
+
+#Game No : 652721195
+***** 888poker Hand History for Game 652721195 *****
+$200/$400 Blinds No Limit Holdem - *** 16 12 2014 01:34:37
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: grillilo ( $2,220 )
+Seat 3: bigfox26 ( $8,984 )
+Seat 4: mmmmanu30 ( $3,000 )
+Seat 5: riffela ( $4,340 )
+Seat 6: Dominik222 ( $16,161 )
+Seat 7: PapaShango19 ( $3,336 )
+Seat 9: Ralhec ( $23,658 )
+Seat 10: Justin2277 ( $5,590 )
+grillilo posts ante [$40]
+riffela posts ante [$40]
+Dominik222 posts ante [$40]
+PapaShango19 posts ante [$40]
+Ralhec posts ante [$40]
+Justin2277 posts ante [$40]
+bigfox26 posts ante [$40]
+mmmmanu30 posts ante [$40]
+bigfox26 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 4h ]
+mmmmanu30 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 calls [$400]
+grillilo calls [$400]
+bigfox26 checks
+** Dealing flop ** [ 6h, As, 9c ]
+bigfox26 checks
+Justin2277 bets [$400]
+grillilo raises [$1,780]
+bigfox26 folds
+Justin2277 calls [$1,380]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 3d ]
+** Summary **
+grillilo shows [ Jc, 9s ]
+Justin2277 shows [ Ad, 8s ]
+Justin2277 collected [ $5,080 ]
+
+
+
+#Game No : 652721507
+***** 888poker Hand History for Game 652721507 *****
+$300/$600 Blinds No Limit Holdem - *** 16 12 2014 01:35:50
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: grillilo ( $1,500 )
+Seat 3: bigfox26 ( $8,544 )
+Seat 4: mmmmanu30 ( $2,960 )
+Seat 5: riffela ( $4,300 )
+Seat 6: Dominik222 ( $16,121 )
+Seat 7: PapaShango19 ( $3,296 )
+Seat 9: Ralhec ( $23,618 )
+Seat 10: Justin2277 ( $8,450 )
+grillilo posts ante [$60]
+riffela posts ante [$60]
+Dominik222 posts ante [$60]
+PapaShango19 posts ante [$60]
+Ralhec posts ante [$60]
+Justin2277 posts ante [$60]
+bigfox26 posts ante [$60]
+mmmmanu30 posts ante [$60]
+bigfox26 posts small blind [$300]
+mmmmanu30 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, Ks ]
+riffela folds
+Dominik222 raises [$1,200]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+grillilo folds
+bigfox26 folds
+mmmmanu30 raises [$2,300]
+Dominik222 calls [$1,700]
+** Dealing flop ** [ 3d, 5d, Js ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 5s ]
+** Summary **
+mmmmanu30 shows [ Qs, Qc ]
+Dominik222 shows [ Ad, 4d ]
+mmmmanu30 collected [ $6,580 ]
+
+
+
+#Game No : 652721810
+***** 888poker Hand History for Game 652721810 *****
+$300/$600 Blinds No Limit Holdem - *** 16 12 2014 01:37:04
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,440 )
+Seat 2: Bambaruush ( $1,500 )
+Seat 3: bigfox26 ( $8,184 )
+Seat 4: mmmmanu30 ( $6,580 )
+Seat 5: riffela ( $4,240 )
+Seat 6: Dominik222 ( $13,161 )
+Seat 7: PapaShango19 ( $3,236 )
+Seat 9: Ralhec ( $23,558 )
+Seat 10: Justin2277 ( $8,390 )
+grillilo posts ante [$60]
+riffela posts ante [$60]
+Dominik222 posts ante [$60]
+PapaShango19 posts ante [$60]
+Ralhec posts ante [$60]
+Justin2277 posts ante [$60]
+bigfox26 posts ante [$60]
+mmmmanu30 posts ante [$60]
+Bambaruush posts ante [$60]
+mmmmanu30 posts small blind [$300]
+riffela posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 3h ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 raises [$1,200]
+grillilo raises [$1,380]
+Bambaruush folds
+bigfox26 raises [$2,400]
+mmmmanu30 folds
+riffela folds
+Justin2277 calls [$1,200]
+** Dealing flop ** [ Qh, 3d, 6d ]
+Justin2277 bets [$5,930]
+bigfox26 calls [$5,724]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 2c ]
+** Summary **
+grillilo shows [ 4d, 4h ]
+bigfox26 shows [ Kc, Kh ]
+Justin2277 shows [ Ts, Ad ]
+bigfox26 collected [ $5,580 ]
+bigfox26 collected [ $13,488 ]
+
+
+
+#Game No : 652722176
+***** 888poker Hand History for Game 652722176 *****
+$300/$600 Blinds No Limit Holdem - *** 16 12 2014 01:38:35
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,500 )
+Seat 2: Bambaruush ( $1,440 )
+Seat 3: bigfox26 ( $19,068 )
+Seat 4: mmmmanu30 ( $6,220 )
+Seat 5: riffela ( $3,580 )
+Seat 6: Dominik222 ( $13,101 )
+Seat 7: PapaShango19 ( $3,176 )
+Seat 9: Ralhec ( $23,498 )
+Seat 10: Justin2277 ( $206 )
+grillilo posts ante [$60]
+riffela posts ante [$60]
+Dominik222 posts ante [$60]
+PapaShango19 posts ante [$60]
+Ralhec posts ante [$60]
+Justin2277 posts ante [$60]
+bigfox26 posts ante [$60]
+mmmmanu30 posts ante [$60]
+Bambaruush posts ante [$60]
+riffela posts small blind [$300]
+Dominik222 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, Qc ]
+PapaShango19 folds
+Ralhec calls [$600]
+Justin2277 calls [$146]
+grillilo folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 checks
+** Dealing flop ** [ Js, Jd, 3s ]
+Dominik222 checks
+Ralhec checks
+** Dealing turn ** [ Kc ]
+Dominik222 bets [$600]
+Ralhec folds
+** Dealing river ** [ 4h ]
+** Summary **
+Dominik222 shows [ 2d, Jh ]
+Justin2277 shows [ Ac, 6c ]
+Dominik222 collected [ $1,124 ]
+Dominik222 collected [ $1,062 ]
+
+
+
+#Game No : 652722512
+***** 888poker Hand History for Game 652722512 *****
+$300/$600 Blinds No Limit Holdem - *** 16 12 2014 01:40:08
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,440 )
+Seat 2: Bambaruush ( $1,380 )
+Seat 3: bigfox26 ( $19,008 )
+Seat 4: mmmmanu30 ( $6,160 )
+Seat 5: riffela ( $3,220 )
+Seat 6: Dominik222 ( $14,627 )
+Seat 7: PapaShango19 ( $3,116 )
+Seat 9: Ralhec ( $22,838 )
+Seat 10: Justin2277 ( $3,000 )
+grillilo posts ante [$60]
+riffela posts ante [$60]
+Dominik222 posts ante [$60]
+PapaShango19 posts ante [$60]
+Ralhec posts ante [$60]
+Justin2277 posts ante [$60]
+bigfox26 posts ante [$60]
+mmmmanu30 posts ante [$60]
+Bambaruush posts ante [$60]
+Dominik222 posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 3h ]
+Ralhec calls [$600]
+Justin2277 folds
+grillilo folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 calls [$300]
+PapaShango19 checks
+** Dealing flop ** [ 7d, Kh, 2h ]
+Dominik222 bets [$600]
+PapaShango19 folds
+Ralhec calls [$600]
+** Dealing turn ** [ Ad ]
+Dominik222 bets [$1,200]
+Ralhec calls [$1,200]
+** Dealing river ** [ Tc ]
+Dominik222 bets [$1,800]
+Ralhec raises [$3,600]
+Dominik222 calls [$1,800]
+** Summary **
+Ralhec shows [ 6h, Qh ]
+Dominik222 shows [ Ac, 7s ]
+Dominik222 collected [ $13,140 ]
+
+
+
+#Game No : 652722748
+***** 888poker Hand History for Game 652722748 *****
+$400/$800 Blinds No Limit Holdem - *** 16 12 2014 01:41:16
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,380 )
+Seat 2: Bambaruush ( $1,320 )
+Seat 3: bigfox26 ( $18,948 )
+Seat 4: mmmmanu30 ( $6,100 )
+Seat 5: riffela ( $3,160 )
+Seat 6: Dominik222 ( $21,707 )
+Seat 7: PapaShango19 ( $2,456 )
+Seat 9: Ralhec ( $16,778 )
+Seat 10: Justin2277 ( $2,940 )
+grillilo posts ante [$80]
+riffela posts ante [$80]
+Dominik222 posts ante [$80]
+PapaShango19 posts ante [$80]
+Ralhec posts ante [$80]
+Justin2277 posts ante [$80]
+bigfox26 posts ante [$80]
+mmmmanu30 posts ante [$80]
+Bambaruush posts ante [$80]
+PapaShango19 posts small blind [$400]
+Ralhec posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Jd ]
+Justin2277 calls [$800]
+grillilo folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 calls [$800]
+riffela folds
+Dominik222 folds
+PapaShango19 raises [$1,976]
+Ralhec calls [$1,576]
+Justin2277 raises [$2,060]
+mmmmanu30 calls [$2,060]
+Ralhec calls [$484]
+** Dealing flop ** [ 6c, 9c, Qd ]
+Ralhec checks
+mmmmanu30 checks
+** Dealing turn ** [ Qc ]
+Ralhec bets [$800]
+mmmmanu30 raises [$3,160]
+Ralhec calls [$2,360]
+** Dealing river ** [ 4d ]
+** Summary **
+mmmmanu30 shows [ 5c, 4c ]
+PapaShango19 shows [ Ac, Jd ]
+Ralhec shows [ 6h, As ]
+Justin2277 shows [ Td, Kh ]
+mmmmanu30 collected [ $10,224 ]
+mmmmanu30 collected [ $1,452 ]
+mmmmanu30 collected [ $6,320 ]
+
+
+
+#Game No : 652723078
+***** 888poker Hand History for Game 652723078 *****
+$400/$800 Blinds No Limit Holdem - *** 16 12 2014 01:42:58
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,300 )
+Seat 2: Bambaruush ( $1,240 )
+Seat 3: bigfox26 ( $18,868 )
+Seat 4: mmmmanu30 ( $17,996 )
+Seat 5: riffela ( $3,080 )
+Seat 6: Dominik222 ( $21,627 )
+Seat 7: PapaShango19 ( $3,000 )
+Seat 9: Ralhec ( $10,678 )
+Seat 10: Justin2277 ( $3,000 )
+grillilo posts ante [$80]
+riffela posts ante [$80]
+Dominik222 posts ante [$80]
+PapaShango19 posts ante [$80]
+Ralhec posts ante [$80]
+Justin2277 posts ante [$80]
+bigfox26 posts ante [$80]
+mmmmanu30 posts ante [$80]
+Bambaruush posts ante [$80]
+Ralhec posts small blind [$400]
+Justin2277 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 7s ]
+grillilo folds
+Bambaruush folds
+bigfox26 calls [$800]
+mmmmanu30 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$400]
+Justin2277 checks
+** Dealing flop ** [ 5h, Kd, Kh ]
+Ralhec checks
+Justin2277 checks
+bigfox26 checks
+** Dealing turn ** [ Tc ]
+Ralhec bets [$800]
+Justin2277 folds
+bigfox26 calls [$800]
+** Dealing river ** [ 2d ]
+Ralhec bets [$2,400]
+bigfox26 calls [$2,400]
+** Summary **
+Ralhec shows [ 9c, 8d ]
+bigfox26 shows [ Ts, Ac ]
+bigfox26 collected [ $9,520 ]
+
+
+
+#Game No : 652723367
+***** 888poker Hand History for Game 652723367 *****
+$400/$800 Blinds No Limit Holdem - *** 16 12 2014 01:44:33
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: grillilo ( $1,220 )
+Seat 2: Bambaruush ( $1,160 )
+Seat 3: bigfox26 ( $24,308 )
+Seat 4: mmmmanu30 ( $17,916 )
+Seat 5: riffela ( $3,000 )
+Seat 6: Dominik222 ( $21,547 )
+Seat 7: PapaShango19 ( $2,920 )
+Seat 9: Ralhec ( $6,598 )
+Seat 10: Justin2277 ( $2,120 )
+grillilo posts ante [$80]
+riffela posts ante [$80]
+Dominik222 posts ante [$80]
+PapaShango19 posts ante [$80]
+Ralhec posts ante [$80]
+Justin2277 posts ante [$80]
+bigfox26 posts ante [$80]
+mmmmanu30 posts ante [$80]
+Bambaruush posts ante [$80]
+Justin2277 posts small blind [$400]
+grillilo posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 4h ]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 raises [$1,600]
+PapaShango19 folds
+Ralhec calls [$1,600]
+Justin2277 folds
+grillilo calls [$340]
+** Dealing flop ** [ Ad, Kh, Ah ]
+Dominik222 checks
+Ralhec checks
+** Dealing turn ** [ 9s ]
+Dominik222 bets [$1,600]
+Ralhec folds
+** Dealing river ** [ 9c ]
+** Summary **
+grillilo shows [ 2d, 3d ]
+Dominik222 shows [ 5s, Ac ]
+Dominik222 collected [ $4,540 ]
+Dominik222 collected [ $920 ]
+
+
+
+#Game No : 652723675
+***** 888poker Hand History for Game 652723675 *****
+$500/$1,000 Blinds No Limit Holdem - *** 16 12 2014 01:46:07
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: Bambaruush ( $1,080 )
+Seat 3: bigfox26 ( $24,228 )
+Seat 4: mmmmanu30 ( $17,836 )
+Seat 5: riffela ( $2,920 )
+Seat 6: Dominik222 ( $25,327 )
+Seat 7: PapaShango19 ( $2,840 )
+Seat 9: Ralhec ( $4,918 )
+Seat 10: Justin2277 ( $1,640 )
+riffela posts ante [$100]
+Dominik222 posts ante [$100]
+PapaShango19 posts ante [$100]
+Ralhec posts ante [$100]
+Justin2277 posts ante [$100]
+bigfox26 posts ante [$100]
+mmmmanu30 posts ante [$100]
+Bambaruush posts ante [$100]
+Bambaruush posts big blind [$980]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Jh ]
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$1,000]
+Justin2277 folds
+** Dealing flop ** [ 2d, 9h, Qd ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ Ts ]
+** Summary **
+Bambaruush shows [ 4s, 6c ]
+Ralhec shows [ Ks, Ah ]
+Ralhec collected [ $2,760 ]
+Ralhec collected [ $20 ]
+
+
+
+#Game No : 652723786
+***** 888poker Hand History for Game 652723786 *****
+$500/$1,000 Blinds No Limit Holdem - *** 16 12 2014 01:46:42
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 2: Bambaruush ( $1,500 )
+Seat 3: bigfox26 ( $24,128 )
+Seat 4: mmmmanu30 ( $17,736 )
+Seat 5: riffela ( $2,820 )
+Seat 6: Dominik222 ( $25,227 )
+Seat 7: PapaShango19 ( $2,740 )
+Seat 9: Ralhec ( $6,598 )
+Seat 10: Justin2277 ( $1,540 )
+riffela posts ante [$100]
+Dominik222 posts ante [$100]
+PapaShango19 posts ante [$100]
+Ralhec posts ante [$100]
+Justin2277 posts ante [$100]
+bigfox26 posts ante [$100]
+mmmmanu30 posts ante [$100]
+Bambaruush posts ante [$100]
+Bambaruush posts small blind [$500]
+bigfox26 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 6s ]
+mmmmanu30 calls [$1,000]
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec raises [$6,498]
+Justin2277 calls [$1,440]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 calls [$5,498]
+** Dealing flop ** [ 8c, 2d, Qc ]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 2s ]
+** Summary **
+mmmmanu30 shows [ 6h, 6c ]
+Ralhec shows [ Tc, Ts ]
+Justin2277 shows [ Th, 8s ]
+Justin2277 collected [ $6,620 ]
+Ralhec collected [ $10,116 ]
+
+
+
+#Game No : 652723970
+***** 888poker Hand History for Game 652723970 *****
+$500/$1,000 Blinds No Limit Holdem - *** 16 12 2014 01:47:33
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $33,310 )
+Seat 2: Bambaruush ( $900 )
+Seat 3: bigfox26 ( $23,028 )
+Seat 4: mmmmanu30 ( $11,138 )
+Seat 5: riffela ( $2,720 )
+Seat 6: Dominik222 ( $25,127 )
+Seat 7: PapaShango19 ( $2,640 )
+Seat 9: Ralhec ( $10,116 )
+Seat 10: Justin2277 ( $6,620 )
+riffela posts ante [$100]
+Dominik222 posts ante [$100]
+PapaShango19 posts ante [$100]
+Ralhec posts ante [$100]
+Justin2277 posts ante [$100]
+bigfox26 posts ante [$100]
+mmmmanu30 posts ante [$100]
+Bambaruush posts ante [$100]
+Goustous14 posts ante [$100]
+bigfox26 posts small blind [$500]
+mmmmanu30 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 6h ]
+riffela folds
+Dominik222 raises [$2,200]
+PapaShango19 folds
+Ralhec folds
+Justin2277 calls [$2,200]
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 calls [$1,200]
+** Dealing flop ** [ 6d, Jh, 8d ]
+mmmmanu30 checks
+Dominik222 bets [$3,000]
+Justin2277 raises [$4,320]
+mmmmanu30 raises [$8,838]
+Dominik222 folds
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Kd ]
+** Summary **
+mmmmanu30 shows [ Jd, 8s ]
+Justin2277 shows [ Js, Jc ]
+Justin2277 collected [ $19,640 ]
+
+
+
+#Game No : 652724217
+***** 888poker Hand History for Game 652724217 *****
+$500/$1,000 Blinds No Limit Holdem - *** 16 12 2014 01:48:48
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $33,210 )
+Seat 2: Bambaruush ( $800 )
+Seat 3: bigfox26 ( $22,428 )
+Seat 4: mmmmanu30 ( $4,518 )
+Seat 5: riffela ( $2,620 )
+Seat 6: Dominik222 ( $19,827 )
+Seat 7: PapaShango19 ( $2,540 )
+Seat 9: Ralhec ( $10,016 )
+Seat 10: Justin2277 ( $19,640 )
+riffela posts ante [$100]
+Dominik222 posts ante [$100]
+PapaShango19 posts ante [$100]
+Ralhec posts ante [$100]
+Justin2277 posts ante [$100]
+bigfox26 posts ante [$100]
+mmmmanu30 posts ante [$100]
+Bambaruush posts ante [$100]
+Goustous14 posts ante [$100]
+mmmmanu30 posts small blind [$500]
+riffela posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 7s ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 raises [$2,000]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+** Summary **
+Goustous14 did not show his hand
+Goustous14 collected [ $3,400 ]
+
+
+
+#Game No : 652724332
+***** 888poker Hand History for Game 652724332 *****
+$500/$1,000 Blinds No Limit Holdem - *** 16 12 2014 01:49:28
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $35,510 )
+Seat 2: Bambaruush ( $700 )
+Seat 3: bigfox26 ( $22,328 )
+Seat 4: mmmmanu30 ( $3,918 )
+Seat 5: riffela ( $1,520 )
+Seat 6: Dominik222 ( $19,727 )
+Seat 7: PapaShango19 ( $2,440 )
+Seat 9: Ralhec ( $9,916 )
+Seat 10: Justin2277 ( $19,540 )
+riffela posts ante [$100]
+Dominik222 posts ante [$100]
+PapaShango19 posts ante [$100]
+Ralhec posts ante [$100]
+Justin2277 posts ante [$100]
+bigfox26 posts ante [$100]
+mmmmanu30 posts ante [$100]
+Bambaruush posts ante [$100]
+Goustous14 posts ante [$100]
+riffela posts small blind [$500]
+Dominik222 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 5c ]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 folds
+Bambaruush calls [$600]
+bigfox26 folds
+mmmmanu30 folds
+riffela raises [$920]
+Dominik222 folds
+** Dealing flop ** [ Ks, Jd, Qs ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Tc ]
+** Summary **
+Bambaruush shows [ Qh, Ad ]
+riffela shows [ Kd, Kh ]
+riffela collected [ $2,700 ]
+riffela collected [ $800 ]
+
+
+
+#Game No : 652724517
+***** 888poker Hand History for Game 652724517 *****
+$600/$1,200 Blinds No Limit Holdem - *** 16 12 2014 01:50:23
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $35,410 )
+Seat 2: Bambaruush ( $1,500 )
+Seat 3: bigfox26 ( $22,228 )
+Seat 4: mmmmanu30 ( $3,818 )
+Seat 5: riffela ( $3,920 )
+Seat 6: Dominik222 ( $18,627 )
+Seat 7: PapaShango19 ( $2,340 )
+Seat 9: Ralhec ( $9,816 )
+Seat 10: Justin2277 ( $19,440 )
+riffela posts ante [$120]
+Dominik222 posts ante [$120]
+PapaShango19 posts ante [$120]
+Ralhec posts ante [$120]
+Justin2277 posts ante [$120]
+bigfox26 posts ante [$120]
+mmmmanu30 posts ante [$120]
+Bambaruush posts ante [$120]
+Goustous14 posts ante [$120]
+Dominik222 posts small blind [$600]
+PapaShango19 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Ks ]
+Ralhec folds
+Justin2277 folds
+Goustous14 calls [$1,200]
+Bambaruush folds
+bigfox26 calls [$1,200]
+mmmmanu30 folds
+riffela folds
+Dominik222 folds
+PapaShango19 checks
+** Dealing flop ** [ Th, 5c, 9h ]
+PapaShango19 bets [$1,020]
+Goustous14 calls [$1,020]
+bigfox26 calls [$1,020]
+** Dealing turn ** [ Qc ]
+Goustous14 checks
+bigfox26 bets [$8,400]
+Goustous14 folds
+** Dealing river ** [ 8c ]
+** Summary **
+bigfox26 shows [ Qd, Ac ]
+PapaShango19 shows [ Tc, Ks ]
+bigfox26 collected [ $8,340 ]
+
+
+
+#Game No : 652724716
+***** 888poker Hand History for Game 652724716 *****
+$600/$1,200 Blinds No Limit Holdem - *** 16 12 2014 01:51:26
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $33,070 )
+Seat 2: Bambaruush ( $1,380 )
+Seat 3: bigfox26 ( $28,228 )
+Seat 4: mmmmanu30 ( $3,698 )
+Seat 5: riffela ( $3,800 )
+Seat 6: Dominik222 ( $17,907 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: Ralhec ( $9,696 )
+Seat 10: Justin2277 ( $19,320 )
+riffela posts ante [$120]
+Dominik222 posts ante [$120]
+PapaShango19 posts ante [$120]
+Ralhec posts ante [$120]
+Justin2277 posts ante [$120]
+bigfox26 posts ante [$120]
+mmmmanu30 posts ante [$120]
+Bambaruush posts ante [$120]
+Goustous14 posts ante [$120]
+PapaShango19 posts small blind [$600]
+Ralhec posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 6d ]
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 calls [$1,200]
+riffela folds
+Dominik222 folds
+PapaShango19 raises [$780]
+Ralhec calls [$180]
+mmmmanu30 calls [$180]
+** Dealing flop ** [ 5h, Ad, 5c ]
+Ralhec bets [$1,200]
+mmmmanu30 folds
+** Dealing turn ** [ Ac ]
+** Dealing river ** [ 3s ]
+** Summary **
+PapaShango19 shows [ Jc, 6d ]
+Ralhec shows [ 7h, Qd ]
+Ralhec collected [ $5,220 ]
+
+
+
+#Game No : 652724920
+***** 888poker Hand History for Game 652724920 *****
+$600/$1,200 Blinds No Limit Holdem - *** 16 12 2014 01:52:26
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $32,950 )
+Seat 2: Bambaruush ( $1,260 )
+Seat 3: bigfox26 ( $28,108 )
+Seat 4: mmmmanu30 ( $2,198 )
+Seat 5: riffela ( $3,680 )
+Seat 6: Dominik222 ( $17,787 )
+Seat 7: PapaShango19 ( $3,000 )
+Seat 9: Ralhec ( $13,416 )
+Seat 10: Justin2277 ( $19,200 )
+riffela posts ante [$120]
+Dominik222 posts ante [$120]
+PapaShango19 posts ante [$120]
+Ralhec posts ante [$120]
+Justin2277 posts ante [$120]
+bigfox26 posts ante [$120]
+mmmmanu30 posts ante [$120]
+Bambaruush posts ante [$120]
+Goustous14 posts ante [$120]
+Ralhec posts small blind [$600]
+Justin2277 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ts ]
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$600]
+Justin2277 checks
+** Dealing flop ** [ 9h, Ah, Jd ]
+Ralhec checks
+Justin2277 checks
+** Dealing turn ** [ 8h ]
+Ralhec bets [$1,200]
+Justin2277 folds
+** Summary **
+Ralhec did not show his hand
+Ralhec collected [ $3,480 ]
+
+
+
+#Game No : 652725188
+***** 888poker Hand History for Game 652725188 *****
+$600/$1,200 Blinds No Limit Holdem - *** 16 12 2014 01:53:54
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $32,830 )
+Seat 2: Bambaruush ( $1,140 )
+Seat 3: bigfox26 ( $27,988 )
+Seat 4: mmmmanu30 ( $2,078 )
+Seat 5: riffela ( $3,560 )
+Seat 6: Dominik222 ( $17,667 )
+Seat 7: PapaShango19 ( $2,880 )
+Seat 9: Ralhec ( $15,576 )
+Seat 10: Justin2277 ( $17,880 )
+riffela posts ante [$120]
+Dominik222 posts ante [$120]
+PapaShango19 posts ante [$120]
+Ralhec posts ante [$120]
+Justin2277 posts ante [$120]
+bigfox26 posts ante [$120]
+mmmmanu30 posts ante [$120]
+Bambaruush posts ante [$120]
+Goustous14 posts ante [$120]
+Justin2277 posts small blind [$600]
+Goustous14 posts big blind [$1,200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 3s ]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 raises [$2,640]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 raises [$8,400]
+Dominik222 folds
+** Summary **
+Goustous14 did not show his hand
+Goustous14 collected [ $6,960 ]
+
+
+
+#Game No : 652725309
+***** 888poker Hand History for Game 652725309 *****
+$600/$1,200 Blinds No Limit Holdem - *** 16 12 2014 01:54:33
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $37,030 )
+Seat 2: Bambaruush ( $1,020 )
+Seat 3: bigfox26 ( $27,868 )
+Seat 4: mmmmanu30 ( $1,958 )
+Seat 5: riffela ( $3,440 )
+Seat 6: Dominik222 ( $14,907 )
+Seat 7: PapaShango19 ( $2,760 )
+Seat 9: Ralhec ( $15,456 )
+Seat 10: Justin2277 ( $17,160 )
+riffela posts ante [$120]
+Dominik222 posts ante [$120]
+PapaShango19 posts ante [$120]
+Ralhec posts ante [$120]
+Justin2277 posts ante [$120]
+bigfox26 posts ante [$120]
+mmmmanu30 posts ante [$120]
+Bambaruush posts ante [$120]
+Goustous14 posts ante [$120]
+Goustous14 posts small blind [$600]
+Bambaruush posts big blind [$900]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 7d ]
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 raises [$2,400]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 calls [$1,800]
+** Dealing flop ** [ 2d, Jd, 7h ]
+Goustous14 checks
+Dominik222 bets [$2,400]
+Goustous14 folds
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 7s ]
+** Summary **
+Bambaruush shows [ Kh, Ah ]
+Dominik222 shows [ Ks, Qh ]
+Bambaruush collected [ $3,780 ]
+Dominik222 collected [ $5,400 ]
+
+
+
+#Game No : 652727335
+***** 888poker Hand History for Game 652727335 *****
+$800/$1,600 Blinds No Limit Holdem - *** 16 12 2014 02:02:02
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $54,510 )
+Seat 2: Bambaruush ( $33,780 )
+Seat 3: bigfox26 ( $57,748 )
+Seat 4: mmmmanu30 ( $31,838 )
+Seat 5: riffela ( $33,320 )
+Seat 6: Dominik222 ( $45,387 )
+Seat 7: PapaShango19 ( $32,640 )
+Seat 9: Ralhec ( $25,336 )
+Seat 10: Justin2277 ( $47,040 )
+riffela posts ante [$160]
+Dominik222 posts ante [$160]
+PapaShango19 posts ante [$160]
+Ralhec posts ante [$160]
+Justin2277 posts ante [$160]
+bigfox26 posts ante [$160]
+mmmmanu30 posts ante [$160]
+Bambaruush posts ante [$160]
+Goustous14 posts ante [$160]
+Bambaruush posts small blind [$800]
+bigfox26 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Ah ]
+mmmmanu30 calls [$1,600]
+riffela folds
+Dominik222 calls [$1,600]
+PapaShango19 raises [$8,000]
+Ralhec folds
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 calls [$6,400]
+Dominik222 folds
+** Dealing flop ** [ 4s, Kc, Td ]
+mmmmanu30 checks
+PapaShango19 bets [$9,120]
+mmmmanu30 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $21,440 ]
+
+
+
+#Game No : 652727711
+***** 888poker Hand History for Game 652727711 *****
+$800/$1,600 Blinds No Limit Holdem - *** 16 12 2014 02:04:10
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $54,350 )
+Seat 2: Bambaruush ( $32,820 )
+Seat 3: bigfox26 ( $55,988 )
+Seat 4: mmmmanu30 ( $23,678 )
+Seat 5: riffela ( $33,160 )
+Seat 6: Dominik222 ( $43,627 )
+Seat 7: PapaShango19 ( $45,920 )
+Seat 9: Ralhec ( $25,176 )
+Seat 10: Justin2277 ( $46,880 )
+riffela posts ante [$160]
+Dominik222 posts ante [$160]
+PapaShango19 posts ante [$160]
+Ralhec posts ante [$160]
+Justin2277 posts ante [$160]
+bigfox26 posts ante [$160]
+mmmmanu30 posts ante [$160]
+Bambaruush posts ante [$160]
+Goustous14 posts ante [$160]
+bigfox26 posts small blind [$800]
+mmmmanu30 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Td ]
+riffela folds
+Dominik222 folds
+PapaShango19 raises [$3,200]
+Ralhec folds
+Justin2277 folds
+Goustous14 calls [$3,200]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 calls [$1,600]
+** Dealing flop ** [ Th, Jd, 6s ]
+mmmmanu30 checks
+PapaShango19 bets [$4,320]
+Goustous14 raises [$24,800]
+mmmmanu30 folds
+PapaShango19 folds
+** Summary **
+Goustous14 did not show his hand
+Goustous14 collected [ $20,480 ]
+
+
+
+#Game No : 652727861
+***** 888poker Hand History for Game 652727861 *****
+$800/$1,600 Blinds No Limit Holdem - *** 16 12 2014 02:05:03
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $67,150 )
+Seat 2: Bambaruush ( $32,660 )
+Seat 3: bigfox26 ( $55,028 )
+Seat 4: mmmmanu30 ( $20,318 )
+Seat 5: riffela ( $33,000 )
+Seat 6: Dominik222 ( $43,467 )
+Seat 7: PapaShango19 ( $38,240 )
+Seat 9: Ralhec ( $25,016 )
+Seat 10: Justin2277 ( $46,720 )
+riffela posts ante [$160]
+Dominik222 posts ante [$160]
+PapaShango19 posts ante [$160]
+Ralhec posts ante [$160]
+Justin2277 posts ante [$160]
+bigfox26 posts ante [$160]
+mmmmanu30 posts ante [$160]
+Bambaruush posts ante [$160]
+Goustous14 posts ante [$160]
+mmmmanu30 posts small blind [$800]
+riffela posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, Kd ]
+Dominik222 raises [$3,520]
+PapaShango19 calls [$3,520]
+Ralhec calls [$3,520]
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela calls [$1,920]
+** Dealing flop ** [ 6h, Jc, Kc ]
+riffela bets [$3,200]
+Dominik222 folds
+PapaShango19 raises [$6,400]
+Ralhec folds
+riffela calls [$3,200]
+** Dealing turn ** [ 3h ]
+riffela checks
+PapaShango19 bets [$14,560]
+riffela folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $29,120 ]
+
+
+
+#Game No : 652728025
+***** 888poker Hand History for Game 652728025 *****
+$800/$1,600 Blinds No Limit Holdem - *** 16 12 2014 02:05:57
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $66,990 )
+Seat 2: Bambaruush ( $32,500 )
+Seat 3: bigfox26 ( $54,868 )
+Seat 4: mmmmanu30 ( $19,358 )
+Seat 5: riffela ( $22,920 )
+Seat 6: Dominik222 ( $39,787 )
+Seat 7: PapaShango19 ( $57,280 )
+Seat 9: Ralhec ( $21,336 )
+Seat 10: Justin2277 ( $46,560 )
+riffela posts ante [$160]
+Dominik222 posts ante [$160]
+PapaShango19 posts ante [$160]
+Ralhec posts ante [$160]
+Justin2277 posts ante [$160]
+bigfox26 posts ante [$160]
+mmmmanu30 posts ante [$160]
+Bambaruush posts ante [$160]
+Goustous14 posts ante [$160]
+riffela posts small blind [$800]
+Dominik222 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6s ]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 calls [$1,600]
+riffela folds
+Dominik222 raises [$5,440]
+mmmmanu30 calls [$5,440]
+** Dealing flop ** [ 5s, 8h, 8s ]
+Dominik222 bets [$16,320]
+mmmmanu30 folds
+** Summary **
+Dominik222 did not show his hand
+Dominik222 collected [ $16,320 ]
+
+
+
+#Game No : 652728169
+***** 888poker Hand History for Game 652728169 *****
+$800/$1,600 Blinds No Limit Holdem - *** 16 12 2014 02:06:47
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $66,830 )
+Seat 2: Bambaruush ( $32,340 )
+Seat 3: bigfox26 ( $54,708 )
+Seat 4: mmmmanu30 ( $12,158 )
+Seat 5: riffela ( $21,960 )
+Seat 6: Dominik222 ( $48,907 )
+Seat 7: PapaShango19 ( $57,120 )
+Seat 9: Ralhec ( $21,176 )
+Seat 10: Justin2277 ( $46,400 )
+riffela posts ante [$160]
+Dominik222 posts ante [$160]
+PapaShango19 posts ante [$160]
+Ralhec posts ante [$160]
+Justin2277 posts ante [$160]
+bigfox26 posts ante [$160]
+mmmmanu30 posts ante [$160]
+Bambaruush posts ante [$160]
+Goustous14 posts ante [$160]
+Dominik222 posts small blind [$800]
+PapaShango19 posts big blind [$1,600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 3s ]
+Ralhec calls [$1,600]
+Justin2277 folds
+Goustous14 folds
+Bambaruush calls [$1,600]
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 folds
+PapaShango19 checks
+** Dealing flop ** [ 6h, 4c, 3h ]
+PapaShango19 checks
+Ralhec bets [$4,800]
+Bambaruush folds
+PapaShango19 folds
+** Summary **
+Ralhec did not show his hand
+Ralhec collected [ $7,040 ]
+
+
+
+#Game No : 652728338
+***** 888poker Hand History for Game 652728338 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 16 12 2014 02:07:37
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $66,670 )
+Seat 2: Bambaruush ( $30,580 )
+Seat 3: bigfox26 ( $54,548 )
+Seat 4: mmmmanu30 ( $11,998 )
+Seat 5: riffela ( $21,800 )
+Seat 6: Dominik222 ( $47,947 )
+Seat 7: PapaShango19 ( $55,360 )
+Seat 9: Ralhec ( $26,456 )
+Seat 10: Justin2277 ( $46,240 )
+riffela posts ante [$200]
+Dominik222 posts ante [$200]
+PapaShango19 posts ante [$200]
+Ralhec posts ante [$200]
+Justin2277 posts ante [$200]
+bigfox26 posts ante [$200]
+mmmmanu30 posts ante [$200]
+Bambaruush posts ante [$200]
+Goustous14 posts ante [$200]
+PapaShango19 posts small blind [$1,000]
+Ralhec posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 2s ]
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 raises [$11,798]
+riffela raises [$21,600]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+** Dealing flop ** [ Qd, 5h, 3c ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 7s ]
+** Summary **
+mmmmanu30 shows [ 9h, Ac ]
+riffela shows [ Ah, 9s ]
+riffela collected [ $14,198 ]
+mmmmanu30 collected [ $14,198 ]
+
+
+
+#Game No : 652728530
+***** 888poker Hand History for Game 652728530 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 16 12 2014 02:08:35
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $66,470 )
+Seat 2: Bambaruush ( $30,380 )
+Seat 3: bigfox26 ( $54,348 )
+Seat 4: mmmmanu30 ( $14,198 )
+Seat 5: riffela ( $24,000 )
+Seat 6: Dominik222 ( $47,747 )
+Seat 7: PapaShango19 ( $54,160 )
+Seat 9: Ralhec ( $24,256 )
+Seat 10: Justin2277 ( $46,040 )
+riffela posts ante [$200]
+Dominik222 posts ante [$200]
+PapaShango19 posts ante [$200]
+Ralhec posts ante [$200]
+Justin2277 posts ante [$200]
+bigfox26 posts ante [$200]
+mmmmanu30 posts ante [$200]
+Bambaruush posts ante [$200]
+Goustous14 posts ante [$200]
+Ralhec posts small blind [$1,000]
+Justin2277 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 4d ]
+Goustous14 raises [$4,000]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 raises [$16,800]
+PapaShango19 folds
+Ralhec calls [$15,800]
+Justin2277 folds
+Goustous14 raises [$62,270]
+Dominik222 calls [$30,747]
+Ralhec calls [$7,256]
+** Dealing flop ** [ 6s, 4h, Tc ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 5c ]
+** Summary **
+Goustous14 shows [ Ac, Jc ]
+Dominik222 shows [ Ah, Kd ]
+Ralhec shows [ 9s, Ts ]
+Ralhec collected [ $75,968 ]
+Dominik222 collected [ $46,982 ]
+
+
+
+#Game No : 652728691
+***** 888poker Hand History for Game 652728691 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 16 12 2014 02:09:23
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $18,723 )
+Seat 2: Bambaruush ( $30,180 )
+Seat 3: bigfox26 ( $54,148 )
+Seat 4: mmmmanu30 ( $13,998 )
+Seat 5: riffela ( $23,800 )
+Seat 6: Dominik222 ( $46,982 )
+Seat 7: PapaShango19 ( $53,960 )
+Seat 9: Ralhec ( $75,968 )
+Seat 10: Justin2277 ( $43,840 )
+riffela posts ante [$200]
+Dominik222 posts ante [$200]
+PapaShango19 posts ante [$200]
+Ralhec posts ante [$200]
+Justin2277 posts ante [$200]
+bigfox26 posts ante [$200]
+mmmmanu30 posts ante [$200]
+Bambaruush posts ante [$200]
+Goustous14 posts ante [$200]
+Justin2277 posts small blind [$1,000]
+Goustous14 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 7s ]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+riffela folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$2,000]
+Justin2277 calls [$1,000]
+Goustous14 raises [$16,523]
+Ralhec calls [$16,523]
+Justin2277 folds
+** Dealing flop ** [ 2h, 8c, Ac ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 6h ]
+** Summary **
+Goustous14 shows [ Ad, Tc ]
+Ralhec shows [ 5h, Kh ]
+Goustous14 collected [ $40,846 ]
+
+
+
+#Game No : 652728821
+***** 888poker Hand History for Game 652728821 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 16 12 2014 02:10:05
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $40,846 )
+Seat 2: Bambaruush ( $29,980 )
+Seat 3: bigfox26 ( $53,948 )
+Seat 4: mmmmanu30 ( $13,798 )
+Seat 5: riffela ( $23,600 )
+Seat 6: Dominik222 ( $46,782 )
+Seat 7: PapaShango19 ( $53,760 )
+Seat 9: Ralhec ( $57,245 )
+Seat 10: Justin2277 ( $41,640 )
+riffela posts ante [$200]
+Dominik222 posts ante [$200]
+PapaShango19 posts ante [$200]
+Ralhec posts ante [$200]
+Justin2277 posts ante [$200]
+bigfox26 posts ante [$200]
+mmmmanu30 posts ante [$200]
+Bambaruush posts ante [$200]
+Goustous14 posts ante [$200]
+Goustous14 posts small blind [$1,000]
+Bambaruush posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 4c ]
+bigfox26 calls [$2,000]
+mmmmanu30 folds
+riffela raises [$23,400]
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$23,400]
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 calls [$21,400]
+** Dealing flop ** [ Kd, 3c, 6c ]
+bigfox26 checks
+Ralhec bets [$14,000]
+bigfox26 folds
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 4d ]
+** Summary **
+riffela shows [ 5c, 5h ]
+Ralhec shows [ Ks, Jc ]
+Ralhec collected [ $75,000 ]
+
+
+
+#Game No : 652729025
+***** 888poker Hand History for Game 652729025 *****
+$1,000/$2,000 Blinds No Limit Holdem - *** 16 12 2014 02:11:07
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Goustous14 ( $39,646 )
+Seat 2: Bambaruush ( $27,780 )
+Seat 3: bigfox26 ( $30,348 )
+Seat 4: mmmmanu30 ( $13,598 )
+Seat 6: Dominik222 ( $46,582 )
+Seat 7: PapaShango19 ( $53,560 )
+Seat 9: Ralhec ( $108,645 )
+Seat 10: Justin2277 ( $41,440 )
+Dominik222 posts ante [$200]
+PapaShango19 posts ante [$200]
+Ralhec posts ante [$200]
+Justin2277 posts ante [$200]
+bigfox26 posts ante [$200]
+mmmmanu30 posts ante [$200]
+Bambaruush posts ante [$200]
+Goustous14 posts ante [$200]
+Bambaruush posts small blind [$1,000]
+bigfox26 posts big blind [$2,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Jd ]
+mmmmanu30 folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$2,000]
+Justin2277 folds
+Goustous14 calls [$2,000]
+Bambaruush folds
+bigfox26 raises [$2,000]
+Ralhec calls [$2,000]
+Goustous14 calls [$2,000]
+** Dealing flop ** [ 5h, Js, Jc ]
+bigfox26 bets [$26,148]
+Ralhec folds
+Goustous14 folds
+** Summary **
+bigfox26 collected [ $14,600 ]
+
+
+
+#Game No : 652729197
+***** 888poker Hand History for Game 652729197 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 16 12 2014 02:12:03
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $35,446 )
+Seat 2: Bambaruush ( $26,580 )
+Seat 3: bigfox26 ( $40,748 )
+Seat 4: mmmmanu30 ( $13,398 )
+Seat 5: koco_mk ( $40,500 )
+Seat 6: Dominik222 ( $46,382 )
+Seat 7: PapaShango19 ( $53,360 )
+Seat 9: Ralhec ( $104,445 )
+Seat 10: Justin2277 ( $41,240 )
+Dominik222 posts ante [$250]
+PapaShango19 posts ante [$250]
+Ralhec posts ante [$250]
+Justin2277 posts ante [$250]
+bigfox26 posts ante [$250]
+mmmmanu30 posts ante [$250]
+Bambaruush posts ante [$250]
+Goustous14 posts ante [$250]
+koco_mk posts ante [$250]
+bigfox26 posts small blind [$1,250]
+mmmmanu30 posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 2c ]
+koco_mk folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+** Summary **
+mmmmanu30 did not show his hand
+mmmmanu30 collected [ $6,000 ]
+
+
+
+#Game No : 652729397
+***** 888poker Hand History for Game 652729397 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 16 12 2014 02:13:05
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $35,196 )
+Seat 2: Bambaruush ( $26,330 )
+Seat 3: bigfox26 ( $39,248 )
+Seat 4: mmmmanu30 ( $16,648 )
+Seat 5: koco_mk ( $40,250 )
+Seat 6: Dominik222 ( $46,132 )
+Seat 7: PapaShango19 ( $53,110 )
+Seat 9: Ralhec ( $104,195 )
+Seat 10: Justin2277 ( $40,990 )
+Dominik222 posts ante [$250]
+PapaShango19 posts ante [$250]
+Ralhec posts ante [$250]
+Justin2277 posts ante [$250]
+bigfox26 posts ante [$250]
+mmmmanu30 posts ante [$250]
+Bambaruush posts ante [$250]
+Goustous14 posts ante [$250]
+koco_mk posts ante [$250]
+mmmmanu30 posts small blind [$1,250]
+koco_mk posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 9s ]
+Dominik222 raises [$5,500]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+koco_mk folds
+** Summary **
+Dominik222 did not show his hand
+Dominik222 collected [ $8,500 ]
+
+
+
+#Game No : 652729635
+***** 888poker Hand History for Game 652729635 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 16 12 2014 02:14:07
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Goustous14 ( $34,946 )
+Seat 2: Bambaruush ( $26,080 )
+Seat 3: bigfox26 ( $38,998 )
+Seat 4: mmmmanu30 ( $15,148 )
+Seat 5: koco_mk ( $37,500 )
+Seat 6: Dominik222 ( $51,882 )
+Seat 7: PapaShango19 ( $52,860 )
+Seat 9: Ralhec ( $103,945 )
+Seat 10: Justin2277 ( $40,740 )
+Dominik222 posts ante [$250]
+PapaShango19 posts ante [$250]
+Ralhec posts ante [$250]
+Justin2277 posts ante [$250]
+bigfox26 posts ante [$250]
+mmmmanu30 posts ante [$250]
+Bambaruush posts ante [$250]
+Goustous14 posts ante [$250]
+koco_mk posts ante [$250]
+koco_mk posts small blind [$1,250]
+Dominik222 posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Ks ]
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Goustous14 raises [$5,000]
+Bambaruush folds
+bigfox26 raises [$38,748]
+mmmmanu30 folds
+koco_mk folds
+Dominik222 folds
+Goustous14 calls [$29,696]
+** Dealing flop ** [ Th, Ah, 6h ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ Qc ]
+** Summary **
+Goustous14 shows [ 7s, Ad ]
+bigfox26 shows [ Kh, As ]
+bigfox26 collected [ $75,392 ]
+
+
+
+#Game No : 652729921
+***** 888poker Hand History for Game 652729921 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 16 12 2014 02:15:30
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: Bambaruush ( $25,830 )
+Seat 3: bigfox26 ( $79,444 )
+Seat 4: mmmmanu30 ( $14,898 )
+Seat 5: koco_mk ( $36,000 )
+Seat 6: Dominik222 ( $49,132 )
+Seat 7: PapaShango19 ( $52,610 )
+Seat 9: Ralhec ( $103,695 )
+Seat 10: Justin2277 ( $40,490 )
+Dominik222 posts ante [$250]
+PapaShango19 posts ante [$250]
+Ralhec posts ante [$250]
+Justin2277 posts ante [$250]
+bigfox26 posts ante [$250]
+mmmmanu30 posts ante [$250]
+Bambaruush posts ante [$250]
+koco_mk posts ante [$250]
+Dominik222 posts small blind [$1,250]
+PapaShango19 posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 7h ]
+Ralhec folds
+Justin2277 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+koco_mk folds
+Dominik222 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $5,750 ]
+
+
+
+#Game No : 652730053
+***** 888poker Hand History for Game 652730053 *****
+$1,250/$2,500 Blinds No Limit Holdem - *** 16 12 2014 02:16:11
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: Bambaruush ( $25,580 )
+Seat 3: bigfox26 ( $79,194 )
+Seat 4: mmmmanu30 ( $14,648 )
+Seat 5: koco_mk ( $35,750 )
+Seat 6: Dominik222 ( $47,632 )
+Seat 7: PapaShango19 ( $55,610 )
+Seat 9: Ralhec ( $103,445 )
+Seat 10: Justin2277 ( $40,240 )
+Dominik222 posts ante [$250]
+PapaShango19 posts ante [$250]
+Ralhec posts ante [$250]
+Justin2277 posts ante [$250]
+bigfox26 posts ante [$250]
+mmmmanu30 posts ante [$250]
+Bambaruush posts ante [$250]
+koco_mk posts ante [$250]
+PapaShango19 posts small blind [$1,250]
+Ralhec posts big blind [$2,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 9d ]
+Justin2277 folds
+Bambaruush folds
+bigfox26 calls [$2,500]
+mmmmanu30 folds
+koco_mk folds
+Dominik222 folds
+PapaShango19 calls [$1,250]
+Ralhec checks
+** Dealing flop ** [ Qd, 9s, 2s ]
+PapaShango19 checks
+Ralhec bets [$2,500]
+bigfox26 raises [$7,500]
+PapaShango19 folds
+Ralhec calls [$5,000]
+** Dealing turn ** [ 9h ]
+Ralhec bets [$2,500]
+bigfox26 calls [$2,500]
+** Dealing river ** [ Js ]
+Ralhec bets [$2,500]
+bigfox26 raises [$12,500]
+Ralhec calls [$10,000]
+** Summary **
+bigfox26 shows [ Qs, Ts ]
+Ralhec mucks [ Qc, 3c ]
+bigfox26 collected [ $54,500 ]
+
+
+
+#Game No : 652730310
+***** 888poker Hand History for Game 652730310 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 16 12 2014 02:17:36
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: wal447 ( $24,630 )
+Seat 2: Bambaruush ( $25,330 )
+Seat 3: bigfox26 ( $108,444 )
+Seat 4: mmmmanu30 ( $14,398 )
+Seat 5: koco_mk ( $35,500 )
+Seat 6: Dominik222 ( $47,382 )
+Seat 7: PapaShango19 ( $52,860 )
+Seat 9: Ralhec ( $78,195 )
+Seat 10: Justin2277 ( $39,990 )
+Dominik222 posts ante [$300]
+PapaShango19 posts ante [$300]
+Ralhec posts ante [$300]
+Justin2277 posts ante [$300]
+bigfox26 posts ante [$300]
+mmmmanu30 posts ante [$300]
+Bambaruush posts ante [$300]
+koco_mk posts ante [$300]
+wal447 posts ante [$300]
+Ralhec posts small blind [$1,500]
+Justin2277 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Jd ]
+wal447 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+koco_mk raises [$35,200]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+** Summary **
+koco_mk did not show his hand
+koco_mk collected [ $10,200 ]
+
+
+
+#Game No : 652730398
+***** 888poker Hand History for Game 652730398 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 16 12 2014 02:18:00
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: wal447 ( $24,330 )
+Seat 2: Bambaruush ( $25,030 )
+Seat 3: bigfox26 ( $108,144 )
+Seat 4: mmmmanu30 ( $14,098 )
+Seat 5: koco_mk ( $42,400 )
+Seat 6: Dominik222 ( $47,082 )
+Seat 7: PapaShango19 ( $52,560 )
+Seat 9: Ralhec ( $76,395 )
+Seat 10: Justin2277 ( $36,690 )
+Dominik222 posts ante [$300]
+PapaShango19 posts ante [$300]
+Ralhec posts ante [$300]
+Justin2277 posts ante [$300]
+bigfox26 posts ante [$300]
+mmmmanu30 posts ante [$300]
+Bambaruush posts ante [$300]
+koco_mk posts ante [$300]
+wal447 posts ante [$300]
+Justin2277 posts small blind [$1,500]
+wal447 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 9s ]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+koco_mk raises [$6,000]
+Dominik222 folds
+PapaShango19 raises [$12,000]
+Ralhec folds
+Justin2277 folds
+wal447 folds
+koco_mk raises [$18,000]
+PapaShango19 raises [$40,260]
+koco_mk calls [$18,100]
+** Dealing flop ** [ Qs, 2h, 2c ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 9h ]
+** Summary **
+koco_mk shows [ Ac, Ah ]
+PapaShango19 shows [ 9d, 9s ]
+PapaShango19 collected [ $91,400 ]
+
+
+
+#Game No : 652730603
+***** 888poker Hand History for Game 652730603 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 16 12 2014 02:19:00
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: wal447 ( $21,030 )
+Seat 2: Bambaruush ( $24,730 )
+Seat 3: bigfox26 ( $107,844 )
+Seat 4: mmmmanu30 ( $13,798 )
+Seat 6: Dominik222 ( $46,782 )
+Seat 7: PapaShango19 ( $101,560 )
+Seat 9: Ralhec ( $76,095 )
+Seat 10: Justin2277 ( $34,890 )
+Dominik222 posts ante [$300]
+PapaShango19 posts ante [$300]
+Ralhec posts ante [$300]
+Justin2277 posts ante [$300]
+bigfox26 posts ante [$300]
+mmmmanu30 posts ante [$300]
+Bambaruush posts ante [$300]
+wal447 posts ante [$300]
+wal447 posts small blind [$1,500]
+Bambaruush posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Td ]
+bigfox26 folds
+mmmmanu30 calls [$3,000]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+wal447 calls [$1,500]
+Bambaruush checks
+** Dealing flop ** [ Kc, 6s, 4s ]
+wal447 checks
+Bambaruush checks
+mmmmanu30 bets [$10,498]
+wal447 folds
+Bambaruush folds
+** Summary **
+mmmmanu30 did not show his hand
+mmmmanu30 collected [ $11,400 ]
+
+
+
+#Game No : 652730697
+***** 888poker Hand History for Game 652730697 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 16 12 2014 02:19:32
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: wal447 ( $17,730 )
+Seat 2: Bambaruush ( $21,430 )
+Seat 3: bigfox26 ( $107,544 )
+Seat 4: mmmmanu30 ( $21,898 )
+Seat 6: Dominik222 ( $46,482 )
+Seat 7: PapaShango19 ( $101,260 )
+Seat 9: Ralhec ( $75,795 )
+Seat 10: Justin2277 ( $34,590 )
+Dominik222 posts ante [$300]
+PapaShango19 posts ante [$300]
+Ralhec posts ante [$300]
+Justin2277 posts ante [$300]
+bigfox26 posts ante [$300]
+mmmmanu30 posts ante [$300]
+Bambaruush posts ante [$300]
+wal447 posts ante [$300]
+Bambaruush posts small blind [$1,500]
+bigfox26 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 9d ]
+mmmmanu30 folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+wal447 folds
+Bambaruush folds
+** Summary **
+bigfox26 did not show his hand
+bigfox26 collected [ $6,900 ]
+
+
+
+#Game No : 652730788
+***** 888poker Hand History for Game 652730788 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 16 12 2014 02:19:56
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: wal447 ( $17,430 )
+Seat 2: Bambaruush ( $19,630 )
+Seat 3: bigfox26 ( $111,144 )
+Seat 4: mmmmanu30 ( $21,598 )
+Seat 6: Dominik222 ( $46,182 )
+Seat 7: PapaShango19 ( $100,960 )
+Seat 9: Ralhec ( $75,495 )
+Seat 10: Justin2277 ( $34,290 )
+Dominik222 posts ante [$300]
+PapaShango19 posts ante [$300]
+Ralhec posts ante [$300]
+Justin2277 posts ante [$300]
+bigfox26 posts ante [$300]
+mmmmanu30 posts ante [$300]
+Bambaruush posts ante [$300]
+wal447 posts ante [$300]
+bigfox26 posts small blind [$1,500]
+mmmmanu30 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Qs ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+wal447 folds
+Bambaruush folds
+bigfox26 calls [$1,500]
+mmmmanu30 checks
+** Dealing flop ** [ Js, 3d, Ac ]
+bigfox26 checks
+mmmmanu30 checks
+** Dealing turn ** [ 2h ]
+bigfox26 bets [$3,000]
+mmmmanu30 folds
+** Summary **
+bigfox26 collected [ $8,400 ]
+
+
+
+#Game No : 652730936
+***** 888poker Hand History for Game 652730936 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 16 12 2014 02:20:41
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: wal447 ( $17,130 )
+Seat 2: Bambaruush ( $19,330 )
+Seat 3: bigfox26 ( $116,244 )
+Seat 4: mmmmanu30 ( $18,298 )
+Seat 5: wanggp59 ( $55,850 )
+Seat 6: Dominik222 ( $45,882 )
+Seat 7: PapaShango19 ( $100,660 )
+Seat 9: Ralhec ( $75,195 )
+Seat 10: Justin2277 ( $33,990 )
+Dominik222 posts ante [$300]
+PapaShango19 posts ante [$300]
+Ralhec posts ante [$300]
+Justin2277 posts ante [$300]
+bigfox26 posts ante [$300]
+mmmmanu30 posts ante [$300]
+Bambaruush posts ante [$300]
+wal447 posts ante [$300]
+wanggp59 posts ante [$300]
+mmmmanu30 posts small blind [$1,500]
+wanggp59 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Tc ]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+wal447 folds
+Bambaruush folds
+bigfox26 raises [$9,000]
+mmmmanu30 folds
+wanggp59 folds
+** Summary **
+bigfox26 did not show his hand
+bigfox26 collected [ $10,200 ]
+
+
+
+#Game No : 652731094
+***** 888poker Hand History for Game 652731094 *****
+$1,500/$3,000 Blinds No Limit Holdem - *** 16 12 2014 02:21:27
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: wal447 ( $16,830 )
+Seat 2: Bambaruush ( $19,030 )
+Seat 3: bigfox26 ( $123,144 )
+Seat 4: mmmmanu30 ( $16,498 )
+Seat 5: wanggp59 ( $52,550 )
+Seat 6: Dominik222 ( $45,582 )
+Seat 7: PapaShango19 ( $100,360 )
+Seat 9: Ralhec ( $74,895 )
+Seat 10: Justin2277 ( $33,690 )
+Dominik222 posts ante [$300]
+PapaShango19 posts ante [$300]
+Ralhec posts ante [$300]
+Justin2277 posts ante [$300]
+bigfox26 posts ante [$300]
+mmmmanu30 posts ante [$300]
+Bambaruush posts ante [$300]
+wal447 posts ante [$300]
+wanggp59 posts ante [$300]
+wanggp59 posts small blind [$1,500]
+Dominik222 posts big blind [$3,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Qc ]
+PapaShango19 folds
+Ralhec calls [$3,000]
+Justin2277 calls [$3,000]
+wal447 folds
+Bambaruush raises [$18,730]
+bigfox26 folds
+mmmmanu30 folds
+wanggp59 folds
+Dominik222 folds
+Ralhec calls [$15,730]
+Justin2277 folds
+** Dealing flop ** [ Kh, 2d, 7d ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 8c ]
+** Summary **
+Bambaruush shows [ Ac, Qs ]
+Ralhec shows [ Tc, Ad ]
+Bambaruush collected [ $47,660 ]
+
+
+
+#Game No : 652731256
+***** 888poker Hand History for Game 652731256 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 16 12 2014 02:22:15
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: wal447 ( $16,530 )
+Seat 2: Bambaruush ( $47,660 )
+Seat 3: bigfox26 ( $122,844 )
+Seat 4: mmmmanu30 ( $16,198 )
+Seat 5: wanggp59 ( $50,750 )
+Seat 6: Dominik222 ( $42,282 )
+Seat 7: PapaShango19 ( $100,060 )
+Seat 9: Ralhec ( $55,865 )
+Seat 10: Justin2277 ( $30,390 )
+Dominik222 posts ante [$400]
+PapaShango19 posts ante [$400]
+Ralhec posts ante [$400]
+Justin2277 posts ante [$400]
+bigfox26 posts ante [$400]
+mmmmanu30 posts ante [$400]
+Bambaruush posts ante [$400]
+wal447 posts ante [$400]
+wanggp59 posts ante [$400]
+Dominik222 posts small blind [$2,000]
+PapaShango19 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, As ]
+Ralhec folds
+Justin2277 folds
+wal447 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 raises [$15,798]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 calls [$11,798]
+** Dealing flop ** [ 9s, Th, Qs ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 2h ]
+** Summary **
+mmmmanu30 shows [ 9c, Tc ]
+PapaShango19 shows [ 7c, As ]
+mmmmanu30 collected [ $37,196 ]
+
+
+
+#Game No : 652731403
+***** 888poker Hand History for Game 652731403 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 16 12 2014 02:23:08
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: wal447 ( $16,130 )
+Seat 2: Bambaruush ( $47,260 )
+Seat 3: bigfox26 ( $122,444 )
+Seat 4: mmmmanu30 ( $37,196 )
+Seat 5: wanggp59 ( $50,350 )
+Seat 6: Dominik222 ( $39,882 )
+Seat 7: PapaShango19 ( $83,862 )
+Seat 9: Ralhec ( $55,465 )
+Seat 10: Justin2277 ( $29,990 )
+Dominik222 posts ante [$400]
+PapaShango19 posts ante [$400]
+Ralhec posts ante [$400]
+Justin2277 posts ante [$400]
+bigfox26 posts ante [$400]
+mmmmanu30 posts ante [$400]
+Bambaruush posts ante [$400]
+wal447 posts ante [$400]
+wanggp59 posts ante [$400]
+PapaShango19 posts small blind [$2,000]
+Ralhec posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Kc ]
+Justin2277 folds
+wal447 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 raises [$6,000]
+Ralhec calls [$4,000]
+** Dealing flop ** [ 2s, 5d, Ac ]
+PapaShango19 checks
+Ralhec checks
+** Dealing turn ** [ 4c ]
+PapaShango19 checks
+Ralhec bets [$4,000]
+PapaShango19 folds
+** Summary **
+Ralhec did not show his hand
+Ralhec collected [ $19,600 ]
+
+
+
+#Game No : 652731587
+***** 888poker Hand History for Game 652731587 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 16 12 2014 02:24:03
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: wal447 ( $15,730 )
+Seat 2: Bambaruush ( $46,860 )
+Seat 3: bigfox26 ( $122,044 )
+Seat 4: mmmmanu30 ( $36,796 )
+Seat 5: wanggp59 ( $49,950 )
+Seat 6: Dominik222 ( $39,482 )
+Seat 7: PapaShango19 ( $75,462 )
+Seat 9: Ralhec ( $66,665 )
+Seat 10: Justin2277 ( $29,590 )
+Dominik222 posts ante [$400]
+PapaShango19 posts ante [$400]
+Ralhec posts ante [$400]
+Justin2277 posts ante [$400]
+bigfox26 posts ante [$400]
+mmmmanu30 posts ante [$400]
+Bambaruush posts ante [$400]
+wal447 posts ante [$400]
+wanggp59 posts ante [$400]
+Ralhec posts small blind [$2,000]
+Justin2277 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Kd ]
+wal447 folds
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$2,000]
+Justin2277 checks
+** Dealing flop ** [ Qh, Tc, 2h ]
+Ralhec bets [$4,000]
+Justin2277 raises [$25,190]
+Ralhec folds
+** Summary **
+Justin2277 did not show his hand
+Justin2277 collected [ $19,600 ]
+
+
+
+#Game No : 652731709
+***** 888poker Hand History for Game 652731709 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 16 12 2014 02:24:41
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: wal447 ( $15,330 )
+Seat 2: Bambaruush ( $46,460 )
+Seat 3: bigfox26 ( $121,644 )
+Seat 4: mmmmanu30 ( $36,396 )
+Seat 5: wanggp59 ( $49,550 )
+Seat 6: Dominik222 ( $39,082 )
+Seat 7: PapaShango19 ( $75,062 )
+Seat 9: Ralhec ( $58,265 )
+Seat 10: Justin2277 ( $40,790 )
+Dominik222 posts ante [$400]
+PapaShango19 posts ante [$400]
+Ralhec posts ante [$400]
+Justin2277 posts ante [$400]
+bigfox26 posts ante [$400]
+mmmmanu30 posts ante [$400]
+Bambaruush posts ante [$400]
+wal447 posts ante [$400]
+wanggp59 posts ante [$400]
+Justin2277 posts small blind [$2,000]
+wal447 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 5d ]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+wanggp59 raises [$8,800]
+Dominik222 folds
+PapaShango19 folds
+Ralhec calls [$8,800]
+Justin2277 folds
+wal447 folds
+** Dealing flop ** [ 6s, 8d, 3d ]
+wanggp59 bets [$13,600]
+Ralhec calls [$13,600]
+** Dealing turn ** [ 4c ]
+wanggp59 bets [$26,750]
+Ralhec calls [$26,750]
+** Dealing river ** [ Jc ]
+** Summary **
+wanggp59 shows [ Ks, Kd ]
+Ralhec shows [ Kh, 3h ]
+wanggp59 collected [ $107,900 ]
+
+
+
+#Game No : 652731948
+***** 888poker Hand History for Game 652731948 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 16 12 2014 02:25:46
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: wal447 ( $10,930 )
+Seat 2: Bambaruush ( $46,060 )
+Seat 3: bigfox26 ( $121,244 )
+Seat 4: mmmmanu30 ( $35,996 )
+Seat 5: wanggp59 ( $107,900 )
+Seat 6: Dominik222 ( $38,682 )
+Seat 7: PapaShango19 ( $74,662 )
+Seat 9: Ralhec ( $8,715 )
+Seat 10: Justin2277 ( $38,390 )
+Dominik222 posts ante [$400]
+PapaShango19 posts ante [$400]
+Ralhec posts ante [$400]
+Justin2277 posts ante [$400]
+bigfox26 posts ante [$400]
+mmmmanu30 posts ante [$400]
+Bambaruush posts ante [$400]
+wal447 posts ante [$400]
+wanggp59 posts ante [$400]
+wal447 posts small blind [$2,000]
+Bambaruush posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, Ad ]
+bigfox26 folds
+mmmmanu30 folds
+wanggp59 raises [$13,200]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+wal447 calls [$8,530]
+Bambaruush folds
+** Dealing flop ** [ Jh, 7d, 6h ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 4c ]
+** Summary **
+wal447 shows [ 4s, As ]
+wanggp59 shows [ Qs, Qd ]
+wanggp59 collected [ $28,660 ]
+
+
+
+#Game No : 652732117
+***** 888poker Hand History for Game 652732117 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 16 12 2014 02:26:38
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: Bambaruush ( $41,660 )
+Seat 3: bigfox26 ( $120,844 )
+Seat 4: mmmmanu30 ( $35,596 )
+Seat 5: wanggp59 ( $125,630 )
+Seat 6: Dominik222 ( $38,282 )
+Seat 7: PapaShango19 ( $74,262 )
+Seat 9: Ralhec ( $8,315 )
+Seat 10: Justin2277 ( $37,990 )
+Dominik222 posts ante [$400]
+PapaShango19 posts ante [$400]
+Ralhec posts ante [$400]
+Justin2277 posts ante [$400]
+bigfox26 posts ante [$400]
+mmmmanu30 posts ante [$400]
+Bambaruush posts ante [$400]
+wanggp59 posts ante [$400]
+Bambaruush posts small blind [$2,000]
+bigfox26 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Td, 2d ]
+mmmmanu30 folds
+wanggp59 raises [$8,600]
+Dominik222 folds
+PapaShango19 folds
+Ralhec folds
+Justin2277 folds
+Bambaruush folds
+bigfox26 folds
+** Summary **
+wanggp59 did not show his hand
+wanggp59 collected [ $13,200 ]
+
+
+
+#Game No : 652732190
+***** 888poker Hand History for Game 652732190 *****
+$2,000/$4,000 Blinds No Limit Holdem - *** 16 12 2014 02:27:02
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: Bambaruush ( $39,260 )
+Seat 3: bigfox26 ( $116,444 )
+Seat 4: mmmmanu30 ( $35,196 )
+Seat 5: wanggp59 ( $134,430 )
+Seat 6: Dominik222 ( $37,882 )
+Seat 7: PapaShango19 ( $73,862 )
+Seat 9: Ralhec ( $7,915 )
+Seat 10: Justin2277 ( $37,590 )
+Dominik222 posts ante [$400]
+PapaShango19 posts ante [$400]
+Ralhec posts ante [$400]
+Justin2277 posts ante [$400]
+bigfox26 posts ante [$400]
+mmmmanu30 posts ante [$400]
+Bambaruush posts ante [$400]
+wanggp59 posts ante [$400]
+bigfox26 posts small blind [$2,000]
+mmmmanu30 posts big blind [$4,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 4h ]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+Ralhec raises [$7,515]
+Justin2277 calls [$7,515]
+Bambaruush calls [$7,515]
+bigfox26 folds
+mmmmanu30 calls [$3,515]
+** Dealing flop ** [ 4s, Js, 2s ]
+mmmmanu30 checks
+Justin2277 checks
+Bambaruush bets [$8,000]
+mmmmanu30 folds
+Justin2277 folds
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ 9s ]
+** Summary **
+Bambaruush shows [ Jd, Ah ]
+Ralhec shows [ 3s, As ]
+Ralhec collected [ $35,260 ]
+
+
+
+#Game No : 652732396
+***** 888poker Hand History for Game 652732396 *****
+$2,500/$5,000 Blinds No Limit Holdem - *** 16 12 2014 02:28:01
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: aperlari ( $69,140 )
+Seat 2: Bambaruush ( $31,345 )
+Seat 3: bigfox26 ( $114,044 )
+Seat 4: mmmmanu30 ( $27,281 )
+Seat 5: wanggp59 ( $134,030 )
+Seat 6: Dominik222 ( $37,482 )
+Seat 7: PapaShango19 ( $73,462 )
+Seat 9: Ralhec ( $35,260 )
+Seat 10: Justin2277 ( $29,675 )
+Dominik222 posts ante [$500]
+PapaShango19 posts ante [$500]
+Ralhec posts ante [$500]
+Justin2277 posts ante [$500]
+bigfox26 posts ante [$500]
+mmmmanu30 posts ante [$500]
+Bambaruush posts ante [$500]
+wanggp59 posts ante [$500]
+aperlari posts ante [$500]
+mmmmanu30 posts small blind [$2,500]
+wanggp59 posts big blind [$5,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Ts ]
+Dominik222 folds
+PapaShango19 raises [$10,000]
+Ralhec calls [$10,000]
+Justin2277 folds
+aperlari raises [$68,640]
+Bambaruush folds
+bigfox26 folds
+mmmmanu30 folds
+wanggp59 folds
+PapaShango19 folds
+Ralhec calls [$24,760]
+** Dealing flop ** [ Kc, 8c, 3s ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 3c ]
+** Summary **
+aperlari shows [ Ah, Kh ]
+Ralhec shows [ Jh, Qc ]
+aperlari collected [ $91,520 ]
+
+
+
+#Game No : 652732595
+***** 888poker Hand History for Game 652732595 *****
+$2,500/$5,000 Blinds No Limit Holdem - *** 16 12 2014 02:28:56
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: aperlari ( $125,400 )
+Seat 2: Bambaruush ( $30,845 )
+Seat 3: bigfox26 ( $113,544 )
+Seat 4: mmmmanu30 ( $24,281 )
+Seat 5: wanggp59 ( $128,530 )
+Seat 6: Dominik222 ( $36,982 )
+Seat 7: PapaShango19 ( $62,962 )
+Seat 10: Justin2277 ( $29,175 )
+Dominik222 posts ante [$500]
+PapaShango19 posts ante [$500]
+Justin2277 posts ante [$500]
+bigfox26 posts ante [$500]
+mmmmanu30 posts ante [$500]
+Bambaruush posts ante [$500]
+wanggp59 posts ante [$500]
+aperlari posts ante [$500]
+wanggp59 posts small blind [$2,500]
+Dominik222 posts big blind [$5,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 4h ]
+PapaShango19 folds
+Justin2277 folds
+aperlari folds
+Bambaruush raises [$10,000]
+bigfox26 folds
+mmmmanu30 folds
+wanggp59 folds
+Dominik222 calls [$5,000]
+** Dealing flop ** [ Qd, Jh, 6s ]
+Dominik222 bets [$10,000]
+Bambaruush calls [$10,000]
+** Dealing turn ** [ 6c ]
+Dominik222 bets [$10,000]
+Bambaruush raises [$10,345]
+Dominik222 calls [$345]
+** Dealing river ** [ 8h ]
+** Summary **
+Bambaruush shows [ Ac, As ]
+Dominik222 shows [ Kd, 6d ]
+Dominik222 collected [ $67,190 ]
+
+
+
+#Game No : 652732749
+***** 888poker Hand History for Game 652732749 *****
+$2,500/$5,000 Blinds No Limit Holdem - *** 16 12 2014 02:29:45
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: aperlari ( $124,900 )
+Seat 3: bigfox26 ( $113,044 )
+Seat 4: mmmmanu30 ( $23,781 )
+Seat 5: wanggp59 ( $125,530 )
+Seat 6: Dominik222 ( $73,327 )
+Seat 7: PapaShango19 ( $62,462 )
+Seat 9: javierburgo1 ( $58,299 )
+Seat 10: Justin2277 ( $28,675 )
+Dominik222 posts ante [$500]
+PapaShango19 posts ante [$500]
+Justin2277 posts ante [$500]
+bigfox26 posts ante [$500]
+mmmmanu30 posts ante [$500]
+wanggp59 posts ante [$500]
+aperlari posts ante [$500]
+javierburgo1 posts ante [$500]
+Dominik222 posts small blind [$2,500]
+PapaShango19 posts big blind [$5,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Ad ]
+javierburgo1 folds
+Justin2277 folds
+aperlari folds
+bigfox26 raises [$10,000]
+mmmmanu30 raises [$23,281]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 raises [$56,962]
+bigfox26 folds
+** Dealing flop ** [ 9c, 7h, 3d ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ Jc ]
+** Summary **
+mmmmanu30 shows [ Th, Ac ]
+PapaShango19 shows [ Kc, Ad ]
+PapaShango19 collected [ $63,062 ]
+
+
+
+#Game No : 652732934
+***** 888poker Hand History for Game 652732934 *****
+$2,500/$5,000 Blinds No Limit Holdem - *** 16 12 2014 02:30:30
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: aperlari ( $124,400 )
+Seat 2: Bruno0701 ( $69,470 )
+Seat 3: bigfox26 ( $102,544 )
+Seat 5: wanggp59 ( $125,030 )
+Seat 6: Dominik222 ( $70,327 )
+Seat 7: PapaShango19 ( $101,743 )
+Seat 9: javierburgo1 ( $57,799 )
+Seat 10: Justin2277 ( $28,175 )
+Dominik222 posts ante [$500]
+PapaShango19 posts ante [$500]
+Justin2277 posts ante [$500]
+bigfox26 posts ante [$500]
+wanggp59 posts ante [$500]
+aperlari posts ante [$500]
+javierburgo1 posts ante [$500]
+Bruno0701 posts ante [$500]
+PapaShango19 posts small blind [$2,500]
+javierburgo1 posts big blind [$5,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, As ]
+Justin2277 folds
+aperlari folds
+Bruno0701 folds
+bigfox26 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 raises [$9,500]
+javierburgo1 folds
+** Summary **
+PapaShango19 collected [ $14,000 ]
+
+
+
+#Game No : 652733093
+***** 888poker Hand History for Game 652733093 *****
+$2,500/$5,000 Blinds No Limit Holdem - *** 16 12 2014 02:31:24
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: aperlari ( $123,900 )
+Seat 2: Bruno0701 ( $68,970 )
+Seat 3: bigfox26 ( $102,044 )
+Seat 4: donys111 ( $70,520 )
+Seat 5: wanggp59 ( $124,530 )
+Seat 6: Dominik222 ( $69,827 )
+Seat 7: PapaShango19 ( $110,243 )
+Seat 9: javierburgo1 ( $52,299 )
+Seat 10: Justin2277 ( $27,675 )
+Dominik222 posts ante [$500]
+PapaShango19 posts ante [$500]
+Justin2277 posts ante [$500]
+bigfox26 posts ante [$500]
+wanggp59 posts ante [$500]
+aperlari posts ante [$500]
+javierburgo1 posts ante [$500]
+Bruno0701 posts ante [$500]
+donys111 posts ante [$500]
+javierburgo1 posts small blind [$2,500]
+Justin2277 posts big blind [$5,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Tc ]
+aperlari folds
+Bruno0701 folds
+bigfox26 calls [$5,000]
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 checks
+** Dealing flop ** [ 6c, Ac, Ad ]
+Justin2277 bets [$22,175]
+bigfox26 folds
+** Summary **
+Justin2277 did not show his hand
+Justin2277 collected [ $17,000 ]
+
+
+
+#Game No : 652733315
+***** 888poker Hand History for Game 652733315 *****
+$3,000/$6,000 Blinds No Limit Holdem - *** 16 12 2014 02:32:34
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: aperlari ( $123,400 )
+Seat 2: Bruno0701 ( $68,470 )
+Seat 3: bigfox26 ( $96,544 )
+Seat 4: donys111 ( $70,020 )
+Seat 5: wanggp59 ( $124,030 )
+Seat 6: Dominik222 ( $69,327 )
+Seat 7: PapaShango19 ( $109,743 )
+Seat 9: javierburgo1 ( $49,299 )
+Seat 10: Justin2277 ( $39,175 )
+Dominik222 posts ante [$600]
+PapaShango19 posts ante [$600]
+Justin2277 posts ante [$600]
+bigfox26 posts ante [$600]
+wanggp59 posts ante [$600]
+aperlari posts ante [$600]
+javierburgo1 posts ante [$600]
+Bruno0701 posts ante [$600]
+donys111 posts ante [$600]
+Justin2277 posts small blind [$3,000]
+aperlari posts big blind [$6,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, As ]
+Bruno0701 raises [$67,870]
+bigfox26 folds
+donys111 folds
+wanggp59 calls [$67,870]
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 folds
+aperlari folds
+** Dealing flop ** [ 3s, 9h, Ks ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 7d ]
+** Summary **
+Bruno0701 shows [ Ts, Ah ]
+wanggp59 shows [ Ad, Qd ]
+wanggp59 collected [ $150,140 ]
+
+
+
+#Game No : 652733430
+***** 888poker Hand History for Game 652733430 *****
+$3,000/$6,000 Blinds No Limit Holdem - *** 16 12 2014 02:33:20
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: aperlari ( $116,800 )
+Seat 3: bigfox26 ( $95,944 )
+Seat 4: donys111 ( $69,420 )
+Seat 5: wanggp59 ( $205,700 )
+Seat 6: Dominik222 ( $68,727 )
+Seat 7: PapaShango19 ( $109,143 )
+Seat 9: javierburgo1 ( $48,699 )
+Seat 10: Justin2277 ( $35,575 )
+Dominik222 posts ante [$600]
+PapaShango19 posts ante [$600]
+Justin2277 posts ante [$600]
+bigfox26 posts ante [$600]
+wanggp59 posts ante [$600]
+aperlari posts ante [$600]
+javierburgo1 posts ante [$600]
+donys111 posts ante [$600]
+aperlari posts small blind [$3,000]
+bigfox26 posts big blind [$6,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 5h ]
+donys111 calls [$6,000]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 folds
+aperlari folds
+bigfox26 checks
+** Dealing flop ** [ 4s, Kc, Th ]
+bigfox26 bets [$12,000]
+donys111 raises [$24,000]
+bigfox26 calls [$12,000]
+** Dealing turn ** [ 8c ]
+bigfox26 bets [$65,344]
+donys111 calls [$38,820]
+** Dealing river ** [ 9s ]
+** Summary **
+bigfox26 shows [ 7s, Td ]
+donys111 shows [ Ks, Ts ]
+donys111 collected [ $145,440 ]
+
+
+
+#Game No : 652733558
+***** 888poker Hand History for Game 652733558 *****
+$3,000/$6,000 Blinds No Limit Holdem - *** 16 12 2014 02:34:06
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: aperlari ( $113,200 )
+Seat 3: bigfox26 ( $26,524 )
+Seat 4: donys111 ( $145,440 )
+Seat 5: wanggp59 ( $205,100 )
+Seat 6: Dominik222 ( $68,127 )
+Seat 7: PapaShango19 ( $108,543 )
+Seat 9: javierburgo1 ( $48,099 )
+Seat 10: Justin2277 ( $34,975 )
+Dominik222 posts ante [$600]
+PapaShango19 posts ante [$600]
+Justin2277 posts ante [$600]
+bigfox26 posts ante [$600]
+wanggp59 posts ante [$600]
+aperlari posts ante [$600]
+javierburgo1 posts ante [$600]
+donys111 posts ante [$600]
+bigfox26 posts small blind [$3,000]
+donys111 posts big blind [$6,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Tc ]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 raises [$18,000]
+Justin2277 folds
+aperlari folds
+bigfox26 raises [$22,924]
+donys111 folds
+javierburgo1 calls [$7,924]
+** Dealing flop ** [ Ah, 3d, 4c ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ Qs ]
+** Summary **
+bigfox26 shows [ 4d, Kc ]
+javierburgo1 shows [ Ad, 9h ]
+javierburgo1 collected [ $62,648 ]
+
+
+
+#Game No : 652733686
+***** 888poker Hand History for Game 652733686 *****
+$3,000/$6,000 Blinds No Limit Holdem - *** 16 12 2014 02:34:52
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: aperlari ( $112,600 )
+Seat 4: donys111 ( $138,840 )
+Seat 5: wanggp59 ( $204,500 )
+Seat 6: Dominik222 ( $67,527 )
+Seat 7: PapaShango19 ( $107,943 )
+Seat 9: javierburgo1 ( $84,223 )
+Seat 10: Justin2277 ( $34,375 )
+Dominik222 posts ante [$600]
+PapaShango19 posts ante [$600]
+Justin2277 posts ante [$600]
+wanggp59 posts ante [$600]
+aperlari posts ante [$600]
+javierburgo1 posts ante [$600]
+donys111 posts ante [$600]
+donys111 posts small blind [$3,000]
+wanggp59 posts big blind [$6,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9d ]
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 folds
+aperlari folds
+donys111 calls [$3,000]
+wanggp59 checks
+** Dealing flop ** [ 6c, Jc, Ts ]
+donys111 checks
+wanggp59 checks
+** Dealing turn ** [ Tc ]
+donys111 checks
+wanggp59 checks
+** Dealing river ** [ Qd ]
+donys111 checks
+wanggp59 checks
+** Summary **
+donys111 shows [ 5d, 4d ]
+wanggp59 shows [ 5s, Ah ]
+wanggp59 collected [ $16,200 ]
+
+
+
+#Game No : 652733862
+***** 888poker Hand History for Game 652733862 *****
+$3,000/$6,000 Blinds No Limit Holdem - *** 16 12 2014 02:35:58
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: aperlari ( $112,000 )
+Seat 2: GG_U_Donkey ( $79,850 )
+Seat 4: donys111 ( $132,240 )
+Seat 5: wanggp59 ( $214,100 )
+Seat 6: Dominik222 ( $66,927 )
+Seat 7: PapaShango19 ( $107,343 )
+Seat 9: javierburgo1 ( $83,623 )
+Seat 10: Justin2277 ( $33,775 )
+Dominik222 posts ante [$600]
+PapaShango19 posts ante [$600]
+Justin2277 posts ante [$600]
+wanggp59 posts ante [$600]
+aperlari posts ante [$600]
+javierburgo1 posts ante [$600]
+donys111 posts ante [$600]
+GG_U_Donkey posts ante [$600]
+wanggp59 posts small blind [$3,000]
+Dominik222 posts big blind [$6,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 8h ]
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 raises [$33,175]
+aperlari folds
+GG_U_Donkey folds
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+** Summary **
+Justin2277 collected [ $19,800 ]
+
+
+
+#Game No : 652733983
+***** 888poker Hand History for Game 652733983 *****
+$3,000/$6,000 Blinds No Limit Holdem - *** 16 12 2014 02:36:44
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: aperlari ( $111,400 )
+Seat 2: GG_U_Donkey ( $79,250 )
+Seat 3: Dragonfly72 ( $126,480 )
+Seat 4: donys111 ( $131,640 )
+Seat 5: wanggp59 ( $210,500 )
+Seat 6: Dominik222 ( $60,327 )
+Seat 7: PapaShango19 ( $106,743 )
+Seat 9: javierburgo1 ( $83,023 )
+Seat 10: Justin2277 ( $46,975 )
+Dominik222 posts ante [$600]
+PapaShango19 posts ante [$600]
+Justin2277 posts ante [$600]
+wanggp59 posts ante [$600]
+aperlari posts ante [$600]
+javierburgo1 posts ante [$600]
+donys111 posts ante [$600]
+GG_U_Donkey posts ante [$600]
+Dragonfly72 posts ante [$600]
+Dominik222 posts small blind [$3,000]
+PapaShango19 posts big blind [$6,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 4h ]
+javierburgo1 folds
+Justin2277 folds
+aperlari folds
+GG_U_Donkey folds
+Dragonfly72 folds
+donys111 folds
+wanggp59 calls [$6,000]
+Dominik222 calls [$3,000]
+PapaShango19 checks
+** Dealing flop ** [ 5c, 8d, Ac ]
+Dominik222 bets [$12,000]
+PapaShango19 folds
+wanggp59 folds
+** Summary **
+Dominik222 did not show his hand
+Dominik222 collected [ $23,400 ]
+
+
+
+#Game No : 652734172
+***** 888poker Hand History for Game 652734172 *****
+$3,500/$7,000 Blinds No Limit Holdem - *** 16 12 2014 02:37:50
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: aperlari ( $110,800 )
+Seat 2: GG_U_Donkey ( $78,650 )
+Seat 3: Dragonfly72 ( $125,880 )
+Seat 4: donys111 ( $131,040 )
+Seat 5: wanggp59 ( $203,900 )
+Seat 6: Dominik222 ( $77,127 )
+Seat 7: PapaShango19 ( $100,143 )
+Seat 9: javierburgo1 ( $82,423 )
+Seat 10: Justin2277 ( $46,375 )
+Dominik222 posts ante [$700]
+PapaShango19 posts ante [$700]
+Justin2277 posts ante [$700]
+wanggp59 posts ante [$700]
+aperlari posts ante [$700]
+javierburgo1 posts ante [$700]
+donys111 posts ante [$700]
+GG_U_Donkey posts ante [$700]
+Dragonfly72 posts ante [$700]
+PapaShango19 posts small blind [$3,500]
+javierburgo1 posts big blind [$7,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, 9h ]
+Justin2277 folds
+aperlari folds
+GG_U_Donkey folds
+Dragonfly72 calls [$7,000]
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 checks
+** Dealing flop ** [ 9s, 6s, 9c ]
+javierburgo1 bets [$21,000]
+Dragonfly72 folds
+** Summary **
+javierburgo1 did not show his hand
+javierburgo1 collected [ $23,800 ]
+
+
+
+#Game No : 652734311
+***** 888poker Hand History for Game 652734311 *****
+$3,500/$7,000 Blinds No Limit Holdem - *** 16 12 2014 02:38:46
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: aperlari ( $110,100 )
+Seat 2: GG_U_Donkey ( $77,950 )
+Seat 3: Dragonfly72 ( $118,180 )
+Seat 4: donys111 ( $130,340 )
+Seat 5: wanggp59 ( $203,200 )
+Seat 6: Dominik222 ( $76,427 )
+Seat 7: PapaShango19 ( $95,943 )
+Seat 9: javierburgo1 ( $98,523 )
+Seat 10: Justin2277 ( $45,675 )
+Dominik222 posts ante [$700]
+PapaShango19 posts ante [$700]
+Justin2277 posts ante [$700]
+wanggp59 posts ante [$700]
+aperlari posts ante [$700]
+javierburgo1 posts ante [$700]
+donys111 posts ante [$700]
+GG_U_Donkey posts ante [$700]
+Dragonfly72 posts ante [$700]
+javierburgo1 posts small blind [$3,500]
+Justin2277 posts big blind [$7,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ts ]
+aperlari raises [$18,000]
+GG_U_Donkey folds
+Dragonfly72 folds
+donys111 calls [$18,000]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 folds
+** Dealing flop ** [ 6c, 8d, 9d ]
+aperlari bets [$91,400]
+donys111 folds
+** Summary **
+aperlari did not show his hand
+aperlari collected [ $52,800 ]
+
+
+
+#Game No : 652734509
+***** 888poker Hand History for Game 652734509 *****
+$3,500/$7,000 Blinds No Limit Holdem - *** 16 12 2014 02:39:52
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: aperlari ( $144,200 )
+Seat 2: GG_U_Donkey ( $77,250 )
+Seat 3: Dragonfly72 ( $117,480 )
+Seat 4: donys111 ( $111,640 )
+Seat 5: wanggp59 ( $202,500 )
+Seat 6: Dominik222 ( $75,727 )
+Seat 7: PapaShango19 ( $95,243 )
+Seat 9: javierburgo1 ( $94,323 )
+Seat 10: Justin2277 ( $37,975 )
+Dominik222 posts ante [$700]
+PapaShango19 posts ante [$700]
+Justin2277 posts ante [$700]
+wanggp59 posts ante [$700]
+aperlari posts ante [$700]
+javierburgo1 posts ante [$700]
+donys111 posts ante [$700]
+GG_U_Donkey posts ante [$700]
+Dragonfly72 posts ante [$700]
+Justin2277 posts small blind [$3,500]
+aperlari posts big blind [$7,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 9h ]
+GG_U_Donkey folds
+Dragonfly72 folds
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 calls [$3,500]
+aperlari checks
+** Dealing flop ** [ Ad, Kh, 3h ]
+Justin2277 bets [$7,000]
+aperlari folds
+** Summary **
+Justin2277 did not show his hand
+Justin2277 collected [ $20,300 ]
+
+
+
+#Game No : 652734732
+***** 888poker Hand History for Game 652734732 *****
+$3,500/$7,000 Blinds No Limit Holdem - *** 16 12 2014 02:41:06
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: aperlari ( $136,500 )
+Seat 2: GG_U_Donkey ( $76,550 )
+Seat 3: Dragonfly72 ( $116,780 )
+Seat 4: donys111 ( $110,940 )
+Seat 5: wanggp59 ( $201,800 )
+Seat 6: Dominik222 ( $75,027 )
+Seat 7: PapaShango19 ( $94,543 )
+Seat 9: javierburgo1 ( $93,623 )
+Seat 10: Justin2277 ( $50,575 )
+Dominik222 posts ante [$700]
+PapaShango19 posts ante [$700]
+Justin2277 posts ante [$700]
+wanggp59 posts ante [$700]
+aperlari posts ante [$700]
+javierburgo1 posts ante [$700]
+donys111 posts ante [$700]
+GG_U_Donkey posts ante [$700]
+Dragonfly72 posts ante [$700]
+aperlari posts small blind [$3,500]
+GG_U_Donkey posts big blind [$7,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 9d ]
+Dragonfly72 folds
+donys111 calls [$7,000]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 folds
+aperlari folds
+GG_U_Donkey checks
+** Dealing flop ** [ Kc, 6d, 3d ]
+GG_U_Donkey checks
+donys111 checks
+** Dealing turn ** [ 6h ]
+GG_U_Donkey checks
+donys111 checks
+** Dealing river ** [ Qh ]
+GG_U_Donkey checks
+donys111 bets [$7,000]
+GG_U_Donkey folds
+** Summary **
+donys111 did not show his hand
+donys111 collected [ $23,800 ]
+
+
+
+#Game No : 652734919
+***** 888poker Hand History for Game 652734919 *****
+$4,000/$8,000 Blinds No Limit Holdem - *** 16 12 2014 02:42:20
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: aperlari ( $132,300 )
+Seat 2: GG_U_Donkey ( $68,850 )
+Seat 3: Dragonfly72 ( $116,080 )
+Seat 4: donys111 ( $127,040 )
+Seat 5: wanggp59 ( $201,100 )
+Seat 6: Dominik222 ( $74,327 )
+Seat 7: PapaShango19 ( $93,843 )
+Seat 9: javierburgo1 ( $92,923 )
+Seat 10: Justin2277 ( $49,875 )
+Dominik222 posts ante [$800]
+PapaShango19 posts ante [$800]
+Justin2277 posts ante [$800]
+wanggp59 posts ante [$800]
+aperlari posts ante [$800]
+javierburgo1 posts ante [$800]
+donys111 posts ante [$800]
+GG_U_Donkey posts ante [$800]
+Dragonfly72 posts ante [$800]
+GG_U_Donkey posts small blind [$4,000]
+Dragonfly72 posts big blind [$8,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 6d ]
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 calls [$8,000]
+aperlari folds
+GG_U_Donkey folds
+Dragonfly72 checks
+** Dealing flop ** [ Jh, Qc, 7d ]
+Dragonfly72 checks
+Justin2277 bets [$8,000]
+Dragonfly72 folds
+** Summary **
+Justin2277 did not show his hand
+Justin2277 collected [ $27,200 ]
+
+
+
+#Game No : 652735104
+***** 888poker Hand History for Game 652735104 *****
+$4,000/$8,000 Blinds No Limit Holdem - *** 16 12 2014 02:43:36
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: aperlari ( $131,500 )
+Seat 2: GG_U_Donkey ( $64,050 )
+Seat 3: Dragonfly72 ( $107,280 )
+Seat 4: donys111 ( $126,240 )
+Seat 5: wanggp59 ( $200,300 )
+Seat 6: Dominik222 ( $73,527 )
+Seat 7: PapaShango19 ( $93,043 )
+Seat 9: javierburgo1 ( $92,123 )
+Seat 10: Justin2277 ( $68,275 )
+Dominik222 posts ante [$800]
+PapaShango19 posts ante [$800]
+Justin2277 posts ante [$800]
+wanggp59 posts ante [$800]
+aperlari posts ante [$800]
+javierburgo1 posts ante [$800]
+donys111 posts ante [$800]
+GG_U_Donkey posts ante [$800]
+Dragonfly72 posts ante [$800]
+Dragonfly72 posts small blind [$4,000]
+donys111 posts big blind [$8,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 5h ]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 raises [$24,000]
+Justin2277 folds
+aperlari folds
+GG_U_Donkey raises [$63,250]
+Dragonfly72 folds
+donys111 folds
+javierburgo1 calls [$39,250]
+** Dealing flop ** [ 4s, 5s, 6s ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 9h ]
+** Summary **
+GG_U_Donkey shows [ Td, 8d ]
+javierburgo1 shows [ 2s, 2c ]
+javierburgo1 collected [ $145,700 ]
+
+
+
+#Game No : 652735265
+***** 888poker Hand History for Game 652735265 *****
+$4,000/$8,000 Blinds No Limit Holdem - *** 16 12 2014 02:44:43
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: aperlari ( $130,700 )
+Seat 3: Dragonfly72 ( $102,480 )
+Seat 4: donys111 ( $117,440 )
+Seat 5: wanggp59 ( $199,500 )
+Seat 6: Dominik222 ( $72,727 )
+Seat 7: PapaShango19 ( $92,243 )
+Seat 9: javierburgo1 ( $173,773 )
+Seat 10: Justin2277 ( $67,475 )
+Dominik222 posts ante [$800]
+PapaShango19 posts ante [$800]
+Justin2277 posts ante [$800]
+wanggp59 posts ante [$800]
+aperlari posts ante [$800]
+javierburgo1 posts ante [$800]
+donys111 posts ante [$800]
+Dragonfly72 posts ante [$800]
+donys111 posts small blind [$4,000]
+wanggp59 posts big blind [$8,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 3c ]
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 folds
+aperlari raises [$16,000]
+Dragonfly72 folds
+donys111 calls [$12,000]
+wanggp59 folds
+** Dealing flop ** [ Tc, Th, Ah ]
+donys111 checks
+aperlari bets [$16,000]
+donys111 folds
+** Summary **
+aperlari collected [ $46,400 ]
+
+
+
+#Game No : 652735461
+***** 888poker Hand History for Game 652735461 *****
+$4,000/$8,000 Blinds No Limit Holdem - *** 16 12 2014 02:46:06
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: aperlari ( $160,300 )
+Seat 2: Iriska27 ( $151,609 )
+Seat 3: Dragonfly72 ( $101,680 )
+Seat 4: donys111 ( $100,640 )
+Seat 5: wanggp59 ( $190,700 )
+Seat 6: Dominik222 ( $71,927 )
+Seat 7: PapaShango19 ( $91,443 )
+Seat 9: javierburgo1 ( $172,973 )
+Seat 10: Justin2277 ( $66,675 )
+Dominik222 posts ante [$800]
+PapaShango19 posts ante [$800]
+Justin2277 posts ante [$800]
+wanggp59 posts ante [$800]
+aperlari posts ante [$800]
+javierburgo1 posts ante [$800]
+donys111 posts ante [$800]
+Dragonfly72 posts ante [$800]
+Iriska27 posts ante [$800]
+wanggp59 posts small blind [$4,000]
+Dominik222 posts big blind [$8,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Jh ]
+PapaShango19 folds
+javierburgo1 folds
+Justin2277 folds
+aperlari calls [$8,000]
+Iriska27 folds
+Dragonfly72 folds
+donys111 calls [$8,000]
+wanggp59 calls [$4,000]
+Dominik222 checks
+** Dealing flop ** [ 3h, 4d, 3c ]
+wanggp59 checks
+Dominik222 checks
+aperlari checks
+donys111 checks
+** Dealing turn ** [ Td ]
+wanggp59 bets [$16,000]
+Dominik222 raises [$32,000]
+aperlari folds
+donys111 folds
+wanggp59 calls [$16,000]
+** Dealing river ** [ Jc ]
+wanggp59 checks
+Dominik222 bets [$16,000]
+wanggp59 calls [$16,000]
+** Summary **
+Dominik222 shows [ 3d, Js ]
+wanggp59 mucks [ Ad, Ts ]
+Dominik222 collected [ $135,200 ]
+
+
+
+#Game No : 652735666
+***** 888poker Hand History for Game 652735666 *****
+$5,000/$10,000 Blinds No Limit Holdem - *** 16 12 2014 02:47:54
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: aperlari ( $151,500 )
+Seat 2: Iriska27 ( $150,809 )
+Seat 3: Dragonfly72 ( $100,880 )
+Seat 4: donys111 ( $91,840 )
+Seat 5: wanggp59 ( $133,900 )
+Seat 6: Dominik222 ( $150,327 )
+Seat 7: PapaShango19 ( $90,643 )
+Seat 9: javierburgo1 ( $172,173 )
+Seat 10: Justin2277 ( $65,875 )
+Dominik222 posts ante [$1,000]
+PapaShango19 posts ante [$1,000]
+Justin2277 posts ante [$1,000]
+wanggp59 posts ante [$1,000]
+aperlari posts ante [$1,000]
+javierburgo1 posts ante [$1,000]
+donys111 posts ante [$1,000]
+Dragonfly72 posts ante [$1,000]
+Iriska27 posts ante [$1,000]
+Dominik222 posts small blind [$5,000]
+PapaShango19 posts big blind [$10,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, Tc ]
+javierburgo1 folds
+Justin2277 folds
+aperlari folds
+Iriska27 folds
+Dragonfly72 folds
+donys111 calls [$10,000]
+wanggp59 folds
+Dominik222 calls [$5,000]
+PapaShango19 checks
+** Dealing flop ** [ 7c, Ah, 4h ]
+Dominik222 bets [$10,000]
+PapaShango19 folds
+donys111 folds
+** Summary **
+Dominik222 did not show his hand
+Dominik222 collected [ $39,000 ]
+
+
+
+#Game No : 652735790
+***** 888poker Hand History for Game 652735790 *****
+$5,000/$10,000 Blinds No Limit Holdem - *** 16 12 2014 02:48:45
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: aperlari ( $150,500 )
+Seat 2: Iriska27 ( $149,809 )
+Seat 3: Dragonfly72 ( $99,880 )
+Seat 4: donys111 ( $80,840 )
+Seat 5: wanggp59 ( $132,900 )
+Seat 6: Dominik222 ( $178,327 )
+Seat 7: PapaShango19 ( $79,643 )
+Seat 9: javierburgo1 ( $171,173 )
+Dominik222 posts ante [$1,000]
+PapaShango19 posts ante [$1,000]
+wanggp59 posts ante [$1,000]
+aperlari posts ante [$1,000]
+javierburgo1 posts ante [$1,000]
+donys111 posts ante [$1,000]
+Dragonfly72 posts ante [$1,000]
+Iriska27 posts ante [$1,000]
+PapaShango19 posts small blind [$5,000]
+javierburgo1 posts big blind [$10,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Qs ]
+aperlari folds
+Iriska27 folds
+Dragonfly72 folds
+donys111 calls [$10,000]
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 checks
+** Dealing flop ** [ Th, 3d, 8s ]
+javierburgo1 bets [$50,000]
+donys111 folds
+** Summary **
+javierburgo1 did not show his hand
+javierburgo1 collected [ $33,000 ]
+
+
+
+#Game No : 652735873
+***** 888poker Hand History for Game 652735873 *****
+$5,000/$10,000 Blinds No Limit Holdem - *** 16 12 2014 02:49:23
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: aperlari ( $149,500 )
+Seat 2: Iriska27 ( $148,809 )
+Seat 3: Dragonfly72 ( $98,880 )
+Seat 4: donys111 ( $69,840 )
+Seat 5: wanggp59 ( $131,900 )
+Seat 6: Dominik222 ( $177,327 )
+Seat 7: PapaShango19 ( $73,643 )
+Seat 9: javierburgo1 ( $193,173 )
+Seat 10: _dejmohitio_ ( $224,282 )
+Dominik222 posts ante [$1,000]
+PapaShango19 posts ante [$1,000]
+wanggp59 posts ante [$1,000]
+aperlari posts ante [$1,000]
+javierburgo1 posts ante [$1,000]
+donys111 posts ante [$1,000]
+Dragonfly72 posts ante [$1,000]
+Iriska27 posts ante [$1,000]
+_dejmohitio_ posts ante [$1,000]
+javierburgo1 posts small blind [$5,000]
+_dejmohitio_ posts big blind [$10,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, As ]
+aperlari folds
+Iriska27 raises [$27,500]
+Dragonfly72 folds
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+_dejmohitio_ folds
+** Summary **
+Iriska27 did not show his hand
+Iriska27 collected [ $34,000 ]
+
+
+
+#Game No : 652736009
+***** 888poker Hand History for Game 652736009 *****
+$5,000/$10,000 Blinds No Limit Holdem - *** 16 12 2014 02:50:25
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: aperlari ( $148,500 )
+Seat 2: Iriska27 ( $171,809 )
+Seat 3: Dragonfly72 ( $97,880 )
+Seat 4: donys111 ( $68,840 )
+Seat 5: wanggp59 ( $130,900 )
+Seat 6: Dominik222 ( $176,327 )
+Seat 7: PapaShango19 ( $72,643 )
+Seat 9: javierburgo1 ( $187,173 )
+Seat 10: _dejmohitio_ ( $213,282 )
+Dominik222 posts ante [$1,000]
+PapaShango19 posts ante [$1,000]
+wanggp59 posts ante [$1,000]
+aperlari posts ante [$1,000]
+javierburgo1 posts ante [$1,000]
+donys111 posts ante [$1,000]
+Dragonfly72 posts ante [$1,000]
+Iriska27 posts ante [$1,000]
+_dejmohitio_ posts ante [$1,000]
+_dejmohitio_ posts small blind [$5,000]
+aperlari posts big blind [$10,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, Ks ]
+Iriska27 folds
+Dragonfly72 folds
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 raises [$71,643]
+javierburgo1 folds
+_dejmohitio_ folds
+aperlari folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $34,000 ]
+
+
+
+#Game No : 652736098
+***** 888poker Hand History for Game 652736098 *****
+$5,000/$10,000 Blinds No Limit Holdem - *** 16 12 2014 02:51:04
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: aperlari ( $137,500 )
+Seat 2: Iriska27 ( $170,809 )
+Seat 3: Dragonfly72 ( $96,880 )
+Seat 4: donys111 ( $67,840 )
+Seat 5: wanggp59 ( $129,900 )
+Seat 6: Dominik222 ( $175,327 )
+Seat 7: PapaShango19 ( $95,643 )
+Seat 9: javierburgo1 ( $186,173 )
+Seat 10: _dejmohitio_ ( $207,282 )
+Dominik222 posts ante [$1,000]
+PapaShango19 posts ante [$1,000]
+wanggp59 posts ante [$1,000]
+aperlari posts ante [$1,000]
+javierburgo1 posts ante [$1,000]
+donys111 posts ante [$1,000]
+Dragonfly72 posts ante [$1,000]
+Iriska27 posts ante [$1,000]
+_dejmohitio_ posts ante [$1,000]
+aperlari posts small blind [$5,000]
+Iriska27 posts big blind [$10,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 2s ]
+Dragonfly72 folds
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+_dejmohitio_ raises [$206,282]
+aperlari folds
+Iriska27 folds
+** Summary **
+_dejmohitio_ did not show his hand
+_dejmohitio_ collected [ $34,000 ]
+
+
+
+#Game No : 652736259
+***** 888poker Hand History for Game 652736259 *****
+$6,000/$12,000 Blinds No Limit Holdem - *** 16 12 2014 02:52:23
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: aperlari ( $131,500 )
+Seat 2: Iriska27 ( $159,809 )
+Seat 3: Dragonfly72 ( $95,880 )
+Seat 4: donys111 ( $66,840 )
+Seat 5: wanggp59 ( $128,900 )
+Seat 6: Dominik222 ( $174,327 )
+Seat 7: PapaShango19 ( $94,643 )
+Seat 9: javierburgo1 ( $185,173 )
+Seat 10: _dejmohitio_ ( $230,282 )
+Dominik222 posts ante [$1,200]
+PapaShango19 posts ante [$1,200]
+wanggp59 posts ante [$1,200]
+aperlari posts ante [$1,200]
+javierburgo1 posts ante [$1,200]
+donys111 posts ante [$1,200]
+Dragonfly72 posts ante [$1,200]
+Iriska27 posts ante [$1,200]
+_dejmohitio_ posts ante [$1,200]
+Iriska27 posts small blind [$6,000]
+Dragonfly72 posts big blind [$12,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 8s ]
+donys111 folds
+wanggp59 folds
+Dominik222 folds
+PapaShango19 folds
+javierburgo1 folds
+_dejmohitio_ folds
+aperlari raises [$27,000]
+Iriska27 folds
+Dragonfly72 folds
+** Summary **
+aperlari did not show his hand
+aperlari collected [ $40,800 ]
+
+
+
+#Game No : 652736378
+***** 888poker Hand History for Game 652736378 *****
+$6,000/$12,000 Blinds No Limit Holdem - *** 16 12 2014 02:53:15
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: aperlari ( $159,100 )
+Seat 2: Iriska27 ( $152,609 )
+Seat 3: Dragonfly72 ( $82,680 )
+Seat 4: donys111 ( $65,640 )
+Seat 5: wanggp59 ( $127,700 )
+Seat 7: PapaShango19 ( $93,443 )
+Seat 9: javierburgo1 ( $183,973 )
+Seat 10: _dejmohitio_ ( $229,082 )
+PapaShango19 posts ante [$1,200]
+wanggp59 posts ante [$1,200]
+aperlari posts ante [$1,200]
+javierburgo1 posts ante [$1,200]
+donys111 posts ante [$1,200]
+Dragonfly72 posts ante [$1,200]
+Iriska27 posts ante [$1,200]
+_dejmohitio_ posts ante [$1,200]
+Dragonfly72 posts small blind [$6,000]
+donys111 posts big blind [$12,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 9h ]
+wanggp59 folds
+PapaShango19 folds
+javierburgo1 folds
+_dejmohitio_ folds
+aperlari folds
+Iriska27 folds
+Dragonfly72 calls [$6,000]
+donys111 checks
+** Dealing flop ** [ Ah, As, Ac ]
+Dragonfly72 checks
+donys111 checks
+** Dealing turn ** [ 7c ]
+Dragonfly72 checks
+donys111 bets [$12,000]
+Dragonfly72 folds
+** Summary **
+donys111 did not show his hand
+donys111 collected [ $33,600 ]
+
+
+
+#Game No : 652736498
+***** 888poker Hand History for Game 652736498 *****
+$6,000/$12,000 Blinds No Limit Holdem - *** 16 12 2014 02:54:10
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: aperlari ( $157,900 )
+Seat 2: Iriska27 ( $151,409 )
+Seat 3: Dragonfly72 ( $69,480 )
+Seat 4: donys111 ( $86,040 )
+Seat 5: wanggp59 ( $126,500 )
+Seat 7: PapaShango19 ( $92,243 )
+Seat 9: javierburgo1 ( $182,773 )
+Seat 10: _dejmohitio_ ( $227,882 )
+PapaShango19 posts ante [$1,200]
+wanggp59 posts ante [$1,200]
+aperlari posts ante [$1,200]
+javierburgo1 posts ante [$1,200]
+donys111 posts ante [$1,200]
+Dragonfly72 posts ante [$1,200]
+Iriska27 posts ante [$1,200]
+_dejmohitio_ posts ante [$1,200]
+donys111 posts small blind [$6,000]
+wanggp59 posts big blind [$12,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 8c ]
+PapaShango19 folds
+javierburgo1 folds
+_dejmohitio_ folds
+aperlari folds
+Iriska27 folds
+Dragonfly72 folds
+donys111 calls [$6,000]
+wanggp59 checks
+** Dealing flop ** [ 3s, 9c, 7d ]
+donys111 checks
+wanggp59 checks
+** Dealing turn ** [ 7s ]
+donys111 checks
+wanggp59 checks
+** Dealing river ** [ 8s ]
+donys111 bets [$12,000]
+wanggp59 folds
+** Summary **
+donys111 collected [ $33,600 ]
+
+
+
+#Game No : 652737076
+***** 888poker Hand History for Game 652737076 *****
+$6,000/$12,000 Blinds No Limit Holdem - *** 16 12 2014 03:00:01
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: aperlari ( $156,700 )
+Seat 2: Iriska27 ( $150,209 )
+Seat 3: Dragonfly72 ( $68,280 )
+Seat 4: donys111 ( $106,440 )
+Seat 5: wanggp59 ( $113,300 )
+Seat 6: Chillinho ( $89,840 )
+Seat 7: PapaShango19 ( $91,043 )
+Seat 9: javierburgo1 ( $181,573 )
+Seat 10: _dejmohitio_ ( $226,682 )
+PapaShango19 posts ante [$1,200]
+wanggp59 posts ante [$1,200]
+aperlari posts ante [$1,200]
+javierburgo1 posts ante [$1,200]
+donys111 posts ante [$1,200]
+Dragonfly72 posts ante [$1,200]
+Iriska27 posts ante [$1,200]
+_dejmohitio_ posts ante [$1,200]
+Chillinho posts ante [$1,200]
+wanggp59 posts small blind [$6,000]
+Chillinho posts big blind [$12,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 3s ]
+PapaShango19 folds
+javierburgo1 folds
+_dejmohitio_ folds
+aperlari folds
+Iriska27 raises [$26,400]
+Dragonfly72 folds
+donys111 folds
+wanggp59 folds
+Chillinho folds
+** Summary **
+Iriska27 did not show his hand
+Iriska27 collected [ $40,800 ]
+
+
+
+#Game No : 652737383
+***** 888poker Hand History for Game 652737383 *****
+$6,000/$12,000 Blinds No Limit Holdem - *** 16 12 2014 03:01:48
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: aperlari ( $155,500 )
+Seat 2: Iriska27 ( $177,809 )
+Seat 3: Dragonfly72 ( $67,080 )
+Seat 4: donys111 ( $105,240 )
+Seat 5: wanggp59 ( $106,100 )
+Seat 6: Chillinho ( $76,640 )
+Seat 7: PapaShango19 ( $89,843 )
+Seat 9: javierburgo1 ( $180,373 )
+Seat 10: _dejmohitio_ ( $225,482 )
+PapaShango19 posts ante [$1,200]
+wanggp59 posts ante [$1,200]
+aperlari posts ante [$1,200]
+javierburgo1 posts ante [$1,200]
+donys111 posts ante [$1,200]
+Dragonfly72 posts ante [$1,200]
+Iriska27 posts ante [$1,200]
+_dejmohitio_ posts ante [$1,200]
+Chillinho posts ante [$1,200]
+Chillinho posts small blind [$6,000]
+PapaShango19 posts big blind [$12,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Js ]
+javierburgo1 folds
+_dejmohitio_ folds
+aperlari folds
+Iriska27 folds
+Dragonfly72 folds
+donys111 folds
+wanggp59 folds
+Chillinho folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $28,800 ]
+
+
+
+#Game No : 652737689
+***** 888poker Hand History for Game 652737689 *****
+$8,000/$16,000 Blinds No Limit Holdem - *** 16 12 2014 03:03:49
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: aperlari ( $154,300 )
+Seat 2: Iriska27 ( $176,609 )
+Seat 3: Dragonfly72 ( $65,880 )
+Seat 4: donys111 ( $104,040 )
+Seat 5: wanggp59 ( $104,900 )
+Seat 6: Chillinho ( $69,440 )
+Seat 7: PapaShango19 ( $105,443 )
+Seat 9: javierburgo1 ( $179,173 )
+Seat 10: _dejmohitio_ ( $224,282 )
+PapaShango19 posts ante [$1,600]
+wanggp59 posts ante [$1,600]
+aperlari posts ante [$1,600]
+javierburgo1 posts ante [$1,600]
+donys111 posts ante [$1,600]
+Dragonfly72 posts ante [$1,600]
+Iriska27 posts ante [$1,600]
+_dejmohitio_ posts ante [$1,600]
+Chillinho posts ante [$1,600]
+PapaShango19 posts small blind [$8,000]
+javierburgo1 posts big blind [$16,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 4h ]
+_dejmohitio_ folds
+aperlari folds
+Iriska27 folds
+Dragonfly72 folds
+donys111 folds
+wanggp59 folds
+Chillinho folds
+PapaShango19 folds
+** Summary **
+javierburgo1 did not show his hand
+javierburgo1 collected [ $38,400 ]
+
+
+
+#Game No : 652737788
+***** 888poker Hand History for Game 652737788 *****
+$8,000/$16,000 Blinds No Limit Holdem - *** 16 12 2014 03:04:23
+Tournament #64395628 $0.90 + $0.09 - Table #25 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: aperlari ( $152,700 )
+Seat 2: Iriska27 ( $175,009 )
+Seat 3: Dragonfly72 ( $64,280 )
+Seat 4: donys111 ( $102,440 )
+Seat 5: wanggp59 ( $103,300 )
+Seat 6: Chillinho ( $67,840 )
+Seat 7: PapaShango19 ( $95,843 )
+Seat 9: javierburgo1 ( $199,973 )
+Seat 10: _dejmohitio_ ( $222,682 )
+PapaShango19 posts ante [$1,600]
+wanggp59 posts ante [$1,600]
+aperlari posts ante [$1,600]
+javierburgo1 posts ante [$1,600]
+donys111 posts ante [$1,600]
+Dragonfly72 posts ante [$1,600]
+Iriska27 posts ante [$1,600]
+_dejmohitio_ posts ante [$1,600]
+Chillinho posts ante [$1,600]
+javierburgo1 posts small blind [$8,000]
+_dejmohitio_ posts big blind [$16,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 3c ]
+aperlari folds
+Iriska27 folds
+Dragonfly72 folds
+donys111 calls [$16,000]
+wanggp59 folds
+Chillinho folds
+PapaShango19 folds
+javierburgo1 raises [$136,000]
+_dejmohitio_ folds
+donys111 folds
+** Summary **
+javierburgo1 collected [ $62,400 ]
+
+
+
+#Game No : 652738095
+***** 888poker Hand History for Game 652738095 *****
+$8,000/$16,000 Blinds No Limit Holdem - *** 16 12 2014 03:06:22
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2:  ( $1,990 )
+Seat 3:  ( $62,600 )
+Seat 4:  ( $111,682 )
+Seat 5:  ( $98,120 )
+Seat 6:  ( $77,940 )
+Seat 9:  ( $53,145 )
+Seat 10:  ( $16,290 )
+ posts ante [$1,600]
+ posts ante [$1,600]
+ posts ante [$1,600]
+ posts ante [$1,600]
+ posts ante [$1,600]
+ posts ante [$1,600]
+ posts ante [$1,600]
+ posts small blind [$8,000]
+ posts big blind [$14,690]
+** Dealing down cards **
+ calls [$390]
+ folds
+ folds
+ folds
+ folds
+ calls [$8,000]
+** Dealing flop ** [ Jd, 6s, Qd ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 9c ]
+** Summary **
+ shows [ 2s, Ah ]
+ shows [ 2c, Ks ]
+ shows [ 4c, Td ]
+ collected [ $12,370 ]
+ collected [ $28,600 ]
+ collected [ $1,310 ]
+
+
+
+#Game No : 652738232
+***** 888poker Hand History for Game 652738232 *****
+$10,000/$20,000 Blinds No Limit Holdem - *** 16 12 2014 03:07:11
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $235,615 )
+Seat 3: daniellos111 ( $61,000 )
+Seat 4: uwehebi ( $110,082 )
+Seat 5: _o_TIGER_o_ ( $96,520 )
+Seat 6: bcockman ( $76,340 )
+Seat 7: PapaShango19 ( $92,643 )
+Seat 9: Airag ( $36,855 )
+Seat 10: stianos14 ( $40,970 )
+Airag posts ante [$2,000]
+_o_TIGER_o_ posts ante [$2,000]
+bcockman posts ante [$2,000]
+daniellos111 posts ante [$2,000]
+stianos14 posts ante [$2,000]
+uwehebi posts ante [$2,000]
+PapaShango19 posts ante [$2,000]
+apsjohn posts ante [$2,000]
+stianos14 posts small blind [$10,000]
+apsjohn posts big blind [$20,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 3c ]
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman calls [$20,000]
+PapaShango19 folds
+Airag folds
+stianos14 folds
+apsjohn checks
+** Dealing flop ** [ Ac, 6c, 5s ]
+apsjohn checks
+bcockman checks
+** Dealing turn ** [ Td ]
+apsjohn checks
+bcockman checks
+** Dealing river ** [ 5d ]
+apsjohn bets [$20,000]
+bcockman calls [$20,000]
+** Summary **
+apsjohn shows [ 3d, 5h ]
+bcockman mucks [ 7h, 7d ]
+apsjohn collected [ $106,000 ]
+
+
+
+#Game No : 652738341
+***** 888poker Hand History for Game 652738341 *****
+$10,000/$20,000 Blinds No Limit Holdem - *** 16 12 2014 03:07:51
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $299,615 )
+Seat 3: daniellos111 ( $59,000 )
+Seat 4: uwehebi ( $108,082 )
+Seat 5: _o_TIGER_o_ ( $94,520 )
+Seat 6: bcockman ( $34,340 )
+Seat 7: PapaShango19 ( $90,643 )
+Seat 9: Airag ( $34,855 )
+Seat 10: stianos14 ( $28,970 )
+Airag posts ante [$2,000]
+_o_TIGER_o_ posts ante [$2,000]
+bcockman posts ante [$2,000]
+daniellos111 posts ante [$2,000]
+stianos14 posts ante [$2,000]
+uwehebi posts ante [$2,000]
+PapaShango19 posts ante [$2,000]
+apsjohn posts ante [$2,000]
+apsjohn posts small blind [$10,000]
+daniellos111 posts big blind [$20,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 9c ]
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman folds
+PapaShango19 raises [$88,643]
+Airag folds
+stianos14 folds
+apsjohn folds
+daniellos111 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $66,000 ]
+
+
+
+#Game No : 652738493
+***** 888poker Hand History for Game 652738493 *****
+$10,000/$20,000 Blinds No Limit Holdem - *** 16 12 2014 03:08:47
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $287,615 )
+Seat 3: daniellos111 ( $37,000 )
+Seat 4: uwehebi ( $106,082 )
+Seat 5: _o_TIGER_o_ ( $92,520 )
+Seat 6: bcockman ( $32,340 )
+Seat 7: PapaShango19 ( $134,643 )
+Seat 9: Airag ( $32,855 )
+Seat 10: stianos14 ( $26,970 )
+Airag posts ante [$2,000]
+_o_TIGER_o_ posts ante [$2,000]
+bcockman posts ante [$2,000]
+daniellos111 posts ante [$2,000]
+stianos14 posts ante [$2,000]
+uwehebi posts ante [$2,000]
+PapaShango19 posts ante [$2,000]
+apsjohn posts ante [$2,000]
+daniellos111 posts small blind [$10,000]
+uwehebi posts big blind [$20,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Kh ]
+_o_TIGER_o_ folds
+bcockman raises [$30,340]
+PapaShango19 folds
+Airag folds
+stianos14 folds
+apsjohn folds
+daniellos111 folds
+uwehebi folds
+** Summary **
+bcockman did not show his hand
+bcockman collected [ $66,000 ]
+
+
+
+#Game No : 652738581
+***** 888poker Hand History for Game 652738581 *****
+$10,000/$20,000 Blinds No Limit Holdem - *** 16 12 2014 03:09:22
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $285,615 )
+Seat 3: daniellos111 ( $25,000 )
+Seat 4: uwehebi ( $84,082 )
+Seat 5: _o_TIGER_o_ ( $90,520 )
+Seat 6: bcockman ( $76,340 )
+Seat 7: PapaShango19 ( $132,643 )
+Seat 9: Airag ( $30,855 )
+Seat 10: stianos14 ( $24,970 )
+Airag posts ante [$2,000]
+_o_TIGER_o_ posts ante [$2,000]
+bcockman posts ante [$2,000]
+daniellos111 posts ante [$2,000]
+stianos14 posts ante [$2,000]
+uwehebi posts ante [$2,000]
+PapaShango19 posts ante [$2,000]
+apsjohn posts ante [$2,000]
+uwehebi posts small blind [$10,000]
+_o_TIGER_o_ posts big blind [$20,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Kd ]
+bcockman calls [$20,000]
+PapaShango19 folds
+Airag folds
+stianos14 folds
+apsjohn folds
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ checks
+** Dealing flop ** [ Kc, 4c, 3h ]
+_o_TIGER_o_ checks
+bcockman checks
+** Dealing turn ** [ Ad ]
+_o_TIGER_o_ checks
+bcockman checks
+** Dealing river ** [ Js ]
+_o_TIGER_o_ bets [$20,000]
+bcockman folds
+** Summary **
+_o_TIGER_o_ collected [ $66,000 ]
+
+
+
+#Game No : 652738685
+***** 888poker Hand History for Game 652738685 *****
+$10,000/$20,000 Blinds No Limit Holdem - *** 16 12 2014 03:10:09
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: apsjohn ( $283,615 )
+Seat 2: Lele_Tigela ( $27,580 )
+Seat 3: daniellos111 ( $23,000 )
+Seat 4: uwehebi ( $72,082 )
+Seat 5: _o_TIGER_o_ ( $134,520 )
+Seat 6: bcockman ( $54,340 )
+Seat 7: PapaShango19 ( $130,643 )
+Seat 9: Airag ( $28,855 )
+Seat 10: stianos14 ( $22,970 )
+Airag posts ante [$2,000]
+_o_TIGER_o_ posts ante [$2,000]
+bcockman posts ante [$2,000]
+daniellos111 posts ante [$2,000]
+stianos14 posts ante [$2,000]
+uwehebi posts ante [$2,000]
+PapaShango19 posts ante [$2,000]
+apsjohn posts ante [$2,000]
+Lele_Tigela posts ante [$2,000]
+_o_TIGER_o_ posts small blind [$10,000]
+bcockman posts big blind [$20,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 2d ]
+PapaShango19 folds
+Airag folds
+stianos14 folds
+apsjohn folds
+Lele_Tigela folds
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ raises [$68,000]
+bcockman folds
+** Summary **
+_o_TIGER_o_ did not show his hand
+_o_TIGER_o_ collected [ $58,000 ]
+
+
+
+#Game No : 652738786
+***** 888poker Hand History for Game 652738786 *****
+$10,000/$20,000 Blinds No Limit Holdem - *** 16 12 2014 03:10:56
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: apsjohn ( $281,615 )
+Seat 2: Lele_Tigela ( $25,580 )
+Seat 3: daniellos111 ( $21,000 )
+Seat 4: uwehebi ( $70,082 )
+Seat 5: _o_TIGER_o_ ( $170,520 )
+Seat 6: bcockman ( $32,340 )
+Seat 7: PapaShango19 ( $128,643 )
+Seat 9: Airag ( $26,855 )
+Seat 10: stianos14 ( $20,970 )
+Airag posts ante [$2,000]
+_o_TIGER_o_ posts ante [$2,000]
+bcockman posts ante [$2,000]
+daniellos111 posts ante [$2,000]
+stianos14 posts ante [$2,000]
+uwehebi posts ante [$2,000]
+PapaShango19 posts ante [$2,000]
+apsjohn posts ante [$2,000]
+Lele_Tigela posts ante [$2,000]
+bcockman posts small blind [$10,000]
+PapaShango19 posts big blind [$20,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 6h ]
+Airag folds
+stianos14 folds
+apsjohn calls [$20,000]
+Lele_Tigela folds
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman raises [$20,340]
+PapaShango19 calls [$10,340]
+apsjohn calls [$10,340]
+** Dealing flop ** [ Kc, 3d, 7s ]
+PapaShango19 bets [$96,303]
+apsjohn folds
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Ts ]
+** Summary **
+bcockman shows [ Ac, Kd ]
+PapaShango19 shows [ 7d, 6h ]
+bcockman collected [ $109,020 ]
+
+
+
+#Game No : 652738938
+***** 888poker Hand History for Game 652738938 *****
+$12,500/$25,000 Blinds No Limit Holdem - *** 16 12 2014 03:12:08
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: apsjohn ( $249,275 )
+Seat 2: Lele_Tigela ( $23,580 )
+Seat 3: daniellos111 ( $19,000 )
+Seat 4: uwehebi ( $68,082 )
+Seat 5: _o_TIGER_o_ ( $168,520 )
+Seat 6: bcockman ( $109,020 )
+Seat 7: PapaShango19 ( $96,303 )
+Seat 9: Airag ( $24,855 )
+Seat 10: stianos14 ( $18,970 )
+Airag posts ante [$2,500]
+_o_TIGER_o_ posts ante [$2,500]
+bcockman posts ante [$2,500]
+daniellos111 posts ante [$2,500]
+stianos14 posts ante [$2,500]
+uwehebi posts ante [$2,500]
+PapaShango19 posts ante [$2,500]
+apsjohn posts ante [$2,500]
+Lele_Tigela posts ante [$2,500]
+PapaShango19 posts small blind [$12,500]
+Airag posts big blind [$22,355]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Jd ]
+stianos14 folds
+apsjohn folds
+Lele_Tigela folds
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman folds
+PapaShango19 calls [$12,500]
+** Dealing flop ** [ Qd, 8c, Js ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 7h ]
+** Summary **
+PapaShango19 shows [ Th, Jd ]
+Airag shows [ 2d, 8h ]
+PapaShango19 collected [ $67,210 ]
+PapaShango19 collected [ $2,645 ]
+
+
+
+#Game No : 652739060
+***** 888poker Hand History for Game 652739060 *****
+$12,500/$25,000 Blinds No Limit Holdem - *** 16 12 2014 03:13:12
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $246,775 )
+Seat 2: Lele_Tigela ( $21,080 )
+Seat 3: daniellos111 ( $16,500 )
+Seat 4: uwehebi ( $65,582 )
+Seat 5: _o_TIGER_o_ ( $166,020 )
+Seat 6: bcockman ( $106,520 )
+Seat 7: PapaShango19 ( $138,658 )
+Seat 10: stianos14 ( $16,470 )
+_o_TIGER_o_ posts ante [$2,500]
+bcockman posts ante [$2,500]
+daniellos111 posts ante [$2,500]
+stianos14 posts ante [$2,500]
+uwehebi posts ante [$2,500]
+PapaShango19 posts ante [$2,500]
+apsjohn posts ante [$2,500]
+Lele_Tigela posts ante [$2,500]
+stianos14 posts big blind [$13,970]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 3c ]
+apsjohn folds
+Lele_Tigela calls [$18,580]
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ raises [$163,520]
+bcockman folds
+PapaShango19 folds
+** Dealing flop ** [ As, 2c, 2h ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ Td ]
+** Summary **
+Lele_Tigela shows [ 7c, 8d ]
+_o_TIGER_o_ shows [ 6c, 6d ]
+stianos14 shows [ Th, 4s ]
+stianos14 collected [ $61,910 ]
+_o_TIGER_o_ collected [ $9,220 ]
+_o_TIGER_o_ collected [ $144,940 ]
+
+
+
+#Game No : 652739131
+***** 888poker Hand History for Game 652739131 *****
+$12,500/$25,000 Blinds No Limit Holdem - *** 16 12 2014 03:13:43
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $244,275 )
+Seat 2: novachok1715 ( $123,640 )
+Seat 3: daniellos111 ( $14,000 )
+Seat 4: uwehebi ( $63,082 )
+Seat 5: _o_TIGER_o_ ( $154,160 )
+Seat 6: bcockman ( $104,020 )
+Seat 7: PapaShango19 ( $136,158 )
+Seat 10: stianos14 ( $61,910 )
+_o_TIGER_o_ posts ante [$2,500]
+bcockman posts ante [$2,500]
+daniellos111 posts ante [$2,500]
+stianos14 posts ante [$2,500]
+uwehebi posts ante [$2,500]
+PapaShango19 posts ante [$2,500]
+apsjohn posts ante [$2,500]
+novachok1715 posts ante [$2,500]
+stianos14 posts small blind [$12,500]
+apsjohn posts big blind [$25,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Ks ]
+novachok1715 folds
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman folds
+PapaShango19 raises [$133,658]
+stianos14 folds
+apsjohn folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $82,500 ]
+
+
+
+#Game No : 652739187
+***** 888poker Hand History for Game 652739187 *****
+$12,500/$25,000 Blinds No Limit Holdem - *** 16 12 2014 03:14:17
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $216,775 )
+Seat 2: novachok1715 ( $121,140 )
+Seat 3: daniellos111 ( $11,500 )
+Seat 4: uwehebi ( $60,582 )
+Seat 5: _o_TIGER_o_ ( $151,660 )
+Seat 6: bcockman ( $101,520 )
+Seat 7: PapaShango19 ( $191,158 )
+Seat 10: stianos14 ( $46,910 )
+_o_TIGER_o_ posts ante [$2,500]
+bcockman posts ante [$2,500]
+daniellos111 posts ante [$2,500]
+stianos14 posts ante [$2,500]
+uwehebi posts ante [$2,500]
+PapaShango19 posts ante [$2,500]
+apsjohn posts ante [$2,500]
+novachok1715 posts ante [$2,500]
+apsjohn posts small blind [$12,500]
+novachok1715 posts big blind [$25,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 5d ]
+daniellos111 folds
+uwehebi folds
+_o_TIGER_o_ calls [$25,000]
+bcockman folds
+PapaShango19 folds
+stianos14 folds
+apsjohn folds
+novachok1715 checks
+** Dealing flop ** [ 3c, 6s, Tc ]
+novachok1715 bets [$25,000]
+_o_TIGER_o_ folds
+** Summary **
+novachok1715 did not show his hand
+novachok1715 collected [ $82,500 ]
+
+
+
+#Game No : 652739262
+***** 888poker Hand History for Game 652739262 *****
+$12,500/$25,000 Blinds No Limit Holdem - *** 16 12 2014 03:14:59
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $201,775 )
+Seat 2: novachok1715 ( $176,140 )
+Seat 3: daniellos111 ( $9,000 )
+Seat 4: uwehebi ( $58,082 )
+Seat 5: _o_TIGER_o_ ( $124,160 )
+Seat 6: bcockman ( $99,020 )
+Seat 7: PapaShango19 ( $188,658 )
+Seat 10: stianos14 ( $44,410 )
+_o_TIGER_o_ posts ante [$2,500]
+bcockman posts ante [$2,500]
+daniellos111 posts ante [$2,500]
+stianos14 posts ante [$2,500]
+uwehebi posts ante [$2,500]
+PapaShango19 posts ante [$2,500]
+apsjohn posts ante [$2,500]
+novachok1715 posts ante [$2,500]
+novachok1715 posts small blind [$12,500]
+daniellos111 posts big blind [$6,500]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 3c ]
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman calls [$25,000]
+PapaShango19 folds
+stianos14 folds
+apsjohn raises [$57,000]
+novachok1715 folds
+bcockman raises [$71,520]
+apsjohn calls [$39,520]
+** Dealing flop ** [ Qh, Qd, Jd ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 2s ]
+** Summary **
+apsjohn shows [ Ac, Kd ]
+daniellos111 shows [ 5c, Td ]
+bcockman shows [ Jc, Kc ]
+bcockman collected [ $46,000 ]
+bcockman collected [ $186,040 ]
+
+
+
+#Game No : 652739366
+***** 888poker Hand History for Game 652739366 *****
+$12,500/$25,000 Blinds No Limit Holdem - *** 16 12 2014 03:15:55
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $102,755 )
+Seat 2: novachok1715 ( $161,140 )
+Seat 4: uwehebi ( $55,582 )
+Seat 5: _o_TIGER_o_ ( $121,660 )
+Seat 6: bcockman ( $232,040 )
+Seat 7: PapaShango19 ( $186,158 )
+Seat 9: HeadsupmanAA ( $161,792 )
+Seat 10: stianos14 ( $41,910 )
+_o_TIGER_o_ posts ante [$2,500]
+bcockman posts ante [$2,500]
+stianos14 posts ante [$2,500]
+uwehebi posts ante [$2,500]
+PapaShango19 posts ante [$2,500]
+apsjohn posts ante [$2,500]
+novachok1715 posts ante [$2,500]
+HeadsupmanAA posts ante [$2,500]
+uwehebi posts big blind [$25,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Ah ]
+_o_TIGER_o_ folds
+bcockman folds
+PapaShango19 raises [$183,658]
+HeadsupmanAA folds
+stianos14 folds
+apsjohn calls [$100,255]
+novachok1715 folds
+uwehebi folds
+** Dealing flop ** [ 9s, 9d, 5d ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 9h ]
+** Summary **
+apsjohn shows [ Ac, As ]
+PapaShango19 shows [ Jd, Ah ]
+apsjohn collected [ $245,510 ]
+
+
+
+#Game No : 652739461
+***** 888poker Hand History for Game 652739461 *****
+$12,500/$25,000 Blinds No Limit Holdem - *** 16 12 2014 03:16:44
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $245,510 )
+Seat 2: novachok1715 ( $158,640 )
+Seat 4: uwehebi ( $28,082 )
+Seat 5: _o_TIGER_o_ ( $119,160 )
+Seat 6: bcockman ( $229,540 )
+Seat 7: PapaShango19 ( $83,403 )
+Seat 9: HeadsupmanAA ( $159,292 )
+Seat 10: stianos14 ( $39,410 )
+_o_TIGER_o_ posts ante [$2,500]
+bcockman posts ante [$2,500]
+stianos14 posts ante [$2,500]
+uwehebi posts ante [$2,500]
+PapaShango19 posts ante [$2,500]
+apsjohn posts ante [$2,500]
+novachok1715 posts ante [$2,500]
+HeadsupmanAA posts ante [$2,500]
+uwehebi posts small blind [$12,500]
+_o_TIGER_o_ posts big blind [$25,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 3h ]
+bcockman folds
+PapaShango19 folds
+HeadsupmanAA raises [$156,792]
+stianos14 folds
+apsjohn folds
+novachok1715 folds
+uwehebi folds
+_o_TIGER_o_ folds
+** Summary **
+HeadsupmanAA did not show his hand
+HeadsupmanAA collected [ $82,500 ]
+
+
+
+#Game No : 652739547
+***** 888poker Hand History for Game 652739547 *****
+$15,000/$30,000 Blinds No Limit Holdem - *** 16 12 2014 03:17:27
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $243,010 )
+Seat 2: novachok1715 ( $156,140 )
+Seat 4: uwehebi ( $13,082 )
+Seat 5: _o_TIGER_o_ ( $91,660 )
+Seat 6: bcockman ( $227,040 )
+Seat 7: PapaShango19 ( $80,903 )
+Seat 9: HeadsupmanAA ( $214,292 )
+Seat 10: stianos14 ( $36,910 )
+_o_TIGER_o_ posts ante [$3,000]
+bcockman posts ante [$3,000]
+stianos14 posts ante [$3,000]
+uwehebi posts ante [$3,000]
+PapaShango19 posts ante [$3,000]
+apsjohn posts ante [$3,000]
+novachok1715 posts ante [$3,000]
+HeadsupmanAA posts ante [$3,000]
+_o_TIGER_o_ posts small blind [$15,000]
+bcockman posts big blind [$30,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Jd ]
+PapaShango19 folds
+HeadsupmanAA raises [$211,292]
+stianos14 folds
+apsjohn folds
+novachok1715 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman folds
+** Summary **
+HeadsupmanAA collected [ $99,000 ]
+
+
+
+#Game No : 652739634
+***** 888poker Hand History for Game 652739634 *****
+$15,000/$30,000 Blinds No Limit Holdem - *** 16 12 2014 03:18:13
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: apsjohn ( $240,010 )
+Seat 2: novachok1715 ( $153,140 )
+Seat 3: xoroshiy777 ( $438,570 )
+Seat 4: uwehebi ( $10,082 )
+Seat 5: _o_TIGER_o_ ( $73,660 )
+Seat 6: bcockman ( $194,040 )
+Seat 7: PapaShango19 ( $77,903 )
+Seat 9: HeadsupmanAA ( $280,292 )
+Seat 10: stianos14 ( $33,910 )
+_o_TIGER_o_ posts ante [$3,000]
+bcockman posts ante [$3,000]
+stianos14 posts ante [$3,000]
+uwehebi posts ante [$3,000]
+PapaShango19 posts ante [$3,000]
+apsjohn posts ante [$3,000]
+novachok1715 posts ante [$3,000]
+HeadsupmanAA posts ante [$3,000]
+xoroshiy777 posts ante [$3,000]
+bcockman posts small blind [$15,000]
+PapaShango19 posts big blind [$30,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Ac ]
+HeadsupmanAA folds
+stianos14 raises [$30,910]
+apsjohn folds
+novachok1715 folds
+xoroshiy777 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman calls [$15,910]
+PapaShango19 raises [$44,903]
+bcockman calls [$43,993]
+** Dealing flop ** [ 2h, 7s, 4s ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 3c ]
+** Summary **
+bcockman shows [ Kc, Td ]
+PapaShango19 shows [ Jd, Ac ]
+stianos14 shows [ Ks, Kh ]
+stianos14 collected [ $119,730 ]
+PapaShango19 collected [ $87,986 ]
+
+
+
+#Game No : 652739718
+***** 888poker Hand History for Game 652739718 *****
+$15,000/$30,000 Blinds No Limit Holdem - *** 16 12 2014 03:19:00
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: apsjohn ( $237,010 )
+Seat 2: novachok1715 ( $150,140 )
+Seat 3: xoroshiy777 ( $435,570 )
+Seat 4: uwehebi ( $7,082 )
+Seat 5: _o_TIGER_o_ ( $70,660 )
+Seat 6: bcockman ( $116,137 )
+Seat 7: PapaShango19 ( $87,986 )
+Seat 9: HeadsupmanAA ( $277,292 )
+Seat 10: stianos14 ( $119,730 )
+_o_TIGER_o_ posts ante [$3,000]
+bcockman posts ante [$3,000]
+stianos14 posts ante [$3,000]
+uwehebi posts ante [$3,000]
+PapaShango19 posts ante [$3,000]
+apsjohn posts ante [$3,000]
+novachok1715 posts ante [$3,000]
+HeadsupmanAA posts ante [$3,000]
+xoroshiy777 posts ante [$3,000]
+PapaShango19 posts small blind [$15,000]
+HeadsupmanAA posts big blind [$30,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, Td ]
+stianos14 folds
+apsjohn folds
+novachok1715 raises [$147,140]
+xoroshiy777 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman folds
+PapaShango19 folds
+HeadsupmanAA folds
+** Summary **
+novachok1715 did not show his hand
+novachok1715 collected [ $102,000 ]
+
+
+
+#Game No : 652739760
+***** 888poker Hand History for Game 652739760 *****
+$15,000/$30,000 Blinds No Limit Holdem - *** 16 12 2014 03:19:32
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: apsjohn ( $234,010 )
+Seat 2: novachok1715 ( $219,140 )
+Seat 3: xoroshiy777 ( $432,570 )
+Seat 4: uwehebi ( $4,082 )
+Seat 5: _o_TIGER_o_ ( $67,660 )
+Seat 6: bcockman ( $113,137 )
+Seat 7: PapaShango19 ( $69,986 )
+Seat 9: HeadsupmanAA ( $244,292 )
+Seat 10: stianos14 ( $116,730 )
+_o_TIGER_o_ posts ante [$3,000]
+bcockman posts ante [$3,000]
+stianos14 posts ante [$3,000]
+uwehebi posts ante [$3,000]
+PapaShango19 posts ante [$3,000]
+apsjohn posts ante [$3,000]
+novachok1715 posts ante [$3,000]
+HeadsupmanAA posts ante [$3,000]
+xoroshiy777 posts ante [$3,000]
+HeadsupmanAA posts small blind [$15,000]
+stianos14 posts big blind [$30,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Ad ]
+apsjohn folds
+novachok1715 folds
+xoroshiy777 folds
+uwehebi folds
+_o_TIGER_o_ folds
+bcockman folds
+PapaShango19 raises [$66,986]
+HeadsupmanAA folds
+stianos14 calls [$36,986]
+** Dealing flop ** [ Js, 4h, 5c ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Tc ]
+** Summary **
+PapaShango19 shows [ Kd, Ad ]
+stianos14 shows [ 9d, 9s ]
+stianos14 collected [ $175,972 ]
+
+
+
+#Game No : 652739889
+***** 888poker Hand History for Game 652739889 *****
+$15,000/$30,000 Blinds No Limit Holdem - *** 16 12 2014 03:20:45
+Tournament #64395628 $0.90 + $0.09 - Table #74 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: apsjohn ( $231,010 )
+Seat 2: novachok1715 ( $216,140 )
+Seat 3: xoroshiy777 ( $429,570 )
+Seat 4: uwehebi ( $1,082 )
+Seat 5: _o_TIGER_o_ ( $64,660 )
+Seat 6: bcockman ( $110,137 )
+Seat 9: HeadsupmanAA ( $226,292 )
+Seat 10: stianos14 ( $222,716 )
+_o_TIGER_o_ posts ante [$3,000]
+bcockman posts ante [$3,000]
+stianos14 posts ante [$3,000]
+uwehebi posts ante [$1,082]
+apsjohn posts ante [$3,000]
+novachok1715 posts ante [$3,000]
+HeadsupmanAA posts ante [$3,000]
+xoroshiy777 posts ante [$3,000]
+stianos14 posts small blind [$15,000]
+apsjohn posts big blind [$30,000]
+** Dealing down cards **
+novachok1715 folds
+xoroshiy777 folds
+_o_TIGER_o_ folds
+bcockman folds
+HeadsupmanAA folds
+stianos14 calls [$15,000]
+apsjohn checks
+** Dealing flop ** [ 5c, 4s, Kc ]
+stianos14 checks
+apsjohn checks
+** Dealing turn ** [ 6d ]
+stianos14 checks
+apsjohn checks
+** Dealing river ** [ 2s ]
+stianos14 checks
+apsjohn checks
+** Summary **
+stianos14 shows [ Tc, Jh ]
+apsjohn shows [ 8h, 2c ]
+uwehebi shows [ 6h, Qd ]
+uwehebi collected [ $8,656 ]
+apsjohn collected [ $73,426 ]
+
+
+

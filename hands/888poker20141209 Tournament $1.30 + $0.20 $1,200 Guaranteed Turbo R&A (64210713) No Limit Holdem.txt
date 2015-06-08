@@ -1,0 +1,1463 @@
+#Game No : 647789182
+***** 888poker Hand History for Game 647789182 *****
+$5/$10 Blinds No Limit Holdem - *** 09 12 2014 17:08:24
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: CherchesovSS ( $3,000 )
+Seat 3: kalcsuka ( $1,500 )
+Seat 4: RaLLL23 ( $3,000 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $1,500 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: hugmac ( $3,000 )
+Seat 10: DorianMD ( $1,500 )
+kalcsuka posts small blind [$5]
+RaLLL23 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Jd ]
+Hansafond folds
+MR_HASSL calls [$10]
+PapaShango19 folds
+hugmac folds
+DorianMD folds
+CherchesovSS folds
+kalcsuka calls [$5]
+RaLLL23 checks
+** Dealing flop ** [ 7h, 3d, 9s ]
+kalcsuka bets [$10]
+RaLLL23 folds
+MR_HASSL calls [$10]
+** Dealing turn ** [ Ks ]
+kalcsuka checks
+MR_HASSL checks
+** Dealing river ** [ 5c ]
+kalcsuka checks
+MR_HASSL checks
+** Summary **
+kalcsuka shows [ 7d, 8c ]
+MR_HASSL mucks [ 3s, Qh ]
+kalcsuka collected [ $50 ]
+
+
+
+#Game No : 647789365
+***** 888poker Hand History for Game 647789365 *****
+$5/$10 Blinds No Limit Holdem - *** 09 12 2014 17:09:29
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,000 )
+Seat 2: PumpyPammo ( $3,000 )
+Seat 3: kalcsuka ( $1,530 )
+Seat 4: RaLLL23 ( $2,990 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $1,480 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: hugmac ( $3,000 )
+Seat 10: DorianMD ( $1,500 )
+RaLLL23 posts small blind [$5]
+Hansafond posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 5s ]
+MR_HASSL calls [$10]
+PapaShango19 folds
+hugmac raises [$40]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka raises [$145]
+RaLLL23 folds
+Hansafond folds
+MR_HASSL calls [$135]
+hugmac calls [$105]
+** Dealing flop ** [ 3h, Th, 5h ]
+MR_HASSL checks
+hugmac checks
+kalcsuka checks
+** Dealing turn ** [ Qd ]
+MR_HASSL checks
+hugmac bets [$60]
+kalcsuka raises [$315]
+MR_HASSL folds
+hugmac folds
+** Summary **
+kalcsuka did not show his hand
+kalcsuka collected [ $570 ]
+
+
+
+#Game No : 647789662
+***** 888poker Hand History for Game 647789662 *****
+$5/$10 Blinds No Limit Holdem - *** 09 12 2014 17:11:06
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,000 )
+Seat 2: PumpyPammo ( $3,000 )
+Seat 3: kalcsuka ( $1,895 )
+Seat 4: RaLLL23 ( $2,985 )
+Seat 5: Hansafond ( $1,490 )
+Seat 6: MR_HASSL ( $1,335 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: hugmac ( $2,795 )
+Seat 10: DorianMD ( $1,500 )
+Hansafond posts small blind [$5]
+MR_HASSL posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Qc ]
+PapaShango19 folds
+hugmac calls [$10]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$10]
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL checks
+** Dealing flop ** [ 4c, 5h, 9c ]
+MR_HASSL checks
+hugmac bets [$20]
+PumpyPammo calls [$20]
+MR_HASSL calls [$20]
+** Dealing turn ** [ Ks ]
+MR_HASSL checks
+hugmac bets [$20]
+PumpyPammo calls [$20]
+MR_HASSL folds
+** Dealing river ** [ 2c ]
+hugmac bets [$135]
+PumpyPammo folds
+** Summary **
+hugmac did not show his hand
+hugmac collected [ $135 ]
+
+
+
+#Game No : 647789806
+***** 888poker Hand History for Game 647789806 *****
+$5/$10 Blinds No Limit Holdem - *** 09 12 2014 17:12:07
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,000 )
+Seat 2: PumpyPammo ( $2,950 )
+Seat 3: kalcsuka ( $1,895 )
+Seat 4: RaLLL23 ( $2,985 )
+Seat 5: Hansafond ( $1,485 )
+Seat 6: MR_HASSL ( $1,305 )
+Seat 7: PapaShango19 ( $1,500 )
+Seat 9: hugmac ( $2,880 )
+Seat 10: DorianMD ( $1,500 )
+MR_HASSL posts small blind [$5]
+PapaShango19 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, Qs ]
+hugmac calls [$10]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL calls [$5]
+PapaShango19 checks
+** Dealing flop ** [ Qd, Ah, 8h ]
+MR_HASSL checks
+PapaShango19 checks
+hugmac bets [$30]
+MR_HASSL calls [$30]
+PapaShango19 calls [$30]
+** Dealing turn ** [ 2d ]
+MR_HASSL checks
+PapaShango19 checks
+hugmac bets [$40]
+MR_HASSL calls [$40]
+PapaShango19 calls [$40]
+** Dealing river ** [ Tc ]
+MR_HASSL checks
+PapaShango19 checks
+hugmac bets [$120]
+MR_HASSL folds
+PapaShango19 folds
+** Summary **
+hugmac did not show his hand
+hugmac collected [ $240 ]
+
+
+
+#Game No : 647790031
+***** 888poker Hand History for Game 647790031 *****
+$5/$10 Blinds No Limit Holdem - *** 09 12 2014 17:13:49
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,000 )
+Seat 2: PumpyPammo ( $2,950 )
+Seat 3: kalcsuka ( $1,895 )
+Seat 4: RaLLL23 ( $2,985 )
+Seat 5: Hansafond ( $1,485 )
+Seat 6: MR_HASSL ( $1,225 )
+Seat 7: PapaShango19 ( $1,420 )
+Seat 9: hugmac ( $3,040 )
+Seat 10: DorianMD ( $1,500 )
+PapaShango19 posts small blind [$5]
+hugmac posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Ad ]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 folds
+Hansafond raises [$20]
+MR_HASSL folds
+PapaShango19 calls [$15]
+hugmac calls [$10]
+** Dealing flop ** [ 9s, 8d, 4h ]
+PapaShango19 checks
+hugmac checks
+Hansafond bets [$30]
+PapaShango19 folds
+hugmac calls [$30]
+** Dealing turn ** [ Kh ]
+hugmac checks
+Hansafond bets [$30]
+hugmac calls [$30]
+** Dealing river ** [ 5h ]
+hugmac checks
+Hansafond bets [$90]
+hugmac folds
+** Summary **
+Hansafond did not show his hand
+Hansafond collected [ $180 ]
+
+
+
+#Game No : 647790240
+***** 888poker Hand History for Game 647790240 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 17:15:17
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,000 )
+Seat 2: PumpyPammo ( $2,950 )
+Seat 3: kalcsuka ( $1,895 )
+Seat 4: RaLLL23 ( $2,985 )
+Seat 5: Hansafond ( $1,585 )
+Seat 6: MR_HASSL ( $1,225 )
+Seat 7: PapaShango19 ( $1,400 )
+Seat 9: hugmac ( $2,960 )
+Seat 10: DorianMD ( $1,500 )
+hugmac posts small blind [$10]
+DorianMD posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, As ]
+CherchesovSS raises [$60]
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 raises [$210]
+Hansafond folds
+MR_HASSL raises [$1,225]
+PapaShango19 folds
+hugmac folds
+DorianMD folds
+CherchesovSS folds
+RaLLL23 calls [$1,015]
+** Dealing flop ** [ Kc, 6h, Qs ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 3d ]
+** Summary **
+RaLLL23 shows [ Ad, Ac ]
+MR_HASSL shows [ Qd, Qh ]
+MR_HASSL collected [ $2,540 ]
+
+
+
+#Game No : 647790384
+***** 888poker Hand History for Game 647790384 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 17:16:22
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $2,940 )
+Seat 2: PumpyPammo ( $2,950 )
+Seat 3: kalcsuka ( $1,895 )
+Seat 4: RaLLL23 ( $1,760 )
+Seat 5: Hansafond ( $1,585 )
+Seat 6: MR_HASSL ( $2,540 )
+Seat 7: PapaShango19 ( $1,400 )
+Seat 9: hugmac ( $2,950 )
+Seat 10: DorianMD ( $1,480 )
+DorianMD posts small blind [$10]
+CherchesovSS posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 6d ]
+PumpyPammo calls [$20]
+kalcsuka folds
+RaLLL23 folds
+Hansafond calls [$20]
+MR_HASSL calls [$20]
+PapaShango19 folds
+hugmac calls [$20]
+DorianMD folds
+CherchesovSS checks
+** Dealing flop ** [ Jh, Qc, 2s ]
+CherchesovSS checks
+PumpyPammo checks
+Hansafond checks
+MR_HASSL checks
+hugmac checks
+** Dealing turn ** [ Qh ]
+CherchesovSS bets [$80]
+PumpyPammo folds
+Hansafond folds
+MR_HASSL folds
+hugmac calls [$80]
+** Dealing river ** [ 6c ]
+CherchesovSS bets [$140]
+hugmac folds
+** Summary **
+CherchesovSS did not show his hand
+CherchesovSS collected [ $270 ]
+
+
+
+#Game No : 647790594
+***** 888poker Hand History for Game 647790594 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 17:17:48
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,110 )
+Seat 2: PumpyPammo ( $4,430 )
+Seat 3: kalcsuka ( $3,395 )
+Seat 4: RaLLL23 ( $1,760 )
+Seat 5: Hansafond ( $1,565 )
+Seat 6: MR_HASSL ( $2,520 )
+Seat 7: PapaShango19 ( $1,400 )
+Seat 9: hugmac ( $2,850 )
+Seat 10: DorianMD ( $1,470 )
+CherchesovSS posts small blind [$10]
+PumpyPammo posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 8d ]
+kalcsuka folds
+RaLLL23 calls [$20]
+Hansafond calls [$20]
+MR_HASSL folds
+PapaShango19 folds
+hugmac calls [$20]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo checks
+** Dealing flop ** [ 3h, Ts, Jh ]
+PumpyPammo checks
+RaLLL23 checks
+Hansafond checks
+hugmac bets [$60]
+PumpyPammo folds
+RaLLL23 calls [$60]
+Hansafond folds
+** Dealing turn ** [ Js ]
+RaLLL23 checks
+hugmac checks
+** Dealing river ** [ 2s ]
+RaLLL23 checks
+hugmac bets [$105]
+RaLLL23 folds
+** Summary **
+hugmac did not show his hand
+hugmac collected [ $210 ]
+
+
+
+#Game No : 647790780
+***** 888poker Hand History for Game 647790780 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 17:19:05
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $4,410 )
+Seat 3: kalcsuka ( $3,395 )
+Seat 4: RaLLL23 ( $1,680 )
+Seat 5: Hansafond ( $1,545 )
+Seat 6: MR_HASSL ( $2,520 )
+Seat 7: PapaShango19 ( $1,400 )
+Seat 9: hugmac ( $2,980 )
+Seat 10: DorianMD ( $1,470 )
+PumpyPammo posts small blind [$10]
+kalcsuka posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 5h ]
+RaLLL23 folds
+Hansafond folds
+MR_HASSL calls [$20]
+PapaShango19 folds
+hugmac raises [$60]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka folds
+MR_HASSL calls [$40]
+** Dealing flop ** [ 6c, Ac, 9h ]
+MR_HASSL bets [$20]
+hugmac calls [$20]
+** Dealing turn ** [ Qs ]
+MR_HASSL bets [$110]
+hugmac calls [$110]
+** Dealing river ** [ Tc ]
+MR_HASSL bets [$410]
+hugmac folds
+** Summary **
+MR_HASSL did not show his hand
+MR_HASSL collected [ $410 ]
+
+
+
+#Game No : 647790933
+***** 888poker Hand History for Game 647790933 *****
+$10/$20 Blinds No Limit Holdem - *** 09 12 2014 17:20:06
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $4,400 )
+Seat 3: kalcsuka ( $3,375 )
+Seat 4: RaLLL23 ( $1,680 )
+Seat 5: Hansafond ( $1,545 )
+Seat 6: MR_HASSL ( $2,740 )
+Seat 7: PapaShango19 ( $1,400 )
+Seat 9: hugmac ( $2,790 )
+Seat 10: DorianMD ( $1,470 )
+kalcsuka posts small blind [$10]
+RaLLL23 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9s ]
+Hansafond folds
+MR_HASSL calls [$20]
+PapaShango19 folds
+hugmac raises [$60]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 folds
+MR_HASSL calls [$40]
+** Dealing flop ** [ 3c, Ks, 8c ]
+MR_HASSL checks
+hugmac bets [$75]
+MR_HASSL calls [$75]
+** Dealing turn ** [ 3s ]
+MR_HASSL checks
+hugmac bets [$140]
+MR_HASSL raises [$280]
+hugmac folds
+** Summary **
+MR_HASSL did not show his hand
+MR_HASSL collected [ $580 ]
+
+
+
+#Game No : 647791127
+***** 888poker Hand History for Game 647791127 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 17:21:24
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $4,400 )
+Seat 3: kalcsuka ( $3,365 )
+Seat 4: RaLLL23 ( $1,660 )
+Seat 5: Hansafond ( $1,545 )
+Seat 6: MR_HASSL ( $3,045 )
+Seat 7: PapaShango19 ( $1,400 )
+Seat 9: hugmac ( $2,515 )
+Seat 10: DorianMD ( $1,470 )
+RaLLL23 posts small blind [$15]
+Hansafond posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Qh ]
+MR_HASSL calls [$30]
+PapaShango19 calls [$30]
+hugmac raises [$90]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka calls [$90]
+RaLLL23 calls [$75]
+Hansafond folds
+MR_HASSL calls [$60]
+PapaShango19 calls [$60]
+** Dealing flop ** [ 3c, Ad, 9d ]
+RaLLL23 checks
+MR_HASSL checks
+PapaShango19 checks
+hugmac bets [$240]
+kalcsuka raises [$600]
+RaLLL23 raises [$1,570]
+MR_HASSL folds
+PapaShango19 folds
+hugmac calls [$1,330]
+kalcsuka raises [$2,675]
+hugmac calls [$855]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 6d ]
+** Summary **
+kalcsuka shows [ Ac, 9s ]
+RaLLL23 shows [ As, 3s ]
+hugmac shows [ Ah, Jc ]
+kalcsuka collected [ $5,190 ]
+kalcsuka collected [ $1,710 ]
+
+
+
+#Game No : 647791346
+***** 888poker Hand History for Game 647791346 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 17:22:58
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $4,400 )
+Seat 3: kalcsuka ( $7,750 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $1,515 )
+Seat 6: MR_HASSL ( $2,955 )
+Seat 7: PapaShango19 ( $1,310 )
+Seat 9: hugmac ( $1,500 )
+Seat 10: DorianMD ( $1,470 )
+Hansafond posts small blind [$15]
+MR_HASSL posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 3s ]
+PapaShango19 folds
+hugmac calls [$30]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$30]
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL checks
+** Dealing flop ** [ 2s, Ks, 2h ]
+MR_HASSL checks
+hugmac checks
+PumpyPammo checks
+** Dealing turn ** [ 3h ]
+MR_HASSL bets [$30]
+hugmac calls [$30]
+PumpyPammo calls [$30]
+** Dealing river ** [ 7c ]
+MR_HASSL bets [$195]
+hugmac folds
+PumpyPammo raises [$390]
+MR_HASSL raises [$390]
+PumpyPammo calls [$195]
+** Summary **
+MR_HASSL shows [ 6s, 2c ]
+PumpyPammo mucks [ Ts, Td ]
+MR_HASSL collected [ $1,365 ]
+
+
+
+#Game No : 647791464
+***** 888poker Hand History for Game 647791464 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 17:23:52
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $3,755 )
+Seat 3: kalcsuka ( $7,750 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $3,675 )
+Seat 7: PapaShango19 ( $1,310 )
+Seat 9: hugmac ( $2,940 )
+Seat 10: DorianMD ( $1,470 )
+MR_HASSL posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Qs ]
+hugmac calls [$30]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$30]
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL calls [$15]
+PapaShango19 raises [$90]
+hugmac calls [$90]
+PumpyPammo calls [$90]
+MR_HASSL calls [$90]
+** Dealing flop ** [ 3h, 2h, 9h ]
+MR_HASSL bets [$120]
+PapaShango19 folds
+hugmac folds
+PumpyPammo calls [$120]
+** Dealing turn ** [ Js ]
+MR_HASSL bets [$150]
+PumpyPammo calls [$150]
+** Dealing river ** [ 4s ]
+MR_HASSL bets [$1,020]
+PumpyPammo folds
+** Summary **
+MR_HASSL did not show his hand
+MR_HASSL collected [ $1,020 ]
+
+
+
+#Game No : 647791655
+***** 888poker Hand History for Game 647791655 *****
+$15/$30 Blinds No Limit Holdem - *** 09 12 2014 17:25:11
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $3,365 )
+Seat 3: kalcsuka ( $7,750 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $4,305 )
+Seat 7: PapaShango19 ( $1,190 )
+Seat 9: hugmac ( $2,820 )
+Seat 10: DorianMD ( $1,470 )
+PapaShango19 posts small blind [$15]
+hugmac posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 9s ]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$30]
+kalcsuka raises [$135]
+RaLLL23 folds
+Hansafond folds
+MR_HASSL folds
+PapaShango19 folds
+hugmac folds
+PumpyPammo calls [$105]
+** Dealing flop ** [ Ah, Ac, 7h ]
+PumpyPammo bets [$30]
+kalcsuka calls [$30]
+** Dealing turn ** [ 2s ]
+PumpyPammo checks
+kalcsuka bets [$30]
+PumpyPammo calls [$30]
+** Dealing river ** [ 8s ]
+PumpyPammo checks
+kalcsuka bets [$217]
+PumpyPammo folds
+** Summary **
+kalcsuka did not show his hand
+kalcsuka collected [ $435 ]
+
+
+
+#Game No : 647791806
+***** 888poker Hand History for Game 647791806 *****
+$20/$40 Blinds No Limit Holdem - *** 09 12 2014 17:26:30
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $3,170 )
+Seat 3: kalcsuka ( $7,990 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $4,305 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $2,790 )
+Seat 10: DorianMD ( $1,470 )
+hugmac posts small blind [$20]
+DorianMD posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 7s ]
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka raises [$120]
+RaLLL23 folds
+Hansafond folds
+MR_HASSL calls [$120]
+PapaShango19 folds
+hugmac raises [$420]
+DorianMD folds
+kalcsuka calls [$320]
+MR_HASSL calls [$320]
+** Dealing flop ** [ Kd, 7h, Jd ]
+hugmac bets [$560]
+kalcsuka folds
+MR_HASSL calls [$560]
+** Dealing turn ** [ 4h ]
+hugmac bets [$1,790]
+MR_HASSL calls [$1,790]
+** Dealing river ** [ 2s ]
+** Summary **
+MR_HASSL shows [ 4d, Qh ]
+hugmac shows [ Ah, Kh ]
+hugmac collected [ $6,060 ]
+
+
+
+#Game No : 647792003
+***** 888poker Hand History for Game 647792003 *****
+$20/$40 Blinds No Limit Holdem - *** 09 12 2014 17:28:15
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,100 )
+Seat 2: PumpyPammo ( $3,170 )
+Seat 3: kalcsuka ( $7,550 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $1,515 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $6,060 )
+Seat 10: DorianMD ( $1,430 )
+DorianMD posts small blind [$20]
+CherchesovSS posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, Jh ]
+PumpyPammo calls [$40]
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL raises [$1,515]
+PapaShango19 folds
+hugmac folds
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$1,475]
+** Dealing flop ** [ Kc, 9d, 7d ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ Kd ]
+** Summary **
+PumpyPammo shows [ Ks, Qh ]
+MR_HASSL shows [ 9s, Ac ]
+PumpyPammo collected [ $3,090 ]
+
+
+
+#Game No : 647792097
+***** 888poker Hand History for Game 647792097 *****
+$20/$40 Blinds No Limit Holdem - *** 09 12 2014 17:29:08
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,060 )
+Seat 2: PumpyPammo ( $4,745 )
+Seat 3: kalcsuka ( $7,550 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $3,000 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $6,060 )
+Seat 10: DorianMD ( $1,410 )
+CherchesovSS posts small blind [$20]
+PumpyPammo posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 2h ]
+kalcsuka folds
+RaLLL23 raises [$140]
+Hansafond folds
+MR_HASSL folds
+PapaShango19 folds
+hugmac calls [$140]
+DorianMD calls [$140]
+CherchesovSS folds
+PumpyPammo calls [$100]
+** Dealing flop ** [ Ad, 9h, Kh ]
+PumpyPammo checks
+RaLLL23 checks
+hugmac checks
+DorianMD checks
+** Dealing turn ** [ 2s ]
+PumpyPammo checks
+RaLLL23 bets [$320]
+hugmac folds
+DorianMD folds
+PumpyPammo calls [$320]
+** Dealing river ** [ Td ]
+PumpyPammo bets [$120]
+RaLLL23 calls [$120]
+** Summary **
+PumpyPammo shows [ 2d, Ks ]
+RaLLL23 mucks [ Qc, Kc ]
+PumpyPammo collected [ $1,460 ]
+
+
+
+#Game No : 647792201
+***** 888poker Hand History for Game 647792201 *****
+$20/$40 Blinds No Limit Holdem - *** 09 12 2014 17:30:04
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,040 )
+Seat 2: PumpyPammo ( $5,625 )
+Seat 3: kalcsuka ( $7,550 )
+Seat 4: RaLLL23 ( $920 )
+Seat 5: Hansafond ( $1,500 )
+Seat 6: MR_HASSL ( $3,000 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $5,920 )
+Seat 10: DorianMD ( $1,270 )
+PumpyPammo posts small blind [$20]
+kalcsuka posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 3s ]
+RaLLL23 calls [$40]
+Hansafond calls [$40]
+MR_HASSL calls [$40]
+PapaShango19 folds
+hugmac folds
+DorianMD raises [$240]
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 calls [$200]
+Hansafond calls [$200]
+MR_HASSL calls [$200]
+** Dealing flop ** [ 8h, 7s, 4d ]
+RaLLL23 checks
+Hansafond bets [$510]
+MR_HASSL calls [$510]
+DorianMD folds
+RaLLL23 folds
+** Dealing turn ** [ Js ]
+Hansafond bets [$750]
+MR_HASSL calls [$750]
+** Dealing river ** [ Jd ]
+** Summary **
+Hansafond shows [ 9s, 9c ]
+MR_HASSL shows [ Ad, 5s ]
+Hansafond collected [ $3,540 ]
+
+
+
+#Game No : 647792379
+***** 888poker Hand History for Game 647792379 *****
+$20/$40 Blinds No Limit Holdem - *** 09 12 2014 17:31:48
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,040 )
+Seat 2: PumpyPammo ( $5,605 )
+Seat 3: kalcsuka ( $7,510 )
+Seat 4: RaLLL23 ( $680 )
+Seat 5: Hansafond ( $3,540 )
+Seat 6: MR_HASSL ( $1,500 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $5,920 )
+Seat 10: DorianMD ( $1,030 )
+kalcsuka posts small blind [$20]
+RaLLL23 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 2c ]
+Hansafond folds
+MR_HASSL calls [$40]
+PapaShango19 folds
+hugmac calls [$40]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$40]
+kalcsuka folds
+RaLLL23 checks
+** Dealing flop ** [ Js, 7c, 7d ]
+RaLLL23 checks
+MR_HASSL checks
+hugmac bets [$120]
+PumpyPammo folds
+RaLLL23 folds
+MR_HASSL calls [$120]
+** Dealing turn ** [ 9s ]
+MR_HASSL checks
+hugmac bets [$315]
+MR_HASSL folds
+** Summary **
+hugmac did not show his hand
+hugmac collected [ $420 ]
+
+
+
+#Game No : 647792548
+***** 888poker Hand History for Game 647792548 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 17:33:30
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,040 )
+Seat 2: PumpyPammo ( $5,565 )
+Seat 3: kalcsuka ( $7,490 )
+Seat 4: RaLLL23 ( $640 )
+Seat 5: Hansafond ( $3,540 )
+Seat 6: MR_HASSL ( $1,340 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $6,180 )
+Seat 10: DorianMD ( $1,030 )
+RaLLL23 posts small blind [$25]
+Hansafond posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9c ]
+MR_HASSL calls [$50]
+PapaShango19 folds
+hugmac folds
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$50]
+kalcsuka folds
+RaLLL23 folds
+Hansafond checks
+** Dealing flop ** [ 4s, Qc, Qs ]
+Hansafond checks
+MR_HASSL checks
+PumpyPammo checks
+** Dealing turn ** [ 9s ]
+Hansafond bets [$50]
+MR_HASSL calls [$50]
+PumpyPammo folds
+** Dealing river ** [ 3c ]
+Hansafond bets [$100]
+MR_HASSL folds
+** Summary **
+Hansafond did not show his hand
+Hansafond collected [ $275 ]
+
+
+
+#Game No : 647792628
+***** 888poker Hand History for Game 647792628 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 17:34:21
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,040 )
+Seat 2: PumpyPammo ( $5,515 )
+Seat 3: kalcsuka ( $7,490 )
+Seat 4: RaLLL23 ( $615 )
+Seat 5: Hansafond ( $3,715 )
+Seat 6: MR_HASSL ( $1,240 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $6,180 )
+Seat 10: DorianMD ( $1,030 )
+Hansafond posts small blind [$25]
+MR_HASSL posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 4c ]
+PapaShango19 folds
+hugmac raises [$100]
+DorianMD folds
+CherchesovSS raises [$250]
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL folds
+hugmac calls [$150]
+** Dealing flop ** [ 9d, 4d, 3h ]
+hugmac checks
+CherchesovSS bets [$400]
+hugmac folds
+** Summary **
+CherchesovSS did not show his hand
+CherchesovSS collected [ $575 ]
+
+
+
+#Game No : 647792716
+***** 888poker Hand History for Game 647792716 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 17:35:13
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,365 )
+Seat 2: PumpyPammo ( $5,515 )
+Seat 3: kalcsuka ( $7,490 )
+Seat 4: RaLLL23 ( $615 )
+Seat 5: Hansafond ( $3,690 )
+Seat 6: MR_HASSL ( $1,190 )
+Seat 7: PapaShango19 ( $1,175 )
+Seat 9: hugmac ( $5,930 )
+Seat 10: DorianMD ( $1,030 )
+MR_HASSL posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Th ]
+hugmac calls [$50]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka raises [$225]
+RaLLL23 raises [$615]
+Hansafond calls [$615]
+MR_HASSL folds
+PapaShango19 folds
+hugmac folds
+kalcsuka calls [$390]
+** Dealing flop ** [ Tc, Qs, 3h ]
+kalcsuka checks
+Hansafond bets [$700]
+kalcsuka calls [$700]
+** Dealing turn ** [ Jh ]
+kalcsuka checks
+Hansafond checks
+** Dealing river ** [ 3c ]
+kalcsuka checks
+Hansafond bets [$700]
+kalcsuka calls [$700]
+** Summary **
+Hansafond shows [ Qc, Ac ]
+kalcsuka mucks [ Jc, Kc ]
+RaLLL23 mucks [ Ah, Td ]
+Hansafond collected [ $1,970 ]
+Hansafond collected [ $2,800 ]
+
+
+
+#Game No : 647792855
+***** 888poker Hand History for Game 647792855 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 17:36:44
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,365 )
+Seat 2: PumpyPammo ( $5,515 )
+Seat 3: kalcsuka ( $5,475 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $6,445 )
+Seat 6: MR_HASSL ( $1,165 )
+Seat 7: PapaShango19 ( $1,125 )
+Seat 9: hugmac ( $5,880 )
+Seat 10: DorianMD ( $1,030 )
+PapaShango19 posts small blind [$25]
+hugmac posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 5c ]
+DorianMD raises [$131]
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka calls [$131]
+RaLLL23 folds
+Hansafond folds
+MR_HASSL raises [$1,165]
+PapaShango19 folds
+hugmac folds
+DorianMD calls [$899]
+kalcsuka calls [$1,034]
+** Dealing flop ** [ 8h, Td, 3h ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 4s ]
+** Summary **
+kalcsuka shows [ Qc, Kd ]
+MR_HASSL shows [ Kc, Jh ]
+DorianMD shows [ Th, As ]
+DorianMD collected [ $3,165 ]
+kalcsuka collected [ $270 ]
+
+
+
+#Game No : 647792953
+***** 888poker Hand History for Game 647792953 *****
+$25/$50 Blinds No Limit Holdem - *** 09 12 2014 17:37:45
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,365 )
+Seat 2: PumpyPammo ( $5,515 )
+Seat 3: kalcsuka ( $4,580 )
+Seat 4: RaLLL23 ( $1,500 )
+Seat 5: Hansafond ( $6,445 )
+Seat 6: MR_HASSL ( $3,000 )
+Seat 7: PapaShango19 ( $1,100 )
+Seat 9: hugmac ( $5,830 )
+Seat 10: DorianMD ( $3,165 )
+hugmac posts small blind [$25]
+DorianMD posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 7s ]
+CherchesovSS folds
+PumpyPammo calls [$50]
+kalcsuka folds
+RaLLL23 calls [$50]
+Hansafond folds
+MR_HASSL raises [$3,000]
+PapaShango19 folds
+hugmac folds
+DorianMD folds
+PumpyPammo calls [$2,950]
+RaLLL23 folds
+** Dealing flop ** [ 2c, 5c, 8d ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 4h ]
+** Summary **
+PumpyPammo shows [ Ks, Qd ]
+MR_HASSL shows [ 8c, 8s ]
+MR_HASSL collected [ $6,125 ]
+
+
+
+#Game No : 647793014
+***** 888poker Hand History for Game 647793014 *****
+$30/$60 Blinds No Limit Holdem - *** 09 12 2014 17:38:27
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,365 )
+Seat 2: PumpyPammo ( $2,515 )
+Seat 3: kalcsuka ( $4,580 )
+Seat 4: RaLLL23 ( $1,450 )
+Seat 5: Hansafond ( $6,445 )
+Seat 6: MR_HASSL ( $6,125 )
+Seat 7: PapaShango19 ( $1,100 )
+Seat 9: hugmac ( $5,805 )
+Seat 10: DorianMD ( $3,115 )
+kalcsuka posts ante [$5]
+Hansafond posts ante [$5]
+DorianMD posts ante [$5]
+MR_HASSL posts ante [$5]
+hugmac posts ante [$5]
+CherchesovSS posts ante [$5]
+PapaShango19 posts ante [$5]
+RaLLL23 posts ante [$5]
+PumpyPammo posts ante [$5]
+DorianMD posts small blind [$30]
+CherchesovSS posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Jd ]
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL calls [$60]
+PapaShango19 folds
+hugmac calls [$60]
+DorianMD folds
+CherchesovSS checks
+** Dealing flop ** [ Ad, 2s, 7c ]
+CherchesovSS checks
+MR_HASSL checks
+hugmac checks
+** Dealing turn ** [ 5d ]
+CherchesovSS checks
+MR_HASSL checks
+hugmac bets [$360]
+CherchesovSS folds
+MR_HASSL calls [$360]
+** Dealing river ** [ 6d ]
+MR_HASSL checks
+hugmac bets [$480]
+MR_HASSL folds
+** Summary **
+hugmac did not show his hand
+hugmac collected [ $975 ]
+
+
+
+#Game No : 647793124
+***** 888poker Hand History for Game 647793124 *****
+$30/$60 Blinds No Limit Holdem - *** 09 12 2014 17:39:32
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,300 )
+Seat 2: PumpyPammo ( $4,010 )
+Seat 3: kalcsuka ( $4,575 )
+Seat 4: RaLLL23 ( $1,445 )
+Seat 5: Hansafond ( $6,440 )
+Seat 6: MR_HASSL ( $5,700 )
+Seat 7: PapaShango19 ( $1,095 )
+Seat 9: hugmac ( $6,355 )
+Seat 10: DorianMD ( $3,080 )
+kalcsuka posts ante [$5]
+Hansafond posts ante [$5]
+DorianMD posts ante [$5]
+MR_HASSL posts ante [$5]
+hugmac posts ante [$5]
+CherchesovSS posts ante [$5]
+PapaShango19 posts ante [$5]
+RaLLL23 posts ante [$5]
+PumpyPammo posts ante [$5]
+CherchesovSS posts small blind [$30]
+PumpyPammo posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 7s ]
+kalcsuka folds
+RaLLL23 folds
+Hansafond calls [$60]
+MR_HASSL folds
+PapaShango19 folds
+hugmac folds
+DorianMD folds
+CherchesovSS folds
+PumpyPammo checks
+** Dealing flop ** [ 6d, 9s, 8h ]
+PumpyPammo bets [$60]
+Hansafond folds
+** Summary **
+PumpyPammo did not show his hand
+PumpyPammo collected [ $195 ]
+
+
+
+#Game No : 647793201
+***** 888poker Hand History for Game 647793201 *****
+$30/$60 Blinds No Limit Holdem - *** 09 12 2014 17:40:12
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,265 )
+Seat 2: PumpyPammo ( $4,140 )
+Seat 3: kalcsuka ( $4,570 )
+Seat 4: RaLLL23 ( $1,440 )
+Seat 5: Hansafond ( $6,375 )
+Seat 6: MR_HASSL ( $5,695 )
+Seat 7: PapaShango19 ( $1,090 )
+Seat 9: hugmac ( $6,350 )
+Seat 10: DorianMD ( $3,075 )
+kalcsuka posts ante [$5]
+Hansafond posts ante [$5]
+DorianMD posts ante [$5]
+MR_HASSL posts ante [$5]
+hugmac posts ante [$5]
+CherchesovSS posts ante [$5]
+PapaShango19 posts ante [$5]
+RaLLL23 posts ante [$5]
+PumpyPammo posts ante [$5]
+PumpyPammo posts small blind [$30]
+kalcsuka posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 6d ]
+RaLLL23 folds
+Hansafond folds
+MR_HASSL raises [$255]
+PapaShango19 folds
+hugmac calls [$255]
+DorianMD folds
+CherchesovSS raises [$3,260]
+PumpyPammo folds
+kalcsuka folds
+MR_HASSL folds
+hugmac folds
+** Summary **
+CherchesovSS did not show his hand
+CherchesovSS collected [ $900 ]
+
+
+
+#Game No : 647793317
+***** 888poker Hand History for Game 647793317 *****
+$30/$60 Blinds No Limit Holdem - *** 09 12 2014 17:41:23
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,905 )
+Seat 2: PumpyPammo ( $4,105 )
+Seat 3: kalcsuka ( $4,505 )
+Seat 4: RaLLL23 ( $1,435 )
+Seat 5: Hansafond ( $6,370 )
+Seat 6: MR_HASSL ( $5,435 )
+Seat 7: PapaShango19 ( $1,085 )
+Seat 9: hugmac ( $6,090 )
+Seat 10: DorianMD ( $3,070 )
+kalcsuka posts ante [$5]
+Hansafond posts ante [$5]
+DorianMD posts ante [$5]
+MR_HASSL posts ante [$5]
+hugmac posts ante [$5]
+CherchesovSS posts ante [$5]
+PapaShango19 posts ante [$5]
+RaLLL23 posts ante [$5]
+PumpyPammo posts ante [$5]
+kalcsuka posts small blind [$30]
+RaLLL23 posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 6c ]
+Hansafond folds
+MR_HASSL calls [$60]
+PapaShango19 folds
+hugmac calls [$60]
+DorianMD calls [$60]
+CherchesovSS folds
+PumpyPammo calls [$60]
+kalcsuka folds
+RaLLL23 checks
+** Dealing flop ** [ 4s, Kh, 8h ]
+RaLLL23 checks
+MR_HASSL checks
+hugmac checks
+DorianMD bets [$187]
+PumpyPammo folds
+RaLLL23 folds
+MR_HASSL calls [$187]
+hugmac folds
+** Dealing turn ** [ Ad ]
+MR_HASSL checks
+DorianMD bets [$420]
+MR_HASSL folds
+** Summary **
+DorianMD did not show his hand
+DorianMD collected [ $749 ]
+
+
+
+#Game No : 647793489
+***** 888poker Hand History for Game 647793489 *****
+$30/$60 Blinds No Limit Holdem - *** 09 12 2014 17:43:18
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,900 )
+Seat 2: PumpyPammo ( $4,040 )
+Seat 3: kalcsuka ( $4,470 )
+Seat 4: RaLLL23 ( $1,370 )
+Seat 5: Hansafond ( $6,365 )
+Seat 6: MR_HASSL ( $5,183 )
+Seat 7: PapaShango19 ( $1,080 )
+Seat 9: hugmac ( $6,025 )
+Seat 10: DorianMD ( $3,567 )
+kalcsuka posts ante [$5]
+Hansafond posts ante [$5]
+DorianMD posts ante [$5]
+MR_HASSL posts ante [$5]
+hugmac posts ante [$5]
+CherchesovSS posts ante [$5]
+PapaShango19 posts ante [$5]
+RaLLL23 posts ante [$5]
+PumpyPammo posts ante [$5]
+RaLLL23 posts small blind [$30]
+Hansafond posts big blind [$60]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Jh ]
+MR_HASSL folds
+PapaShango19 calls [$60]
+hugmac calls [$60]
+DorianMD folds
+CherchesovSS folds
+PumpyPammo folds
+kalcsuka folds
+RaLLL23 folds
+Hansafond checks
+** Dealing flop ** [ 6d, Ac, Kh ]
+Hansafond checks
+PapaShango19 checks
+hugmac bets [$120]
+Hansafond folds
+PapaShango19 calls [$120]
+** Dealing turn ** [ 5s ]
+PapaShango19 checks
+hugmac checks
+** Dealing river ** [ 6c ]
+PapaShango19 checks
+hugmac bets [$240]
+PapaShango19 folds
+** Summary **
+hugmac did not show his hand
+hugmac collected [ $495 ]
+
+
+
+#Game No : 647793596
+***** 888poker Hand History for Game 647793596 *****
+$40/$80 Blinds No Limit Holdem - *** 09 12 2014 17:44:33
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,895 )
+Seat 2: PumpyPammo ( $4,035 )
+Seat 3: kalcsuka ( $4,465 )
+Seat 4: RaLLL23 ( $1,335 )
+Seat 5: Hansafond ( $6,300 )
+Seat 6: MR_HASSL ( $5,178 )
+Seat 7: PapaShango19 ( $895 )
+Seat 9: hugmac ( $6,335 )
+Seat 10: DorianMD ( $3,562 )
+kalcsuka posts ante [$10]
+Hansafond posts ante [$10]
+DorianMD posts ante [$10]
+MR_HASSL posts ante [$10]
+hugmac posts ante [$10]
+CherchesovSS posts ante [$10]
+PapaShango19 posts ante [$10]
+RaLLL23 posts ante [$10]
+PumpyPammo posts ante [$10]
+Hansafond posts small blind [$40]
+MR_HASSL posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 4h ]
+PapaShango19 folds
+hugmac folds
+DorianMD folds
+CherchesovSS folds
+PumpyPammo calls [$80]
+kalcsuka raises [$240]
+RaLLL23 folds
+Hansafond calls [$200]
+MR_HASSL calls [$160]
+PumpyPammo calls [$160]
+** Dealing flop ** [ 6d, Kc, Ac ]
+Hansafond checks
+MR_HASSL checks
+PumpyPammo checks
+kalcsuka bets [$525]
+Hansafond folds
+MR_HASSL folds
+PumpyPammo folds
+** Summary **
+kalcsuka did not show his hand
+kalcsuka collected [ $1,050 ]
+
+
+
+#Game No : 647793741
+***** 888poker Hand History for Game 647793741 *****
+$40/$80 Blinds No Limit Holdem - *** 09 12 2014 17:45:46
+Tournament #64210713 $1.30 + $0.20 - Table #10 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: CherchesovSS ( $3,885 )
+Seat 2: PumpyPammo ( $3,785 )
+Seat 3: kalcsuka ( $5,265 )
+Seat 4: RaLLL23 ( $1,325 )
+Seat 5: Hansafond ( $6,050 )
+Seat 6: MR_HASSL ( $4,928 )
+Seat 7: PapaShango19 ( $885 )
+Seat 9: hugmac ( $6,325 )
+Seat 10: DorianMD ( $3,552 )
+kalcsuka posts ante [$10]
+Hansafond posts ante [$10]
+DorianMD posts ante [$10]
+MR_HASSL posts ante [$10]
+hugmac posts ante [$10]
+CherchesovSS posts ante [$10]
+PapaShango19 posts ante [$10]
+RaLLL23 posts ante [$10]
+PumpyPammo posts ante [$10]
+MR_HASSL posts small blind [$40]
+PapaShango19 posts big blind [$80]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, As ]
+hugmac folds
+DorianMD raises [$185]
+CherchesovSS folds
+PumpyPammo calls [$185]
+kalcsuka folds
+RaLLL23 folds
+Hansafond folds
+MR_HASSL raises [$4,878]
+PapaShango19 calls [$795]
+DorianMD folds
+PumpyPammo calls [$3,590]
+** Dealing flop ** [ 8d, Qc, 2c ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 9h ]
+** Summary **
+PumpyPammo shows [ Kd, 6d ]
+MR_HASSL shows [ 7c, 7h ]
+PapaShango19 shows [ Kc, As ]
+MR_HASSL collected [ $2,900 ]
+MR_HASSL collected [ $5,800 ]
+
+
+

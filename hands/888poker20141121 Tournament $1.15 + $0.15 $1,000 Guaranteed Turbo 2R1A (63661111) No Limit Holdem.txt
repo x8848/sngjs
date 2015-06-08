@@ -1,0 +1,2941 @@
+#Game No : 638509552
+***** 888poker Hand History for Game 638509552 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 02:15:22
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $2,000 )
+Seat 2: leo_ita ( $2,000 )
+Seat 3: darkhorse69 ( $2,000 )
+Seat 4: grassyarse ( $2,000 )
+Seat 5: Loszozord ( $2,000 )
+Seat 6: HellOwaR ( $2,000 )
+Seat 7: pass140 ( $2,000 )
+Seat 9: tizzytyrrell ( $2,000 )
+Seat 10: PapaShango19 ( $2,000 )
+HellOwaR posts small blind [$10]
+pass140 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Qs ]
+tizzytyrrell calls [$20]
+PapaShango19 raises [$60]
+ZenChii13 folds
+leo_ita raises [$2,000]
+darkhorse69 folds
+grassyarse calls [$2,000]
+Loszozord folds
+HellOwaR folds
+pass140 folds
+tizzytyrrell folds
+PapaShango19 folds
+** Dealing flop ** [ 4d, 8s, 7c ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 9s ]
+** Summary **
+leo_ita shows [ Kh, Ah ]
+grassyarse shows [ 3h, Ac ]
+leo_ita collected [ $4,110 ]
+
+
+
+#Game No : 638509916
+***** 888poker Hand History for Game 638509916 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 02:16:37
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $2,000 )
+Seat 2: leo_ita ( $4,110 )
+Seat 3: darkhorse69 ( $2,000 )
+Seat 4: grassyarse ( $4,000 )
+Seat 5: Loszozord ( $2,000 )
+Seat 6: HellOwaR ( $1,990 )
+Seat 7: pass140 ( $1,980 )
+Seat 9: tizzytyrrell ( $1,980 )
+Seat 10: PapaShango19 ( $1,940 )
+pass140 posts small blind [$10]
+tizzytyrrell posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 9c ]
+PapaShango19 calls [$20]
+ZenChii13 folds
+leo_ita folds
+darkhorse69 folds
+grassyarse calls [$20]
+Loszozord folds
+HellOwaR calls [$20]
+pass140 folds
+tizzytyrrell checks
+** Dealing flop ** [ 7c, 9s, Qc ]
+tizzytyrrell checks
+PapaShango19 checks
+grassyarse bets [$90]
+HellOwaR calls [$90]
+tizzytyrrell folds
+PapaShango19 calls [$90]
+** Dealing turn ** [ 8s ]
+PapaShango19 checks
+grassyarse bets [$3,890]
+HellOwaR folds
+PapaShango19 calls [$1,830]
+** Dealing river ** [ Ts ]
+** Summary **
+grassyarse shows [ Qs, 4s ]
+PapaShango19 shows [ 6c, 9c ]
+grassyarse collected [ $4,020 ]
+
+
+
+#Game No : 638510487
+***** 888poker Hand History for Game 638510487 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 02:18:28
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $2,000 )
+Seat 2: freecat2012 ( $2,000 )
+Seat 3: darkhorse69 ( $2,000 )
+Seat 4: grassyarse ( $6,080 )
+Seat 5: Loszozord ( $2,000 )
+Seat 6: HellOwaR ( $1,880 )
+Seat 7: pass140 ( $1,970 )
+Seat 9: tizzytyrrell ( $1,960 )
+Seat 10: PapaShango19 ( $2,000 )
+tizzytyrrell posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 5h ]
+ZenChii13 raises [$40]
+freecat2012 folds
+darkhorse69 folds
+grassyarse calls [$40]
+Loszozord folds
+HellOwaR folds
+pass140 folds
+tizzytyrrell calls [$30]
+PapaShango19 calls [$20]
+** Dealing flop ** [ 2s, 3s, 2h ]
+tizzytyrrell checks
+PapaShango19 checks
+ZenChii13 bets [$80]
+grassyarse folds
+tizzytyrrell folds
+PapaShango19 folds
+** Summary **
+ZenChii13 collected [ $160 ]
+
+
+
+#Game No : 638510859
+***** 888poker Hand History for Game 638510859 *****
+$10/$20 Blinds No Limit Holdem - *** 21 11 2014 02:19:48
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $2,120 )
+Seat 2: freecat2012 ( $2,000 )
+Seat 3: JR_Moraes ( $2,000 )
+Seat 4: grassyarse ( $6,040 )
+Seat 5: Loszozord ( $2,000 )
+Seat 6: HellOwaR ( $1,880 )
+Seat 7: pass140 ( $1,970 )
+Seat 9: tizzytyrrell ( $1,920 )
+Seat 10: PapaShango19 ( $1,960 )
+PapaShango19 posts small blind [$10]
+ZenChii13 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2s ]
+freecat2012 folds
+JR_Moraes calls [$20]
+grassyarse folds
+Loszozord folds
+HellOwaR calls [$20]
+pass140 folds
+tizzytyrrell calls [$20]
+PapaShango19 folds
+ZenChii13 raises [$45]
+JR_Moraes calls [$45]
+HellOwaR calls [$45]
+tizzytyrrell calls [$45]
+** Dealing flop ** [ 2c, Ac, 3h ]
+ZenChii13 checks
+JR_Moraes checks
+HellOwaR checks
+tizzytyrrell bets [$20]
+ZenChii13 calls [$20]
+JR_Moraes calls [$20]
+HellOwaR calls [$20]
+** Dealing turn ** [ Qs ]
+ZenChii13 checks
+JR_Moraes checks
+HellOwaR checks
+tizzytyrrell checks
+** Dealing river ** [ 5h ]
+ZenChii13 checks
+JR_Moraes bets [$175]
+HellOwaR calls [$175]
+tizzytyrrell folds
+ZenChii13 folds
+** Summary **
+JR_Moraes shows [ Kc, 4c ]
+HellOwaR shows [ 4h, 3c ]
+HellOwaR collected [ $350 ]
+JR_Moraes collected [ $350 ]
+
+
+
+#Game No : 638511187
+***** 888poker Hand History for Game 638511187 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 02:21:16
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ZenChii13 ( $2,035 )
+Seat 2: freecat2012 ( $2,000 )
+Seat 3: JR_Moraes ( $2,090 )
+Seat 4: grassyarse ( $6,040 )
+Seat 5: Loszozord ( $2,000 )
+Seat 6: HellOwaR ( $1,970 )
+Seat 9: tizzytyrrell ( $1,835 )
+Seat 10: PapaShango19 ( $1,950 )
+ZenChii13 posts small blind [$15]
+freecat2012 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 5c ]
+JR_Moraes folds
+grassyarse calls [$30]
+Loszozord folds
+HellOwaR raises [$135]
+tizzytyrrell calls [$135]
+PapaShango19 calls [$135]
+ZenChii13 folds
+freecat2012 folds
+grassyarse folds
+** Dealing flop ** [ 2d, Jc, As ]
+HellOwaR bets [$240]
+tizzytyrrell folds
+PapaShango19 folds
+** Summary **
+HellOwaR collected [ $480 ]
+
+
+
+#Game No : 638511345
+***** 888poker Hand History for Game 638511345 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 02:21:57
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $2,020 )
+Seat 2: freecat2012 ( $1,970 )
+Seat 3: JR_Moraes ( $2,090 )
+Seat 4: grassyarse ( $6,010 )
+Seat 5: Loszozord ( $2,000 )
+Seat 6: HellOwaR ( $2,315 )
+Seat 7: Almaty888 ( $2,000 )
+Seat 9: tizzytyrrell ( $3,700 )
+Seat 10: PapaShango19 ( $1,815 )
+freecat2012 posts small blind [$15]
+JR_Moraes posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Tc ]
+grassyarse calls [$30]
+Loszozord folds
+HellOwaR calls [$30]
+Almaty888 folds
+tizzytyrrell folds
+PapaShango19 folds
+ZenChii13 calls [$30]
+freecat2012 folds
+JR_Moraes checks
+** Dealing flop ** [ Ts, Ah, 2d ]
+JR_Moraes checks
+grassyarse checks
+HellOwaR bets [$135]
+ZenChii13 folds
+JR_Moraes calls [$135]
+grassyarse calls [$135]
+** Dealing turn ** [ Ad ]
+JR_Moraes checks
+grassyarse checks
+HellOwaR bets [$540]
+JR_Moraes folds
+grassyarse folds
+** Summary **
+HellOwaR did not show his hand
+HellOwaR collected [ $540 ]
+
+
+
+#Game No : 638511673
+***** 888poker Hand History for Game 638511673 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 02:23:29
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1:  ( $1,990 )
+Seat 2:  ( $1,955 )
+Seat 3:  ( $1,925 )
+Seat 4:  ( $5,845 )
+Seat 5:  ( $6,000 )
+Seat 6:  ( $2,690 )
+Seat 7:  ( $4,000 )
+Seat 9:  ( $3,700 )
+Seat 10:  ( $1,815 )
+ posts small blind [$15]
+ posts big blind [$30]
+** Dealing down cards **
+ folds
+ folds
+ folds
+ folds
+ folds
+ folds
+ folds
+ calls [$15]
+ checks
+** Dealing flop ** [ Ah, Kc, Kh ]
+ bets [$30]
+ raises [$150]
+ folds
+** Summary **
+ collected [ $120 ]
+
+
+
+#Game No : 638511860
+***** 888poker Hand History for Game 638511860 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 02:23:57
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $1,990 )
+Seat 2: freecat2012 ( $1,955 )
+Seat 3: JR_Moraes ( $1,865 )
+Seat 4: grassyarse ( $5,905 )
+Seat 5: MasterTuga14 ( $2,000 )
+Seat 6: HellOwaR ( $2,690 )
+Seat 7: Almaty888 ( $4,000 )
+Seat 9: tizzytyrrell ( $3,700 )
+Seat 10: PapaShango19 ( $1,815 )
+grassyarse posts small blind [$15]
+MasterTuga14 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, 4h ]
+HellOwaR raises [$60]
+Almaty888 folds
+tizzytyrrell folds
+PapaShango19 folds
+ZenChii13 calls [$60]
+freecat2012 folds
+JR_Moraes folds
+grassyarse calls [$45]
+MasterTuga14 calls [$30]
+** Dealing flop ** [ 8c, Jd, 2h ]
+grassyarse checks
+MasterTuga14 checks
+HellOwaR bets [$240]
+ZenChii13 calls [$240]
+grassyarse folds
+MasterTuga14 folds
+** Dealing turn ** [ Ks ]
+HellOwaR checks
+ZenChii13 bets [$360]
+HellOwaR calls [$360]
+** Dealing river ** [ 3c ]
+HellOwaR checks
+ZenChii13 bets [$1,330]
+HellOwaR calls [$1,330]
+** Summary **
+ZenChii13 shows [ 8d, 8h ]
+HellOwaR shows [ Ah, Jh ]
+ZenChii13 collected [ $4,100 ]
+
+
+
+#Game No : 638512117
+***** 888poker Hand History for Game 638512117 *****
+$15/$30 Blinds No Limit Holdem - *** 21 11 2014 02:25:10
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $4,100 )
+Seat 2: freecat2012 ( $1,955 )
+Seat 3: JR_Moraes ( $1,865 )
+Seat 4: grassyarse ( $5,845 )
+Seat 5: MasterTuga14 ( $1,940 )
+Seat 6: HellOwaR ( $700 )
+Seat 7: Almaty888 ( $4,000 )
+Seat 9: tizzytyrrell ( $3,700 )
+Seat 10: PapaShango19 ( $1,815 )
+MasterTuga14 posts small blind [$15]
+HellOwaR posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 6d ]
+Almaty888 calls [$30]
+tizzytyrrell folds
+PapaShango19 calls [$30]
+ZenChii13 folds
+freecat2012 folds
+JR_Moraes calls [$30]
+grassyarse folds
+MasterTuga14 folds
+HellOwaR checks
+** Dealing flop ** [ 7s, Js, 6h ]
+HellOwaR bets [$30]
+Almaty888 calls [$30]
+PapaShango19 calls [$30]
+JR_Moraes folds
+** Dealing turn ** [ Qh ]
+HellOwaR checks
+Almaty888 checks
+PapaShango19 checks
+** Dealing river ** [ Kd ]
+HellOwaR checks
+Almaty888 checks
+PapaShango19 checks
+** Summary **
+HellOwaR shows [ 9h, Jd ]
+Almaty888 mucks [ 7d, 4d ]
+PapaShango19 mucks [ 8d, 6d ]
+HellOwaR collected [ $225 ]
+
+
+
+#Game No : 638512342
+***** 888poker Hand History for Game 638512342 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 02:26:15
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $4,100 )
+Seat 2: freecat2012 ( $1,955 )
+Seat 3: JR_Moraes ( $1,835 )
+Seat 4: grassyarse ( $5,845 )
+Seat 5: MasterTuga14 ( $1,925 )
+Seat 6: HellOwaR ( $865 )
+Seat 7: Almaty888 ( $3,940 )
+Seat 9: tizzytyrrell ( $3,700 )
+Seat 10: PapaShango19 ( $1,755 )
+HellOwaR posts small blind [$25]
+Almaty888 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 9d ]
+tizzytyrrell folds
+PapaShango19 folds
+ZenChii13 folds
+freecat2012 folds
+JR_Moraes folds
+grassyarse raises [$175]
+MasterTuga14 raises [$300]
+HellOwaR folds
+Almaty888 folds
+grassyarse calls [$125]
+** Dealing flop ** [ Ac, 3h, 8d ]
+grassyarse checks
+MasterTuga14 bets [$337]
+grassyarse folds
+** Summary **
+MasterTuga14 collected [ $675 ]
+
+
+
+#Game No : 638512586
+***** 888poker Hand History for Game 638512586 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 02:27:30
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $4,100 )
+Seat 2: freecat2012 ( $1,955 )
+Seat 3: JR_Moraes ( $1,835 )
+Seat 4: grassyarse ( $5,545 )
+Seat 5: MasterTuga14 ( $2,300 )
+Seat 6: HellOwaR ( $840 )
+Seat 7: Almaty888 ( $5,890 )
+Seat 9: JBelly96 ( $4,000 )
+Seat 10: PapaShango19 ( $1,755 )
+Almaty888 posts small blind [$25]
+JBelly96 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 6h ]
+PapaShango19 folds
+ZenChii13 folds
+freecat2012 raises [$131]
+JR_Moraes calls [$131]
+grassyarse folds
+MasterTuga14 folds
+HellOwaR calls [$131]
+Almaty888 calls [$106]
+JBelly96 calls [$81]
+** Dealing flop ** [ 9s, 8h, 3d ]
+Almaty888 checks
+JBelly96 checks
+freecat2012 checks
+JR_Moraes checks
+HellOwaR bets [$150]
+Almaty888 folds
+JBelly96 calls [$150]
+freecat2012 folds
+JR_Moraes folds
+** Dealing turn ** [ 2h ]
+JBelly96 checks
+HellOwaR bets [$250]
+JBelly96 raises [$600]
+HellOwaR calls [$309]
+** Dealing river ** [ As ]
+** Summary **
+HellOwaR shows [ 9h, 9c ]
+JBelly96 shows [ 4d, 4s ]
+HellOwaR collected [ $2,073 ]
+
+
+
+#Game No : 638512873
+***** 888poker Hand History for Game 638512873 *****
+$25/$50 Blinds No Limit Holdem - *** 21 11 2014 02:28:59
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $4,100 )
+Seat 2: freecat2012 ( $1,824 )
+Seat 3: JR_Moraes ( $1,704 )
+Seat 4: newsimohayha ( $2,000 )
+Seat 5: MasterTuga14 ( $2,300 )
+Seat 6: HellOwaR ( $2,073 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $3,160 )
+Seat 10: PapaShango19 ( $1,755 )
+JBelly96 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Ac ]
+ZenChii13 folds
+freecat2012 folds
+JR_Moraes calls [$50]
+newsimohayha folds
+MasterTuga14 folds
+HellOwaR folds
+Almaty888 folds
+JBelly96 calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ Tc, 9c, 2s ]
+JBelly96 checks
+PapaShango19 checks
+JR_Moraes checks
+** Dealing turn ** [ 2c ]
+JBelly96 checks
+PapaShango19 bets [$50]
+JR_Moraes calls [$50]
+JBelly96 folds
+** Dealing river ** [ 6c ]
+PapaShango19 bets [$100]
+JR_Moraes raises [$350]
+PapaShango19 raises [$550]
+JR_Moraes raises [$1,254]
+PapaShango19 calls [$954]
+** Summary **
+JR_Moraes shows [ Qc, Jh ]
+PapaShango19 shows [ 3c, Ac ]
+PapaShango19 collected [ $3,458 ]
+
+
+
+#Game No : 638513107
+***** 888poker Hand History for Game 638513107 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 02:30:19
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ZenChii13 ( $4,100 )
+Seat 2: freecat2012 ( $1,824 )
+Seat 3: JR_Moraes ( $2,000 )
+Seat 4: newsimohayha ( $2,000 )
+Seat 5: MasterTuga14 ( $2,300 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $3,110 )
+Seat 10: PapaShango19 ( $3,509 )
+PapaShango19 posts small blind [$50]
+ZenChii13 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, Kc ]
+freecat2012 folds
+JR_Moraes folds
+newsimohayha folds
+MasterTuga14 folds
+Almaty888 folds
+JBelly96 raises [$221]
+PapaShango19 folds
+ZenChii13 folds
+** Summary **
+JBelly96 collected [ $250 ]
+
+
+
+#Game No : 638513174
+***** 888poker Hand History for Game 638513174 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 02:30:44
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $4,000 )
+Seat 2: freecat2012 ( $1,824 )
+Seat 3: JR_Moraes ( $2,000 )
+Seat 4: newsimohayha ( $2,000 )
+Seat 5: MasterTuga14 ( $2,300 )
+Seat 6: kb2905 ( $2,000 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $3,260 )
+Seat 10: PapaShango19 ( $3,459 )
+ZenChii13 posts small blind [$50]
+freecat2012 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 3c ]
+JR_Moraes folds
+newsimohayha folds
+MasterTuga14 calls [$100]
+kb2905 calls [$100]
+Almaty888 folds
+JBelly96 calls [$100]
+PapaShango19 folds
+ZenChii13 calls [$50]
+freecat2012 checks
+** Dealing flop ** [ Jc, 6c, Th ]
+ZenChii13 checks
+freecat2012 checks
+MasterTuga14 bets [$200]
+kb2905 folds
+JBelly96 calls [$200]
+ZenChii13 folds
+freecat2012 folds
+** Dealing turn ** [ Kd ]
+MasterTuga14 bets [$675]
+JBelly96 folds
+** Summary **
+MasterTuga14 collected [ $900 ]
+
+
+
+#Game No : 638513430
+***** 888poker Hand History for Game 638513430 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 02:32:19
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $3,900 )
+Seat 2: freecat2012 ( $1,724 )
+Seat 3: ganjayes ( $2,000 )
+Seat 4: newsimohayha ( $2,000 )
+Seat 5: MasterTuga14 ( $2,900 )
+Seat 6: kb2905 ( $1,900 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $2,960 )
+Seat 10: PapaShango19 ( $3,459 )
+freecat2012 posts small blind [$50]
+ganjayes posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Qc ]
+newsimohayha raises [$300]
+MasterTuga14 folds
+kb2905 calls [$300]
+Almaty888 folds
+JBelly96 folds
+PapaShango19 folds
+ZenChii13 folds
+freecat2012 folds
+ganjayes folds
+** Dealing flop ** [ Ks, 7h, 4s ]
+newsimohayha bets [$375]
+kb2905 folds
+** Summary **
+newsimohayha did not show his hand
+newsimohayha collected [ $750 ]
+
+
+
+#Game No : 638513605
+***** 888poker Hand History for Game 638513605 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 02:33:21
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $3,900 )
+Seat 2: freecat2012 ( $1,674 )
+Seat 3: ganjayes ( $1,900 )
+Seat 4: newsimohayha ( $2,450 )
+Seat 5: MasterTuga14 ( $2,900 )
+Seat 6: kb2905 ( $1,600 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $2,960 )
+Seat 10: PapaShango19 ( $3,459 )
+ganjayes posts small blind [$50]
+newsimohayha posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 8d ]
+MasterTuga14 folds
+kb2905 calls [$100]
+Almaty888 folds
+JBelly96 folds
+PapaShango19 folds
+ZenChii13 folds
+freecat2012 folds
+ganjayes folds
+newsimohayha checks
+** Dealing flop ** [ Kd, Td, 3d ]
+newsimohayha checks
+kb2905 bets [$100]
+newsimohayha folds
+** Summary **
+kb2905 did not show his hand
+kb2905 collected [ $250 ]
+
+
+
+#Game No : 638513748
+***** 888poker Hand History for Game 638513748 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 02:34:13
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: ZenChii13 ( $3,900 )
+Seat 2: freecat2012 ( $1,674 )
+Seat 3: ganjayes ( $1,850 )
+Seat 4: newsimohayha ( $2,350 )
+Seat 5: MasterTuga14 ( $2,900 )
+Seat 6: kb2905 ( $1,750 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $2,960 )
+Seat 10: PapaShango19 ( $3,459 )
+newsimohayha posts small blind [$50]
+MasterTuga14 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 6h ]
+kb2905 folds
+Almaty888 folds
+JBelly96 folds
+PapaShango19 folds
+ZenChii13 folds
+freecat2012 raises [$1,674]
+ganjayes calls [$1,674]
+newsimohayha raises [$2,300]
+MasterTuga14 folds
+ganjayes calls [$176]
+** Dealing flop ** [ 6d, 8d, Qs ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 7c ]
+** Summary **
+freecat2012 shows [ Ah, Th ]
+ganjayes shows [ 3c, 3d ]
+newsimohayha shows [ Ad, Td ]
+ganjayes collected [ $5,122 ]
+ganjayes collected [ $352 ]
+
+
+
+#Game No : 638513898
+***** 888poker Hand History for Game 638513898 *****
+$50/$100 Blinds No Limit Holdem - *** 21 11 2014 02:35:10
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: freecat2012 ( $2,000 )
+Seat 3: ganjayes ( $5,474 )
+Seat 4: newsimohayha ( $500 )
+Seat 5: MasterTuga14 ( $2,800 )
+Seat 6: kb2905 ( $1,750 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $2,960 )
+Seat 10: PapaShango19 ( $3,459 )
+MasterTuga14 posts small blind [$50]
+kb2905 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 6s ]
+Almaty888 folds
+JBelly96 folds
+PapaShango19 folds
+freecat2012 folds
+ganjayes folds
+newsimohayha folds
+MasterTuga14 folds
+** Summary **
+kb2905 collected [ $150 ]
+
+
+
+#Game No : 638513946
+***** 888poker Hand History for Game 638513946 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 02:35:27
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: DehnbarGirl ( $2,000 )
+Seat 2: freecat2012 ( $2,000 )
+Seat 3: ganjayes ( $5,474 )
+Seat 4: newsimohayha ( $500 )
+Seat 5: MasterTuga14 ( $2,750 )
+Seat 6: kb2905 ( $1,800 )
+Seat 7: Almaty888 ( $5,759 )
+Seat 9: JBelly96 ( $2,960 )
+Seat 10: PapaShango19 ( $3,459 )
+kb2905 posts small blind [$75]
+Almaty888 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 7c ]
+JBelly96 calls [$150]
+PapaShango19 calls [$150]
+DehnbarGirl folds
+freecat2012 folds
+ganjayes folds
+newsimohayha folds
+MasterTuga14 calls [$150]
+kb2905 calls [$75]
+Almaty888 checks
+** Dealing flop ** [ Qh, 3s, 6h ]
+kb2905 checks
+Almaty888 checks
+JBelly96 checks
+PapaShango19 checks
+MasterTuga14 checks
+** Dealing turn ** [ 7d ]
+kb2905 checks
+Almaty888 bets [$750]
+JBelly96 calls [$750]
+PapaShango19 folds
+MasterTuga14 folds
+kb2905 folds
+** Dealing river ** [ Td ]
+Almaty888 bets [$1,125]
+JBelly96 raises [$2,060]
+Almaty888 calls [$935]
+** Summary **
+Almaty888 shows [ Qd, Kh ]
+JBelly96 shows [ 8h, 9h ]
+JBelly96 collected [ $6,370 ]
+
+
+
+#Game No : 638514262
+***** 888poker Hand History for Game 638514262 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 02:37:16
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: DehnbarGirl ( $2,000 )
+Seat 3: ganjayes ( $5,474 )
+Seat 4: newsimohayha ( $500 )
+Seat 5: MasterTuga14 ( $2,600 )
+Seat 6: kb2905 ( $1,650 )
+Seat 7: Almaty888 ( $2,799 )
+Seat 9: JBelly96 ( $6,370 )
+Seat 10: PapaShango19 ( $3,309 )
+Almaty888 posts small blind [$75]
+JBelly96 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 2c ]
+PapaShango19 folds
+DehnbarGirl folds
+ganjayes folds
+newsimohayha folds
+MasterTuga14 folds
+kb2905 calls [$150]
+Almaty888 calls [$75]
+JBelly96 checks
+** Dealing flop ** [ Jd, 8c, Ks ]
+Almaty888 checks
+JBelly96 checks
+kb2905 checks
+** Dealing turn ** [ 6d ]
+Almaty888 checks
+JBelly96 checks
+kb2905 bets [$150]
+Almaty888 calls [$150]
+JBelly96 folds
+** Dealing river ** [ 7d ]
+Almaty888 bets [$150]
+kb2905 raises [$1,350]
+Almaty888 calls [$1,200]
+** Summary **
+kb2905 shows [ Kc, 7h ]
+Almaty888 shows [ 9s, Th ]
+Almaty888 collected [ $3,450 ]
+
+
+
+#Game No : 638514466
+***** 888poker Hand History for Game 638514466 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 02:38:30
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: DehnbarGirl ( $2,000 )
+Seat 2: coolsteve123 ( $2,000 )
+Seat 3: ganjayes ( $5,474 )
+Seat 4: newsimohayha ( $500 )
+Seat 5: MasterTuga14 ( $2,600 )
+Seat 6: kb2905 ( $4,000 )
+Seat 7: Almaty888 ( $4,599 )
+Seat 9: JBelly96 ( $6,220 )
+Seat 10: PapaShango19 ( $3,309 )
+JBelly96 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 7d ]
+DehnbarGirl folds
+coolsteve123 folds
+ganjayes folds
+newsimohayha folds
+MasterTuga14 calls [$150]
+kb2905 folds
+Almaty888 folds
+JBelly96 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ Qs, 8s, 6h ]
+JBelly96 checks
+PapaShango19 checks
+MasterTuga14 bets [$225]
+JBelly96 folds
+PapaShango19 folds
+** Summary **
+MasterTuga14 did not show his hand
+MasterTuga14 collected [ $450 ]
+
+
+
+#Game No : 638514593
+***** 888poker Hand History for Game 638514593 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 02:39:19
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: DehnbarGirl ( $2,000 )
+Seat 2: coolsteve123 ( $2,000 )
+Seat 3: ganjayes ( $5,474 )
+Seat 4: newsimohayha ( $500 )
+Seat 5: MasterTuga14 ( $2,900 )
+Seat 6: kb2905 ( $4,000 )
+Seat 9: JBelly96 ( $6,070 )
+Seat 10: PapaShango19 ( $3,159 )
+PapaShango19 posts small blind [$75]
+DehnbarGirl posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Qd ]
+coolsteve123 folds
+ganjayes calls [$150]
+newsimohayha folds
+MasterTuga14 folds
+kb2905 folds
+JBelly96 folds
+PapaShango19 calls [$75]
+DehnbarGirl checks
+** Dealing flop ** [ 3h, Ah, 3d ]
+PapaShango19 checks
+DehnbarGirl checks
+ganjayes bets [$225]
+PapaShango19 folds
+DehnbarGirl folds
+** Summary **
+ganjayes did not show his hand
+ganjayes collected [ $450 ]
+
+
+
+#Game No : 638514726
+***** 888poker Hand History for Game 638514726 *****
+$75/$150 Blinds No Limit Holdem - *** 21 11 2014 02:40:05
+Tournament #63661111 $1.15 + $0.15 - Table #4 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: DehnbarGirl ( $1,850 )
+Seat 2: coolsteve123 ( $2,000 )
+Seat 3: ganjayes ( $5,774 )
+Seat 4: newsimohayha ( $500 )
+Seat 5: MasterTuga14 ( $2,900 )
+Seat 6: kb2905 ( $4,000 )
+Seat 9: JBelly96 ( $6,070 )
+Seat 10: PapaShango19 ( $3,009 )
+DehnbarGirl posts small blind [$75]
+coolsteve123 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 2s ]
+ganjayes folds
+newsimohayha raises [$500]
+MasterTuga14 folds
+kb2905 calls [$500]
+JBelly96 folds
+PapaShango19 folds
+DehnbarGirl folds
+coolsteve123 calls [$350]
+** Dealing flop ** [ Kh, 7h, Tc ]
+coolsteve123 checks
+kb2905 checks
+** Dealing turn ** [ Th ]
+coolsteve123 checks
+kb2905 bets [$150]
+coolsteve123 folds
+** Dealing river ** [ 2h ]
+** Summary **
+newsimohayha shows [ Jh, 4h ]
+kb2905 shows [ 8c, 9c ]
+newsimohayha collected [ $1,575 ]
+
+
+
+#Game No : 638515009
+***** 888poker Hand History for Game 638515009 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 02:41:58
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1:  ( $4,000 )
+Seat 2:  ( $2,000 )
+Seat 3:  ( $2,000 )
+Seat 4:  ( $4,350 )
+Seat 5:  ( $4,900 )
+Seat 6:  ( $1,525 )
+Seat 7:  ( $6,257 )
+Seat 9:  ( $3,009 )
+Seat 10:  ( $7,338 )
+ posts small blind [$100]
+ posts big blind [$200]
+** Dealing down cards **
+Dealt to  [ 5d, 6s ]
+ folds
+ folds
+ raises [$411]
+ folds
+ folds
+ calls [$411]
+ raises [$1,944]
+ folds
+ folds
+ raises [$3,066]
+ raises [$3,589]
+ calls [$56]
+ calls [$523]
+** Dealing flop ** [ Qd, Qs, 8d ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Qh ]
+** Summary **
+ shows [ Js, Td ]
+ shows [ 9c, Ac ]
+ shows [ Kh, Th ]
+ collected [ $2,100 ]
+ collected [ $2,100 ]
+ collected [ $2,100 ]
+ collected [ $2,000 ]
+ collected [ $2,000 ]
+
+
+
+#Game No : 638515238
+***** 888poker Hand History for Game 638515238 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 02:43:36
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $4,100 )
+Seat 2: livewire2006 ( $2,100 )
+Seat 3: bfguerreiro ( $3,900 )
+Seat 4: queenofpkr09 ( $4,150 )
+Seat 5: dasssss9 ( $4,900 )
+Seat 6: Filet1 ( $1,525 )
+Seat 7: root4deuces ( $6,357 )
+Seat 9: PapaShango19 ( $3,009 )
+Seat 10: pokerdart888 ( $7,338 )
+queenofpkr09 posts small blind [$100]
+dasssss9 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, As ]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 calls [$200]
+Dimkota folds
+livewire2006 folds
+bfguerreiro calls [$200]
+queenofpkr09 folds
+dasssss9 raises [$700]
+pokerdart888 folds
+bfguerreiro calls [$700]
+** Dealing flop ** [ 9h, 3h, 5c ]
+dasssss9 checks
+bfguerreiro bets [$1,575]
+dasssss9 folds
+** Summary **
+bfguerreiro did not show his hand
+bfguerreiro collected [ $2,100 ]
+
+
+
+#Game No : 638515466
+***** 888poker Hand History for Game 638515466 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 02:45:09
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $4,100 )
+Seat 2: livewire2006 ( $2,100 )
+Seat 3: bfguerreiro ( $5,100 )
+Seat 4: queenofpkr09 ( $4,050 )
+Seat 5: dasssss9 ( $4,000 )
+Seat 6: Filet1 ( $1,525 )
+Seat 7: root4deuces ( $6,357 )
+Seat 9: PapaShango19 ( $3,009 )
+Seat 10: pokerdart888 ( $7,138 )
+dasssss9 posts small blind [$100]
+Filet1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 4s ]
+root4deuces folds
+PapaShango19 folds
+pokerdart888 folds
+Dimkota folds
+livewire2006 calls [$200]
+bfguerreiro folds
+queenofpkr09 folds
+dasssss9 folds
+Filet1 checks
+** Dealing flop ** [ 8c, 3s, 5d ]
+Filet1 checks
+livewire2006 checks
+** Dealing turn ** [ 6s ]
+Filet1 checks
+livewire2006 checks
+** Dealing river ** [ Kh ]
+Filet1 checks
+livewire2006 checks
+** Summary **
+Filet1 shows [ 2s, 3c ]
+livewire2006 shows [ Tc, Qh ]
+Filet1 collected [ $500 ]
+
+
+
+#Game No : 638515657
+***** 888poker Hand History for Game 638515657 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 02:46:34
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $4,100 )
+Seat 2: livewire2006 ( $1,900 )
+Seat 3: bfguerreiro ( $5,100 )
+Seat 4: queenofpkr09 ( $4,050 )
+Seat 5: dasssss9 ( $3,900 )
+Seat 6: Filet1 ( $1,825 )
+Seat 7: root4deuces ( $6,357 )
+Seat 9: PapaShango19 ( $3,009 )
+Seat 10: pokerdart888 ( $7,138 )
+livewire2006 posts ante [$25]
+bfguerreiro posts ante [$25]
+Dimkota posts ante [$25]
+queenofpkr09 posts ante [$25]
+dasssss9 posts ante [$25]
+Filet1 posts ante [$25]
+root4deuces posts ante [$25]
+PapaShango19 posts ante [$25]
+pokerdart888 posts ante [$25]
+Filet1 posts small blind [$100]
+root4deuces posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 6d ]
+PapaShango19 folds
+pokerdart888 folds
+Dimkota calls [$200]
+livewire2006 raises [$1,125]
+bfguerreiro folds
+queenofpkr09 folds
+dasssss9 folds
+Filet1 folds
+root4deuces raises [$6,132]
+Dimkota folds
+livewire2006 calls [$750]
+** Dealing flop ** [ Ks, 4s, 8h ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 2s ]
+** Summary **
+livewire2006 shows [ As, 8s ]
+root4deuces shows [ Kd, Ac ]
+livewire2006 collected [ $4,275 ]
+
+
+
+#Game No : 638515821
+***** 888poker Hand History for Game 638515821 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 02:47:42
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $3,875 )
+Seat 2: livewire2006 ( $4,275 )
+Seat 3: bfguerreiro ( $5,075 )
+Seat 4: queenofpkr09 ( $4,025 )
+Seat 5: dasssss9 ( $3,875 )
+Seat 6: Filet1 ( $1,700 )
+Seat 7: root4deuces ( $4,457 )
+Seat 9: PapaShango19 ( $2,984 )
+Seat 10: pokerdart888 ( $7,113 )
+livewire2006 posts ante [$25]
+bfguerreiro posts ante [$25]
+Dimkota posts ante [$25]
+queenofpkr09 posts ante [$25]
+dasssss9 posts ante [$25]
+Filet1 posts ante [$25]
+root4deuces posts ante [$25]
+PapaShango19 posts ante [$25]
+pokerdart888 posts ante [$25]
+root4deuces posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3c ]
+pokerdart888 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro calls [$200]
+queenofpkr09 folds
+dasssss9 calls [$200]
+Filet1 folds
+root4deuces folds
+PapaShango19 checks
+** Dealing flop ** [ Tc, 8c, 3h ]
+PapaShango19 checks
+bfguerreiro checks
+dasssss9 checks
+** Dealing turn ** [ Th ]
+PapaShango19 checks
+bfguerreiro bets [$400]
+dasssss9 calls [$400]
+PapaShango19 folds
+** Dealing river ** [ Ts ]
+bfguerreiro checks
+dasssss9 checks
+** Summary **
+bfguerreiro shows [ Qc, Js ]
+dasssss9 mucks [ Jd, 9s ]
+bfguerreiro collected [ $1,725 ]
+
+
+
+#Game No : 638515957
+***** 888poker Hand History for Game 638515957 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 02:48:40
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $3,850 )
+Seat 2: livewire2006 ( $4,250 )
+Seat 3: bfguerreiro ( $6,175 )
+Seat 4: queenofpkr09 ( $4,000 )
+Seat 5: dasssss9 ( $3,250 )
+Seat 6: Filet1 ( $1,675 )
+Seat 7: root4deuces ( $4,332 )
+Seat 9: PapaShango19 ( $2,759 )
+Seat 10: pokerdart888 ( $7,088 )
+livewire2006 posts ante [$25]
+bfguerreiro posts ante [$25]
+Dimkota posts ante [$25]
+queenofpkr09 posts ante [$25]
+dasssss9 posts ante [$25]
+Filet1 posts ante [$25]
+root4deuces posts ante [$25]
+PapaShango19 posts ante [$25]
+pokerdart888 posts ante [$25]
+PapaShango19 posts small blind [$100]
+pokerdart888 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 3s ]
+Dimkota raises [$462]
+livewire2006 calls [$462]
+bfguerreiro folds
+queenofpkr09 folds
+dasssss9 raises [$3,225]
+Filet1 calls [$1,650]
+root4deuces folds
+PapaShango19 folds
+pokerdart888 folds
+Dimkota raises [$3,363]
+livewire2006 calls [$3,363]
+** Dealing flop ** [ 9h, 2d, 5s ]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ Js ]
+** Summary **
+Dimkota shows [ Jc, Ks ]
+livewire2006 shows [ Jd, Ah ]
+dasssss9 shows [ Qd, Qh ]
+Filet1 shows [ 6d, Ad ]
+Dimkota collected [ $7,125 ]
+Dimkota collected [ $4,725 ]
+Dimkota collected [ $1,200 ]
+
+
+
+#Game No : 638516138
+***** 888poker Hand History for Game 638516138 *****
+$100/$200 Blinds No Limit Holdem - *** 21 11 2014 02:49:59
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $13,050 )
+Seat 2: livewire2006 ( $400 )
+Seat 3: bfguerreiro ( $6,150 )
+Seat 4: queenofpkr09 ( $3,975 )
+Seat 5: dasssss9 ( $4,000 )
+Seat 6: Filet1 ( $4,000 )
+Seat 7: root4deuces ( $4,307 )
+Seat 9: PapaShango19 ( $2,634 )
+Seat 10: pokerdart888 ( $6,863 )
+livewire2006 posts ante [$25]
+bfguerreiro posts ante [$25]
+Dimkota posts ante [$25]
+queenofpkr09 posts ante [$25]
+dasssss9 posts ante [$25]
+Filet1 posts ante [$25]
+root4deuces posts ante [$25]
+PapaShango19 posts ante [$25]
+pokerdart888 posts ante [$25]
+pokerdart888 posts small blind [$100]
+Dimkota posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 5c ]
+livewire2006 raises [$375]
+bfguerreiro folds
+queenofpkr09 folds
+dasssss9 raises [$3,975]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 folds
+Dimkota folds
+** Dealing flop ** [ Td, 4d, 6h ]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ Js ]
+** Summary **
+livewire2006 shows [ 8c, 4s ]
+dasssss9 shows [ Qs, Jd ]
+livewire2006 collected [ $1,275 ]
+
+
+
+#Game No : 638516274
+***** 888poker Hand History for Game 638516274 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 02:50:58
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $12,825 )
+Seat 2: livewire2006 ( $1,275 )
+Seat 3: bfguerreiro ( $6,125 )
+Seat 4: queenofpkr09 ( $3,950 )
+Seat 5: dasssss9 ( $3,600 )
+Seat 6: Filet1 ( $3,975 )
+Seat 7: root4deuces ( $4,282 )
+Seat 9: PapaShango19 ( $2,609 )
+Seat 10: pokerdart888 ( $6,738 )
+livewire2006 posts ante [$30]
+bfguerreiro posts ante [$30]
+Dimkota posts ante [$30]
+queenofpkr09 posts ante [$30]
+dasssss9 posts ante [$30]
+Filet1 posts ante [$30]
+root4deuces posts ante [$30]
+PapaShango19 posts ante [$30]
+pokerdart888 posts ante [$30]
+Dimkota posts small blind [$125]
+livewire2006 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 7d ]
+bfguerreiro raises [$500]
+queenofpkr09 raises [$3,920]
+dasssss9 calls [$3,570]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro calls [$3,420]
+** Dealing flop ** [ 3s, 2c, Kh ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 5c ]
+** Summary **
+bfguerreiro shows [ Jh, Js ]
+queenofpkr09 shows [ Qh, As ]
+dasssss9 shows [ 9d, 9s ]
+queenofpkr09 collected [ $11,355 ]
+queenofpkr09 collected [ $700 ]
+
+
+
+#Game No : 638516442
+***** 888poker Hand History for Game 638516442 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 02:52:05
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Dimkota ( $12,670 )
+Seat 2: livewire2006 ( $995 )
+Seat 3: bfguerreiro ( $2,175 )
+Seat 4: queenofpkr09 ( $12,055 )
+Seat 6: Filet1 ( $3,945 )
+Seat 7: root4deuces ( $4,252 )
+Seat 9: PapaShango19 ( $2,579 )
+Seat 10: pokerdart888 ( $6,708 )
+livewire2006 posts ante [$30]
+bfguerreiro posts ante [$30]
+Dimkota posts ante [$30]
+queenofpkr09 posts ante [$30]
+Filet1 posts ante [$30]
+root4deuces posts ante [$30]
+PapaShango19 posts ante [$30]
+pokerdart888 posts ante [$30]
+livewire2006 posts small blind [$125]
+bfguerreiro posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 7d ]
+queenofpkr09 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 raises [$836]
+Dimkota folds
+livewire2006 raises [$840]
+bfguerreiro raises [$1,895]
+pokerdart888 calls [$1,309]
+** Dealing flop ** [ 2d, As, Jh ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 8d ]
+** Summary **
+livewire2006 shows [ Ts, Jd ]
+bfguerreiro shows [ 4s, Ks ]
+pokerdart888 shows [ Td, 9h ]
+livewire2006 collected [ $3,135 ]
+bfguerreiro collected [ $2,360 ]
+
+
+
+#Game No : 638516552
+***** 888poker Hand History for Game 638516552 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 02:52:56
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $12,640 )
+Seat 2: livewire2006 ( $3,135 )
+Seat 3: bfguerreiro ( $2,360 )
+Seat 4: queenofpkr09 ( $12,025 )
+Seat 5: Voorhees17 ( $2,000 )
+Seat 6: Filet1 ( $3,915 )
+Seat 7: root4deuces ( $4,222 )
+Seat 9: PapaShango19 ( $2,549 )
+Seat 10: pokerdart888 ( $4,533 )
+livewire2006 posts ante [$30]
+bfguerreiro posts ante [$30]
+Dimkota posts ante [$30]
+queenofpkr09 posts ante [$30]
+Filet1 posts ante [$30]
+root4deuces posts ante [$30]
+PapaShango19 posts ante [$30]
+pokerdart888 posts ante [$30]
+Voorhees17 posts ante [$30]
+bfguerreiro posts small blind [$125]
+queenofpkr09 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 4h ]
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 calls [$250]
+Dimkota folds
+livewire2006 folds
+bfguerreiro raises [$500]
+queenofpkr09 calls [$375]
+pokerdart888 calls [$375]
+** Dealing flop ** [ 4d, Kc, Qh ]
+bfguerreiro checks
+queenofpkr09 bets [$2,145]
+pokerdart888 folds
+bfguerreiro calls [$1,705]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 6s ]
+** Summary **
+bfguerreiro shows [ Qc, Ks ]
+queenofpkr09 shows [ Qd, Kh ]
+bfguerreiro collected [ $2,778 ]
+queenofpkr09 collected [ $2,777 ]
+
+
+
+#Game No : 638516689
+***** 888poker Hand History for Game 638516689 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 02:53:58
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $12,610 )
+Seat 2: livewire2006 ( $3,105 )
+Seat 3: bfguerreiro ( $2,778 )
+Seat 4: queenofpkr09 ( $12,442 )
+Seat 5: Voorhees17 ( $1,970 )
+Seat 6: Filet1 ( $3,885 )
+Seat 7: root4deuces ( $4,192 )
+Seat 9: PapaShango19 ( $2,519 )
+Seat 10: pokerdart888 ( $3,878 )
+livewire2006 posts ante [$30]
+bfguerreiro posts ante [$30]
+Dimkota posts ante [$30]
+queenofpkr09 posts ante [$30]
+Filet1 posts ante [$30]
+root4deuces posts ante [$30]
+PapaShango19 posts ante [$30]
+pokerdart888 posts ante [$30]
+Voorhees17 posts ante [$30]
+queenofpkr09 posts small blind [$125]
+Voorhees17 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 6d ]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 folds
+Dimkota calls [$250]
+livewire2006 folds
+bfguerreiro calls [$250]
+queenofpkr09 folds
+Voorhees17 raises [$500]
+Dimkota calls [$500]
+bfguerreiro folds
+** Dealing flop ** [ Ac, 3s, 9h ]
+Voorhees17 checks
+Dimkota bets [$2,145]
+Voorhees17 calls [$1,190]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 3h ]
+** Summary **
+Dimkota shows [ Th, 9s ]
+Voorhees17 shows [ Jh, Jc ]
+Voorhees17 collected [ $4,525 ]
+
+
+
+#Game No : 638516825
+***** 888poker Hand History for Game 638516825 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 02:54:49
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $10,640 )
+Seat 2: livewire2006 ( $3,075 )
+Seat 3: bfguerreiro ( $2,498 )
+Seat 4: queenofpkr09 ( $12,287 )
+Seat 5: Voorhees17 ( $4,525 )
+Seat 6: Filet1 ( $3,855 )
+Seat 7: root4deuces ( $4,162 )
+Seat 9: PapaShango19 ( $2,489 )
+Seat 10: pokerdart888 ( $3,848 )
+livewire2006 posts ante [$30]
+bfguerreiro posts ante [$30]
+Dimkota posts ante [$30]
+queenofpkr09 posts ante [$30]
+Filet1 posts ante [$30]
+root4deuces posts ante [$30]
+PapaShango19 posts ante [$30]
+pokerdart888 posts ante [$30]
+Voorhees17 posts ante [$30]
+Voorhees17 posts small blind [$125]
+Filet1 posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 2d ]
+root4deuces raises [$4,132]
+PapaShango19 folds
+pokerdart888 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+** Summary **
+root4deuces did not show his hand
+root4deuces collected [ $895 ]
+
+
+
+#Game No : 638517303
+***** 888poker Hand History for Game 638517303 *****
+$125/$250 Blinds No Limit Holdem - *** 21 11 2014 02:59:59
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $15,610 )
+Seat 2: livewire2006 ( $3,045 )
+Seat 3: bfguerreiro ( $7,468 )
+Seat 4: queenofpkr09 ( $17,257 )
+Seat 5: Voorhees17 ( $9,370 )
+Seat 6: Filet1 ( $8,575 )
+Seat 7: root4deuces ( $9,777 )
+Seat 9: PapaShango19 ( $7,459 )
+Seat 10: pokerdart888 ( $8,818 )
+livewire2006 posts ante [$30]
+bfguerreiro posts ante [$30]
+Dimkota posts ante [$30]
+queenofpkr09 posts ante [$30]
+Filet1 posts ante [$30]
+root4deuces posts ante [$30]
+PapaShango19 posts ante [$30]
+pokerdart888 posts ante [$30]
+Voorhees17 posts ante [$30]
+Filet1 posts small blind [$125]
+root4deuces posts big blind [$250]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8c ]
+PapaShango19 folds
+pokerdart888 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro raises [$500]
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+** Summary **
+bfguerreiro did not show his hand
+bfguerreiro collected [ $895 ]
+
+
+
+#Game No : 638517365
+***** 888poker Hand History for Game 638517365 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 03:00:39
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $15,580 )
+Seat 2: livewire2006 ( $3,015 )
+Seat 3: bfguerreiro ( $8,083 )
+Seat 4: queenofpkr09 ( $17,227 )
+Seat 5: Voorhees17 ( $9,340 )
+Seat 6: Filet1 ( $8,420 )
+Seat 7: root4deuces ( $9,497 )
+Seat 9: PapaShango19 ( $7,429 )
+Seat 10: pokerdart888 ( $8,788 )
+livewire2006 posts ante [$40]
+bfguerreiro posts ante [$40]
+Dimkota posts ante [$40]
+queenofpkr09 posts ante [$40]
+Filet1 posts ante [$40]
+root4deuces posts ante [$40]
+PapaShango19 posts ante [$40]
+pokerdart888 posts ante [$40]
+Voorhees17 posts ante [$40]
+root4deuces posts small blind [$150]
+PapaShango19 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 7d ]
+pokerdart888 calls [$300]
+Dimkota folds
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 calls [$300]
+Filet1 folds
+root4deuces folds
+PapaShango19 checks
+** Dealing flop ** [ 5h, 2c, Tc ]
+PapaShango19 checks
+pokerdart888 bets [$705]
+Voorhees17 calls [$705]
+PapaShango19 folds
+** Dealing turn ** [ Th ]
+pokerdart888 bets [$1,410]
+Voorhees17 calls [$1,410]
+** Dealing river ** [ 4d ]
+pokerdart888 bets [$2,820]
+Voorhees17 raises [$6,885]
+pokerdart888 folds
+** Summary **
+Voorhees17 did not show his hand
+Voorhees17 collected [ $11,280 ]
+
+
+
+#Game No : 638517534
+***** 888poker Hand History for Game 638517534 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 03:02:02
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $15,540 )
+Seat 2: livewire2006 ( $2,975 )
+Seat 3: bfguerreiro ( $8,043 )
+Seat 4: queenofpkr09 ( $17,187 )
+Seat 5: Voorhees17 ( $15,345 )
+Seat 6: Filet1 ( $8,380 )
+Seat 7: root4deuces ( $9,307 )
+Seat 9: PapaShango19 ( $7,089 )
+Seat 10: pokerdart888 ( $3,513 )
+livewire2006 posts ante [$40]
+bfguerreiro posts ante [$40]
+Dimkota posts ante [$40]
+queenofpkr09 posts ante [$40]
+Filet1 posts ante [$40]
+root4deuces posts ante [$40]
+PapaShango19 posts ante [$40]
+pokerdart888 posts ante [$40]
+Voorhees17 posts ante [$40]
+PapaShango19 posts small blind [$150]
+pokerdart888 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 3c ]
+Dimkota folds
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 raises [$450]
+pokerdart888 calls [$300]
+** Dealing flop ** [ Qs, Kc, 2s ]
+PapaShango19 bets [$780]
+pokerdart888 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $1,560 ]
+
+
+
+#Game No : 638517678
+***** 888poker Hand History for Game 638517678 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 03:03:06
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $15,500 )
+Seat 2: livewire2006 ( $2,935 )
+Seat 3: bfguerreiro ( $8,003 )
+Seat 4: queenofpkr09 ( $17,147 )
+Seat 5: Voorhees17 ( $15,305 )
+Seat 6: Filet1 ( $8,340 )
+Seat 7: root4deuces ( $9,267 )
+Seat 9: PapaShango19 ( $8,009 )
+Seat 10: pokerdart888 ( $2,873 )
+livewire2006 posts ante [$40]
+bfguerreiro posts ante [$40]
+Dimkota posts ante [$40]
+queenofpkr09 posts ante [$40]
+Filet1 posts ante [$40]
+root4deuces posts ante [$40]
+PapaShango19 posts ante [$40]
+pokerdart888 posts ante [$40]
+Voorhees17 posts ante [$40]
+pokerdart888 posts small blind [$150]
+Dimkota posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Tc ]
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 raises [$705]
+Voorhees17 calls [$705]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 folds
+Dimkota calls [$405]
+** Dealing flop ** [ Ah, 9d, 9c ]
+Dimkota checks
+queenofpkr09 bets [$1,312]
+Voorhees17 calls [$1,312]
+Dimkota folds
+** Dealing turn ** [ 2s ]
+queenofpkr09 checks
+Voorhees17 bets [$2,400]
+queenofpkr09 folds
+** Summary **
+Voorhees17 did not show his hand
+Voorhees17 collected [ $5,249 ]
+
+
+
+#Game No : 638517835
+***** 888poker Hand History for Game 638517835 *****
+$150/$300 Blinds No Limit Holdem - *** 21 11 2014 03:04:23
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $14,755 )
+Seat 2: livewire2006 ( $2,895 )
+Seat 3: bfguerreiro ( $7,963 )
+Seat 4: queenofpkr09 ( $15,090 )
+Seat 5: Voorhees17 ( $18,497 )
+Seat 6: Filet1 ( $8,300 )
+Seat 7: root4deuces ( $9,227 )
+Seat 9: PapaShango19 ( $7,969 )
+Seat 10: pokerdart888 ( $2,683 )
+livewire2006 posts ante [$40]
+bfguerreiro posts ante [$40]
+Dimkota posts ante [$40]
+queenofpkr09 posts ante [$40]
+Filet1 posts ante [$40]
+root4deuces posts ante [$40]
+PapaShango19 posts ante [$40]
+pokerdart888 posts ante [$40]
+Voorhees17 posts ante [$40]
+Dimkota posts small blind [$150]
+livewire2006 posts big blind [$300]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, Qc ]
+bfguerreiro calls [$300]
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 folds
+Dimkota folds
+livewire2006 checks
+** Dealing flop ** [ 7s, Jh, Qd ]
+livewire2006 checks
+bfguerreiro bets [$600]
+livewire2006 calls [$600]
+** Dealing turn ** [ 9d ]
+livewire2006 checks
+bfguerreiro bets [$600]
+livewire2006 raises [$1,955]
+bfguerreiro calls [$1,355]
+** Dealing river ** [ 3d ]
+** Summary **
+livewire2006 shows [ 8d, Tc ]
+bfguerreiro shows [ Qh, 7h ]
+livewire2006 collected [ $6,220 ]
+
+
+
+#Game No : 638517997
+***** 888poker Hand History for Game 638517997 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 03:05:26
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $14,565 )
+Seat 2: livewire2006 ( $6,220 )
+Seat 3: bfguerreiro ( $5,068 )
+Seat 4: queenofpkr09 ( $15,050 )
+Seat 5: Voorhees17 ( $18,457 )
+Seat 6: Filet1 ( $8,260 )
+Seat 7: root4deuces ( $9,187 )
+Seat 9: PapaShango19 ( $7,929 )
+Seat 10: pokerdart888 ( $2,643 )
+livewire2006 posts ante [$50]
+bfguerreiro posts ante [$50]
+Dimkota posts ante [$50]
+queenofpkr09 posts ante [$50]
+Filet1 posts ante [$50]
+root4deuces posts ante [$50]
+PapaShango19 posts ante [$50]
+pokerdart888 posts ante [$50]
+Voorhees17 posts ante [$50]
+livewire2006 posts small blind [$200]
+bfguerreiro posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 9c ]
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+pokerdart888 calls [$400]
+Dimkota folds
+livewire2006 calls [$200]
+bfguerreiro checks
+** Dealing flop ** [ 5c, Jh, 7d ]
+livewire2006 checks
+bfguerreiro bets [$800]
+pokerdart888 raises [$2,193]
+livewire2006 folds
+bfguerreiro calls [$1,393]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 6h ]
+** Summary **
+bfguerreiro shows [ 7c, 5h ]
+pokerdart888 shows [ Ac, Ad ]
+bfguerreiro collected [ $6,036 ]
+
+
+
+#Game No : 638518147
+***** 888poker Hand History for Game 638518147 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 03:06:30
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Dimkota ( $14,515 )
+Seat 2: livewire2006 ( $5,770 )
+Seat 3: bfguerreiro ( $8,461 )
+Seat 4: queenofpkr09 ( $15,000 )
+Seat 5: Voorhees17 ( $18,407 )
+Seat 6: Filet1 ( $8,210 )
+Seat 7: root4deuces ( $9,137 )
+Seat 9: PapaShango19 ( $7,879 )
+livewire2006 posts ante [$50]
+bfguerreiro posts ante [$50]
+Dimkota posts ante [$50]
+queenofpkr09 posts ante [$50]
+Filet1 posts ante [$50]
+root4deuces posts ante [$50]
+PapaShango19 posts ante [$50]
+Voorhees17 posts ante [$50]
+bfguerreiro posts small blind [$200]
+queenofpkr09 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, 5c ]
+Voorhees17 raises [$1,200]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro calls [$1,000]
+queenofpkr09 folds
+** Dealing flop ** [ 9s, 6s, 8d ]
+bfguerreiro checks
+Voorhees17 bets [$2,400]
+bfguerreiro raises [$7,211]
+Voorhees17 calls [$4,811]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 7d ]
+** Summary **
+bfguerreiro shows [ Ad, 5d ]
+Voorhees17 shows [ Js, Jh ]
+bfguerreiro collected [ $17,622 ]
+
+
+
+#Game No : 638518288
+***** 888poker Hand History for Game 638518288 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 03:07:37
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $14,465 )
+Seat 2: livewire2006 ( $5,720 )
+Seat 3: bfguerreiro ( $17,622 )
+Seat 4: queenofpkr09 ( $14,550 )
+Seat 5: Voorhees17 ( $9,946 )
+Seat 6: Filet1 ( $8,160 )
+Seat 7: root4deuces ( $9,087 )
+Seat 9: PapaShango19 ( $7,829 )
+Seat 10: fbcp11 ( $8,328 )
+livewire2006 posts ante [$50]
+bfguerreiro posts ante [$50]
+Dimkota posts ante [$50]
+queenofpkr09 posts ante [$50]
+Filet1 posts ante [$50]
+root4deuces posts ante [$50]
+PapaShango19 posts ante [$50]
+Voorhees17 posts ante [$50]
+fbcp11 posts ante [$50]
+queenofpkr09 posts small blind [$200]
+Voorhees17 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 7d ]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+Dimkota calls [$400]
+livewire2006 raises [$5,670]
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Dimkota folds
+** Summary **
+livewire2006 did not show his hand
+livewire2006 collected [ $1,850 ]
+
+
+
+#Game No : 638518425
+***** 888poker Hand History for Game 638518425 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 03:08:34
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $14,015 )
+Seat 2: livewire2006 ( $7,120 )
+Seat 3: bfguerreiro ( $17,572 )
+Seat 4: queenofpkr09 ( $14,300 )
+Seat 5: Voorhees17 ( $9,496 )
+Seat 6: Filet1 ( $8,110 )
+Seat 7: root4deuces ( $9,037 )
+Seat 9: PapaShango19 ( $7,779 )
+Seat 10: fbcp11 ( $8,278 )
+livewire2006 posts ante [$50]
+bfguerreiro posts ante [$50]
+Dimkota posts ante [$50]
+queenofpkr09 posts ante [$50]
+Filet1 posts ante [$50]
+root4deuces posts ante [$50]
+PapaShango19 posts ante [$50]
+Voorhees17 posts ante [$50]
+fbcp11 posts ante [$50]
+Voorhees17 posts small blind [$200]
+Filet1 posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2d ]
+root4deuces raises [$800]
+PapaShango19 folds
+fbcp11 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 calls [$600]
+Filet1 calls [$400]
+** Dealing flop ** [ Td, 3s, 6s ]
+Voorhees17 checks
+Filet1 checks
+root4deuces bets [$1,222]
+Voorhees17 folds
+Filet1 folds
+** Summary **
+root4deuces did not show his hand
+root4deuces collected [ $2,850 ]
+
+
+
+#Game No : 638518639
+***** 888poker Hand History for Game 638518639 *****
+$200/$400 Blinds No Limit Holdem - *** 21 11 2014 03:10:06
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $13,965 )
+Seat 2: livewire2006 ( $7,070 )
+Seat 3: bfguerreiro ( $17,522 )
+Seat 4: queenofpkr09 ( $14,250 )
+Seat 5: Voorhees17 ( $8,646 )
+Seat 6: Filet1 ( $7,260 )
+Seat 7: root4deuces ( $11,037 )
+Seat 9: PapaShango19 ( $7,729 )
+Seat 10: fbcp11 ( $8,228 )
+livewire2006 posts ante [$50]
+bfguerreiro posts ante [$50]
+Dimkota posts ante [$50]
+queenofpkr09 posts ante [$50]
+Filet1 posts ante [$50]
+root4deuces posts ante [$50]
+PapaShango19 posts ante [$50]
+Voorhees17 posts ante [$50]
+fbcp11 posts ante [$50]
+Filet1 posts small blind [$200]
+root4deuces posts big blind [$400]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6s, 7s ]
+PapaShango19 folds
+fbcp11 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 raises [$1,850]
+Filet1 folds
+root4deuces folds
+** Summary **
+Voorhees17 did not show his hand
+Voorhees17 collected [ $1,450 ]
+
+
+
+#Game No : 638518739
+***** 888poker Hand History for Game 638518739 *****
+$250/$500 Blinds No Limit Holdem - *** 21 11 2014 03:10:52
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $13,915 )
+Seat 2: livewire2006 ( $7,020 )
+Seat 3: bfguerreiro ( $17,472 )
+Seat 4: queenofpkr09 ( $14,200 )
+Seat 5: Voorhees17 ( $9,646 )
+Seat 6: Filet1 ( $7,010 )
+Seat 7: root4deuces ( $10,587 )
+Seat 9: PapaShango19 ( $7,679 )
+Seat 10: fbcp11 ( $8,178 )
+livewire2006 posts ante [$60]
+bfguerreiro posts ante [$60]
+Dimkota posts ante [$60]
+queenofpkr09 posts ante [$60]
+Filet1 posts ante [$60]
+root4deuces posts ante [$60]
+PapaShango19 posts ante [$60]
+Voorhees17 posts ante [$60]
+fbcp11 posts ante [$60]
+root4deuces posts small blind [$250]
+PapaShango19 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, Kc ]
+fbcp11 folds
+Dimkota folds
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 raises [$1,000]
+root4deuces folds
+PapaShango19 folds
+** Summary **
+Filet1 did not show his hand
+Filet1 collected [ $1,790 ]
+
+
+
+#Game No : 638519153
+***** 888poker Hand History for Game 638519153 *****
+$250/$500 Blinds No Limit Holdem - *** 21 11 2014 03:12:05
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $13,855 )
+Seat 2: livewire2006 ( $6,960 )
+Seat 3: bfguerreiro ( $17,412 )
+Seat 4: queenofpkr09 ( $14,140 )
+Seat 5: Voorhees17 ( $9,586 )
+Seat 6: Filet1 ( $8,240 )
+Seat 7: root4deuces ( $10,277 )
+Seat 9: PapaShango19 ( $7,119 )
+Seat 10: fbcp11 ( $8,118 )
+livewire2006 posts ante [$60]
+bfguerreiro posts ante [$60]
+Dimkota posts ante [$60]
+queenofpkr09 posts ante [$60]
+Filet1 posts ante [$60]
+root4deuces posts ante [$60]
+PapaShango19 posts ante [$60]
+Voorhees17 posts ante [$60]
+fbcp11 posts ante [$60]
+PapaShango19 posts small blind [$250]
+fbcp11 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3s, 7c ]
+Dimkota folds
+livewire2006 folds
+bfguerreiro calls [$500]
+queenofpkr09 folds
+Voorhees17 calls [$500]
+Filet1 folds
+root4deuces folds
+PapaShango19 calls [$250]
+fbcp11 checks
+** Dealing flop ** [ 4h, 8h, 7h ]
+PapaShango19 checks
+fbcp11 checks
+bfguerreiro checks
+Voorhees17 checks
+** Dealing turn ** [ Jc ]
+PapaShango19 checks
+fbcp11 checks
+bfguerreiro bets [$1,000]
+Voorhees17 folds
+PapaShango19 folds
+fbcp11 folds
+** Summary **
+bfguerreiro did not show his hand
+bfguerreiro collected [ $2,540 ]
+
+
+
+#Game No : 638519612
+***** 888poker Hand History for Game 638519612 *****
+$250/$500 Blinds No Limit Holdem - *** 21 11 2014 03:13:25
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $13,795 )
+Seat 2: livewire2006 ( $6,900 )
+Seat 3: bfguerreiro ( $19,392 )
+Seat 4: queenofpkr09 ( $14,080 )
+Seat 5: Voorhees17 ( $9,026 )
+Seat 6: Filet1 ( $8,180 )
+Seat 7: root4deuces ( $10,217 )
+Seat 9: PapaShango19 ( $6,559 )
+Seat 10: fbcp11 ( $7,558 )
+livewire2006 posts ante [$60]
+bfguerreiro posts ante [$60]
+Dimkota posts ante [$60]
+queenofpkr09 posts ante [$60]
+Filet1 posts ante [$60]
+root4deuces posts ante [$60]
+PapaShango19 posts ante [$60]
+Voorhees17 posts ante [$60]
+fbcp11 posts ante [$60]
+fbcp11 posts small blind [$250]
+Dimkota posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 7h ]
+livewire2006 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+** Summary **
+Dimkota did not show his hand
+Dimkota collected [ $1,290 ]
+
+
+
+#Game No : 638519756
+***** 888poker Hand History for Game 638519756 *****
+$250/$500 Blinds No Limit Holdem - *** 21 11 2014 03:13:57
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $14,525 )
+Seat 2: livewire2006 ( $6,840 )
+Seat 3: bfguerreiro ( $19,332 )
+Seat 4: queenofpkr09 ( $14,020 )
+Seat 5: Voorhees17 ( $8,966 )
+Seat 6: Filet1 ( $8,120 )
+Seat 7: root4deuces ( $10,157 )
+Seat 9: PapaShango19 ( $6,499 )
+Seat 10: fbcp11 ( $7,248 )
+livewire2006 posts ante [$60]
+bfguerreiro posts ante [$60]
+Dimkota posts ante [$60]
+queenofpkr09 posts ante [$60]
+Filet1 posts ante [$60]
+root4deuces posts ante [$60]
+PapaShango19 posts ante [$60]
+Voorhees17 posts ante [$60]
+fbcp11 posts ante [$60]
+Dimkota posts small blind [$250]
+livewire2006 posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2d ]
+bfguerreiro calls [$500]
+queenofpkr09 folds
+Voorhees17 calls [$500]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+Dimkota folds
+livewire2006 checks
+** Dealing flop ** [ 3c, 5c, 6c ]
+livewire2006 bets [$500]
+bfguerreiro folds
+Voorhees17 raises [$3,790]
+livewire2006 raises [$5,780]
+Voorhees17 calls [$2,490]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 9d ]
+** Summary **
+livewire2006 shows [ 6d, 9c ]
+Voorhees17 shows [ 3h, 3s ]
+Voorhees17 collected [ $14,850 ]
+
+
+
+#Game No : 638520001
+***** 888poker Hand History for Game 638520001 *****
+$250/$500 Blinds No Limit Holdem - *** 21 11 2014 03:14:46
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Dimkota ( $14,215 )
+Seat 3: bfguerreiro ( $18,772 )
+Seat 4: queenofpkr09 ( $13,960 )
+Seat 5: Voorhees17 ( $16,976 )
+Seat 6: Filet1 ( $8,060 )
+Seat 7: root4deuces ( $10,097 )
+Seat 9: PapaShango19 ( $6,439 )
+Seat 10: fbcp11 ( $7,188 )
+bfguerreiro posts ante [$60]
+Dimkota posts ante [$60]
+queenofpkr09 posts ante [$60]
+Filet1 posts ante [$60]
+root4deuces posts ante [$60]
+PapaShango19 posts ante [$60]
+Voorhees17 posts ante [$60]
+fbcp11 posts ante [$60]
+bfguerreiro posts big blind [$500]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7h ]
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+root4deuces raises [$1,000]
+PapaShango19 folds
+fbcp11 folds
+Dimkota raises [$2,985]
+bfguerreiro folds
+root4deuces raises [$9,037]
+Dimkota calls [$7,052]
+** Dealing flop ** [ 3d, Qs, Jc ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 6c ]
+** Summary **
+Dimkota shows [ Ah, Jd ]
+root4deuces shows [ Ks, Kc ]
+root4deuces collected [ $21,054 ]
+
+
+
+#Game No : 638520399
+***** 888poker Hand History for Game 638520399 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 03:15:59
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Dimkota ( $4,118 )
+Seat 3: bfguerreiro ( $18,212 )
+Seat 4: queenofpkr09 ( $13,900 )
+Seat 5: Voorhees17 ( $16,916 )
+Seat 6: Filet1 ( $8,000 )
+Seat 7: root4deuces ( $21,054 )
+Seat 9: PapaShango19 ( $6,379 )
+Seat 10: fbcp11 ( $7,128 )
+bfguerreiro posts ante [$70]
+Dimkota posts ante [$70]
+queenofpkr09 posts ante [$70]
+Filet1 posts ante [$70]
+root4deuces posts ante [$70]
+PapaShango19 posts ante [$70]
+Voorhees17 posts ante [$70]
+fbcp11 posts ante [$70]
+bfguerreiro posts small blind [$300]
+queenofpkr09 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3c ]
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+Dimkota folds
+bfguerreiro calls [$300]
+queenofpkr09 checks
+** Dealing flop ** [ Ks, 7s, Qc ]
+bfguerreiro checks
+queenofpkr09 bets [$600]
+bfguerreiro folds
+** Summary **
+queenofpkr09 collected [ $1,760 ]
+
+
+
+#Game No : 638520547
+***** 888poker Hand History for Game 638520547 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 03:16:30
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $4,048 )
+Seat 2: mamasharka ( $9,180 )
+Seat 3: bfguerreiro ( $17,542 )
+Seat 4: queenofpkr09 ( $14,990 )
+Seat 5: Voorhees17 ( $16,846 )
+Seat 6: Filet1 ( $7,930 )
+Seat 7: root4deuces ( $20,984 )
+Seat 9: PapaShango19 ( $6,309 )
+Seat 10: fbcp11 ( $7,058 )
+bfguerreiro posts ante [$70]
+Dimkota posts ante [$70]
+queenofpkr09 posts ante [$70]
+Filet1 posts ante [$70]
+root4deuces posts ante [$70]
+PapaShango19 posts ante [$70]
+Voorhees17 posts ante [$70]
+fbcp11 posts ante [$70]
+mamasharka posts ante [$70]
+queenofpkr09 posts small blind [$300]
+Voorhees17 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 2s ]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+Dimkota folds
+mamasharka folds
+bfguerreiro calls [$600]
+queenofpkr09 folds
+Voorhees17 raises [$600]
+bfguerreiro calls [$600]
+** Dealing flop ** [ Qd, 4s, Jc ]
+Voorhees17 bets [$1,200]
+bfguerreiro folds
+** Summary **
+Voorhees17 did not show his hand
+Voorhees17 collected [ $3,330 ]
+
+
+
+#Game No : 638520790
+***** 888poker Hand History for Game 638520790 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 03:17:23
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $3,978 )
+Seat 2: mamasharka ( $9,110 )
+Seat 3: bfguerreiro ( $16,272 )
+Seat 4: queenofpkr09 ( $14,620 )
+Seat 5: Voorhees17 ( $18,906 )
+Seat 6: Filet1 ( $7,860 )
+Seat 7: root4deuces ( $20,914 )
+Seat 9: PapaShango19 ( $6,239 )
+Seat 10: fbcp11 ( $6,988 )
+bfguerreiro posts ante [$70]
+Dimkota posts ante [$70]
+queenofpkr09 posts ante [$70]
+Filet1 posts ante [$70]
+root4deuces posts ante [$70]
+PapaShango19 posts ante [$70]
+Voorhees17 posts ante [$70]
+fbcp11 posts ante [$70]
+mamasharka posts ante [$70]
+Voorhees17 posts small blind [$300]
+Filet1 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 7s ]
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+Dimkota calls [$600]
+mamasharka folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 checks
+** Dealing flop ** [ Qh, 7d, Qc ]
+Filet1 checks
+Dimkota bets [$3,308]
+Filet1 folds
+** Summary **
+Dimkota did not show his hand
+Dimkota collected [ $2,130 ]
+
+
+
+#Game No : 638521173
+***** 888poker Hand History for Game 638521173 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 03:18:46
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $5,438 )
+Seat 2: mamasharka ( $9,040 )
+Seat 3: bfguerreiro ( $16,202 )
+Seat 4: queenofpkr09 ( $14,550 )
+Seat 5: Voorhees17 ( $18,536 )
+Seat 6: Filet1 ( $7,190 )
+Seat 7: root4deuces ( $20,844 )
+Seat 9: PapaShango19 ( $6,169 )
+Seat 10: fbcp11 ( $6,918 )
+bfguerreiro posts ante [$70]
+Dimkota posts ante [$70]
+queenofpkr09 posts ante [$70]
+Filet1 posts ante [$70]
+root4deuces posts ante [$70]
+PapaShango19 posts ante [$70]
+Voorhees17 posts ante [$70]
+fbcp11 posts ante [$70]
+mamasharka posts ante [$70]
+Filet1 posts small blind [$300]
+root4deuces posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5s ]
+PapaShango19 folds
+fbcp11 folds
+Dimkota folds
+mamasharka folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 raises [$6,820]
+root4deuces folds
+** Summary **
+Filet1 did not show his hand
+Filet1 collected [ $1,830 ]
+
+
+
+#Game No : 638521360
+***** 888poker Hand History for Game 638521360 *****
+$300/$600 Blinds No Limit Holdem - *** 21 11 2014 03:19:31
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Dimkota ( $5,368 )
+Seat 2: mamasharka ( $8,970 )
+Seat 3: bfguerreiro ( $16,132 )
+Seat 4: queenofpkr09 ( $14,480 )
+Seat 5: Voorhees17 ( $18,466 )
+Seat 6: Filet1 ( $8,350 )
+Seat 7: root4deuces ( $20,174 )
+Seat 9: PapaShango19 ( $6,099 )
+Seat 10: fbcp11 ( $6,848 )
+bfguerreiro posts ante [$70]
+Dimkota posts ante [$70]
+queenofpkr09 posts ante [$70]
+Filet1 posts ante [$70]
+root4deuces posts ante [$70]
+PapaShango19 posts ante [$70]
+Voorhees17 posts ante [$70]
+fbcp11 posts ante [$70]
+mamasharka posts ante [$70]
+root4deuces posts small blind [$300]
+PapaShango19 posts big blind [$600]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 7d ]
+fbcp11 raises [$2,400]
+Dimkota raises [$5,298]
+mamasharka folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 calls [$2,898]
+** Dealing flop ** [ 6s, As, Td ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 6c ]
+** Summary **
+Dimkota shows [ 5c, Ac ]
+fbcp11 shows [ Kc, Ad ]
+fbcp11 collected [ $12,126 ]
+
+
+
+#Game No : 638521618
+***** 888poker Hand History for Game 638521618 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 03:20:26
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: mamasharka ( $8,900 )
+Seat 3: bfguerreiro ( $16,062 )
+Seat 4: queenofpkr09 ( $14,410 )
+Seat 5: Voorhees17 ( $18,396 )
+Seat 6: Filet1 ( $8,280 )
+Seat 7: root4deuces ( $19,804 )
+Seat 9: PapaShango19 ( $5,429 )
+Seat 10: fbcp11 ( $13,606 )
+bfguerreiro posts ante [$100]
+queenofpkr09 posts ante [$100]
+Filet1 posts ante [$100]
+root4deuces posts ante [$100]
+PapaShango19 posts ante [$100]
+Voorhees17 posts ante [$100]
+fbcp11 posts ante [$100]
+mamasharka posts ante [$100]
+PapaShango19 posts small blind [$400]
+fbcp11 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, 9c ]
+mamasharka folds
+bfguerreiro raises [$2,700]
+queenofpkr09 calls [$2,700]
+Voorhees17 folds
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+** Dealing flop ** [ Jh, Qd, 8c ]
+bfguerreiro checks
+queenofpkr09 checks
+** Dealing turn ** [ Kh ]
+bfguerreiro checks
+queenofpkr09 checks
+** Dealing river ** [ 4c ]
+bfguerreiro bets [$5,550]
+queenofpkr09 calls [$5,550]
+** Summary **
+bfguerreiro shows [ Qc, Ad ]
+queenofpkr09 mucks [ Ah, Jd ]
+bfguerreiro collected [ $18,500 ]
+
+
+
+#Game No : 638521802
+***** 888poker Hand History for Game 638521802 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 03:21:16
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: deek.... ( $18,863 )
+Seat 2: mamasharka ( $8,800 )
+Seat 3: bfguerreiro ( $26,212 )
+Seat 4: queenofpkr09 ( $6,060 )
+Seat 5: Voorhees17 ( $18,296 )
+Seat 6: Filet1 ( $8,180 )
+Seat 7: root4deuces ( $19,704 )
+Seat 9: PapaShango19 ( $4,929 )
+Seat 10: fbcp11 ( $12,706 )
+bfguerreiro posts ante [$100]
+queenofpkr09 posts ante [$100]
+Filet1 posts ante [$100]
+root4deuces posts ante [$100]
+PapaShango19 posts ante [$100]
+Voorhees17 posts ante [$100]
+fbcp11 posts ante [$100]
+mamasharka posts ante [$100]
+deek.... posts ante [$100]
+fbcp11 posts small blind [$400]
+deek.... posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Kd ]
+mamasharka folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 calls [$800]
+Filet1 folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+deek.... checks
+** Dealing flop ** [ 4h, Js, Qh ]
+deek.... checks
+Voorhees17 bets [$800]
+deek.... folds
+** Summary **
+Voorhees17 did not show his hand
+Voorhees17 collected [ $2,900 ]
+
+
+
+#Game No : 638521925
+***** 888poker Hand History for Game 638521925 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 03:21:53
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: deek.... ( $17,963 )
+Seat 2: mamasharka ( $8,700 )
+Seat 3: bfguerreiro ( $26,112 )
+Seat 4: queenofpkr09 ( $5,960 )
+Seat 5: Voorhees17 ( $20,296 )
+Seat 6: Filet1 ( $8,080 )
+Seat 7: root4deuces ( $19,604 )
+Seat 9: PapaShango19 ( $4,829 )
+Seat 10: fbcp11 ( $12,206 )
+bfguerreiro posts ante [$100]
+queenofpkr09 posts ante [$100]
+Filet1 posts ante [$100]
+root4deuces posts ante [$100]
+PapaShango19 posts ante [$100]
+Voorhees17 posts ante [$100]
+fbcp11 posts ante [$100]
+mamasharka posts ante [$100]
+deek.... posts ante [$100]
+deek.... posts small blind [$400]
+mamasharka posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 6h ]
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+Filet1 raises [$1,600]
+root4deuces raises [$19,504]
+PapaShango19 folds
+fbcp11 folds
+deek.... folds
+mamasharka folds
+Filet1 calls [$6,380]
+** Dealing flop ** [ 8d, Ac, 6c ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ 5s ]
+** Summary **
+Filet1 shows [ Ks, Qc ]
+root4deuces shows [ Kh, Kc ]
+root4deuces collected [ $18,060 ]
+
+
+
+#Game No : 638522134
+***** 888poker Hand History for Game 638522134 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 03:22:43
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: deek.... ( $17,463 )
+Seat 2: mamasharka ( $7,800 )
+Seat 3: bfguerreiro ( $26,012 )
+Seat 4: queenofpkr09 ( $5,860 )
+Seat 5: Voorhees17 ( $20,196 )
+Seat 7: root4deuces ( $29,584 )
+Seat 9: PapaShango19 ( $4,729 )
+Seat 10: fbcp11 ( $12,106 )
+bfguerreiro posts ante [$100]
+queenofpkr09 posts ante [$100]
+root4deuces posts ante [$100]
+PapaShango19 posts ante [$100]
+Voorhees17 posts ante [$100]
+fbcp11 posts ante [$100]
+mamasharka posts ante [$100]
+deek.... posts ante [$100]
+mamasharka posts small blind [$400]
+bfguerreiro posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, 3h ]
+queenofpkr09 folds
+Voorhees17 folds
+root4deuces raises [$1,600]
+PapaShango19 folds
+fbcp11 folds
+deek.... calls [$1,600]
+mamasharka folds
+bfguerreiro calls [$800]
+** Dealing flop ** [ 7h, 2c, Ts ]
+bfguerreiro checks
+root4deuces bets [$2,222]
+deek.... calls [$2,222]
+bfguerreiro folds
+** Dealing turn ** [ Qd ]
+root4deuces bets [$4,111]
+deek.... calls [$4,111]
+** Dealing river ** [ As ]
+root4deuces bets [$9,999]
+deek.... calls [$9,430]
+** Summary **
+deek.... shows [ 8c, 8s ]
+root4deuces shows [ Kh, Qc ]
+root4deuces collected [ $37,526 ]
+
+
+
+#Game No : 638522516
+***** 888poker Hand History for Game 638522516 *****
+$400/$800 Blinds No Limit Holdem - *** 21 11 2014 03:24:28
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: mamasharka ( $7,300 )
+Seat 3: bfguerreiro ( $24,312 )
+Seat 4: queenofpkr09 ( $5,760 )
+Seat 5: Voorhees17 ( $20,096 )
+Seat 6: trixakias ( $8,220 )
+Seat 7: root4deuces ( $49,647 )
+Seat 9: PapaShango19 ( $4,629 )
+Seat 10: fbcp11 ( $12,006 )
+bfguerreiro posts ante [$100]
+queenofpkr09 posts ante [$100]
+root4deuces posts ante [$100]
+PapaShango19 posts ante [$100]
+Voorhees17 posts ante [$100]
+fbcp11 posts ante [$100]
+mamasharka posts ante [$100]
+trixakias posts ante [$100]
+bfguerreiro posts small blind [$400]
+queenofpkr09 posts big blind [$800]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, Qs ]
+Voorhees17 folds
+trixakias folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+mamasharka raises [$1,600]
+bfguerreiro raises [$23,812]
+queenofpkr09 folds
+mamasharka calls [$5,600]
+** Dealing flop ** [ 8c, 5s, 6h ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Kc ]
+** Summary **
+mamasharka shows [ 4d, Ad ]
+bfguerreiro shows [ Kh, Jh ]
+bfguerreiro collected [ $16,000 ]
+
+
+
+#Game No : 638522713
+***** 888poker Hand History for Game 638522713 *****
+$500/$1,000 Blinds No Limit Holdem - *** 21 11 2014 03:25:23
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 3: bfguerreiro ( $33,012 )
+Seat 4: queenofpkr09 ( $4,860 )
+Seat 5: Voorhees17 ( $19,996 )
+Seat 6: trixakias ( $8,120 )
+Seat 7: root4deuces ( $49,547 )
+Seat 9: PapaShango19 ( $4,529 )
+Seat 10: fbcp11 ( $11,906 )
+bfguerreiro posts ante [$125]
+queenofpkr09 posts ante [$125]
+root4deuces posts ante [$125]
+PapaShango19 posts ante [$125]
+Voorhees17 posts ante [$125]
+fbcp11 posts ante [$125]
+trixakias posts ante [$125]
+queenofpkr09 posts small blind [$500]
+Voorhees17 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 6h ]
+trixakias folds
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+bfguerreiro folds
+queenofpkr09 folds
+** Summary **
+Voorhees17 collected [ $2,375 ]
+
+
+
+#Game No : 638522810
+***** 888poker Hand History for Game 638522810 *****
+$500/$1,000 Blinds No Limit Holdem - *** 21 11 2014 03:25:52
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: gupy3000 ( $26,376 )
+Seat 2: triciclero ( $6,412 )
+Seat 3: bfguerreiro ( $32,887 )
+Seat 4: queenofpkr09 ( $4,235 )
+Seat 5: Voorhees17 ( $21,246 )
+Seat 6: trixakias ( $7,995 )
+Seat 7: root4deuces ( $49,422 )
+Seat 9: PapaShango19 ( $4,404 )
+Seat 10: fbcp11 ( $11,781 )
+bfguerreiro posts ante [$125]
+queenofpkr09 posts ante [$125]
+root4deuces posts ante [$125]
+PapaShango19 posts ante [$125]
+Voorhees17 posts ante [$125]
+fbcp11 posts ante [$125]
+trixakias posts ante [$125]
+gupy3000 posts ante [$125]
+triciclero posts ante [$125]
+Voorhees17 posts small blind [$500]
+trixakias posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 2s ]
+root4deuces folds
+PapaShango19 folds
+fbcp11 folds
+gupy3000 raises [$2,000]
+triciclero raises [$6,287]
+bfguerreiro folds
+queenofpkr09 calls [$4,110]
+Voorhees17 folds
+trixakias folds
+gupy3000 calls [$4,287]
+** Dealing flop ** [ 7c, 3d, 5d ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ Ac ]
+** Summary **
+gupy3000 shows [ Tc, Kc ]
+triciclero shows [ Qs, Js ]
+queenofpkr09 shows [ Jd, Qd ]
+queenofpkr09 collected [ $14,955 ]
+gupy3000 collected [ $4,354 ]
+
+
+
+#Game No : 638522988
+***** 888poker Hand History for Game 638522988 *****
+$500/$1,000 Blinds No Limit Holdem - *** 21 11 2014 03:26:47
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: gupy3000 ( $24,318 )
+Seat 3: bfguerreiro ( $32,762 )
+Seat 4: queenofpkr09 ( $14,955 )
+Seat 5: Voorhees17 ( $20,621 )
+Seat 6: trixakias ( $6,870 )
+Seat 7: root4deuces ( $49,297 )
+Seat 9: PapaShango19 ( $4,279 )
+Seat 10: fbcp11 ( $11,656 )
+bfguerreiro posts ante [$125]
+queenofpkr09 posts ante [$125]
+root4deuces posts ante [$125]
+PapaShango19 posts ante [$125]
+Voorhees17 posts ante [$125]
+fbcp11 posts ante [$125]
+trixakias posts ante [$125]
+gupy3000 posts ante [$125]
+trixakias posts small blind [$500]
+root4deuces posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 8s ]
+PapaShango19 folds
+fbcp11 folds
+gupy3000 raises [$2,000]
+bfguerreiro folds
+queenofpkr09 calls [$2,000]
+Voorhees17 folds
+trixakias folds
+root4deuces folds
+** Dealing flop ** [ Td, 6c, Ah ]
+gupy3000 checks
+queenofpkr09 checks
+** Dealing turn ** [ Jd ]
+gupy3000 bets [$3,250]
+queenofpkr09 calls [$3,250]
+** Dealing river ** [ Ks ]
+gupy3000 bets [$6,500]
+queenofpkr09 folds
+** Summary **
+gupy3000 collected [ $13,000 ]
+
+
+
+#Game No : 638523245
+***** 888poker Hand History for Game 638523245 *****
+$500/$1,000 Blinds No Limit Holdem - *** 21 11 2014 03:28:01
+Tournament #63661111 $1.15 + $0.15 - Table #35 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: gupy3000 ( $31,943 )
+Seat 2: ivanica222 ( $7,985 )
+Seat 3: bfguerreiro ( $32,637 )
+Seat 4: queenofpkr09 ( $9,580 )
+Seat 5: Voorhees17 ( $20,496 )
+Seat 6: trixakias ( $6,245 )
+Seat 7: root4deuces ( $48,172 )
+Seat 9: PapaShango19 ( $4,154 )
+Seat 10: fbcp11 ( $11,531 )
+bfguerreiro posts ante [$125]
+queenofpkr09 posts ante [$125]
+root4deuces posts ante [$125]
+PapaShango19 posts ante [$125]
+Voorhees17 posts ante [$125]
+fbcp11 posts ante [$125]
+trixakias posts ante [$125]
+gupy3000 posts ante [$125]
+ivanica222 posts ante [$125]
+root4deuces posts small blind [$500]
+PapaShango19 posts big blind [$1,000]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Qs ]
+fbcp11 folds
+gupy3000 raises [$2,000]
+ivanica222 folds
+bfguerreiro folds
+queenofpkr09 folds
+Voorhees17 folds
+trixakias folds
+root4deuces raises [$4,499]
+PapaShango19 calls [$3,029]
+gupy3000 calls [$2,999]
+** Dealing flop ** [ 7s, 6c, Ad ]
+root4deuces bets [$5,111]
+gupy3000 raises [$26,819]
+root4deuces folds
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 2d ]
+** Summary **
+gupy3000 shows [ 4s, As ]
+PapaShango19 shows [ Kd, Qs ]
+gupy3000 collected [ $13,212 ]
+gupy3000 collected [ $12,162 ]
+
+
+

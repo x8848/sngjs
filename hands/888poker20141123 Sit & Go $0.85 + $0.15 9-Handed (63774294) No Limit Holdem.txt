@@ -1,0 +1,391 @@
+#Game No : 695717348
+***** 888poker Hand History for Game 695717348 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:50:02
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Vitalii11 ( $1,500 )
+Seat 2: ada_e ( $1,500 )
+Seat 3: fonix3 ( $1,500 )
+Seat 4: pankratka ( $1,500 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: PapaShango19 ( $1,500 )
+Seat 7: WillyVonka ( $1,500 )
+Seat 9: Arthurian666 ( $1,500 )
+Seat 10: asger. ( $1,500 )
+PapaShango19 posts small blind [$10]
+WillyVonka posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 3d ]
+Arthurian666 calls [$20]
+asger. folds
+Vitalii11 calls [$20]
+ada_e folds
+fonix3 folds
+pankratka calls [$20]
+Onatole111 folds
+PapaShango19 calls [$10]
+WillyVonka checks
+** Dealing flop ** [ Qh, Td, 8c ]
+PapaShango19 checks
+WillyVonka checks
+Arthurian666 bets [$20]
+Vitalii11 calls [$20]
+pankratka calls [$20]
+PapaShango19 folds
+WillyVonka raises [$100]
+Arthurian666 calls [$80]
+Vitalii11 folds
+pankratka folds
+** Dealing turn ** [ Tc ]
+WillyVonka checks
+Arthurian666 bets [$340]
+WillyVonka raises [$680]
+Arthurian666 raises [$1,040]
+WillyVonka calls [$700]
+** Dealing river ** [ 5c ]
+** Summary **
+WillyVonka shows [ Js, 9h ]
+Arthurian666 shows [ Ts, Jd ]
+WillyVonka collected [ $3,100 ]
+
+
+
+#Game No : 695717493
+***** 888poker Hand History for Game 695717493 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:51:27
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Vitalii11 ( $1,460 )
+Seat 2: ada_e ( $1,500 )
+Seat 3: fonix3 ( $1,500 )
+Seat 4: pankratka ( $1,460 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: WillyVonka ( $3,100 )
+Seat 10: asger. ( $1,500 )
+WillyVonka posts small blind [$10]
+asger. posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 8s ]
+Vitalii11 calls [$20]
+ada_e folds
+fonix3 raises [$60]
+pankratka calls [$60]
+Onatole111 folds
+PapaShango19 folds
+WillyVonka folds
+asger. calls [$40]
+Vitalii11 calls [$40]
+** Dealing flop ** [ 7c, Ah, 6c ]
+asger. checks
+Vitalii11 checks
+fonix3 checks
+pankratka checks
+** Dealing turn ** [ Kh ]
+asger. checks
+Vitalii11 checks
+fonix3 checks
+pankratka checks
+** Dealing river ** [ Ac ]
+asger. folds
+Vitalii11 checks
+fonix3 checks
+pankratka checks
+** Summary **
+Vitalii11 shows [ 7s, Js ]
+fonix3 mucks [ Qh, Jh ]
+pankratka mucks [ Ts, 5s ]
+Vitalii11 collected [ $250 ]
+
+
+
+#Game No : 695717641
+***** 888poker Hand History for Game 695717641 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:52:52
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Vitalii11 ( $1,650 )
+Seat 2: ada_e ( $1,500 )
+Seat 3: fonix3 ( $1,440 )
+Seat 4: pankratka ( $1,400 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: WillyVonka ( $3,090 )
+Seat 10: asger. ( $1,440 )
+asger. posts small blind [$10]
+Vitalii11 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Ts ]
+ada_e folds
+fonix3 calls [$20]
+pankratka calls [$20]
+Onatole111 folds
+PapaShango19 folds
+WillyVonka folds
+asger. calls [$10]
+Vitalii11 checks
+** Dealing flop ** [ 3h, 7h, 4h ]
+asger. checks
+Vitalii11 checks
+fonix3 checks
+pankratka checks
+** Dealing turn ** [ 6s ]
+asger. bets [$60]
+Vitalii11 folds
+fonix3 folds
+pankratka folds
+** Summary **
+asger. did not show his hand
+asger. collected [ $80 ]
+
+
+
+#Game No : 695717730
+***** 888poker Hand History for Game 695717730 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:53:50
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Vitalii11 ( $1,630 )
+Seat 2: ada_e ( $1,500 )
+Seat 3: fonix3 ( $1,420 )
+Seat 4: pankratka ( $1,380 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: WillyVonka ( $3,090 )
+Seat 10: asger. ( $1,500 )
+Vitalii11 posts small blind [$10]
+ada_e posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8c, 2s ]
+fonix3 folds
+pankratka calls [$20]
+Onatole111 folds
+PapaShango19 folds
+WillyVonka folds
+asger. calls [$20]
+Vitalii11 raises [$30]
+ada_e folds
+pankratka calls [$20]
+asger. calls [$20]
+** Dealing flop ** [ 5d, Qh, 5h ]
+Vitalii11 bets [$70]
+pankratka folds
+asger. folds
+** Summary **
+Vitalii11 did not show his hand
+Vitalii11 collected [ $140 ]
+
+
+
+#Game No : 695717805
+***** 888poker Hand History for Game 695717805 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:54:37
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Vitalii11 ( $1,730 )
+Seat 2: ada_e ( $1,480 )
+Seat 3: fonix3 ( $1,420 )
+Seat 4: pankratka ( $1,340 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: WillyVonka ( $3,090 )
+Seat 10: asger. ( $1,460 )
+ada_e posts small blind [$10]
+fonix3 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 5d ]
+pankratka calls [$20]
+Onatole111 folds
+PapaShango19 folds
+WillyVonka folds
+asger. calls [$20]
+Vitalii11 folds
+ada_e calls [$10]
+fonix3 checks
+** Dealing flop ** [ Tc, 6h, 2d ]
+ada_e checks
+fonix3 checks
+pankratka checks
+asger. bets [$20]
+ada_e folds
+fonix3 folds
+pankratka folds
+** Summary **
+asger. did not show his hand
+asger. collected [ $80 ]
+
+
+
+#Game No : 695717891
+***** 888poker Hand History for Game 695717891 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:55:43
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Vitalii11 ( $1,730 )
+Seat 2: ada_e ( $1,460 )
+Seat 3: fonix3 ( $1,400 )
+Seat 4: pankratka ( $1,320 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: WillyVonka ( $3,090 )
+Seat 10: asger. ( $1,520 )
+fonix3 posts small blind [$10]
+pankratka posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, 2c ]
+Onatole111 folds
+PapaShango19 folds
+WillyVonka folds
+asger. raises [$40]
+Vitalii11 folds
+ada_e folds
+fonix3 folds
+pankratka calls [$20]
+** Dealing flop ** [ 9h, Ah, As ]
+pankratka checks
+asger. checks
+** Dealing turn ** [ Tc ]
+pankratka checks
+asger. bets [$20]
+pankratka folds
+** Summary **
+asger. did not show his hand
+asger. collected [ $90 ]
+
+
+
+#Game No : 695717934
+***** 888poker Hand History for Game 695717934 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:56:29
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Vitalii11 ( $1,730 )
+Seat 2: ada_e ( $1,460 )
+Seat 3: fonix3 ( $1,390 )
+Seat 4: pankratka ( $1,280 )
+Seat 5: Onatole111 ( $1,500 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: WillyVonka ( $3,090 )
+Seat 10: asger. ( $1,570 )
+pankratka posts small blind [$10]
+Onatole111 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, 9d ]
+PapaShango19 folds
+WillyVonka folds
+asger. calls [$20]
+Vitalii11 folds
+ada_e folds
+fonix3 folds
+pankratka calls [$10]
+Onatole111 raises [$50]
+asger. calls [$50]
+pankratka calls [$50]
+** Dealing flop ** [ 4d, Kc, 6c ]
+pankratka checks
+Onatole111 bets [$105]
+asger. calls [$105]
+pankratka folds
+** Dealing turn ** [ 9c ]
+Onatole111 bets [$315]
+asger. calls [$315]
+** Dealing river ** [ 8c ]
+Onatole111 bets [$1,010]
+asger. calls [$1,010]
+** Summary **
+Onatole111 shows [ Ad, As ]
+asger. shows [ Kd, Tc ]
+asger. collected [ $3,070 ]
+
+
+
+#Game No : 695718007
+***** 888poker Hand History for Game 695718007 *****
+$10/$20 Blinds No Limit Holdem - *** 23 11 2014 10:57:36
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: Vitalii11 ( $1,730 )
+Seat 2: ada_e ( $1,460 )
+Seat 3: fonix3 ( $1,390 )
+Seat 4: pankratka ( $1,210 )
+Seat 6: PapaShango19 ( $1,480 )
+Seat 7: WillyVonka ( $3,090 )
+Seat 10: asger. ( $3,140 )
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 8h ]
+WillyVonka folds
+asger. folds
+Vitalii11 calls [$20]
+ada_e folds
+fonix3 folds
+pankratka calls [$20]
+PapaShango19 checks
+** Dealing flop ** [ 6s, 5h, Kd ]
+PapaShango19 checks
+Vitalii11 bets [$20]
+pankratka calls [$20]
+PapaShango19 calls [$20]
+** Dealing turn ** [ 7d ]
+PapaShango19 checks
+Vitalii11 bets [$60]
+pankratka calls [$60]
+PapaShango19 calls [$60]
+** Dealing river ** [ Jd ]
+PapaShango19 checks
+Vitalii11 bets [$225]
+pankratka raises [$450]
+PapaShango19 folds
+Vitalii11 calls [$225]
+** Summary **
+pankratka shows [ Td, 6d ]
+Vitalii11 mucks [ Ac, Ks ]
+pankratka collected [ $1,200 ]
+
+
+
+#Game No : 695718059
+***** 888poker Hand History for Game 695718059 *****
+$15/$30 Blinds No Limit Holdem - *** 23 11 2014 10:58:37
+Tournament #63774294 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: Vitalii11 ( $1,180 )
+Seat 2: ada_e ( $1,460 )
+Seat 3: fonix3 ( $1,390 )
+Seat 4: pankratka ( $1,860 )
+Seat 6: PapaShango19 ( $1,380 )
+Seat 7: WillyVonka ( $3,090 )
+Seat 10: asger. ( $3,140 )
+PapaShango19 posts small blind [$15]
+WillyVonka posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Kd ]
+asger. folds
+Vitalii11 calls [$30]
+ada_e folds
+fonix3 folds
+pankratka raises [$90]
+PapaShango19 raises [$255]
+WillyVonka folds
+Vitalii11 folds
+pankratka raises [$1,770]
+PapaShango19 calls [$1,110]
+** Dealing flop ** [ 3c, 2s, 3h ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 7h ]
+** Summary **
+pankratka shows [ Ah, As ]
+PapaShango19 shows [ Kc, Kd ]
+pankratka collected [ $2,820 ]
+
+
+

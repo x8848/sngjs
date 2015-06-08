@@ -1,0 +1,1750 @@
+#Game No : 646393811
+***** 888poker Hand History for Game 646393811 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:00:49
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Aleks777.by ( $1,000 )
+Seat 2: PapaShango19 ( $1,000 )
+Seat 3: ronn92 ( $1,000 )
+Seat 5: dartking1 ( $1,000 )
+Seat 6: lobie29 ( $1,000 )
+Seat 7: S1n1y32rus ( $1,000 )
+Seat 8: whu62 ( $1,000 )
+Seat 10: ma3cs ( $1,000 )
+PapaShango19 posts small blind [$10]
+ronn92 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, 9h ]
+dartking1 calls [$20]
+lobie29 calls [$20]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 calls [$10]
+ronn92 raises [$20]
+dartking1 calls [$20]
+lobie29 calls [$20]
+PapaShango19 calls [$20]
+** Dealing flop ** [ Tc, 3s, Ac ]
+PapaShango19 checks
+ronn92 bets [$160]
+dartking1 folds
+lobie29 calls [$160]
+PapaShango19 folds
+** Dealing turn ** [ 3d ]
+ronn92 bets [$20]
+lobie29 raises [$160]
+ronn92 calls [$140]
+** Dealing river ** [ 4h ]
+ronn92 bets [$640]
+lobie29 calls [$640]
+** Summary **
+ronn92 shows [ 9c, 7d ]
+lobie29 shows [ As, 7c ]
+lobie29 collected [ $2,080 ]
+
+
+
+#Game No : 646394127
+***** 888poker Hand History for Game 646394127 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:02:44
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $1,000 )
+Seat 2: PapaShango19 ( $960 )
+Seat 5: dartking1 ( $960 )
+Seat 6: lobie29 ( $2,080 )
+Seat 7: S1n1y32rus ( $1,000 )
+Seat 8: whu62 ( $1,000 )
+Seat 10: ma3cs ( $1,000 )
+dartking1 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, Ac ]
+lobie29 raises [$40]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+dartking1 calls [$20]
+** Dealing flop ** [ 9h, Ah, 2d ]
+dartking1 checks
+lobie29 bets [$45]
+dartking1 folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $80 ]
+
+
+
+#Game No : 646394475
+***** 888poker Hand History for Game 646394475 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:04:24
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $1,000 )
+Seat 2: PapaShango19 ( $960 )
+Seat 5: dartking1 ( $920 )
+Seat 6: lobie29 ( $2,120 )
+Seat 7: S1n1y32rus ( $1,000 )
+Seat 8: whu62 ( $1,000 )
+Seat 10: ma3cs ( $1,000 )
+dartking1 posts small blind [$10]
+lobie29 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 2d ]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by calls [$20]
+PapaShango19 folds
+dartking1 folds
+lobie29 checks
+** Dealing flop ** [ Td, 4s, Kh ]
+lobie29 checks
+Aleks777.by checks
+** Dealing turn ** [ 5d ]
+lobie29 bets [$50]
+Aleks777.by folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $50 ]
+
+
+
+#Game No : 646394693
+***** 888poker Hand History for Game 646394693 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:05:20
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $980 )
+Seat 2: PapaShango19 ( $960 )
+Seat 5: dartking1 ( $910 )
+Seat 6: lobie29 ( $2,150 )
+Seat 7: S1n1y32rus ( $1,000 )
+Seat 8: whu62 ( $1,000 )
+Seat 10: ma3cs ( $1,000 )
+lobie29 posts small blind [$10]
+S1n1y32rus posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, Ah ]
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+dartking1 calls [$20]
+lobie29 calls [$10]
+S1n1y32rus checks
+** Dealing flop ** [ Th, 9h, Kc ]
+lobie29 bets [$35]
+S1n1y32rus calls [$35]
+dartking1 calls [$35]
+** Dealing turn ** [ Ac ]
+lobie29 bets [$25]
+S1n1y32rus raises [$75]
+dartking1 calls [$75]
+lobie29 calls [$50]
+** Dealing river ** [ 3h ]
+lobie29 bets [$20]
+S1n1y32rus folds
+dartking1 folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $390 ]
+
+
+
+#Game No : 646395069
+***** 888poker Hand History for Game 646395069 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:06:55
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $980 )
+Seat 2: PapaShango19 ( $960 )
+Seat 5: dartking1 ( $780 )
+Seat 6: lobie29 ( $2,410 )
+Seat 7: S1n1y32rus ( $870 )
+Seat 8: whu62 ( $1,000 )
+Seat 10: ma3cs ( $1,000 )
+S1n1y32rus posts small blind [$10]
+whu62 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 8c ]
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+dartking1 folds
+lobie29 folds
+S1n1y32rus folds
+** Summary **
+whu62 did not show his hand
+whu62 collected [ $30 ]
+
+
+
+#Game No : 646395138
+***** 888poker Hand History for Game 646395138 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:07:12
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $980 )
+Seat 2: PapaShango19 ( $960 )
+Seat 5: dartking1 ( $780 )
+Seat 6: lobie29 ( $2,410 )
+Seat 7: S1n1y32rus ( $860 )
+Seat 8: whu62 ( $1,010 )
+Seat 10: ma3cs ( $1,000 )
+whu62 posts small blind [$10]
+ma3cs posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Ks ]
+Aleks777.by raises [$40]
+PapaShango19 raises [$960]
+dartking1 folds
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $110 ]
+
+
+
+#Game No : 646395254
+***** 888poker Hand History for Game 646395254 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:07:43
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $940 )
+Seat 2: PapaShango19 ( $1,030 )
+Seat 5: dartking1 ( $780 )
+Seat 6: lobie29 ( $2,410 )
+Seat 7: S1n1y32rus ( $860 )
+Seat 8: whu62 ( $1,000 )
+Seat 10: ma3cs ( $980 )
+ma3cs posts small blind [$10]
+Aleks777.by posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 7c ]
+PapaShango19 folds
+dartking1 calls [$20]
+lobie29 calls [$20]
+S1n1y32rus folds
+whu62 calls [$20]
+ma3cs folds
+Aleks777.by checks
+** Dealing flop ** [ 4d, Ts, 4s ]
+Aleks777.by checks
+dartking1 checks
+lobie29 checks
+whu62 bets [$20]
+Aleks777.by folds
+dartking1 folds
+lobie29 folds
+** Summary **
+whu62 did not show his hand
+whu62 collected [ $90 ]
+
+
+
+#Game No : 646395436
+***** 888poker Hand History for Game 646395436 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:08:35
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $920 )
+Seat 2: PapaShango19 ( $1,030 )
+Seat 5: dartking1 ( $760 )
+Seat 6: lobie29 ( $2,390 )
+Seat 7: S1n1y32rus ( $860 )
+Seat 8: whu62 ( $1,070 )
+Seat 10: ma3cs ( $970 )
+Aleks777.by posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ad ]
+dartking1 folds
+lobie29 calls [$30]
+S1n1y32rus folds
+whu62 calls [$30]
+ma3cs folds
+Aleks777.by calls [$15]
+PapaShango19 raises [$60]
+lobie29 folds
+whu62 calls [$60]
+Aleks777.by calls [$60]
+** Dealing flop ** [ 7h, 4c, 2h ]
+Aleks777.by checks
+PapaShango19 bets [$90]
+whu62 folds
+Aleks777.by folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646395723
+***** 888poker Hand History for Game 646395723 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:09:57
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $830 )
+Seat 2: PapaShango19 ( $1,240 )
+Seat 5: dartking1 ( $760 )
+Seat 6: lobie29 ( $2,360 )
+Seat 7: S1n1y32rus ( $860 )
+Seat 8: whu62 ( $980 )
+Seat 10: ma3cs ( $970 )
+PapaShango19 posts small blind [$15]
+dartking1 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, Tc ]
+lobie29 raises [$78]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by calls [$78]
+PapaShango19 folds
+dartking1 calls [$48]
+** Dealing flop ** [ 5d, Td, 5s ]
+dartking1 checks
+lobie29 checks
+Aleks777.by checks
+** Dealing turn ** [ 5h ]
+dartking1 checks
+lobie29 bets [$30]
+Aleks777.by calls [$30]
+dartking1 calls [$30]
+** Dealing river ** [ Ac ]
+dartking1 bets [$339]
+lobie29 folds
+Aleks777.by folds
+** Summary **
+dartking1 did not show his hand
+dartking1 collected [ $339 ]
+
+
+
+#Game No : 646396063
+***** 888poker Hand History for Game 646396063 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:11:34
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $722 )
+Seat 2: PapaShango19 ( $1,225 )
+Seat 5: dartking1 ( $991 )
+Seat 6: lobie29 ( $2,252 )
+Seat 7: S1n1y32rus ( $860 )
+Seat 8: whu62 ( $980 )
+Seat 10: ma3cs ( $970 )
+dartking1 posts small blind [$15]
+lobie29 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, Jh ]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by raises [$60]
+PapaShango19 calls [$60]
+dartking1 folds
+lobie29 calls [$30]
+** Dealing flop ** [ Qh, Kc, 5s ]
+lobie29 bets [$35]
+Aleks777.by folds
+PapaShango19 calls [$35]
+** Dealing turn ** [ 4h ]
+lobie29 bets [$30]
+PapaShango19 calls [$30]
+** Dealing river ** [ 7h ]
+lobie29 bets [$355]
+PapaShango19 folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $325 ]
+
+
+
+#Game No : 646396355
+***** 888poker Hand History for Game 646396355 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:13:03
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $662 )
+Seat 2: PapaShango19 ( $1,100 )
+Seat 5: dartking1 ( $976 )
+Seat 6: lobie29 ( $2,452 )
+Seat 7: S1n1y32rus ( $860 )
+Seat 8: whu62 ( $980 )
+Seat 10: ma3cs ( $970 )
+lobie29 posts small blind [$15]
+S1n1y32rus posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Kc ]
+whu62 calls [$30]
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+dartking1 calls [$30]
+lobie29 calls [$15]
+S1n1y32rus checks
+** Dealing flop ** [ 9d, 7c, Ts ]
+lobie29 bets [$45]
+S1n1y32rus raises [$120]
+whu62 folds
+dartking1 calls [$120]
+lobie29 calls [$75]
+** Dealing turn ** [ 7d ]
+lobie29 bets [$45]
+S1n1y32rus raises [$175]
+dartking1 folds
+lobie29 raises [$260]
+S1n1y32rus calls [$130]
+** Dealing river ** [ Qc ]
+lobie29 bets [$45]
+S1n1y32rus calls [$45]
+** Summary **
+lobie29 shows [ Kh, Th ]
+S1n1y32rus shows [ As, Td ]
+S1n1y32rus collected [ $1,180 ]
+
+
+
+#Game No : 646396680
+***** 888poker Hand History for Game 646396680 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:14:39
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $662 )
+Seat 2: PapaShango19 ( $1,100 )
+Seat 5: dartking1 ( $826 )
+Seat 6: lobie29 ( $1,952 )
+Seat 7: S1n1y32rus ( $1,540 )
+Seat 8: whu62 ( $950 )
+Seat 10: ma3cs ( $970 )
+S1n1y32rus posts small blind [$15]
+whu62 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 3s ]
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+dartking1 folds
+lobie29 calls [$30]
+S1n1y32rus folds
+whu62 checks
+** Dealing flop ** [ 8d, 9d, 7c ]
+whu62 bets [$60]
+lobie29 raises [$120]
+whu62 calls [$60]
+** Dealing turn ** [ 2h ]
+whu62 bets [$30]
+lobie29 calls [$30]
+** Dealing river ** [ 4d ]
+whu62 bets [$120]
+lobie29 calls [$120]
+** Summary **
+whu62 shows [ 6h, 5d ]
+lobie29 mucks [ 5h, Kh ]
+whu62 collected [ $615 ]
+
+
+
+#Game No : 646396952
+***** 888poker Hand History for Game 646396952 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:15:58
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $662 )
+Seat 2: PapaShango19 ( $1,100 )
+Seat 5: dartking1 ( $826 )
+Seat 6: lobie29 ( $1,652 )
+Seat 7: S1n1y32rus ( $1,525 )
+Seat 8: whu62 ( $1,265 )
+Seat 10: ma3cs ( $970 )
+whu62 posts small blind [$25]
+ma3cs posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kd, Qc ]
+Aleks777.by folds
+PapaShango19 raises [$100]
+dartking1 folds
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $125 ]
+
+
+
+#Game No : 646397086
+***** 888poker Hand History for Game 646397086 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:16:28
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $662 )
+Seat 2: PapaShango19 ( $1,175 )
+Seat 5: dartking1 ( $826 )
+Seat 6: lobie29 ( $1,652 )
+Seat 7: S1n1y32rus ( $1,525 )
+Seat 8: whu62 ( $1,240 )
+Seat 10: ma3cs ( $920 )
+ma3cs posts small blind [$25]
+Aleks777.by posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Qc ]
+PapaShango19 folds
+dartking1 calls [$50]
+lobie29 calls [$50]
+S1n1y32rus folds
+whu62 folds
+ma3cs calls [$25]
+Aleks777.by checks
+** Dealing flop ** [ Ah, 2c, Kc ]
+ma3cs checks
+Aleks777.by checks
+dartking1 bets [$50]
+lobie29 folds
+ma3cs folds
+Aleks777.by folds
+** Summary **
+dartking1 did not show his hand
+dartking1 collected [ $200 ]
+
+
+
+#Game No : 646397289
+***** 888poker Hand History for Game 646397289 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:17:26
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $612 )
+Seat 2: PapaShango19 ( $1,175 )
+Seat 5: dartking1 ( $976 )
+Seat 6: lobie29 ( $1,602 )
+Seat 7: S1n1y32rus ( $1,525 )
+Seat 8: whu62 ( $1,240 )
+Seat 10: ma3cs ( $870 )
+Aleks777.by posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 4d ]
+dartking1 calls [$50]
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 checks
+** Dealing flop ** [ 6c, 5h, Tc ]
+PapaShango19 checks
+dartking1 bets [$50]
+PapaShango19 folds
+** Summary **
+dartking1 did not show his hand
+dartking1 collected [ $125 ]
+
+
+
+#Game No : 646397414
+***** 888poker Hand History for Game 646397414 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:18:04
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $587 )
+Seat 2: PapaShango19 ( $1,125 )
+Seat 5: dartking1 ( $1,051 )
+Seat 6: lobie29 ( $1,602 )
+Seat 7: S1n1y32rus ( $1,525 )
+Seat 8: whu62 ( $1,240 )
+Seat 10: ma3cs ( $870 )
+PapaShango19 posts small blind [$25]
+dartking1 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5h, Ts ]
+lobie29 calls [$50]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+dartking1 checks
+** Dealing flop ** [ 5c, Jc, Kc ]
+dartking1 bets [$50]
+lobie29 calls [$50]
+** Dealing turn ** [ Qs ]
+dartking1 bets [$50]
+lobie29 raises [$100]
+dartking1 calls [$50]
+** Dealing river ** [ 3d ]
+dartking1 bets [$50]
+lobie29 calls [$50]
+** Summary **
+dartking1 shows [ Qd, Ks ]
+lobie29 mucks [ 9s, Qh ]
+dartking1 collected [ $525 ]
+
+
+
+#Game No : 646397638
+***** 888poker Hand History for Game 646397638 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:18:59
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $587 )
+Seat 2: PapaShango19 ( $1,100 )
+Seat 5: dartking1 ( $1,326 )
+Seat 6: lobie29 ( $1,352 )
+Seat 7: S1n1y32rus ( $1,525 )
+Seat 8: whu62 ( $1,240 )
+Seat 10: ma3cs ( $870 )
+dartking1 posts small blind [$25]
+lobie29 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, Qs ]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by calls [$50]
+PapaShango19 raises [$200]
+dartking1 folds
+lobie29 calls [$150]
+Aleks777.by folds
+** Dealing flop ** [ 2d, Td, Qc ]
+lobie29 bets [$50]
+PapaShango19 raises [$468]
+lobie29 folds
+** Summary **
+PapaShango19 collected [ $575 ]
+
+
+
+#Game No : 646397922
+***** 888poker Hand History for Game 646397922 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:20:19
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Aleks777.by ( $537 )
+Seat 2: PapaShango19 ( $1,425 )
+Seat 6: lobie29 ( $1,102 )
+Seat 7: S1n1y32rus ( $1,525 )
+Seat 8: whu62 ( $1,240 )
+Seat 10: ma3cs ( $870 )
+lobie29 posts small blind [$25]
+S1n1y32rus posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, Qc ]
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+lobie29 raises [$75]
+S1n1y32rus folds
+** Summary **
+lobie29 collected [ $100 ]
+
+
+
+#Game No : 646398041
+***** 888poker Hand History for Game 646398041 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:20:46
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $537 )
+Seat 2: PapaShango19 ( $1,425 )
+Seat 3: Dudkan ( $1,650 )
+Seat 6: lobie29 ( $1,152 )
+Seat 7: S1n1y32rus ( $1,475 )
+Seat 8: whu62 ( $1,240 )
+Seat 10: ma3cs ( $870 )
+S1n1y32rus posts small blind [$25]
+whu62 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 5c ]
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+Dudkan calls [$50]
+lobie29 raises [$168]
+S1n1y32rus folds
+whu62 folds
+Dudkan calls [$118]
+** Dealing flop ** [ 5d, 9h, Kd ]
+Dudkan bets [$50]
+lobie29 raises [$561]
+Dudkan calls [$511]
+** Dealing turn ** [ Jc ]
+Dudkan bets [$921]
+lobie29 calls [$423]
+** Dealing river ** [ 5h ]
+** Summary **
+Dudkan shows [ Jh, Qc ]
+lobie29 shows [ Qs, Qd ]
+lobie29 collected [ $2,379 ]
+
+
+
+#Game No : 646398350
+***** 888poker Hand History for Game 646398350 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:22:07
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Aleks777.by ( $537 )
+Seat 2: PapaShango19 ( $1,425 )
+Seat 3: Dudkan ( $498 )
+Seat 6: lobie29 ( $2,379 )
+Seat 7: S1n1y32rus ( $1,450 )
+Seat 8: whu62 ( $1,190 )
+Seat 10: ma3cs ( $870 )
+whu62 posts small blind [$50]
+ma3cs posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9c, 2h ]
+Aleks777.by folds
+PapaShango19 folds
+Dudkan raises [$498]
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs calls [$398]
+** Dealing flop ** [ 4h, Qd, 4c ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ As ]
+** Summary **
+Dudkan shows [ Kc, 6h ]
+ma3cs shows [ Jh, Qc ]
+ma3cs collected [ $1,046 ]
+
+
+
+#Game No : 646398471
+***** 888poker Hand History for Game 646398471 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:22:38
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 1: Aleks777.by ( $537 )
+Seat 2: PapaShango19 ( $1,425 )
+Seat 6: lobie29 ( $2,379 )
+Seat 7: S1n1y32rus ( $1,450 )
+Seat 8: whu62 ( $1,140 )
+Seat 10: ma3cs ( $1,418 )
+ma3cs posts small blind [$50]
+Aleks777.by posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 8d ]
+PapaShango19 folds
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs raises [$150]
+Aleks777.by folds
+** Summary **
+ma3cs did not show his hand
+ma3cs collected [ $200 ]
+
+
+
+#Game No : 646398532
+***** 888poker Hand History for Game 646398532 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:22:55
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: Aleks777.by ( $437 )
+Seat 2: PapaShango19 ( $1,425 )
+Seat 6: lobie29 ( $2,379 )
+Seat 7: S1n1y32rus ( $1,450 )
+Seat 8: whu62 ( $1,140 )
+Seat 10: ma3cs ( $1,518 )
+Aleks777.by posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 6h ]
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ 2s, Td, Jh ]
+Aleks777.by checks
+PapaShango19 checks
+** Dealing turn ** [ Ks ]
+Aleks777.by checks
+PapaShango19 bets [$100]
+Aleks777.by folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $200 ]
+
+
+
+#Game No : 646398886
+***** 888poker Hand History for Game 646398886 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:24:20
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Aleks777.by ( $337 )
+Seat 2: PapaShango19 ( $1,525 )
+Seat 6: lobie29 ( $2,379 )
+Seat 7: S1n1y32rus ( $1,450 )
+Seat 8: whu62 ( $1,140 )
+Seat 10: ma3cs ( $1,518 )
+PapaShango19 posts small blind [$50]
+lobie29 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Js, 3h ]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $150 ]
+
+
+
+#Game No : 646398953
+***** 888poker Hand History for Game 646398953 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:24:39
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Aleks777.by ( $337 )
+Seat 2: PapaShango19 ( $1,475 )
+Seat 6: lobie29 ( $2,429 )
+Seat 7: S1n1y32rus ( $1,450 )
+Seat 8: whu62 ( $1,140 )
+Seat 10: ma3cs ( $1,518 )
+lobie29 posts small blind [$50]
+S1n1y32rus posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 7s ]
+whu62 folds
+ma3cs folds
+Aleks777.by folds
+PapaShango19 folds
+lobie29 calls [$50]
+S1n1y32rus checks
+** Dealing flop ** [ Jd, Qc, Qs ]
+lobie29 checks
+S1n1y32rus checks
+** Dealing turn ** [ 7h ]
+lobie29 checks
+S1n1y32rus checks
+** Dealing river ** [ Ah ]
+lobie29 bets [$200]
+S1n1y32rus calls [$200]
+** Summary **
+lobie29 shows [ Jc, Ad ]
+S1n1y32rus shows [ Ac, 4d ]
+lobie29 collected [ $300 ]
+S1n1y32rus collected [ $300 ]
+
+
+
+#Game No : 646399259
+***** 888poker Hand History for Game 646399259 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:25:58
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Aleks777.by ( $337 )
+Seat 2: PapaShango19 ( $1,475 )
+Seat 6: lobie29 ( $2,429 )
+Seat 7: S1n1y32rus ( $1,450 )
+Seat 8: whu62 ( $1,140 )
+Seat 10: ma3cs ( $1,518 )
+S1n1y32rus posts small blind [$50]
+whu62 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 7c ]
+ma3cs folds
+Aleks777.by raises [$337]
+PapaShango19 folds
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+** Summary **
+Aleks777.by did not show his hand
+Aleks777.by collected [ $250 ]
+
+
+
+#Game No : 646399399
+***** 888poker Hand History for Game 646399399 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:26:30
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Aleks777.by ( $487 )
+Seat 2: PapaShango19 ( $1,475 )
+Seat 6: lobie29 ( $2,429 )
+Seat 7: S1n1y32rus ( $1,400 )
+Seat 8: whu62 ( $1,040 )
+Seat 10: ma3cs ( $1,518 )
+whu62 posts small blind [$50]
+ma3cs posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 5s ]
+Aleks777.by folds
+PapaShango19 folds
+lobie29 calls [$100]
+S1n1y32rus folds
+whu62 calls [$50]
+ma3cs raises [$1,418]
+lobie29 folds
+whu62 folds
+** Summary **
+ma3cs collected [ $300 ]
+
+
+
+#Game No : 646399590
+***** 888poker Hand History for Game 646399590 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:27:12
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: Aleks777.by ( $487 )
+Seat 2: PapaShango19 ( $1,475 )
+Seat 3: Aladin265 ( $3,789 )
+Seat 5: Lululiu ( $2,680 )
+Seat 6: lobie29 ( $2,329 )
+Seat 7: S1n1y32rus ( $1,400 )
+Seat 8: whu62 ( $940 )
+Seat 10: ma3cs ( $1,718 )
+ma3cs posts small blind [$50]
+Aleks777.by posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 4s ]
+PapaShango19 folds
+Aladin265 folds
+Lululiu folds
+lobie29 calls [$100]
+S1n1y32rus folds
+whu62 raises [$940]
+ma3cs folds
+Aleks777.by calls [$387]
+lobie29 folds
+** Dealing flop ** [ 6d, 7c, Jh ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 3c ]
+** Summary **
+Aleks777.by shows [ Kh, Ac ]
+whu62 shows [ Js, As ]
+whu62 collected [ $1,124 ]
+
+
+
+#Game No : 646399833
+***** 888poker Hand History for Game 646399833 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 10:28:12
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,475 )
+Seat 3: Aladin265 ( $3,789 )
+Seat 5: Lululiu ( $2,680 )
+Seat 6: lobie29 ( $2,229 )
+Seat 7: S1n1y32rus ( $1,400 )
+Seat 8: whu62 ( $1,577 )
+Seat 10: ma3cs ( $1,668 )
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 4h ]
+Aladin265 folds
+Lululiu calls [$100]
+lobie29 calls [$100]
+S1n1y32rus folds
+whu62 calls [$100]
+ma3cs folds
+PapaShango19 checks
+** Dealing flop ** [ 8c, 8h, 9s ]
+PapaShango19 checks
+Lululiu checks
+lobie29 bets [$250]
+whu62 folds
+PapaShango19 folds
+Lululiu calls [$250]
+** Dealing turn ** [ 5c ]
+Lululiu checks
+lobie29 bets [$500]
+Lululiu calls [$500]
+** Dealing river ** [ 9c ]
+Lululiu checks
+lobie29 bets [$100]
+Lululiu calls [$100]
+** Summary **
+lobie29 shows [ Qh, Jc ]
+Lululiu shows [ 8d, Tc ]
+Lululiu collected [ $2,100 ]
+
+
+
+#Game No : 646400296
+***** 888poker Hand History for Game 646400296 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:29:59
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,375 )
+Seat 3: Aladin265 ( $3,789 )
+Seat 5: Lululiu ( $3,830 )
+Seat 6: lobie29 ( $1,279 )
+Seat 7: S1n1y32rus ( $1,400 )
+Seat 8: whu62 ( $1,477 )
+Seat 10: ma3cs ( $1,668 )
+PapaShango19 posts small blind [$75]
+Aladin265 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 7d ]
+Lululiu folds
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs raises [$1,668]
+PapaShango19 folds
+Aladin265 folds
+** Summary **
+ma3cs did not show his hand
+ma3cs collected [ $375 ]
+
+
+
+#Game No : 646400387
+***** 888poker Hand History for Game 646400387 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:30:24
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,300 )
+Seat 3: Aladin265 ( $3,639 )
+Seat 5: Lululiu ( $3,830 )
+Seat 6: lobie29 ( $1,279 )
+Seat 7: S1n1y32rus ( $1,400 )
+Seat 8: whu62 ( $1,477 )
+Seat 10: ma3cs ( $1,893 )
+Aladin265 posts small blind [$75]
+Lululiu posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, 3h ]
+lobie29 folds
+S1n1y32rus folds
+whu62 folds
+ma3cs raises [$300]
+PapaShango19 folds
+Aladin265 folds
+Lululiu calls [$150]
+** Dealing flop ** [ 4s, Ts, 4h ]
+Lululiu checks
+ma3cs bets [$300]
+Lululiu folds
+** Summary **
+ma3cs did not show his hand
+ma3cs collected [ $675 ]
+
+
+
+#Game No : 646400522
+***** 888poker Hand History for Game 646400522 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:31:04
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,300 )
+Seat 3: Aladin265 ( $3,564 )
+Seat 5: Lululiu ( $3,530 )
+Seat 6: lobie29 ( $1,279 )
+Seat 7: S1n1y32rus ( $1,400 )
+Seat 8: whu62 ( $1,477 )
+Seat 10: ma3cs ( $2,268 )
+Lululiu posts small blind [$75]
+lobie29 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, 3c ]
+S1n1y32rus raises [$350]
+whu62 calls [$350]
+ma3cs folds
+PapaShango19 folds
+Aladin265 folds
+Lululiu folds
+lobie29 calls [$200]
+** Dealing flop ** [ 8c, Tc, Th ]
+lobie29 checks
+S1n1y32rus bets [$475]
+whu62 folds
+lobie29 folds
+** Summary **
+S1n1y32rus did not show his hand
+S1n1y32rus collected [ $1,125 ]
+
+
+
+#Game No : 646400736
+***** 888poker Hand History for Game 646400736 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:31:59
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,300 )
+Seat 3: Aladin265 ( $3,564 )
+Seat 5: Lululiu ( $3,455 )
+Seat 6: lobie29 ( $929 )
+Seat 7: S1n1y32rus ( $2,175 )
+Seat 8: whu62 ( $1,127 )
+Seat 10: ma3cs ( $2,268 )
+lobie29 posts small blind [$75]
+S1n1y32rus posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2d, 4s ]
+whu62 calls [$150]
+ma3cs folds
+PapaShango19 folds
+Aladin265 folds
+Lululiu calls [$150]
+lobie29 calls [$75]
+S1n1y32rus checks
+** Dealing flop ** [ 3h, 8d, 6s ]
+lobie29 bets [$400]
+S1n1y32rus folds
+whu62 folds
+Lululiu folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $600 ]
+
+
+
+#Game No : 646400984
+***** 888poker Hand History for Game 646400984 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:32:51
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,300 )
+Seat 3: Aladin265 ( $3,564 )
+Seat 5: Lululiu ( $3,305 )
+Seat 6: lobie29 ( $1,379 )
+Seat 7: S1n1y32rus ( $2,025 )
+Seat 8: whu62 ( $977 )
+Seat 10: ma3cs ( $2,268 )
+S1n1y32rus posts small blind [$75]
+whu62 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ As, 2s ]
+ma3cs folds
+PapaShango19 folds
+Aladin265 folds
+Lululiu folds
+lobie29 raises [$300]
+S1n1y32rus folds
+whu62 folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $375 ]
+
+
+
+#Game No : 646401124
+***** 888poker Hand History for Game 646401124 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:33:22
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,300 )
+Seat 3: Aladin265 ( $3,564 )
+Seat 5: Lululiu ( $3,305 )
+Seat 6: lobie29 ( $1,604 )
+Seat 7: S1n1y32rus ( $1,950 )
+Seat 8: whu62 ( $827 )
+Seat 10: ma3cs ( $2,268 )
+whu62 posts small blind [$75]
+ma3cs posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 6d ]
+PapaShango19 folds
+Aladin265 folds
+Lululiu folds
+lobie29 folds
+S1n1y32rus folds
+whu62 raises [$225]
+ma3cs folds
+** Summary **
+whu62 did not show his hand
+whu62 collected [ $300 ]
+
+
+
+#Game No : 646401229
+***** 888poker Hand History for Game 646401229 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:33:46
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,300 )
+Seat 3: Aladin265 ( $3,564 )
+Seat 5: Lululiu ( $3,305 )
+Seat 6: lobie29 ( $1,604 )
+Seat 7: S1n1y32rus ( $1,950 )
+Seat 8: whu62 ( $977 )
+Seat 10: ma3cs ( $2,118 )
+ma3cs posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 4h ]
+Aladin265 folds
+Lululiu folds
+lobie29 raises [$300]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+PapaShango19 folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $375 ]
+
+
+
+#Game No : 646401381
+***** 888poker Hand History for Game 646401381 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:34:25
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,150 )
+Seat 3: Aladin265 ( $3,564 )
+Seat 5: Lululiu ( $3,305 )
+Seat 6: lobie29 ( $1,829 )
+Seat 7: S1n1y32rus ( $1,950 )
+Seat 8: whu62 ( $977 )
+Seat 10: ma3cs ( $2,043 )
+PapaShango19 posts small blind [$75]
+Aladin265 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6h, 3d ]
+Lululiu folds
+lobie29 folds
+S1n1y32rus folds
+whu62 calls [$150]
+ma3cs folds
+PapaShango19 folds
+Aladin265 checks
+** Dealing flop ** [ 8c, 2c, 5h ]
+Aladin265 bets [$150]
+whu62 calls [$150]
+** Dealing turn ** [ Qd ]
+Aladin265 bets [$300]
+whu62 folds
+** Summary **
+Aladin265 did not show his hand
+Aladin265 collected [ $675 ]
+
+
+
+#Game No : 646401596
+***** 888poker Hand History for Game 646401596 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 10:35:18
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,075 )
+Seat 3: Aladin265 ( $3,939 )
+Seat 5: Lululiu ( $3,305 )
+Seat 6: lobie29 ( $1,829 )
+Seat 7: S1n1y32rus ( $1,950 )
+Seat 8: whu62 ( $677 )
+Seat 10: ma3cs ( $2,043 )
+Aladin265 posts small blind [$75]
+Lululiu posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, 2d ]
+lobie29 calls [$150]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+PapaShango19 folds
+Aladin265 calls [$75]
+Lululiu checks
+** Dealing flop ** [ 5h, 9d, Tc ]
+Aladin265 checks
+Lululiu checks
+lobie29 bets [$150]
+Aladin265 raises [$300]
+Lululiu folds
+lobie29 calls [$150]
+** Dealing turn ** [ 7h ]
+Aladin265 bets [$300]
+lobie29 calls [$300]
+** Dealing river ** [ 8d ]
+Aladin265 bets [$600]
+lobie29 calls [$600]
+** Summary **
+Aladin265 shows [ Jd, 6s ]
+lobie29 mucks [ 8c, Ac ]
+Aladin265 collected [ $2,850 ]
+
+
+
+#Game No : 646402042
+***** 888poker Hand History for Game 646402042 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:36:59
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,075 )
+Seat 3: Aladin265 ( $5,439 )
+Seat 5: Lululiu ( $3,155 )
+Seat 6: lobie29 ( $479 )
+Seat 7: S1n1y32rus ( $1,950 )
+Seat 8: whu62 ( $677 )
+Seat 10: ma3cs ( $2,043 )
+Lululiu posts small blind [$100]
+lobie29 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6c ]
+S1n1y32rus folds
+whu62 folds
+ma3cs folds
+PapaShango19 folds
+Aladin265 folds
+Lululiu calls [$100]
+lobie29 raises [$200]
+Lululiu calls [$200]
+** Dealing flop ** [ Jc, Kc, 3s ]
+Lululiu bets [$200]
+lobie29 calls [$79]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 4s ]
+** Summary **
+Lululiu shows [ 8c, 9c ]
+lobie29 shows [ Ad, 9s ]
+lobie29 collected [ $958 ]
+
+
+
+#Game No : 646402224
+***** 888poker Hand History for Game 646402224 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:37:43
+Tournament #63830420 $0.90 + $0.10 - Table #3 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: PapaShango19 ( $1,075 )
+Seat 3: Aladin265 ( $5,439 )
+Seat 5: Lululiu ( $2,676 )
+Seat 6: lobie29 ( $958 )
+Seat 7: S1n1y32rus ( $1,950 )
+Seat 8: whu62 ( $677 )
+Seat 10: ma3cs ( $2,043 )
+lobie29 posts small blind [$100]
+S1n1y32rus posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Kd ]
+whu62 folds
+ma3cs folds
+PapaShango19 folds
+Aladin265 folds
+Lululiu folds
+lobie29 raises [$450]
+S1n1y32rus folds
+** Summary **
+lobie29 did not show his hand
+lobie29 collected [ $400 ]
+
+
+
+#Game No : 646402545
+***** 888poker Hand History for Game 646402545 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:38:59
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1:  ( $1,548 )
+Seat 3:  ( $2,837 )
+Seat 5:  ( $1,991 )
+Seat 6:  ( $1,075 )
+Seat 7:  ( $4,834 )
+Seat 10:  ( $3,302 )
+ posts big blind [$200]
+** Dealing down cards **
+Dealt to  [ 8d, 2d ]
+ folds
+ folds
+ folds
+ folds
+ folds
+** Summary **
+ did not show his hand
+ collected [ $200 ]
+
+
+
+#Game No : 646402609
+***** 888poker Hand History for Game 646402609 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:39:14
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: midnightrta ( $1,548 )
+Seat 3: ivan_0708 ( $2,837 )
+Seat 5: 13Julijan13 ( $1,991 )
+Seat 6: PapaShango19 ( $1,075 )
+Seat 7: randysingh ( $4,834 )
+Seat 10: dartking1 ( $3,302 )
+ivan_0708 posts small blind [$100]
+13Julijan13 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 6h ]
+PapaShango19 folds
+randysingh raises [$600]
+dartking1 folds
+midnightrta folds
+ivan_0708 folds
+13Julijan13 folds
+** Summary **
+randysingh did not show his hand
+randysingh collected [ $500 ]
+
+
+
+#Game No : 646402839
+***** 888poker Hand History for Game 646402839 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:39:46
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: midnightrta ( $1,548 )
+Seat 3: ivan_0708 ( $2,737 )
+Seat 5: 13Julijan13 ( $1,791 )
+Seat 6: PapaShango19 ( $1,075 )
+Seat 7: randysingh ( $5,134 )
+Seat 10: dartking1 ( $3,302 )
+13Julijan13 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 2d ]
+randysingh folds
+dartking1 folds
+midnightrta raises [$400]
+ivan_0708 folds
+13Julijan13 folds
+PapaShango19 folds
+** Summary **
+midnightrta did not show his hand
+midnightrta collected [ $500 ]
+
+
+
+#Game No : 646402954
+***** 888poker Hand History for Game 646402954 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:40:15
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: midnightrta ( $1,848 )
+Seat 2: led9_led9 ( $2,134 )
+Seat 3: ivan_0708 ( $2,737 )
+Seat 5: 13Julijan13 ( $1,691 )
+Seat 6: PapaShango19 ( $875 )
+Seat 7: randysingh ( $5,134 )
+Seat 8: Nikolasbgd ( $2,265 )
+Seat 10: dartking1 ( $3,302 )
+PapaShango19 posts small blind [$100]
+randysingh posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 7c ]
+Nikolasbgd folds
+dartking1 calls [$200]
+midnightrta folds
+led9_led9 folds
+ivan_0708 folds
+13Julijan13 folds
+PapaShango19 folds
+randysingh checks
+** Dealing flop ** [ 2d, 8s, 8d ]
+randysingh checks
+dartking1 bets [$200]
+randysingh calls [$200]
+** Dealing turn ** [ 8c ]
+randysingh checks
+dartking1 bets [$200]
+randysingh folds
+** Summary **
+dartking1 did not show his hand
+dartking1 collected [ $900 ]
+
+
+
+#Game No : 646403112
+***** 888poker Hand History for Game 646403112 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:40:52
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: midnightrta ( $1,848 )
+Seat 2: led9_led9 ( $2,134 )
+Seat 3: ivan_0708 ( $2,737 )
+Seat 5: 13Julijan13 ( $1,691 )
+Seat 6: PapaShango19 ( $775 )
+Seat 7: randysingh ( $4,734 )
+Seat 8: Nikolasbgd ( $2,265 )
+Seat 10: dartking1 ( $3,802 )
+randysingh posts small blind [$100]
+Nikolasbgd posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 6s ]
+dartking1 folds
+midnightrta folds
+led9_led9 calls [$200]
+ivan_0708 folds
+13Julijan13 folds
+PapaShango19 folds
+randysingh folds
+Nikolasbgd checks
+** Dealing flop ** [ Js, 8c, Qh ]
+Nikolasbgd checks
+led9_led9 checks
+** Dealing turn ** [ Ts ]
+Nikolasbgd bets [$200]
+led9_led9 calls [$200]
+** Dealing river ** [ 9h ]
+Nikolasbgd bets [$1,865]
+led9_led9 folds
+** Summary **
+Nikolasbgd did not show his hand
+Nikolasbgd collected [ $900 ]
+
+
+
+#Game No : 646403321
+***** 888poker Hand History for Game 646403321 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:41:45
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: midnightrta ( $1,848 )
+Seat 2: led9_led9 ( $1,734 )
+Seat 3: ivan_0708 ( $2,737 )
+Seat 5: 13Julijan13 ( $1,691 )
+Seat 6: PapaShango19 ( $775 )
+Seat 7: randysingh ( $4,634 )
+Seat 8: Nikolasbgd ( $2,765 )
+Seat 10: dartking1 ( $3,802 )
+Nikolasbgd posts small blind [$100]
+dartking1 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 9h ]
+midnightrta folds
+led9_led9 calls [$200]
+ivan_0708 folds
+13Julijan13 folds
+PapaShango19 folds
+randysingh folds
+Nikolasbgd folds
+dartking1 checks
+** Dealing flop ** [ Qc, 3h, 6s ]
+dartking1 checks
+led9_led9 checks
+** Dealing turn ** [ Kh ]
+dartking1 checks
+led9_led9 checks
+** Dealing river ** [ 9c ]
+dartking1 checks
+led9_led9 checks
+** Summary **
+dartking1 shows [ Ac, 4h ]
+led9_led9 shows [ Ts, Tc ]
+led9_led9 collected [ $500 ]
+
+
+
+#Game No : 646403559
+***** 888poker Hand History for Game 646403559 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:42:38
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: midnightrta ( $1,848 )
+Seat 2: led9_led9 ( $2,034 )
+Seat 3: ivan_0708 ( $2,737 )
+Seat 5: 13Julijan13 ( $1,691 )
+Seat 6: PapaShango19 ( $775 )
+Seat 7: randysingh ( $4,634 )
+Seat 8: Nikolasbgd ( $2,665 )
+Seat 10: dartking1 ( $3,602 )
+dartking1 posts small blind [$100]
+midnightrta posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 7h ]
+led9_led9 folds
+ivan_0708 folds
+13Julijan13 folds
+PapaShango19 folds
+randysingh raises [$600]
+Nikolasbgd folds
+dartking1 folds
+midnightrta folds
+** Summary **
+randysingh did not show his hand
+randysingh collected [ $500 ]
+
+
+
+#Game No : 646403694
+***** 888poker Hand History for Game 646403694 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:43:12
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: midnightrta ( $1,648 )
+Seat 2: led9_led9 ( $2,034 )
+Seat 3: ivan_0708 ( $2,737 )
+Seat 5: 13Julijan13 ( $1,691 )
+Seat 6: PapaShango19 ( $775 )
+Seat 7: randysingh ( $4,934 )
+Seat 8: Nikolasbgd ( $2,665 )
+Seat 10: dartking1 ( $3,502 )
+13Julijan13 posts ante [$30]
+midnightrta posts ante [$30]
+ivan_0708 posts ante [$30]
+dartking1 posts ante [$30]
+randysingh posts ante [$30]
+PapaShango19 posts ante [$30]
+led9_led9 posts ante [$30]
+Nikolasbgd posts ante [$30]
+midnightrta posts small blind [$100]
+led9_led9 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 4d ]
+ivan_0708 folds
+13Julijan13 folds
+PapaShango19 folds
+randysingh folds
+Nikolasbgd folds
+dartking1 folds
+midnightrta raises [$300]
+led9_led9 calls [$200]
+** Dealing flop ** [ 5h, Td, 8h ]
+midnightrta bets [$200]
+led9_led9 folds
+** Summary **
+midnightrta did not show his hand
+midnightrta collected [ $1,040 ]
+
+
+
+#Game No : 646403853
+***** 888poker Hand History for Game 646403853 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:43:45
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: midnightrta ( $2,258 )
+Seat 2: led9_led9 ( $1,604 )
+Seat 3: ivan_0708 ( $2,707 )
+Seat 5: 13Julijan13 ( $1,661 )
+Seat 6: PapaShango19 ( $745 )
+Seat 7: randysingh ( $4,904 )
+Seat 8: Nikolasbgd ( $2,635 )
+Seat 10: dartking1 ( $3,472 )
+13Julijan13 posts ante [$30]
+midnightrta posts ante [$30]
+ivan_0708 posts ante [$30]
+dartking1 posts ante [$30]
+randysingh posts ante [$30]
+PapaShango19 posts ante [$30]
+led9_led9 posts ante [$30]
+Nikolasbgd posts ante [$30]
+led9_led9 posts small blind [$100]
+ivan_0708 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, Jc ]
+13Julijan13 folds
+PapaShango19 folds
+randysingh folds
+Nikolasbgd folds
+dartking1 calls [$200]
+midnightrta raises [$400]
+led9_led9 folds
+ivan_0708 folds
+dartking1 calls [$200]
+** Dealing flop ** [ Ac, 4d, Qs ]
+dartking1 checks
+midnightrta bets [$200]
+dartking1 folds
+** Summary **
+midnightrta did not show his hand
+midnightrta collected [ $1,340 ]
+
+
+
+#Game No : 646404179
+***** 888poker Hand History for Game 646404179 *****
+$100/$200 Blinds No Limit Holdem - *** 25 11 2014 10:44:48
+Tournament #63830420 $0.90 + $0.10 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: midnightrta ( $3,168 )
+Seat 2: led9_led9 ( $1,474 )
+Seat 3: ivan_0708 ( $2,477 )
+Seat 6: PapaShango19 ( $715 )
+Seat 7: randysingh ( $4,874 )
+Seat 8: Nikolasbgd ( $2,605 )
+Seat 10: dartking1 ( $3,042 )
+midnightrta posts ante [$30]
+ivan_0708 posts ante [$30]
+dartking1 posts ante [$30]
+randysingh posts ante [$30]
+PapaShango19 posts ante [$30]
+led9_led9 posts ante [$30]
+Nikolasbgd posts ante [$30]
+ivan_0708 posts small blind [$100]
+PapaShango19 posts big blind [$200]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, Kd ]
+randysingh folds
+Nikolasbgd folds
+dartking1 calls [$200]
+midnightrta folds
+led9_led9 folds
+ivan_0708 folds
+PapaShango19 raises [$485]
+dartking1 calls [$485]
+** Dealing flop ** [ Qc, Ac, 9c ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Qh ]
+** Summary **
+PapaShango19 shows [ 9h, Kd ]
+dartking1 shows [ Qd, 8d ]
+dartking1 collected [ $1,680 ]
+
+
+

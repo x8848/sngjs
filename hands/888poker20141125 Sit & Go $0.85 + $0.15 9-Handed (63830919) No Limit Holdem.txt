@@ -1,0 +1,1740 @@
+#Game No : 646403025
+***** 888poker Hand History for Game 646403025 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:40:31
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Arthurian666 ( $1,500 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: desertjaxx ( $1,500 )
+Seat 4: ada_e ( $1,500 )
+Seat 5: BNVUS ( $1,500 )
+Seat 6: ulezatanje ( $1,500 )
+Seat 7: Onatole111 ( $1,500 )
+Seat 9: AldarHusein ( $1,500 )
+Seat 10: nintendo888 ( $1,500 )
+Onatole111 posts small blind [$10]
+AldarHusein posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 9d ]
+nintendo888 folds
+Arthurian666 calls [$20]
+PapaShango19 folds
+desertjaxx folds
+ada_e folds
+BNVUS folds
+ulezatanje calls [$20]
+Onatole111 folds
+AldarHusein checks
+** Dealing flop ** [ Td, As, 2h ]
+AldarHusein checks
+Arthurian666 bets [$20]
+ulezatanje folds
+AldarHusein folds
+** Summary **
+Arthurian666 did not show his hand
+Arthurian666 collected [ $70 ]
+
+
+
+#Game No : 646403355
+***** 888poker Hand History for Game 646403355 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:41:51
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Arthurian666 ( $1,550 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: desertjaxx ( $1,500 )
+Seat 4: ada_e ( $1,500 )
+Seat 5: BNVUS ( $1,500 )
+Seat 6: ulezatanje ( $1,480 )
+Seat 7: Onatole111 ( $1,490 )
+Seat 9: AldarHusein ( $1,480 )
+Seat 10: nintendo888 ( $1,500 )
+AldarHusein posts small blind [$10]
+nintendo888 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, As ]
+Arthurian666 calls [$20]
+PapaShango19 folds
+desertjaxx calls [$20]
+ada_e folds
+BNVUS raises [$60]
+ulezatanje folds
+Onatole111 folds
+AldarHusein calls [$50]
+nintendo888 folds
+Arthurian666 calls [$40]
+desertjaxx calls [$40]
+** Dealing flop ** [ 4c, 2h, 5d ]
+AldarHusein checks
+Arthurian666 checks
+desertjaxx checks
+BNVUS bets [$260]
+AldarHusein folds
+Arthurian666 folds
+desertjaxx folds
+** Summary **
+BNVUS did not show his hand
+BNVUS collected [ $260 ]
+
+
+
+#Game No : 646403597
+***** 888poker Hand History for Game 646403597 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:42:48
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Arthurian666 ( $1,490 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: desertjaxx ( $1,440 )
+Seat 4: ada_e ( $1,500 )
+Seat 5: BNVUS ( $1,700 )
+Seat 6: ulezatanje ( $1,480 )
+Seat 7: Onatole111 ( $1,490 )
+Seat 9: AldarHusein ( $1,420 )
+Seat 10: nintendo888 ( $1,480 )
+nintendo888 posts small blind [$10]
+Arthurian666 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, 3d ]
+PapaShango19 folds
+desertjaxx raises [$80]
+ada_e calls [$80]
+BNVUS folds
+ulezatanje raises [$140]
+Onatole111 folds
+AldarHusein folds
+nintendo888 folds
+Arthurian666 folds
+desertjaxx calls [$60]
+ada_e calls [$60]
+** Dealing flop ** [ 8d, Qd, Th ]
+desertjaxx checks
+ada_e checks
+ulezatanje bets [$225]
+desertjaxx calls [$225]
+ada_e calls [$225]
+** Dealing turn ** [ 3h ]
+desertjaxx checks
+ada_e checks
+ulezatanje bets [$1,115]
+desertjaxx calls [$1,075]
+ada_e folds
+** Dealing river ** [ 5d ]
+** Summary **
+desertjaxx shows [ Jh, Jd ]
+ulezatanje shows [ Qs, Qh ]
+ulezatanje collected [ $3,275 ]
+
+
+
+#Game No : 646404230
+***** 888poker Hand History for Game 646404230 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:44:58
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,470 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 4: ada_e ( $1,135 )
+Seat 5: BNVUS ( $1,700 )
+Seat 6: ulezatanje ( $3,315 )
+Seat 7: Onatole111 ( $1,490 )
+Seat 9: AldarHusein ( $1,420 )
+Seat 10: nintendo888 ( $1,470 )
+Arthurian666 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 4s ]
+ada_e folds
+BNVUS raises [$80]
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+nintendo888 calls [$80]
+Arthurian666 folds
+PapaShango19 folds
+** Dealing flop ** [ 9c, Kc, Th ]
+BNVUS checks
+nintendo888 checks
+** Dealing turn ** [ Qc ]
+BNVUS checks
+nintendo888 checks
+** Dealing river ** [ 3s ]
+BNVUS bets [$142]
+nintendo888 calls [$142]
+** Summary **
+BNVUS shows [ As, Js ]
+nintendo888 mucks [ 8d, Qd ]
+BNVUS collected [ $474 ]
+
+
+
+#Game No : 646404611
+***** 888poker Hand History for Game 646404611 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:46:11
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,460 )
+Seat 2: PapaShango19 ( $1,480 )
+Seat 4: ada_e ( $1,135 )
+Seat 5: BNVUS ( $1,952 )
+Seat 6: ulezatanje ( $3,315 )
+Seat 7: Onatole111 ( $1,490 )
+Seat 9: AldarHusein ( $1,420 )
+Seat 10: nintendo888 ( $1,248 )
+PapaShango19 posts small blind [$10]
+ada_e posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, Td ]
+BNVUS folds
+ulezatanje folds
+Onatole111 folds
+AldarHusein calls [$20]
+nintendo888 folds
+Arthurian666 folds
+PapaShango19 calls [$10]
+ada_e checks
+** Dealing flop ** [ 2h, 6h, 9s ]
+PapaShango19 checks
+ada_e checks
+AldarHusein checks
+** Dealing turn ** [ 7d ]
+PapaShango19 bets [$60]
+ada_e folds
+AldarHusein calls [$60]
+** Dealing river ** [ Qd ]
+PapaShango19 bets [$180]
+AldarHusein calls [$180]
+** Summary **
+PapaShango19 shows [ 8s, Td ]
+AldarHusein mucks [ Jc, 9c ]
+PapaShango19 collected [ $540 ]
+
+
+
+#Game No : 646404904
+***** 888poker Hand History for Game 646404904 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:47:19
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,460 )
+Seat 2: PapaShango19 ( $1,760 )
+Seat 4: ada_e ( $1,115 )
+Seat 5: BNVUS ( $1,952 )
+Seat 6: ulezatanje ( $3,315 )
+Seat 7: Onatole111 ( $1,490 )
+Seat 9: AldarHusein ( $1,160 )
+Seat 10: nintendo888 ( $1,248 )
+ada_e posts small blind [$10]
+BNVUS posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 5h ]
+ulezatanje folds
+Onatole111 folds
+AldarHusein calls [$20]
+nintendo888 folds
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS checks
+** Dealing flop ** [ 7d, Ad, Qh ]
+BNVUS checks
+AldarHusein checks
+** Dealing turn ** [ Kc ]
+BNVUS checks
+AldarHusein checks
+** Dealing river ** [ 2h ]
+BNVUS checks
+AldarHusein checks
+** Summary **
+BNVUS shows [ 6s, 7c ]
+AldarHusein mucks [ 9c, Th ]
+BNVUS collected [ $50 ]
+
+
+
+#Game No : 646405067
+***** 888poker Hand History for Game 646405067 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 10:47:58
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,460 )
+Seat 2: PapaShango19 ( $1,760 )
+Seat 4: ada_e ( $1,105 )
+Seat 5: BNVUS ( $1,982 )
+Seat 6: ulezatanje ( $3,315 )
+Seat 7: Onatole111 ( $1,490 )
+Seat 9: AldarHusein ( $1,140 )
+Seat 10: nintendo888 ( $1,248 )
+BNVUS posts small blind [$10]
+ulezatanje posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 4d ]
+Onatole111 folds
+AldarHusein calls [$20]
+nintendo888 folds
+Arthurian666 calls [$20]
+PapaShango19 calls [$20]
+ada_e calls [$20]
+BNVUS calls [$10]
+ulezatanje checks
+** Dealing flop ** [ Kh, 3c, Tc ]
+BNVUS checks
+ulezatanje checks
+AldarHusein checks
+Arthurian666 bets [$20]
+PapaShango19 folds
+ada_e raises [$140]
+BNVUS calls [$140]
+ulezatanje folds
+AldarHusein calls [$140]
+Arthurian666 calls [$120]
+** Dealing turn ** [ 9c ]
+BNVUS checks
+AldarHusein checks
+Arthurian666 checks
+ada_e checks
+** Dealing river ** [ 6h ]
+BNVUS checks
+AldarHusein checks
+Arthurian666 checks
+ada_e checks
+** Summary **
+BNVUS shows [ Ac, Jc ]
+AldarHusein mucks [ 9h, Qs ]
+Arthurian666 mucks [ Ks, 5s ]
+ada_e mucks [ Kd, Qh ]
+BNVUS collected [ $680 ]
+
+
+
+#Game No : 646405720
+***** 888poker Hand History for Game 646405720 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:50:35
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,300 )
+Seat 2: PapaShango19 ( $1,740 )
+Seat 4: ada_e ( $945 )
+Seat 5: BNVUS ( $2,502 )
+Seat 6: ulezatanje ( $3,295 )
+Seat 7: Onatole111 ( $1,490 )
+Seat 9: AldarHusein ( $980 )
+Seat 10: nintendo888 ( $1,248 )
+ulezatanje posts small blind [$15]
+Onatole111 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 7d ]
+AldarHusein folds
+nintendo888 folds
+Arthurian666 calls [$30]
+PapaShango19 folds
+ada_e calls [$30]
+BNVUS folds
+ulezatanje calls [$15]
+Onatole111 checks
+** Dealing flop ** [ Js, Kd, Kc ]
+ulezatanje checks
+Onatole111 checks
+Arthurian666 checks
+ada_e bets [$90]
+ulezatanje raises [$180]
+Onatole111 folds
+Arthurian666 folds
+ada_e calls [$90]
+** Dealing turn ** [ 3s ]
+ulezatanje bets [$3,085]
+ada_e folds
+** Summary **
+ulezatanje did not show his hand
+ulezatanje collected [ $480 ]
+
+
+
+#Game No : 646405971
+***** 888poker Hand History for Game 646405971 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:51:45
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,270 )
+Seat 2: PapaShango19 ( $1,740 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,502 )
+Seat 6: ulezatanje ( $3,565 )
+Seat 7: Onatole111 ( $1,460 )
+Seat 9: AldarHusein ( $980 )
+Seat 10: nintendo888 ( $1,248 )
+Onatole111 posts small blind [$15]
+AldarHusein posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Ts ]
+nintendo888 calls [$30]
+Arthurian666 calls [$30]
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+ulezatanje calls [$30]
+Onatole111 folds
+AldarHusein checks
+** Dealing flop ** [ 8s, Td, 2d ]
+AldarHusein checks
+nintendo888 bets [$30]
+Arthurian666 calls [$30]
+ulezatanje folds
+AldarHusein folds
+** Dealing turn ** [ As ]
+nintendo888 checks
+Arthurian666 checks
+** Dealing river ** [ 9c ]
+nintendo888 checks
+Arthurian666 checks
+** Summary **
+nintendo888 shows [ Kc, 8c ]
+Arthurian666 mucks [ Js, Kh ]
+nintendo888 collected [ $195 ]
+
+
+
+#Game No : 646406150
+***** 888poker Hand History for Game 646406150 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:52:36
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,210 )
+Seat 2: PapaShango19 ( $1,740 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,502 )
+Seat 6: ulezatanje ( $3,535 )
+Seat 7: Onatole111 ( $1,445 )
+Seat 9: AldarHusein ( $950 )
+Seat 10: nintendo888 ( $1,383 )
+AldarHusein posts small blind [$15]
+nintendo888 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, 6s ]
+Arthurian666 calls [$30]
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$30]
+ulezatanje calls [$30]
+Onatole111 raises [$195]
+AldarHusein folds
+nintendo888 folds
+Arthurian666 folds
+BNVUS folds
+ulezatanje folds
+** Summary **
+Onatole111 did not show his hand
+Onatole111 collected [ $165 ]
+
+
+
+#Game No : 646406352
+***** 888poker Hand History for Game 646406352 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:53:42
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,180 )
+Seat 2: PapaShango19 ( $1,740 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,472 )
+Seat 6: ulezatanje ( $3,505 )
+Seat 7: Onatole111 ( $1,580 )
+Seat 9: AldarHusein ( $935 )
+Seat 10: nintendo888 ( $1,353 )
+nintendo888 posts small blind [$15]
+Arthurian666 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Qc ]
+PapaShango19 folds
+ada_e raises [$90]
+BNVUS calls [$90]
+ulezatanje folds
+Onatole111 folds
+AldarHusein calls [$90]
+nintendo888 folds
+Arthurian666 calls [$60]
+** Dealing flop ** [ Kd, 3c, 9d ]
+Arthurian666 checks
+ada_e checks
+BNVUS bets [$187]
+AldarHusein folds
+Arthurian666 folds
+ada_e folds
+** Summary **
+BNVUS did not show his hand
+BNVUS collected [ $375 ]
+
+
+
+#Game No : 646406554
+***** 888poker Hand History for Game 646406554 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:54:40
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,090 )
+Seat 2: PapaShango19 ( $1,740 )
+Seat 4: ada_e ( $645 )
+Seat 5: BNVUS ( $2,757 )
+Seat 6: ulezatanje ( $3,505 )
+Seat 7: Onatole111 ( $1,580 )
+Seat 9: AldarHusein ( $845 )
+Seat 10: nintendo888 ( $1,338 )
+Arthurian666 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5c ]
+ada_e calls [$30]
+BNVUS calls [$30]
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+nintendo888 folds
+Arthurian666 calls [$15]
+PapaShango19 checks
+** Dealing flop ** [ Ts, 6c, 3h ]
+Arthurian666 bets [$30]
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$30]
+** Dealing turn ** [ 3d ]
+Arthurian666 bets [$30]
+BNVUS calls [$30]
+** Dealing river ** [ 4h ]
+Arthurian666 bets [$240]
+BNVUS folds
+** Summary **
+Arthurian666 did not show his hand
+Arthurian666 collected [ $240 ]
+
+
+
+#Game No : 646406767
+***** 888poker Hand History for Game 646406767 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 10:55:38
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,240 )
+Seat 2: PapaShango19 ( $1,710 )
+Seat 4: ada_e ( $615 )
+Seat 5: BNVUS ( $2,667 )
+Seat 6: ulezatanje ( $3,505 )
+Seat 7: Onatole111 ( $1,580 )
+Seat 9: AldarHusein ( $845 )
+Seat 10: nintendo888 ( $1,338 )
+PapaShango19 posts small blind [$15]
+ada_e posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4h, Kh ]
+BNVUS folds
+ulezatanje folds
+Onatole111 folds
+AldarHusein calls [$30]
+nintendo888 raises [$135]
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+AldarHusein calls [$105]
+** Dealing flop ** [ Ts, 5s, Js ]
+AldarHusein checks
+nintendo888 checks
+** Dealing turn ** [ Qh ]
+AldarHusein bets [$30]
+nintendo888 raises [$405]
+AldarHusein raises [$680]
+nintendo888 calls [$305]
+** Dealing river ** [ Jc ]
+** Summary **
+AldarHusein shows [ 4s, 7s ]
+nintendo888 shows [ Kc, Ad ]
+AldarHusein collected [ $1,735 ]
+
+
+
+#Game No : 646406942
+***** 888poker Hand History for Game 646406942 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:56:39
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,240 )
+Seat 2: PapaShango19 ( $1,695 )
+Seat 4: ada_e ( $585 )
+Seat 5: BNVUS ( $2,667 )
+Seat 6: ulezatanje ( $3,505 )
+Seat 7: Onatole111 ( $1,580 )
+Seat 9: AldarHusein ( $1,735 )
+Seat 10: nintendo888 ( $493 )
+ada_e posts small blind [$25]
+BNVUS posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 3s ]
+ulezatanje calls [$50]
+Onatole111 folds
+AldarHusein calls [$50]
+nintendo888 calls [$50]
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS raises [$100]
+ulezatanje calls [$100]
+AldarHusein folds
+nintendo888 folds
+** Dealing flop ** [ Js, 6c, 9h ]
+BNVUS checks
+ulezatanje bets [$318]
+BNVUS calls [$318]
+** Dealing turn ** [ 6d ]
+BNVUS checks
+ulezatanje bets [$2,150]
+BNVUS folds
+** Summary **
+ulezatanje did not show his hand
+ulezatanje collected [ $1,061 ]
+
+
+
+#Game No : 646407161
+***** 888poker Hand History for Game 646407161 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:57:52
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,240 )
+Seat 2: PapaShango19 ( $1,695 )
+Seat 4: ada_e ( $560 )
+Seat 5: BNVUS ( $2,199 )
+Seat 6: ulezatanje ( $4,098 )
+Seat 7: Onatole111 ( $1,580 )
+Seat 9: AldarHusein ( $1,685 )
+Seat 10: nintendo888 ( $443 )
+BNVUS posts small blind [$25]
+ulezatanje posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, Qd ]
+Onatole111 folds
+AldarHusein folds
+nintendo888 folds
+Arthurian666 raises [$100]
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+ulezatanje folds
+** Summary **
+Arthurian666 did not show his hand
+Arthurian666 collected [ $125 ]
+
+
+
+#Game No : 646407214
+***** 888poker Hand History for Game 646407214 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:58:15
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,315 )
+Seat 2: PapaShango19 ( $1,695 )
+Seat 4: ada_e ( $560 )
+Seat 5: BNVUS ( $2,174 )
+Seat 6: ulezatanje ( $4,048 )
+Seat 7: Onatole111 ( $1,580 )
+Seat 9: AldarHusein ( $1,685 )
+Seat 10: nintendo888 ( $443 )
+ulezatanje posts small blind [$25]
+Onatole111 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 7s ]
+AldarHusein calls [$50]
+nintendo888 folds
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$50]
+ulezatanje calls [$25]
+Onatole111 checks
+** Dealing flop ** [ 5c, 6h, 3c ]
+ulezatanje checks
+Onatole111 checks
+AldarHusein checks
+BNVUS bets [$200]
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+** Summary **
+BNVUS did not show his hand
+BNVUS collected [ $200 ]
+
+
+
+#Game No : 646407415
+***** 888poker Hand History for Game 646407415 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 10:59:28
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,315 )
+Seat 2: PapaShango19 ( $1,695 )
+Seat 4: ada_e ( $560 )
+Seat 5: BNVUS ( $2,324 )
+Seat 6: ulezatanje ( $3,998 )
+Seat 7: Onatole111 ( $1,530 )
+Seat 9: AldarHusein ( $1,635 )
+Seat 10: nintendo888 ( $443 )
+Onatole111 posts small blind [$25]
+AldarHusein posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 3c ]
+nintendo888 folds
+Arthurian666 calls [$50]
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+ulezatanje calls [$50]
+Onatole111 folds
+AldarHusein checks
+** Dealing flop ** [ 2c, 6s, 7c ]
+AldarHusein checks
+Arthurian666 checks
+ulezatanje bets [$50]
+AldarHusein folds
+Arthurian666 calls [$50]
+** Dealing turn ** [ Ts ]
+Arthurian666 checks
+ulezatanje checks
+** Dealing river ** [ 9h ]
+Arthurian666 bets [$50]
+ulezatanje raises [$100]
+Arthurian666 folds
+** Summary **
+ulezatanje did not show his hand
+ulezatanje collected [ $375 ]
+
+
+
+#Game No : 646407695
+***** 888poker Hand History for Game 646407695 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 11:00:49
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,165 )
+Seat 2: PapaShango19 ( $1,695 )
+Seat 4: ada_e ( $560 )
+Seat 5: BNVUS ( $2,324 )
+Seat 6: ulezatanje ( $4,223 )
+Seat 7: Onatole111 ( $1,505 )
+Seat 9: AldarHusein ( $1,585 )
+Seat 10: nintendo888 ( $443 )
+AldarHusein posts small blind [$25]
+nintendo888 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9s, 2c ]
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$50]
+ulezatanje folds
+Onatole111 folds
+AldarHusein calls [$25]
+nintendo888 checks
+** Dealing flop ** [ Ah, Qc, 2d ]
+AldarHusein checks
+nintendo888 checks
+BNVUS checks
+** Dealing turn ** [ 9d ]
+AldarHusein checks
+nintendo888 checks
+BNVUS checks
+** Dealing river ** [ Td ]
+AldarHusein checks
+nintendo888 checks
+BNVUS checks
+** Summary **
+AldarHusein shows [ 8c, 7d ]
+nintendo888 shows [ Kd, 7c ]
+BNVUS shows [ Kc, 3d ]
+nintendo888 collected [ $75 ]
+BNVUS collected [ $75 ]
+
+
+
+#Game No : 646407967
+***** 888poker Hand History for Game 646407967 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 11:02:11
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Arthurian666 ( $1,165 )
+Seat 2: PapaShango19 ( $1,695 )
+Seat 4: ada_e ( $560 )
+Seat 5: BNVUS ( $2,349 )
+Seat 6: ulezatanje ( $4,223 )
+Seat 7: Onatole111 ( $1,505 )
+Seat 9: AldarHusein ( $1,535 )
+Seat 10: nintendo888 ( $468 )
+nintendo888 posts small blind [$25]
+Arthurian666 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 8d ]
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+ulezatanje folds
+Onatole111 folds
+AldarHusein calls [$50]
+nintendo888 raises [$443]
+Arthurian666 calls [$418]
+AldarHusein folds
+** Dealing flop ** [ Jc, 4s, 9c ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Kh ]
+** Summary **
+Arthurian666 shows [ Kc, Th ]
+nintendo888 shows [ 7d, Ac ]
+Arthurian666 collected [ $986 ]
+
+
+
+#Game No : 646408186
+***** 888poker Hand History for Game 646408186 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 11:03:06
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,683 )
+Seat 2: PapaShango19 ( $1,695 )
+Seat 4: ada_e ( $560 )
+Seat 5: BNVUS ( $2,349 )
+Seat 6: ulezatanje ( $4,223 )
+Seat 7: Onatole111 ( $1,505 )
+Seat 9: AldarHusein ( $1,485 )
+Arthurian666 posts small blind [$25]
+PapaShango19 posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Tc ]
+ada_e folds
+BNVUS folds
+ulezatanje calls [$50]
+Onatole111 folds
+AldarHusein folds
+Arthurian666 calls [$25]
+PapaShango19 checks
+** Dealing flop ** [ Ad, 8s, Ks ]
+Arthurian666 bets [$50]
+PapaShango19 raises [$100]
+ulezatanje raises [$150]
+Arthurian666 folds
+PapaShango19 calls [$50]
+** Dealing turn ** [ Qh ]
+PapaShango19 checks
+ulezatanje bets [$250]
+PapaShango19 folds
+** Summary **
+ulezatanje did not show his hand
+ulezatanje collected [ $500 ]
+
+
+
+#Game No : 646408430
+***** 888poker Hand History for Game 646408430 *****
+$25/$50 Blinds No Limit Holdem - *** 25 11 2014 11:04:05
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,583 )
+Seat 2: PapaShango19 ( $1,495 )
+Seat 4: ada_e ( $560 )
+Seat 5: BNVUS ( $2,349 )
+Seat 6: ulezatanje ( $4,523 )
+Seat 7: Onatole111 ( $1,505 )
+Seat 9: AldarHusein ( $1,485 )
+PapaShango19 posts small blind [$25]
+ada_e posts big blind [$50]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, Qh ]
+BNVUS folds
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+Arthurian666 calls [$50]
+PapaShango19 folds
+ada_e checks
+** Dealing flop ** [ 4s, 3h, 6h ]
+ada_e bets [$87]
+Arthurian666 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $125 ]
+
+
+
+#Game No : 646408536
+***** 888poker Hand History for Game 646408536 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:04:35
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,533 )
+Seat 2: PapaShango19 ( $1,470 )
+Seat 4: ada_e ( $635 )
+Seat 5: BNVUS ( $2,349 )
+Seat 6: ulezatanje ( $4,523 )
+Seat 7: Onatole111 ( $1,505 )
+Seat 9: AldarHusein ( $1,485 )
+ada_e posts small blind [$50]
+BNVUS posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 8s ]
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+Arthurian666 folds
+PapaShango19 folds
+ada_e raises [$585]
+BNVUS folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $200 ]
+
+
+
+#Game No : 646408715
+***** 888poker Hand History for Game 646408715 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:05:20
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,533 )
+Seat 2: PapaShango19 ( $1,470 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,249 )
+Seat 6: ulezatanje ( $4,523 )
+Seat 7: Onatole111 ( $1,505 )
+Seat 9: AldarHusein ( $1,485 )
+BNVUS posts small blind [$50]
+ulezatanje posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 5h ]
+Onatole111 folds
+AldarHusein folds
+Arthurian666 calls [$100]
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$50]
+ulezatanje raises [$100]
+Arthurian666 calls [$100]
+BNVUS calls [$100]
+** Dealing flop ** [ 5c, Qd, Js ]
+BNVUS checks
+ulezatanje checks
+Arthurian666 bets [$600]
+BNVUS folds
+ulezatanje folds
+** Summary **
+Arthurian666 did not show his hand
+Arthurian666 collected [ $600 ]
+
+
+
+#Game No : 646408869
+***** 888poker Hand History for Game 646408869 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:05:59
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,933 )
+Seat 2: PapaShango19 ( $1,470 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,049 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,505 )
+Seat 9: AldarHusein ( $1,485 )
+ulezatanje posts small blind [$50]
+Onatole111 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2c, As ]
+AldarHusein folds
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+ulezatanje calls [$50]
+Onatole111 checks
+** Dealing flop ** [ Ad, 5s, Kh ]
+ulezatanje bets [$100]
+Onatole111 folds
+** Summary **
+ulezatanje did not show his hand
+ulezatanje collected [ $200 ]
+
+
+
+#Game No : 646408976
+***** 888poker Hand History for Game 646408976 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:06:28
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,933 )
+Seat 2: PapaShango19 ( $1,470 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,049 )
+Seat 6: ulezatanje ( $4,423 )
+Seat 7: Onatole111 ( $1,405 )
+Seat 9: AldarHusein ( $1,485 )
+Onatole111 posts small blind [$50]
+AldarHusein posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9h, 2s ]
+Arthurian666 calls [$100]
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+ulezatanje calls [$100]
+Onatole111 folds
+AldarHusein raises [$1,385]
+Arthurian666 folds
+ulezatanje folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $350 ]
+
+
+
+#Game No : 646409097
+***** 888poker Hand History for Game 646409097 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:06:58
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,833 )
+Seat 2: PapaShango19 ( $1,470 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,049 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,355 )
+Seat 9: AldarHusein ( $1,735 )
+AldarHusein posts small blind [$50]
+Arthurian666 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5c, 5d ]
+PapaShango19 raises [$200]
+ada_e folds
+BNVUS calls [$200]
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+Arthurian666 calls [$100]
+** Dealing flop ** [ 4h, Qs, Ts ]
+Arthurian666 bets [$100]
+PapaShango19 folds
+BNVUS calls [$100]
+** Dealing turn ** [ 3c ]
+Arthurian666 checks
+BNVUS checks
+** Dealing river ** [ 3h ]
+Arthurian666 bets [$100]
+BNVUS calls [$100]
+** Summary **
+Arthurian666 shows [ Jh, 9d ]
+BNVUS shows [ Ad, 4c ]
+BNVUS collected [ $1,050 ]
+
+
+
+#Game No : 646409412
+***** 888poker Hand History for Game 646409412 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:08:10
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,433 )
+Seat 2: PapaShango19 ( $1,270 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,699 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,355 )
+Seat 9: AldarHusein ( $1,685 )
+Arthurian666 posts small blind [$50]
+PapaShango19 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7c, 3c ]
+ada_e folds
+BNVUS calls [$100]
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+Arthurian666 calls [$50]
+PapaShango19 checks
+** Dealing flop ** [ Qh, Kc, 5c ]
+Arthurian666 checks
+PapaShango19 checks
+BNVUS checks
+** Dealing turn ** [ Qd ]
+Arthurian666 bets [$100]
+PapaShango19 folds
+BNVUS calls [$100]
+** Dealing river ** [ 7h ]
+Arthurian666 bets [$250]
+BNVUS folds
+** Summary **
+Arthurian666 did not show his hand
+Arthurian666 collected [ $500 ]
+
+
+
+#Game No : 646409596
+***** 888poker Hand History for Game 646409596 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:08:58
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,733 )
+Seat 2: PapaShango19 ( $1,170 )
+Seat 4: ada_e ( $735 )
+Seat 5: BNVUS ( $2,499 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,355 )
+Seat 9: AldarHusein ( $1,685 )
+PapaShango19 posts small blind [$50]
+ada_e posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 8h ]
+BNVUS folds
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+Arthurian666 calls [$100]
+PapaShango19 folds
+ada_e raises [$635]
+Arthurian666 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $250 ]
+
+
+
+#Game No : 646409726
+***** 888poker Hand History for Game 646409726 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:09:29
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,633 )
+Seat 2: PapaShango19 ( $1,120 )
+Seat 4: ada_e ( $885 )
+Seat 5: BNVUS ( $2,499 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,355 )
+Seat 9: AldarHusein ( $1,685 )
+ada_e posts small blind [$50]
+BNVUS posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 8d ]
+ulezatanje folds
+Onatole111 folds
+AldarHusein raises [$1,685]
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+** Summary **
+AldarHusein did not show his hand
+AldarHusein collected [ $250 ]
+
+
+
+#Game No : 646409816
+***** 888poker Hand History for Game 646409816 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:09:50
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $1,633 )
+Seat 2: PapaShango19 ( $1,120 )
+Seat 4: ada_e ( $835 )
+Seat 5: BNVUS ( $2,399 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,355 )
+Seat 9: AldarHusein ( $1,835 )
+BNVUS posts small blind [$50]
+ulezatanje posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3h, Ts ]
+Onatole111 folds
+AldarHusein calls [$100]
+Arthurian666 calls [$100]
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$50]
+ulezatanje checks
+** Dealing flop ** [ 3d, Jh, Ad ]
+BNVUS checks
+ulezatanje checks
+AldarHusein checks
+Arthurian666 bets [$100]
+BNVUS calls [$100]
+ulezatanje folds
+AldarHusein calls [$100]
+** Dealing turn ** [ 2c ]
+BNVUS checks
+AldarHusein checks
+Arthurian666 bets [$350]
+BNVUS folds
+AldarHusein calls [$350]
+** Dealing river ** [ 9d ]
+AldarHusein bets [$1,285]
+Arthurian666 calls [$1,083]
+** Summary **
+Arthurian666 shows [ Tc, As ]
+AldarHusein shows [ 7s, Ac ]
+Arthurian666 collected [ $3,566 ]
+
+
+
+#Game No : 646410105
+***** 888poker Hand History for Game 646410105 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:10:54
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $3,566 )
+Seat 2: PapaShango19 ( $1,120 )
+Seat 4: ada_e ( $835 )
+Seat 5: BNVUS ( $2,199 )
+Seat 6: ulezatanje ( $4,223 )
+Seat 7: Onatole111 ( $1,355 )
+Seat 9: AldarHusein ( $202 )
+ulezatanje posts small blind [$50]
+Onatole111 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2h, Jd ]
+AldarHusein raises [$202]
+Arthurian666 calls [$202]
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$202]
+ulezatanje folds
+Onatole111 folds
+** Dealing flop ** [ Qd, 9d, Jc ]
+Arthurian666 checks
+BNVUS bets [$567]
+Arthurian666 folds
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 6s ]
+** Summary **
+BNVUS shows [ Ah, Td ]
+AldarHusein shows [ 7h, 9h ]
+AldarHusein collected [ $756 ]
+
+
+
+#Game No : 646410349
+***** 888poker Hand History for Game 646410349 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:11:48
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $3,364 )
+Seat 2: PapaShango19 ( $1,120 )
+Seat 4: ada_e ( $835 )
+Seat 5: BNVUS ( $1,997 )
+Seat 6: ulezatanje ( $4,173 )
+Seat 7: Onatole111 ( $1,255 )
+Seat 9: AldarHusein ( $756 )
+Onatole111 posts small blind [$50]
+AldarHusein posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, 3c ]
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS folds
+ulezatanje raises [$200]
+Onatole111 folds
+AldarHusein folds
+** Summary **
+ulezatanje did not show his hand
+ulezatanje collected [ $250 ]
+
+
+
+#Game No : 646410409
+***** 888poker Hand History for Game 646410409 *****
+$50/$100 Blinds No Limit Holdem - *** 25 11 2014 11:12:04
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $3,364 )
+Seat 2: PapaShango19 ( $1,120 )
+Seat 4: ada_e ( $835 )
+Seat 5: BNVUS ( $1,997 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,205 )
+Seat 9: AldarHusein ( $656 )
+AldarHusein posts small blind [$50]
+Arthurian666 posts big blind [$100]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, Qh ]
+PapaShango19 raises [$200]
+ada_e folds
+BNVUS folds
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+Arthurian666 calls [$100]
+** Dealing flop ** [ 9s, Ts, Qd ]
+Arthurian666 checks
+PapaShango19 bets [$337]
+Arthurian666 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $450 ]
+
+
+
+#Game No : 646410600
+***** 888poker Hand History for Game 646410600 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:12:44
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $3,164 )
+Seat 2: PapaShango19 ( $1,370 )
+Seat 4: ada_e ( $835 )
+Seat 5: BNVUS ( $1,997 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,205 )
+Seat 9: AldarHusein ( $606 )
+Arthurian666 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, Qd ]
+ada_e raises [$835]
+BNVUS folds
+ulezatanje folds
+Onatole111 folds
+AldarHusein folds
+Arthurian666 folds
+PapaShango19 folds
+** Summary **
+ada_e did not show his hand
+ada_e collected [ $375 ]
+
+
+
+#Game No : 646410760
+***** 888poker Hand History for Game 646410760 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:13:18
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Arthurian666 ( $3,089 )
+Seat 2: PapaShango19 ( $1,220 )
+Seat 4: ada_e ( $1,060 )
+Seat 5: BNVUS ( $1,997 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,205 )
+Seat 9: AldarHusein ( $606 )
+PapaShango19 posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 3s ]
+BNVUS raises [$450]
+ulezatanje folds
+Onatole111 folds
+AldarHusein raises [$606]
+Arthurian666 folds
+PapaShango19 folds
+ada_e raises [$910]
+BNVUS calls [$610]
+** Dealing flop ** [ Ah, 7h, 4s ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 7d ]
+** Summary **
+ada_e shows [ Kd, Kh ]
+BNVUS shows [ 8d, Ks ]
+AldarHusein shows [ Th, Ts ]
+ada_e collected [ $1,893 ]
+ada_e collected [ $908 ]
+
+
+
+#Game No : 646410935
+***** 888poker Hand History for Game 646410935 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:13:53
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Arthurian666 ( $3,089 )
+Seat 2: PapaShango19 ( $1,145 )
+Seat 4: ada_e ( $2,801 )
+Seat 5: BNVUS ( $937 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $1,205 )
+ada_e posts small blind [$75]
+BNVUS posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 3d ]
+ulezatanje folds
+Onatole111 raises [$1,205]
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+BNVUS calls [$787]
+** Dealing flop ** [ Jc, 2c, Td ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 2d ]
+** Summary **
+BNVUS shows [ Kc, Th ]
+Onatole111 shows [ Js, Ac ]
+Onatole111 collected [ $1,949 ]
+
+
+
+#Game No : 646411064
+***** 888poker Hand History for Game 646411064 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:14:25
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $3,089 )
+Seat 2: PapaShango19 ( $1,145 )
+Seat 4: ada_e ( $2,726 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $2,217 )
+ulezatanje posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qs, 9s ]
+Onatole111 folds
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+** Summary **
+ulezatanje did not show his hand
+ulezatanje collected [ $150 ]
+
+
+
+#Game No : 646411137
+***** 888poker Hand History for Game 646411137 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:14:40
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $3,089 )
+Seat 2: PapaShango19 ( $1,145 )
+Seat 4: ada_e ( $2,726 )
+Seat 6: ulezatanje ( $4,323 )
+Seat 7: Onatole111 ( $2,217 )
+ulezatanje posts small blind [$75]
+Onatole111 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, Js ]
+Arthurian666 calls [$150]
+PapaShango19 folds
+ada_e folds
+ulezatanje calls [$75]
+Onatole111 checks
+** Dealing flop ** [ 3d, Kd, 9s ]
+ulezatanje checks
+Onatole111 checks
+Arthurian666 checks
+** Dealing turn ** [ 6d ]
+ulezatanje bets [$225]
+Onatole111 folds
+Arthurian666 raises [$450]
+ulezatanje calls [$225]
+** Dealing river ** [ 7c ]
+ulezatanje bets [$1,350]
+Arthurian666 raises [$2,489]
+ulezatanje calls [$1,139]
+** Summary **
+Arthurian666 shows [ 4d, Jd ]
+ulezatanje shows [ 5d, Kh ]
+Arthurian666 collected [ $6,328 ]
+
+
+
+#Game No : 646411330
+***** 888poker Hand History for Game 646411330 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:15:30
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $6,328 )
+Seat 2: PapaShango19 ( $1,145 )
+Seat 4: ada_e ( $2,726 )
+Seat 6: ulezatanje ( $1,234 )
+Seat 7: Onatole111 ( $2,067 )
+Onatole111 posts small blind [$75]
+Arthurian666 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6d, 7h ]
+PapaShango19 folds
+ada_e folds
+ulezatanje folds
+Onatole111 raises [$325]
+Arthurian666 calls [$250]
+** Dealing flop ** [ 9d, 9h, Qh ]
+Onatole111 bets [$400]
+Arthurian666 calls [$400]
+** Dealing turn ** [ 5c ]
+Onatole111 checks
+Arthurian666 checks
+** Dealing river ** [ 7s ]
+Onatole111 checks
+Arthurian666 checks
+** Summary **
+Onatole111 shows [ As, 3s ]
+Arthurian666 mucks [ Jh, 2h ]
+Onatole111 collected [ $1,600 ]
+
+
+
+#Game No : 646411467
+***** 888poker Hand History for Game 646411467 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:16:07
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $5,528 )
+Seat 2: PapaShango19 ( $1,145 )
+Seat 4: ada_e ( $2,726 )
+Seat 6: ulezatanje ( $1,234 )
+Seat 7: Onatole111 ( $2,867 )
+Arthurian666 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qh, Ah ]
+ada_e folds
+ulezatanje folds
+Onatole111 folds
+Arthurian666 calls [$75]
+PapaShango19 raises [$995]
+Arthurian666 folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $300 ]
+
+
+
+#Game No : 646411546
+***** 888poker Hand History for Game 646411546 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:16:30
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $5,378 )
+Seat 2: PapaShango19 ( $1,295 )
+Seat 4: ada_e ( $2,726 )
+Seat 6: ulezatanje ( $1,234 )
+Seat 7: Onatole111 ( $2,867 )
+PapaShango19 posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jc, Ac ]
+ulezatanje raises [$1,234]
+Onatole111 folds
+Arthurian666 folds
+PapaShango19 raises [$1,220]
+ada_e folds
+** Dealing flop ** [ 9c, 2d, Kh ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 5s ]
+** Summary **
+PapaShango19 shows [ Jc, Ac ]
+ulezatanje shows [ Kc, 8c ]
+ulezatanje collected [ $2,618 ]
+
+
+
+#Game No : 646411717
+***** 888poker Hand History for Game 646411717 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:17:06
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $5,378 )
+Seat 2: PapaShango19 ( $61 )
+Seat 4: ada_e ( $2,576 )
+Seat 6: ulezatanje ( $2,618 )
+Seat 7: Onatole111 ( $2,867 )
+ada_e posts small blind [$75]
+ulezatanje posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 5c ]
+Onatole111 raises [$400]
+Arthurian666 folds
+PapaShango19 calls [$61]
+ada_e folds
+ulezatanje folds
+** Dealing flop ** [ 4s, 8c, 4c ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 7h ]
+** Summary **
+PapaShango19 shows [ Ks, 5c ]
+Onatole111 shows [ Ac, Qc ]
+PapaShango19 collected [ $244 ]
+Onatole111 collected [ $192 ]
+
+
+
+#Game No : 646411854
+***** 888poker Hand History for Game 646411854 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:17:43
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $5,378 )
+Seat 2: PapaShango19 ( $244 )
+Seat 4: ada_e ( $2,501 )
+Seat 6: ulezatanje ( $2,468 )
+Seat 7: Onatole111 ( $2,909 )
+ulezatanje posts small blind [$75]
+Onatole111 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5s, 8h ]
+Arthurian666 folds
+PapaShango19 folds
+ada_e folds
+ulezatanje folds
+** Summary **
+Onatole111 did not show his hand
+Onatole111 collected [ $225 ]
+
+
+
+#Game No : 646411910
+***** 888poker Hand History for Game 646411910 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:18:02
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $5,378 )
+Seat 2: PapaShango19 ( $244 )
+Seat 4: ada_e ( $2,501 )
+Seat 6: ulezatanje ( $2,393 )
+Seat 7: Onatole111 ( $2,984 )
+Onatole111 posts small blind [$75]
+Arthurian666 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jd, Jc ]
+PapaShango19 raises [$244]
+ada_e folds
+ulezatanje folds
+Onatole111 folds
+Arthurian666 calls [$94]
+** Dealing flop ** [ 4s, 8h, Tc ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ As ]
+** Summary **
+Arthurian666 shows [ 5c, 9c ]
+PapaShango19 shows [ Jd, Jc ]
+PapaShango19 collected [ $563 ]
+
+
+
+#Game No : 646412006
+***** 888poker Hand History for Game 646412006 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:18:31
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $5,134 )
+Seat 2: PapaShango19 ( $563 )
+Seat 4: ada_e ( $2,501 )
+Seat 6: ulezatanje ( $2,393 )
+Seat 7: Onatole111 ( $2,909 )
+Arthurian666 posts small blind [$75]
+PapaShango19 posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ 5d, 2h ]
+ada_e folds
+ulezatanje folds
+Onatole111 folds
+Arthurian666 calls [$75]
+PapaShango19 checks
+** Dealing flop ** [ 6c, 8s, Qs ]
+Arthurian666 bets [$300]
+PapaShango19 folds
+** Summary **
+Arthurian666 did not show his hand
+Arthurian666 collected [ $300 ]
+
+
+
+#Game No : 646412107
+***** 888poker Hand History for Game 646412107 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:19:04
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Arthurian666 ( $5,284 )
+Seat 2: PapaShango19 ( $413 )
+Seat 4: ada_e ( $2,501 )
+Seat 6: ulezatanje ( $2,393 )
+Seat 7: Onatole111 ( $2,909 )
+PapaShango19 posts small blind [$75]
+ada_e posts big blind [$150]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ac, 5h ]
+ulezatanje calls [$150]
+Onatole111 folds
+Arthurian666 folds
+PapaShango19 raises [$225]
+ada_e folds
+ulezatanje raises [$300]
+PapaShango19 calls [$113]
+** Dealing flop ** [ Kd, 9d, Kh ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ Ks ]
+** Summary **
+PapaShango19 shows [ Ac, 5h ]
+ulezatanje shows [ Qc, Qs ]
+ulezatanje collected [ $976 ]
+
+
+
+#Game No : 646412247
+***** 888poker Hand History for Game 646412247 *****
+$75/$150 Blinds No Limit Holdem - *** 25 11 2014 11:19:45
+Tournament #63830919 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: Arthurian666 ( $5,284 )
+Seat 4: ada_e ( $2,351 )
+Seat 6: ulezatanje ( $2,956 )
+Seat 7: Onatole111 ( $2,909 )
+ada_e posts small blind [$75]
+ulezatanje posts big blind [$150]
+** Dealing down cards **
+Onatole111 raises [$400]
+Arthurian666 folds
+ada_e folds
+ulezatanje raises [$500]
+Onatole111 raises [$2,509]
+ulezatanje calls [$2,259]
+** Dealing flop ** [ Jh, 6c, As ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 9c ]
+** Summary **
+ulezatanje shows [ Jd, Ad ]
+Onatole111 shows [ Qh, Qs ]
+ulezatanje collected [ $5,893 ]
+
+
+

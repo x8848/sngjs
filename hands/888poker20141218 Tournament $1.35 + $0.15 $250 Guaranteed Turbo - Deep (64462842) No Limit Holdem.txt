@@ -1,0 +1,276 @@
+#Game No : 703358791
+***** 888poker Hand History for Game 703358791 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:40:20
+Tournament #64462842 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: zeder1 ( $5,000 )
+Seat 2: conorsid ( $5,000 )
+Seat 3: bogosan13 ( $5,000 )
+Seat 4: NikolaiKoche ( $5,000 )
+Seat 5: tratnyk2005 ( $5,000 )
+Seat 6: ArturDiFenix ( $5,000 )
+Seat 7: PapaShango19 ( $5,000 )
+Seat 9: drmaxwell ( $5,000 )
+Seat 10: angelepin ( $5,000 )
+zeder1 posts small blind [$10]
+conorsid posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4s, 2c ]
+bogosan13 folds
+NikolaiKoche calls [$20]
+tratnyk2005 folds
+ArturDiFenix raises [$90]
+PapaShango19 folds
+drmaxwell folds
+angelepin calls [$90]
+zeder1 folds
+conorsid folds
+NikolaiKoche calls [$70]
+** Dealing flop ** [ Ks, 6d, Tc ]
+NikolaiKoche checks
+ArturDiFenix checks
+angelepin checks
+** Dealing turn ** [ 3h ]
+NikolaiKoche bets [$300]
+ArturDiFenix calls [$300]
+angelepin folds
+** Dealing river ** [ Kd ]
+NikolaiKoche bets [$450]
+ArturDiFenix folds
+** Summary **
+NikolaiKoche did not show his hand
+NikolaiKoche collected [ $900 ]
+
+
+
+#Game No : 703358983
+***** 888poker Hand History for Game 703358983 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:42:00
+Tournament #64462842 $1.35 + $0.15 - Table #4 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: zeder1 ( $4,990 )
+Seat 2: conorsid ( $4,980 )
+Seat 3: bogosan13 ( $5,000 )
+Seat 4: NikolaiKoche ( $5,510 )
+Seat 5: tratnyk2005 ( $5,000 )
+Seat 6: ArturDiFenix ( $4,610 )
+Seat 7: PapaShango19 ( $5,000 )
+Seat 9: drmaxwell ( $5,000 )
+Seat 10: angelepin ( $4,910 )
+conorsid posts small blind [$10]
+bogosan13 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, 4s ]
+NikolaiKoche calls [$20]
+tratnyk2005 raises [$40]
+ArturDiFenix raises [$170]
+PapaShango19 folds
+drmaxwell folds
+angelepin folds
+zeder1 folds
+conorsid folds
+bogosan13 folds
+NikolaiKoche folds
+tratnyk2005 calls [$130]
+** Dealing flop ** [ 5s, 3d, 5h ]
+tratnyk2005 checks
+ArturDiFenix bets [$390]
+tratnyk2005 folds
+** Summary **
+ArturDiFenix did not show his hand
+ArturDiFenix collected [ $390 ]
+
+
+
+#Game No : 703359196
+***** 888poker Hand History for Game 703359196 *****
+$10/$20 Blinds No Limit Holdem - *** 18 12 2014 05:44:02
+Tournament #64462842 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1:  ( $5,000 )
+Seat 2:  ( $5,000 )
+Seat 3:  ( $5,170 )
+Seat 4:  ( $4,970 )
+Seat 5:  ( $5,000 )
+Seat 6:  ( $5,000 )
+Seat 7:  ( $5,000 )
+Seat 10:  ( $5,000 )
+ posts small blind [$10]
+ posts big blind [$20]
+** Dealing down cards **
+Dealt to  [ 6c, Jd ]
+ folds
+ folds
+ calls [$20]
+ calls [$20]
+ folds
+ calls [$20]
+ calls [$10]
+ checks
+** Dealing flop ** [ 7s, 2c, 5c ]
+ checks
+ checks
+ checks
+ checks
+ checks
+** Dealing turn ** [ Td ]
+ checks
+ checks
+ bets [$50]
+ folds
+ calls [$50]
+ folds
+ calls [$50]
+** Dealing river ** [ 8h ]
+ checks
+ bets [$100]
+ calls [$100]
+ folds
+** Summary **
+ shows [ Qh, Tc ]
+ mucks [ Js, 8c ]
+ collected [ $450 ]
+
+
+
+#Game No : 703359386
+***** 888poker Hand History for Game 703359386 *****
+$15/$30 Blinds No Limit Holdem - *** 18 12 2014 05:46:36
+Tournament #64462842 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: nordub2008 ( $4,830 )
+Seat 2: streetdekor ( $4,980 )
+Seat 3: FUGGS1 ( $5,100 )
+Seat 4: Dan950 ( $4,970 )
+Seat 5: PapaShango19 ( $5,000 )
+Seat 6: smokindragon ( $5,280 )
+Seat 7: dicacupa ( $4,980 )
+Seat 9: chris_8221 ( $5,000 )
+Seat 10: mtlbluff420 ( $5,000 )
+FUGGS1 posts small blind [$15]
+Dan950 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 9d, Ad ]
+PapaShango19 calls [$30]
+smokindragon calls [$30]
+dicacupa folds
+chris_8221 raises [$165]
+mtlbluff420 folds
+nordub2008 folds
+streetdekor folds
+FUGGS1 calls [$150]
+Dan950 folds
+PapaShango19 calls [$135]
+smokindragon folds
+** Dealing flop ** [ 7c, Ts, 7h ]
+FUGGS1 checks
+PapaShango19 checks
+chris_8221 bets [$416]
+FUGGS1 folds
+PapaShango19 folds
+** Summary **
+chris_8221 did not show his hand
+chris_8221 collected [ $555 ]
+
+
+
+#Game No : 703359495
+***** 888poker Hand History for Game 703359495 *****
+$15/$30 Blinds No Limit Holdem - *** 18 12 2014 05:48:14
+Tournament #64462842 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: nordub2008 ( $4,830 )
+Seat 2: streetdekor ( $4,980 )
+Seat 3: FUGGS1 ( $4,935 )
+Seat 4: Dan950 ( $4,940 )
+Seat 5: PapaShango19 ( $4,835 )
+Seat 6: smokindragon ( $5,250 )
+Seat 7: dicacupa ( $4,980 )
+Seat 9: chris_8221 ( $5,390 )
+Seat 10: mtlbluff420 ( $5,000 )
+Dan950 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Kh ]
+smokindragon folds
+dicacupa folds
+chris_8221 folds
+mtlbluff420 folds
+nordub2008 raises [$60]
+streetdekor folds
+FUGGS1 folds
+Dan950 folds
+PapaShango19 raises [$4,805]
+nordub2008 calls [$4,770]
+** Dealing flop ** [ Ad, 8s, 2h ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 2c ]
+** Summary **
+nordub2008 shows [ Qh, As ]
+PapaShango19 shows [ Kc, Kh ]
+nordub2008 collected [ $9,675 ]
+
+
+
+#Game No : 703359559
+***** 888poker Hand History for Game 703359559 *****
+$15/$30 Blinds No Limit Holdem - *** 18 12 2014 05:49:04
+Tournament #64462842 $1.35 + $0.15 - Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: nordub2008 ( $9,675 )
+Seat 2: streetdekor ( $4,980 )
+Seat 3: FUGGS1 ( $4,935 )
+Seat 4: Dan950 ( $4,925 )
+Seat 5: PapaShango19 ( $5 )
+Seat 6: smokindragon ( $5,250 )
+Seat 7: dicacupa ( $4,980 )
+Seat 9: chris_8221 ( $5,390 )
+Seat 10: mtlbluff420 ( $5,000 )
+PapaShango19 posts small blind [$5]
+smokindragon posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Jd ]
+dicacupa folds
+chris_8221 calls [$30]
+mtlbluff420 folds
+nordub2008 calls [$30]
+streetdekor calls [$30]
+FUGGS1 calls [$30]
+Dan950 folds
+smokindragon checks
+** Dealing flop ** [ 9d, 3h, Kd ]
+smokindragon checks
+chris_8221 checks
+nordub2008 checks
+streetdekor checks
+FUGGS1 checks
+** Dealing turn ** [ Jh ]
+smokindragon bets [$60]
+chris_8221 calls [$60]
+nordub2008 calls [$60]
+streetdekor calls [$60]
+FUGGS1 calls [$60]
+** Dealing river ** [ 7c ]
+smokindragon checks
+chris_8221 checks
+nordub2008 checks
+streetdekor bets [$255]
+FUGGS1 folds
+smokindragon folds
+chris_8221 calls [$255]
+nordub2008 folds
+** Summary **
+streetdekor shows [ Th, 8h ]
+PapaShango19 mucks [ 7h, Jd ]
+chris_8221 mucks [ 6s, Ks ]
+streetdekor collected [ $30 ]
+streetdekor collected [ $935 ]
+
+
+

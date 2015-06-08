@@ -1,0 +1,486 @@
+#Game No : 484375545
+***** 888poker Hand History for Game 484375545 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:49:05
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,500 )
+Seat 2: PapaShango19 ( $1,500 )
+Seat 3: krrraken ( $1,500 )
+Seat 4: kimey19 ( $1,500 )
+Seat 5: BigSteve1233 ( $1,500 )
+Seat 6: midnightrta ( $1,500 )
+Seat 7: JuninhoShima ( $1,500 )
+Seat 9: EduardHrynia ( $1,500 )
+Seat 10: rashbash13 ( $1,500 )
+dedok33 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8s, 2s ]
+krrraken folds
+kimey19 folds
+BigSteve1233 folds
+midnightrta calls [$20]
+JuninhoShima folds
+EduardHrynia folds
+rashbash13 folds
+dedok33 folds
+PapaShango19 checks
+** Dealing flop ** [ Js, 3s, 5s ]
+PapaShango19 bets [$20]
+midnightrta folds
+** Summary **
+PapaShango19 did not show his hand
+PapaShango19 collected [ $50 ]
+
+
+
+#Game No : 484375727
+***** 888poker Hand History for Game 484375727 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:49:58
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,490 )
+Seat 2: PapaShango19 ( $1,530 )
+Seat 3: krrraken ( $1,500 )
+Seat 4: kimey19 ( $1,500 )
+Seat 5: BigSteve1233 ( $1,500 )
+Seat 6: midnightrta ( $1,480 )
+Seat 7: JuninhoShima ( $1,500 )
+Seat 9: EduardHrynia ( $1,500 )
+Seat 10: rashbash13 ( $1,500 )
+PapaShango19 posts small blind [$10]
+krrraken posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 7s ]
+kimey19 folds
+BigSteve1233 folds
+midnightrta calls [$20]
+JuninhoShima calls [$20]
+EduardHrynia calls [$20]
+rashbash13 folds
+dedok33 folds
+PapaShango19 calls [$10]
+krrraken checks
+** Dealing flop ** [ 3s, Js, 9s ]
+PapaShango19 checks
+krrraken checks
+midnightrta bets [$20]
+JuninhoShima calls [$20]
+EduardHrynia calls [$20]
+PapaShango19 folds
+krrraken raises [$60]
+midnightrta folds
+JuninhoShima folds
+EduardHrynia folds
+** Summary **
+krrraken did not show his hand
+krrraken collected [ $180 ]
+
+
+
+#Game No : 484375994
+***** 888poker Hand History for Game 484375994 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:51:23
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,490 )
+Seat 2: PapaShango19 ( $1,510 )
+Seat 3: krrraken ( $1,640 )
+Seat 4: kimey19 ( $1,500 )
+Seat 5: BigSteve1233 ( $1,500 )
+Seat 6: midnightrta ( $1,440 )
+Seat 7: JuninhoShima ( $1,460 )
+Seat 9: EduardHrynia ( $1,460 )
+Seat 10: rashbash13 ( $1,500 )
+krrraken posts small blind [$10]
+kimey19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, Js ]
+BigSteve1233 folds
+midnightrta folds
+JuninhoShima folds
+EduardHrynia calls [$20]
+rashbash13 folds
+dedok33 calls [$20]
+PapaShango19 folds
+krrraken folds
+kimey19 checks
+** Dealing flop ** [ Qs, 4c, 2d ]
+kimey19 checks
+EduardHrynia checks
+dedok33 checks
+** Dealing turn ** [ 9h ]
+kimey19 checks
+EduardHrynia checks
+dedok33 bets [$20]
+kimey19 folds
+EduardHrynia calls [$20]
+** Dealing river ** [ 3d ]
+EduardHrynia checks
+dedok33 bets [$20]
+EduardHrynia folds
+** Summary **
+dedok33 did not show his hand
+dedok33 collected [ $110 ]
+
+
+
+#Game No : 484376246
+***** 888poker Hand History for Game 484376246 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:52:47
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,560 )
+Seat 2: PapaShango19 ( $1,510 )
+Seat 3: krrraken ( $1,630 )
+Seat 4: kimey19 ( $1,480 )
+Seat 5: BigSteve1233 ( $1,500 )
+Seat 6: midnightrta ( $1,440 )
+Seat 7: JuninhoShima ( $1,460 )
+Seat 9: EduardHrynia ( $1,420 )
+Seat 10: rashbash13 ( $1,500 )
+kimey19 posts small blind [$10]
+BigSteve1233 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ks, 7h ]
+midnightrta folds
+JuninhoShima folds
+EduardHrynia folds
+rashbash13 folds
+dedok33 calls [$20]
+PapaShango19 folds
+krrraken raises [$40]
+kimey19 folds
+BigSteve1233 folds
+dedok33 calls [$20]
+** Dealing flop ** [ Jc, 2d, 3d ]
+dedok33 checks
+krrraken checks
+** Dealing turn ** [ As ]
+dedok33 checks
+krrraken checks
+** Dealing river ** [ Ts ]
+dedok33 bets [$20]
+krrraken calls [$20]
+** Summary **
+dedok33 shows [ Ac, 5c ]
+krrraken mucks [ Kd, 9s ]
+dedok33 collected [ $150 ]
+
+
+
+#Game No : 484376398
+***** 888poker Hand History for Game 484376398 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:53:37
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,650 )
+Seat 2: PapaShango19 ( $1,510 )
+Seat 3: krrraken ( $1,570 )
+Seat 4: kimey19 ( $1,470 )
+Seat 5: BigSteve1233 ( $1,480 )
+Seat 6: midnightrta ( $1,440 )
+Seat 7: JuninhoShima ( $1,460 )
+Seat 9: EduardHrynia ( $1,420 )
+Seat 10: rashbash13 ( $1,500 )
+BigSteve1233 posts small blind [$10]
+midnightrta posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4d, 6c ]
+JuninhoShima folds
+EduardHrynia calls [$20]
+rashbash13 folds
+dedok33 calls [$20]
+PapaShango19 folds
+krrraken folds
+kimey19 calls [$20]
+BigSteve1233 folds
+midnightrta checks
+** Dealing flop ** [ 4s, 8h, As ]
+midnightrta checks
+EduardHrynia checks
+dedok33 checks
+kimey19 checks
+** Dealing turn ** [ Jd ]
+midnightrta checks
+EduardHrynia checks
+dedok33 checks
+kimey19 checks
+** Dealing river ** [ 2c ]
+midnightrta checks
+EduardHrynia checks
+dedok33 checks
+kimey19 bets [$20]
+midnightrta folds
+EduardHrynia calls [$20]
+dedok33 calls [$20]
+** Summary **
+kimey19 shows [ Js, Qd ]
+EduardHrynia mucks [ 4c, Kh ]
+dedok33 mucks [ 3c, 8c ]
+kimey19 collected [ $150 ]
+
+
+
+#Game No : 484376602
+***** 888poker Hand History for Game 484376602 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:54:45
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,610 )
+Seat 2: PapaShango19 ( $1,510 )
+Seat 3: krrraken ( $1,570 )
+Seat 4: kimey19 ( $1,580 )
+Seat 5: BigSteve1233 ( $1,470 )
+Seat 6: midnightrta ( $1,420 )
+Seat 7: JuninhoShima ( $1,460 )
+Seat 9: EduardHrynia ( $1,380 )
+Seat 10: rashbash13 ( $1,500 )
+midnightrta posts small blind [$10]
+JuninhoShima posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ts, Tc ]
+EduardHrynia calls [$20]
+rashbash13 folds
+dedok33 folds
+PapaShango19 raises [$80]
+krrraken calls [$80]
+kimey19 folds
+BigSteve1233 folds
+midnightrta folds
+JuninhoShima calls [$60]
+EduardHrynia folds
+** Dealing flop ** [ Ac, 3s, 5c ]
+JuninhoShima bets [$270]
+PapaShango19 folds
+krrraken folds
+** Summary **
+JuninhoShima did not show his hand
+JuninhoShima collected [ $270 ]
+
+
+
+#Game No : 484376712
+***** 888poker Hand History for Game 484376712 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:55:27
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,610 )
+Seat 2: PapaShango19 ( $1,430 )
+Seat 3: krrraken ( $1,490 )
+Seat 4: kimey19 ( $1,580 )
+Seat 5: BigSteve1233 ( $1,470 )
+Seat 6: midnightrta ( $1,410 )
+Seat 7: JuninhoShima ( $1,650 )
+Seat 9: EduardHrynia ( $1,360 )
+Seat 10: rashbash13 ( $1,500 )
+JuninhoShima posts small blind [$10]
+EduardHrynia posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8h, Td ]
+rashbash13 folds
+dedok33 calls [$20]
+PapaShango19 folds
+krrraken folds
+kimey19 folds
+BigSteve1233 folds
+midnightrta folds
+JuninhoShima calls [$10]
+EduardHrynia checks
+** Dealing flop ** [ 2c, Tc, Kh ]
+JuninhoShima checks
+EduardHrynia checks
+dedok33 bets [$20]
+JuninhoShima folds
+EduardHrynia folds
+** Summary **
+dedok33 did not show his hand
+dedok33 collected [ $60 ]
+
+
+
+#Game No : 484376801
+***** 888poker Hand History for Game 484376801 *****
+$10/$20 Blinds No Limit Holdem - *** 25 11 2014 17:56:08
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,650 )
+Seat 2: PapaShango19 ( $1,430 )
+Seat 3: krrraken ( $1,490 )
+Seat 4: kimey19 ( $1,580 )
+Seat 5: BigSteve1233 ( $1,470 )
+Seat 6: midnightrta ( $1,410 )
+Seat 7: JuninhoShima ( $1,630 )
+Seat 9: EduardHrynia ( $1,340 )
+Seat 10: rashbash13 ( $1,500 )
+EduardHrynia posts small blind [$10]
+rashbash13 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Jh, 7s ]
+dedok33 calls [$20]
+PapaShango19 folds
+krrraken folds
+kimey19 folds
+BigSteve1233 folds
+midnightrta folds
+JuninhoShima folds
+EduardHrynia calls [$10]
+rashbash13 checks
+** Dealing flop ** [ Js, As, 4c ]
+EduardHrynia checks
+rashbash13 checks
+dedok33 checks
+** Dealing turn ** [ 3h ]
+EduardHrynia checks
+rashbash13 checks
+dedok33 checks
+** Dealing river ** [ Ah ]
+EduardHrynia checks
+rashbash13 checks
+dedok33 bets [$20]
+EduardHrynia folds
+rashbash13 folds
+** Summary **
+dedok33 did not show his hand
+dedok33 collected [ $60 ]
+
+
+
+#Game No : 484377190
+***** 888poker Hand History for Game 484377190 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 17:57:45
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,690 )
+Seat 2: PapaShango19 ( $1,430 )
+Seat 3: krrraken ( $1,490 )
+Seat 4: kimey19 ( $1,580 )
+Seat 5: BigSteve1233 ( $1,470 )
+Seat 6: midnightrta ( $1,410 )
+Seat 7: JuninhoShima ( $1,630 )
+Seat 9: EduardHrynia ( $1,320 )
+Seat 10: rashbash13 ( $1,480 )
+rashbash13 posts small blind [$15]
+dedok33 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, Th ]
+PapaShango19 folds
+krrraken folds
+kimey19 folds
+BigSteve1233 raises [$90]
+midnightrta calls [$90]
+JuninhoShima folds
+EduardHrynia folds
+rashbash13 folds
+dedok33 calls [$60]
+** Dealing flop ** [ 8d, Jh, Qh ]
+dedok33 checks
+BigSteve1233 checks
+midnightrta bets [$142]
+dedok33 folds
+BigSteve1233 folds
+** Summary **
+midnightrta did not show his hand
+midnightrta collected [ $285 ]
+
+
+
+#Game No : 484377326
+***** 888poker Hand History for Game 484377326 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 17:58:38
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,600 )
+Seat 2: PapaShango19 ( $1,430 )
+Seat 3: krrraken ( $1,490 )
+Seat 4: kimey19 ( $1,580 )
+Seat 5: BigSteve1233 ( $1,380 )
+Seat 6: midnightrta ( $1,605 )
+Seat 7: JuninhoShima ( $1,630 )
+Seat 9: EduardHrynia ( $1,320 )
+Seat 10: rashbash13 ( $1,465 )
+dedok33 posts small blind [$15]
+PapaShango19 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kh, 3d ]
+krrraken folds
+kimey19 folds
+BigSteve1233 raises [$90]
+midnightrta folds
+JuninhoShima folds
+EduardHrynia folds
+rashbash13 folds
+dedok33 calls [$75]
+PapaShango19 folds
+** Dealing flop ** [ Ac, 6d, Td ]
+dedok33 checks
+BigSteve1233 bets [$157]
+dedok33 calls [$157]
+** Dealing turn ** [ 8c ]
+dedok33 checks
+BigSteve1233 bets [$393]
+dedok33 calls [$393]
+** Dealing river ** [ 4s ]
+dedok33 checks
+BigSteve1233 bets [$740]
+dedok33 calls [$740]
+** Summary **
+dedok33 shows [ 7s, 9s ]
+BigSteve1233 shows [ 9h, 7h ]
+BigSteve1233 collected [ $1,395 ]
+dedok33 collected [ $1,395 ]
+
+
+
+#Game No : 484377512
+***** 888poker Hand History for Game 484377512 *****
+$15/$30 Blinds No Limit Holdem - *** 25 11 2014 17:59:55
+Tournament #63839725 $0.85 + $0.15 - Table #1 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: dedok33 ( $1,615 )
+Seat 2: PapaShango19 ( $1,400 )
+Seat 3: krrraken ( $1,490 )
+Seat 4: kimey19 ( $1,580 )
+Seat 5: BigSteve1233 ( $1,395 )
+Seat 6: midnightrta ( $1,605 )
+Seat 7: JuninhoShima ( $1,630 )
+Seat 9: EduardHrynia ( $1,320 )
+Seat 10: rashbash13 ( $1,465 )
+PapaShango19 posts small blind [$15]
+krrraken posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Kc, Ah ]
+kimey19 raises [$120]
+BigSteve1233 folds
+midnightrta folds
+JuninhoShima folds
+EduardHrynia folds
+rashbash13 folds
+dedok33 calls [$120]
+PapaShango19 raises [$1,385]
+krrraken folds
+kimey19 raises [$1,460]
+dedok33 calls [$1,460]
+** Dealing flop ** [ Jc, Th, 9d ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ 8s ]
+** Summary **
+dedok33 shows [ As, 9s ]
+PapaShango19 shows [ Kc, Ah ]
+kimey19 shows [ Ac, Qc ]
+kimey19 collected [ $4,230 ]
+kimey19 collected [ $360 ]
+
+
+

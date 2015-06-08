@@ -1,0 +1,771 @@
+#Game No : 645651921
+***** 888poker Hand History for Game 645651921 *****
+$5/$10 Blinds No Limit Holdem - *** 01 12 2014 17:08:23
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,500 )
+Seat 2: doun79 ( $1,500 )
+Seat 3: PapaShango19 ( $1,500 )
+Seat 4: Jakuza223 ( $1,500 )
+Seat 5: GioVanniT99 ( $1,500 )
+Seat 6: onoMoops ( $1,500 )
+Seat 7: FastnDead ( $3,000 )
+Seat 9: Machkonti ( $3,000 )
+Seat 10: DomBS ( $3,000 )
+DomBS posts small blind [$5]
+dumitriu14 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qc, 7s ]
+doun79 folds
+PapaShango19 folds
+Jakuza223 folds
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+Machkonti folds
+DomBS calls [$5]
+dumitriu14 checks
+** Dealing flop ** [ 3d, Qs, Ah ]
+DomBS checks
+dumitriu14 checks
+** Dealing turn ** [ Jc ]
+DomBS checks
+dumitriu14 checks
+** Dealing river ** [ Js ]
+DomBS checks
+dumitriu14 bets [$10]
+DomBS folds
+** Summary **
+dumitriu14 collected [ $20 ]
+
+
+
+#Game No : 645652334
+***** 888poker Hand History for Game 645652334 *****
+$5/$10 Blinds No Limit Holdem - *** 01 12 2014 17:10:06
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,510 )
+Seat 2: doun79 ( $1,500 )
+Seat 3: PapaShango19 ( $1,500 )
+Seat 4: darius9207 ( $1,500 )
+Seat 5: GioVanniT99 ( $1,500 )
+Seat 6: onoMoops ( $1,500 )
+Seat 7: FastnDead ( $3,000 )
+Seat 9: Machkonti ( $3,000 )
+Seat 10: DomBS ( $2,990 )
+dumitriu14 posts small blind [$5]
+doun79 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 2s, 8c ]
+PapaShango19 folds
+darius9207 calls [$10]
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+Machkonti folds
+DomBS folds
+dumitriu14 raises [$35]
+doun79 calls [$30]
+darius9207 calls [$30]
+** Dealing flop ** [ Qc, 8s, 9h ]
+dumitriu14 checks
+doun79 checks
+darius9207 checks
+** Dealing turn ** [ Js ]
+dumitriu14 checks
+doun79 checks
+darius9207 checks
+** Dealing river ** [ 5s ]
+dumitriu14 checks
+doun79 bets [$10]
+darius9207 calls [$10]
+dumitriu14 folds
+** Summary **
+doun79 shows [ 5c, 6c ]
+darius9207 mucks [ 3h, 3d ]
+doun79 collected [ $140 ]
+
+
+
+#Game No : 645652533
+***** 888poker Hand History for Game 645652533 *****
+$5/$10 Blinds No Limit Holdem - *** 01 12 2014 17:11:06
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,590 )
+Seat 3: PapaShango19 ( $1,500 )
+Seat 4: darius9207 ( $2,950 )
+Seat 5: GioVanniT99 ( $1,500 )
+Seat 6: onoMoops ( $1,500 )
+Seat 7: FastnDead ( $3,000 )
+Seat 9: Machkonti ( $3,000 )
+Seat 10: DomBS ( $2,990 )
+doun79 posts small blind [$5]
+PapaShango19 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Qc ]
+darius9207 raises [$30]
+GioVanniT99 folds
+onoMoops folds
+FastnDead calls [$30]
+Machkonti folds
+DomBS folds
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+** Dealing flop ** [ 5c, 5s, Jh ]
+darius9207 checks
+FastnDead bets [$37]
+darius9207 folds
+** Summary **
+FastnDead did not show his hand
+FastnDead collected [ $75 ]
+
+
+
+#Game No : 645652805
+***** 888poker Hand History for Game 645652805 *****
+$5/$10 Blinds No Limit Holdem - *** 01 12 2014 17:12:22
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,585 )
+Seat 3: PapaShango19 ( $1,490 )
+Seat 4: darius9207 ( $2,920 )
+Seat 5: GioVanniT99 ( $1,500 )
+Seat 6: onoMoops ( $1,500 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $3,000 )
+Seat 10: DomBS ( $2,990 )
+PapaShango19 posts small blind [$5]
+darius9207 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ 4c, 3h ]
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+Machkonti folds
+DomBS folds
+dumitriu14 folds
+doun79 calls [$10]
+PapaShango19 calls [$5]
+darius9207 checks
+** Dealing flop ** [ 4h, 2d, 5c ]
+PapaShango19 bets [$30]
+darius9207 calls [$30]
+doun79 calls [$30]
+** Dealing turn ** [ 7c ]
+PapaShango19 checks
+darius9207 checks
+doun79 bets [$120]
+PapaShango19 calls [$120]
+darius9207 folds
+** Dealing river ** [ Ks ]
+PapaShango19 checks
+doun79 checks
+** Summary **
+PapaShango19 shows [ 4c, 3h ]
+doun79 shows [ Ah, Kd ]
+doun79 collected [ $360 ]
+
+
+
+#Game No : 645653124
+***** 888poker Hand History for Game 645653124 *****
+$5/$10 Blinds No Limit Holdem - *** 01 12 2014 17:13:52
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,785 )
+Seat 3: PapaShango19 ( $1,330 )
+Seat 4: darius9207 ( $2,880 )
+Seat 5: GioVanniT99 ( $1,500 )
+Seat 6: onoMoops ( $1,500 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $3,000 )
+Seat 10: DomBS ( $2,990 )
+darius9207 posts small blind [$5]
+GioVanniT99 posts big blind [$10]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 4h ]
+onoMoops folds
+FastnDead folds
+Machkonti folds
+DomBS folds
+dumitriu14 folds
+doun79 calls [$10]
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 checks
+** Dealing flop ** [ Js, 6s, 7d ]
+GioVanniT99 checks
+doun79 checks
+** Dealing turn ** [ 5d ]
+GioVanniT99 checks
+doun79 bets [$25]
+GioVanniT99 folds
+** Summary **
+doun79 did not show his hand
+doun79 collected [ $25 ]
+
+
+
+#Game No : 645653315
+***** 888poker Hand History for Game 645653315 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 17:14:57
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,800 )
+Seat 3: PapaShango19 ( $1,330 )
+Seat 4: darius9207 ( $2,875 )
+Seat 5: GioVanniT99 ( $1,490 )
+Seat 6: onoMoops ( $1,500 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $3,000 )
+Seat 10: DomBS ( $2,990 )
+GioVanniT99 posts small blind [$10]
+onoMoops posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, 9c ]
+FastnDead folds
+Machkonti folds
+DomBS folds
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 folds
+** Summary **
+onoMoops did not show his hand
+onoMoops collected [ $30 ]
+
+
+
+#Game No : 645653429
+***** 888poker Hand History for Game 645653429 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 17:15:37
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,800 )
+Seat 3: PapaShango19 ( $1,330 )
+Seat 4: darius9207 ( $2,875 )
+Seat 5: GioVanniT99 ( $1,480 )
+Seat 6: onoMoops ( $1,510 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $3,000 )
+onoMoops posts small blind [$10]
+FastnDead posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ad, 4h ]
+Machkonti folds
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+darius9207 raises [$60]
+GioVanniT99 folds
+onoMoops folds
+FastnDead calls [$40]
+** Dealing flop ** [ 5s, Th, Qc ]
+FastnDead checks
+darius9207 checks
+** Dealing turn ** [ Qd ]
+FastnDead checks
+darius9207 bets [$65]
+FastnDead folds
+** Summary **
+darius9207 did not show his hand
+darius9207 collected [ $130 ]
+
+
+
+#Game No : 645653598
+***** 888poker Hand History for Game 645653598 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 17:16:29
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,800 )
+Seat 3: PapaShango19 ( $1,330 )
+Seat 4: darius9207 ( $2,945 )
+Seat 5: GioVanniT99 ( $1,480 )
+Seat 6: onoMoops ( $1,500 )
+Seat 7: FastnDead ( $2,985 )
+Seat 9: Machkonti ( $3,000 )
+FastnDead posts small blind [$10]
+Machkonti posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3d, 5d ]
+dumitriu14 folds
+doun79 folds
+PapaShango19 calls [$20]
+darius9207 folds
+GioVanniT99 folds
+onoMoops calls [$20]
+FastnDead calls [$10]
+Machkonti checks
+** Dealing flop ** [ 7s, 8h, Qd ]
+FastnDead bets [$40]
+Machkonti folds
+PapaShango19 folds
+onoMoops folds
+** Summary **
+FastnDead collected [ $80 ]
+
+
+
+#Game No : 645653732
+***** 888poker Hand History for Game 645653732 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 17:17:19
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,800 )
+Seat 3: PapaShango19 ( $1,310 )
+Seat 4: darius9207 ( $2,945 )
+Seat 5: GioVanniT99 ( $1,480 )
+Seat 6: onoMoops ( $1,480 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $2,980 )
+Seat 10: batjack11 ( $1,500 )
+Machkonti posts small blind [$10]
+batjack11 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7s, 4h ]
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+Machkonti folds
+** Summary **
+batjack11 did not show his hand
+batjack11 collected [ $30 ]
+
+
+
+#Game No : 645653817
+***** 888poker Hand History for Game 645653817 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 17:17:47
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,470 )
+Seat 2: doun79 ( $1,800 )
+Seat 3: PapaShango19 ( $1,310 )
+Seat 4: darius9207 ( $2,945 )
+Seat 5: GioVanniT99 ( $1,480 )
+Seat 6: onoMoops ( $1,480 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $2,970 )
+Seat 10: batjack11 ( $1,510 )
+batjack11 posts small blind [$10]
+dumitriu14 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ 8d, 8h ]
+doun79 folds
+PapaShango19 raises [$80]
+darius9207 folds
+GioVanniT99 calls [$80]
+onoMoops folds
+FastnDead folds
+Machkonti folds
+batjack11 raises [$1,500]
+dumitriu14 folds
+PapaShango19 folds
+GioVanniT99 calls [$1,400]
+** Dealing flop ** [ 4c, 4s, Kd ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 6s ]
+** Summary **
+GioVanniT99 shows [ 8c, 8s ]
+batjack11 shows [ 9s, Th ]
+GioVanniT99 collected [ $3,060 ]
+
+
+
+#Game No : 645654039
+***** 888poker Hand History for Game 645654039 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 17:19:05
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,450 )
+Seat 2: doun79 ( $1,800 )
+Seat 3: PapaShango19 ( $1,230 )
+Seat 4: darius9207 ( $2,945 )
+Seat 5: GioVanniT99 ( $3,060 )
+Seat 6: onoMoops ( $1,480 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $2,970 )
+Seat 10: batjack11 ( $30 )
+dumitriu14 posts small blind [$10]
+doun79 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Ah, 3h ]
+PapaShango19 calls [$20]
+darius9207 folds
+GioVanniT99 folds
+onoMoops raises [$90]
+FastnDead folds
+Machkonti folds
+batjack11 folds
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+** Summary **
+onoMoops did not show his hand
+onoMoops collected [ $70 ]
+
+
+
+#Game No : 645654185
+***** 888poker Hand History for Game 645654185 *****
+$10/$20 Blinds No Limit Holdem - *** 01 12 2014 17:19:49
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,440 )
+Seat 2: doun79 ( $1,780 )
+Seat 3: PapaShango19 ( $1,210 )
+Seat 4: darius9207 ( $2,945 )
+Seat 5: GioVanniT99 ( $3,060 )
+Seat 6: onoMoops ( $1,530 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $2,970 )
+Seat 10: batjack11 ( $1,530 )
+doun79 posts small blind [$10]
+PapaShango19 posts big blind [$20]
+** Dealing down cards **
+Dealt to PapaShango19 [ Th, Ts ]
+darius9207 folds
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+Machkonti folds
+batjack11 raises [$240]
+dumitriu14 folds
+doun79 calls [$230]
+PapaShango19 raises [$1,190]
+batjack11 raises [$1,290]
+doun79 calls [$1,290]
+** Dealing flop ** [ 8h, Ah, 2d ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ Qd ]
+** Summary **
+doun79 shows [ Qs, Ks ]
+PapaShango19 shows [ Th, Ts ]
+batjack11 shows [ Kh, As ]
+batjack11 collected [ $3,630 ]
+batjack11 collected [ $640 ]
+
+
+
+#Game No : 645654402
+***** 888poker Hand History for Game 645654402 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 17:21:06
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,440 )
+Seat 2: doun79 ( $250 )
+Seat 3: PapaShango19 ( $1,500 )
+Seat 4: darius9207 ( $2,945 )
+Seat 5: GioVanniT99 ( $3,060 )
+Seat 6: onoMoops ( $1,530 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $2,970 )
+Seat 10: batjack11 ( $4,270 )
+PapaShango19 posts small blind [$15]
+darius9207 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7d, Ac ]
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+Machkonti folds
+batjack11 folds
+dumitriu14 folds
+doun79 raises [$250]
+PapaShango19 folds
+darius9207 folds
+** Summary **
+doun79 did not show his hand
+doun79 collected [ $75 ]
+
+
+
+#Game No : 645654482
+***** 888poker Hand History for Game 645654482 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 17:21:37
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,440 )
+Seat 2: doun79 ( $295 )
+Seat 3: PapaShango19 ( $1,485 )
+Seat 4: darius9207 ( $2,915 )
+Seat 5: GioVanniT99 ( $3,060 )
+Seat 6: onoMoops ( $1,530 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Machkonti ( $2,970 )
+Seat 10: batjack11 ( $4,270 )
+darius9207 posts small blind [$15]
+GioVanniT99 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 4s ]
+onoMoops folds
+FastnDead folds
+Machkonti folds
+batjack11 raises [$4,270]
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 folds
+** Summary **
+batjack11 collected [ $75 ]
+
+
+
+#Game No : 645654611
+***** 888poker Hand History for Game 645654611 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 17:22:22
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,440 )
+Seat 2: doun79 ( $295 )
+Seat 3: PapaShango19 ( $1,485 )
+Seat 4: darius9207 ( $2,900 )
+Seat 5: GioVanniT99 ( $3,030 )
+Seat 6: onoMoops ( $1,530 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Flasher_03 ( $1,500 )
+Seat 10: batjack11 ( $4,315 )
+GioVanniT99 posts small blind [$15]
+onoMoops posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 6s ]
+FastnDead folds
+Flasher_03 folds
+batjack11 folds
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 folds
+** Summary **
+onoMoops did not show his hand
+onoMoops collected [ $45 ]
+
+
+
+#Game No : 645654727
+***** 888poker Hand History for Game 645654727 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 17:23:04
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: dumitriu14 ( $1,440 )
+Seat 2: doun79 ( $295 )
+Seat 3: PapaShango19 ( $1,485 )
+Seat 4: darius9207 ( $2,900 )
+Seat 5: GioVanniT99 ( $3,015 )
+Seat 6: onoMoops ( $1,545 )
+Seat 7: FastnDead ( $3,045 )
+Seat 9: Flasher_03 ( $1,500 )
+Seat 10: batjack11 ( $4,315 )
+onoMoops posts small blind [$15]
+FastnDead posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 3c, 6s ]
+Flasher_03 raises [$1,500]
+batjack11 raises [$2,970]
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 folds
+onoMoops calls [$1,530]
+FastnDead folds
+** Dealing flop ** [ As, Jh, 5d ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Qh ]
+** Summary **
+onoMoops shows [ Ac, Tc ]
+Flasher_03 shows [ Qc, Ks ]
+batjack11 shows [ Th, Ah ]
+batjack11 collected [ $4,530 ]
+batjack11 collected [ $90 ]
+
+
+
+#Game No : 645655090
+***** 888poker Hand History for Game 645655090 *****
+$15/$30 Blinds No Limit Holdem - *** 01 12 2014 17:25:15
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: dumitriu14 ( $1,440 )
+Seat 2: doun79 ( $295 )
+Seat 3: PapaShango19 ( $1,485 )
+Seat 4: darius9207 ( $2,900 )
+Seat 5: GioVanniT99 ( $3,015 )
+Seat 6: onoMoops ( $3,000 )
+Seat 7: FastnDead ( $3,015 )
+Seat 10: batjack11 ( $7,390 )
+FastnDead posts small blind [$15]
+batjack11 posts big blind [$30]
+** Dealing down cards **
+Dealt to PapaShango19 [ 7h, 3s ]
+dumitriu14 folds
+doun79 folds
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 calls [$30]
+onoMoops folds
+FastnDead calls [$15]
+batjack11 checks
+** Dealing flop ** [ 3h, 9h, Qs ]
+FastnDead bets [$60]
+batjack11 raises [$120]
+GioVanniT99 folds
+FastnDead calls [$60]
+** Dealing turn ** [ 4s ]
+FastnDead checks
+batjack11 checks
+** Dealing river ** [ 2h ]
+FastnDead checks
+batjack11 bets [$180]
+FastnDead calls [$180]
+** Summary **
+batjack11 shows [ 2s, Qd ]
+FastnDead mucks [ 7s, Qh ]
+batjack11 collected [ $690 ]
+
+
+
+#Game No : 645655257
+***** 888poker Hand History for Game 645655257 *****
+$20/$40 Blinds No Limit Holdem - *** 01 12 2014 17:26:25
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: dumitriu14 ( $1,440 )
+Seat 2: doun79 ( $295 )
+Seat 3: PapaShango19 ( $1,485 )
+Seat 4: darius9207 ( $2,900 )
+Seat 5: GioVanniT99 ( $2,985 )
+Seat 6: onoMoops ( $3,000 )
+Seat 7: FastnDead ( $2,685 )
+Seat 10: batjack11 ( $7,750 )
+batjack11 posts small blind [$20]
+dumitriu14 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ Qd, 5h ]
+doun79 raises [$295]
+PapaShango19 folds
+darius9207 folds
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+batjack11 raises [$678]
+dumitriu14 folds
+** Dealing flop ** [ 3h, Jc, As ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ Qc ]
+** Summary **
+doun79 shows [ Ac, 9s ]
+batjack11 shows [ Kc, Td ]
+batjack11 collected [ $630 ]
+
+
+
+#Game No : 645655402
+***** 888poker Hand History for Game 645655402 *****
+$20/$40 Blinds No Limit Holdem - *** 01 12 2014 17:27:24
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: dumitriu14 ( $1,400 )
+Seat 3: PapaShango19 ( $1,485 )
+Seat 4: darius9207 ( $2,900 )
+Seat 5: GioVanniT99 ( $2,985 )
+Seat 6: onoMoops ( $3,000 )
+Seat 7: FastnDead ( $2,685 )
+Seat 9: matt7106 ( $3,000 )
+Seat 10: batjack11 ( $8,085 )
+dumitriu14 posts small blind [$20]
+PapaShango19 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ 6c, 7h ]
+darius9207 folds
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+matt7106 folds
+batjack11 folds
+dumitriu14 folds
+** Summary **
+PapaShango19 collected [ $60 ]
+
+
+
+#Game No : 645655457
+***** 888poker Hand History for Game 645655457 *****
+$20/$40 Blinds No Limit Holdem - *** 01 12 2014 17:27:51
+Tournament #63979228 $1.30 + $0.20 - Table #8 (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: dumitriu14 ( $1,380 )
+Seat 3: PapaShango19 ( $1,505 )
+Seat 4: darius9207 ( $2,900 )
+Seat 5: GioVanniT99 ( $2,985 )
+Seat 6: onoMoops ( $3,000 )
+Seat 7: FastnDead ( $2,685 )
+Seat 9: matt7106 ( $3,000 )
+Seat 10: batjack11 ( $8,085 )
+PapaShango19 posts small blind [$20]
+darius9207 posts big blind [$40]
+** Dealing down cards **
+Dealt to PapaShango19 [ Tc, Th ]
+GioVanniT99 folds
+onoMoops folds
+FastnDead folds
+matt7106 calls [$40]
+batjack11 raises [$180]
+dumitriu14 folds
+PapaShango19 calls [$160]
+darius9207 folds
+matt7106 calls [$140]
+** Dealing flop ** [ 2d, 8h, 8d ]
+PapaShango19 checks
+matt7106 checks
+batjack11 bets [$435]
+PapaShango19 raises [$1,325]
+matt7106 folds
+batjack11 calls [$890]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ac ]
+** Summary **
+PapaShango19 shows [ Tc, Th ]
+batjack11 shows [ Jc, Js ]
+batjack11 collected [ $3,230 ]
+
+
+
