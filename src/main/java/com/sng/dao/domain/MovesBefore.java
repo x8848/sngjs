@@ -4,5 +4,5 @@ public enum MovesBefore {
     NoRaise,
     Raise,
     ReRaise,
-    CAP // TODO check move ?!
+    Cap
 }

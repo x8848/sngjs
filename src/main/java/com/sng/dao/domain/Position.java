@@ -5,6 +5,6 @@ public enum Position {
     SmallBlind,
     BigBlind,
     UnderTheGun,
-    UnderTheGunPlus,
+    HiJack,
     CutOff
 }
