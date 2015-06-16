@@ -40,10 +40,10 @@ var StackState = new Enum(
     'Average',
     'Monster');
 
-var Stage = new Enum(
+var Stage = [
     'Early',
     'Middle',
-    'Late');
+    'Late'];
 
 var Street = new Enum(
     'PreFlop',
@@ -110,20 +110,41 @@ var allCards = [allPairs, allAcesSuited, aceTen, kingTen, queenTen, jackTen, str
 
 var allEnums = [Stage, StackState, Street, Position, MovesBefore];
 
+/*
 for (var i in allCards) {
     for (var j in allCards[i]) {
         document.write(allCards[i][j] + '; ');
     }
     document.write('<hr>');
 }
-
 var checkbox = document.createElement("INPUT");
 checkbox.setAttribute("type", "checkbox");
 checkbox.setAttribute("name", "name");
 checkbox.setAttribute("value", "value");
-
 document.body.appendChild(checkbox);
-
 var checkbox = document.getElementsByName('name')[0];
-
 document.write(checkbox.getAttribute('value'));
+*/
+
+function Checkbox(value, checked) {
+    var self = this;
+    self.value = value;
+    self.checked = ko.observable(checked);
+    self.available = true;
+}
+
+function BotViewModel() {
+    var self = this;
+
+    getObservableCheckboxArray = function (values) {
+        var array = ko.observableArray();
+        values.forEach(function (value) {
+            array.push(new Checkbox(value, false));
+        });
+        return array;
+    };
+
+    self.stages = getObservableCheckboxArray(Stage);
+}
+
+ko.applyBindings(new BotViewModel());

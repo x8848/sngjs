@@ -3,8 +3,19 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>test js</title>
-    <script src="enums.js"></script>
 </head>
 <body>
+
+<span>Stage:</span>
+
+<div style="display: inline" data-bind="foreach: stages">
+    <input type="checkbox" data-bind="checked: checked"/>
+    <span data-bind="text: value"></span>
+</div>
+
+<p data-bind="text: stages()[0].checked"></p>
+
+<script src="http://ajax.aspnetcdn.com/ajax/knockout/knockout-3.0.0.js"></script>
+<script src="enums.js"></script>
 </body>
 </html>
