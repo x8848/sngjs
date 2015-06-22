@@ -1,10 +1,4 @@
-function Enum() {
-    for (var i in arguments) {
-        this[arguments[i]] = i;
-    }
-}
-
-var Hand = new Enum(
+var Hand = [
     'HighCard',
     'OnePair',
     'TwoPairs',
@@ -13,43 +7,43 @@ var Hand = new Enum(
     'Flush',
     'FullHouse',
     'Quads',
-    'StraightFlush');
+    'StraightFlush'];
 
-var Move = new Enum(
+var Move = [
     'Check',
     'Call',
     'Raise',
-    'Fold');
+    'Fold'];
 
-var MovesBefore = new Enum(
+var MovesBefore = [
     'NoRaise',
     'Raise',
     'ReRaise',
-    'Cap');
+    'Cap'];
 
-var Position = new Enum(
+var Position = [
     'Button',
     'SmallBlind',
     'BigBlind',
     'UnderTheGun',
     'UnderTheGunPlus',
-    'CutOff');
+    'CutOff'];
 
-var StackState = new Enum(
+var StackState = [
     'PushFold',
     'Average',
-    'Monster');
+    'Monster'];
 
 var Stage = [
     'Early',
     'Middle',
     'Late'];
 
-var Street = new Enum(
+var Street = [
     'PreFlop',
     'Flop',
     'Turn',
-    'River');
+    'River'];
 
 //////////// Cards ////////////
 
@@ -108,29 +102,42 @@ var straightFlashDro = [
 
 var allCards = [allPairs, allAcesSuited, aceTen, kingTen, queenTen, jackTen, straightFlashDro];
 
-var allEnums = [Stage, StackState, Street, Position, MovesBefore];
+var allEnums = {
+    Stage: Stage,
+    StackState: StackState,
+    Street: Street,
+    Position: Position,
+    MovesBefore: MovesBefore
+};
+
 
 /*
-for (var i in allCards) {
-    for (var j in allCards[i]) {
-        document.write(allCards[i][j] + '; ');
-    }
-    document.write('<hr>');
-}
-var checkbox = document.createElement("INPUT");
-checkbox.setAttribute("type", "checkbox");
-checkbox.setAttribute("name", "name");
-checkbox.setAttribute("value", "value");
-document.body.appendChild(checkbox);
-var checkbox = document.getElementsByName('name')[0];
-document.write(checkbox.getAttribute('value'));
-*/
+ for (var i in allCards) {
+ for (var j in allCards[i]) {
+ document.write(allCards[i][j] + '; ');
+ }
+ document.write('<hr>');
+ }
+ var checkbox = document.createElement("INPUT");
+ checkbox.setAttribute("type", "checkbox");
+ checkbox.setAttribute("name", "name");
+ checkbox.setAttribute("value", "value");
+ document.body.appendChild(checkbox);
+ var checkbox = document.getElementsByName('name')[0];
+ document.write(checkbox.getAttribute('value'));
+ */
 
 function Checkbox(value, checked) {
     var self = this;
     self.value = value;
     self.checked = ko.observable(checked);
     self.available = true;
+}
+
+function Event(name, values) {
+    var self = this;
+    self.name = name;
+    self.values = values;
 }
 
 function BotViewModel() {
@@ -144,7 +151,17 @@ function BotViewModel() {
         return array;
     };
 
-    self.stages = getObservableCheckboxArray(Stage);
+
+    getEnums = function () {
+        var local = [];
+        for (var name in allEnums) {
+            //local.push(name, getObservableCheckboxArray(allEnums[name]));
+            local.push(name, allEnums[name]);
+        }
+        return local;
+    };
+
+    self.enums = getEnums();
 }
 
 ko.applyBindings(new BotViewModel());
