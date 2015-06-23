@@ -13,9 +13,11 @@ $.getJSON("/sng/domain.json", function (json) {
     });
 
     viewModel = ko.mapping.fromJS(json);
-    ko.applyBindings(viewModel);
-
     viewModel.checkStreet = function () {
-        alert(this.menu); // TODO: doesn't get data from model
+        (ko.unwrap(this.menu)).forEach(function (object) {
+            console.log(ko.unwrap(object.name));
+        });
     };
+
+    ko.applyBindings(viewModel);
 });
