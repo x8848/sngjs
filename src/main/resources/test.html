@@ -18,6 +18,8 @@
 </head>
 <body>
 
+<button style="width: 100%" data-bind="click: $root.checkStreet">hello</button>
+
 <div data-bind="foreach: menu">
     <div data-bind="attr: {id: name}">
         <span data-bind="text: name"></span>:
@@ -25,9 +27,8 @@
             <!--<input type="checkbox" data-bind="attr: { id: $data}"/> &lt;!&ndash;data-bind="checked: checked"/>&ndash;&gt;-->
             <!--<label data-bind="text: $data, attr: {for: $data}"></label>-->
             <label>
-                <input type="checkbox"
-                       data-bind="attr:{'disabled': ($parent.name == 'Street') && ($data == true)? disabled : null}"/>
-                <span data-bind="text: $data"/>
+                <input type="checkbox" data-bind='checked: checked'/>
+                <span data-bind="text: name"/>
             </label>
         </div>
     </div>
@@ -38,19 +39,12 @@
         <tr>
             <td data-bind="text: name"></td>
             <td>
-                <!--
-                                <select data-bind="foreach: $root.move">
-                                    <option data-bind="text: $data, attr: {'selected' : $data==move ? selected : null" }></option>
-                                </select>
-                -->
-                <select data-bind="options: $root.move, selectedOptions: move"></select>
+                <select data-bind="options: $root.move, value: move"></select>
             </td>
         </tr>
         </tr>
     </table>
 </div>
-
-<!--<p data-bind="text: stages()[0].checked"></p>-->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
