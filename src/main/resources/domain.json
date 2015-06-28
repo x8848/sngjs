@@ -6,7 +6,8 @@
         "Early",
         "Middle",
         "Late"
-      ]
+      ],
+      "checked": "Early"
     },
     {
       "name": "Stack",
@@ -14,7 +15,8 @@
         "PushFold",
         "Average",
         "Monster"
-      ]
+      ],
+      "checked": "PushFold"
     },
     {
       "name": "Street",
@@ -23,7 +25,8 @@
         "Flop",
         "Turn",
         "River"
-      ]
+      ],
+      "checked": "PreFlop"
     },
     {
       "name": "Position",
@@ -34,7 +37,8 @@
         "UnderTheGun",
         "UnderTheGunPlus",
         "CutOff"
-      ]
+      ],
+      "checked": "Button"
     },
     {
       "name": "MoveBefore",
@@ -43,7 +47,8 @@
         "Raise",
         "ReRaise",
         "Cap"
-      ]
+      ],
+      "checked": "Cap"
     },
     {
       "name": "Hand",
@@ -57,11 +62,11 @@
         "FullHouse",
         "Quads",
         "StraightFlush"
-      ]
+      ],
+      "checked": "Quads"
     }
   ],
   "move": [
-    "----",
     "Check",
     "Call",
     "Raise",

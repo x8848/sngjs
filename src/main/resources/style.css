@@ -1,0 +1,19 @@
+input, label, select {
+    cursor: pointer;
+}
+
+.Check {
+    background-color: darkgrey;
+}
+
+.Call {
+    background-color: yellow;
+}
+
+.Raise {
+    background-color: lawngreen;
+}
+
+.Fold {
+    background-color: hotpink;
+}

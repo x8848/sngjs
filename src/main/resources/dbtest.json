@@ -1,0 +1,219 @@
+{
+  "menu": [
+    {
+      "name": "Stage",
+      "values": [
+        "Early",
+        "Middle",
+        "Late"
+      ],
+      "checked": "Early"
+    },
+    {
+      "name": "Stack",
+      "values": [
+        "PushFold",
+        "Average",
+        "Monster"
+      ],
+      "checked": "PushFold"
+    },
+    {
+      "name": "Street",
+      "values": [
+        "PreFlop",
+        "Flop",
+        "Turn",
+        "River"
+      ],
+      "checked": "PreFlop"
+    },
+    {
+      "name": "Position",
+      "values": [
+        "Button",
+        "SmallBlind",
+        "BigBlind",
+        "UnderTheGun",
+        "UnderTheGunPlus",
+        "CutOff"
+      ],
+      "checked": "Button"
+    },
+    {
+      "name": "MoveBefore",
+      "values": [
+        "NoRaise",
+        "Raise",
+        "ReRaise",
+        "Cap"
+      ],
+      "checked": "NoRaise"
+    },
+    {
+      "name": "Hand",
+      "values": [
+        "HighCard",
+        "OnePair",
+        "TwoPairs",
+        "Set",
+        "Straight",
+        "Flush",
+        "FullHouse",
+        "Quads",
+        "StraightFlush"
+      ],
+      "checked": "Flush"
+    }
+  ],
+  "move": [
+    "Check",
+    "Call",
+    "Raise",
+    "Fold"
+  ],
+  "cards": [
+    [
+      {
+        "name": "AA-KK",
+        "move": "Check"
+      },
+      {
+        "name": "QQ",
+        "move": "Call"
+      },
+      {
+        "name": "JJ",
+        "move": "Raise"
+      },
+      {
+        "name": "TT",
+        "move": "Raise"
+      },
+      {
+        "name": "99",
+        "move": "Raise"
+      },
+      {
+        "name": "88-77",
+        "move": "Raise"
+      },
+      {
+        "name": "66-22",
+        "move": "Raise"
+      }
+    ],
+    [
+      {
+        "name": "AKs",
+        "move": "Fold"
+      },
+      {
+        "name": "AQs",
+        "move": "Fold"
+      },
+      {
+        "name": "AJs",
+        "move": "Fold"
+      },
+      {
+        "name": "ATs",
+        "move": "Fold"
+      },
+      {
+        "name": "A9s",
+        "move": "Fold"
+      },
+      {
+        "name": "A8s-A2s",
+        "move": "Fold"
+      }
+    ],
+    [
+      {
+        "name": "AK",
+        "move": "Fold"
+      },
+      {
+        "name": "AQ",
+        "move": "Fold"
+      },
+      {
+        "name": "AJ",
+        "move": "Fold"
+      },
+      {
+        "name": "AT",
+        "move": "Fold"
+      }
+    ],
+    [
+      {
+        "name": "KQs",
+        "move": "Fold"
+      },
+      {
+        "name": "KJs",
+        "move": "Fold"
+      },
+      {
+        "name": "KTs",
+        "move": "Fold"
+      },
+      {
+        "name": "KQ",
+        "move": "Fold"
+      },
+      {
+        "name": "KJ",
+        "move": "Fold"
+      },
+      {
+        "name": "KT",
+        "move": "Fold"
+      }
+    ],
+    [
+      {
+        "name": "QJs",
+        "move": "Fold"
+      },
+      {
+        "name": "QTs",
+        "move": "Fold"
+      },
+      {
+        "name": "QJ",
+        "move": "Fold"
+      },
+      {
+        "name": "QT",
+        "move": "Fold"
+      }
+    ],
+    [
+      {
+        "name": "JTs",
+        "move": "Fold"
+      },
+      {
+        "name": "JT",
+        "move": "Fold"
+      }
+    ],
+    [
+      {
+        "name": "T9s-65s",
+        "move": "Fold"
+      },
+      {
+        "name": "T8s-97s",
+        "move": "Fold"
+      },
+      {
+        "name": "XXs",
+        "move": "Fold"
+      }
+    ]
+  ]
+}

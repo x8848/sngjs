@@ -3,6 +3,7 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>test js</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <style>
         table, th, td {
             border: 1px solid black;
@@ -11,26 +12,25 @@
 
         th, td {
             padding: 5px;
-            width: 200px;
+            width: 300px;
             text-align: center;
         }
     </style>
 </head>
 <body>
 
-<button style="width: 100%" data-bind="click: $root.checkStreet">hello</button>
+<button style="width: 200px" data-bind="click: check">hello</button>
 
 <div data-bind="foreach: menu">
     <div data-bind="attr: {id: name}">
         <span data-bind="text: name"></span>:
-        <div style="display: inline" data-bind="foreach: values">
-            <!--<input type="checkbox" data-bind="attr: { id: $data}"/> &lt;!&ndash;data-bind="checked: checked"/>&ndash;&gt;-->
-            <!--<label data-bind="text: $data, attr: {for: $data}"></label>-->
-            <label>
-                <input type="checkbox" data-bind='checked: checked'/>
-                <span data-bind="text: name"/>
-            </label>
-        </div>
+        <!-- ko foreach: values -->
+        <label>
+            <!--<input type="checkbox" data-bind='checked: checked'/>-->
+            <input type="radio" data-bind='attr: {name: $parent.name, value: $data}, checked: $parent.checked'/>
+            <span data-bind="text: $data"/>
+        </label>
+        <!-- /ko -->
     </div>
 </div>
 
@@ -38,8 +38,11 @@
     <table data-bind="foreach: $data">
         <tr>
             <td data-bind="text: name"></td>
-            <td>
-                <select data-bind="options: $root.move, value: move"></select>
+            <td data-bind="foreach: $root.move">
+                <label> <!--<label data-bind="attr:{class: $data}">-->
+                    <input type="radio" data-bind="attr: {name: $parent.name, value: $data}, checked: $parent.move"/>
+                    <span data-bind="text: $data"/>
+                </label>
             </td>
         </tr>
         </tr>
